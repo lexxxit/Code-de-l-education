@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2001-02-24
+Version Consolidée au 2001-07-07
 
 # Partie législative
 
@@ -7453,6 +7453,38 @@ l'achat de produits fabriqués par des enfants dans des conditions contraires au
 	  - Code de l'éducation - art. L122-1 (T)
 
 
+##### Section 9 : L'éducation à la santé et à la sexualité
+
+###### Article L312-16
+
+Une information et une éducation à la sexualité sont dispensées dans les écoles, les collèges et les lycées à raison d'au
+moins trois séances annuelles et par groupes d'âge homogène. Ces séances pourront associer les personnels contribuant à la
+mission de santé scolaire et des personnels des établissements mentionnés au premier alinéa de l'article L. 2212-4 du code de
+la santé publique ainsi que d'autres intervenants extérieurs conformément à l'article 9 du décret n° 85-924 du 30 août 1985
+relatif aux établissements publics locaux d'enseignement. Des élèves formés par un organisme agréé par le ministère de la
+santé pourront également y être associés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 9 (M)
+	  - Code de la santé publique - art. L2212-4 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2001-588 du 4 juillet 2001 - art. 22 () JORF 7 juillet 2001
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L372-1 (V)
+
+
 ##### Chapitre III : L'information et l'orientation.
 
 ###### Article L313-1
@@ -10516,9 +10548,10 @@ références aux dispositions, ayant le même objet, qui y sont applicables.
 
 ###### Article L372-1
 
-Sont applicables à Mayotte les articles L. 311-1 à L. 311-6, L. 312-1 à L. 312-4, L. 312-7, L. 312-12, L. 312-15, L. 313-1,
-L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1,
-L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2, L. 337-1, L. 363-1 à L. 363-4.
+Sont applicables à Mayotte les articles L. 311-1 à L. 311-6, L. 312-1 à L. 312-4, L. 312-7, L. 312-12, L. 312-15, L. 312-16,
+L. 313-1, L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3,
+L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L. 336-2, L. 337-1, L. 363-1 à L.
+363-4.
 
 **Liens relatifs à cet article**
 
@@ -10532,11 +10565,17 @@ L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-588 du 4 juillet 2001 - art. 28 () JORF 7 juillet 2001
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L312-12 (V)
 	  - Code de l'éducation - art. L312-15 (M)
+	  - Code de l'éducation - art. L312-16 (M)
 	  - Code de l'éducation - art. L312-7 (V)
 	  - Code de l'éducation - art. L313-1 (M)
 	  - Code de l'éducation - art. L313-2 (V)
@@ -10544,7 +10583,7 @@ L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L
 	  - Code de l'éducation - art. L336-1 (V)
 	  - Code de l'éducation - art. L336-2 (V)
 	  - Code de l'éducation - art. L337-1 (V)
-	  - Code de l'éducation L311-1 à L311-6, L312-1 à L312-4, L312-7, L312-12, L312-15, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à L335-11, L335-14 à L335-16, L336-1,
+	  - Code de l'éducation L311-1 à L311-6, L312-1 à L312-4, L312-7, L312-12, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à L335-11, L335-14 à L335-16
 
 
 ###### Article L372-2
