@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2003-12-20
+Version Consolidée au 2003-12-31
 
 # Partie législative
 
@@ -4370,6 +4370,9 @@ A l'occasion de la mise en oeuvre de ce plan, la collectivité territoriale de C
 l'Association nationale pour la formation professionnelle des adultes, dont elle arrête le programme des formations et le
 programme des opérations d'équipement pour la Corse.
 
+Elle assure les actions d'insertion professionnelle des jeunes dans les conditions prévues pour les régions aux articles L.
+4253-6 à L. 4253-10.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -4377,7 +4380,7 @@ programme des opérations d'équipement pour la Corse.
 	  - Code rural L811-8
 	  - Code général des collectivités territoriales - art. L4424-34 (M)
 	  - Code général des collectivités territoriales L4424-1 à L4424-5, L4424-34
-	  - Code de l'éducation L4424-3, L214-12 à L214-16
+	  - Code de l'éducation L4424-3, L214-12 à L214-16, L4253-6 à L4253-10
 
 	**Codifié par**:
 
@@ -4386,7 +4389,7 @@ programme des opérations d'équipement pour la Corse.
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2003-1311 2003-12-30 art. 138 II Finances pour 2004 JORF 31 décembre 2003
 
 	**Cité par**:
 
