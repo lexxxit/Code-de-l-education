@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-18
 
 # Partie législative
 
@@ -665,19 +665,28 @@ présent code, l'apprentissage est une forme d'éducation alternée, qui concour
 Les missions et les objectifs de la formation professionnelle continue dans le cadre de l'éducation permanente sont fixés par
 les dispositions de l'article L. 900-1 du code du travail, ci-après reproduites :
 
-" Art. L. 900-1. - La formation professionnelle permanente constitue une obligation nationale. Elle comporte une formation
+"Art. L. 900-1. - La formation professionnelle permanente constitue une obligation nationale. Elle comporte une formation
 initiale et des formations ultérieures destinées aux adultes et aux jeunes déjà engagés dans la vie active ou qui s'y
 engagent. Ces formations ultérieures constituent la formation professionnelle continue.
 
 La formation professionnelle continue fait partie de l'éducation permanente. Elle a pour objet de permettre l'adaptation des
-travailleurs aux changements des techniques et des conditions de travail, de favoriser leur promotion sociale par l'accès aux
+travailleurs au changement des techniques et des conditions de travail, de favoriser leur promotion sociale par l'accès aux
 différents niveaux de la culture et de la qualification professionnelle et leur contribution au développement culturel,
 économique et social. Elle peut être dispensée à des salariés titulaires d'un contrat de travail prévoyant une formation en
 alternance.
 
 L'Etat, les collectivités locales, les établissements publics, les établissements d'enseignement publics et privés, les
 associations, les organisations professionnelles, syndicales et familiales, ainsi que les entreprises, concourent à
-l'assurer. "
+l'assurer.
+
+Toute personne engagée dans la vie active est en droit de faire valider les acquis de son expérience, notamment
+professionnelle, en vue de l'acquisition d'un diplôme, d'un titre à finalité professionnelle ou d'un certificat de
+qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle,
+enregistrés dans le répertoire national des certifications professionnelles visé à l'article L. 335-6 du code de l'éducation.
+Lorsque la personne en cause est salariée, elle peut bénéficier d'un congé pour validation des acquis de l'expérience dans
+les conditions de durée prévues à l'article L. 931-22 et selon les modalités fixées aux articles L. 931-23, L. 931-25 et L.
+931-26 ainsi qu'aux premier et deuxième alinéas de l'article L. 931-24. Les conditions d'application de ces dispositions sont
+fixées par décret en Conseil d'Etat."
 
 **Liens relatifs à cet article**
 
@@ -686,8 +695,14 @@ l'assurer. "
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 133 () JORF 18 janvier 2002
+
 	**Cite**:
 
+	  - Code de l'éducation - art. L335-6 (M)
+	  - Code de l'éducation L335-6, L931-22, L931-23, L931-25, L931-26, L931-24
 	  - Code du travail - art. L900-1 (M)
 
 
@@ -2268,13 +2283,16 @@ collectivité compétente.
 ###### Article L211-3
 
 L'Etat peut créer exceptionnellement des établissements d'enseignement public du premier et du second degré dont la propriété
-est transférée de plein droit à la collectivité territoriale compétente en vertu du présent titre.
+est transférée de plein droit à la collectivité territoriale compétente en vertu du présent titre. 
 
 Les créations ne peuvent intervenir que dans le cas où la collectivité compétente refuse de pourvoir à une organisation
 convenable du service public. Elles doivent, en ce qui concerne les établissements du second degré, être compatibles avec le
 schéma prévisionnel des formations prévu à l'article L. 214-1.
 
-Le montant des crédits affectés à ces créations est déterminé chaque année par la loi de finances.
+L'Etat fait l'avance des frais de construction des établissements publics qu'il crée en application du présent article. Le
+remboursement de cette avance constitue, pour la collectivité, une dépense obligatoire au sens de l'article L. 1612-15 du
+code général des collectivités territoriales. Le montant des crédits affectés par l'Etat à ces dépenses est déterminé chaque
+année par la loi de finances. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article, et notamment les conditions dans lesquelles
 le représentant de l'Etat peut procéder aux acquisitions, autoriser les constructions et faire exécuter les travaux.
@@ -2288,10 +2306,16 @@ le représentant de l'Etat peut procéder aux acquisitions, autoriser les constr
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 81 () JORF 18 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1 (M)
+	  - Code général des collectivités territoriales - art. L1612-15 (V)
+	  - Code de l'éducation - art. L214-1 (V)
 
 	**Cité par**:
 
@@ -4979,8 +5003,7 @@ Le Conseil supérieur de l'éducation statue en appel et en dernier ressort :
 1° Sur les jugements rendus en matière contentieuse et en matière disciplinaire par les conseils académiques de l'éducation
 nationale ;
 
-2° Sur les décisions disciplinaires et contentieuses rendues par les comités départementaux de la formation professionnelle,
-de la promotion sociale et de l'emploi ;
+2° Sur les décisions disciplinaires et contentieuses rendues par les comités départementaux de l'emploi ;
 
 3° Sur les décisions prises par la commission des titres d'ingénieurs relativement aux écoles privées légalement ouvertes qui
 demandent à délivrer les diplômes d'ingénieur.
@@ -4994,6 +5017,11 @@ demandent à délivrer les diplômes d'ingénieur.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -5849,16 +5877,15 @@ de la promotion sociale et de l'emploi, par un conseil national de la formation 
 de l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
 intéressés.
 
-Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de la formation
-professionnelle, de la promotion sociale et de l'emploi.
+Sont institués, suivant les mêmes principes, des comités régionaux et des comités départementaux de l'emploi.
 
-Dans chacune des régions d'outre-mer, le comité régional de la formation professionnelle, de la promotion sociale et de
-l'emploi exerce l'ensemble des attributions dévolues au comité régional et au comité départemental de la formation
-professionnelle, de la promotion sociale et de l'emploi.
+Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
+exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation professionnelle
+et au comité départemental de l'emploi.
 
-Dans des conditions définies par décret, les comités régionaux de la formation professionnelle, de la promotion sociale et de
-l'emploi sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour
-l'emploi et par l'Association nationale pour la formation professionnelle des adultes.
+Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
+sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour l'emploi et par
+l'Association nationale pour la formation professionnelle des adultes.
 
 Chaque comité régional est informé notamment des contrats conclus entre l'Etat et ces deux organismes et est consulté sur les
 projets de conventions tripartites à conclure entre l'Etat, la région et chacun de ces organismes en vue de l'adaptation de
@@ -5869,10 +5896,9 @@ Dans les régions d'outre-mer les conventions tripartites mentionnées à l'alin
 lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi comprennent des
-représentants élus des collectivités territoriales et les parlementaires du département. Ces comités se réunissent au moins
-une fois par an sous la présidence du préfet du département qui, à cette occasion, présente le bilan de la politique de
-l'emploi et de la formation professionnelle dans le département.
+Les comités départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et les
+parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés à l'alinéa précédent bénéficient pendant les heures qu'ils consacrent à leur
 mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
@@ -5897,6 +5923,11 @@ Ces différentes actions et initiatives peuvent aussi bien porter sur la formati
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -5908,14 +5939,19 @@ Ces différentes actions et initiatives peuvent aussi bien porter sur la formati
 
 ###### Article L237-2
 
-Les comités départementaux de la formation professionnelle, de la promotion sociale et de l'emploi sont notamment appelés à
-donner leur avis sur les demandes de reconnaissance par l'Etat présentées par les établissements d'enseignement technique
-privés et par les établissements d'enseignement et de formation professionnelle agricoles privés.
+Les comités départementaux de l'emploi sont notamment appelés à donner leur avis sur les demandes de reconnaissance par
+l'Etat présentées par les établissements d'enseignement technique privés et par les établissements d'enseignement et de
+formation professionnelle agricoles privés.
 
 Les attributions juridictionnelles de ces comités sont exercées par des commissions spécialisées, présidées par un
 représentant de l'administration et composées d'un nombre égal, d'une part, de représentants des enseignants publics et
 privés, d'autre part, des organismes et des organisations professionnels d'employeurs et de salariés et, en troisième lieu,
 de représentants de l'administration.
+
+**Nota:**
+
+NOTA : Le 5° de l'article 78 de la loi n° 2004-809 abroge de nouveau cet article avec entrée en vigueur le 1er janvier 2005.
+NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -5927,6 +5963,16 @@ de représentants de l'administration.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
+	  - Loi n°2004-809 2004-08-13 art. 78 5° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -8491,27 +8537,35 @@ structures pédagogiques appropriées.
 
 ###### Article L335-5
 
-Les titres ou diplômes de l'enseignement technologique sont acquis par les voies scolaires et universitaires, par
-l'apprentissage ou la formation professionnelle continue ou par la validation d'acquis professionnels pour remplacer une
-partie des épreuves.
+I. - Les diplômes ou les titres à finalité professionnelle sont obtenus par les voies scolaire et universitaire, par
+l'apprentissage, par la formation professionnelle continue ou, en tout ou en partie, par la validation des acquis de
+l'expérience.
 
-Toute personne qui a exercé pendant cinq ans une activité professionnelle en rapport avec l'objet de sa demande peut demander
-la validation d'acquis professionnels qui peuvent être pris en compte pour justifier d'une partie des connaissances et des
-aptitudes exigées pour l'obtention d'un diplôme de l'enseignement technologique.
+La validation des acquis produit les mêmes effets que les autres modes de contrôle des connaissances et aptitudes.
 
-La validation des acquis professionnels prévue à l'alinéa précédent est effectuée par un jury qui comprend, outre les
-enseignants-chercheurs ou les enseignants qui en constituent la majorité, des personnes compétentes dans les activités
-concernées. Le jury apprécie la demande au vu d'un dossier constitué par le candidat. Il détermine les épreuves dont le
-candidat est dispensé pour tenir compte des acquis ainsi validés.
+Peuvent être prises en compte, au titre de la validation, l'ensemble des compétences professionnelles acquises dans
+l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu du diplôme ou du titre. La
+durée minimale d'activité requise ne peut être inférieure à trois ans.
 
-La validation d'acquis professionnels produit les mêmes effets que le succès à l'épreuve dont le candidat a été dispensé.
+La validation est effectuée par un jury dont la composition garantit une présence significative de représentants qualifiés
+des professions concernées.
 
-La pédagogie et le contrôle des aptitudes et de l'acquisition des connaissances peuvent différer selon les caractéristiques
-spécifiques de chacune de ces voies.
+Le jury peut attribuer la totalité du diplôme ou du titre. A défaut, il se prononce sur l'étendue de la validation et, en cas
+de validation partielle, sur la nature des connaissances et aptitudes devant faire l'objet d'un contrôle complémentaire.
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont pris en compte les acquis professionnels pour la
-validation mentionnée au premier alinéa et notamment les conditions dans lesquelles le jury est constitué et peut déterminer
-les épreuves prévues au troisième alinéa.
+Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'un entretien à son initiative ou à l'initiative
+du candidat et, le cas échéant, d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette procédure est
+prévue par l'autorité qui délivre la certification.
+
+Un décret en Conseil d'Etat détermine les conditions d'application des dispositions des troisième et quatrième alinéas,
+notamment les règles selon lesquelles le jury est constitué. Cette composition concourt à une représentation équilibrée entre
+les femmes et les hommes. Il détermine également les conditions dans lesquelles il peut être dérogé aux dispositions du
+premier alinéa, pour des raisons tenant à la nature des diplômes ou titres en cause ou aux conditions d'exercice des
+professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au cinquième alinéa.
+
+II. - Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements
+publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le
+préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.
 
 **Liens relatifs à cet article**
 
@@ -8876,6 +8930,11 @@ les épreuves prévues au troisième alinéa.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 134 () JORF 18 janvier 2002
 
 	**Liens**:
 
@@ -8884,15 +8943,34 @@ les épreuves prévues au troisième alinéa.
 
 ###### Article L335-6
 
-Les titres ou diplômes de l'enseignement technologique peuvent porter mention que leurs titulaires ont subi ultérieurement,
-avec succès, des épreuves consacrant l'actualisation de leurs connaissances.
+I. - Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par
+arrêté des ministres compétents, après avis d'instances consultatives associant les organisations représentatives
+d'employeurs et de salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1,
+L. 641-4 et L. 641-5 du présent code et L. 811-2 et L. 813-2 du code rural.
 
-Ces titres ou diplômes sont inscrits sur une liste d'homologation ; cette inscription est de droit s'ils sont délivrés par le
-ministre chargé de l'éducation ou par le ministre de l'agriculture.
+II. - II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité
+professionnelle y sont classés par domaine d'activité et par niveau.
 
-Ceux des titres ou diplômes qui sanctionnent une formation professionnelle dispensée dans des établissements qui ne sont pas
-placés sous le contrôle du ministre chargé de l'éducation sont inscrits dans des conditions fixées par décret sur la liste
-d'homologation prévue à l'alinéa précédent.
+Les diplômes et titres à finalité professionnelle, ainsi que les certificats de qualification figurant sur une liste établie
+par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés, par arrêté du
+Premier ministre, à la demande des organismes les ayant créés et après avis de la Commission nationale de la certification
+professionnelle.
+
+Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations
+représentatives d'employeurs et de salariés sont enregistrés de droit dans ce répertoire.
+
+La Commission nationale de la certification professionnelle, placée auprès du Premier ministre, établit et actualise le
+répertoire national des certifications professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et
+titres à l'évolution des qualifications et de l'organisation du travail.
+
+Elle émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou
+des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une
+branche professionnelle ; en vue d'assurer l'information des particuliers et des entreprises, elle leur signale notamment les
+éventuelles correspondances totales ou partielles entre les certifications enregistrées dans le répertoire national, ainsi
+qu'entre ces dernières et d'autres certifications, notamment européennes.
+
+Un décret en Conseil d'Etat détermine les conditions d'enregistrement des diplômes et titres dans le répertoire national
+ainsi que la composition et les attributions de la commission.
 
 **Liens relatifs à cet article**
 
@@ -9009,11 +9087,11 @@ d'homologation prévue à l'alinéa précédent.
 	  - Arrêté du 13 août 2014 (V)
 	  - Arrêté du 27 août 2014 (V)
 	  - Arrêté du 5 septembre 2014 (V)
-	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 12 (V)
 	  - Arrêté du 6 novembre 2014 (V)
+	  - Arrêté du 31 décembre 2014 - art. 1 (V)
+	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 12 (V)
 	  - Arrêté du 15 décembre 2014 (V)
 	  - Arrêté du 15 décembre 2014 (VD)
-	  - Arrêté du 31 décembre 2014 - art. 1 (V)
 	  - Arrêté du 17 février 2015 (V)
 	  - Arrêté du 5 février 2015 (V)
 	  - Arrêté du 16 février 2015 (V)
@@ -9149,6 +9227,11 @@ d'homologation prévue à l'alinéa précédent.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 134 () JORF 18 janvier 2002
 
 	**Liens**:
 
@@ -9161,6 +9244,15 @@ d'homologation prévue à l'alinéa précédent.
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 6 (AbD)
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 7 (Ab)
 	  - PILOTE_SUIVEUR: Code du travail - art. L6412-1 (V)
+
+	**Cite**:
+
+	  - Code rural L811-2, L813-2
+	  - Code de l'éducation - art. L331-1 (M)
+	  - Code de l'éducation - art. L335-14 (V)
+	  - Code de l'éducation - art. L613-1 (M)
+	  - Code de l'éducation - art. L641-4 (M)
+	  - Code de l'éducation - art. L641-5 (V)
 
 
 ###### Article L335-7
@@ -9662,7 +9754,7 @@ d'apprentis créé par convention selon les dispositions de l'article L. 116-2 e
 au niveau régional par une organisation professionnelle ou interprofessionnelle, une chambre régionale de commerce et
 d'industrie, une chambre régionale de métiers, une chambre régionale d'agriculture ou un groupement d'entreprises en vue de
 développer les formations en apprentissage. La création de cette association est subordonnée à un avis favorable motivé du
-comité régional de la formation professionnelle, de la promotion sociale et de l'emploi.
+comité de la formation professionnelle, de la promotion sociale et de l'emploi.
 
 Les conventions mentionnées aux cinquième et sixième alinéas sont passées avec les établissements en application du plan
 régional de développement des formations professionnelles des jeunes mentionné à l'article L. 214-13 du code de l'éducation.
@@ -9677,9 +9769,9 @@ les conditions prévues par le décret mentionné à l'article L. 119-4, en fonc
 qualification préparés. Cette durée peut être adaptée pour tenir compte du niveau initial de compétence de l'apprenti. Elle
 est alors fixée par les cocontractants en fonction de l'évaluation des compétences et après autorisation du service de
 l'inspection de l'apprentissage compétent mentionné à l'article L. 119-1. Les modalités de prise en compte de la durée prévue
-à l'alinéa précédent dans les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité régional de la
-formation professionnelle, de la promotion sociale et de l'emploi, par le conseil régional lorsque celui-ci est signataire de
-la convention.
+à l'alinéa précédent dans les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité de coordination
+régional de l'emploi et de la formation professionnelle, par le conseil régional lorsque celui-ci est signataire de la
+convention.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, par accord
 des deux parties, avant le terme fixé initialement.
@@ -9697,6 +9789,11 @@ Il n'est exigé aucune condition de délai entre deux contrats. "
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -12219,12 +12316,12 @@ de réponse négative ou de dénonciation de la convention, la décision doit ê
 par l'Etat, la demande est portée devant le groupe permanent des hauts fonctionnaires mentionné à l'article L. 910-1 et la
 décision est prise après avis de la commission permanente du Conseil national de la formation professionnelle, de la
 promotion sociale et de l'emploi. Lorsque les conventions sont passées par la région, la décision est prise après avis du
-comité régional de la formation professionnelle, de la promotion sociale et de l'emploi. Les mêmes procédures sont
-applicables en cas de dénonciation.
+comité de coordination régional de l'emploi et de la formation professionnelle. Les mêmes procédures sont applicables en cas
+de dénonciation.
 
 Les avis de la commission permanente du Conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi ou du comité régional de la formation professionnelle, de la promotion sociale et de l'emploi portent notamment sur
-les garanties de tous ordres présentées par le projet et sur son intérêt eu égard aux besoins de la formation professionnelle
+l'emploi ou du comité de coordination régional de l'emploi et de la formation professionnelle portent notamment sur les
+garanties de tous ordres présentées par le projet et sur son intérêt eu égard aux besoins de la formation professionnelle
 dans la zone d'action considérée.
 
 Les conventions créant les centres de formation d'apprentis à recrutement national doivent être conformes à une convention
@@ -12260,24 +12357,36 @@ Cette dénonciation entraîne la fermeture du centre. L'Etat ou la région peut 
 des formations en cours dans les conditions fixées par le décret prévu à l'article L. 119-4 ci-après.
 
 Le cas échéant, l'Etat ou la région peut désigner un administrateur provisoire chargé d'assurer, pour le compte de
-l'organisme gestionnaire, l'achèvement des formations en cours. "
+l'organisme gestionnaire, l'achèvement des formations en cours.
 
-" Art. L. 116-7. - Il est interdit, sous les peines prévues à l'article L. 441-13 du code de l'éducation de donner le nom de
+Art. L. 116-7. - Il est interdit, sous les peines prévues à l'article L. 441-13 du code de l'éducation de donner le nom de
 centre de formation d'apprentis à un établissement qui ne fait pas l'objet d'une convention répondant aux règles posées par
 le présent chapitre.
 
 Est puni des mêmes peines, quiconque exerce des fonctions de direction, d'enseignement ou de formation dans un centre de
 formation d'apprentis, alors qu'il est sous le coup d'une des mesures de suspension ou d'interdiction prévues à l'article
-précédent. "
+précédent.
 
-" Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les centres de formation d'apprentis ne sont pas
-soumis aux dispositions du titre IV du Livre IV du code de l'éducation. "
+Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les centres de formation d'apprentis ne sont pas
+soumis aux dispositions du titre IV du Livre IV du code de l'éducation.
+
+**Nota:**
+
+Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Les dispositions de la loi 2004-391 du 4 mai 2004 modifiant l'article L.
+116-3 du code du travail sont applicables à compter de la date de publication du décret d'application prévu au quatrième
+alinéa de l'article L910-1 du code du travail. Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février
+2005.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -12687,7 +12796,7 @@ département, au procureur de la République ou au recteur.
 ###### Article L441-12
 
 Les oppositions à l'ouverture d'un établissement d'enseignement technique privé sont jugées contradictoirement par le comité
-départemental de la formation professionnelle, de la promotion sociale et de l'emploi dans le délai d'un mois.
+départemental de l'emploi dans le délai d'un mois.
 
 Appel de la décision rendue peut être interjeté dans les dix jours à partir de la notification de cette décision. L'appel est
 reçu par le représentant de l'Etat dans le département qui doit le transmettre sans délai. Il est soumis au Conseil supérieur
@@ -12702,12 +12811,17 @@ En aucun cas l'ouverture ne peut avoir lieu avant la décision d'appel.
 
 	**Anciens textes**:
 
-	  - Code de l'enseignement technique - art. 69 (Ab)
 	  - Loi n°1919-07-25 art. 27
+	  - Code de l'enseignement technique - art. 69 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 
 ###### Article L441-13
@@ -12719,10 +12833,18 @@ L'établissement sera fermé.
 
 Est puni de la peine prévue au premier alinéa le fait, pour toute personne, dans le cas d'opposition formée à l'ouverture de
 son établissement, de l'avoir ouvert avant qu'il ait été statué sur cette opposition, ou malgré la décision du comité
-départemental de la formation professionnelle, de la promotion sociale et de l'emploi qui aurait accueilli l'opposition, ou
-avant la décision d'appel.
+départemental de l'emploi qui aurait accueilli l'opposition, ou avant la décision d'appel.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Anciens textes**:
 
@@ -12739,14 +12861,6 @@ avant la décision d'appel.
 
 	  - Code de l'éducation - art. L911-5 (M)
 	  - Code de l'éducation - art. L914-5 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-
-	**Modifié par**:
-
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés
@@ -15733,7 +15847,9 @@ conseil général et en fait connaître les motifs. "
 
 Au cours de leur sixième année, tous les enfants sont obligatoirement soumis à une visite médicale. Cette visite, à laquelle
 les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants, ne donne pas lieu à contribution
-pécuniaire de la part des familles.
+pécuniaire de la part des familles. A l'occasion de cette visite, un dépistage des troubles spécifiques du langage est
+organisé. Les médecins de l'éducation nationale travaillent en lien avec l'équipe éducative et les professionnels de santé
+afin que, pour chaque enfant, une prise en charge et un suivi adaptés soient réalisés.
 
 Des examens médicaux périodiques sont ensuite effectués pendant tout le cours de la scolarité et la surveillance sanitaire
 des élèves est exercée avec le concours d'un service social. Des décrets pris en Conseil d'Etat fixent la participation des
@@ -15744,6 +15860,11 @@ familles et des collectivités publiques aux dépenses occasionnées par ces exa
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 85 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -16443,7 +16564,7 @@ Les établissements d'enseignement supérieur permettent aux sportifs de haut ni
 les aménagements nécessaires dans l'organisation et le déroulement de leurs études.
 
 Ils favorisent l'accès des sportifs de haut niveau, qu'ils possèdent ou non des titres universitaires, à des enseignements de
-formation ou de perfectionnement, dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-5.
+formation ou de perfectionnement, dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5.
 
 **Liens relatifs à cet article**
 
@@ -16455,6 +16576,11 @@ formation ou de perfectionnement, dans les conditions définies par les articles
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -16470,8 +16596,7 @@ formation ou de perfectionnement, dans les conditions définies par les articles
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L613-5 (M)
-	  - Code de l'éducation L612-2 à L612-4, L613-5
+	  - Code de l'éducation L612-2 à L612-4, L613-3 à L613-5
 
 
 ##### Chapitre II : Déroulement des études supérieures.
@@ -16841,24 +16966,24 @@ ministre chargé de l'enseignement supérieur.
 
 ###### Article L613-1
 
-L'Etat a le monopole de la collation des grades et des titres universitaires.
+L'Etat a le monopole de la collation des grades et des titres universitaires. 
 
 Les diplômes nationaux délivrés par les établissements sont ceux qui confèrent l'un des grades ou titres universitaires dont
-la liste est établie par décret pris sur avis du Conseil national de l'enseignement supérieur et de la recherche. Ils ne
-peuvent être délivrés qu'au vu des résultats du contrôle des connaissances et des aptitudes appréciés par les établissements
-habilités à cet effet par le ministre chargé de l'enseignement supérieur après avis du Conseil national de l'enseignement
-supérieur et de la recherche. Un diplôme national confère les mêmes droits à tous ses titulaires, quel que soit
-l'établissement qui l'a délivré.
+la liste est établie par décret pris sur avis du Conseil national de l'enseignement supérieur et de la recherche. Sous
+réserve des dispositions des articles L. 613-3 et L. 613-4, ils ne peuvent être délivrés qu'au vu des résultats du contrôle
+des connaissances et des aptitudes appréciés par les établissements habilités à cet effet par le ministre chargé de
+l'enseignement supérieur après avis du Conseil national de l'enseignement supérieur et de la recherche. Un diplôme national
+confère les mêmes droits à tous ses titulaires, quel que soit l'établissement qui l'a délivré. 
 
 Les règles communes pour la poursuite des études conduisant à des diplômes nationaux, les conditions d'obtention de ces
 titres et diplômes, le contrôle de ces conditions et les modalités de protection des titres qu'ils confèrent, sont définis
 par arrêté du ministre chargé de l'enseignement supérieur, après avis ou proposition du Conseil national de l'enseignement
-supérieur et de la recherche.
+supérieur et de la recherche. 
 
 Les aptitudes et l'acquisition des connaissances sont appréciées, soit par un contrôle continu et régulier, soit par un
 examen terminal, soit par ces deux modes de contrôle combinés. Les modalités de ce contrôle tiennent compte des contraintes
 spécifiques des étudiants accueillis au titre de la formation continue. Elles doivent être arrêtées dans chaque établissement
-au plus tard à la fin du premier mois de l'année d'enseignement et elles ne peuvent être modifiées en cours d'année.
+au plus tard à la fin du premier mois de l'année d'enseignement et elles ne peuvent être modifiées en cours d'année. 
 
 Seuls peuvent participer aux jurys et être présents aux délibérations des enseignants-chercheurs, des enseignants, des
 chercheurs ou, dans des conditions et selon des modalités prévues par voie réglementaire, des personnalités qualifiées ayant
@@ -16946,6 +17071,15 @@ l'enseignement.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L613-3 (V)
 
 
 ###### Article L613-2
@@ -16977,13 +17111,16 @@ propres ou préparant à des examens ou des concours.
 	  - Code de l'éducation - art. L752-1 (M)
 
 
-##### Section 2 : Validation d'acquis professionnels pour la délivrance de diplômes.
+##### Section 2 : Validation des acquis de l'expérience pour la délivrance des diplômes
 
 ###### Article L613-3
 
-Toute personne qui a exercé pendant cinq ans une activité professionnelle peut demander la validation d'acquis professionnels
-qui peuvent être pris en compte pour justifier d'une partie des connaissances et des aptitudes exigées pour l'obtention d'un
-diplôme de l'enseignement supérieur.
+Toute personne qui a exercé pendant au moins trois ans une activité professionnelle, salariée, non salariée ou bénévole, en
+rapport avec l'objet de sa demande, peut demander la validation des acquis de son expérience pour justifier tout ou partie
+des connaissances et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un
+établissement d'enseignement supérieur.
+
+Toute personne peut également demander la validation des études supérieures qu'elle a accomplies, notamment à l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -17022,6 +17159,11 @@ diplôme de l'enseignement supérieur.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 	**Liens**:
 
@@ -17030,16 +17172,21 @@ diplôme de l'enseignement supérieur.
 
 ###### Article L613-4
 
-La validation des acquis professionnels prévue à l'article L. 613-3 est effectuée par un jury dont les membres sont désignés
-par le président de l'université ou le président ou le directeur d'un autre établissement public d'enseignement supérieur et
-qui comprend, outre les enseignants-chercheurs et enseignants qui en constituent la majorité, des personnes compétentes dans
-les activités concernées. Le jury apprécie la demande au vu d'un dossier constitué par le candidat. Il détermine les épreuves
-dont le candidat est dispensé pour tenir compte des acquis ainsi validés. La validation d'acquis professionnels produit les
-mêmes effets que le succès à l'épreuve dont le candidat a été dispensé.
+La validation prévue à l'article L. 613-3 est prononcée par un jury dont les membres sont désignés par le président de
+l'université ou le chef de l'établissement d'enseignement supérieur en fonction de la nature de la validation demandée. Pour
+la validation des acquis de l'expérience, ce jury comprend, outre les enseignants-chercheurs qui en constituent la majorité,
+des personnes compétentes pour apprécier la nature des acquis, notamment professionnels, dont la validation est sollicitée.
+Les jurys sont composés de façon à concourir à une représentation équilibrée entre les femmes et les hommes. 
 
-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont pris en compte les acquis professionnels pour la
-validation mentionnée à l'article L. 613-3 et les conditions dans lesquelles le jury est constitué et peut accorder les
-dispenses prévues au présent article.
+Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'un entretien avec ce dernier et, le cas
+échéant, d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette procédure est prévue par l'autorité
+qui délivre la certification. Il se prononce également sur l'étendue de la validation et, en cas de validation partielle, sur
+la nature des connaissances et aptitudes devant faire l'objet d'un contrôle complémentaire. 
+
+La validation produit les mêmes effets que le succès à l'épreuve ou aux épreuves de contrôle des connaissances et des
+aptitudes qu'elle remplace. 
+
+Un décret en Conseil d'Etat fixe les conditions d'application de l'article L. 613-3 et du présent article. ;
 
 **Liens relatifs à cet article**
 
@@ -17051,6 +17198,11 @@ dispenses prévues au présent article.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -17064,7 +17216,7 @@ dispenses prévues au présent article.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L613-3 (M)
+	  - Code de l'éducation - art. L613-3 (V)
 
 	**Liens**:
 
@@ -17075,10 +17227,6 @@ dispenses prévues au présent article.
 
 Les études, les expériences professionnelles, les acquis personnels peuvent être validés par un jury, dans des conditions
 définies par décret, en vue de l'accès aux différents niveaux de l'enseignement supérieur.
-
-Les études, les expériences professionnelles ou les acquis professionnels peuvent également être validés par un jury, dans
-les champs et conditions définis par décret en Conseil d'Etat, pour remplacer une partie des épreuves conduisant à la
-délivrance de certains diplômes ou titres professionnels.
 
 **Liens relatifs à cet article**
 
@@ -17109,14 +17257,19 @@ délivrance de certains diplômes ou titres professionnels.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 
 ###### Article L613-6
 
 Les mères de famille et les personnes chargées de famille élevant ou ayant élevé un ou plusieurs enfants bénéficient des
-dispositions prévues par l'article L. 613-5, dans les mêmes conditions d'aptitude et de délai que les personnes engagées dans
-la vie professionnelle. Les périodes d'activité professionnelle dont elles peuvent se prévaloir sont prises en considération
-pour le calcul du délai.
+dispositions prévues par les articles L. 613-3 à L. 613-5, dans les mêmes conditions d'aptitude et de délai que les personnes
+engagées dans la vie professionnelle. Les périodes d'activité professionnelle dont elles peuvent se prévaloir sont prises en
+considération pour le calcul du délai. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -17129,10 +17282,15 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L613-5 (M)
+	  - Code de l'éducation - art. L613-3 (V)
 
 
 ##### Section 3 : Obtention de diplômes nationaux par les étudiants des établissements d'enseignement supérieur privés.
@@ -17621,17 +17779,17 @@ la santé. En ce qui concerne la recherche, ces arrêtés sont également signé
 
 ###### Article L632-2
 
-Le troisième cycle des études médicales est ouvert à tous les étudiants ayant obtenu la validation du deuxième cycle des
-études médicales. Toutefois, les étudiants ont la possibilité d'accéder au troisième cycle des études médicales, même si, au
-terme de leur deuxième cycle, la possession d'un des certificats du second cycle des études médicales leur fait défaut, à
-l'exception du certificat de synthèse clinique et thérapeutique ; dans ce cas, pour entrer en deuxième année du troisième
-cycle, ils doivent avoir obtenu la validation des enseignements du second cycle. Le troisième cycle forme les généralistes
-par un résidanat et les spécialistes par un internat dont l'accès est subordonné à la nomination par concours et par des
-formations complémentaires postérieures à l'internat.
+Le troisième cycle des études médicales est ouvert à tous les étudiants ayant validé le deuxième cycle des études médicales.
 
-Des décrets en Conseil d'Etat déterminent les modalités du concours et des formations complémentaires postérieures à
-l'internat mentionnées ci-dessus et notamment les circonscriptions géographiques dans lesquelles le recrutement des internes
-est organisé.
+Pour l'accomplissement de ce cycle d'études, le choix des disciplines et du centre hospitalier universitaire de rattachement
+est subordonné au rang de classement aux épreuves de l'internat. Les élèves médecins des écoles du service de santé des
+armées exercent ce choix au sein d'une liste fixée par arrêté interministériel.
+
+Des décrets en Conseil d'Etat déterminent les modalités des épreuves, l'organisation du troisième cycle des études médicales,
+la durée des formations nécessaires durant ce cycle et ultérieurement pour obtenir, selon les disciplines, une qualification
+et les modalités selon lesquelles les internes, quelle que soit la discipline choisie, peuvent, dans les limites compatibles
+avec l'évolution des techniques et de la démographie médicales, changer d'orientation et acquérir une formation par la
+recherche.
 
 **Liens relatifs à cet article**
 
@@ -17643,6 +17801,11 @@ est organisé.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -17726,19 +17889,20 @@ n'obtiennent pas mention de la qualification correspondante.
 
 ###### Article L632-5
 
-Au cours du troisième cycle des études médicales, les internes et les résidents reçoivent une formation théorique et pratique
-à temps plein sous le contrôle des universités.
+Au cours du troisième cycle des études médicales, les internes reçoivent une formation théorique et pratique à temps plein
+sous le contrôle des universités.
 
-Les internes et les résidents sont soumis aux mêmes dispositions statutaires et perçoivent la même rémunération. Ils exercent
-des fonctions rémunérées hospitalières ou extra-hospitalières, soit dans les centres hospitaliers universitaires, soit dans
-des établissements hospitaliers, y compris militaires ou privés participant au service public, liés à ces centres par
-convention, soit dans des organismes agréés extra-hospitaliers ou des laboratoires agréés de recherche, soit sous forme de
-stage auprès de praticiens agréés.
+Quelle que soit la discipline d'internat, les internes sont soumis aux mêmes dispositions statutaires et perçoivent la même
+rémunération. Ils exercent des fonctions rémunérées hospitalières ou extra-hospitalières, soit dans les centres hospitaliers
+universitaires, soit dans des établissements hospitaliers, y compris militaires ou privés participant au service public, liés
+à ces centres par convention, soit dans des organismes agréés extra-hospitaliers ou des laboratoires agréés de recherche,
+soit sous forme de stage auprès de praticiens agréés.
 
-Les internes de spécialité exercent leurs fonctions durant au moins deux semestres dans les hôpitaux autres qu'un centre
-hospitalier universitaire ; les résidents exercent leurs fonctions durant un semestre dans les services d'un centre
-hospitalier universitaire et durant un autre semestre auprès de praticiens généralistes agréés ; les modalités d'application
-de ces dispositions sont précisées par décret. Ce décret tient notamment compte des exigences de formation de chaque
+Les internes de médecine générale exercent leurs fonctions durant un semestre dans un centre hospitalier universitaire et
+pendant un autre semestre auprès de praticiens généralistes agréés. Les internes autres que ceux de médecine générale
+exercent leurs fonctions durant au moins deux semestres dans les hôpitaux autres qu'un centre hospitalier universitaire, sauf
+si le nombre de services dûment accrédités comme services formateurs ne le permet pas. Les modalités d'application des
+dispositions du présent article sont fixées par un décret tenant notamment compte des exigences de formation de chaque
 spécialité.
 
 Les internes de l'option de psychiatrie exercent leurs fonctions en psychiatrie pendant au moins un semestre dans un centre
@@ -17754,6 +17918,11 @@ hospitalier universitaire.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -17766,120 +17935,6 @@ hospitalier universitaire.
 	  - Code du travail - art. R4623-26 (V)
 	  - Code du travail - art. R4623-44 (Ab)
 	  - Code rural et de la pêche maritime - art. R717-52-5 (VD)
-
-
-###### Article L632-6
-
-Il est organisé un troisième cycle de médecine générale dans chaque région sanitaire. Les résidents reçoivent la formation
-théorique et pratique de médecine générale dans la région où ils ont achevé leur deuxième cycle, sauf dérogation accordée par
-l'autorité administrative.
-
-Les médecins praticiens non universitaires sont associés, dans les conditions définies par voie réglementaire, à la formation
-des résidents et à la détermination des objectifs pédagogiques. Une filière universitaire de médecine générale est par
-ailleurs prévue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-978 du 12 novembre 1968 - art. 52 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
-
-	**Cité par**:
-
-	  - Décret n°2004-67 du 16 janvier 2004 - art. 6 (Ab)
-	  - Décret n°2007-704 du 4 mai 2007 - art. 2 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 1 (Ab)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 10 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 2 (Ab)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 4 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 4-1 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 5 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 6 (V)
-	  - Décret n°2010-735 du 29 juin 2010 - art. 8 (V)
-	  - Arrêté du 27 juillet 2010 - art. Annexe (V)
-	  - Arrêté du 4 février 2011 - art. 11 (V)
-	  - Arrêté du 4 février 2011 - art. 12 (V)
-	  - Arrêté du 24 juin 2011 - art. 1 (V)
-	  - Arrêté du 8 décembre 2011 - art. (V)
-	  - Arrêté du 3 décembre 2013 (V)
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 158 (V)
-	  - Arrêté du 12 avril 2017 - art. 8 (V)
-	  - Décret n°2017-632 du 25 avril 2017 - art. 4 (V)
-	  - Décret n°2017-703 du 2 mai 2017 - art. 3
-	  - Code de l'éducation - art. R632-21 (V)
-	  - Code de l'éducation - art. R632-6 (V)
-	  - Code de l'éducation - art. R632-66 (V)
-	  - Code de l'éducation - art. R632-67 (V)
-	  - Code de l'éducation - art. R632-8 (V)
-	  - Code de l'éducation - art. R632-80 (VD)
-	  - Code de l'éducation - art. R632-81 (VD)
-	  - Code de la santé publique - art. L1434-7 (V)
-	  - Code de la santé publique - art. R1435-9-50 (V)
-	  - Code de la sécurité sociale. - art. L136-5 (VD)
-
-
-###### Article L632-7
-
-Les troisièmes cycles de médecine spécialisée sont organisés dans la circonscription formée par la région d'Ile-de-France et
-dans des circonscriptions géographiques dénommées "interrégions" comprenant au moins trois centres hospitaliers et
-universitaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-978 du 12 novembre 1968 - art. 53 (Ab)
-
-	**Cite**:
-
-	  - Loi n°86-33 du 9 janvier 1986 - art. 116
-	  - Code de la santé publique - art. L3711-1
-
-	**Cité par**:
-
-	  - Décret n°89-739 du 12 octobre 1989 - art. 1 (Ab)
-	  - Décret n°90-97 du 25 janvier 1990 - art. 3 (Ab)
-	  - Code de l'éducation - art. L681-1 (V)
-	  - Code de l'éducation - art. L683-1 (V)
-	  - Code de l'éducation - art. L684-1 (V)
-	  - Code de l'éducation - art. L713-4 (M)
-	  - Code de la sécurité sociale. - art. L136-5 (VD)
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
-
-
-###### Article L632-8
-
-Tous les internes ont la possibilité d'acquérir une formation par la recherche à laquelle participent des enseignants
-universitaires des disciplines non médicales et des chercheurs statutaires.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-978 du 12 novembre 1968 - art. 54 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-
-	**Abrogé par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 
 ###### Article L632-9
@@ -17905,17 +17960,14 @@ professionnels impliqués dans ce domaine.
 
 ###### Article L632-10
 
-Le nombre total des postes d'internes et de résidents en médecine est déterminé chaque année de telle façon que tous les
-étudiants ayant obtenu la validation du deuxième cycle des études médicales puissent entreprendre un troisième cycle. Compte
-tenu des besoins de santé de la population, de la nécessité de remédier aux inégalités géographiques ainsi que des capacités
-de formation des centres hospitaliers universitaires, des établissements hospitaliers, y compris militaires ou privés
-participant au service public et liés à ces centres par convention, des organismes agréés extra-hospitaliers et des
-laboratoires agréés de recherche, les ministres chargés respectivement des universités et de la santé fixent chaque année le
-nombre des postes d'internes mis au concours par discipline.
+Les ministres chargés respectivement de l'enseignement supérieur et de la santé déterminent chaque année le nombre de postes
+d'internes en médecine de telle façon que tous les étudiants ayant validé le deuxième cycle des études médicales puissent
+entreprendre un troisième cycle, et en fixent la répartition selon des modalités prévues par décret en Conseil d'Etat.
 
-La liste des services formateurs et la répartition des postes d'internes et de résidents dans les services sont arrêtées par
-le représentant de l'Etat dans la région, après avis d'une commission dont la composition et le fonctionnement sont fixés par
-décret.
+La liste des services et des départements formateurs et la répartition des postes d'internes dans les services et
+départements sont arrêtés par le représentant de l'Etat dans la région après avis d'une commission dont la composition et le
+fonctionnement sont fixés par décret. Un décret en Conseil d'Etat fixe les conditions d'attribution des postes d'internes aux
+élèves médecins des écoles du service de santé des armées.
 
 Pour évaluer les besoins de santé de la population, les ministres chargés des universités et de la santé consultent des
 commissions régionales et une commission nationale. Leur composition, leur rôle et leurs modalités de fonctionnement sont
@@ -17939,6 +17991,11 @@ représentants.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 
 ###### Article L632-11
@@ -17967,18 +18024,21 @@ santé publique.
 
 Des décrets en Conseil d'Etat déterminent :
 
-1° Les modalités selon lesquelles les médecins ayant exercé pendant au moins trois ans leur activité professionnelle et les
-docteurs en médecine ayant obtenu la validation du troisième cycle de médecine générale dès lors qu'ils ne se sont pas
-présentés antérieurement au concours mentionné à l'article L. 632-2 peuvent accéder à l'une des formations du troisième cycle
-différente de leur formation initiale ; les compétences sont prises en compte pour la durée et le déroulement de ces
-formations ;
+1° Les conditions dans lesquelles les ressortissants des Etats membres de la Communauté européenne, de la principauté
+d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen autres que la France, titulaires d'un diplôme de
+fin de deuxième cycle des études médicales ou d'un titre équivalent, peuvent accéder à un troisième cycle de médecine
+générale ou spécialisée ;
 
-2° Les conditions dans lesquelles les internes peuvent changer d'orientation ;
+2° Les modalités selon lesquelles les médecins ressortissants des Etats membres de la Communauté européenne, de la
+principauté d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen, ayant exercé pendant au moins trois
+ans leur activité professionnelle, peuvent accéder à une formation de troisième cycle des études médicales différente de leur
+formation initiale ; les compétences acquises sont prises en compte pour la durée et le déroulement de ces formations ;
 
-3° Les règles d'accès hors contingent aux formations de troisième cycle pour les médecins étrangers ;
+3° Les règles d'accès aux formations de troisième cycle pour les médecins autres que les ressortissants des Etats membres de
+la Communauté européenne, de la principauté d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen ;
 
-4° Les conditions dans lesquelles les étudiants en médecine, autres que ceux relevant de l'article L. 632-2, réalisent des
-stages de formation dans les hôpitaux.
+4° Les conditions dans lesquelles les personnes autorisées à exercer la médecine en France peuvent obtenir la qualification
+de spécialiste.
 
 **Liens relatifs à cet article**
 
@@ -17990,6 +18050,11 @@ stages de formation dans les hôpitaux.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -18005,23 +18070,23 @@ stages de formation dans les hôpitaux.
 	  - Code de la santé publique - art. L4111-1-2 (V)
 	  - Code de la santé publique - art. R4111-15 (M)
 
-	**Cite**:
-
-	  - Code de l'éducation - art. L632-2 (M)
-
 
 ##### Chapitre III : Les études pharmaceutiques.
 
 ###### Article L633-1
 
+Les études pharmaceutiques théoriques et pratiques sont organisées par les unités de formation et de recherche de sciences
+pharmaceutiques ou, le cas échéant, par les unités de formation et de recherche médicales et pharmaceutiques. Elles doivent
+permettre aux étudiants de participer effectivement à l'activité hospitalière. 
+
 Les conventions mentionnées à l'article L. 6142-3 du code de la santé publique, cité à l'article L. 713-5 du présent code,
-fixent les modalités selon lesquelles les étudiants en pharmacie peuvent effectuer des stages dans les laboratoires de
-biologie du centre hospitalier universitaire.
+fixent les modalités selon lesquelles les étudiants en pharmacie peuvent effectuer des stages dans les pharmacies à usage
+intérieur et dans les laboratoires de biologie du centre hospitalier universitaire. 
 
 Le directeur de l'unité de formation et de recherche de sciences pharmaceutiques et, dans le cas d'unités de formation et de
 recherche mixtes, médicales et pharmaceutiques, soit le directeur, soit, lorsque celui-ci n'est pas pharmacien, l'enseignant
-responsable de la section de pharmacie, sont habilités à proposer les conditions dans lesquelles certains enseignements de
-biologie sont organisés par les unités de formation et de recherche de médecine et de sciences pharmaceutiques.
+responsable de la section de pharmacie, sont habilités à proposer les conditions dans lesquelles les enseignements sont
+organisés par les unités de formation et de recherche de médecine et de sciences pharmaceutiques. 
 
 Les conditions d'application du présent article sont déterminées par décret.
 
@@ -18035,10 +18100,15 @@ Les conditions d'application du présent article sont déterminées par décret.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 64 () JORF 18 janvier 2002
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L713-5 (M)
+	  - Code de l'éducation - art. L713-5 (VT)
 	  - Code de la santé publique - art. L6142-3 (M)
 
 	**Nouveaux textes**:
@@ -18199,8 +18269,8 @@ Les stages sont organisés par voie de convention entre les universités et les 
 hospitaliers et assimilés ; ces conventions peuvent prévoir l'organisation d'un externat.
 
 Les stages sont effectués sous la responsabilité d'enseignants d'une unité de formation et de recherche de pharmacie exerçant
-conjointement des fonctions de pharmacien résident ou de biologiste des hôpitaux. En outre, ils peuvent être effectués sous
-la responsabilité de pharmaciens résidents ou de pharmaciens biologistes n'exerçant pas de fonctions universitaires.
+conjointement des fonctions de pharmacien des hôpitaux ou de biologiste des hôpitaux. En outre, ils peuvent être effectués
+sous la responsabilité de pharmaciens des hôpitaux ou de pharmaciens biologistes n'exerçant pas de fonctions universitaires.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -18214,6 +18284,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 65 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -18342,7 +18417,8 @@ délivrés dans le cadre du présent livre.
 
 ###### Article L641-2
 
-Les dispositions des articles L. 335-5 et L. 335-6 sont applicables aux formations technologiques supérieures.
+Les dispositions des deux premiers alinéas du I de l'article L. 335-5 et celles de l'article L. 335-6 sont applicables aux
+formations technologiques supérieures.
 
 **Liens relatifs à cet article**
 
@@ -18362,6 +18438,11 @@ Les dispositions des articles L. 335-5 et L. 335-6 sont applicables aux formatio
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
 
 	**Cite**:
 
@@ -19075,6 +19156,29 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 	  - Code de l'éducation - art. L614-3 (V)
 
 
+###### Article L683-3
+
+Les modalités d'organisation de la formation des internes dans les services et départements formateurs de la Polynésie
+française font l'objet entre l'université de rattachement et le territoire d'une convention agréée par arrêté des ministres
+chargés de la santé, de l'enseignement supérieur et de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 62 () JORF 18 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-67 du 16 janvier 2004 - art. 47 (Ab)
+	  - Code de l'éducation - art. R683-4 (V)
+
+
 ##### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
 
 ###### Article L684-1
@@ -19146,6 +19250,29 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 	  - Code de l'éducation - art. L613-7 (V)
 	  - Code de l'éducation - art. L614-1 (V)
 	  - Code de l'éducation - art. L614-3 (V)
+
+
+###### Article L684-3
+
+Les modalités d'organisation de la formation des internes dans les services et départements formateurs de la Nouvelle-
+Calédonie font l'objet entre l'université de rattachement et le territoire d'une convention agréée par arrêté des ministres
+chargés de la santé, de l'enseignement supérieur et de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 62 () JORF 18 janvier 2002
+
+	**Cité par**:
+
+	  - Décret n°2004-67 du 16 janvier 2004 - art. 47 (Ab)
+	  - Code de l'éducation - art. R684-4 (V)
 
 
 ### Livre VII : Les établissements d'enseignement supérieur
@@ -20315,44 +20442,46 @@ pharmaceutiques.
 Les centres hospitaliers et universitaires sont organisés conformément aux dispositions des articles L. 6142-1, L. 6142-3 à
 L. 6142-6, L. 6142-11, L. 6142-13 et L. 6142-17 du code de la santé publique, ci-après reproduites :
 
-" Art. L. 6142-1. - Les centres hospitaliers et universitaires sont des centres de soins où, dans le respect des malades,
-sont organisés les enseignements publics médicaux et post-universitaires, ainsi que, sans préjudice des attributions des
-autres établissements de recherche et d'enseignement, la recherche médicale et les enseignements paramédicaux.
+"Art. L. 6142-1. - Les centres hospitaliers et universitaires sont des centres de soins où, dans le respect des malades, sont
+organisés les enseignements publics médical et pharmaceutique et post-universitaire, ainsi que, sans préjudice des
+attributions des autres établissements de recherche et d'enseignement, la recherche médicale et pharmaceutique et les
+enseignements para-médicaux.
 
-Ils sont aménagés conformément à la mission ainsi définie. "
+Ils sont aménagés conformément à la mission ainsi définie."
 
-" Art. L. 6142-3. - Dans les villes sièges d'unités de formation et de recherche de médecine, les universités, pour ce qui
-concerne ces unités, et les centres hospitaliers régionaux organisent conjointement l'ensemble de leurs services en centres
-hospitaliers et universitaires.
+"Art. L. 6142-3. - Dans les villes sièges d'unités de formation et de recherche de médecine et de pharmacie, les universités,
+pour ce qui concerne ces unités, et les centres hospitaliers régionaux organisent conjointement l'ensemble de leurs services
+en centres hospitaliers et universitaires.
 
 Les universités et les centres hospitaliers régionaux conservent leur personnalité juridique et leurs organes
 d'administration respectifs ; ils sont tenus de conclure des conventions pour préciser la structure et les modalités de
 fonctionnement des centres hospitaliers et universitaires.
 
 Les législations et réglementations universitaires et hospitalières restent respectivement applicables à ces centres, chacune
-dans son domaine propre, sous réserve des dérogations prévues par le présent chapitre et ses textes d'application. "
+dans son domaine propre, sous réserve des dérogations prévues par le présent chapitre et ses textes d'application."
 
-" Art. L. 6142-4. - Dans le ressort d'une même académie, deux ou plusieurs centres hospitaliers régionaux ont la possibilité
+"Art. L. 6142-4. - Dans le ressort d'une même académie, deux ou plusieurs centres hospitaliers régionaux ont la possibilité
 de passer convention avec la ou les universités de cette académie, pour la constitution d'un centre hospitalier et
-universitaire unique. "
+universitaire unique."
 
-" Art. L. 6142-5. - Des conventions peuvent être conclues par les universités et par les centres hospitaliers régionaux,
+"Art. L. 6142-5. - Des conventions peuvent être conclues par les universités et par les centres hospitaliers régionaux,
 agissant conjointement, avec d'autres établissements de santé ou organismes publics ou privés susceptibles d'être associés
-aux diverses missions définies à l'article L. 6142-1. "
+aux diverses missions définies à l'article L. 6142-1. ."
 
-" Art. L. 6142-6. - Dans le cadre des dispositions de l'article L. 6142-5, les universités et les centres hospitaliers
+"Art. L. 6142-6. - Dans le cadre des dispositions de l'article L. 6142-5, les universités et les centres hospitaliers
 régionaux peuvent conclure conjointement des conventions avec les syndicats interhospitaliers ou avec des établissements de
-la conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier. "
+la conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier."
 
-" Art. L. 6142-11. - Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues
-à l'article L. 6142-3 sont examinées par une commission comprenant le représentant de l'Etat dans le département, président,
-le directeur de l'unité de formation et de recherche médicales ou, lorsqu'il existe un comité de coordination de
-l'enseignement médical, le président de ce comité et le médecin inspecteur régional de santé publique.
+"Art. L. 6142-11. - Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues à
+l'article L. 6142-3 sont examinées par une commission comprenant le représentant de l'Etat dans le département, président, le
+directeur de l'unité de formation et de recherches médicales ou pharmaceutiques ou, lorsqu'il existe un comité de
+coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin inspecteur régional de
+santé publique ou le pharmacien inspecteur régional.
 
 A défaut d'accord intervenu devant cette commission, il est statué par décision commune des ministres de l'enseignement
-supérieur et de la santé, dans les conditions déterminées par voie réglementaire. "
+supérieur et de la santé, dans les conditions déterminées par voie réglementaire."
 
-" Art. L. 6142-13. - Dans chaque centre hospitalier et universitaire, le comité de coordination hospitalo-universitaire est
+"Art. L. 6142-13. - Dans chaque centre hospitalier et universitaire, le comité de coordination hospitalo-universitaire est
 obligatoirement consulté sur le choix des priorités en matière d'équipement hospitalier et universitaire.
 
 Les conventions mentionnées à l'article L. 6142-6 entre les établissements publics de santé et les universités ne peuvent
@@ -20361,9 +20490,9 @@ Les conventions mentionnées à l'article L. 6142-6 entre les établissements pu
 Le comité de coordination hospitalo-universitaire comprend notamment des représentants du centre hospitalier régional, des
 représentants des unités de formation et de recherches médicales, odontologiques et pharmaceutiques et, le cas échéant, des
 syndicats interhospitaliers de secteur et des établissements assurant le service public hospitalier qui ont conclu les
-conventions prévues à l'article L. 6142-5. "
+conventions prévues à l'article L. 6142-5. ."
 
-" Art. L. 6142-17. - Sont déterminées par décret en Conseil d'Etat, les modalités d'application des dispositions du présent
+"Art. L. 6142-17. - Sont déterminées par décret en Conseil d'Etat, les modalités d'application des dispositions du présent
 chapitre, à l'exception de celles fixées à l'article L. 6142-16 et notamment :
 
 1° Les conditions dans lesquelles certains services ou certains personnels médicaux des établissements de santé mentionnés à
@@ -20372,10 +20501,16 @@ l'article L. 6142-3 peuvent être maintenus partiellement ou totalement en dehor
 2° Les conditions dans lesquelles sont établies les conventions prévues aux articles L. 6142-3 et L. 6142-5 ;
 
 3° Les conditions dans lesquelles les dépenses d'enseignement et de recherches qui ne peuvent être isolées dans le budget des
-établissement de santé font l'objet d'un versement forfaitaire du ministère de l'enseignement supérieur ;
+établissements de santé font l'objet d'un versement forfaitaire du ministère de l'enseignement supérieur ;
 
-4° Les conditions dans lesquelles certaines dispositions du présent chapitre peuvent être rendues applicables aux études
-dentaires et aux chirurgiens dentistes, ainsi qu'aux pharmaciens pour certaines disciplines biologiques. "
+4° Les conditions dans lesquelles certaines dispositions du présent chapitre sont rendues applicables aux études dentaires et
+aux chirurgiens-dentistes, ainsi qu'aux pharmaciens pour certaines disciplines biologiques ;
+
+5° Les conditions dans lesquelles certaines dispositions du présent chapitre peuvent être rendues applicables aux études
+pharmaceutiques et aux pharmaciens notamment les mesures transitoires nécessaires et les modalités du recrutement commun
+initial, hospitalier et universitaire, ainsi que les conditions dans lesquelles les enseignants des unités de formation de
+recherche de pharmacie ayant à la fois des fonctions hospitalières et universitaires peuvent demander à être intégrés dans le
+nouveau corps ou à conserver le régime du corps auquel ils appartiennent."
 
 **Liens relatifs à cet article**
 
@@ -20384,14 +20519,11 @@ dentaires et aux chirurgiens dentistes, ainsi qu'aux pharmaciens pour certaines 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'éducation
-	  - Code de la santé publique - art. L6142-1 (M)
-	  - Code de la santé publique - art. L6142-11 (M)
-	  - Code de la santé publique - art. L6142-13 (M)
-	  - Code de la santé publique - art. L6142-17 (M)
-	  - Code de la santé publique L6142-1, L6142-3 à L6142-6, L6142-11, L6142-13, L6142-17
+	  - Loi n°2002-73 2002-01-17 art. 64 II, art. 65 I 1°, 2°, 4°, 8° et 9° JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 64 () JORF 18 janvier 2002
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 65 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -20407,13 +20539,21 @@ dentaires et aux chirurgiens dentistes, ainsi qu'aux pharmaciens pour certaines 
 	  - Code de la santé publique - art. L6151-1 (V)
 	  - Code rural et de la pêche maritime - art. L812-1 (V)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. L6142-1 (M)
+	  - Code de la santé publique - art. L6142-11 (M)
+	  - Code de la santé publique - art. L6142-13 (M)
+	  - Code de la santé publique - art. L6142-17 (M)
+	  - Code de la santé publique L6142-1, L6142-3 à L6142-6, L6142-11, L6142-13, L6142-17
+
 
 ###### Article L713-6
 
 Les charges financières résultant de l'application des articles L. 632-1, L. 713-5, L. 952-21 à L. 952-23 sont supportées en
-totalité, en ce qui concerne l'enseignement public médical et post-universitaire, par le budget du ministère de l'éducation
-nationale. En ce qui concerne la recherche médicale, les charges incombant à l'Etat sont réparties entre ce budget et celui
-du ministère de la santé.
+totalité, en ce qui concerne l'enseignement public médical pharmaceutique et post-universitaire, par le budget du ministère
+de l'éducation nationale. En ce qui concerne la recherche médicale et pharmaceutique, les charges incombant à l'Etat sont
+réparties entre ce budget et celui du ministère de la santé.
 
 **Liens relatifs à cet article**
 
@@ -20424,12 +20564,17 @@ du ministère de la santé.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 65 () JORF 18 janvier 2002
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L632-1 (V)
-	  - Code de l'éducation - art. L713-5 (M)
-	  - Code de l'éducation L632-1, L713-5, L952-21 à L952-23
+	  - Code de l'éducation - art. L713-5 (VT)
+	  - Code de l'éducation - art. L952-21 (V)
 
 	**Cité par**:
 
@@ -25438,14 +25583,9 @@ suspensif.
 
 Le présent article est également applicable à tout chef d'établissement d'enseignement du second degré privé ou
 d'enseignement technique privé. Les chefs d'établissement d'enseignement technique sont traduits, sur la plainte des
-inspecteurs généraux de l'éducation nationale, devant le comité départemental de la formation professionnelle, de la
-promotion sociale et de l'emploi.
+inspecteurs généraux de l'éducation nationale, devant le comité départemental de l'emploi.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
 
 	**Anciens textes**:
 
@@ -25471,6 +25611,15 @@ promotion sociale et de l'emploi.
 
 	  - Code de l'éducation - art. L731-11 (V)
 	  - Code de l'éducation - art. L731-12 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 
 #### Titre II : Les personnels du premier degré
@@ -25896,9 +26045,8 @@ d'apprentis devront posséder des qualifications définies selon des règles fix
 Les personnels mentionnés à l'alinéa ci-dessus, déjà en fonction dans les cours professionnels ou organismes de formation
 d'apprentis publics ou privés existants, qui ne satisfont pas aux règles définies ci-dessus mais aux qualifications exigées
 avant le 1er juillet 1972 sont admis à exercer leurs fonctions dans les centres de formation issus des cours professionnels.
-Ce droit leur est conféré par le comité départemental de la formation professionnelle de la promotion sociale et de l'emploi,
-sous réserve, le cas échéant, d'avoir à accomplir un stage de recyclage et de perfectionnement pédagogique organisé sous le
-contrôle des ministères compétents.
+Ce droit leur est conféré par le comité départemental de l'emploi, sous réserve, le cas échéant, d'avoir à accomplir un stage
+de recyclage et de perfectionnement pédagogique organisé sous le contrôle des ministères compétents.
 
 Des fonctionnaires et spécialement ceux des corps de l'enseignement public peuvent être détachés à temps plein dans des
 centres de formation d'apprentis. "
@@ -25907,9 +26055,9 @@ centres de formation d'apprentis. "
 par les organismes responsables des centres.
 
 Ils peuvent en outre être déférés par les autorités chargées d'exercer le contrôle technique et pédagogique de ces centres au
-comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi qui peut prononcer contre eux,
-sous réserve d'appel devant le conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer
-des fonctions dans les centres de formation d'apprentis.
+comité départemental de l'emploi qui peut prononcer contre eux, sous réserve d'appel devant le conseil supérieur de
+l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions dans les centres de formation
+d'apprentis.
 
 La procédure visée à l'alinéa précédent n'est applicable ni aux agents fonctionnaires de l'Etat, ni aux agents titulaires des
 collectivités territoriales, ni aux établissements publics. "
@@ -25919,6 +26067,11 @@ collectivités territoriales, ni aux établissements publics. "
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 	**Cite**:
 
