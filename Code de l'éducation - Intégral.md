@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-19
 
 # Partie législative
 
@@ -3033,8 +3033,9 @@ département ou la région dans les conditions fixées aux articles L. 216-5 et 
 Une délibération du conseil municipal crée, dans chaque commune, une caisse des écoles, destinée à faciliter la fréquentation
 de l'école par des aides aux élèves en fonction des ressources de leur famille.
 
-A Paris, la caisse des écoles peut également mener des actions à caractère social, éducatif ou culturel en faveur des élèves
-des établissements du premier et du second degré.
+Les compétences de la caisse des écoles peuvent être étendues à des actions à caractère éducatif, culturel, social et
+sanitaire en faveur des enfants relevant de l'enseignement du premier et du second degrés. A cette fin, la caisse des écoles
+peut constituer des dispositifs de réussite éducative.
 
 Lorsque la caisse des écoles n'a procédé à aucune opération de dépenses ou de recettes pendant trois ans, elle peut être
 dissoute par délibération du conseil municipal.
@@ -3046,6 +3047,12 @@ Plusieurs communes peuvent se réunir pour la formation et l'entretien de cette 
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1867-04-10 art. 15
+	  - Loi n°1882-03-28 art. 17
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 17 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
@@ -3053,17 +3060,11 @@ Plusieurs communes peuvent se réunir pour la formation et l'entretien de cette 
 
 	**Modifié par**:
 
-	  - Loi n°2001-624 du 17 juillet 2001 - art. 23 () JORF 18 juillet 2001
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 130 () JORF 19 janvier 2005
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R212-33-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1867-04-10 art. 15
-	  - Loi n°1882-03-28 art. 17
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 17 (Ab)
 
 
 ###### Article L212-11
@@ -4330,6 +4331,11 @@ formation professionnelle alternée et de financement des formations des demande
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux
 contrats d'objectifs.
 
+L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations
+représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au
+développement de l'apprentissage conformément à l'article L. 118-1 du code du travail. Ces contrats peuvent prendre la forme
+d'une annexe aux contrats visés à l'alinéa précédent.
+
 VI. - Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement
 un programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional
 de l'emploi et de la formation professionnelle.
@@ -4354,7 +4360,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 11 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 32 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -4407,6 +4413,7 @@ autres organismes de formation concernés.
 
 	  - Code de l'éducation - art. L214-1 (M)
 	  - Code rural L814-2, L811-1, L813-1
+	  - Code du travail - art. L118-1 (M)
 	  - Code du travail - art. L351-21 (T)
 
 
@@ -4625,8 +4632,8 @@ après reproduites :
 Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du
 conseil économique, social et culturel de Corse et compte tenu des orientations fixées par le plan, le schéma prévisionnel
 des formations des collèges, des lycées, des établissements d'enseignement professionnel, des établissements d'enseignement
-artistique, des établissements d'éducation spéciale, des écoles de formation maritime et aquacole, des établissements
-d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
+artistique, des établissements d'éducation spéciale, des lycées professionnels maritimes, des établissements d'enseignement
+agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
 
 Elle associe les représentants désignés par les établissements d'enseignement privé sous contrat à l'élaboration de ce
 schéma.
@@ -4703,9 +4710,6 @@ A l'occasion de la mise en oeuvre de ce plan, la collectivité territoriale de C
 l'Association nationale pour la formation professionnelle des adultes, dont elle arrête le programme des formations et le
 programme des opérations d'équipement pour la Corse.
 
-Elle assure les actions d'insertion professionnelle des jeunes dans les conditions prévues pour les régions aux articles L.
-4253-6 à L. 4253-10.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -4713,7 +4717,7 @@ Elle assure les actions d'insertion professionnelle des jeunes dans les conditio
 	  - Code rural L811-8
 	  - Code général des collectivités territoriales - art. L4424-34 (M)
 	  - Code général des collectivités territoriales L4424-1 à L4424-5, L4424-34
-	  - Code de l'éducation L4424-3, L214-12 à L214-16, L4253-6 à L4253-10
+	  - Code de l'éducation L4424-3, L214-12 à L214-16
 
 	**Codifié par**:
 
@@ -4722,7 +4726,7 @@ Elle assure les actions d'insertion professionnelle des jeunes dans les conditio
 
 	**Modifié par**:
 
-	  - Loi n°2003-1311 2003-12-30 art. 138 II Finances pour 2004 JORF 31 décembre 2003
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 14 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -10355,7 +10359,7 @@ type particulier, ou sous statut scolaire.
 L'apprentissage est organisé conformément aux dispositions des articles L. 115-1 et L. 115-2 du code du travail, ci-après
 reproduites :
 
-" Art. L. 115-1. - L'apprentissage concourt aux objectifs éducatifs de la nation.
+"Art. L. 115-1 - L'apprentissage concourt aux objectifs éducatifs de la nation.
 
 L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à des jeunes travailleurs ayant satisfait à
 l'obligation scolaire une formation générale, théorique et pratique, en vue de l'obtention d'une qualification
@@ -10388,20 +10392,44 @@ régional de développement des formations professionnelles des jeunes mentionn�
 
 Les dispositions du chapitre VI ci-dessous sont applicables à ces établissements à l'exception des articles L. 116-7 et L.
 116-8. Les articles L. 116-5 et L. 116-6 ne sont pas applicables aux personnels de l'Etat concourant à l'apprentissage dans
-ces établissements. "
+ces établissements."
 
-" Art. L. 115-2. - La durée du contrat d'apprentissage est au moins égale à celle du cycle de formation qui fait l'objet du
+"Art. L. 115-2 - La durée du contrat d'apprentissage est au moins égale à celle du cycle de formation qui fait l'objet du
 contrat. Elle peut varier, sous réserve des dispositions de l'article L. 117-9, entre un et trois ans ; elle est fixée dans
 les conditions prévues par le décret mentionné à l'article L. 119-4, en fonction du type de profession et du niveau de
-qualification préparés. Cette durée peut être adaptée pour tenir compte du niveau initial de compétence de l'apprenti. Elle
-est alors fixée par les cocontractants en fonction de l'évaluation des compétences et après autorisation du service de
-l'inspection de l'apprentissage compétent mentionné à l'article L. 119-1. Les modalités de prise en compte de la durée prévue
-à l'alinéa précédent dans les conventions visées à l'article L. 116-2 sont arrêtées, après avis du comité de coordination
-régional de l'emploi et de la formation professionnelle, par le conseil régional lorsque celui-ci est signataire de la
-convention.
+qualification préparés.
 
-En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, par accord
-des deux parties, avant le terme fixé initialement.
+En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prend fin, à l'initiative
+du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum deux mois
+auparavant.
+
+L'évaluation des compétences mentionnée à l'alinéa précédent est obligatoire et préalable à la signature du contrat lorsque
+la date du début de l'apprentissage se situe en dehors de la période mentionnée à l'article L. 117-13.
+
+Par dérogation aux dispositions du premier alinéa, la durée du contrat peut varier entre six mois et un an lorsque la
+formation a pour objet l'acquisition d'un diplôme ou d'un titre :
+
+a) De même niveau et en rapport avec un premier diplôme ou titre obtenu dans le cadre d'un précédent contrat
+d'apprentissage ;
+
+b) De niveau inférieur à un diplôme ou titre déjà obtenu ;
+
+c) Dont une partie a été obtenue par la validation des acquis de l'expérience ;
+
+d) Dont la préparation a été commencée sous un autre statut.
+
+Dans ces cas, le nombre d'heures de formation dispensées dans les centres de formation d'apprentis ne peut être inférieur à
+celui prévu au premier alinéa de l'article L. 116-3 calculé au prorata de la durée du contrat.
+
+La durée du contrat peut être portée à quatre ans lorsque la qualité de travailleur handicapé est reconnue à l'apprenti dans
+les conditions prévues à l'article L. 323-10.
+
+Les modalités de prise en compte de la durée prévue au deuxième alinéa dans les conventions visées à l'article L. 116-2 sont
+arrêtées, après avis du comité de coordination régional de l'emploi et de la formation professionnelle, par le conseil
+régional lorsque celui-ci est signataire de la convention.
+
+En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à
+l'initiative du salarié, avant le terme fixé initialement.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs pour préparer des diplômes ou titres
 sanctionnant des qualifications différentes.
@@ -10409,7 +10437,7 @@ sanctionnant des qualifications différentes.
 Lorsque l'apprenti a déjà conclu deux contrats successifs de même niveau, il doit obtenir l'autorisation du directeur du
 dernier centre de formation d'apprentis qu'il a fréquenté pour conclure un troisième contrat d'apprentissage du même niveau.
 
-Il n'est exigé aucune condition de délai entre deux contrats. "
+Il n'est exigé aucune condition de délai entre deux contrats."
 
 **Liens relatifs à cet article**
 
@@ -10420,7 +10448,7 @@ Il n'est exigé aucune condition de délai entre deux contrats. "
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 17 () JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -10431,7 +10459,7 @@ Il n'est exigé aucune condition de délai entre deux contrats. "
 	  - Code de l'éducation - art. L214-13 (M)
 	  - Code de l'éducation - art. L335-5 (M)
 	  - Code de l'éducation - art. L335-6 (M)
-	  - Code de l'éducation L335-5, L335-6, L116-1-1, L119-4, L116-2, L214-13, L116-7, L116-8, L116-5, L116-6, L117-9, L119-1
+	  - Code de l'éducation L335-5, L335-6, L116-1-1, L119-4, L116-2, L214-13, L116-7, L116-8, L116-5, L116-6, L117-9
 	  - Code du travail - art. L115-1 (M)
 	  - Code du travail - art. L115-2 (M)
 
