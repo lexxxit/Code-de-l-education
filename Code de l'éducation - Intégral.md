@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-07-17
+Version Consolidée au 2004-08-11
 
 # Partie législative
 
@@ -7667,14 +7667,40 @@ moins trois séances annuelles et par groupes d'âge homogène. Ces séances pou
 mission de santé scolaire et des personnels des établissements mentionnés au premier alinéa de l'article L. 2212-4 du code de
 la santé publique ainsi que d'autres intervenants extérieurs conformément à l'article 9 du décret n° 85-924 du 30 août 1985
 relatif aux établissements publics locaux d'enseignement. Des élèves formés par un organisme agréé par le ministère de la
-santé pourront également y être associés.
+santé pourront également y être associés. 
+
+Un cours d'apprentissage sur les premiers gestes de secours est délivré aux élèves de collège et de lycée, selon des
+modalités définies par décret.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 9 (M)
-	  - Code de la santé publique - art. L2212-4 (M)
+	  - Décret n°85-924 du 30 août 1985 - art. 9 (Ab)
+	  - Code de la santé publique - art. L2212-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 48 () JORF 11 août 2004
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L372-1 (V)
+
+
+###### Article L312-17
+
+Une information est également délivrée sur les conséquences de la consommation d'alcool par les femmes enceintes sur le
+développement du foetus, notamment les atteintes du système nerveux central, dans les collèges et les lycées, à raison d'au
+moins une séance annuelle, par groupe d'âge homogène. Ces séances pourront associer les personnels contribuant à la mission
+de santé scolaire ainsi que d'autres intervenants extérieurs.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
@@ -7683,11 +7709,28 @@ santé pourront également y être associés.
 
 	**Créé par**:
 
-	  - Loi n°2001-588 du 4 juillet 2001 - art. 22 () JORF 7 juillet 2001
+	  - Loi n°2004-806 du 9 août 2004 - art. 49 () JORF 11 août 2004
 
-	**Cité par**:
 
-	  - Code de l'éducation - art. L372-1 (V)
+##### Section 10 : Prévention et information sur les toxicomanies.
+
+###### Article L312-18
+
+Une information est délivrée sur les conséquences de la consommation de drogues sur la santé, notamment concernant les effets
+neuropsychiques et comportementaux du cannabis, dans les collèges et les lycées, à raison d'au moins une séance annuelle, par
+groupes d'âge homogène. Ces séances pourront associer les personnels contribuant à la mission de santé scolaire ainsi que
+d'autres intervenants extérieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 51 () JORF 11 août 2004
 
 
 ##### Chapitre III : L'information et l'orientation.
@@ -14685,9 +14728,9 @@ parlementaires désignés respectivement par l'Assemblée nationale et le Sénat
 1° Des ministres chargés, notamment, des affaires étrangères, de la coopération, de l'éducation et des finances, en nombre au
 moins égal à la moitié des sièges du conseil d'administration ;
 
-2° Du Conseil supérieur des Français de l'étranger, des organismes gestionnaires d'établissements, des fédérations
-d'associations de parents d'élèves de l'enseignement français à l'étranger, ainsi que des personnels affectés tant dans les
-établissements d'enseignement à l'étranger que dans les services centraux de l'agence.
+2° De l'Assemblée des Français de l'étranger, des organismes gestionnaires d'établissements, des fédérations d'associations
+de parents d'élèves de l'enseignement français à l'étranger, ainsi que des personnels affectés tant dans les établissements
+d'enseignement à l'étranger que dans les services centraux de l'agence.
 
 Le nombre des représentants des personnels affectés dans les établissements d'enseignement français à l'étranger et dans les
 services centraux de l'agence doit être égal au moins à la moitié du nombre des représentants visés au 2° ci-dessus.
@@ -14702,6 +14745,10 @@ services centraux de l'agence doit être égal au moins à la moitié du nombre 
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
 
 
 ###### Article L452-7
@@ -14751,7 +14798,7 @@ sur les programmes d'avenir et les exigences de développement des écoles fran�
 
 ###### Article L452-9
 
-L'agence présente un rapport annuel de ses activités devant le Conseil supérieur des Français de l'étranger.
+L'agence présente un rapport annuel de ses activités devant l'Assemblée des Français de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -14763,6 +14810,10 @@ L'agence présente un rapport annuel de ses activités devant le Conseil supéri
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-805 du 9 août 2004 - art. 1 (V) JORF 11 août 2004
 
 
 ###### Article L452-10
@@ -16336,7 +16387,7 @@ désignées par arrêté ministériel, un ou plusieurs centres médico-sociaux s
 prescrits aux articles L. 541-1 et L. 541-2.
 
 Ils concourent à la mise en oeuvre des actions coordonnées de prévention et d'éducation à la santé que comporte le programme
-régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-5 du code de la
+régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-11 du code de la
 santé publique.
 
 **Liens relatifs à cet article**
@@ -16345,6 +16396,10 @@ santé publique.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 2 () JORF 11 août 2004
 
 	**Cité par**:
 
@@ -16358,7 +16413,7 @@ santé publique.
 
 	  - Code de l'éducation - art. L541-1 (M)
 	  - Code de l'éducation - art. L541-2 (V)
-	  - Code de la santé publique - art. L1411-5 (M)
+	  - Code de la santé publique - art. L1411-11 (V)
 
 	**Nouveaux textes**:
 
@@ -18092,13 +18147,18 @@ leurs formations initiale et continue.
 ###### Article L631-1
 
 Le nombre des étudiants admis ainsi que les modalités de leur admission, à la fin de la première année du premier cycle, à
-poursuivre des études médicales, odontologiques ou pharmaceutiques sont fixés, chaque année, compte tenu des besoins de la
-population, de la nécessité de remédier aux inégalités géographiques et des capacités de formation des établissements
-concernés, par le ministre chargé de la santé et le ministre chargé de l'enseignement supérieur.
+poursuivre des études médicales, odontologiques, de sage-femme ou pharmaceutiques sont fixés, chaque année, compte tenu des
+besoins de la population, de la nécessité de remédier aux inégalités géographiques et des capacités de formation des
+établissements concernés, par le ministre chargé de la santé et le ministre chargé de l'enseignement supérieur.
 
 Des étudiants qui n'ont pas effectué le premier cycle des études médicales, odontologiques ou pharmaceutiques peuvent être
 admis dans le deuxième cycle. Leur nombre ainsi que les modalités de leur admission sont fixés par arrêté du ministre chargé
 de l'enseignement supérieur et du ministre chargé de la santé.
+
+Des étudiants admis à poursuivre des études médicales, odontologiques ou pharmaceutiques à la suite des épreuves de
+classement de fin de première année du premier cycle peuvent être admis à suivre la formation de sage-femme. Leur nombre
+ainsi que les conditions de leur admission sont fixés par arrêté du ministre chargé de l'enseignement supérieur et du
+ministre chargé de la santé.
 
 Le ministre chargé de la santé est associé à toutes les décisions concernant les enseignements médicaux, pharmaceutiques et
 odontologiques.
@@ -18140,6 +18200,10 @@ odontologiques.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 105 () JORF 11 août 2004
+
 
 ###### Article L631-2
 
@@ -18162,6 +18226,29 @@ femme peuvent postuler aux diplômes français d'Etat correspondants.
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L358 (Ab)
+
+
+###### Article L631-3
+
+La formation initiale et continue de tous les professionnels de santé ainsi que des professionnels du secteur médico-social
+comprend un enseignement spécifique dédié aux effets de l'alcool sur le foetus. Cet enseignement doit avoir pour objectif de
+favoriser la prévention par l'information ainsi que le diagnostic et l'orientation des femmes concernées et des enfants
+atteints vers les services médicaux et médico-sociaux spécialisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 50 () JORF 11 août 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
 ##### Chapitre II : Les études médicales.
@@ -23948,6 +24035,52 @@ participent au service public de la formation.
 	  - Code de l'éducation - art. L676-1 (V)
 
 
+###### Article L756-2
+
+L'Ecole des hautes études en santé publique, établissement public de l'Etat à caractère scientifique, culturel et
+professionnel, est placée sous la tutelle des ministres chargés de la santé, des affaires sociales, de l'éducation et de la
+recherche. Elle a pour mission :
+
+1° D'assurer la formation des personnes ayant à exercer des fonctions de direction, de gestion, d'inspection ou de contrôle
+dans les domaines sanitaires, sociaux ou médico-sociaux et notamment de celles relevant du ministre chargé de la santé et du
+ministre chargé des affaires sociales ;
+
+2° D'assurer un enseignement supérieur en matière de santé publique ; à cette fin, elle anime un réseau national favorisant
+la mise en commun des ressources et des activités des différents organismes publics et privés compétents ;
+
+3° De contribuer aux activités de recherche en santé publique ;
+
+4° De développer des relations internationales dans les domaines cités aux 1°, 2° et 3°, notamment par des échanges avec les
+établissements dispensant des enseignements comparables.
+
+Les modalités d'exercice de ses missions par l'Ecole des hautes études en santé publique et ses règles particulières
+d'organisation et de fonctionnement sont fixées par décret en Conseil d'Etat dans les conditions prévues à l'article L.
+717-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 84 () JORF 11 août 2004
+
+	**Cité par**:
+
+	  - Décret n°2006-1546 du 7 décembre 2006 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L717-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1415-1 (V)
+
+
 ##### Chapitre VII : Les écoles nationales de la marine marchande.
 
 ###### Article L757-1
@@ -24995,7 +25128,7 @@ Des services de médecine préventive et de promotion de la santé sont mis à l
 fixées par décret.
 
 Ils concourent à la mise en oeuvre des actions coordonnées de prévention et d'éducation à la santé que comporte le programme
-régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-5 du code de la
+régional pour l'accès à la prévention et aux soins des personnes les plus démunies prévu à l'article L. 1411-11 du code de la
 santé publique.
 
 **Liens relatifs à cet article**
@@ -25009,6 +25142,10 @@ santé publique.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-806 du 9 août 2004 - art. 2 () JORF 11 août 2004
+
 	**Cité par**:
 
 	  - Décret n°2008-1026 du 7 octobre 2008 - art. 1 (Ab)
@@ -25019,7 +25156,7 @@ santé publique.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1411-5 (M)
+	  - Code de la santé publique - art. L1411-11 (V)
 
 
 ###### Article L831-2
