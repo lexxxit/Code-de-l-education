@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-09-01
+Version Consolidée au 2004-11-04
 
 # Partie législative
 
@@ -32608,8 +32608,8 @@ professionnelles d'employeurs peuvent conclure des contrats d'objectifs. Ces con
 développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance, coordonnés avec les
 autres voies de formation et d'enseignement professionnels.
 
-Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture peuvent être associées aux
-contrats d'objectifs.
+Les chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat et les chambres d'agriculture peuvent être
+associées aux contrats d'objectifs.
 
 Le schéma prévisionnel des formations prévu à l'article L. 214-1 et le schéma prévisionnel de l'apprentissage prévu à
 l'article L. 214-13, paragraphe II, tiennent compte des orientations générales définies par les contrats d'objectifs.
@@ -32624,6 +32624,10 @@ l'article L. 214-13, paragraphe II, tiennent compte des orientations générales
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 	**Cite**:
 
@@ -39062,19 +39066,23 @@ dans le département.
 " 4° Deux représentants des organisations syndicales d'employeurs représentatives de la région.
 
 " La représentation des employeurs est complétée, selon la nature de l'activité de l'établissement dont relèvent les
-personnels en cause, par un représentant de la ou des chambres de métiers ou par un représentant de la ou des chambres de
-commerce et d'industrie ou par un représentant de la ou des chambres d'agriculture. "
+personnels en cause, par un représentant de la ou des chambres de métiers et de l'artisanat ou par un représentant de la ou
+des chambres de commerce et d'industrie ou par un représentant de la ou des chambres d'agriculture. "
 
 **Nota:**
 
-NOTA (1) : L'article L. 237-2 du code de l'éducation a été abrogé par l'article 19 IV de l'ordonnance n° 2004-637 du 1er
-juillet 2004 et par l'article 78 de la loi n° 2004-809 du 13 août 2004.
+(1) : L'article L. 237-2 du code de l'éducation a été abrogé par l'article 19 IV de l'ordonnance n° 2004-637 du 1er juillet
+2004 et par l'article 78 de la loi n° 2004-809 du 13 août 2004.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
 
 	**Cite**:
 
