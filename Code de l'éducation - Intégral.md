@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-12
 
 # Partie législative
 
@@ -23,8 +23,8 @@ Pour garantir ce droit, la répartition des moyens du service public de l'éduca
 objectives, notamment en matière économique et sociale.
 
 Elle a pour but de renforcer l'encadrement des élèves dans les écoles et établissements d'enseignement situés dans des zones
-d'environnement social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux élèves en difficulté
-de bénéficier d'actions de soutien individualisé.
+d'environnement social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux élèves en
+difficulté, quelle qu'en soit l'origine, en particulier de santé, de bénéficier d'actions de soutien individualisé.
 
 L'acquisition d'une culture générale et d'une qualification reconnue est assurée à tous les jeunes, quelle que soit leur
 origine sociale, culturelle ou géographique.
@@ -58,6 +58,10 @@ origine sociale, culturelle ou géographique.
 	  - Code de l'éducation - art. R451-2 (V)
 	  - Code du travail - art. L6111-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+
 
 ###### Article L111-2
 
@@ -68,7 +72,7 @@ professionnelle et à l'exercice de ses responsabilités d'homme et de citoyen. 
 permanente. Les familles sont associées à l'accomplissement de ces missions.
 
 Pour favoriser l'égalité des chances, des dispositions appropriées rendent possible l'accès de chacun, en fonction de ses
-aptitudes, aux différents types ou niveaux de la formation scolaire.
+aptitudes et de ses besoins particuliers, aux différents types ou niveaux de la formation scolaire.
 
 L'Etat garantit le respect de la personnalité de l'enfant et de l'action éducative des familles.
 
@@ -82,6 +86,10 @@ L'Etat garantit le respect de la personnalité de l'enfant et de l'action éduca
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -172,9 +180,41 @@ Il associe à sa gestion, outre ses usagers et son personnel, des représentants
 
 ###### Article L112-1
 
-Les enfants et adolescents handicapés sont soumis à l'obligation éducative. Ils satisfont à cette obligation en recevant soit
-une éducation ordinaire, soit, à défaut, une éducation spéciale, déterminée en fonction des besoins particuliers de chacun
-d'eux par la commission départementale d'éducation spéciale.
+Pour satisfaire aux obligations qui lui incombent en application des articles L. 111-1 et L. 111-2, le service public de
+l'éducation assure une formation scolaire, professionnelle ou supérieure aux enfants, aux adolescents et aux adultes
+présentant un handicap ou un trouble de la santé invalidant. Dans ses domaines de compétence, l'Etat met en place les moyens
+financiers et humains nécessaires à la scolarisation en milieu ordinaire des enfants, adolescents ou adultes handicapés. 
+
+Tout enfant, tout adolescent présentant un handicap ou un trouble invalidant de la santé est inscrit dans l'école ou dans
+l'un des établissements mentionnés à l'article L. 351-1, le plus proche de son domicile, qui constitue son établissement de
+référence. 
+
+Dans le cadre de son projet personnalisé, si ses besoins nécessitent qu'il reçoive sa formation au sein de dispositifs
+adaptés, il peut être inscrit dans une autre école ou un autre établissement mentionné à l'article L. 351-1 par l'autorité
+administrative compétente, sur proposition de son établissement de référence et avec l'accord de ses parents ou de son
+représentant légal. Cette inscription n'exclut pas son retour à l'établissement de référence. 
+
+De même, les enfants et les adolescents accueillis dans l'un des établissements ou services mentionnés au 2° du I de
+l'article L. 312-1 du code de l'action sociale et des familles ou dans l'un des établissements mentionnés au livre Ier de la
+sixième partie du code de la santé publique peuvent être inscrits dans une école ou dans l'un des établissements mentionnés à
+l'article L. 351-1 du présent code autre que leur établissement de référence, proche de l'établissement où ils sont
+accueillis. Les conditions permettant cette inscription et cette fréquentation sont fixées par convention entre les autorités
+académiques et l'établissement de santé ou médico-social. 
+
+Si nécessaire, des modalités aménagées d'enseignement à distance leur sont proposées par un établissement relevant de la
+tutelle du ministère de l'éducation nationale. 
+
+Cette formation est entreprise avant l'âge de la scolarité obligatoire, si la famille en fait la demande. 
+
+Elle est complétée, en tant que de besoin, par des actions pédagogiques, psychologiques, éducatives, sociales, médicales et
+paramédicales coordonnées dans le cadre d'un projet personnalisé prévu à l'article L. 112-2. 
+
+Lorsqu'une scolarisation en milieu ordinaire a été décidée par la commission mentionnée à l'article L. 146-9 du code de
+l'action sociale et des familles mais que les conditions d'accès à l'établissement de référence la rendent impossible, les
+surcoûts imputables au transport de l'enfant ou de l'adolescent handicapé vers un établissement plus éloigné sont à la charge
+de la collectivité territoriale compétente pour la mise en accessibilité des locaux. Cette disposition ne fait pas obstacle à
+l'application de l'article L. 242-11 du même code lorsque l'inaccessibilité de l'établissement de référence n'est pas la
+cause des frais de transport.
 
 **Liens relatifs à cet article**
 
@@ -205,11 +245,34 @@ d'eux par la commission départementale d'éducation spéciale.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-1 (V)
+	  - Code de l'éducation - art. L112-2 (V)
+	  - Code de l'éducation - art. L351-1 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
+	  - Code de l'action sociale et des familles - art. L242-11 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+
 
 ###### Article L112-2
 
-L'intégration scolaire des jeunes handicapés est favorisée. Les établissements et services de soins et de santé y
-participent.
+Afin que lui soit assuré un parcours de formation adapté, chaque enfant, adolescent ou adulte handicapé a droit à une
+évaluation de ses compétences, de ses besoins et des mesures mises en oeuvre dans le cadre de ce parcours, selon une
+périodicité adaptée à sa situation. Cette évaluation est réalisée par l'équipe pluridisciplinaire mentionnée à l'article L.
+146-8 du code de l'action sociale et des familles. Les parents ou le représentant légal de l'enfant sont obligatoirement
+invités à s'exprimer à cette occasion. 
+
+En fonction des résultats de l'évaluation, il est proposé à chaque enfant, adolescent ou adulte handicapé, ainsi qu'à sa
+famille, un parcours de formation qui fait l'objet d'un projet personnalisé de scolarisation assorti des ajustements
+nécessaires en favorisant, chaque fois que possible, la formation en milieu scolaire ordinaire. Le projet personnalisé de
+scolarisation constitue un élément du plan de compensation visé à l'article L. 146-8 du code de l'action sociale et des
+familles. Il propose des modalités de déroulement de la scolarité coordonnées avec les mesures permettant l'accompagnement de
+celle-ci figurant dans le plan de compensation.
 
 **Liens relatifs à cet article**
 
@@ -222,6 +285,10 @@ participent.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -238,6 +305,84 @@ participent.
 	  - Code de l'éducation - art. L451-1 (M)
 	  - Code de l'éducation - art. R451-1 (VD)
 	  - Code des transports - art. L3111-7-1 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L146-8 (V)
+
+
+###### Article L112-2-1
+
+Des équipes de suivi de la scolarisation sont créées dans chaque département. Elles assurent le suivi des décisions de la
+commission des droits et de l'autonomie des personnes handicapées, prises au titre du 2° du I de l'article L. 241-6 du code
+de l'action sociale et des familles. 
+
+Ces équipes comprennent l'ensemble des personnes qui concourent à la mise en oeuvre du projet personnalisé de scolarisation
+et en particulier le ou les enseignants qui ont en charge l'enfant ou l'adolescent. 
+
+Elles peuvent, avec l'accord de ses parents ou de son représentant légal, proposer à la commission mentionnée à l'article L.
+241-5 du code de l'action sociale et des familles toute révision de l'orientation d'un enfant ou d'un adolescent qu'elles
+jugeraient utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+
+	**Cité par**:
+
+	  - Décret n°2005-1752 du 30 décembre 2005 - art. 7 (Ab)
+	  - Arrêté du 2 avril 2009 - art. 6 (V)
+	  - Arrêté du 6 février 2015 - art. 2 (V)
+	  - Décret n°2017-620 du 24 avril 2017 - art.
+	  - Code de l'action sociale et des familles - art. Annexe 2-12 (V)
+	  - Code de l'action sociale et des familles - art. L312-7-1 (VD)
+	  - Code de l'éducation - art. D351-10 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L241-5 (V)
+	  - Code de l'action sociale et des familles - art. L241-6 (V)
+
+
+###### Article L112-2-2
+
+Dans l'éducation et le parcours scolaire des jeunes sourds, la liberté de choix entre une communication bilingue, langue des
+signes et langue française, et une communication en langue française est de droit. Un décret en Conseil d'Etat fixe, d'une
+part, les conditions d'exercice de ce choix pour les jeunes sourds et leurs familles, d'autre part, les dispositions à
+prendre par les établissements et services où est assurée l'éducation des jeunes sourds pour garantir l'application de ce
+choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+
+	**Cité par**:
+
+	  - Décret n°2006-509 du 3 mai 2006 - art. 1 (Ab)
+	  - Code de l'éducation - art. R112-3 (V)
+	  - Code de l'éducation - art. R351-21 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L112-3 (V)
 
 
 ###### Article L112-3
@@ -260,6 +405,34 @@ spéciale peut être entreprise avant et poursuivie après l'âge de la scolarit
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L242-1 (M)
+
+
+###### Article L112-5
+
+Les enseignants et les personnels d'encadrement, d'accueil, techniques et de service reçoivent, au cours de leur formation
+initiale et continue, une formation spécifique concernant l'accueil et l'éducation des élèves et étudiants handicapés et qui
+comporte notamment une information sur le handicap tel que défini à l'article L. 114 du code de l'action sociale et des
+familles et les différentes modalités d'accompagnement scolaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+
+	**Cité par**:
+
+	  - Code de l'action sociale et des familles - art. D114-4 (V)
+	  - Code de l'action sociale et des familles - art. D312-10-8 (V)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ##### Chapitre III : Dispositions particulières aux enfants d'âge préscolaire.
@@ -857,6 +1030,39 @@ l'organisation de formations professionnelles ou à caractère culturel particul
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+###### Article L123-4-1
+
+Les établissements d'enseignement supérieur inscrivent les étudiants handicapés ou présentant un trouble de santé invalidant,
+dans le cadre des dispositions réglementant leur accès au même titre que les autres étudiants, et assurent leur formation en
+mettant en oeuvre les aménagements nécessaires à leur situation dans l'organisation, le déroulement et l'accompagnement de
+leurs études.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 20-1 (VD)
+	  - Code de l'action sociale et des familles - art. D245-9 (V)
+	  - Code de la sécurité sociale. - art. L321-1 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 20 () JORF 12 février 2005
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-660 du 22 juillet 2013 - art. 9
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L123-4-2 (V)
 
 
 ###### Article L123-5
@@ -7127,13 +7333,24 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 Pour l'application à Saint-Pierre-et-Miquelon des dispositions du chapitre II du titre Ier, les références aux dispositions
 du code général des collectivités territoriales sont remplacées par les références aux dispositions du code des communes
-applicables à cette collectivité.
+applicables à cette collectivité. 
 
-Les articles L. 213-1 à L. 213-9 et L. 214-5 à L. 214-10 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+Les articles L. 213-1 à L. 213-9 et L. 214-5 à L. 214-10 ne sont pas applicables à Saint-Pierre-et-Miquelon. 
 
-Aux articles L. 112-1 et L. 351-2, les mots : "commission départementale d'éducation spéciale" sont remplacés par les mots :
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, les mots mentionnés ci-dessous sont respectivement remplacés
+par les mots suivants :
 
-"commission territoriale d'éducation spéciale".
+- " le département " par " la collectivité de Saint-Pierre-et-Miquelon " ;
+
+- " préfet de région " et " préfet de département " par " représentant de l'Etat dans la collectivité ". 
+
+Le quatrième alinéa de l'article L. 112-1 est ainsi rédigé : 
+
+" Lorsqu'une intégration en milieu ordinaire a été décidée pour l'enfant, l'adolescent ou l'adulte handicapé par la
+commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles mais que les conditions d'accès à
+l'établissement la rendent impossible, les surcoûts imputables à la scolarisation dans un établissement plus éloigné sont à
+la charge de l'Etat ou de la collectivité territoriale compétente s'agissant de la construction, de la reconstruction ou de
+l'extension des locaux ".
 
 **Liens relatifs à cet article**
 
@@ -7144,13 +7361,14 @@ Aux articles L. 112-1 et L. 351-2, les mots : "commission départementale d'édu
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2005-102 2005-02-11 art. 93 3° JORF 12 février 2005
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L112-1 (M)
-	  - Code de l'éducation - art. L351-2 (M)
-	  - Code de l'éducation L213-1 à L213-9, L214-5 à L214-10, L112-1, L351-2
+	  - Code de l'éducation - art. L112-1 (V)
+	  - Code de l'éducation - art. L213-1 (VT)
+	  - Code de l'éducation - art. L214-5 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
 #### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
@@ -7902,6 +8120,27 @@ Tous les élèves sont initiés à la technologie et à l'usage de l'informatiqu
 	  - Code de l'éducation - art. L442-20 (V)
 
 
+##### Section 3 bis : L'enseignement de la langue des signes.
+
+###### Article L312-9-1
+
+La langue des signes française est reconnue comme une langue à part entière. Tout élève concerné doit pouvoir recevoir un
+enseignement de la langue des signes française. Le Conseil supérieur de l'éducation veille à favoriser son enseignement. Il
+est tenu régulièrement informé des conditions de son évaluation. Elle peut être choisie comme épreuve optionnelle aux examens
+et concours, y compris ceux de la formation professionnelle. Sa diffusion dans l'administration est facilitée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 75 () JORF 12 février 2005
+
+
 ##### Section 4 : L'enseignement des langues et cultures régionales.
 
 ###### Article L312-10
@@ -8088,6 +8327,12 @@ donnée une information sur le rôle des organisations non gouvernementales oeuv
 Lors de la présentation de la liste des fournitures scolaires, les élèves reçoivent une information sur la nécessité d'éviter
 l'achat de produits fabriqués par des enfants dans des conditions contraires aux conventions internationalement reconnues.
 
+L'enseignement d'éducation civique comporte également, à l'école primaire et au collège, une formation consacrée à la
+connaissance et au respect des problèmes des personnes handicapées et à leur intégration dans la société.
+
+Les établissements scolaires s'associent avec les centres accueillant des personnes handicapées afin de favoriser les
+échanges et les rencontres avec les élèves.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -8099,6 +8344,10 @@ l'achat de produits fabriqués par des enfants dans des conditions contraires au
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 22 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -10607,26 +10856,28 @@ NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L
 
 #### Titre V : Les enseignements pour les enfants et adolescents handicapés
 
-##### Chapitre Ier : L'éducation spéciale.
+##### Chapitre Ier : Scolarité.
 
 ###### Article L351-1
 
-Sans préjudice de l'application des dispositions relatives aux mineurs, délinquants ou en danger, relevant de l'autorité
-judiciaire, l'Etat prend en charge les dépenses d'enseignement et de première formation professionnelle des enfants et
-adolescents handicapés :
+Les enfants et adolescents présentant un handicap ou un trouble de santé invalidant sont scolarisés dans les écoles
+maternelles et élémentaires et les établissements visés aux articles L. 213-2, L. 214-6, L. 422-1, L. 422-2 et L. 442-1 du
+présent code et aux articles L. 811-8 et L. 813-1 du code rural, si nécessaire au sein de dispositifs adaptés, lorsque ce
+mode de scolarisation répond aux besoins des élèves. Les parents sont étroitement associés à la décision d'orientation et
+peuvent se faire aider par une personne de leur choix. La décision est prise par la commission mentionnée à l'article L.
+146-9 du code de l'action sociale et des familles, en accord avec les parents ou le représentant légal. A défaut, les
+procédures de conciliation et de recours prévues aux articles L. 146-10 et L. 241-9 du même code s'appliquent. Dans tous les
+cas et lorsque leurs besoins le justifient, les élèves bénéficient des aides et accompagnements complémentaires nécessaires.
 
-1° Soit, de préférence, en accueillant dans des classes ordinaires ou dans les classes, sections d'établissements,
-établissements ou services relevant des ministres chargés de l'éducation ou de l'agriculture, dans lesquels la gratuité de
-l'éducation est assurée, tous les enfants susceptibles d'y être admis malgré leur handicap ;
+L'enseignement est également assuré par des personnels qualifiés relevant du ministère chargé de l'éducation lorsque la
+situation de l'enfant ou de l'adolescent présentant un handicap ou un trouble de la santé invalidant nécessite un séjour dans
+un établissement de santé ou un établissement médico-social. Ces personnels sont soit des enseignants publics mis à la
+disposition de ces établissements dans des conditions prévues par décret, soit des maîtres de l'enseignement privé dans le
+cadre d'un contrat passé entre l'établissement et l'Etat dans les conditions prévues par le titre IV du livre IV.
 
-2° Soit en mettant du personnel qualifié relevant du ministre chargé de l'éducation à la disposition d'établissements ou
-services créés et entretenus par d'autres départements ministériels, par des personnes morales de droit public, ou par des
-groupements ou organismes à but non lucratif conventionnés à cet effet ; dans ce cas, le ministre chargé de l'éducation
-participe au contrôle de l'enseignement dispensé dans ces établissements ou services ;
-
-3° Soit en passant avec les établissements d'enseignement privés, selon les modalités particulières déterminées par décret en
-Conseil d'Etat, les contrats prévus par le titre IV du livre IV du présent code, ou avec les établissements d'enseignement et
-de formation professionnelle agricoles privés les contrats prévus par le livre VIII (nouveau) du code rural.
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles les enseignants exerçant dans des établissements publics
+relevant du ministère chargé des personnes handicapées ou titulaires de diplômes délivrés par ce dernier assurent également
+cet enseignement.
 
 **Liens relatifs à cet article**
 
@@ -10671,29 +10922,41 @@ de formation professionnelle agricoles privés les contrats prévus par le livre
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 2005-02-11 art. 21 I, II JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 21 () JORF 12 février 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L213-2 (M)
+	  - Code de l'éducation - art. L214-6 (M)
+	  - Code de l'éducation - art. L422-1 (M)
+	  - Code de l'éducation - art. L422-2 (M)
+	  - Code de l'éducation - art. L442-1 (V)
+	  - Code de l'action sociale et des familles - art. L146-10 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
+	  - Code de l'action sociale et des familles - art. L241-9 (V)
+	  - Code rural L811-8, L813-1
+
 
 ###### Article L351-2
 
-La commission départementale de l'éducation spéciale prévue à l'article 6 de la loi n° 75-534 du 30 juin 1975 d'orientation
-en faveur des personnes handicapées désigne les établissements ou les services ou à titre exceptionnel l'établissement ou le
-service dispensant l'éducation spéciale correspondant aux besoins de l'enfant ou de l'adolescent et en mesure de
-l'accueillir.
+La commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles désigne les établissements ou les
+services ou à titre exceptionnel l'établissement ou le service correspondant aux besoins de l'enfant ou de l'adolescent en
+mesure de l'accueillir. 
 
-La décision de la commission s'impose aux établissements scolaires ordinaires et aux établissements d'éducation spéciale dans
-la limite de la spécialité au titre de laquelle ils ont été autorisés ou agréés.
+La décision de la commission s'impose aux établissements scolaires ordinaires et aux établissements ou services mentionnés au
+2° et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles dans la limite de la spécialité au titre
+de laquelle ils ont été autorisés ou agréés. 
 
 Lorsque les parents ou le représentant légal de l'enfant ou de l'adolescent handicapé font connaître leur préférence pour un
-établissement ou un service dispensant l'éducation spéciale correspondant à ses besoins et en mesure de l'accueillir, la
-commission est tenue de faire figurer cet établissement ou service au nombre de ceux qu'elle désigne, quelle que soit sa
-localisation.
+établissement ou un service correspondant à ses besoins et en mesure de l'accueillir, la commission est tenue de faire
+figurer cet établissement ou service au nombre de ceux qu'elle désigne, quelle que soit sa localisation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
-
-	  - Loi n°75-534 du 30 juin 1975 - art. 6 (M)
-
-	**Cite**:
 
 	  - Loi n°75-534 du 30 juin 1975 - art. 6 (M)
 
@@ -10702,6 +10965,11 @@ localisation.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 2005-02-11 art. 21 I, III JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 21 () JORF 12 février 2005
+
 	**Cité par**:
 
 	  - Décret n°2015-1451 du 10 novembre 2015 - art. (V)
@@ -10709,20 +10977,27 @@ localisation.
 	  - Code de l'action sociale et des familles - art. L242-3 (Ab)
 	  - Code de l'éducation - art. L251-1 (M)
 
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (V)
+
 
 ###### Article L351-3
 
-Lorsque la commission départementale de l'éducation spéciale constate qu'un enfant peut être scolarisé dans une classe de
-l'enseignement public ou d'un établissement visé au 3° de l'article L. 351-1 à condition de bénéficier d'une aide
-individuelle dont elle détermine la quotité horaire, cette aide peut être apportée par un assistant d'éducation recruté
-conformément au sixième alinéa de l'article L. 916-1.
+Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles constate qu'un enfant peut
+être scolarisé dans une classe de l'enseignement public ou d'un établissement visé au 3° de l'article L. 351-1 du présent
+code à condition de bénéficier d'une aide individuelle dont elle détermine la quotité horaire, cette aide peut être apportée
+par un assistant d'éducation recruté conformément au sixième alinéa de l'article L. 916-1.
 
 Les assistants d'éducation affectés aux missions d'aide à l'accueil et à l'intégration scolaires des enfants handicapés sont
-recrutés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+recrutés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. Si l'aide individuelle
+nécessaire à l'enfant handicapé ne comporte pas de soutien pédagogique, ces assistants peuvent être recrutés sans condition
+de diplôme. Ils reçoivent une formation adaptée.
 
 Ils exercent leurs fonctions auprès des élèves pour lesquels une aide a été reconnue nécessaire par décision de la commission
-départementale de l'éducation spéciale. Leur contrat précise le nom des élèves dont ils ont la charge ainsi que le ou les
-établissements au sein desquels ils exercent leurs fonctions.
+mentionnée à l'article L. 146-9 du code de l'action sociale et des familles. Leur contrat de travail précise le nom des
+écoles et des établissements scolaires au sein desquels ils sont susceptibles d'exercer leurs fonctions.
 
 Ces assistants d'éducation bénéficient d'une formation spécifique leur permettant de répondre aux besoins particuliers des
 élèves qui leur sont confiés.
@@ -10733,10 +11008,6 @@ Ces assistants d'éducation bénéficient d'une formation spécifique leur perme
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-400 du 30 avril 2003 - art. 2 () JORF 2 mai 2003
 
 	**Cité par**:
 
@@ -10750,9 +11021,15 @@ Ces assistants d'éducation bénéficient d'une formation spécifique leur perme
 	  - Code de l'éducation - art. R222-24-1 (V)
 	  - Code rural et de la pêche maritime - art. L811-10 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 2005-02-11 art. 21 I, IV JORF 12 février 2005
+	  - Loi n°2005-102 du 11 février 2005 - art. 21 () JORF 12 février 2005
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L351-1 (M)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
 ##### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.
@@ -23070,7 +23347,7 @@ la recherche et le développement technologique de la France sont applicables au
 	  - Loi n°2011-525 du 17 mai 2011 - art. 118
 
 
-#### Titre II : Les instituts universitaires de formation des maîtres
+#### Titre II : Etablissements de formation des maîtres
 
 ##### Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres.
 
@@ -23096,6 +23373,11 @@ Les instituts universitaires de formation des maîtres participent à la formati
 recherche en éducation.
 
 Ils organisent des formations de préparation professionnelle en faveur des étudiants.
+
+**Nota:**
+
+NOTA : Loi 2005-380 2005-04-23 art. 87 : l'article L. 721-1 demeure applicable aux instituts universitaires de formation des
+maîtres jusqu'à la date de leur intégration dans l'une des universités de rattachement.
 
 **Liens relatifs à cet article**
 
@@ -23138,7 +23420,7 @@ Ils organisent des formations de préparation professionnelle en faveur des étu
 
 	**Modifié par**:
 
-	  - Loi n°2000-1207 du 13 décembre 2000 - art. 32
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 
 ###### Article L721-2
@@ -23170,6 +23452,10 @@ enseignants des centres de formation d'apprentis.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 
 ###### Article L721-3
 
@@ -23182,7 +23468,16 @@ des conseils d'administration des établissements auxquels l'institut universita
 ainsi que des représentants des communes, départements et région, des représentants des personnels formateurs ou ayant
 vocation à bénéficier de formations et des étudiants en formation.
 
+**Nota:**
+
+Loi 2005-380 2005-04-23 art. 87 : l'article L. 721-3 demeure applicable aux instituts universitaires de formation des maîtres
+jusqu'à la date de leur intégration dans l'une des universités de rattachement.
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Date d'application indéterminée
 
 	**Anciens textes**:
 
@@ -23192,6 +23487,14 @@ vocation à bénéficier de formations et des étudiants en formation.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2005-380 du 23 avril 2005 - art. 45 () JORF 24 avril 2005
 
 	**Cité par**:
 
@@ -23228,6 +23531,10 @@ normales primaires et à leurs écoles annexes sont affectés aux instituts univ
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L721-1 (M)
@@ -23261,9 +23568,13 @@ des dépenses correspondantes.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-1 (M)
+	  - Code de l'éducation - art. L722-1 (V)
 
 	**Cité par**:
 
@@ -23290,17 +23601,21 @@ les conditions et selon les modalités définies par les articles L. 722-5 à L.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-1 (M)
-	  - Code de l'éducation - art. L722-2 (M)
-	  - Code de l'éducation L722-2, L722-1, L722-5 à L722-15
+	  - Code de l'éducation - art. L722-1 (V)
+	  - Code de l'éducation - art. L722-2 (V)
+	  - Code de l'éducation - art. L722-5 (V)
 
 
 ###### Article L722-4
 
 La convention mentionnée à l'article L. 722-2 est passée avant la date de création de l'institut universitaire de formation
-des maîtres. Elle est conclue sans limitation de durée. Elle peut être révisée à la demande de l'une des deux parties.
+des maîtres. Elle est conclue sans limitation de durée. Elle peut être révisée à la demande de l'une des deux parties. 
 
 La résiliation peut également être demandée par l'une des deux parties ; elle prend effet au 1er janvier de la deuxième année
 qui suit la demande et entraîne l'application des dispositions des articles L. 722-5 à 722-15.
@@ -23317,10 +23632,14 @@ qui suit la demande et entraîne l'application des dispositions des articles L. 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-2 (M)
-	  - Code de l'éducation L722-2, L722-5 à 722-15
+	  - Code de l'éducation - art. L722-2 (V)
+	  - Code de l'éducation - art. L722-5 (V)
 
 
 ###### Article L722-5
@@ -23329,19 +23648,19 @@ Lorsque le département est propriétaire des biens mentionnés à l'article L. 
 biens a lieu à la date de création de l'institut universitaire de formation des maîtres ; elle est faite à titre gratuit ;
 elle est constatée par un procès-verbal établi contradictoirement entre les représentants de l'Etat et du département. Le
 procès-verbal précise la consistance, la situation juridique, l'état des biens et l'évaluation de la remise en état de ceux-
-ci.
+ci. 
 
 L'Etat assume l'ensemble des obligations du propriétaire. Il possède tous pouvoirs de gestion sous réserve des dispositions
-de l'article L. 722-16 et agit en justice au lieu et place du département.
+de l'article L. 722-16 et agit en justice au lieu et place du département. 
 
 Il peut procéder à tous travaux de grosses réparations, de reconstruction, de démolition, de surélévation ou d'addition de
-constructions qui ne remettent pas en cause l'affectation des biens.
+constructions qui ne remettent pas en cause l'affectation des biens. 
 
-L'Etat assure l'entretien et le renouvellement des biens meubles mentionnés à l'article L. 722-1.
+L'Etat assure l'entretien et le renouvellement des biens meubles mentionnés à l'article L. 722-1. 
 
 L'Etat est substitué au département dans ses droits et obligations relatifs aux biens dont il prend en charge les dépenses.
 Toutefois, le département conserve la charge du remboursement des emprunts qu'il avait contractés avant la mise à disposition
-des biens.
+des biens. 
 
 Lorsque le département est locataire des biens mis à disposition, l'Etat succède à tous ses droits et obligations. Il est
 substitué au département dans les contrats de toute nature que celui-ci avait conclus pour l'aménagement, l'entretien et la
@@ -23360,10 +23679,14 @@ constate cette substitution et la notifie à ses cocontractants.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-1 (M)
-	  - Code de l'éducation - art. L722-16 (M)
+	  - Code de l'éducation - art. L722-1 (V)
+	  - Code de l'éducation - art. L722-16 (VT)
 
 	**Cité par**:
 
@@ -23388,6 +23711,10 @@ A défaut d'accord entre le représentant de l'Etat dans le département et le p
 du ministre de l'intérieur et du ministre chargé de l'enseignement supérieur fixe le montant de ces dépenses après avis de la
 chambre régionale des comptes territorialement compétente.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -23400,6 +23727,10 @@ chambre régionale des comptes territorialement compétente.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. L722-7 (V)
@@ -23409,18 +23740,18 @@ chambre régionale des comptes territorialement compétente.
 
 ###### Article L722-7
 
-Pour l'évaluation des dépenses mentionnées à l'article L. 722-6, il est fait application des règles suivantes :
+Pour l'évaluation des dépenses mentionnées à l'article L. 722-6, il est fait application des règles suivantes : 
 
 a) Le montant des dépenses de fonctionnement est arrêté sur la base du compte administratif du département afférent au
-dernier exercice précédant l'année de prise en charge par l'Etat ;
+dernier exercice précédant l'année de prise en charge par l'Etat ; 
 
 b) Le montant des dépenses ne relevant pas du a est calculé par référence aux dépenses actualisées des exercices antérieurs.
 A défaut d'accord sur la période de référence, ce montant est égal à la moyenne annuelle des dépenses actualisées des cinq
 dernières années. Il est pondéré afin de tenir compte de la différence entre la moyenne annuelle départementale et la moyenne
 annuelle nationale des dépenses engagées à ce titre, au cours des cinq dernières années, par instituteur exerçant dans le
-département. Un décret fixe les modalités de cette pondération ;
+département. Un décret fixe les modalités de cette pondération ; 
 
-c) Les dépenses sont évaluées hors taxe sur la valeur ajoutée.
+c) Les dépenses sont évaluées hors taxe sur la valeur ajoutée. 
 
 Le montant des dépenses ainsi déterminé est actualisé par application du taux d'évolution de la dotation globale de
 fonctionnement des départements pour l'année de prise en charge par l'Etat.
@@ -23437,9 +23768,13 @@ fonctionnement des départements pour l'année de prise en charge par l'Etat.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-6 (M)
+	  - Code de l'éducation - art. L722-6 (VT)
 
 	**Cité par**:
 
@@ -23466,11 +23801,15 @@ code. Cette diminution est réalisée à titre définitif.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales L1614-1 à L1614-4
-	  - Code de l'éducation - art. L722-6 (M)
-	  - Code de l'éducation - art. L722-7 (M)
+	  - Code général des collectivités territoriales - art. L1614-1 (V)
+	  - Code de l'éducation - art. L722-6 (VT)
+	  - Code de l'éducation - art. L722-7 (V)
 
 
 ###### Article L722-9
@@ -23490,9 +23829,13 @@ de l'Etat, la collectivité propriétaire recouvre l'ensemble de ses droits et o
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-5 (M)
+	  - Code de l'éducation - art. L722-5 (V)
 
 
 ###### Article L722-10
@@ -23528,6 +23871,10 @@ vacances d'emploi.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. L722-11 (VD)
@@ -23538,14 +23885,18 @@ vacances d'emploi.
 
 A compter de la date de création de l'institut universitaire de formation des maîtres, le représentant de l'Etat dans le
 département et le président du conseil général établissent, par convention, dans un délai de trois mois, un état des emplois
-et des agents mentionnés à l'article L. 722-10, qui comprend le montant des dépenses correspondant à chaque emploi.
+et des agents mentionnés à l'article L. 722-10, qui comprend le montant des dépenses correspondant à chaque emploi. 
 
 Cette convention prend effet après approbation par un arrêté du ministre de l'intérieur et du ministre chargé de
-l'enseignement supérieur.
+l'enseignement supérieur. 
 
 A défaut d'accord entre le représentant de l'Etat dans le département et le président du conseil général, un arrêté conjoint
 du ministre de l'intérieur et du ministre chargé de l'enseignement supérieur fixe cet état après avis de la chambre régionale
 des comptes territorialement compétente.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -23559,9 +23910,13 @@ des comptes territorialement compétente.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-10 (M)
+	  - Code de l'éducation - art. L722-10 (V)
 
 	**Cité par**:
 
@@ -23574,15 +23929,19 @@ des comptes territorialement compétente.
 
 Chaque année, il est procédé au calcul du montant des dépenses afférentes aux rémunérations des agents mentionnés à l'article
 L. 722-10 supportées par les départements et correspondant aux emplois figurant sur l'état prévu à l'article L. 722-11 qui
-donnent lieu à un transfert de prise en charge financière l'année suivante.
+donnent lieu à un transfert de prise en charge financière l'année suivante. 
 
-Les dépenses prises en compte sont celles qui ont été supportées au titre du dernier exercice budgétaire clos.
+Les dépenses prises en compte sont celles qui ont été supportées au titre du dernier exercice budgétaire clos. 
 
 Ce montant est arrêté par accord entre le représentant de l'Etat dans le département et le président du conseil général, pour
-chaque année, avant le 30 avril de l'année précédente.
+chaque année, avant le 30 avril de l'année précédente. 
 
 En cas de désaccord, ce montant est fixé par arrêté du ministre de l'intérieur et du ministre chargé de l'enseignement
 supérieur.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -23596,10 +23955,14 @@ supérieur.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-10 (M)
-	  - Code de l'éducation - art. L722-11 (M)
+	  - Code de l'éducation - art. L722-10 (V)
+	  - Code de l'éducation - art. L722-11 (VT)
 
 	**Cité par**:
 
@@ -23617,8 +23980,8 @@ portant droits et obligations des fonctionnaires et afférent à l'indice nouvea
 
 	**Cite**:
 
-	  - Loi n°83-634 1983-07-13 art. 20
-	  - Code de l'éducation - art. L722-12 (M)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 20 (M)
+	  - Code de l'éducation - art. L722-12 (VT)
 
 	**Anciens textes**:
 
@@ -23629,6 +23992,10 @@ portant droits et obligations des fonctionnaires et afférent à l'indice nouvea
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 	**Cité par**:
 
@@ -23654,10 +24021,14 @@ du présent code.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales L1614-1 à L1614-4
-	  - Code de l'éducation - art. L722-13 (M)
+	  - Code général des collectivités territoriales - art. L1614-1 (V)
+	  - Code de l'éducation - art. L722-13 (V)
 
 
 ###### Article L722-15
@@ -23679,9 +24050,13 @@ des dépenses correspondant aux emplois pris en charge au titre de la même ann�
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
 	**Cite**:
 
-	  - Code de l'éducation L722-11 à L722-14
+	  - Code de l'éducation - art. L722-11 (VT)
 
 
 ###### Article L722-16
@@ -23703,6 +24078,10 @@ pour la mise en oeuvre des missions inscrites à l'article L. 721-1.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 	**Cite**:
 
@@ -23731,9 +24110,9 @@ l'entretien et à la gestion des biens mentionnés à l'article L. 722-1.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 6 () JORF 23 janvier 2002
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 	**Cite**:
 
@@ -23743,6 +24122,35 @@ l'entretien et à la gestion des biens mentionnés à l'article L. 722-1.
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L4425-2 (VD)
+
+
+##### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires
+
+###### Article L723-1
+
+La formation professionnelle initiale et continue des personnels qui concourent à la mission d'adaptation et d'intégration
+scolaires des enfants et adolescents handicapés mentionnés au titre V du livre III est confiée à un établissement public
+national à caractère administratif placé sous la tutelle du ministre chargé de l'enseignement supérieur et du ministre chargé
+de l'éducation.
+
+Cet établissement est administré par un conseil d'administration et dirigé par un directeur nommé par arrêté des ministres
+précités. Le conseil d'administration comprend des représentants de l'Etat, des personnalités qualifiées, des représentants
+des établissements publics d'enseignement supérieur et des collectivités territoriales ainsi que des représentants élus du
+personnel et des usagers. Il est assisté par un conseil scientifique et pédagogique.
+
+Un décret fixe les attributions, les modalités d'organisation et de fonctionnement, et la composition du conseil
+d'administration de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
 
 
 #### Titre III : Les établissements d'enseignement supérieur privés
@@ -26973,7 +27381,10 @@ d'une période d'engagement totale de six ans.
 Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers.
 
 Par dérogation au premier alinéa, des assistants d'éducation peuvent être recrutés par l'Etat pour exercer des fonctions
-d'aide à l'accueil et à l'intégration des élèves handicapés dans les conditions prévues à l'article L. 351-3.
+d'aide à l'accueil et à l'intégration des élèves handicapés dans les conditions prévues à l'article L. 351-3, ainsi que pour
+exercer des fonctions d'accompagnement auprès des étudiants handicapés inscrits dans les établissements d'enseignement
+supérieur mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été reconnue
+nécessaire par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles.
 
 Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique paritaire
 ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de
@@ -27014,15 +27425,16 @@ loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à l
 	  - Code du travail - art. L900-1 (M)
 	  - Code du travail - art. L934-1 (T)
 	  - Code du travail - art. L970-1 (M)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-400 du 30 avril 2003 - art. 2 () JORF 2 mai 2003
+	  - Loi n°2005-102 du 11 février 2005 - art. 20 () JORF 12 février 2005
 
 
 ###### Article L916-2
