@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2004-09-01
 
 # Partie législative
 
@@ -1649,6 +1649,45 @@ Dans les établissements du premier degré publics, l'enseignement est exclusive
 	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 17 (Ab)
 
 
+###### Article L141-5-1
+
+Dans les écoles, les collèges et les lycées publics, le port de signes ou tenues par lesquels les élèves manifestent
+ostensiblement une appartenance religieuse est interdit.
+
+Le règlement intérieur rappelle que la mise en oeuvre d'une procédure disciplinaire est précédée d'un dialogue avec l'élève.
+
+**Nota:**
+
+Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée de
+l'année scolaire qui suit sa publication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Créé par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 1 () JORF 17 mars 2004 en vigueur le 1er septembre 2004
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L161-1 (V)
+	  - Code de l'éducation - art. L162-1 (M)
+	  - Code de l'éducation - art. L164-1 (V)
+	  - Code de l'éducation - art. L451-1 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1886-10-30 art. 17
+
+
 ###### Article L141-6
 
 Le service public de l'enseignement supérieur est laïque et indépendant de toute emprise politique, économique, religieuse ou
@@ -1831,15 +1870,15 @@ L'enseignement supérieur est libre.
 
 Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1,
 les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L.
-122-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-6, L. 151-1, L.
-151-3 et L. 151-6.
+122-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5-1, L. 141-6, L.
+151-1, L. 151-3 et L. 151-6.
 
 Les dispositions de l'article L. 131-1 sont applicables à compter du 1er janvier 2001.
 
 **Nota:**
 
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-de l'année scolaire qui suit sa publication.
+NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
+scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -1855,6 +1894,14 @@ de l'année scolaire qui suit sa publication.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L111-1 (M)
@@ -1869,11 +1916,12 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L132-2 (V)
 	  - Code de l'éducation - art. L141-2 (V)
 	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
 	  - Code de l'éducation - art. L141-6 (V)
 	  - Code de l'éducation - art. L151-1 (V)
 	  - Code de l'éducation - art. L151-3 (V)
 	  - Code de l'éducation - art. L151-6 (V)
-	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-6, L151-1, L151-3, L151-6, L131-1
+	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5-1, L141-6, L151-1, L151-3, L151-6, L131-1
 
 
 ###### Article L161-2
@@ -1929,13 +1977,13 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 Sont applicables à Mayotte les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les articles L. 111-2
 à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-5, L. 122-1, L.
-122-2, L. 122-5, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4 à L. 141-6, L. 151-1 à L. 151-3 et L.
-151-6.
+122-2, L. 122-5, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-5-1, L. 141-6, L.
+151-1 à L. 151-3 et L. 151-6.
 
 **Nota:**
 
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-de l'année scolaire qui suit sa publication.
+NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
+scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -1952,6 +2000,14 @@ de l'année scolaire qui suit sa publication.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L111-1 (M)
@@ -1965,8 +2021,12 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L132-1 (V)
 	  - Code de l'éducation - art. L132-2 (V)
 	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
+	  - Code de l'éducation - art. L141-6 (V)
 	  - Code de l'éducation - art. L151-6 (V)
-	  - Code de l'éducation L111-1, L111-2 à L111-4, L112-1 à L112-3, L113-1, L121-1 à L121-5, L122-1, L122-2, L122-5, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4 à L141-6, L151-1 à L151-3, L151-6
+	  - Code de l'éducation L111-1, L111-2 à L111-4, L112-1 à L112-3, L113-1, L121-1 à L121-5, L122-1, L122-2, L122-5, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-5-1, L141-6, L151-1 à L151-3, L151-6
 
 
 ###### Article L162-2
@@ -2039,13 +2099,13 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 Sont applicables en Polynésie française les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les
 articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L. 122-1,
-L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4 à L. 141-6, L. 151-1, L.
-151-3 et L. 151-6.
+L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L.
+151-1, L. 151-3 et L. 151-6.
 
 **Nota:**
 
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-de l'année scolaire qui suit sa publication.
+NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
+scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -2063,6 +2123,14 @@ de l'année scolaire qui suit sa publication.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L111-1 (M)
@@ -2076,10 +2144,13 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L132-1 (V)
 	  - Code de l'éducation - art. L132-2 (V)
 	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5 (V)
+	  - Code de l'éducation - art. L141-6 (V)
 	  - Code de l'éducation - art. L151-1 (V)
 	  - Code de l'éducation - art. L151-3 (V)
 	  - Code de l'éducation - art. L151-6 (V)
-	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4 à L141-6, L151-1, L151-3, L151-6
+	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-6, L151-1, L151-3, L151-6
 
 
 ###### Article L163-2
@@ -2153,12 +2224,15 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième et cinquième alinéas de l'article L. 111-1, les
 articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L. 121-4, L. 122-1,
 le deuxième alinéa de l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2,
-L. 141-2, L. 141-4 à L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
+L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
+
+L'article L. 141-5-1 est applicable aux établissements publics d'enseignement du second degré mentionnés au III de l'article
+21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie qui relèvent de la compétence de l'Etat.
 
 **Nota:**
 
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-de l'année scolaire qui suit sa publication.
+NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
+scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -2171,13 +2245,9 @@ de l'année scolaire qui suit sa publication.
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Cite**:
 
+	  - Loi n°99-209 du 19 mars 1999 - art. 21 (V)
 	  - Code de l'éducation - art. L111-1 (M)
 	  - Code de l'éducation - art. L112-2 (M)
 	  - Code de l'éducation - art. L113-1 (M)
@@ -2189,10 +2259,27 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L132-1 (V)
 	  - Code de l'éducation - art. L132-2 (V)
 	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
+	  - Code de l'éducation - art. L141-6 (V)
 	  - Code de l'éducation - art. L151-1 (V)
 	  - Code de l'éducation - art. L151-3 (V)
 	  - Code de l'éducation - art. L151-6 (V)
-	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4 à L141-6, L151-1, L151-3, L151-6
+	  - Code de l'éducation L111-1, L111-2 à L111-5, L112-2, L113-1, L121-1 à L121-4, L122-1, L122-5, L123-1 à L123-9, L131-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-6, L151-1, L151-3, L151-6, L141-5-1
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
 
 
 ###### Article L164-2
@@ -11536,32 +11623,6 @@ d'administration, qui statue sur proposition des équipes pédagogiques pour ce 
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-###### Article L421-6
-
-Le rapport mentionné à l'article L. 421-4, qui rend compte, notamment, de la mise en oeuvre et des résultats du projet
-d'établissement, est transmis au représentant de l'Etat dans le département, à l'autorité académique et à la collectivité
-territoriale de rattachement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-486 du 10 juillet 1989 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 1 () JORF 2 juillet 2004 en vigueur le 1er septembre 2004
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L421-4 (M)
-
-
 ###### Article L421-7
 
 Les établissements scolaires organisent des contacts et des échanges avec leur environnement économique, culturel et social.
@@ -11681,7 +11742,11 @@ a) Avant le 1er novembre de l'année précédant l'exercice, le montant prévisi
 d'équipement et de fonctionnement incombant à la collectivité territoriale dont dépend l'établissement et les orientations
 relatives à l'équipement et au fonctionnement matériel de l'établissement, arrêtés par l'assemblée délibérante de cette
 collectivité, sont notifiés au chef d'établissement. Cette participation ne peut être réduite lors de l'adoption ou de la
-modification du budget de cette collectivité ;
+modification du budget de cette collectivité.
+
+La répartition des crédits aux établissements par les collectivités de rattachement se fonde notamment sur des critères tels
+que le nombre d'élèves, l'importance de l'établissement, le type d'enseignement, les populations scolaires concernées, les
+indicateurs qualitatifs de la scolarisation ;
 
 b) Le chef d'établissement prépare le projet de budget en fonction des orientations fixées et dans la limite de l'ensemble
 des ressources dont dispose l'établissement. Il le soumet au conseil d'administration ;
@@ -11709,11 +11774,7 @@ l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établisseme
 f) Lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité
 dont dépend l'établissement, il est fait application de la procédure prévue au e. Toutefois, le délai prévu au deuxième
 alinéa dudit e est d'un mois à compter de la saisine par le représentant de l'Etat de la collectivité de rattachement et de
-l'autorité académique ;
-
-g) La répartition des crédits aux établissements par les collectivités de rattachement se fonde notamment sur des critères
-tels que le nombre d'élèves, l'importance de l'établissement, le type d'enseignement, les populations scolaires concernées,
-les indicateurs qualitatifs de la scolarisation.
+l'autorité académique.
 
 **Liens relatifs à cet article**
 
@@ -11752,6 +11813,10 @@ les indicateurs qualitatifs de la scolarisation.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 2 () JORF 2 juillet 2004 en vigueur le 1er septembre 2004
+
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code des juridictions financières - art. L232-4 (V)
@@ -11760,7 +11825,7 @@ les indicateurs qualitatifs de la scolarisation.
 ###### Article L421-12
 
 A l'exclusion de la date mentionnée au a de l'article L. 421-11, les dispositions de cet article sont applicables aux budgets
-modificatifs.
+modificatifs. Toutefois, le délai prévu au second alinéa du d est de quinze jours.
 
 **Liens relatifs à cet article**
 
@@ -11769,9 +11834,13 @@ modificatifs.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 3 () JORF 2 juillet 2004 en vigueur le 1er septembre 2004
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L421-11 (M)
+	  - Code de l'éducation - art. L421-11 (V)
 
 	**Cité par**:
 
@@ -11787,36 +11856,40 @@ modificatifs.
 
 ###### Article L421-13
 
-I. - Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 1612-5
+I.-Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 1612-5
 du code général des collectivités territoriales et du troisième alinéa de l'article L. 1612-15 du même code, le représentant
 de l'Etat ne peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des effectifs ou à la consistance
 du parc de matériels ou des locaux, majorer la participation de la collectivité de rattachement que dans une proportion
 n'excédant ni l'évolution du produit de la fiscalité directe de la collectivité de rattachement ni l'évolution des recettes
-allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement.
+allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement. 
 
-II. - Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L.
-1612-15, L. 1612-16 du code général des collectivités territoriales et L. 242-2 du code des juridictions financières, les
-prérogatives du maire et du conseil municipal sont exercées respectivement par le chef d'établissement et le conseil
-d'administration.
+II.-Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L. 1612-15,
+L. 1612-16 du code général des collectivités territoriales et L. 242-2 du code des juridictions financières, les prérogatives
+de l'exécutif et de l'assemblée délibérante sont exercées respectivement par le chef d'établissement et le conseil
+d'administration. 
 
 Toutefois, lorsque le budget a été arrêté conformément au premier alinéa du e de l'article L. 421-11 du présent code et qu'il
 n'est pas en équilibre réel, une décision conjointe de la collectivité de rattachement et de l'autorité académique tient lieu
 de la nouvelle délibération mentionnée au deuxième alinéa de l'article L. 1612-5 du code général des collectivités
-territoriales.
+territoriales. 
 
-III. - Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités
-territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration du
-sixième mois suivant la clôture de l'exercice.
+III.-Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités
+territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration d'un
+délai fixé par décret en conseil d'Etat. 
 
 Les autres dispositions de l'article L. 1612-12 du code général des collectivités territoriales et celles de l'article L.
-1612-14 du même code ne sont pas applicables.
+1612-14 du même code ne sont pas applicables. 
 
-Le budget de l'établissement est exécuté en équilibre réel.
+Le budget de l'établissement est exécuté en équilibre réel. 
 
-IV. - Pour l'application des dispositions du présent article et des articles L. 421-11 et L. 421-12 du présent code, le
-conseil général ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles
+IV.-Pour l'application des dispositions du présent article et des articles L. 421-11 et L. 421-12 du présent code, le conseil
+général ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles
 relatives à la fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 421-11
 du présent code.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -11825,15 +11898,24 @@ du présent code.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 4 () JORF 2 juillet 2004 en vigueur le 1er septembre 2004
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. L232-6 (M)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1612-12 (M)
+	  - Code général des collectivités territoriales - art. L1612-1 (V)
+	  - Code général des collectivités territoriales - art. L1612-12 (VT)
 	  - Code général des collectivités territoriales - art. L1612-14 (V)
 	  - Code général des collectivités territoriales - art. L1612-15 (V)
-	  - Code général des collectivités territoriales - art. L1612-5 (M)
-	  - Code de l'éducation - art. L421-11 (M)
-	  - Code de l'éducation - art. L421-12 (M)
-	  - Code de l'éducation L1612-1, L1612-5, L1612-9, L1612-12, L421-11, L421-12
+	  - Code général des collectivités territoriales - art. L1612-5 (V)
+	  - Code général des collectivités territoriales - art. L1612-9 (V)
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code de l'éducation - art. L421-12 (V)
 
 	**Cité par**:
 
@@ -11850,40 +11932,24 @@ du présent code.
 
 ###### Article L421-14
 
-I. - Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes du conseil
-d'administration relatifs à la passation des conventions, et notamment des marchés, ainsi que les actes relatifs au
-fonctionnement de l'établissement et qui n'ont pas trait au contenu ou à l'organisation de l'action éducatrice sont soumis à
-l'obligation de transmission au représentant de l'Etat, à la collectivité de rattachement et à l'autorité académique. Ils
-sont exécutoires quinze jours après ces transmissions.
+I.-Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes de
+l'établissement relatifs à la passation des conventions, et notamment des marchés, et les actes relatifs au fonctionnement de
+l'établissement et qui n'ont pas trait au contenu ou à l'organisation de l'action éducatrice peuvent, dans les conditions
+prévues à l'article L. 2131-6 du code général des collectivités territoriales, être déférés au tribunal administratif par le
+représentant de l'Etat, ou, par délégation de ce dernier, par l'autorité académique. 
 
-Dans le délai prévu à l'alinéa précédent, la collectivité de rattachement ou l'autorité académique peut en demander une
-seconde délibération.
+Un décret en Conseil d'Etat fixe la liste des actes mentionnés à l'alinéa précédent qui sont transmis au représentant de
+l'Etat, ou, par délégation de celui-ci, à l'autorité académique. Il précise ceux qui sont exécutoires dès leur transmission
+et ceux qui sont exécutoires quinze jours après leur transmission. 
 
-Les actes mentionnés au premier alinéa sont soumis au contrôle de légalité du représentant de l'Etat, conformément aux
-dispositions du code général des collectivités territoriales.
+II.-Les actes de l'établissement relatifs à l'organisation ou au contenu de l'action éducatrice dont la liste est fixée par
+décret en Conseil d'Etat sont transmis à l'autorité académique. Ils deviennent exécutoires quinze jours après leur
+transmission. Dans ce délai, l'autorité académique peut prononcer l'annulation de ces actes lorsqu'ils sont contraires aux
+lois et règlements ou de nature à porter atteinte au fonctionnement du service public de l'éducation. La décision motivée est
+communiquée sans délai à l'auteur de l'acte. 
 
-Les actes relatifs au contenu ou à l'organisation de l'action éducatrice sont exécutoires quinze jours après leur
-transmission à l'autorité académique. Dans ce délai, l'autorité académique peut prononcer l'annulation de ces actes,
-lorsqu'ils sont contraires aux lois et règlements ou de nature à porter atteinte au fonctionnement du service public de
-l'enseignement. La décision motivée doit être communiquée sans délai au conseil d'administration.
-
-II. - Par dérogation aux dispositions des articles L. 2131-1 à L. 2131-5 du code général des collectivités territoriales, les
-actes du chef d'établissement pris pour la passation ou l'exécution de conventions, et notamment de marchés, sont soumis à
-l'obligation de transmission au représentant de l'Etat, à la collectivité de rattachement et à l'autorité académique. Ils
-sont exécutoires quinze jours après ces transmissions.
-
-Pour ces actes, dans le délai prévu à l'alinéa précédent, et sans préjudice des dispositions prévues par le code général des
-collectivités territoriales pour le contrôle de légalité du représentant de l'Etat, la collectivité de rattachement ou
-l'autorité académique peut assortir son recours d'une demande de suspension soumise aux dispositions du troisième alinéa de
-l'article L. 2131-6 du code général des collectivités territoriales.
-
-Les actes, autres que ceux qui sont mentionnés aux deux alinéas ci-dessus, relatifs au contenu ou à l'organisation de
-l'action éducatrice, sont exécutoires quinze jours après leur transmission à l'autorité académique. Dans ce délai, l'autorité
-académique peut prononcer l'annulation de ces actes lorsqu'ils sont contraires aux lois et règlements ou de nature à porter
-atteinte au fonctionnement du service public de l'enseignement.
-
-III. - L'autorité académique et la collectivité de rattachement sont informées régulièrement de la situation financière de
-l'établissement ainsi que préalablement à la passation de toute convention à incidence financière.
+III.-L'autorité académique et la collectivité de rattachement sont informées régulièrement de la situation financière de
+l'établissement ainsi que préalablement à la passation de toute convention à incidence financière. 
 
 La collectivité territoriale de rattachement demande, en tant que de besoin, à l'autorité académique qu'une enquête soit
 réalisée par un corps d'inspection de l'Etat sur le fonctionnement de l'établissement.
@@ -11916,13 +11982,11 @@ réalisée par un corps d'inspection de l'Etat sur le fonctionnement de l'établ
 
 	**Modifié par**:
 
-	  - Loi n°2000-597 du 30 juin 2000 - art. 19 () JORF 1er juillet 2000 en vigueur le 1er janvier 2001
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Ordonnance n°2004-631 du 1 juillet 2004 - art. 5 () JORF 2 juillet 2004 en vigueur le 1er septembre 2004
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2131-6 (M)
-	  - Code général des collectivités territoriales L2131-1 à L2131-5, L2131-6
+	  - Code général des collectivités territoriales - art. L2131-6 (V)
 
 
 ###### Article L421-15
@@ -14495,17 +14559,17 @@ ont conclu des conventions du type de celles visées à l'alinéa précédent.
 ###### Article L451-1
 
 Des décrets en Conseil d'Etat fixent les conditions dans lesquelles les dispositions des articles L. 111-1 à L. 111-4, L.
-112-2, L. 113-1, L. 121-1, L. 121-3, L. 122-2 à L. 122-5, L. 131-1, L. 132-1, L. 231-1 à L. 231-9, L. 236-1, L. 241-1 à L.
-241-3, L. 311-1 à L. 311-6, L. 313-1, L. 313-2, L. 314-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L.
-332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1, L. 335-1, L. 335-2, L. 336-1, L. 337-1, L. 337-2, L. 411-1 à L. 411-3, L.
-421-3, L. 421-5 à L. 421-7, L. 421-9, L. 423-1, L. 511-1 à L. 511-4, L. 521-1, L. 521-4, L. 551-1, L. 911-1, L. 912-1, L.
-912-3, L. 913-1 sont appliquées aux établissements scolaires français à l'étranger, compte tenu de leur situation
+112-2, L. 113-1, L. 121-1, L. 121-3, L. 122-2 à L. 122-5, L. 131-1, L. 132-1, L. 141-5-1, L. 231-1 à L. 231-9, L. 236-1, L.
+241-1 à L. 241-3, L. 311-1 à L. 311-6, L. 313-1, L. 313-2, L. 314-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L.
+331-8, L. 332-1 à L. 332-5, L. 333-1 à L. 333-3, L. 334-1, L. 335-1, L. 335-2, L. 336-1, L. 337-1, L. 337-2, L. 411-1 à L.
+411-3, L. 421-3, L. 421-5 à L. 421-7, L. 421-9, L. 423-1, L. 511-1 à L. 511-4, L. 521-1, L. 521-4, L. 551-1, L. 911-1, L.
+912-1, L. 912-3, L. 913-1 sont appliquées aux établissements scolaires français à l'étranger, compte tenu de leur situation
 particulière et des accords conclus avec des Etats étrangers.
 
 **Nota:**
 
-NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : les dispositions de la présente loi entrent en vigueur à compter de la rentrée
-de l'année scolaire qui suit sa publication.
+NOTA : Loi 2004-228 du 15 mars 2004 art. 3 : Les dispositions de la présente loi entrent en vigueur à compter de la rentrée
+scolaire qui suit sa publication.
 
 **Liens relatifs à cet article**
 
@@ -14524,6 +14588,14 @@ de l'année scolaire qui suit sa publication.
 	  - Loi n°2002-1062 du 6 août 2002 - art. 11 (V)
 	  - Code de l'éducation - art. L452-4 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2004-228 2004-03-15 art. 2 I : spécificité d'application
+
+	**Modifié par**:
+
+	  - Loi n°2004-228 du 15 mars 2004 - art. 2 (V) JORF 17 mars 2004 en vigueur le 1er septembre 2004
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L112-2 (M)
@@ -14532,6 +14604,7 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L121-3 (V)
 	  - Code de l'éducation - art. L131-1 (V)
 	  - Code de l'éducation - art. L132-1 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
 	  - Code de l'éducation - art. L236-1 (V)
 	  - Code de l'éducation - art. L313-1 (M)
 	  - Code de l'éducation - art. L313-2 (V)
@@ -14552,7 +14625,7 @@ de l'année scolaire qui suit sa publication.
 	  - Code de l'éducation - art. L912-1 (M)
 	  - Code de l'éducation - art. L912-3 (V)
 	  - Code de l'éducation - art. L913-1 (M)
-	  - Code de l'éducation L111-1 à L111-4, L112-2, L113-1, L121-1, L121-3, L122-2 à L122-5, L131-1, L132-1, L231-1 à L231-9, L236-1, L241-1 à L241-3, L311-1 à L311-6, L313-1, L313-2, L314-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-
+	  - Code de l'éducation L111-1 à L111-4, L112-2, L113-1, L121-1, L121-3, L122-2 à L122-5, L131-1, L132-1, L141-5-1, L231-1 à L231-9, L236-1, L241-1 à L241-3, L311-1 à L311-6, L313-1, L313-2, L314-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332
 
 
 ##### Chapitre II : L'Agence pour l'enseignement français à l'étranger.
