@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -1370,42 +1370,51 @@ l'établissement qu'ils auront choisi.
 ###### Article L131-11
 
 Les manquements aux obligations résultant des articles L. 131-10 et L. 442-2 du présent code sont sanctionnés par les
-dispositions des articles 227-17-1 et 227-17-2 du code pénal, ci-après reproduites :
+dispositions des articles 227-17-1 et 227-17-2 du code pénal, ci-après reproduites : 
 
-" Art. 227-17-1. - Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une
+" Art. 227-17-1.-Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une
 autorité de fait de façon continue, de ne pas l'inscrire dans un établissement d'enseignement, sans excuse valable, en dépit
-d'une mise en demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de [*taux*] 50 000 F d'amende.
+d'une mise en demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7500 euros d'amende. 
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
 demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à
-l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L. 122-1 et L. 131-10 du code de
-l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 50 000 F
+l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L. 131-1-1 et L. 131-10 du code de
+l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7500 euros
 d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la
-fermeture de l'établissement. "
+fermeture de l'établissement. " 
 
-" Art. 227-17-2. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par
-l'article 121-2, de l'infraction définie au second alinéa de l'article 227-17-1.
+" Art. 227-17-2.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par
+l'article 121-2, de l'infraction définie au second alinéa de l'article 227-17-1. 
 
-Les peines encourues par les personnes morales sont :
+Les peines encourues par les personnes morales sont : 
 
-1° L'amende suivant les modalités prévues par l'article 131-38 ;
+1° L'amende suivant les modalités prévues par l'article 131-38 ; 
 
-2° Les peines mentionnées aux 1° , 2° , 4° , 8° et 9° de l'article 131-39. "
+2° Les peines mentionnées à l'article 131-39. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code pénal - art. 227-17-1 (M)
-	  - Code pénal - art. 227-17-2 (MMN)
-	  - Code de l'éducation - art. L122-1 (T)
-	  - Code de l'éducation - art. L131-10 (M)
-	  - Code de l'éducation - art. L442-2 (M)
-	  - Code de l'éducation L131-10, L442-2, L122-1, 121-2, 227-17-1, 131-38, 131-39
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code de l'éducation - art. L131-10 (V)
+	  - Code de l'éducation - art. L442-2 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code pénal - art. 227-17-1 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 227-17-2 (V)
 
 
 ###### Article L131-12
@@ -6198,9 +6207,9 @@ membres de l'inspection générale de l'administration de l'éducation nationale
 ###### Article L241-3
 
 Le fait de faire obstacle, de quelque manière que ce soit, au contrôle de l'inspection générale de l'administration de
-l'éducation nationale et de la recherche défini à l'article L. 241-2 est passible d'une amende de [*taux*] 100 000 F et
-entraîne la répétition des concours financiers dont l'utilisation n'aura pas été justifiée. Le ministre chargé de l'éducation
-peut saisir le procureur de la République près la juridiction compétente en vue de déclencher l'action publique.
+l'éducation nationale et de la recherche défini à l'article L. 241-2 est passible d'une amende de 15000 euros et entraîne la
+répétition des concours financiers dont l'utilisation n'aura pas été justifiée. Le ministre chargé de l'éducation peut saisir
+le procureur de la République près la juridiction compétente en vue de déclencher l'action publique.
 
 **Liens relatifs à cet article**
 
@@ -6211,6 +6220,11 @@ peut saisir le procureur de la République près la juridiction compétente en v
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -6273,8 +6287,8 @@ s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment
 ###### Article L241-5
 
 Le fait, pour tout chef d'établissement d'enseignement du premier et du second degré privé, de refuser de se soumettre à la
-surveillance et à l'inspection des autorités scolaires, dans les conditions établies à l'article L. 241-4, est puni de
-[*taux*] 25 000 F d'amende.
+surveillance et à l'inspection des autorités scolaires, dans les conditions établies à l'article L. 241-4, est puni de 3 750
+euros d'amende. 
 
 Si le refus a donné lieu à deux condamnations dans l'année, la fermeture de l'établissement peut être ordonnée par le
 jugement qui prononce la seconde condamnation.
@@ -6289,10 +6303,15 @@ jugement qui prononce la seconde condamnation.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L241-4 (M)
+	  - Code de l'éducation - art. L241-4 (V)
 
 	**Cité par**:
 
@@ -6326,31 +6345,36 @@ décrets.
 
 ###### Article L241-7
 
-I. - L'inspection des établissements d'enseignement technique privés porte sur la moralité, l'hygiène, la salubrité et sur
+I.-L'inspection des établissements d'enseignement technique privés porte sur la moralité, l'hygiène, la salubrité et sur
 l'exécution des obligations légales imposées à ces établissements. Elle peut porter sur l'enseignement pour vérifier s'il
 n'est pas contraire à la morale, à la Constitution et aux lois et s'il est conforme aux programmes présentés par le directeur
-lors de la déclaration d'ouverture de l'établissement.
+lors de la déclaration d'ouverture de l'établissement. 
 
 Toutefois, dans les établissements d'enseignement technique privés reconnus par l'Etat conformément aux dispositions de
 l'article L. 443-2, l'inspection de l'enseignement s'exerce dans les mêmes conditions que pour les établissements
-d'enseignement technique publics.
+d'enseignement technique publics. 
 
-II. - Le fait, pour un directeur d'établissement d'enseignement technique privé, de refuser de se soumettre à la surveillance
-et à l'inspection, dans les conditions établies par le I, est puni de [*taux*] 100 000 F d'amende.
+II.-Le fait, pour un directeur d'établissement d'enseignement technique privé, de refuser de se soumettre à la surveillance
+et à l'inspection, dans les conditions établies par le I, est puni de 15 000 euros d'amende. 
 
 Le tribunal peut prononcer la fermeture de l'établissement.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1919-07-25 art. 31, art. 34
+	  - Code de l'enseignement technique - art. 76 (M)
+	  - Code de l'enseignement technique - art. 77 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Code de l'enseignement technique - art. 76 (M)
-	  - Code de l'enseignement technique - art. 77 (Ab)
-	  - Loi n°1919-07-25 art. 31, art. 34
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -9366,8 +9390,8 @@ Ces certificats doivent être datés et revêtus de la signature du directeur de
 
 ###### Article L335-16
 
-Le fait de délivrer des titres ou diplômes en infraction aux articles L. 335-14 et L. 335-15 est puni de [*taux*] 25 000 F
-d'amende.
+Le fait de délivrer des titres ou diplômes en infraction aux articles L. 335-14 et L. 335-15 est puni de 3 750 euros
+d'amende. 
 
 Le tribunal peut prononcer la fermeture de l'établissement pour une durée de trois ans au plus et sa fermeture définitive en
 cas de récidive.
@@ -9376,21 +9400,25 @@ cas de récidive.
 
 	**Anciens textes**:
 
-	  - Code de l'enseignement technique - art. 148 (M)
 	  - Loi n°42-694 1942-08-04 art. 5
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L335-14 (V)
-	  - Code de l'éducation - art. L335-15 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L373-1 (V)
+	  - Code de l'enseignement technique - art. 148 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L373-1 (V)
 
 
 ###### Article L335-17
@@ -12376,9 +12404,9 @@ En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 ###### Article L441-4
 
 Le fait d'ouvrir ou diriger une école sans remplir les conditions prescrites par les articles L. 914-4 et L. 921-1 et par la
-présente section est puni de [*taux*] 25 000 F d'amende.
+présente section est puni de 3 750 euros d'amende. 
 
-L'école sera fermée.
+L'école sera fermée. 
 
 Est puni de la peine prévue au premier alinéa le fait, pour toute personne, dans le cas d'opposition formée à l'ouverture de
 son école, de l'avoir ouverte sans qu'il ait été statué sur cette opposition, ou malgré la décision du conseil académique de
@@ -12386,9 +12414,19 @@ l'éducation nationale qui aurait accueilli l'opposition, ou avant la décision 
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Loi n°1886-10-30 art. 40
+	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 40 (Ab)
+
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -12398,11 +12436,6 @@ l'éducation nationale qui aurait accueilli l'opposition, ou avant la décision 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R441-10 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°1886-10-30 art. 40
-	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 40 (Ab)
 
 
 ##### Section 2 : L'ouverture des établissements d'enseignement du second degré privés.
@@ -12460,7 +12493,7 @@ Les certificats de stage sont délivrés par le recteur sur l'attestation des ch
 accompli, après avis du conseil académique de l'éducation nationale.
 
 Le fait, pour un chef d'établissement d'enseignement du second degré privé ou public, de délivrer une fausse attestation de
-stage, est puni de deux ans d'emprisonnement et de [*taux*] 200 000 F d'amende.
+stage, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -12472,6 +12505,11 @@ stage, est puni de deux ans d'emprisonnement et de [*taux*] 200 000 F d'amende.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article L441-7
@@ -12541,9 +12579,9 @@ privés après avis du conseil académique de l'éducation nationale.
 ###### Article L441-9
 
 Le fait d'ouvrir un établissement d'enseignement du second degré privé, sans remplir les conditions prescrites par l'article
-L. 911-5 et par la présente section est puni de [*taux*] 25 000 F d'amende.
+L. 911-5 et par la présente section est puni de 3 750 euros d'amende. 
 
-L'établissement sera fermé.
+L'établissement sera fermé. 
 
 Est puni de la peine prévue au premier alinéa le fait, pour toute personne, dans le cas d'opposition formée à l'ouverture de
 son établissement, de l'avoir ouvert sans qu'il ait été statué sur cette opposition, ou malgré la décision du conseil
@@ -12554,10 +12592,15 @@ académique de l'éducation nationale qui aurait accueilli l'opposition, ou avan
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L911-5 (M)
+	  - Code de l'éducation - art. L911-5 (V)
 
 	**Cité par**:
 
@@ -12565,7 +12608,6 @@ académique de l'éducation nationale qui aurait accueilli l'opposition, ou avan
 
 	**Anciens textes**:
 
-	  - Loi n°1850-03-15 art. 66
 	  - Loi n°1850-03-15 du 15 mars 1850 - art. 66 (Ab)
 
 
@@ -12671,7 +12713,7 @@ En aucun cas l'ouverture ne peut avoir lieu avant la décision d'appel.
 ###### Article L441-13
 
 Le fait d'ouvrir ou de diriger un établissement d'enseignement technique privé sans remplir les conditions prescrites par les
-articles L. 911-5 et L. 914-5 et par la présente section est puni de [*taux*] 25 000 F d'amende.
+articles L. 911-5 et L. 914-5 et par la présente section est puni de [*taux*] 3750 euros d'amende.
 
 L'établissement sera fermé.
 
@@ -12684,12 +12726,8 @@ avant la décision d'appel.
 
 	**Anciens textes**:
 
-	  - Loi n°1919-07-25 art. 29
 	  - Code de l'enseignement technique - art. 71 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°1919-07-25 art. 29
 
 	**Cité par**:
 
@@ -12701,6 +12739,14 @@ avant la décision d'appel.
 
 	  - Code de l'éducation - art. L911-5 (M)
 	  - Code de l'éducation - art. L914-5 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ##### Chapitre II : Rapports entre l'Etat et les établissements d'enseignement privés
@@ -13943,8 +13989,7 @@ l'établissement.
 
 ###### Article L444-10
 
-Toute infraction aux dispositions du présent chapitre est passible d'un an d'emprisonnement et de [*taux*] 100 000 F
-d'amende.
+Toute infraction aux dispositions du présent chapitre est passible d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 En cas de condamnation, le tribunal peut prononcer, pour une durée de cinq ans au plus, l'interdiction de diriger et
 d'enseigner ainsi que la fermeture de l'établissement.
@@ -13958,6 +14003,11 @@ d'enseigner ainsi que la fermeture de l'établissement.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -14475,20 +14525,20 @@ Elle peut, pour le même motif, en prononcer la fermeture pour une durée n'exc�
 
 ###### Article L462-5
 
-Est puni de [*taux*] 25 000 F d'amende :
+Est puni de 3750 euros d'amende : 
 
 1° Le fait, pour quiconque, d'ouvrir ou de faire fonctionner un établissement où est dispensé un enseignement de la danse
 sans s'acquitter des obligations prévues à l'article L. 462-1 relatives à la déclaration, à l'hygiène, à la sécurité, au
 contrôle médical, à l'âge d'admission des élèves et à l'assurance ou de maintenir en activité un établissement où est
-dispensé un enseignement de la danse frappé d'une décision d'interdiction ;
+dispensé un enseignement de la danse frappé d'une décision d'interdiction ; 
 
 2° Le fait, pour tout chef d'établissement, d'avoir confié l'enseignement de la danse à une personne n'ayant pas obtenu le
 diplôme de professeur de danse mentionné à l'article L. 362-1 ou son équivalence ou n'ayant pas été régulièrement dispensée
-de ce diplôme ;
+de ce diplôme ; 
 
 3° Le fait, pour toute personne, d'assurer un enseignement de la danse contre rétribution sans avoir obtenu le diplôme de
 professeur de danse mentionné à l'article L. 362-1 ou son équivalence ou sans avoir été régulièrement dispensée de ce
-diplôme.
+diplôme. 
 
 Le tribunal peut en outre prononcer la fermeture de l'établissement où est dispensé un enseignement de la danse ou interdire
 l'exercice de la profession d'exploitant d'un établissement où est dispensé un enseignement de la danse, pour une durée
@@ -14504,6 +14554,11 @@ n'excédant pas trois ans.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -14512,24 +14567,24 @@ n'excédant pas trois ans.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L362-1 (M)
+	  - Code de l'éducation - art. L362-1 (V)
 	  - Code de l'éducation - art. L462-1 (V)
 
 
 ###### Article L462-6
 
-Est puni de [*taux*] 25 000 F d'amende :
+Est puni de 3750 euros d'amende : 
 
 1° Le fait, pour toute personne, d'exploiter contre rémunération soit directement, soit par l'intermédiaire d'une autre
 personne, un établissement dans lequel est dispensé un enseignement de la danse, si elle a fait l'objet d'une condamnation
 définitive à une peine d'emprisonnement sans sursis supérieure à quatre mois pour les infractions de viol, agression
-sexuelle, atteinte sexuelle sur un mineur ou proxénétisme prévues par les articles 222-22 à 222-33, 225-5 à 225-10 et 227-22
-à 227-28 du code pénal ;
+sexuelle, atteinte sexuelle sur un mineur ou proxénétisme prévues par les articles 222-22 à 222-33,225-5 à 225-10 et 227-22 à
+227-28 du code pénal ; 
 
 2° Le fait, pour toute personne, d'assurer un enseignement de la danse contre rétribution, si elle a fait l'objet d'une
 condamnation définitive à une peine d'emprisonnement sans sursis supérieure à quatre mois pour les infractions de viol,
-agression sexuelle, atteinte sexuelle sur un mineur ou proxénétisme prévues par les articles 222-22 à 222-33, 225-5 à 225-10
-et 227-22 à 227-28 du code pénal.
+agression sexuelle, atteinte sexuelle sur un mineur ou proxénétisme prévues par les articles 222-22 à 222-33,225-5 à 225-10
+et 227-22 à 227-28 du code pénal. 
 
 Le tribunal peut en outre prononcer la fermeture de l'établissement où est dispensé un enseignement de la danse ou interdire
 l'exercice de la profession d'exploitant d'un établissement où est dispensé un enseignement de la danse, pour une durée
@@ -14545,6 +14600,11 @@ n'excédant pas trois ans.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -14552,7 +14612,9 @@ n'excédant pas trois ans.
 
 	**Cite**:
 
-	  - Code pénal 222-22 à 222-33, 225-5 à 225-10, 227-22 à 227-28
+	  - Code pénal - art. 222-22 (V)
+	  - Code pénal - art. 225-5 (V)
+	  - Code pénal - art. 227-22 (V)
 
 
 ##### Chapitre III : Les établissements de formation aux professions des activités physiques et sportives.
@@ -14782,7 +14844,7 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 ###### Article L463-7
 
-Est puni d'un an d'emprisonnement et de [*taux*] 100 000 F d'amende :
+Est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende :
 
 1° Le fait, pour toute personne, d'exercer une activité d'enseignement, d'encadrement ou d'animation d'une activité physique
 et sportive, sans avoir procédé à la déclaration requise en application de l'article L. 463-4 ou en violation d'un arrêté
@@ -14808,6 +14870,10 @@ mentionné à l'article L. 363-3.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -14928,8 +14994,7 @@ la souscription d'un contrat d'enseignement.
 
 ###### Article L471-5
 
-Le fait de méconnaître les dispositions du présent chapitre est puni d'un an d'emprisonnement et de [*taux*] 100 000 F
-d'amende.
+Le fait de méconnaître les dispositions du présent chapitre est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 En cas de condamnation, le tribunal peut prononcer, pour une durée de cinq ans au plus, l'interdiction de diriger et
 d'enseigner ainsi que la fermeture de l'établissement.
@@ -14943,6 +15008,11 @@ d'enseigner ainsi que la fermeture de l'établissement.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -15200,23 +15270,23 @@ d'enseignement.
 ###### Article L511-3
 
 L'infraction prévue dans la section 3 bis " Du bizutage " du livre II, titre II, chapitre 5 du code pénal est passible des
-sanctions définies dans cette même section, ci-après reproduite :
+sanctions définies dans cette même section, ci-après reproduite : 
 
-" Art. 225-16-1. - Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui,
+" Art. 225-16-1.-Hors les cas de violences, de menaces ou d'atteintes sexuelles, le fait pour une personne d'amener autrui,
 contre son gré ou non, à subir ou à commettre des actes humiliants ou dégradants lors de manifestations ou de réunions liées
-aux milieux scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 50 000 F d'amende. "
+aux milieux scolaire et socio-éducatif est puni de six mois d'emprisonnement et de 7 500 euros d'amende. " 
 
-" Art. 225-16-2. - L'infraction définie à l'article 225-16-1 est punie d'un an d'emprisonnement et de 100 000 F d'amende
+" Art. 225-16-2.-L'infraction définie à l'article 225-16-1 est punie d'un an d'emprisonnement et de 15000 euros d'amende
 lorsqu'elle est commise sur une personne dont la particulière vulnérabilité, due à son âge, à une maladie, à une infirmité, à
-une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur. "
+une déficience physique ou psychique ou à un état de grossesse, est apparente ou connue de son auteur. " 
 
-" Art. 225-16-3. - Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par
+" Art. 225-16-3.-Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par
 l'article 121-2, des infractions commises lors de manifestations ou de réunions liées aux milieux scolaire et socio-éducatif
-prévues par les articles 225-16-1 et 225-16-2.
+prévues par les articles 225-16-1 et 225-16-2. 
 
-Les peines encourues par les personnes morales sont :
+Les peines encourues par les personnes morales sont : 
 
-1° L'amende, suivant les modalités prévues par l'article 131-38 ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 ; 
 
 2° Les peines mentionnées aux 4° et 9° de l'article 131-39. "
 
@@ -15225,16 +15295,23 @@ Les peines encourues par les personnes morales sont :
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code pénal - art. 225-16-1 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 225-16-2 (V)
+	  - PILOTE_SUIVEUR: Code pénal - art. 225-16-3 (V)
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. L442-20 (V)
 	  - Code de l'éducation - art. L811-4 (V)
 	  - Code de l'éducation - art. R451-1 (VD)
-
-	**Cite**:
-
-	  - Code de l'éducation 225-16-1, 121-2, 225-16-2, 131-38, 131-39
 
 
 ###### Article L511-4
@@ -22652,7 +22729,7 @@ supérieur privés après avis du conseil académique de l'éducation nationale.
 
 ###### Article L731-9
 
-Toute infraction aux articles L. 731-2 à L. 731-7 est punie de 25 000 F d'amende.
+Toute infraction aux articles L. 731-2 à L. 731-7 est punie de 3750 euros d'amende.
 
 Sont passibles de cette peine :
 
@@ -22673,6 +22750,11 @@ les articles L. 731-2, L. 731-4 et L. 731-6 ;
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -22787,7 +22869,8 @@ ministre chargé de l'enseignement supérieur.
 La surveillance ne peut porter sur l'enseignement que pour vérifier s'il n'est pas contraire à la morale, à la Constitution
 et aux lois.
 
-II. - Le fait de refuser de se soumettre à la surveillance, telle qu'elle est prescrite au I, est puni de 25 000 F d'amende.
+II. - Le fait de refuser de se soumettre à la surveillance, telle qu'elle est prescrite au I, est puni de 3750 euros
+d'amende.
 
 En cas de récidive dans le courant de l'année qui suit la première condamnation, le tribunal peut prononcer la fermeture du
 cours ou de l'établissement.
@@ -22801,6 +22884,11 @@ cours ou de l'établissement.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -22814,7 +22902,7 @@ d'études qu'on y juge à propos de décerner aux élèves ne peuvent porter les
 doctorat.
 
 Le fait, pour le responsable d'un établissement de donner à celui-ci le titre d'université ou de faire décerner des
-certificats portant le titre de baccalauréat, de licence ou de doctorat, est puni de 200 000 F d'amende.
+certificats portant le titre de baccalauréat, de licence ou de doctorat, est puni de 30000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -22825,6 +22913,11 @@ certificats portant le titre de baccalauréat, de licence ou de doctorat, est pu
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
