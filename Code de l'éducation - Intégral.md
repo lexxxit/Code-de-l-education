@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-02-26
+Version Consolidée au 2005-03-31
 
 # Partie législative
 
@@ -33568,6 +33568,79 @@ Il s'agit de la délibération n° 2006/0442 du 10 mai 2006.
 	**Cité par**:
 
 	  - Décret n°2005-664 du 10 juin 2005 - art. 27 (Ab)
+
+
+##### Sous-section 3 : Procédure de consultation
+
+###### Article D213-29
+
+L'harmonisation géographique des temps scolaires étant un facteur déterminant pour l'organisation, la mise en oeuvre et la
+qualité des transports scolaires, le département, compétent en matière d'organisation et de financement du transport
+scolaire, est consulté par écrit :
+
+1° Par le recteur d'académie, sur les modifications de la structure pédagogique générale des établissements du second degré
+susceptibles d'entraîner des évolutions dans l'organisation des transports scolaires ;
+
+2° Par le recteur d'académie, sur les modifications du calendrier scolaire régies par les dispositions du décret du 14 mars
+1990 susvisé, ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, lorsqu'il a
+reçu délégation de signature pour procéder à ces modifications ;
+
+3° Par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur :
+
+a) Les projets de création ou de suppression d'écoles, de regroupements pédagogiques intercommunaux ou d'établissements du
+second degré ;
+
+b) Les projets d'aménagement du temps scolaire ou de modification des horaires d'entrée et de sortie des écoles maternelles
+et élémentaires ;
+
+4° Par les chefs d'établissement, sur les projets d'aménagement du temps scolaire relevant de l'autonomie de l'établissement
+public local d'enseignement qui ont une incidence sur l'organisation des transports scolaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-291 du 30 mars 2005 - art. 1 () JORF 31 mars 2005
+
+	**Cité par**:
+
+	  - Décret n°2014-457 du 7 mai 2014 - art. 1 (VT)
+	  - Code de l'éducation - art. D213-30 (V)
+	  - Code de l'éducation - art. D521-12 (VD)
+
+
+###### Article D213-30
+
+La consultation du département intervient dans des délais autorisant, le cas échéant, la mise en oeuvre des procédures de
+délégation de service public prévues aux articles L. 1411-1 à L. 1411-18 et R. 1411-1 à R. 1411-6 du code général des
+collectivités territoriales.
+
+Si, au terme d'un délai d'un mois après qu'une demande d'avis prévue à l'article D. 213-29 lui a été adressée, le département
+n'a pas fait connaître son avis, celui-ci est réputé favorable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-291 du 30 mars 2005 - art. 1 () JORF 31 mars 2005
+
+	**Cité par**:
+
+	  - Décret n°2016-86 du 1er février 2016 - art. 50
+	  - Code de l'éducation - art. D521-12 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales L1411-1 à L1411-18, R1411-1 à R1411-6
+	  - Code de l'éducation - art. D213-29 (M)
 
 
 #### Chapitre IV : Les compétences des régions
