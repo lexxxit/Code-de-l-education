@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 
 # Partie législative
 
@@ -1191,12 +1191,19 @@ Les familles domiciliées à proximité de deux ou plusieurs écoles publiques o
 l'une ou l'autre de ces écoles, qu'elle soit ou non sur le territoire de leur commune, à moins qu'elle ne compte déjà le
 nombre maximum d'élèves autorisé par voie réglementaire.
 
-Toutefois, dans les communes qui ont plusieurs écoles publiques, le ressort de chacune de ces écoles étant déterminé par
-arrêté du maire, les familles doivent se conformer aux dispositions de cet arrêté.
+Toutefois, lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, les
+familles doivent se conformer à la délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
+coopération intercommunale compétent, déterminant le ressort de chacune de ces écoles.
 
-Lorsque, dans une agglomération, il existe plusieurs écoles maternelles ou élémentaires, l'inscription des élèves, dans les
-écoles publiques ou privées, se fait sur présentation d'un certificat d'inscription sur la liste scolaire prévue à l'article
-L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l'enfant doit fréquenter.
+Lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, l'inscription
+des élèves, dans les écoles publiques ou privées, se fait sur présentation d'un certificat d'inscription sur la liste
+scolaire prévue à l'article L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l'enfant doit
+fréquenter.
+
+La domiciliation des parents à l'étranger ne peut être une cause de refus d'inscription d'un enfant soumis à l'obligation
+scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la
+personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus
+particulièrement aux enfants de Français de l'étranger.
 
 **Liens relatifs à cet article**
 
@@ -1213,6 +1220,10 @@ L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 80 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -2337,7 +2348,29 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 ###### Article L211-1
 
-L'éducation est un service public de l'Etat, sous réserve des compétences attribuées aux collectivités territoriales.
+L'éducation est un service public national, dont l'organisation et le fonctionnement sont assurés par l'Etat, sous réserve
+des compétences attribuées par le présent code aux collectivités territoriales pour les associer au développement de ce
+service public.
+
+L'Etat assume, dans le cadre de ses compétences, des missions qui comprennent : 
+
+1° La définition des voies de formation, la fixation des programmes nationaux, l'organisation et le contenu des
+enseignements ; 
+
+2° La définition et la délivrance des diplômes nationaux et la collation des grades et titres universitaires ; 
+
+3° Le recrutement et la gestion des personnels qui relèvent de sa responsabilité ; 
+
+4° La répartition des moyens qu'il consacre à l'éducation, afin d'assurer en particulier l'égalité d'accès au service
+public ; 
+
+5° Le contrôle et l'évaluation des politiques éducatives, en vue d'assurer la cohérence d'ensemble du système éducatif. 
+
+Tous les deux ans à compter de l'entrée en vigueur des dispositions de la loi n° 2004-809 du 13 août 2004 relative aux
+libertés et responsabilités locales, le Gouvernement transmet au Parlement un rapport évaluant les effets de l'exercice des
+compétences décentralisées sur le fonctionnement du système éducatif et sur la qualité du service rendu aux usagers. Le
+Conseil supérieur de l'éducation, le Conseil territorial de l'éducation nationale et le Conseil national de l'enseignement
+agricole sont saisis pour avis de ce rapport.
 
 **Liens relatifs à cet article**
 
@@ -2345,6 +2378,14 @@ L'éducation est un service public de l'Etat, sous réserve des compétences att
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cite**:
+
+	  - Loi n°2004-809 du 13 août 2004 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 75 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -2555,21 +2596,26 @@ au titre des dépenses exposées en application du premier alinéa du présent a
 
 ###### Article L211-8
 
-L'Etat a la charge :
+L'Etat a la charge : 
 
 1° De la rémunération du personnel enseignant des écoles élémentaires et des écoles maternelles créées conformément à
-l'article L. 212-1, sous réserve des dispositions prévues à l'article L. 216-1 ;
+l'article L. 212-1, sous réserve des dispositions prévues à l'article L. 216-1 ; 
 
-2° De la rémunération du personnel de l'administration et de l'inspection ;
+2° De la rémunération du personnel de l'administration et de l'inspection ; 
 
-3° De la rémunération du personnel des collèges, sous réserve des dispositions de l'article L. 216-1 ;
+3° De la rémunération du personnel exerçant dans les collèges, sous réserve des dispositions des articles L. 213-2-1 et L.
+216-1 ; 
 
-4° De la rémunération du personnel des lycées, sous réserve des dispositions de l'article L. 216-1 ;
+4° De la rémunération du personnel exerçant dans les lycées, sous réserve des dispositions des articles L. 214-6-1 et L.
+216-1 ; 
 
 5° Des dépenses pédagogiques des collèges, des lycées et des établissements d'éducation spéciale dont la liste est arrêtée
-par décret ;
+par décret ; 
 
-6° De la rémunération des personnels de l'enseignement supérieur et de la recherche.
+6° De la rémunération des personnels de l'enseignement supérieur et de la recherche ; 
+
+7° Des droits dus en contrepartie de la reproduction par reprographie à usage pédagogique d'oeuvres protégées dans les écoles
+élémentaires et les écoles maternelles créées conformément à l'article L. 212-1.
 
 **Liens relatifs à cet article**
 
@@ -2600,9 +2646,16 @@ par décret ;
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 82 V, art. 121 VIII JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L212-1 (V)
+	  - Code de l'éducation - art. L213-2-1 (V)
+	  - Code de l'éducation - art. L214-6-1 (V)
 	  - Code de l'éducation - art. L216-1 (V)
 
 
@@ -2669,7 +2722,8 @@ prise par délibération des conseils municipaux des communes intéressées.
 ###### Article L212-4
 
 La commune a la charge des écoles publiques. Elle est propriétaire des locaux et en assure la construction, la
-reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement.
+reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement, à l'exception des droits dus en
+contrepartie de la reproduction par reprographie à usage pédagogique d'oeuvres protégées.
 
 **Liens relatifs à cet article**
 
@@ -2682,6 +2736,10 @@ reconstruction, l'extension, les grosses réparations, l'équipement et le fonct
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 121 IX JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -2835,21 +2893,22 @@ Aucune somme n'est reversée directement aux communes au titre des opérations v
 
 ###### Article L212-7
 
-Dans les communes qui ont plusieurs écoles publiques, le ressort de chacune de ces écoles est déterminé par arrêté du maire.
-L'inscription des élèves par les personnes responsables de l'enfant au sens de l'article L. 131-4 se fait conformément aux
-dispositions de l'article L. 131-5.
+Dans les communes qui ont plusieurs écoles publiques, le ressort de chacune de ces écoles est déterminé par délibération du
+conseil municipal. Lorsque les dépenses de fonctionnement des écoles publiques ont été transférées à un établissement public
+de coopération intercommunale sur le territoire duquel il existe plusieurs écoles publiques, le ressort de chacune de ces
+écoles est déterminé par délibération de l'organe délibérant de cet établissement.L'inscription des élèves par les personnes
+responsables de l'enfant au sens de l'article L. 131-4 se fait conformément aux dispositions de l'article L. 131-5.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1882-03-28 art. 7
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 80 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -2859,12 +2918,21 @@ dispositions de l'article L. 131-5.
 
 	  - Code de l'éducation - art. L131-5 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°1882-03-28 art. 7
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 7 (Ab)
+
 
 ###### Article L212-8
 
 Lorsque les écoles maternelles, les classes enfantines ou les écoles élémentaires publiques d'une commune reçoivent des
 élèves dont la famille est domiciliée dans une autre commune, la répartition des dépenses de fonctionnement se fait par
-accord entre la commune d'accueil et la commune de résidence.
+accord entre la commune d'accueil et la commune de résidence. Lorsque les compétences relatives au fonctionnement des écoles
+publiques ont été transférées à un établissement public de coopération intercommunale, le territoire de l'ensemble des
+communes constituant cet établissement est assimilé, pour l'application du présent article, au territoire de la commune
+d'accueil ou de la commune de résidence et l'accord sur la répartition des dépenses de fonctionnement relève de
+l'établissement public de coopération intercommunale.
 
 A défaut d'accord entre les communes intéressées sur la répartition des dépenses, la contribution de chaque commune est fixée
 par le représentant de l'Etat dans le département après avis du conseil départemental de l'éducation nationale.
@@ -2882,16 +2950,33 @@ résidence, consulté par la commune d'accueil, a donné son accord à la scolar
 justifier d'une capacité d'accueil au sens du présent alinéa, les établissements scolaires doivent disposer à la fois des
 postes d'enseignants et des locaux nécessaires à leur fonctionnement.
 
-Par dérogation aux dispositions de l'alinéa précédent, un décret en Conseil d'Etat précise les cas dans lesquels une commune
-est tenue de participer financièrement à la scolarisation d'enfants résidant sur son territoire lorsque leur inscription dans
-une autre commune est justifiée par des motifs tirés de contraintes liées aux obligations professionnelles des parents, de
-l'inscription d'un frère ou d'une soeur dans un établissement scolaire de la même commune, ou de raisons médicales. Ce décret
-détermine, en outre, en l'absence d'accord, la procédure d'arbitrage par le représentant de l'Etat dans le département.
+Par dérogation à l'alinéa précédent, un décret en Conseil d'Etat précise les modalités selon lesquelles, sans préjudice du
+dernier alinéa du présent article, une commune est tenue de participer financièrement à la scolarisation d'enfants résidant
+sur son territoire lorsque leur inscription dans une autre commune est justifiée par des motifs tirés de contraintes liées :
+
+1° Aux obligations professionnelles des parents ;
+
+2° A l'inscription d'un frère ou d'une soeur dans un établissement scolaire de la même commune ;
+
+3° A des raisons médicales.
+
+Ce décret précise, en outre, les conditions dans lesquelles, en l'absence d'accord, la décision est prise par le représentant
+de l'Etat dans le département.
+
+Lorsque les compétences relatives au fonctionnement des écoles publiques ont été transférées à un établissement public de
+coopération intercommunale, le président de cet établissement est substitué au maire de la commune de résidence pour
+apprécier la capacité d'accueil et donner l'accord à la participation financière.
 
 La scolarisation d'un enfant dans une école d'une commune autre que celle de sa résidence ne peut être remise en cause par
 l'une ou l'autre d'entre elles avant le terme soit de la formation préélémentaire, soit de la scolarité primaire de cet
 enfant commencées ou poursuivies durant l'année scolaire précédente dans un établissement du même cycle de la commune
 d'accueil.
+
+**Nota:**
+
+NOTA : Loi 2004-809, art. 89 : "Les trois premiers alinéas de l'article L212-8 du code de l'éducation sont applicables pour
+le calcul des contributions des communes aux dépenses obligatoires concernant les classes des écoles privées sous contrat
+d'association."
 
 **Liens relatifs à cet article**
 
@@ -2904,6 +2989,14 @@ d'accueil.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 87 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -3068,10 +3161,13 @@ publics de coopération intercommunale concernés par les projets situés sur le
 investissements relatifs aux collèges qui résulte du schéma prévisionnel des formations mentionné à l'article L. 214-1 du
 présent code.
 
-A ce titre, le conseil général définit la localisation des établissements, leur capacité d'accueil et le mode d'hébergement
-des élèves.
+A ce titre, le conseil général arrête après avis du conseil départemental de l'éducation nationale, en tenant compte de
+critères d'équilibre démographique, économique et social, la localisation des établissements, leur capacité d'accueil, leur
+secteur de recrutement et le mode d'hébergement des élèves. 
 
-Les dispositions de l'article L. 214-4 sont applicables au département pour les collèges.
+Les dispositions de l'article L. 214-4 sont applicables au département pour les collèges. 
+
+Toutefois, les autorités compétentes de l'Etat affectent les élèves dans les collèges publics.
 
 **Liens relatifs à cet article**
 
@@ -3091,7 +3187,7 @@ Les dispositions de l'article L. 214-4 sont applicables au département pour les
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 81 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -3109,24 +3205,27 @@ Les dispositions de l'article L. 214-4 sont applicables au département pour les
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-4 (M)
+	  - Code de l'éducation - art. L214-1 (V)
+	  - Code de l'éducation - art. L214-4 (V)
 
 
 ###### Article L213-2
 
-Le département a la charge des collèges. A ce titre, il en assure la construction, la reconstruction, l'extension, les
-grosses réparations, l'équipement et le fonctionnement, à l'exception, d'une part, des dépenses pédagogiques à la charge de
-l'Etat dont la liste est arrêtée par décret et, d'autre part, des dépenses de personnels sous réserve des dispositions de
-l'article L. 216-1.
+Le département a la charge des collèges.A ce titre, il en assure la construction, la reconstruction, l'extension, les grosses
+réparations, l'équipement et le fonctionnement, à l'exception, d'une part, des dépenses pédagogiques à la charge de l'Etat
+dont la liste est arrêtée par décret et, d'autre part, des dépenses de personnels prévues à l'article L. 211-8 sous réserve
+des dispositions de l'article L. 216-1. 
+
+Le département assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et technique, à l'exception des
+missions d'encadrement et de surveillance des élèves, dans les collèges dont il a la charge. 
 
 Pour la construction, la reconstruction, l'extension, les grosses réparations ainsi que l'équipement de ces établissements,
 le département peut confier à l'Etat, dans les conditions définies par les articles 3 et 5 de la loi n° 85-704 du 12 juillet
 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, l'exercice, en son nom et
-pour son compte, de tout ou partie de certaines attributions de la maîtrise d'ouvrage.
+pour son compte, de tout ou partie de certaines attributions de la maîtrise d'ouvrage. 
 
 Dans ce cas, le département bénéficie du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses
-d'investissement correspondantes.
+d'investissement correspondantes. 
 
 Le département bénéficie également du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses
 d'investissement qu'il verse aux établissements publics locaux d'enseignement qui lui sont rattachés, en vue de la
@@ -3141,8 +3240,8 @@ construction, la reconstruction et les grosses réparations de ces établissemen
 
 	**Cite**:
 
-	  - Loi n°85-704 1985-07-12 art. 3, art. 5
-	  - Loi n°85-704 du 12 juillet 1985 - art. 3 (V)
+	  - Loi n°85-704 du 12 juillet 1985 (V)
+	  - Code de l'éducation - art. L211-8 (V)
 	  - Code de l'éducation - art. L216-1 (V)
 
 	**Cité par**:
@@ -3169,10 +3268,53 @@ construction, la reconstruction et les grosses réparations de ces établissemen
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 82 I, VI JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L213-2-1
+
+Le département assure le recrutement et la gestion des personnels techniciens, ouvriers et de service exerçant leurs missions
+dans les collèges. Ces personnels sont membres de la communauté éducative et concourent directement aux missions du service
+public de l'éducation nationale dans les conditions fixées à l'article L. 421-23 et à l'article L. 913-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 29 (V)
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L442-9 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-23 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+
 
 ###### Article L213-3
 
 Le département est propriétaire des locaux dont il a assuré la construction et la reconstruction.
+
+Les biens immobiliers des collèges appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
+relative aux libertés et responsabilités locales lui sont transférés en pleine propriété à titre gratuit. Ce transfert ne
+donne lieu au versement d'aucun droit, taxe ou honoraires.
+
+Les biens immobiliers des collèges appartenant à une commune ou un groupement de communes peuvent être transférés en pleine
+propriété au département, à titre gratuit et sous réserve de l'accord des parties. Lorsque le département effectue sur ces
+biens des travaux de construction, de reconstruction ou d'extension, ce transfert est de droit, à sa demande, et ne donne
+lieu au versement d'aucun droit, taxe ou honoraires.
 
 **Liens relatifs à cet article**
 
@@ -3185,6 +3327,14 @@ Le département est propriétaire des locaux dont il a assuré la construction e
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 79 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L213-4
@@ -3342,8 +3492,8 @@ Conseil d'Etat.
 ###### Article L213-8
 
 Lorsque 10 % au moins des élèves d'un collège résident dans un autre département que celui dont relève l'établissement, une
-participation aux charges de fonctionnement peut être demandée au département de résidence. Le montant de cette participation
-est fixé par convention entre les départements intéressés.
+participation aux charges de fonctionnement et de personnel peut être demandée au département de résidence. Le montant de
+cette participation est fixé par convention entre les départements intéressés.
 
 En cas de désaccord, le représentant de l'Etat dans la région fixe les modalités de cette participation. Si les départements
 appartiennent à des régions différentes, ces modalités sont conjointement fixées par les représentants de l'Etat dans les
@@ -3360,6 +3510,10 @@ régions intéressées.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L213-9
@@ -3440,6 +3594,9 @@ Le département a la responsabilité de l'organisation et du fonctionnement de c
 conseil départemental de l'éducation nationale. Un décret en Conseil d'Etat fixe les règles techniques auxquelles doivent
 répondre les transports scolaires.
 
+Le département est consulté par l'autorité compétente de l'Etat, dans des conditions fixées par décret, avant toute décision
+susceptible d'entraîner une modification substantielle des besoins en matière de transport scolaire.
+
 A l'intérieur des périmètres de transports urbains existant au 1er septembre 1984, cette responsabilité est exercée par
 l'autorité compétente pour l'organisation des transports urbains.
 
@@ -3448,7 +3605,9 @@ convention est passée entre l'autorité compétente pour l'organisation des tra
 convention fixe les conditions de financement des services de transports scolaires dans ce nouveau périmètre.
 
 Un décret en Conseil d'Etat détermine les procédures d'arbitrage par le représentant de l'Etat dans le département en cas de
-litige.
+litige. En ce qui concerne les modalités financières du transfert, l'arbitrage du représentant de l'Etat dans le département
+prend en compte le montant des dépenses effectuées par le département au titre des compétences transférées à l'autorité
+compétente pour l'organisation des transports urbains au cours de l'année scolaire précédant le transfert.
 
 Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire,
 au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de
@@ -3488,7 +3647,8 @@ zones de montagne s'effectue dans les conditions prévues par le code général 
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 34 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 90 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L213-12
@@ -3496,7 +3656,8 @@ zones de montagne s'effectue dans les conditions prévues par le code général 
 S'ils n'ont pas décidé de les prendre en charge eux-mêmes, le conseil général ou l'autorité compétente pour l'organisation
 des transports urbains peuvent confier par convention tout ou partie de l'organisation des transports scolaires à des
 communes, établissements publics de coopération intercommunale, syndicats mixtes, établissements d'enseignement, associations
-de parents d'élèves et associations familiales.
+de parents d'élèves et associations familiales. L'autorité compétente pour l'organisation des transports urbains peut
+également confier, par convention, tout ou partie de l'organisation des transports scolaires au département.
 
 Si aucune convention confiant l'organisation des transports scolaires à l'une des personnes morales qui en détenaient la
 responsabilité au 1er septembre 1984 n'est intervenue avant le 1er septembre 1988, la responsabilité de l'organisation et du
@@ -3520,13 +3681,41 @@ décret en Conseil d'Etat.
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 88 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. L213-13 (M)
 	  - Code de l'éducation - art. R213-5 (VT)
 	  - Code de l'éducation - art. R213-9 (VT)
+
+
+###### Article L213-12-1
+
+La région et le département peuvent participer au financement des frais de transport individuel des élèves vers les
+établissements scolaires dont ils ont la charge.
+
+Une convention avec le conseil général ou l'autorité compétente pour l'organisation des transports scolaires prévoit les
+conditions de participation de la région ou du département au financement de ces transports scolaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 88 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L3111-10 (V)
 
 
 ###### Article L213-13
@@ -3581,10 +3770,10 @@ départements où les transports scolaires sont gratuits à la date du 30 juin 1
 
 ###### Article L214-1
 
-Le conseil régional établit et transmet au représentant de l'Etat dans la région, après accord des départements et compte
-tenu des orientations fixées par le plan, le schéma prévisionnel des formations des collèges, des lycées et des
-établissements d'éducation spéciale, des lycées professionnels maritimes et des établissements d'enseignement agricole visés
-à l'article L. 811-8 du code rural.
+Compte tenu des orientations nationales et après accord des conseils généraux pour les établissements relevant de leur
+compétence, le conseil régional adopte et transmet au représentant de l'Etat dans la région le schéma prévisionnel des
+formations des collèges, des lycées et des établissements d'éducation spéciale, des lycées professionnels maritimes et des
+établissements d'enseignement agricole mentionnés aux articles L. 811-8 et L. 813-1 du code rural.
 
 Le conseil régional associe les représentants désignés par les établissements d'enseignement privés sous contrat à
 l'élaboration du schéma prévisionnel des formations.
@@ -3601,6 +3790,10 @@ l'élaboration du schéma prévisionnel des formations.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 77 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -3632,7 +3825,7 @@ l'élaboration du schéma prévisionnel des formations.
 
 	**Cite**:
 
-	  - Code rural L811-8
+	  - Code rural - art. L813-1 (V)
 
 
 ###### Article L214-2
@@ -3766,15 +3959,18 @@ des élèves.
 La région a la charge des lycées, des établissements d'éducation spéciale et des lycées professionnels maritimes. Elle en
 assure la construction, la reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement, à
 l'exception, d'une part, des dépenses pédagogiques à la charge de l'Etat dont la liste est arrêtée par décret et, d'autre
-part, des dépenses de personnels sous réserve des dispositions de l'article L. 216-1.
+part, des dépenses de personnels prévues à l'article L. 211-8 sous réserve des dispositions de l'article L. 216-1. 
+
+La région assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et technique, à l'exception des
+missions d'encadrement et de surveillance des élèves, dans les établissements dont elle a la charge. 
 
 Pour la construction, la reconstruction, l'extension, les grosses réparations ainsi que l'équipement de ces établissements,
 la région peut confier à l'Etat, dans les conditions définies par les articles 3 et 5 de la loi n° 85-704 du 12 juillet 1985
 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, l'exercice, en son nom et pour
-son compte, de tout ou partie de certaines attributions de la maîtrise d'ouvrage.
+son compte, de tout ou partie de certaines attributions de la maîtrise d'ouvrage. 
 
 Dans ce cas, la région bénéficie du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses
-d'investissement correspondantes.
+d'investissement correspondantes. 
 
 La région bénéficie également du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses
 d'investissement qu'elle verse aux établissements publics locaux d'enseignement et aux établissements publics locaux
@@ -3790,8 +3986,9 @@ l'extension et les grosses réparations de ces établissements.
 
 	**Cite**:
 
-	  - Loi n°85-704 1985-07-12 art. 3, art. 5
 	  - Loi n°85-704 du 12 juillet 1985 - art. 3 (V)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 5 (V)
+	  - Code de l'éducation - art. L211-8 (V)
 	  - Code de l'éducation - art. L216-1 (V)
 
 	**Cité par**:
@@ -3819,10 +4016,53 @@ l'extension et les grosses réparations de ces établissements.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 82 III, VIII JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+
+###### Article L214-6-1
+
+La région assure le recrutement et la gestion des personnels techniciens, ouvriers et de service exerçant leurs missions dans
+les lycées. Ces personnels sont membres de la communauté éducative et concourent directement aux missions du service public
+de l'éducation nationale dans les conditions fixées aux articles L. 421-23 et L. 913-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 29 (V)
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L442-9 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-23 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+
 
 ###### Article L214-7
 
 La région est propriétaire des locaux dont elle a assuré la construction et la reconstruction.
+
+Les biens immobiliers des établissements visés à l'article L. 214-6 appartenant à l'Etat à la date d'entrée en vigueur de la
+loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales lui sont transférés en pleine propriété à
+titre gratuit. Ce transfert ne donne lieu au versement d'aucun droit, taxe ou honoraires.
+
+Les biens immobiliers des établissements visés à l'article L. 214-6 appartenant à un département, une commune ou un
+groupement de communes peuvent être transférés en pleine propriété à la région, à titre gratuit et sous réserve de l'accord
+des parties. Lorsque la région effectue sur ces biens des travaux de construction, de reconstruction ou d'extension, ce
+transfert est de droit, à sa demande, et ne donne lieu au versement d'aucun droit, taxe ou honoraires.
 
 **Liens relatifs à cet article**
 
@@ -3835,6 +4075,15 @@ La région est propriétaire des locaux dont elle a assuré la construction et l
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13
+	  - Code de l'éducation - art. L214-6 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 79 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L214-8
@@ -3883,17 +4132,13 @@ Conseil d'Etat.
 Lorsque 10 % au moins des élèves d'un lycée, d'un établissement d'éducation spéciale, d'un lycée professionnel maritime ou
 d'un établissement agricole visé à l'article L. 811-8 du code rural, ou 5 % au moins si l'établissement est un lycée
 d'enseignement professionnel, résident dans une autre région que celle dont relève cet établissement, une participation aux
-charges de fonctionnement peut être demandée à la région de résidence. Le montant de cette participation est fixé par
-convention entre les régions intéressées.
+charges de fonctionnement et de personnel peut être demandée à la région de résidence. Le montant de cette participation est
+fixé par convention entre les régions intéressées. 
 
 En cas de désaccord, les représentants de l'Etat dans les régions intéressées fixent conjointement les modalités de cette
 participation.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L811-8
 
 	**Anciens textes**:
 
@@ -3904,6 +4149,14 @@ participation.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code rural - art. L811-8 (V)
 
 
 ###### Article L214-11
@@ -3950,55 +4203,20 @@ dotation générale de décentralisation. "
 
 ###### Article L214-12
 
-I. - La région assure la mise en oeuvre des actions d'apprentissage et de formation professionnelle continue, dans le respect
-des règles figurant au titre Ier du livre Ier et au livre IX, à l'exception de son titre VIIe, du code du travail, ainsi que
-dans les lois non codifiées relatives auxdites actions.
+La région définit et met en oeuvre la politique régionale d'apprentissage et de formation professionnelle des jeunes et des
+adultes à la recherche d'un emploi ou d'une nouvelle orientation professionnelle.
 
-La région prend en charge l'indemnité compensatrice forfaitaire visée à l'article L. 118-7 du code du travail versée à
-l'employeur à laquelle ouvrent droit les contrats d'apprentissage ayant fait l'objet de l'enregistrement prévu à l'article L.
-117-14 dudit code. Le montant et les éléments de cette indemnité peuvent varier dans chaque région dans les conditions et
-limites fixées par le décret pris après avis du comité de coordination des programmes régionaux d'apprentissage et de
-formation professionnelle continue. Ce décret précise en outre les conditions dans lesquelles l'employeur est tenu de
-reverser à la région les sommes indûment perçues.
+Elle organise sur son territoire le réseau des centres et points d'information et de conseil sur la validation des acquis de
+l'expérience et contribue à assurer l'assistance aux candidats à la validation des acquis de l'expérience.
 
-Toutefois, sous réserve des dispositions du II ci-après, l'Etat est compétent, après avis des régions concernées sur le choix
-et la localisation des actions, pour financer et organiser les actions de portée générale intéressant l'apprentissage et la
-formation professionnelle continue, et relatives soit à des stages assurés par un même organisme dans plusieurs régions, soit
-à des formations destinées à des apprentis ou à des stagiaires sans considération d'origine régionale, soit encore à des
-stages créés en application de programmes établis au titre des orientations prioritaires de l'article L. 910-2 du code du
-travail.
+Elle organise des actions destinées à répondre aux besoins d'apprentissage et de formation. Elle veille en particulier à
+organiser des formations permettant d'acquérir une des qualifications mentionnées à l'article L. 900-3 du code du travail.
 
-L'Etat est également compétent pour effectuer toutes études et actions expérimentales nécessaires à la préparation des
-actions visées à l'alinéa précédent, ainsi que pour assurer l'information relative à ces actions.
-
-II. - a) La région est compétente pour organiser les actions de formation professionnelle continue financées antérieurement
-par l'Etat au titre des orientations prioritaires de l'article L. 910-2 du code du travail lorsque ces actions sont destinées
-aux jeunes de moins de vingt-six ans en vue de leur permettre d'acquérir une qualification qui :
-
-1° Soit entre dans le champ d'application des articles L. 335-5 et L. 335-6 du présent code ;
-
-2° Soit est reconnue dans les classifications d'une convention collective nationale de branche ;
-
-3° Soit figure sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle.
-
-b) La région est compétente pour l'ensemble de la formation professionnelle continue en faveur des jeunes de moins de vingt-
-six ans et dispose à ce titre des compétences précédemment exercées par l'Etat en matière de formation professionnelle sur le
-réseau d'accueil, d'information, d'orientation et de suivi des jeunes telles que définies par l'ordonnance n° 82-273 du 26
-mars 1982 relative aux mesures destinées à assurer aux jeunes de seize à dix-huit ans une qualification professionnelle et à
-faciliter leur insertion sociale et par l'article 7 de la loi n° 89-905 du 19 décembre 1989 favorisant le retour à l'emploi
-et la lutte contre l'exclusion professionnelle.
+Elle assure l'accueil en formation de la population résidant sur son territoire, ou dans une autre région si la formation
+désirée n'y est pas accessible. Dans ce dernier cas, une convention fixe les conditions de prise en charge de la formation
+par les régions concernées.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 82-273 1982-03-26
-	  - Loi n°89-905 1989-12-19 art. 7
-	  - Code de l'éducation - art. L335-5 (M)
-	  - Code de l'éducation - art. L335-6 (M)
-	  - Code du travail - art. L117-14 (M)
-	  - Code du travail - art. L118-7 (M)
-	  - Code du travail - art. L910-2 (M)
 
 	**Anciens textes**:
 
@@ -4009,10 +4227,6 @@ et la lutte contre l'exclusion professionnelle.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 107 (V) JORF 28 février 2002
 
 	**Cité par**:
 
@@ -4030,19 +4244,47 @@ et la lutte contre l'exclusion professionnelle.
 	  - Code général des collectivités territoriales - art. L4332-2 (Ab)
 	  - Code général des collectivités territoriales - art. L4424-34 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 8 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code du travail - art. L900-3 (M)
+
+
+###### Article L214-12-1
+
+Les actions menées à l'égard des Français établis hors de France en matière de formation professionnelle et d'apprentissage
+relèvent de la compétence de l'Etat.
+
+L'Assemblée des Français de l'étranger, la commission permanente pour l'emploi et la formation professionnelle des Français
+de l'étranger et, dans chaque pays considéré, le comité consulaire compétent sont consultés sur la politique de formation
+professionnelle et d'apprentissage des Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 9 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 
 ###### Article L214-13
 
-I. - Il est institué un plan régional de développement des formations professionnelles. Ce plan a pour objet de définir des
-orientations à moyen terme en matière de formation professionnelle des jeunes et des adultes. Il prend en compte les réalités
-économiques régionales de manière à assurer l'accès ou le retour à l'emploi et la progression professionnelle des jeunes et
-des adultes.
+I. - La région adopte le plan régional de développement des formations professionnelles et s'assure de sa mise en oeuvre. Ce
+plan a pour objet de définir une programmation à moyen terme des actions de formation professionnelle des jeunes et des
+adultes et de favoriser un développement cohérent de l'ensemble des filières de formation.
 
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
-Le plan régional de développement des formations professionnelles des jeunes et des adultes est élaboré par le conseil
-régional en concertation avec l'Etat et les organisations syndicales d'employeurs et de salariés représentatives à l'échelon
-national.
+Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales
+d'employeurs et de salariés représentatives à l'échelon national ainsi que les organismes mentionnés à l'article L. 351-21 du
+code du travail.
 
 Il est approuvé par le conseil régional après consultation des conseils généraux, du conseil économique et social régional,
 des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture au niveau régional, du conseil
@@ -4055,36 +4297,15 @@ prévisionnel des formations des collèges, des lycées, des établissements d'�
 maritimes et des établissements d'enseignement agricole prévu à l'article L. 214-1 du présent code et, pour sa partie
 agricole, au schéma prévisionnel national des formations de l'enseignement agricole prévu à l'article L. 814-2 du code rural.
 
-II. - Le plan régional de développement des formations professionnelles, pour son volet jeunes, couvre l'ensemble des
-filières de formation des jeunes préparant l'accès à l'emploi, notamment :
+II. - Le plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre l'ensemble
+des filières de formation des jeunes préparant l'accès à l'emploi. Il inclut le cycle d'enseignement professionnel initial
+dispensé par les établissements d'enseignement artistique.
 
-1° La formation initiale préparant à un diplôme de formation professionnelle délivré par l'Etat ou à une formation
-complémentaire d'initiative locale ;
+Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations sociales et schéma régional des formations
+sanitaires.
 
-2° L'apprentissage ;
-
-3° Les contrats d'insertion en alternance prévus au titre VIII du livre IX du code du travail ;
-
-4° Les actions de formation professionnelle continue en faveur des jeunes à la recherche d'un emploi.
-
-Pour ce qui concerne l'apprentissage, le plan régional de développement des formations professionnelles vaut schéma
-prévisionnel d'apprentissage.
-
-III. - Le plan régional de développement des formations professionnelles, pour son volet adultes, couvre l'ensemble des
-actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi des actifs, notamment :
-
-1° Les actions organisées par le conseil régional ;
-
-2° Les formations destinées aux demandeurs d'emploi dans le cadre de conventions conclues avec les organisations
-représentatives des milieux socioprofessionnels ;
-
-3° Les actions relevant des programmes prioritaires de l'Etat pour la prévention et la lutte contre le chômage de longue
-durée et les exclusions, en particulier celles organisées par l'Association nationale pour la formation professionnelle des
-adultes. A cette fin, la région arrête, dans le cadre de la convention tripartite d'adaptation du contrat de progrès prévu à
-l'article L. 910-1 du code du travail, un schéma régional des formations de l'association nationale.
-
-Dans le cadre de ses actions prioritaires, la région définit les programmes pour lesquels elle fait appel au dispositif
-national de l'Association nationale pour la formation professionnelle des adultes.
+III. - Le plan régional de développement des formations professionnelles, pour sa partie consacrée aux adultes, couvre
+l'ensemble des actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi.
 
 IV. - Des conventions annuelles d'application précisent, pour l'Etat et la région, la programmation et les financements des
 actions.
@@ -4092,18 +4313,29 @@ actions.
 Elles sont signées par le président du conseil régional, le représentant de l'Etat dans la région ainsi que, selon leur champ
 d'application, par les divers acteurs concernés.
 
-V. - L'Etat, la région, une ou plusieurs organisations représentatives des milieux socioprofessionnels peuvent conclure des
-contrats fixant des objectifs de développement coordonné des différentes voies de formation professionnelle initiale et
-continue et notamment de formation professionnelle alternée. Ces contrats d'objectifs peuvent être annuels ou pluriannuels.
+Dans les établissements d'enseignement du second degré, les établissements relevant des articles L. 811-1 et L. 813-1 du code
+rural et les établissements relevant du ministère chargé des sports, ces conventions, qui sont également signées par les
+autorités académiques, prévoient et classent, par ordre prioritaire, en fonction des moyens disponibles, les ouvertures et
+fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en oeuvre par l'Etat et la région
+dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2 du présent code et de l'article
+L. 814-2 du code rural. A défaut d'accord, les autorités de l'Etat prennent, pour ce qui les concerne, les décisions
+nécessaires à la continuité du service public de l'éducation.
+
+V. - L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
+cas échéant, les organismes mentionnés à l'article L. 351-21 du code du travail peuvent conclure des contrats fixant des
+objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
+formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
+être annuels ou pluriannuels.
 
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux
 contrats d'objectifs.
 
-VI. - Chaque région arrête annuellement un programme régional d'apprentissage et de formation professionnelle continue, après
-avis du comité de coordination régional de l'emploi et de la formation professionnelle.
+VI. - Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement
+un programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional
+de l'emploi et de la formation professionnelle.
 
-Les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur demande, à
-l'élaboration du programme régional.
+Les départements, les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur
+demande, à l'élaboration du programme régional.
 
 Pour la mise en oeuvre de ce programme, des conventions sont passées avec les établissements d'enseignement publics et les
 autres organismes de formation concernés.
@@ -4122,7 +4354,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2002-276 du 27 février 2002 - art. 108 () JORF 28 février 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 11 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -4174,8 +4406,8 @@ autres organismes de formation concernés.
 	**Cite**:
 
 	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-14 (M)
-	  - Code rural L814-2
+	  - Code rural L814-2, L811-1, L813-1
+	  - Code du travail - art. L351-21 (T)
 
 
 ###### Article L214-14
@@ -4247,42 +4479,48 @@ du 24 février 2005 publié au Journal officiel du 26 février 2005.
 
 ###### Article L214-15
 
-Le fonds régional de l'apprentissage et de la formation professionnelle continue est régi par les dispositions des articles
-L. 4332-1 et L. 4332-2 du code général des collectivités territoriales, ci-après reproduites :
+Le fonds régional de l'apprentissage et de la formation professionnelle continue est régi par les dispositions de l'article
+L. 4332-1 du code général des collectivités territoriales ci-après reproduites : 
 
-" Art. L. 4332-1. - Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure
+" Art.L. 4332-1-Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure
 prévue aux articles L. 1614-1, L. 1614-2 et L. 1614-3. Il est créé dans chaque région un fonds régional de l'apprentissage et
-de la formation professionnelle continue, qui est géré par le conseil régional.
+de la formation professionnelle continue, qui est géré par le conseil régional. 
 
-Ce fonds est alimenté chaque année par :
+Ce fonds est alimenté chaque année par : 
 
-1° Les crédits transférés par l'Etat au titre de la formation continue et de l'apprentissage. Ces crédits sont répartis
-notamment en fonction de la structure et du niveau de qualification de la population active ainsi que de la capacité
-d'accueil de l'appareil de formation existant. Au sein de ces crédits, les sommes représentatives des rémunérations des
-stagiaires évoluent de façon à compenser intégralement les charges résultant de toute modification par l'Etat des normes
-fixées pour ces rémunérations. Un décret en Conseil d'Etat fixe les modalités d'application du présent alinéa ;
+1° Les crédits transférés par l'Etat au titre de la formation professionnelle continue et de l'apprentissage. Ces crédits
+sont répartis notamment en fonction de la structure et du niveau de qualification de la population active, ainsi que de la
+capacité d'accueil de l'appareil de formation existant. Au sein de ces crédits, les sommes représentatives des rémunérations
+des stagiaires évoluent de façon à compenser intégralement les charges résultant de toute modification par l'Etat des normes
+fixées pour ces rémunérations. Un décret en Conseil d'Etat fixe les modalités d'application du présent alinéa ; 
+
+Les crédits mentionnés à l'alinéa précédent sont diminués en 2005, 2006 et à compter de 2007 d'un montant de respectivement
+197, 92 millions d'euros, 395, 84 millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque année
+selon le taux d'évolution de la dotation globale de fonctionnement. 
 
 2° Les crédits transférés par l'Etat dont le montant est égal aux versements au Trésor public effectués l'année précédente en
 application des articles L. 920-9 et L. 951-9 du code du travail, et dont la répartition obéit aux mêmes critères que ceux
-mentionnés au 1° ci-dessus ;
+mentionnés au 1° ci-dessus ; 
 
-3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement attribuées ;
+3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement attribuées ; 
 
-4° Les crédits votés à cet effet par le conseil régional.
+4° Les crédits votés à cet effet par le conseil régional ; 
+
+5° Le produit de la contribution au développement de l'apprentissage prévue à l'article 1599 quinquies A du code général des
+impôts. 
+
+Chaque région ainsi que la collectivité territoriale de Corse reçoit une part du produit de cette contribution ; cette part
+représente une fraction du taux de cette contribution appliquée à l'assiette nationale ; cette fraction est elle-même
+calculée au prorata de la part de dotation, supprimée dans les conditions prévues au 1° ci-dessus, que chaque région ainsi
+que la collectivité territoriale de Corse a perçue en 2004. La répartition entre les régions et la collectivité territoriale
+de Corse du produit de la contribution ainsi calculé est fixée par arrêté conjoint du ministre de l'intérieur et des
+ministres chargés du travail et du budget.
 
 Les crédits prévus aux 1° et 2° du présent article ne sont pas inclus dans la dotation générale de décentralisation visée à
-l'article L. 1614-4.
+l'article L. 1614-4. 
 
-Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1.
-"
-
-" Art. L. 4332-2. - Le fonds régional de l'apprentissage et de la formation professionnelle continue prévu à l'article L.
-4332-1 est alimenté par les ressources correspondant aux actions de formation professionnelle continue mentionnées au II de
-l'article L. 214-12 du code de l'éducation, destinées aux jeunes de moins de vingt-six ans en vue de leur permettre
-d'acquérir une qualification.
-
-Les conventions mentionnées au dernier alinéa de l'article L. 214-12 du code de l'éducation prévoient le montant des
-ressources attribuées par l'Etat, sans préjudice des transferts visés à l'alinéa précédent. "
+Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1
+".
 
 **Liens relatifs à cet article**
 
@@ -4290,13 +4528,21 @@ ressources attribuées par l'Etat, sans préjudice des transferts visés à l'al
 
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 8 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 37 (V) JORF 31 décembre 2004
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4332-1 (M)
-	  - Code général des collectivités territoriales - art. L4332-2 (M)
-	  - Code de l'éducation - art. L214-12 (M)
-	  - Code du travail - art. L920-9 (M)
-	  - Code du travail - art. L951-9 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 A (Ab)
+	  - Code général des collectivités territoriales - art. L1614-1 (V)
+	  - Code du travail - art. L920-9 (T)
+	  - Code du travail - art. L951-9 (Ab)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4332-1 (V)
 
 	**Cité par**:
 
@@ -4309,22 +4555,11 @@ Outre le transfert de certains personnels dans les conditions fixées par le cod
 appui technique est apporté à la région par les services déconcentrés de l'Etat dans les conditions définies à l'article 7 de
 la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République.
 
-Les transferts de compétences mentionnés au II de l'article L. 214-12 du présent code entraînent l'obligation de poursuivre
-l'établissement des statistiques dans les conditions prévues à l'article L. 1614-7 du code général des collectivités
-territoriales.
-
-Lorsque la région met en oeuvre, en application d'une convention passée avec le représentant de l'Etat, des stages créés en
-exécution des programmes définis à l'article L. 982-1 du code du travail, cette obligation s'applique également programme par
-programme.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°92-125 1992-02-06 art. 7
-	  - Code général des collectivités territoriales - art. L1614-7 (M)
-	  - Code de l'éducation - art. L214-12 (M)
-	  - Code du travail - art. L982-1 (M)
+	  - Loi n°92-125 du 6 février 1992 - art. 7 (V)
 
 	**Anciens textes**:
 
@@ -4334,6 +4569,10 @@ programme.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 8 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -4539,16 +4778,35 @@ disposition de la collectivité.
 
 ###### Article L216-2
 
-Les établissements d'enseignement public de la musique, de la danse et de l'art dramatique relèvent de l'initiative et de la
-responsabilité des communes, des départements et des régions. Toutefois un décret fixe la liste des établissements dont la
-responsabilité et la charge incombent entièrement à l'Etat.
+Les établissements d'enseignement public de la musique, de la danse et de l'art dramatique dispensent un enseignement
+initial, sanctionné par des certificats d'études, qui assure l'éveil, l'initiation, puis l'acquisition des savoirs
+fondamentaux nécessaires à une pratique artistique autonome. Ils participent également à l'éducation artistique des enfants
+d'âge scolaire. Ils peuvent proposer un cycle d'enseignement professionnel initial, sanctionné par un diplôme national. 
 
-Les collectivités territoriales continuent de bénéficier des concours financiers de l'Etat dans les conditions en vigueur à
-la date du transfert de compétences.
+Ces établissements relèvent de l'initiative et de la responsabilité des collectivités territoriales dans les conditions
+définies au présent article. 
 
-L'Etat procède, en accord avec chaque collectivité concernée, au classement des établissements mentionnés au premier alinéa
-du présent article. Il définit les qualifications exigées du personnel enseignant des établissements et assure le contrôle de
-leurs activités ainsi que du fonctionnement pédagogique de ces établissements.
+Les communes et leurs groupements organisent et financent les missions d'enseignement initial et d'éducation artistique de
+ces établissements. Les autres collectivités territoriales ou les établissements publics qui gèrent de tels établissements, à
+la date de publication de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, peuvent
+poursuivre cette mission ; ces établissements sont intégrés dans le schéma départemental. 
+
+Le département adopte, dans un délai de deux ans à compter de l'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
+précitée, un schéma départemental de développement des enseignements artistiques dans les domaines de la musique, de la danse
+et de l'art dramatique. Ce schéma, élaboré en concertation avec les communes concernées, a pour objet de définir les
+principes d'organisation des enseignements artistiques, en vue d'améliorer l'offre de formation et les conditions d'accès à
+l'enseignement. Le département fixe au travers de ce schéma les conditions de sa participation au financement des
+établissements d'enseignement artistique au titre de l'enseignement initial. 
+
+La région organise et finance, dans le cadre du plan visé à l'article L. 214-13, le cycle d'enseignement professionnel
+initial.
+
+L'Etat procède au classement des établissements en catégories correspondant à leurs missions et à leur rayonnement régional,
+départemental, intercommunal ou communal. Il définit les qualifications exigées du personnel enseignant de ces établissements
+et assure l'évaluation de leurs activités ainsi que de leur fonctionnement pédagogique. Il apporte une aide technique à
+l'élaboration du plan mentionné à l'article L. 214-13 et du schéma prévu au présent article. 
+
+Des décrets en Conseil d'Etat fixent les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -4562,11 +4820,44 @@ leurs activités ainsi que du fonctionnement pédagogique de ces établissements
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Cite**:
+
+	  - Loi n°2004-809 du 13 août 2004 (V)
+	  - Code de l'éducation - art. L214-13 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 101 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. D211-13 (V)
 	  - Code de l'éducation - art. L216-2-1 (M)
 	  - Code de l'éducation - art. L361-2 (V)
+
+
+###### Article L216-2-1
+
+L'Etat, au vu des plans prévus à l'article L. 214-13 et des schémas prévus à l'article L. 216-2, transfère par convention aux
+départements et aux régions les concours financiers qu'il accorde aux communes pour le fonctionnement des écoles nationales
+de musique, de danse et d'art dramatique et des conservatoires nationaux de région. Ces concours sont déterminés sur la base
+de la moyenne des dépenses de l'Etat à ce titre dans les départements et les régions sur les trois dernières années.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 101 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-13 (V)
+	  - Code de l'éducation - art. L216-2 (V)
 
 
 ###### Article L216-3
@@ -4608,12 +4899,14 @@ la date du transfert de compétences.
 ###### Article L216-4
 
 Lorsqu'un même ensemble immobilier comporte à la fois un collège et un lycée, une convention intervient entre le département
-et la région pour déterminer celle des deux collectivités qui assure les grosses réparations, l'équipement et le
-fonctionnement de l'ensemble ; cette convention précise la répartition des charges entre les deux collectivités. Si cette
-convention n'est pas signée à la date du transfert de compétences, le représentant de l'Etat dans la région, dans un délai
-d'un mois, désigne la collectivité qui assure, jusqu'à l'intervention d'une convention, les grosses réparations, l'équipement
-et le fonctionnement de l'ensemble ; il fixe également la répartition des charges entre ces deux collectivités en tenant
-compte des effectifs scolarisés et de l'utilisation des superficies des établissements en cause.
+et la région pour déterminer celle des deux collectivités qui assure le recrutement et la gestion des personnels autres que
+ceux mentionnés à l'article L. 211-8, les grosses réparations, l'équipement et le fonctionnement de l'ensemble ; cette
+convention précise la répartition des charges entre les deux collectivités. Si cette convention n'est pas signée à la date du
+transfert de compétences, le représentant de l'Etat dans la région, dans un délai d'un mois, désigne la collectivité qui
+assure, jusqu'à l'intervention d'une convention, le recrutement et la gestion des personnels autres que ceux mentionnés à
+l'article L. 211-8, les grosses réparations, l'équipement et le fonctionnement de l'ensemble ; il fixe également la
+répartition des charges entre ces deux collectivités en tenant compte des effectifs scolarisés et de l'utilisation des
+superficies des établissements en cause.
 
 **Liens relatifs à cet article**
 
@@ -4636,6 +4929,14 @@ compte des effectifs scolarisés et de l'utilisation des superficies des établi
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-8 (M)
 
 
 ###### Article L216-5
@@ -4883,6 +5184,35 @@ Les renseignements correspondants peuvent être demandés à l'appui des candida
 	  - Code de l'éducation - art. L264-1 (V)
 
 
+###### Article L216-11
+
+Les collectivités territoriales et l'Etat peuvent conclure des conventions en vue de développer des activités communes dans
+le domaine éducatif et culturel et créer, ou gérer ensemble, les moyens et services nécessaires à ces activités.
+
+A cet effet, il peut être constitué avec d'autres personnes morales de droit public ou privé un groupement d'intérêt public,
+auquel s'appliquent les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation
+pour la recherche et le développement technologique de la France.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-610 du 15 juillet 1982 - art. 21
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 91 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Loi n°2011-525 du 17 mai 2011 - art. 118
+
+
 #### Titre II : L'organisation des services de l'administration de l'éducation
 
 ##### Chapitre II : Les services académiques et départementaux.
@@ -4960,9 +5290,11 @@ des biens et charges indivis entre plusieurs établissements.
 ###### Article L231-1
 
 Le Conseil supérieur de l'éducation est obligatoirement consulté et peut donner son avis sur toutes les questions d'intérêt
-national concernant l'enseignement ou l'éducation quel que soit le département ministériel intéressé.
+national concernant l'enseignement ou l'éducation quel que soit le département ministériel intéressé. 
 
-Il donne des avis sur les objectifs et le fonctionnement du service public de l'éducation.
+Il donne des avis sur les objectifs et le fonctionnement du service public de l'éducation. 
+
+Il est saisi pour avis du rapport d'évaluation mentionné à l'article L. 211-1.
 
 **Liens relatifs à cet article**
 
@@ -4977,6 +5309,10 @@ Il donne des avis sur les objectifs et le fonctionnement du service public de l'
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 75 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Décret n°2009-947 du 29 juillet 2009 (V)
@@ -4986,6 +5322,10 @@ Il donne des avis sur les objectifs et le fonctionnement du service public de l'
 	  - Code de l'éducation - art. L264-1 (V)
 	  - Code de l'éducation - art. L312-10 (V)
 	  - Code de l'éducation - art. R451-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-1 (V)
 
 
 ###### Article L231-2
@@ -5091,9 +5431,7 @@ Le Conseil supérieur de l'éducation statue en appel et en dernier ressort :
 1° Sur les jugements rendus en matière contentieuse et en matière disciplinaire par les conseils académiques de l'éducation
 nationale ;
 
-2° Sur les décisions disciplinaires et contentieuses rendues par les comités départementaux de l'emploi ;
-
-3° Sur les décisions prises par la commission des titres d'ingénieurs relativement aux écoles privées légalement ouvertes qui
+2° Sur les décisions prises par la commission des titres d'ingénieurs relativement aux écoles privées légalement ouvertes qui
 demandent à délivrer les diplômes d'ingénieur.
 
 **Liens relatifs à cet article**
@@ -5109,7 +5447,7 @@ demandent à délivrer les diplômes d'ingénieur.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Loi n°2004-809 2004-08-13 art. 78 2° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -5593,6 +5931,8 @@ régions, des personnels et des usagers.
 La présidence est exercée par le représentant de l'Etat ou le représentant de la collectivité concernée selon que les
 questions soumises aux délibérations du conseil sont de la compétence de l'Etat, du département ou de la région.
 
+Ce conseil peut siéger en formations restreintes.
+
 Un décret en Conseil d'Etat précise notamment l'organisation et les compétences de ce conseil. Ce décret peut comporter les
 adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse et des départements d'outre-mer.
 
@@ -5607,6 +5947,10 @@ adaptations rendues nécessaires par l'organisation particulière de Paris, de l
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 78 1° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -5623,23 +5967,24 @@ adaptations rendues nécessaires par l'organisation particulière de Paris, de l
 ###### Article L234-2
 
 Le conseil de l'éducation nationale, institué dans chaque académie par l'article L. 234-1, lorsqu'il exerce les compétences
-prévues par l'article L. 234-3, comprend, sous la présidence du recteur :
+prévues par l'article L. 234-3, comprend, sous la présidence du recteur : 
 
-1° Un président d'université nommé par le recteur ;
+1° Un président d'université nommé par le recteur ; 
 
 2° Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux, dont un chargé de l'enseignement technique, et un
-inspecteur de l'éducation nationale nommés par le recteur ;
+inspecteur de l'éducation nationale nommés par le recteur ; 
 
 3° Quatre représentants des personnels de l'enseignement public du premier et du second degré, élus en son sein par le
-conseil de l'éducation nationale dans chaque académie parmi les personnels enseignants titulaires de l'éducation nationale ;
+conseil de l'éducation nationale dans chaque académie parmi les personnels enseignants titulaires de l'éducation nationale ; 
 
 4° Trois représentants des personnels enseignants des établissements d'enseignement privés sous contrat, nommés par le
 recteur sur proposition des organisations syndicales les plus représentatives, proportionnellement aux résultats des
 élections professionnelles, et un représentant des personnels de direction en fonction dans les établissements d'enseignement
-privés hors contrat, nommé par le recteur sur proposition de l'organisation la plus représentative.
+privés hors contrat, nommé par le recteur sur proposition de l'organisation la plus représentative. 
 
 Lorsque le conseil exerce des compétences relatives à l'enseignement supérieur, un administrateur d'un établissement privé
-relevant de cet enseignement, nommé par le recteur, lui est adjoint.
+relevant de cet enseignement, nommé par le recteur, lui est adjoint. Lorsque le conseil exerce des compétences relatives aux
+centres de formation des apprentis, un représentant de ces centres nommé par le recteur lui est adjoint. 
 
 La durée du mandat des membres nommés ou élus est de trois ans. Les membres nommés ou élus qui cessent, pour quelque cause
 que ce soit, notamment parce qu'ils ont perdu la qualité en laquelle ils ont été nommés, de faire partie du conseil avant le
@@ -5656,6 +6001,10 @@ général.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 78 3° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -5680,24 +6029,26 @@ général.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L234-1 (M)
+	  - Code de l'éducation - art. L232-3 (V)
+	  - Code de l'éducation - art. L234-1 (V)
 
 
 ###### Article L234-3
 
 Le conseil institué dans chaque académie, siégeant dans la formation prévue à l'article L. 234-2, est compétent pour se
-prononcer sur :
+prononcer sur : 
 
-1° L'interdiction de diriger ou d'enseigner à titre temporaire ou définitif prévue par l'article L. 914-6 ;
+1° L'interdiction de diriger ou d'enseigner à titre temporaire ou définitif prévue par l'article L. 914-6 ; 
 
 2° Les sanctions prévues par décret pour les manquements aux dispositions relatives au contrôle de la fréquentation et de
-l'assiduité scolaire ;
+l'assiduité scolaire ; 
 
 3° L'interdiction, pour une durée d'un an au plus, de diriger ou d'enseigner prononcée à l'encontre d'un membre de
 l'enseignement privé à distance, ainsi que la fermeture de l'établissement pour la même durée maximale, prévues par l'article
-L. 444-9 ;
+L. 444-9 ; 
 
-4° L'opposition à l'ouverture des établissements d'enseignement privés prévue par les articles L. 441-3 et L. 441-7.
+4° L'opposition à l'ouverture des établissements d'enseignement privés prévus par les articles L. 441-3, L. 441-7 et L.
+441-12.
 
 **Liens relatifs à cet article**
 
@@ -5707,19 +6058,29 @@ L. 444-9 ;
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 78 4° JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-691 du 26 juin 2014 - art. 8
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L234-2 (M)
-	  - Code de l'éducation - art. L441-3 (V)
-	  - Code de l'éducation - art. L441-7 (V)
-	  - Code de l'éducation - art. L444-9 (V)
-	  - Code de l'éducation - art. L914-6 (M)
+	  - Code de l'éducation - art. L234-2
+	  - Code de l'éducation - art. L441-12 (VT)
+	  - Code de l'éducation - art. L441-3 (VT)
+	  - Code de l'éducation - art. L441-7 (VD)
+	  - Code de l'éducation - art. L444-9 (VD)
+	  - Code de l'éducation - art. L914-6 (VD)
 
 	**Cité par**:
 
+	  - Code de l'éducation - art. L234-4 (VT)
 	  - Code de l'éducation - art. L234-5 (VT)
 	  - Code de l'éducation - art. R234-37 (V)
 	  - Code de l'éducation - art. R234-38 (VT)
@@ -6069,30 +6430,67 @@ Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 févrie
 	  - Code du travail - art. L910-2 (M)
 
 
-##### Section 2 : Les instances consultatives départementales.
+##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole
 
-###### Article L237-2
+##### Section 1 : Le Conseil national de l'enseignement agricole.
 
-Les comités départementaux de l'emploi sont notamment appelés à donner leur avis sur les demandes de reconnaissance par
-l'Etat présentées par les établissements d'enseignement technique privés et par les établissements d'enseignement et de
-formation professionnelle agricoles privés.
+###### Article L238-1
 
-Les attributions juridictionnelles de ces comités sont exercées par des commissions spécialisées, présidées par un
-représentant de l'administration et composées d'un nombre égal, d'une part, de représentants des enseignants publics et
-privés, d'autre part, des organismes et des organisations professionnels d'employeurs et de salariés et, en troisième lieu,
-de représentants de l'administration.
+La composition et les compétences du Conseil national de l'enseignement agricole sont fixées par les dispositions des
+articles L. 814-1 et L. 814-2 du code rural, ci-après reproduites : 
 
-**Nota:**
+" Art.L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de
+soixante-quatre membres ainsi répartis : 
 
-NOTA : Le 5° de l'article 78 de la loi n° 2004-809 abroge de nouveau cet article avec entrée en vigueur le 1er janvier 2005.
-NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
+1° a) Huit représentants de l'Etat ; 
+
+b) Trois représentants des régions ; 
+
+c) Trois représentants des établissements publics intéressés ; 
+
+d) Six représentants des associations et organismes responsables d'établissements d'enseignement agricole privés ayant passé
+un contrat avec l'Etat et de leurs fédérations représentatives ; 
+
+2° Vingt représentants des organisations syndicales représentatives des personnels des établissements d'enseignement agricole
+publics et privés, dont cinq au moins représentant les organisations syndicales représentatives des personnels des
+établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat ; 
+
+3° a) Dix représentants des organisations représentatives des parents d'élèves de l'enseignement agricole dont deux au moins
+représentant les organisations représentatives des parents d'élèves des établissements d'enseignement agricole privés ayant
+passé un contrat avec l'Etat et un représentant des organisations nationales représentatives des associations familiales
+rurales ; 
+
+b) Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des
+salariés agricoles ; 
+
+4° Quatre représentants des élèves et étudiants. 
+
+Ce conseil peut également comprendre, à titre consultatif et dans la limite du dixième de ses membres, des personnalités
+désignées en raison de leurs compétences, notamment dans le domaine de la recherche et des activités para-agricoles. 
+
+Le Conseil national de l'enseignement agricole assure la représentation de l'enseignement agricole au sein du Conseil
+supérieur de l'éducation. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. " 
+
+" Art.L. 814-2.-Le Conseil national de l'enseignement agricole peut être saisi pour avis de toute question de son ressort par
+un quart de ses membres ou par le Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou de décret
+concernant l'enseignement agricole. 
+
+Il est saisi pour avis du rapport d'évaluation mentionné à l'article L. 211-1 du code de l'éducation. 
+
+Il donne un avis sur le projet de schéma prévisionnel national des formations de l'enseignement agricole. Ce schéma, qui
+tient compte des besoins de formation exprimés par les régions, est arrêté pour une période de cinq années par le ministre de
+l'agriculture. La conduite du dispositif national de l'enseignement général, technologique et professionnel et de la
+formation professionnelle agricoles est assurée par l'Etat sur le fondement de ce schéma. 
+
+En cas de modifications substantielles, au cours de la période de validité du schéma, des bases qui ont servi à son
+établissement, ce schéma peut faire l'objet de modifications partielles sur proposition du Conseil national de l'enseignement
+agricole. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. "
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-577 du 16 juillet 1971 - art. 16, v. init.
-	  - Loi n°71-577 du 16 juillet 1971 - art. 16 (Ab)
 
 	**Codifié par**:
 
@@ -6101,87 +6499,16 @@ NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifi�
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Loi n°2004-809 du 13 août 2004 - art. 75 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
-	**Abrogé par**:
+	**Liens**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2005
-	  - Loi n°2004-809 2004-08-13 art. 78 5° JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D237-13 (VT)
-	  - Code de l'éducation - art. D237-14 (VT)
-
-
-##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole
-
-##### Section 1 : Le Conseil national de l'enseignement agricole.
-
-###### Article L238-1
-
-La composition et les compétences du Conseil national de l'enseignement agricole sont fixées par les dispositions des
-articles L. 814-1 et L. 814-2 du code rural, ci-après reproduites :
-
-" Art. L. 814-1. - Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de
-soixante-quatre membres ainsi répartis :
-
-1° a) Huit représentants de l'Etat ;
-
-b) Trois représentants des régions ;
-
-c) Trois représentants des établissements publics intéressés ;
-
-d) Six représentants des associations et organismes responsables d'établissements d'enseignement agricole privés ayant passé
-un contrat avec l'Etat et de leurs fédérations représentatives ;
-
-2° Vingt représentants des organisations syndicales représentatives des personnels des établissements d'enseignement agricole
-publics et privés, dont cinq au moins représentant les organisations syndicales représentatives des personnels des
-établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat ;
-
-3° a) Dix représentants des organisations représentatives des parents d'élèves de l'enseignement agricole dont deux au moins
-représentant les organisations représentatives des parents d'élèves des établissements d'enseignement agricole privés ayant
-passé un contrat avec l'Etat et un représentant des organisations nationales représentatives des associations familiales
-rurales ;
-
-b) Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des
-salariés agricoles ;
-
-4° Quatre représentants des élèves et étudiants.
-
-Ce conseil peut également comprendre, à titre consultatif et dans la limite du dixième de ses membres, des personnalités
-désignées en raison de leurs compétences, notamment dans le domaine de la recherche et des activités para-agricoles.
-
-Le Conseil national de l'enseignement agricole assure la représentation de l'enseignement agricole au sein du Conseil
-supérieur de l'éducation.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. "
-
-" Art. L. 814-2. - Le Conseil national de l'enseignement agricole peut être saisi pour avis de toute question de son ressort
-par un quart de ses membres ou par le Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou de
-décret concernant l'enseignement agricole.
-
-Il donne un avis sur le projet de schéma prévisionnel national des formations de l'enseignement agricole. Ce schéma, qui
-tient compte des besoins de formation exprimés par les régions, est arrêté pour une période de cinq années par le ministre de
-l'agriculture. La conduite du dispositif national de l'enseignement général, technologique et professionnel et de la
-formation professionnelle agricoles est assurée par l'Etat sur le fondement de ce schéma.
-
-En cas de modifications substantielles, au cours de la période de validité du schéma, des bases qui ont servi à son
-établissement, ce schéma peut faire l'objet de modifications partielles sur proposition du Conseil national de l'enseignement
-agricole.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. "
-
-**Liens relatifs à cet article**
+	  - PILOTE_SUIVEUR: Code rural - art. L814-1 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L814-2 (V)
 
 	**Cite**:
 
 	  - Code rural L814-1, L814-2
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
 ##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.
@@ -6262,6 +6589,47 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L814-4 (V)
+
+
+##### Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives
+
+###### Article L239-1
+
+Le Conseil territorial de l'éducation nationale est composé de représentants de l'Etat, des régions, des départements, des
+communes et des établissements publics de coopération intercommunale.
+
+Il peut être consulté sur toute question intéressant les collectivités territoriales dans le domaine éducatif. Il est tenu
+informé des initiatives prises par les collectivités territoriales et il formule toutes recommandations destinées à
+favoriser, en particulier, l'égalité des usagers devant le service public de l'éducation. Il est saisi pour avis du rapport
+d'évaluation mentionné à l'article L. 211-1. Il invite à ses travaux des représentants des personnels et des usagers.
+
+Un décret précise la composition et les règles de fonctionnement de ce conseil ainsi que les conditions de nomination de ses
+membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 76 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-778 du 4 mai 2017 (V)
+	  - Code de l'éducation - art. D239-1 (V)
+	  - Code de l'éducation - art. L232-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-1
 
 
 #### Titre IV : L'inspection et l'évaluation de l'éducation
@@ -9535,9 +9903,13 @@ A cette fin, une concertation permanente est organisée entre l'Etat, les compag
 chambres d'agriculture, les organisations professionnelles d'employeurs et de salariés, les organisations familiales et les
 représentants de l'enseignement.
 
-Aux niveaux régional et départemental, cette concertation est réalisée au sein des comités régionaux et départementaux créés
-en application de l'article L. 910-1 du code du travail ainsi que, pour les formations assurées par les établissements
-d'enseignement supérieur, dans le cadre des conseils académiques de l'éducation nationale.
+Au niveau régional, cette concertation est réalisée au sein des comités de coordination régionaux de l'emploi et de la
+formation professionnelle, ainsi que, pour les formations assurées par les établissements d'enseignement supérieur, dans le
+cadre des conseils académiques de l'éducation nationale.
+
+**Nota:**
+
+NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -9551,13 +9923,14 @@ d'enseignement supérieur, dans le cadre des conseils académiques de l'éducati
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2004-809 2004-08-13 art. 78 6° JORF 17 août 2004 en  vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. D335-38 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L910-1 (M)
 
 
 ###### Article L335-9
@@ -12206,7 +12579,7 @@ droits des marins et de leurs familles à l'assurance de la caisse générale de
 Les établissements d'enseignement et de formation professionnelle agricoles publics sont organisés conformément aux
 dispositions des articles L. 811-8 à L. 811-11 du code rural, ci-après reproduites :
 
-" Art. L. 811-8. - Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit
+"Art. L. 811-8. - Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit
 un lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole et regroupe plusieurs
 centres :
 
@@ -12240,9 +12613,23 @@ Le projet d'établissement est élaboré et adopté dans les conditions prévues
 pour une durée de trois à cinq ans.
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans des conditions fixées par le ministre de
-l'agriculture. "
+l'agriculture.
 
-" Art. L. 811-9. - Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil
+Les établissements d'enseignement et de formation professionnelle agricole relevant des communautés urbaines de Lille et de
+Dunkerque ainsi que du syndicat intercommunal de gestion du lycée d'enseignement professionnel et horticole de Raismes sont
+transformés en établissements publics locaux d'enseignement et de formation professionnelle agricole.
+
+Leur transfert à la région Nord - Pas-de-Calais n'intervient, sauf convention contraire entre la région et l'établissement
+public de coopération intercommunale concerné, qu'une fois qu'a été constaté le strict respect de l'ensemble des normes de
+sécurité s'appliquant aux bâtiments et aux équipements.
+
+Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des collectivités territoriales s'appliquent à ce
+transfert de compétence.
+
+La région prend en charge la rétribution des personnels ouvriers et de service qui exercent leur fonction dans les
+établissements transformés conformément aux dispositions du présent article.
+
+"Art. L. 811-9. - Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil
 d'administration composé de trente membres.
 
 Celui-ci comprend :
@@ -12262,24 +12649,28 @@ et un représentant de la commune siège de l'établissement.
 Les représentants des organisations professionnelles et syndicales sont au nombre de cinq. Lorsque la formation le justifie,
 ils comprennent un ou plusieurs représentants des formations para-agricoles.
 
-Le conseil d'administration élit son président en son sein, parmi les personnes extérieures à l'établissement. "
+Le conseil d'administration élit son président en son sein, parmi les personnes extérieures à l'établissement."
 
-" Art. L. 811-10. - Les articles L. 421-1, L. 421-3, à l'exception du quatrième alinéa, L. 421-11 à L. 421-16 et L. 421-23 du
+"Art. L. 811-10. - Les articles L. 421-1, L. 421-3, à l'exception du quatrième alinéa, L. 421-11 à L. 421-16 et L. 421-23 du
 code de l'éducation sont applicables aux établissements publics locaux mentionnés à l'article L. 811-8 du présent code. Pour
 l'application de ces dispositions, les termes : "autorité académique" désignent le directeur régional de l'agriculture et de
-la forêt. "
+la forêt."
 
-" Art. L. 811-11. - Les écoles spécialisées dont la responsabilité et la charge incombent à l'Etat dans les conditions
-prévues à l'article L. 211-4 du code de l'éducation installées sur un domaine appartenant à l'Etat ou mis à la disposition de
-l'Etat jouissent de la personnalité civile et de l'autonomie financière et constituent des établissements publics nationaux.
-"
+"Art. L. 811-11. - Les écoles spécialisées dont la responsabilité et la charge incombent à l'Etat dans les conditions prévues
+à l'article L. 211-4 du code de l'éducation installées sur un domaine appartenant à l'Etat ou mis à la disposition de l'Etat
+jouissent de la personnalité civile et de l'autonomie financière et constituent des établissements publics nationaux."
+
+**Nota:**
+
+NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L.
+401-1 du même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code rural L811-8 à L811-11
 	  - Loi n°99-574 1999-07-09
+	  - Code général des collectivités territoriales L1321-1 à L1321-8
 	  - Code de l'éducation - art. L211-4 (V)
 	  - Code de l'éducation - art. L312-6 (V)
 	  - Code de l'éducation - art. L312-7 (V)
@@ -12288,6 +12679,7 @@ l'Etat jouissent de la personnalité civile et de l'autonomie financière et con
 	  - Code de l'éducation - art. L421-5 (M)
 	  - Code de l'éducation - art. L811-2 (M)
 	  - Code de l'éducation L312-6, L312-7, L811-2, L421-5, L811-8, L421-1, L421-3, L211-4
+	  - Code rural L811-8 à L811-11
 
 	**Codifié par**:
 
@@ -12296,6 +12688,7 @@ l'Etat jouissent de la personnalité civile et de l'autonomie financière et con
 
 	**Modifié par**:
 
+	  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
@@ -12303,21 +12696,39 @@ l'Etat jouissent de la personnalité civile et de l'autonomie financière et con
 
 ###### Article L421-23
 
-I. - Par dérogation aux dispositions des lois n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires,
-n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et n° 84-53 du 26
+I.-Par dérogation aux dispositions des lois n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, n°
+84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et n° 84-53 du 26
 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les agents de l'Etat ou des
 collectivités territoriales affectés dans un établissement public local d'enseignement conservent leur statut, sont
-administrés par la collectivité dont ils dépendent statutairement et sont placés sous l'autorité du chef d'établissement.
+administrés par la collectivité dont ils dépendent statutairement et sont placés sous l'autorité du chef d'établissement. 
 
-II. - Pour l'exercice des compétences incombant à la collectivité de rattachement, en matière de construction, de
-reconstruction, d'extension, de grosses réparations, d'équipement et de fonctionnement matériel de l'établissement, le
-président du conseil général ou régional peut s'adresser directement au chef d'établissement.
+II.-Pour l'exercice des compétences incombant à la collectivité de rattachement, le président du conseil général ou régional
+s'adresse directement au chef d'établissement. 
+
+Il lui fait connaître les objectifs fixés par la collectivité de rattachement et les moyens que celle-ci alloue à cet effet à
+l'établissement. Le chef d'établissement est chargé de mettre en oeuvre ces objectifs et de rendre compte de l'utilisation de
+ces moyens. 
+
+Le chef d'établissement est assisté des services d'intendance et d'administration ; il encadre et organise le travail des
+personnels techniciens, ouvriers et de service placés sous son autorité. Il assure la gestion du service de demi-pension
+conformément aux modalités d'exploitation définies par la collectivité compétente. Un décret détermine les conditions de
+fixation des tarifs de restauration scolaire et d'évolution de ceux-ci en fonction du coût, du mode de production des repas
+et des prestations servies. 
+
+Une convention passée entre l'établissement et, selon le cas, le conseil général ou le conseil régional précise les modalités
+d'exercice de leurs compétences respectives.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-634 1983-07-13
+	  - Loi n°83-634 du 13 juillet 1983 (V)
+	  - Loi n°84-16 du 11 janvier 1984 (V)
+	  - Loi n°84-53 du 26 janvier 1984 (V)
 
 	**Anciens textes**:
 
@@ -12341,6 +12752,10 @@ président du conseil général ou régional peut s'adresser directement au chef
 	  - Code de l'éducation - art. R421-20 (V)
 	  - Code général des collectivités territoriales - art. L4424-2 (VD)
 	  - Code rural et de la pêche maritime - art. L811-10 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article L421-24
@@ -12374,8 +12789,8 @@ recueille l'avis du maire de la commune d'implantation et du conseil d'administr
 ###### Article L422-1
 
 Les dispositions de la première phrase de l'article L. 211-2, des articles L. 212-15, L. 214-1, L. 214-2, L. 216-1, L. 234-1,
-L. 235-1 et L. 521-3 sont seules applicables aux établissements d'enseignement du second degré ou d'éducation spéciale qui
-relèvent de l'Etat en application de l'article L. 211-4.
+L. 235-1 et L. 521-3 sont applicables aux établissements d'enseignement du second degré ou d'éducation spéciale qui relèvent
+de l'Etat en application de l'article L. 211-4.
 
 **Liens relatifs à cet article**
 
@@ -12388,6 +12803,10 @@ relèvent de l'Etat en application de l'article L. 211-4.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Décret n°2006-509 du 3 mai 2006 - art. 4 (Ab)
@@ -12397,13 +12816,12 @@ relèvent de l'Etat en application de l'article L. 211-4.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L211-2 (M)
+	  - Code de l'éducation - art. L211-2 (V)
 	  - Code de l'éducation - art. L211-4 (V)
-	  - Code de l'éducation - art. L212-15 (M)
-	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-2 (V)
+	  - Code de l'éducation - art. L212-15 (V)
+	  - Code de l'éducation - art. L214-1 (VT)
 	  - Code de l'éducation - art. L216-1 (V)
-	  - Code de l'éducation - art. L234-1 (M)
+	  - Code de l'éducation - art. L234-1 (V)
 	  - Code de l'éducation - art. L235-1 (V)
 	  - Code de l'éducation - art. L521-3 (V)
 
@@ -12412,9 +12830,10 @@ relèvent de l'Etat en application de l'article L. 211-4.
 
 ###### Article L422-2
 
-Les dispositions de la première phrase de l'article L. 211-2, des articles L. 212-15, L. 214-1, L. 214-2, L. 216-1, L. 234-1,
-L. 235-1 et L. 521-3 sont seules applicables aux établissements d'enseignement du second degré ou d'éducation spéciale qui, à
-la date du 1er janvier 1986, étaient municipaux ou départementaux.
+Les dispositions de la première phrase de l'article L. 211-2, des articles L. 212-15, 
+L. 214-1, L. 214-2, L. 216-1, L. 234-1, 
+L. 235-1 et L. 521-3 sont applicables aux établissements d'enseignement du second degré ou d'éducation spéciale qui, à la
+date du 1er janvier 1986, étaient municipaux ou départementaux. 
 
 Lorsqu'à la date mentionnée ci-dessus les établissements municipaux ou départementaux bénéficiaient d'une aide financière de
 l'Etat, celui-ci continue de participer à leurs dépenses selon les règles en vigueur à cette date et dans les mêmes
@@ -12432,6 +12851,10 @@ collectivités territoriales sont applicables.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
 	**Cité par**:
 
 	  - Décret n°2006-509 du 3 mai 2006 - art. 4 (Ab)
@@ -12444,15 +12867,48 @@ collectivités territoriales sont applicables.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales L2321-1 à L2321-4
-	  - Code de l'éducation - art. L211-2 (M)
-	  - Code de l'éducation - art. L212-15 (M)
-	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-2 (V)
+	  - Code général des collectivités territoriales - art. L2321-1 (V)
+	  - Code de l'éducation - art. L211-2 (V)
+	  - Code de l'éducation - art. L212-15 (V)
+	  - Code de l'éducation - art. L214-1 (VT)
 	  - Code de l'éducation - art. L216-1 (V)
-	  - Code de l'éducation - art. L234-1 (M)
+	  - Code de l'éducation - art. L234-1 (V)
 	  - Code de l'éducation - art. L235-1 (V)
 	  - Code de l'éducation - art. L521-3 (V)
+
+
+###### Article L422-3
+
+A la demande, selon le cas, de la commune ou du département, les établissements municipaux ou départementaux d'enseignement
+sont transformés en établissements publics locaux d'enseignement, conformément aux dispositions de l'article L. 421-1. Les
+dispositions des articles L. 1321-1 à L. 1321-8 du code général des collectivités territoriales s'appliquent à ce transfert.
+La commune ou le département conserve, pour une durée qui ne peut être inférieure à six ans sauf accord contraire, la
+responsabilité des grosses réparations, de l'équipement et du fonctionnement de l'établissement, ainsi que de l'accueil, de
+l'entretien général et technique, de la restauration et de l'hébergement, à l'exception des missions d'encadrement et de
+surveillance des élèves. La commune ou le département assume, pendant la même période, les charges financières
+correspondantes, y compris la rémunération des personnels autres que ceux relevant de l'Etat en application de l'article L.
+211-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales L1321-1 à L1321-8
+	  - Code de l'éducation - art. L211-8 (M)
+	  - Code de l'éducation - art. L421-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L492-1 (V)
 
 
 ##### Chapitre III : Les groupements d'établissements scolaires publics.
@@ -13156,12 +13612,12 @@ procureur de la République et au recteur de l'académie. Il y joint en outre, p
 département, un acte de naissance, ses diplômes, l'extrait de son casier judiciaire, l'indication des lieux où il a résidé et
 des professions qu'il a exercées pendant les dix années précédentes, les programmes et l'horaire de l'enseignement qu'il se
 propose de donner, le plan des locaux affectés à l'établissement et, s'il appartient à une association, une copie des statuts
-de cette association.
+de cette association. 
 
-Le représentant de l'Etat dans le département, le procureur de la République et l'inspecteur de l'éducation nationale désigné
-par le recteur peuvent former opposition à l'ouverture d'un établissement d'enseignement technique privé, dans l'intérêt de
-l'ordre public, des bonnes moeurs ou de l'hygiène ou lorsqu'il résulte des programmes de l'enseignement que l'établissement
-projeté n'a pas le caractère d'un établissement d'enseignement technique.
+Le représentant de l'Etat dans le département, le procureur de la République et le recteur peuvent former opposition à
+l'ouverture d'un établissement d'enseignement technique privé, dans l'intérêt de l'ordre public, des bonnes moeurs ou de
+l'hygiène ou lorsqu'il résulte des programmes de l'enseignement que l'établissement projeté n'a pas le caractère d'un
+établissement d'enseignement technique. 
 
 A défaut d'opposition, l'établissement est ouvert, à l'expiration d'un délai de deux mois, sans autre formalité ; ce délai a
 pour point de départ le jour où la dernière déclaration a été adressée par le demandeur au représentant de l'Etat dans le
@@ -13171,8 +13627,11 @@ département, au procureur de la République ou au recteur.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 78 7° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Anciens textes**:
 
@@ -13190,17 +13649,16 @@ département, au procureur de la République ou au recteur.
 
 ###### Article L441-12
 
-Les oppositions à l'ouverture d'un établissement d'enseignement technique privé sont jugées contradictoirement par le comité
-départemental de l'emploi dans le délai d'un mois.
+Les oppositions à l'ouverture d'un établissement d'enseignement technique privé sont jugées contradictoirement par le conseil
+académique de l'éducation nationale dans le délai d'un mois.
 
-Appel de la décision rendue peut être interjeté dans les dix jours à partir de la notification de cette décision. L'appel est
-reçu par le représentant de l'Etat dans le département qui doit le transmettre sans délai. Il est soumis au Conseil supérieur
-de l'éducation et jugé contradictoirement dans le délai d'un mois.
+Appel de la décision rendue peut être interjeté dans les dix jours à partir de la notification de cette décision. Il est
+soumis au Conseil supérieur de l'éducation et jugé contradictoirement dans le délai d'un mois.
 
-Le demandeur peut se faire assister ou représenter par un conseil devant le comité départemental et devant le Conseil
-supérieur de l'éducation.
+Le demandeur peut se faire assister ou représenter par un conseil devant le conseil académique de l'éducation nationale et
+devant le Conseil supérieur de l'éducation.
 
-En aucun cas l'ouverture ne peut avoir lieu avant la décision d'appel.
+En cas d'appel, l'ouverture ne peut avoir lieu avant la décision du Conseil supérieur de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -13216,21 +13674,34 @@ En aucun cas l'ouverture ne peut avoir lieu avant la décision d'appel.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Loi n°2004-809 2004-08-13 art. 78 8° JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-691 du 26 juin 2014 - art. 15
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L234-3 (VT)
 
 
 ###### Article L441-13
 
 Le fait d'ouvrir ou de diriger un établissement d'enseignement technique privé sans remplir les conditions prescrites par les
-articles L. 911-5 et L. 914-5 et par la présente section est puni de [*taux*] 3750 euros d'amende.
+articles L. 911-5 et L. 914-5 et par la présente section est puni de 3 750 euros d'amende. 
 
-L'établissement sera fermé.
+L'établissement sera fermé. 
 
 Est puni de la peine prévue au premier alinéa le fait, pour toute personne, dans le cas d'opposition formée à l'ouverture de
-son établissement, de l'avoir ouvert avant qu'il ait été statué sur cette opposition, ou malgré la décision du comité
-départemental de l'emploi qui aurait accueilli l'opposition, ou avant la décision d'appel.
+son établissement, de l'avoir ouvert avant qu'il ait été statué sur cette opposition, ou malgré la décision du conseil
+académique de l'éducation nationale qui aurait accueilli l'opposition, ou avant la décision d'appel.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1919-07-25 art. 29
+	  - Code de l'enseignement technique - art. 71 (M)
 
 	**Codifié par**:
 
@@ -13239,12 +13710,7 @@ départemental de l'emploi qui aurait accueilli l'opposition, ou avant la décis
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
-
-	**Anciens textes**:
-
-	  - Code de l'enseignement technique - art. 71 (M)
-	  - Loi n°1919-07-25 art. 29
+	  - Loi n°2004-809 2004-08-13 art. 78 9° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -13254,7 +13720,7 @@ départemental de l'emploi qui aurait accueilli l'opposition, ou avant la décis
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L911-5 (M)
+	  - Code de l'éducation - art. L911-5 (V)
 	  - Code de l'éducation - art. L914-5 (V)
 
 
@@ -13575,18 +14041,24 @@ degré sont prises en charge sous la forme de contributions forfaitaires versée
 mêmes critères que pour les classes correspondantes de l'enseignement public.
 
 La contribution de l'Etat est calculée par rapport aux dépenses correspondantes de rémunération des personnels non
-enseignants afférentes à l'externat ; elle est majorée d'un pourcentage permettant de couvrir les charges sociales et
-fiscales afférentes à la rémunération de ces personnels, qui demeurent de droit privé, et les charges diverses dont les
-établissements publics sont dégrevés. Le montant global de cette contribution est déterminé annuellement dans la loi de
-finances.
+enseignants afférentes à l'externat, qui sont à la charge de l'Etat en application des 3° et 4° de l'article L. 211-8. Elle
+est majorée d'un pourcentage permettant de couvrir les charges sociales et fiscales afférentes à la rémunération de ces
+personnels, qui demeurent de droit privé, et les charges diverses dont les établissements publics sont dégrevés. Le montant
+global de cette contribution est déterminé annuellement dans la loi de finances.
 
-La contribution des départements pour les classes des collèges, des régions pour les classes des lycées et de la collectivité
-territoriale de Corse pour les classes des collèges et des lycées est calculée par rapport aux dépenses correspondantes de
-fonctionnement matériel afférentes à l'externat des établissements d'enseignement publics ; elle est égale au coût moyen
-correspondant d'un élève externe, selon le cas, dans les collèges ou dans les lycées de l'enseignement public du département
-ou de la région ; elle est majorée d'un pourcentage permettant de couvrir les charges diverses dont les établissements
-d'enseignement publics sont dégrevés. Elle fait l'objet d'une compensation, dans les conditions prévues par les articles L.
-1614-1 et L. 1614-3 du code général des collectivités territoriales.
+Les départements pour les classes des collèges, les régions pour les classes des lycées et, en Corse, la collectivité
+territoriale pour les classes des collèges et des lycées versent chacun deux contributions. La première contribution est
+calculée par rapport aux dépenses correspondantes de rémunération des personnels non enseignants afférentes à l'externat des
+collèges ou des lycées de l'enseignement public assurés par le département ou la région et en Corse par la collectivité
+territoriale, en application des dispositions des articles L. 213-2-1 et L. 214-6-1. Elle est majorée d'un pourcentage
+permettant de couvrir les charges sociales et fiscales afférentes à la rémunération de ces personnels, qui demeurent de droit
+privé, et les charges diverses dont les établissements publics sont dégrevés. La seconde contribution est calculée par
+rapport aux dépenses correspondantes de fonctionnement de matériel afférentes à l'externat des établissements de
+l'enseignement public ; elle est égale au coût moyen correspondant d'un élève externe, selon les cas, dans les collèges ou
+dans les lycées de l'enseignement public du département ou de la région ; elle est majorée d'un pourcentage permettant de
+couvrir les charges diverses dont les établissements d'enseignement public sont dégrevés. Elles font l'objet d'une
+compensation dans les conditions prévues par les articles L. 1614-1, L. 1614-3 et L. 1614-4 du code général des collectivités
+territoriales.
 
 Le montant des dépenses pédagogiques à la charge de l'Etat pour les classes sous contrat d'association des établissements
 d'enseignement privés du second degré est déterminé annuellement dans la loi de finances.
@@ -13606,7 +14078,7 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 
 	**Modifié par**:
 
-	  - Loi n°2003-400 du 30 avril 2003 - art. 4 () JORF 2 mai 2003
+	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -13621,7 +14093,11 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 
 	  - Code général des collectivités territoriales - art. L1614-1 (M)
 	  - Code général des collectivités territoriales - art. L1614-3 (M)
+	  - Code général des collectivités territoriales - art. L1614-4 (M)
+	  - Code de l'éducation - art. L211-8 (M)
 	  - Code de l'éducation - art. L212-8 (M)
+	  - Code de l'éducation - art. L213-2-1 (V)
+	  - Code de l'éducation - art. L214-6-1 (V)
 	  - Code de l'éducation - art. L216-8 (V)
 
 
@@ -13793,6 +14269,29 @@ prévus aux articles L. 214-1 et L. 214-2.
 
 	  - Code de l'éducation - art. L442-19 (V)
 	  - Code de l'éducation - art. R442-33 (V)
+
+
+###### Article L442-13-1
+
+Lorsqu'un établissement public de coopération intercommunale est compétent pour le fonctionnement des écoles publiques, cet
+établissement est substitué aux communes dans leurs droits et obligations à l'égard des établissements d'enseignement privés
+ayant passé avec l'Etat l'un des contrats prévus aux articles L. 442-5 et L. 442-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 87 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-12 (V)
+	  - Code de l'éducation - art. L442-5 (V)
 
 
 ###### Article L442-14
@@ -16316,8 +16815,9 @@ régissant le contentieux général de la sécurité sociale.
 
 ###### Article L533-1
 
-Les collectivités territoriales peuvent faire bénéficier des mesures à caractère social tout enfant sans considération de
-l'établissement d'enseignement qu'il fréquente.
+Les collectivités territoriales, les établissements publics de coopération intercommunale et les caisses des écoles peuvent
+faire bénéficier des mesures à caractère social tout enfant sans considération de l'établissement d'enseignement qu'il
+fréquente.
 
 **Liens relatifs à cet article**
 
@@ -16329,6 +16829,10 @@ l'établissement d'enseignement qu'il fréquente.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 93 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -24168,18 +24672,26 @@ d'organisation et de fonctionnement sont fixées par décret en Conseil d'Etat d
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L1415-1 (V)
 
 
-##### Chapitre VII : Les écoles nationales de la marine marchande.
+##### Chapitre VII : Les écoles de la marine marchande.
 
 ###### Article L757-1
 
-Les écoles nationales de la marine marchande placées sous l'autorité du ministre chargé de la mer ont pour objet de préparer
-aux carrières d'officiers de la marine marchande. Elles constituent des établissements publics nationaux dotés de l'autonomie
-financière.
+Les écoles de la marine marchande ont pour objet de préparer aux carrières d'officier de la marine marchande. Elles
+constituent des établissements publics régionaux et relèvent, sous réserve des adaptations fixées par le décret en Conseil
+d'Etat prévu au dernier alinéa, des dispositions des articles L. 715-1 à L. 715-3.
 
-Les règles d'administration de ces établissements sont fixées par décret pris sur le rapport du ministre chargé de l'économie
-et des finances, du ministre chargé de la mer et du ministre chargé du budget.
+Les régions intéressées participent au service public de la formation des officiers de la marine marchande et des personnels
+appelés à des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire, en prenant en charge le
+financement du fonctionnement et de l'investissement des écoles de la marine marchande, à l'exception des dépenses
+pédagogiques prises en charge par l'Etat. Par convention avec l'Etat, elles assurent les formations des personnes appelées à
+des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire.
 
-Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles nationales de la marine marchande.
+L'Etat fixe les conditions d'accès aux formations des officiers de la marine marchande, ainsi que des personnels appelés à
+des fonctions techniques, de sécurité et de sûreté en matière maritime et portuaire. Il détermine les programmes de
+formation, l'organisation des études, les modalités d'évaluation des étudiants. Il délivre les diplômes ou les attestations
+suivant la nature de la formation.
+
+Les règles d'administration des écoles de la marine marchande sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -24190,11 +24702,12 @@ Les dispositions de l'article L. 421-21 sont applicables aux élèves des école
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2004-809 2004-08-13 art. 94 I, II JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 94 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L421-21 (M)
+	  - Code de l'éducation L715-1 à L715-3
 
 
 ##### Chapitre VIII : La Fondation nationale des sciences politiques.
@@ -24262,6 +24775,37 @@ au profit du Trésor.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+##### Chapitre IX : Les établissements d'enseignement supérieur de la musique, de la danse, du théâtre et des arts du cirque
+
+###### Article L759-1
+
+Les établissements d'enseignement supérieur dans les domaines de la musique, de la danse, du théâtre et des arts du cirque
+assurent la formation aux métiers du spectacle, notamment celle des interprètes, des enseignants et des techniciens. Ils
+relèvent de la responsabilité de l'Etat et sont habilités par le ministre chargé de la culture à délivrer des diplômes
+nationaux dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 102 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+
+	**Cité par**:
+
+	  - Décret n°2007-1678 du 27 novembre 2007 - art. 1 (V)
+	  - Arrêté du 23 décembre 2008 (V)
+	  - Décret n°2009-201 du 18 février 2009 - art. 2 (V)
+	  - Décret n°2011-557 du 20 mai 2011 - art. 2 (V)
+	  - Décret n°2011-557 du 20 mai 2011 - art. 4 (V)
+	  - Code de l'éducation - art. L759-3 (V)
+	  - Code de l'éducation - art. L759-4 (V)
 
 
 #### Titre VI : Dispositions communes
@@ -25066,10 +25610,47 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 ###### Article L822-1
 
-Le Centre national des oeuvres universitaires et scolaires est un établissement public, doté de la personnalité civile et de
-l'autonomie financière.
+Le réseau des oeuvres universitaires assure une mission d'aide sociale envers les étudiants et veille à adapter les
+prestations aux besoins de leurs études, en favorisant notamment leur mobilité.
 
-Il est placé sous la tutelle du ministre chargé de l'enseignement supérieur qui approuve son budget.
+Les décisions concernant l'attribution des logements destinés aux étudiants sont prises par les centres régionaux des oeuvres
+universitaires et scolaires.
+
+Les communes ou les établissements publics de coopération intercommunale qui en font la demande ont la charge de la
+construction, de la reconstruction, de l'extension, des grosses réparations et de l'équipement des locaux destinés au
+logement des étudiants.
+
+Les biens appartenant à l'Etat et affectés au logement des étudiants sont transférés, par arrêté du représentant de l'Etat
+dans le département, aux communes ou aux établissements publics de coopération intercommunale qui ont demandé à assumer la
+charge de la construction, de la reconstruction, de l'extension, des grosses réparations et de l'équipement des locaux
+destinés au logement des étudiants. Ce transfert se fait à titre gratuit et ne donne lieu au paiement d'aucune indemnité,
+droit, taxe, salaire ou honoraires. La gestion de ces logements est assurée par le centre régional des oeuvres universitaires
+et scolaires territorialement compétent, dans le cadre d'une convention conclue entre celui-ci, d'une part, la commune ou
+l'établissement public de coopération intercommunale bénéficiaire du transfert, d'autre part. Dans des conditions fixées par
+décret en Conseil d'Etat, cette convention dresse un diagnostic de l'état des logements et détermine les obligations
+respectives des signataires et notamment les objectifs de gestion qui sont assignés au centre régional des oeuvres
+universitaires et scolaires, ainsi que les modalités de la participation des représentants de la commune ou de
+l'établissement public de coopération intercommunale concernés aux décisions d'attribution.
+
+L'exécution des conventions conclues avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 relative aux
+libertés et responsabilités locales entre des organismes publics d'habitations à loyer modéré ou des sociétés d'économie
+mixte, l'Etat et un centre régional des oeuvres universitaires et scolaires pour la construction ou la réhabilitation de
+logements sociaux étudiants se poursuit jusqu'au terme de celles-ci. A compter de cette date, les communes ou leurs
+groupements sont substitués à l'Etat dans les droits et obligations résultant de ces conventions. A compter de la date
+d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 précitée, ils peuvent y mettre fin à condition de supporter les
+charges financières afférentes.
+
+Pour la région d'Ile-de-France, la politique de logement des étudiants fait l'objet d'un schéma élaboré par le conseil
+régional. En Ile-de-France, la compétence prévue au troisième alinéa est transférée à la région, à sa demande, si la commune
+ou l'établissement public de coopération intercommunale y renonce dans un délai d'un an après avoir été invité à l'exercer.
+
+Les communes, les établissements publics de coopération intercommunale et, le cas échéant, la région d'Ile-de-France peuvent
+confier à l'organisme de leur choix la gestion des logements destinés aux étudiants construits après l'entrée en vigueur du
+transfert de compétence prévu au présent article.
+
+L'Assemblée des Français de l'étranger peut saisir pour avis le centre national et les centres régionaux de toutes
+propositions en matière d'accès aux logements des étudiants des Français établis hors de France désireux de poursuivre leurs
+études en France.
 
 **Liens relatifs à cet article**
 
@@ -25081,6 +25662,14 @@ Il est placé sous la tutelle du ministre chargé de l'enseignement supérieur q
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cite**:
+
+	  - Loi n°2004-809 2004-08-13
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 66 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -25109,15 +25698,22 @@ Il est placé sous la tutelle du ministre chargé de l'enseignement supérieur q
 
 ###### Article L822-2
 
-Le conseil d'administration du Centre national des oeuvres universitaires et scolaires est chargé de définir la politique
-générale du Centre national et des centres régionaux des oeuvres universitaires et scolaires.
+Le Centre national des oeuvres universitaires et scolaires est un établissement public, doté de la personnalité civile et de
+l'autonomie financière.
 
-Il est également chargé :
+Il est placé sous la tutelle du ministre chargé de l'enseignement supérieur qui approuve son budget.
 
-1° D'assurer la répartition des crédits budgétaires ordinaires et extraordinaires affectés aux centres régionaux des oeuvres
+Un décret fixe les conditions dans lesquelles les collectivités territoriales ou leurs groupements sont représentés au sein
+des conseils d'administration du centre national et des centres régionaux des oeuvres universitaires et scolaires.
+
+Le conseil d'administration du Centre national des oeuvres universitaires et scolaires est chargé :
+
+1° De définir la politique générale du centre national et des centres régionaux des oeuvres universitaires et scolaires ; 
+
+2° D'assurer la répartition des crédits budgétaires ordinaires et extraordinaires affectés aux centres régionaux des oeuvres
 universitaires et scolaires ;
 
-2° De recueillir et de répartir tous dons, legs, subventions et aides diverses susceptibles de favoriser l'établissement, le
+3° De recueillir et de répartir tous dons, legs, subventions et aides diverses susceptibles de favoriser l'établissement, le
 fonctionnement ou le développement de ces oeuvres.
 
 **Liens relatifs à cet article**
@@ -25130,6 +25726,10 @@ fonctionnement ou le développement de ces oeuvres.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 66 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -26282,21 +26882,29 @@ Appel de la décision rendue peut toujours avoir lieu devant le Conseil supérie
 suspensif.
 
 Le présent article est également applicable à tout chef d'établissement d'enseignement du second degré privé ou
-d'enseignement technique privé. Les chefs d'établissement d'enseignement technique sont traduits, sur la plainte des
-inspecteurs généraux de l'éducation nationale, devant le comité départemental de l'emploi.
+d'enseignement technique privé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
+	  - Loi n°1875-07-12 du 12 juillet 1875 - art. 22 (Ab)
 	  - Code de l'enseignement technique - art. 72 (Ab)
 	  - Loi n°1850-03-15 art. 68
 	  - Loi n°1875-07-12 art. 22
 	  - Loi n°1886-10-30 art. 41
 	  - Loi n°1919-07-25 art. 30
-	  - Loi n°1875-07-12 du 12 juillet 1875 - art. 22 (Ab)
 	  - Loi n°1850-03-15 du 15 mars 1850 - art. 68 (Ab)
 	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 2004-08-13 art. 78 10° JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -26311,15 +26919,6 @@ inspecteurs généraux de l'éducation nationale, devant le comité département
 
 	  - Code de l'éducation - art. L731-11 (V)
 	  - Code de l'éducation - art. L731-12 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
 
 
 ##### Chapitre VI : Dispositions relatives aux assistants d'éducation.
