@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2002-02-16
+Version Consolidée au 2002-02-28
 
 # Partie législative
 
@@ -2400,14 +2400,14 @@ les aménagements des établissements d'enseignement supérieur.
 
 Dans le respect de la carte des formations supérieures instituée par l'article L. 614-3, l'Etat peut confier aux
 collectivités territoriales ou à leurs groupements la maîtrise d'ouvrage de constructions ou d'extensions d'établissements
-d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ou du ministre de l'agriculture.
+d'enseignement supérieur relevant des divers ministres ayant la tutelle de tels établissements.
 
 A cette fin, l'Etat conclut une convention avec la collectivité territoriale ou le groupement intéressé ; cette convention
 précise notamment le lieu d'implantation du ou des bâtiments à édifier, le programme technique de construction et les
-engagements financiers des parties.
+engagements financiers des parties. 
 
 Ces engagements ne peuvent porter que sur les dépenses d'investissements et tiennent compte, le cas échéant, des apports
-immobiliers des collectivités territoriales.
+immobiliers des collectivités territoriales. 
 
 Les collectivités territoriales ou leurs groupements bénéficient du fonds de compensation pour la taxe sur la valeur ajoutée
 au titre des dépenses exposées en application du premier alinéa du présent article.
@@ -2423,6 +2423,10 @@ au titre des dépenses exposées en application du premier alinéa du présent a
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 40 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -2647,35 +2651,36 @@ l'enseignement.
 ###### Article L212-6
 
 La dotation spéciale pour le logement des instituteurs est régie par les dispositions des articles L. 2334-26 à L. 2334-31 du
-code général des collectivités territoriales, ci-après reproduites :
+code général des collectivités territoriales, ci-après reproduites : 
 
-" Art. L. 2334-26. - A compter de l'exercice 1986, les communes reçoivent une dotation spéciale, prélevée sur les recettes de
-l'Etat, au titre des charges qu'elles supportent pour le logement des instituteurs.
+" Art.L. 2334-26.-A compter de l'exercice 1986, les communes reçoivent une dotation spéciale, prélevée sur les recettes de
+l'Etat, au titre des charges qu'elles supportent pour le logement des instituteurs. 
 
 Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement, compte tenu, le cas échéant, de la
-régularisation prévue à l'article L. 1613-2.
+régularisation prévue à l'article L. 1613-2. Le Comité des finances locales peut majorer cette dotation de tout ou partie du
+reliquat comptable afférent au dernier exercice connu. 
 
 Cette dotation est répartie par le comité des finances locales proportionnellement au nombre des instituteurs, exerçant dans
-les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'elle une indemnité de logement.
+les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'elle une indemnité de logement. 
 
 Elle est diminuée chaque année par la loi de finances initiale du montant de la dotation versée au titre du logement des
-instituteurs dont les emplois sont transformés en emplois de professeurs des écoles.
+instituteurs dont les emplois sont transformés en emplois de professeurs des écoles. 
 
 Il est procédé, au plus tard le 31 juillet de l'année suivante, à la régularisation de la diminution réalisée, conformément
 aux dispositions du précédent alinéa, en fonction de l'effectif réel des personnels sortis du corps des instituteurs et de
-leurs droits au logement au regard de la dotation spéciale.
+leurs droits au logement au regard de la dotation spéciale. 
 
 La diminution est calculée par référence au montant unitaire de la dotation spéciale. "
 
-" Art. L. 2334-27. - La dotation spéciale pour le logement des instituteurs prévue à l'article L. 2334-26 est divisée en deux
+" Art.L. 2334-27.-La dotation spéciale pour le logement des instituteurs prévue à l'article L. 2334-26 est divisée en deux
 parts :
 
-- la première part est versée aux communes pour compenser les charges afférentes aux logements effectivement occupés par des
+- La première part est versée aux communes pour compenser les charges afférentes aux logements effectivement occupés par des
 instituteurs ayant droit au logement ;
 
-- la seconde part est destinée à verser l'indemnité communale prévue par l'article L. 921-2 du code de l'éducation. "
+- La seconde part est destinée à verser l'indemnité communale prévue par l'article L. 921-2 du Code de l'éducation. " 
 
-" Art. L. 2334-28. - Chaque année, le comité des finances locales :
+" Art.L. 2334-28.-Chaque année, le comité des finances locales :
 
 - fait procéder au recensement des instituteurs bénéficiant d'un logement mis à leur disposition par la commune ou de
 l'indemnité communale en tenant lieu ;
@@ -2684,35 +2689,54 @@ l'indemnité communale en tenant lieu ;
 d'instituteurs recensés ;
 
 - fixe le montant de la première et de la seconde part de la dotation spéciale proportionnellement au nombre d'instituteurs
-logés et au nombre d'instituteurs indemnisés tels qu'ils ont été recensés. "
+logés et au nombre d'instituteurs indemnisés tels qu'ils ont été recensés. " 
 
-" Art. L. 2334-29. - Les communes perçoivent directement les sommes leur revenant au titre de la première part de la dotation
-spéciale.
+" Art.L. 2334-29.-Les communes perçoivent directement les sommes leur revenant au titre de la première part de la dotation
+spéciale. 
 
-Les sommes afférentes à la seconde part sont attribuées au Centre national de la fonction publique territoriale qui verse, au
-nom de la commune, dans les conditions fixées par décret en Conseil d'Etat et sans que cela entraîne de charges pour cet
-établissement, l'indemnité communale aux instituteurs ayant droit, sur la base du montant fixé pour chaque commune par le
-représentant de l'Etat dans le département et dans la limite du montant unitaire fixé sur le plan national à l'article L.
-2334-28. "
+Les sommes afférentes à la seconde part sont attribuées, sous réserve des dispositions de l'alinéa suivant au Centre national
+de la fonction publique territoriale qui verse, au nom de la commune, dans les conditions fixées par décret en Conseil d'Etat
+et sans que cela n'entraîne de charges pour cet établissement, l'indemnité communale aux instituteurs ayants droit, sur la
+base du montant fixé pour chaque commune par le représentant de l'Etat dans le département et dans la limite du montant
+unitaire fixé sur le plan national à l'article L. 2334-28.
 
-" Art. L. 2334-30. - Lorsque le montant de l'indemnité communale est supérieur au montant unitaire de la dotation spéciale
-tel qu'il a été fixé par le comité des finances locales, la commune verse directement la différence à l'instituteur concerné.
+A compter de 2003, la dotation versée au Centre national de la fonction publique territoriale est minorée du montant du
+reliquat comptable de la dotation spéciale pour le logement des instituteurs du pénultième exercice ". 
 
-Aucune somme n'est reversée directement aux communes au titre des opérations visées au second alinéa de l'article L. 2334-29.
-"
+" Art.L. 2334-30.-Lorsque le montant de l'indemnité communale est supérieur au montant unitaire de la dotation spéciale tel
+qu'il a été fixé par le comité des finances locales, la commune verse directement la différence à l'instituteur concerné. " 
 
-" Art. L. 2334-31. - Les dispositions des articles L. 2334-27 à L. 2334-30 sont applicables à compter du 1er janvier 1990. "
+Aucune somme n'est reversée directement aux communes au titre des opérations visées au second alinéa de l'article L.
+2334-29. 
+
+" Art.L. 2334-31.-Les dispositions des articles L. 2334-27 à L. 2334-30 sont applicables à compter du 1er janvier 1990. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
+	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 2002-02-27 art. 61 II, III JORF 28 février 2002
+	  - Loi n°2002-276 du 27 février 2002 - art. 61 () JORF 28 février 2002
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales L2334-26 à L2334-31
-	  - Code de l'éducation - art. L921-2 (V)
+	  - Code général des collectivités territoriales - art. L1613-2 (V)
+	  - Code général des collectivités territoriales - art. L2334-26 (V)
+	  - Code de l'éducation - art. L912-2 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-26 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-27 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-28 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-29 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-30 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L2334-31 (V)
 
 	**Cité par**:
 
@@ -3943,6 +3967,13 @@ I. - La région assure la mise en oeuvre des actions d'apprentissage et de forma
 des règles figurant au titre Ier du livre Ier et au livre IX, à l'exception de son titre VIIe, du code du travail, ainsi que
 dans les lois non codifiées relatives auxdites actions.
 
+La région prend en charge l'indemnité compensatrice forfaitaire visée à l'article L. 118-7 du code du travail versée à
+l'employeur à laquelle ouvrent droit les contrats d'apprentissage ayant fait l'objet de l'enregistrement prévu à l'article L.
+117-14 dudit code. Le montant et les éléments de cette indemnité peuvent varier dans chaque région dans les conditions et
+limites fixées par le décret pris après avis du comité de coordination des programmes régionaux d'apprentissage et de
+formation professionnelle continue. Ce décret précise en outre les conditions dans lesquelles l'employeur est tenu de
+reverser à la région les sommes indûment perçues.
+
 Toutefois, sous réserve des dispositions du II ci-après, l'Etat est compétent, après avis des régions concernées sur le choix
 et la localisation des actions, pour financer et organiser les actions de portée générale intéressant l'apprentissage et la
 formation professionnelle continue, et relatives soit à des stages assurés par un même organisme dans plusieurs régions, soit
@@ -3978,6 +4009,8 @@ et la lutte contre l'exclusion professionnelle.
 	  - Loi n°89-905 1989-12-19 art. 7
 	  - Code de l'éducation - art. L335-5 (M)
 	  - Code de l'éducation - art. L335-6 (M)
+	  - Code du travail - art. L117-14 (M)
+	  - Code du travail - art. L118-7 (M)
 	  - Code du travail - art. L910-2 (M)
 
 	**Anciens textes**:
@@ -3988,6 +4021,11 @@ et la lutte contre l'exclusion professionnelle.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 107 (V) JORF 28 février 2002
 
 	**Cité par**:
 
@@ -4008,52 +4046,80 @@ et la lutte contre l'exclusion professionnelle.
 
 ###### Article L214-13
 
-I. - Le plan régional de développement des formations professionnelles des jeunes a pour objet la programmation à moyen terme
-des réponses aux besoins de formation, permettant un développement cohérent de l'ensemble des filières de formation et
-prenant en compte les réalités économiques régionales et les besoins des jeunes, de manière à leur assurer les meilleures
-chances d'accès à l'emploi.
+I. - Il est institué un plan régional de développement des formations professionnelles. Ce plan a pour objet de définir des
+orientations à moyen terme en matière de formation professionnelle des jeunes et des adultes. Il prend en compte les réalités
+économiques régionales de manière à assurer l'accès ou le retour à l'emploi et la progression professionnelle des jeunes et
+des adultes.
 
-Il prend en compte les orientations et les priorités définies par les contrats d'objectifs conclus en application du III de
-l'article L. 214-14 du présent code ainsi que les dispositions relatives à la formation professionnelle qui figurent au
-schéma prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale, des lycées
-professionnels maritimes et des établissements d'enseignement agricole prévu à l'article L. 214-1 du présent code et, pour sa
-partie agricole, du schéma prévisionnel national des formations de l'enseignement agricole prévu à l'article L. 814-2 du code
-rural.
+Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
-Il définit un plan d'action pour la mise en oeuvre d'une politique d'information et d'orientation.
+Le plan régional de développement des formations professionnelles des jeunes et des adultes est élaboré par le conseil
+régional en concertation avec l'Etat et les organisations syndicales d'employeurs et de salariés représentatives à l'échelon
+national.
 
-II. - Le plan régional de développement des formations professionnelles des jeunes couvre l'ensemble des filières de
-formation des jeunes préparant l'accès à l'emploi, notamment :
+Il est approuvé par le conseil régional après consultation des conseils généraux, du conseil économique et social régional,
+des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture au niveau régional, du conseil
+académique de l'éducation nationale, du comité régional de l'enseignement agricole et du comité de coordination régional de
+l'emploi et de la formation professionnelle.
+
+Il prend en compte les orientations et les priorités définies par les contrats d'objectifs conclus en application du V ainsi
+que, pour ce qui concerne les jeunes, les dispositions relatives à la formation professionnelle qui figurent au schéma
+prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale, des lycées professionnels
+maritimes et des établissements d'enseignement agricole prévu à l'article L. 214-1 du présent code et, pour sa partie
+agricole, au schéma prévisionnel national des formations de l'enseignement agricole prévu à l'article L. 814-2 du code rural.
+
+II. - Le plan régional de développement des formations professionnelles, pour son volet jeunes, couvre l'ensemble des
+filières de formation des jeunes préparant l'accès à l'emploi, notamment :
 
 1° La formation initiale préparant à un diplôme de formation professionnelle délivré par l'Etat ou à une formation
 complémentaire d'initiative locale ;
 
 2° L'apprentissage ;
 
-3° Les contrats d'insertion en alternance prévus au
-
-titre VIII du livre IX du code du travail ;
+3° Les contrats d'insertion en alternance prévus au titre VIII du livre IX du code du travail ;
 
 4° Les actions de formation professionnelle continue en faveur des jeunes à la recherche d'un emploi.
 
-III. - Le plan régional de développement des formations professionnelles des jeunes est élaboré par le conseil régional en
-concertation avec l'Etat. Sont préalablement consultés les conseils généraux, le conseil économique et social régional, le
-conseil académique de l'éducation nationale, le comité régional de l'enseignement agricole, les organisations d'employeurs et
-de salariés au niveau régional, les chambres de commerce et d'industrie, les chambres de métiers et les chambres
-d'agriculture au niveau régional.
+Pour ce qui concerne l'apprentissage, le plan régional de développement des formations professionnelles vaut schéma
+prévisionnel d'apprentissage.
 
-Pour ce qui concerne l'apprentissage, le plan régional de développement des formations professionnelles des jeunes vaut
-schéma prévisionnel d'apprentissage.
+III. - Le plan régional de développement des formations professionnelles, pour son volet adultes, couvre l'ensemble des
+actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi des actifs, notamment :
 
-Le plan régional de développement des formations professionnelles des jeunes est approuvé par le conseil régional après
-consultation du représentant de l'Etat dans la région et des autorités académiques concernées, des partenaires économiques et
-sociaux de la région ainsi que du conseil économique et social régional.
+1° Les actions organisées par le conseil régional ;
+
+2° Les formations destinées aux demandeurs d'emploi dans le cadre de conventions conclues avec les organisations
+représentatives des milieux socioprofessionnels ;
+
+3° Les actions relevant des programmes prioritaires de l'Etat pour la prévention et la lutte contre le chômage de longue
+durée et les exclusions, en particulier celles organisées par l'Association nationale pour la formation professionnelle des
+adultes. A cette fin, la région arrête, dans le cadre de la convention tripartite d'adaptation du contrat de progrès prévu à
+l'article L. 910-1 du code du travail, un schéma régional des formations de l'association nationale.
+
+Dans le cadre de ses actions prioritaires, la région définit les programmes pour lesquels elle fait appel au dispositif
+national de l'Association nationale pour la formation professionnelle des adultes.
 
 IV. - Des conventions annuelles d'application précisent, pour l'Etat et la région, la programmation et les financements des
-formations.
+actions.
 
-Elles sont approuvées par le conseil régional puis signées, d'une part, par le président du conseil régional et, d'autre
-part, par le représentant de l'Etat dans la région et les autorités académiques concernées.
+Elles sont signées par le président du conseil régional, le représentant de l'Etat dans la région ainsi que, selon leur champ
+d'application, par les divers acteurs concernés.
+
+V. - L'Etat, la région, une ou plusieurs organisations représentatives des milieux socioprofessionnels peuvent conclure des
+contrats fixant des objectifs de développement coordonné des différentes voies de formation professionnelle initiale et
+continue et notamment de formation professionnelle alternée. Ces contrats d'objectifs peuvent être annuels ou pluriannuels.
+
+Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux
+contrats d'objectifs.
+
+VI. - Chaque région arrête annuellement un programme régional d'apprentissage et de formation professionnelle continue, après
+avis du comité de coordination régional de l'emploi et de la formation professionnelle.
+
+Les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur demande, à
+l'élaboration du programme régional.
+
+Pour la mise en oeuvre de ce programme, des conventions sont passées avec les établissements d'enseignement publics et les
+autres organismes de formation concernés.
 
 **Liens relatifs à cet article**
 
@@ -4065,6 +4131,11 @@ part, par le représentant de l'Etat dans la région et les autorités académiq
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 108 () JORF 28 février 2002
 
 	**Cité par**:
 
@@ -4122,28 +4193,15 @@ part, par le représentant de l'Etat dans la région et les autorités académiq
 
 ###### Article L214-14
 
-I. - Chaque région arrête annuellement un programme régional d'apprentissage et de formation professionnelle continue, après
-avis du comité régional et des comités départementaux de la formation professionnelle, de la promotion sociale et de
-l'emploi.
+Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue, placé auprès du
+Premier ministre, est composé de treize représentants de l'Etat, d'un représentant élu par chaque conseil régional et de
+treize représentants des organisations syndicales et professionnelles. Un décret en Conseil d'Etat fixe les modalités de
+désignation des différents membres du comité et ses règles de fonctionnement.
 
-Les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur demande, à
-l'élaboration du programme régional.
-
-Ce programme est établi dans le respect des normes et critères fixés par la loi portant approbation du plan de la nation.
-
-Pour la mise en oeuvre de ce programme, des conventions sont passées avec les établissements d'enseignement publics, les
-organismes paritaires de formation ainsi que les différents organismes habilités.
-
-II. - Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue, placé
-auprès du Premier ministre, est composé de treize représentants de l'Etat, d'un représentant élu par chaque conseil régional
-et de treize représentants des organisations syndicales et professionnelles. Un décret en Conseil d'Etat fixe les modalités
-de désignation des différents membres du comité et ses règles de fonctionnement.
-
-Le Comité national de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue est
-chargé d'évaluer les politiques régionales d'apprentissage et de formation professionnelle initiale et continue. Il est
-assisté dans cette tâche par des experts nommés par arrêté interministériel et s'appuie sur les évaluations réalisées par les
-comités régionaux de la formation professionnelle, de la promotion sociale et de l'emploi institués par l'article L. 910-1 du
-code du travail.
+Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue est chargé
+d'évaluer les politiques régionales d'apprentissage et de formation professionnelle initiale et continue. Il est assisté dans
+cette tâche par des experts nommés par arrêté interministériel et s'appuie sur les évaluations réalisées par les comités de
+coordination régionaux de l'emploi et de la formation professionnelle institués par l'article L. 910-1 du code du travail.
 
 Il recommande les mesures propres à améliorer les résultats des politiques régionales et à assurer la cohérence et la
 complémentarité des politiques régionales entre elles et avec les actions menées par l'Etat. Cette coordination tend en
@@ -4151,15 +4209,14 @@ particulier à assurer une égalité de chances d'accès à l'apprentissage et �
 les intéressés quelle que soit la région considérée.
 
 Il publie tous les trois ans un rapport sur son activité, transmis au Parlement, au Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi, aux conseils régionaux et aux comités régionaux de la formation
-professionnelle, de la promotion sociale et de l'emploi.
+professionnelle, de la promotion sociale et de l'emploi, aux conseils régionaux et aux comités de coordination régionaux de
+l'emploi et de la formation professionnelle.
 
-III. - L'Etat, la région, une ou plusieurs organisations représentatives des milieux socioprofessionnels peuvent conclure les
-contrats fixant des objectifs de développement coordonné des différentes voies de formation professionnelle et notamment de
-formation professionnelle alternée. Ces contrats d'objectifs peuvent être annuels ou pluriannuels.
+**Nota:**
 
-La chambre de métiers, la chambre de commerce et d'industrie et la chambre d'agriculture peuvent être associées aux contrats
-d'objectifs.
+Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : L'abrogation de cet article interviendra à compter de la date de publication
+du décret d'application prévu au quatrième alinéa de l'article L. 910-1 du code du travail. Il s'agit du décret n° 2005-180
+du 24 février 2005 publié au Journal officiel du 26 février 2005.
 
 **Liens relatifs à cet article**
 
@@ -4186,6 +4243,15 @@ d'objectifs.
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 108 () JORF 28 février 2002
+
+	**Abrogé par**:
+
+	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
 
 	**Cite**:
 
