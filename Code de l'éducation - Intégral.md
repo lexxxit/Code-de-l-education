@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-03
 
 # Partie législative
 
@@ -1434,8 +1434,8 @@ Les peines encourues par les personnes morales sont :
 
 ###### Article L131-12
 
-Le contrôle de l'obligation, de la fréquentation et de l'assiduité scolaires ainsi que les sanctions au regard du versement
-des prestations familiales et en matière pénale sont déterminés par décret en Conseil d'Etat.
+Les modalités du contrôle de l'obligation, de la fréquentation et de l'assiduité scolaires sont déterminées par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -1452,6 +1452,10 @@ des prestations familiales et en matière pénale sont déterminés par décret 
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2004-1 du 2 janvier 2004 - art. 5 () JORF 3 janvier 2004
 
 
 ##### Chapitre II : La gratuité de l'enseignement scolaire public.
