@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-02-24
+Version Consolidée au 2005-02-26
 
 # Partie législative
 
@@ -4637,73 +4637,6 @@ autres organismes de formation concernés.
 	  - Code du travail - art. L351-21 (T)
 
 
-###### Article L214-14
-
-Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue, placé auprès du
-Premier ministre, est composé de treize représentants de l'Etat, d'un représentant élu par chaque conseil régional et de
-treize représentants des organisations syndicales et professionnelles. Un décret en Conseil d'Etat fixe les modalités de
-désignation des différents membres du comité et ses règles de fonctionnement.
-
-Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue est chargé
-d'évaluer les politiques régionales d'apprentissage et de formation professionnelle initiale et continue. Il est assisté dans
-cette tâche par des experts nommés par arrêté interministériel et s'appuie sur les évaluations réalisées par les comités de
-coordination régionaux de l'emploi et de la formation professionnelle institués par l'article L. 910-1 du code du travail.
-
-Il recommande les mesures propres à améliorer les résultats des politiques régionales et à assurer la cohérence et la
-complémentarité des politiques régionales entre elles et avec les actions menées par l'Etat. Cette coordination tend en
-particulier à assurer une égalité de chances d'accès à l'apprentissage et à la formation professionnelle continue pour tous
-les intéressés quelle que soit la région considérée.
-
-Il publie tous les trois ans un rapport sur son activité, transmis au Parlement, au Conseil national de la formation
-professionnelle, de la promotion sociale et de l'emploi, aux conseils régionaux et aux comités de coordination régionaux de
-l'emploi et de la formation professionnelle.
-
-**Nota:**
-
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : L'abrogation de cet article interviendra à compter de la date de publication
-du décret d'application prévu au quatrième alinéa de l'article L. 910-1 du code du travail. Il s'agit du décret n° 2005-180
-du 24 février 2005 publié au Journal officiel du 26 février 2005.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (Ab)
-	  - Décret n°2007-1756 du 13 décembre 2007 (V)
-	  - Décret n°2009-221 du 24 février 2009 (V)
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 9
-	  - Code de l'éducation - art. D214-10 (V)
-	  - Code de l'éducation - art. D214-11 (V)
-	  - Code de l'éducation - art. D214-9 (V)
-	  - Code de l'éducation - art. L214-13 (M)
-	  - Code de l'éducation - art. R214-9 (Ab)
-	  - Code de la sécurité sociale. - art. L321-3 (V)
-	  - Code du travail - art. L6241-10 (V)
-	  - Code général des impôts, CGI. - art. 1599 ter H (V)
-
-	**Anciens textes**:
-
-	  - Loi n°83-8 1983-01-07 art. 84
-	  - Loi n°83-8 du 7 janvier 1983 - art. 84 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-276 du 27 février 2002 - art. 108 () JORF 28 février 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
-
-	**Cite**:
-
-	  - Code du travail - art. L910-1 (M)
-
-
 ###### Article L214-15
 
 Le fonds régional de l'apprentissage et de la formation professionnelle continue est régi par les dispositions de l'article
@@ -6539,22 +6472,31 @@ d'élèves représentées au Conseil supérieur de l'éducation.
 Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 910-1 et L.
 910-2 du code du travail, ci-après reproduites :
 
-"Art. L. 910-1. - La politique de formation professionnelle et de promotion sociale de l'Etat fait l'objet d'une coordination
-entre les départements ministériels, et d'une concertation avec les organisations représentatives des employeurs et des
-travailleurs salariés ainsi que des travailleurs indépendants, d'une part, et avec les conseils régionaux, d'autre part.
+"Art. L. 910-1. -  Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
+chargé de favoriser, au plan national, la concertation entre les acteurs pour la conception des politiques de formation
+professionnelle et le suivi de leur mise en oeuvre, en liaison avec les comités de coordination régionaux de l'emploi et de
+la formation professionnelle. Il est chargé d'évaluer les politiques régionales d'apprentissage et de formation
+professionnelle tout au long de la vie. Il donne son avis sur la législation et la réglementation applicables en matière de
+formation professionnelle tout au long de la vie et d'apprentissage.
 
-A cet effet, il est créé auprès du Premier ministre un comité interministériel, dont le ministre de l'éducation nationale est
-le vice-président, et un groupe permanent de hauts fonctionnaires, dont le président est désigné par le Premier ministre. Ces
-organismes s'appuient, pour l'élaboration et la mise en oeuvre de la politique de formation professionnelle, de la promotion
-sociale et de l'emploi de l'Etat, sur les avis d'un Conseil national de la formation professionnelle, de la promotion sociale
-et de l'emploi réunissant notamment des représentants des pouvoirs publics et des organisations professionnelles et syndicats
-intéressés.
+Il établit tous les ans un rapport sur l'utilisation des ressources financières soit collectées, soit affectées à la
+formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contr<cb>le régulier de
+l'emploi de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de
+formation tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de
+coordination régionaux de l'emploi et de la formation professionnelle.
+
+Il est composé de représentants élus des conseils régionaux, de représentants de l'Etat et du Parlement et de représentants
+des organisations professionnelles et syndicales intéressées. Il comprend en outre, des personnes qualifiées en matière de
+formation professionnelle.
+
+Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contr<cb>le, ainsi que ses
+modalités de fonctionnement et de compte rendu de son activité, sont fixées par décret.
 
 Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle et des comités
 départementaux de l'emploi.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
-exerce l'ensemble des attributions dévolues au comité régional et au comité de coordination départemental de l'emploi.
+exerce l'ensemble des attributions dévolues au comité de coordination régional et au comité départemental de l'emploi.
 
 Le comité de coordination régional a pour mission de favoriser la concertation entre les divers acteurs afin d'assurer une
 meilleure coordination des politiques de formation professionnelle et d'emploi. Il est notamment chargé des fonctions de
@@ -6585,6 +6527,10 @@ alternance, auprès des entreprises de la région, ainsi que de leurs affectatio
 la région des versements donnant lieu à exonération de la taxe d'apprentissage en application de l'article L. 118-2-4
 présentent chaque année au comité un rapport sur l'affectation des sommes ainsi collectées.
 
+Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de coordination de l'emploi et de la formation
+professionnelle exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation
+professionnelle et au comité départemental de l'emploi et de la formation professionnelle.
+
 Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
 sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour l'emploi et par
 l'Association nationale pour la formation professionnelle des adultes.
@@ -6603,35 +6549,24 @@ Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'ali
 lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités de coordination départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et
-les parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du
-département qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le
-département.
+Les comités départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et les
+parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département
+qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
 
 Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient pendant les heures qu'ils consacrent à leur
 mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
 de déplacement.
 
-Les modalités d'organisation et de fonctionnement des comités et conseils mentionnés aux alinéas précédents sont déterminées
-par décret."
+Les modalités d'organisation et de fonctionnement des comités mentionnés aux alinéas précédents sont déterminées par décret."
 
-"Art. L. 910-2. -     Le comité interministériel de la formation professionnelle et de l'emploi détermine, en fonction des
-exigences du développement culturel, économique et social, les orientations prioritaires de la politique de l'Etat, en vue
-de :
+"Art. L. 910-2. -  (article abrogé).
 
-- provoquer des actions de formation professionnelle ;
-
-- soutenir par un concours financier ou technique les diverses initiatives prises en ces matières.
-
-Ces différentes actions et initiatives peuvent aussi bien porter sur la formation proprement dite, sur l'innovation,
-l'ingénierie pédagogique et les techniques de communication, l'accès à l'information que sur la formation des formateurs
-certification."
+</cb></cb>
 
 **Nota:**
 
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Les dispositions de la loi 2004-391 du 4 mai 2004 (art. 27 II) modifiant
-l'article L. 910-1 et abrogeant l'article L. 910-2 sont applicables à compter de la date de publication du décret
-d'application prévu au quatrième alinéa de l'article L910-1 du code du travail.
+Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Ces dispositions sont applicables à compter de la date de publication du
+décret d'application prévu au quatrième alinéa de l'article L910-1 du code du travail.
 
 Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février 2005.
 
@@ -6644,7 +6579,7 @@ Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 févrie
 
 	**Modifié par**:
 
-	  - Loi n°2002-92 du 22 janvier 2002 - art. 22 () JORF 23 janvier 2002
+	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
 
 	**Cite**:
 
@@ -13502,15 +13437,15 @@ l'organisme professionnel.
 Les centres de formation d'apprentis sont régis par les dispositions des articles L. 116-1 à L. 116-4, L. 116-7 et L. 116-8
 du code du travail, ci-après reproduites :
 
-" Art. L. 116-1. - Les centres de formation d'apprentis dispensent aux jeunes travailleurs sous contrat d'apprentissage une
+Art. L. 116-1. - Les centres de formation d'apprentis dispensent aux jeunes travailleurs sous contrat d'apprentissage une
 formation générale. Celle-ci est associée à une formation technologique et pratique qui doit compléter la formation reçue en
 entreprise et s'articule avec elle.
 
 Ils doivent, parmi leurs missions, développer l'aptitude à tirer profit d'actions ultérieures de formation professionnelle ou
 à poursuivre des études par les voies de l'apprentissage, de l'enseignement professionnel ou technologique ou par toute autre
-voie. "
+voie.
 
-" Art. L. 116-1-1. - Par dérogation aux dispositions de l'article L. 116-1 :
+Art. L. 116-1-1. - Par dérogation aux dispositions de l'article L. 116-1 :
 
 Un centre de formation d'apprentis et une entreprise habilitée par l'inspection de l'apprentissage dans des conditions fixées
 par décret peuvent conclure une convention selon laquelle l'entreprise assure une partie des formations technologiques et
@@ -13524,9 +13459,9 @@ partie des enseignements normalement dispensés par le centre de formation d'app
 équipements pédagogiques ou d'hébergement.
 
 Dans les cas visés aux alinéas ci-dessus, les centres de formation d'apprentis conservent la responsabilité administrative et
-pédagogique des enseignements dispensés. "
+pédagogique des enseignements dispensés.
 
-" Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet de conventions conclues avec l'Etat, dans le
+Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet de conventions conclues avec l'Etat, dans le
 cas des centres à recrutement national, ou conclues avec la région, dans tous les autres cas, par les organismes de formation
 gérés paritairement par les organisations professionnelles d'employeurs et les syndicats de salariés, les collectivités
 territoriales, les établissements publics, les chambres de commerce et d'industrie, les chambres des métiers, les chambres
@@ -13536,41 +13471,39 @@ personne physique ou morale.
 
 La demande de convention doit donner lieu à une décision dans un délai de six mois à compter du dépôt de la demande. En cas
 de réponse négative ou de dénonciation de la convention, la décision doit être motivée. Lorsque les conventions sont passées
-par l'Etat, la demande est portée devant le groupe permanent des hauts fonctionnaires mentionné à l'article L. 910-1 et la
-décision est prise après avis de la commission permanente du Conseil national de la formation professionnelle, de la
-promotion sociale et de l'emploi. Lorsque les conventions sont passées par la région, la décision est prise après avis du
-comité de coordination régional de l'emploi et de la formation professionnelle. Les mêmes procédures sont applicables en cas
-de dénonciation.
+par l'Etat, la décision est prise après avis, émis dans des conditions définies par décret, du Conseil national de la
+formation professionnelle tout au long de la vie. Lorsque les conventions sont passées par la région, la décision est prise
+après avis du comité de coordination régional de l'emploi et de la formation professionnelle. Les mêmes procédures sont
+applicables en cas de dénonciation.
 
-Les avis de la commission permanente du Conseil national de la formation professionnelle, de la promotion sociale et de
-l'emploi ou du comité de coordination régional de l'emploi et de la formation professionnelle portent notamment sur les
-garanties de tous ordres présentées par le projet et sur son intérêt eu égard aux besoins de la formation professionnelle
-dans la zone d'action considérée.
+Les avis du Conseil national de la formation professionnelle tout au long de la vie ou du comité de coordination régional de
+l'emploi et de la formation professionnelle portent notamment sur les garanties de tous ordres présentées par le projet et
+sur son intérêt eu égard aux besoins de la formation professionnelle dans la zone d'action considérée.
 
 Les conventions créant les centres de formation d'apprentis à recrutement national doivent être conformes à une convention
 type arrêtée conjointement par les ministres intéressés. Les conventions créant les autres centres doivent être conformes à
 une convention type établie par la région, sous réserve des clauses à caractère obligatoire fixées par le décret prévu à
-l'article L. 119-4. Les conventions types sont définies après avis, selon le cas, de la commission permanente ou du comité
-régional mentionnés au deuxième alinéa ci-dessus. Les conventions créant les sections d'apprentissage mentionnées à l'article
-L. 115-1 doivent être conformes à une convention type établie par la région, sous réserve des clauses à caractère obligatoire
-fixées par le décret prévu à l'article L. 119-4.
+l'article L. 119-4. Les conventions types sont définies après avis, selon le cas, du Conseil national ou du comité régional
+mentionnés au deuxième alinéa ci-dessus. Les conventions créant les sections d'apprentissage mentionnées à l'article L. 115-1
+doivent être conformes à une convention type établie par la région, sous réserve des clauses à caractère obligatoire fixées
+par le décret prévu à l'article L. 119-4.
 
 Les conventions créant les centres de formation d'apprentis prévoient l'institution d'un conseil de perfectionnement dont la
-composition, le rôle et les attributions sont fixés par le décret prévu à l'article L. 119-4. "
+composition, le rôle et les attributions sont fixés par le décret prévu à l'article L. 119-4.
 
-" Art. L. 116-3. - La durée de la formation dispensée dans les centres de formation d'apprentis est fixée par la convention
+Art. L. 116-3. - La durée de la formation dispensée dans les centres de formation d'apprentis est fixée par la convention
 prévue à l'article L. 116-2, sans pouvoir être inférieure à 400 heures par an en moyenne sur les années d'application du
 contrat. Elle tient compte des exigences propres à chaque niveau de qualification et des orientations prévues par les
-conventions ou les accords de branches nationaux ou régionaux visés à l'article L. 133-6 après avis du comité de coordination
-des programmes régionaux d'apprentissage et de formation professionnelle continue.
+conventions ou les accords de branches nationaux ou régionaux visés à l'article L. 133-6 après avis, émis dans les conditions
+définies par décret, du Conseil national de la formation professionnelle tout au long de la vie.
 
 Pour les apprentis dont l'apprentissage a été prolongé en application des dispositions de l'article L. 117-9, l'horaire
 minimum est fixé par la convention prévue à l'article L. 116-2, sans pouvoir être inférieur à 240 heures par an en cas de
 prolongation de l'apprentissage pour une durée d'une année, ce minimum pouvant être réduit à due proportion dans l'hypothèse
-d'une prolongation d'une durée inférieure. "
+d'une prolongation d'une durée inférieure.
 
-" Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle pédagogique de l'Etat et au contrôle
-technique et financier de l'Etat pour les centres à recrutement national, de la région pour les autres centres.
+Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle pédagogique de l'Etat et au contrôle technique
+et financier de l'Etat pour les centres à recrutement national, de la région pour les autres centres.
 
 Si ces contrôles révèlent des insuffisances graves ou des manquements aux obligations résultant du présent code et des textes
 pris pour son application ou de la convention, celle-ci peut être dénoncée par l'Etat ou la région après mise en demeure non
@@ -13595,10 +13528,9 @@ soumis aux dispositions du titre IV du Livre IV du code de l'éducation.
 
 **Nota:**
 
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Les dispositions de la loi 2004-391 du 4 mai 2004 modifiant l'article L.
-116-3 du code du travail sont applicables à compter de la date de publication du décret d'application prévu au quatrième
-alinéa de l'article L910-1 du code du travail. Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février
-2005.
+Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Ces dispositions sont applicables à compter de la date de publication du
+décret d'application prévu au quatrième alinéa de l'article L910-1 du code du travail. Ce décret est le décret n° 2005-180 du
+24 février 2005 publié le 26 février 2005.
 
 **Liens relatifs à cet article**
 
@@ -13609,7 +13541,7 @@ alinéa de l'article L910-1 du code du travail. Ce décret est le décret n° 20
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
 
 	**Cite**:
 
