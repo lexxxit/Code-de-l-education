@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2003-04-15
+Version Consolidée au 2003-05-02
 
 # Partie législative
 
@@ -10133,6 +10133,51 @@ localisation.
 	  - Code de l'éducation - art. L251-1 (M)
 
 
+###### Article L351-3
+
+Lorsque la commission départementale de l'éducation spéciale constate qu'un enfant peut être scolarisé dans une classe de
+l'enseignement public ou d'un établissement visé au 3° de l'article L. 351-1 à condition de bénéficier d'une aide
+individuelle dont elle détermine la quotité horaire, cette aide peut être apportée par un assistant d'éducation recruté
+conformément au sixième alinéa de l'article L. 916-1.
+
+Les assistants d'éducation affectés aux missions d'aide à l'accueil et à l'intégration scolaires des enfants handicapés sont
+recrutés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+
+Ils exercent leurs fonctions auprès des élèves pour lesquels une aide a été reconnue nécessaire par décision de la commission
+départementale de l'éducation spéciale. Leur contrat précise le nom des élèves dont ils ont la charge ainsi que le ou les
+établissements au sein desquels ils exercent leurs fonctions.
+
+Ces assistants d'éducation bénéficient d'une formation spécifique leur permettant de répondre aux besoins particuliers des
+élèves qui leur sont confiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-400 du 30 avril 2003 - art. 2 () JORF 2 mai 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-484 du 6 juin 2003 - art. 3 (M)
+	  - Décret n°2014-1484 du 11 décembre 2014 (V)
+	  - Décret n°2015-1451 du 10 novembre 2015 - art. (V)
+	  - Code de l'éducation - art. D351-16-1 (V)
+	  - Code de l'éducation - art. D351-20-1 (VD)
+	  - Code de l'éducation - art. D351-7 (V)
+	  - Code de l'éducation - art. L916-1 (V)
+	  - Code de l'éducation - art. R222-24-1 (V)
+	  - Code rural et de la pêche maritime - art. L811-10 (VT)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-1 (M)
+
+
 ##### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.
 
 ###### Article L352-1
@@ -13317,8 +13362,8 @@ communes où résident au moins 10 % des élèves et qui contribue aux dépenses
 
 ###### Article L442-9
 
-L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et les articles L. 212-13 et L. 216-8 du présent
-code ne sont pas applicables aux classes sous contrat d'association des établissements d'enseignement privés.
+L'article L. 212-8 du présent code, à l'exception de son premier alinéa, et l'article L. 216-8 du présent code ne sont pas
+applicables aux classes sous contrat d'association des établissements d'enseignement privés.
 
 Les dépenses de fonctionnement des classes sous contrat d'association des établissements d'enseignement privés du second
 degré sont prises en charge sous la forme de contributions forfaitaires versées par élève et par an et calculées selon les
@@ -13354,6 +13399,10 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2003-400 du 30 avril 2003 - art. 4 () JORF 2 mai 2003
+
 	**Cité par**:
 
 	  - Loi n°2006-1666 du 21 décembre 2006 - art. 29 (V)
@@ -13367,7 +13416,6 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 
 	  - Code général des collectivités territoriales - art. L1614-1 (M)
 	  - Code général des collectivités territoriales - art. L1614-3 (M)
-	  - Code de l'éducation - art. L212-13 (Ab)
 	  - Code de l'éducation - art. L212-8 (M)
 	  - Code de l'éducation - art. L216-8 (V)
 
@@ -25950,6 +25998,113 @@ inspecteurs généraux de l'éducation nationale, devant le comité département
 	**Modifié par**:
 
 	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+
+
+##### Chapitre VI : Dispositions relatives aux assistants d'éducation.
+
+###### Article L916-1
+
+Des assistants d'éducation peuvent être recrutés par les établissements d'enseignement mentionnés au chapitre II du titre Ier
+et au titre II du livre IV pour exercer des fonctions d'assistance à l'équipe éducative, fonctions en lien avec le projet
+d'établissement, notamment pour l'encadrement et la surveillance des élèves et l'aide à l'accueil et à l'intégration
+scolaires des élèves handicapés, y compris en dehors du temps scolaire.
+
+Les assistants d'éducation qui remplissent des missions d'aide à l'accueil et à l'intégration scolaires des élèves handicapés
+bénéficient d'une formation spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en collaboration avec les
+associations d'aide aux familles d'enfants handicapés. A l'issue de leur contrat, les assistants d'éducation peuvent demander
+à faire valider l'expérience acquise dans les conditions définies par les articles L. 900-1 et L. 934-1 du code du travail.
+
+Les assistants d'éducation peuvent exercer leurs fonctions dans l'établissement qui les a recrutés, dans un ou plusieurs
+autres établissements ainsi que, compte tenu des besoins appréciés par l'autorité administrative, dans une ou plusieurs
+écoles. Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement.
+
+Les assistants d'éducation sont recrutés par des contrats d'une durée maximale de trois ans, renouvelables dans la limite
+d'une période d'engagement totale de six ans.
+
+Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers.
+
+Par dérogation au premier alinéa, des assistants d'éducation peuvent être recrutés par l'Etat pour exercer des fonctions
+d'aide à l'accueil et à l'intégration des élèves handicapés dans les conditions prévues à l'article L. 351-3.
+
+Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique paritaire
+ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de
+travail des assistants d'éducation, en particulier pour ceux qui sont astreints à un service de nuit. Il précise également
+les droits reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la
+mesure justifiée par la nature de leurs missions, aux dispositions générales prises pour l'application de l'article 7 de la
+loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°70-738 du 12 août 1970 - art. 5 (V)
+	  - Décret n°72-581 du 4 juillet 1972 - art. 14 (V)
+	  - Décret n°72-581 du 4 juillet 1972 - art. 9 (V)
+	  - Décret n°80-627 du 4 août 1980 - art. 5-3 (V)
+	  - Décret n°90-89 du 24 janvier 1990 - art. 5 (VD)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 6 (V)
+	  - Décret n°92-778 du 3 août 1992 - art. 10 (V)
+	  - Décret n°92-778 du 3 août 1992 - art. 7 (V)
+	  - Décret n°92-1189 du 6 novembre 1992 - art. 7 (V)
+	  - Décret n°2001-577 du 2 juillet 2001 - art. 1 (V)
+	  - Décret n°2003-484 du 6 juin 2003 - art. 3 (V)
+	  - Décret n°2003-484 du 6 juin 2003 - art. 7 bis (V)
+	  - Décret n°2009-947 du 29 juillet 2009 (V)
+	  - Arrêté du 18 avril 2013 - art. 2 (VD)
+	  - Arrêté du 13 avril 2016 - art. 4
+	  - Décret n°2016-2014 du 30 décembre 2016 (V)
+	  - Code de l'éducation - art. D351-16-3 (M)
+	  - Code de l'éducation - art. L351-3 (VD)
+	  - Code du travail - art. L351-12 (VT)
+	  - Code du travail - art. L5424-2 (V)
+	  - Code du travail applicable à Mayotte. - art. L327-37 (V)
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 7
+	  - Code du travail - art. L900-1 (M)
+	  - Code du travail - art. L934-1 (T)
+	  - Code du travail - art. L970-1 (M)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-400 du 30 avril 2003 - art. 2 () JORF 2 mai 2003
+
+
+###### Article L916-2
+
+Les assistants d'éducation peuvent être mis à la disposition des collectivités territoriales pour participer aux activités
+complémentaires prévues à l'article L. 216-1 ou aux activités organisées en dehors du temps scolaire dans les écoles et les
+établissements d'enseignement conformément à l'article L. 212-15. 
+
+Une convention conclue entre la collectivité intéressée et l'établissement employeur dans les conditions prévues à l'article
+L. 216-1 précise les conditions de cette mise à disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2003-400 du 30 avril 2003 - art. 2 () JORF 2 mai 2003
+
+	**Cité par**:
+
+	  - Décret n°2003-484 du 6 juin 2003 - art. 1 (V)
+	  - Code de l'éducation - art. L917-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L212-15 (V)
+	  - Code de l'éducation - art. L216-1 (V)
 
 
 #### Titre II : Les personnels du premier degré
