@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2004-05-05
+Version Consolidée au 2004-06-16
 
 # Partie législative
 
@@ -868,8 +868,8 @@ Il assure la liaison nécessaire entre les activités d'enseignement et de reche
 à la recherche et par la recherche.
 
 Il participe à la politique de développement scientifique et technologique, reconnue comme priorité nationale, en liaison
-avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par la loi n°
-82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le développement technologique de la France.
+avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par le code de la
+recherche.
 
 Il concourt à la politique d'aménagement du territoire par l'implantation et le développement dans les régions d'équipes de
 haut niveau scientifique. Il renforce les liens avec les secteurs socio-économiques publics et privés.
@@ -894,10 +894,6 @@ conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des 
 public à durée déterminée ou indéterminée.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-610 1982-07-15
 
 	**Anciens textes**:
 
@@ -925,6 +921,10 @@ public à durée déterminée ou indéterminée.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2004-545 du 11 juin 2004 - art. 4 () JORF 16 juin 2004
 
 
 ###### Article L123-6
