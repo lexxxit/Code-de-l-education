@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2001-07-07
+Version Consolidée au 2001-07-18
 
 # Partie législative
 
@@ -2793,12 +2793,27 @@ département ou la région dans les conditions fixées aux articles L. 216-5 et 
 Une délibération du conseil municipal crée, dans chaque commune, une caisse des écoles, destinée à faciliter la fréquentation
 de l'école par des aides aux élèves en fonction des ressources de leur famille.
 
+A Paris, la caisse des écoles peut également mener des actions à caractère social, éducatif ou culturel en faveur des élèves
+des établissements du premier et du second degré.
+
+Lorsque la caisse des écoles n'a procédé à aucune opération de dépenses ou de recettes pendant trois ans, elle peut être
+dissoute par délibération du conseil municipal.
+
 Le revenu de la caisse se compose de cotisations volontaires et de subventions de la commune, du département ou de l'Etat.
 Elle peut recevoir, avec l'autorisation du représentant de l'Etat dans le département, des dons et des legs.
 
 Plusieurs communes peuvent se réunir pour la formation et l'entretien de cette caisse.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 23 () JORF 18 juillet 2001
 
 	**Cité par**:
 
@@ -2809,10 +2824,6 @@ Plusieurs communes peuvent se réunir pour la formation et l'entretien de cette 
 	  - Loi n°1867-04-10 art. 15
 	  - Loi n°1882-03-28 art. 17
 	  - Loi n°1882-03-28 du 28 mars 1882 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
 
 
 ###### Article L212-11
@@ -17276,6 +17287,32 @@ l'étranger, des sciences politiques, économiques et sociales.
 
 	  - Code de l'éducation - art. L758-1 (V)
 	  - Code de l'éducation - art. L758-2 (V)
+
+
+###### Article L621-3
+
+Le conseil de direction de l'Institut d'études politiques de Paris détermine, par dérogation aux dispositions du troisième
+alinéa de l'article L. 612-3, les conditions et modalités d'admission aux formations propres à l'institut ainsi que
+l'organisation des études, des premiers cycles à l'école doctorale. Il peut adopter des procédures d'admission comportant
+notamment des modalités particulières destinées à assurer un recrutement diversifié parmi l'ensemble des élèves de
+l'enseignement du second degré. Les procédures d'admission peuvent être mises en oeuvre par voie de conventions conclues avec
+des établissements d'enseignement secondaire ou supérieur, français et étrangers, pour les associer au recrutement par
+l'institut de leurs élèves ou étudiants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L612-3 (M)
 
 
 ##### Chapitre II : Sciences et technologie.
