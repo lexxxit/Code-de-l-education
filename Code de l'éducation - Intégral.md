@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-02-24
 
 # Partie législative
 
@@ -1411,6 +1411,9 @@ scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une
 personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus
 particulièrement aux enfants de Français de l'étranger.
 
+La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de faire inscrire ses enfants dans une école de
+la commune de son lieu de résidence temporaire ou de travail.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1429,7 +1432,7 @@ particulièrement aux enfants de Français de l'étranger.
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 80 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 50 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -2609,7 +2612,13 @@ d'enseignement du second degré en tenant compte du schéma prévisionnel des fo
 représentant de l'Etat arrête la liste annuelle des opérations de construction ou d'extension des établissements que l'Etat
 s'engage à doter des postes qu'il juge indispensables à leur fonctionnement administratif et pédagogique. Cette liste est
 arrêtée compte tenu du programme prévisionnel des investissements et après accord de la commune d'implantation et de la
-collectivité compétente.
+collectivité compétente. 
+
+Dans les zones de revitalisation rurale visées à l'article 1465 A du code général des impôts, les services compétents de
+l'Etat engagent, avant toute révision de la carte des formations du second degré, une concertation, au sein du conseil
+académique de l'éducation nationale ou, pour les formations assurées en collège, au sein du conseil départemental de
+l'éducation nationale, avec les élus et les représentants des collectivités territoriales, des professeurs, des parents
+d'élèves et des secteurs économiques locaux concernés par cette révision.
 
 **Liens relatifs à cet article**
 
@@ -2623,6 +2632,15 @@ collectivité compétente.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 14 () JORF 24 février 2005
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1465 A (V)
+	  - Code de l'éducation - art. L214-1 (V)
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. L213-9 (V)
@@ -2635,10 +2653,6 @@ collectivité compétente.
 	  - Code de l'éducation - art. R211-3 (V)
 	  - Code général des collectivités territoriales - art. L3334-16 (V)
 	  - Code général des collectivités territoriales - art. L4332-3 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L214-1 (M)
 
 
 ###### Article L211-3
@@ -3160,7 +3174,9 @@ Par dérogation à l'alinéa précédent, un décret en Conseil d'Etat précise 
 dernier alinéa du présent article, une commune est tenue de participer financièrement à la scolarisation d'enfants résidant
 sur son territoire lorsque leur inscription dans une autre commune est justifiée par des motifs tirés de contraintes liées :
 
-1° Aux obligations professionnelles des parents ;
+1° Aux obligations professionnelles des parents lorsqu'ils résident dans une commune qui n'assure pas directement ou
+indirectement la restauration et la garde des enfants ou si la commune n'a pas organisé un service d'assistantes maternelles
+agréées ;
 
 2° A l'inscription d'un frère ou d'une soeur dans un établissement scolaire de la même commune ;
 
@@ -3178,12 +3194,6 @@ l'une ou l'autre d'entre elles avant le terme soit de la formation préélément
 enfant commencées ou poursuivies durant l'année scolaire précédente dans un établissement du même cycle de la commune
 d'accueil.
 
-**Nota:**
-
-NOTA : Loi 2004-809, art. 89 : "Les trois premiers alinéas de l'article L212-8 du code de l'éducation sont applicables pour
-le calcul des contributions des communes aux dépenses obligatoires concernant les classes des écoles privées sous contrat
-d'association."
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -3200,15 +3210,15 @@ d'association."
 
 	  - Loi n°2004-809 2004-08-13
 
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 87 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
 	**Cité par**:
 
 	  - Loi n°2004-809 du 13 août 2004 - art. 89 (Ab)
 	  - Code de l'éducation - art. L442-9 (V)
 	  - Code de l'éducation - art. R212-21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 113 () JORF 24 février 2005
 
 
 ###### Article L212-9
@@ -3321,10 +3331,10 @@ régisseur de recettes et de dépenses qui rend compte de ses opérations au rec
 ###### Article L212-15
 
 Sous sa responsabilité et après avis du conseil d'administration ou d'école et, le cas échéant, accord de la collectivité
-propriétaire ou attributaire des bâtiments, en vertu des dispositions du présent titre, le maire peut utiliser les locaux
-scolaires dans la commune pour l'organisation d'activités à caractère culturel, sportif, social ou socio-éducatif pendant les
-heures ou les périodes au cours desquelles ils ne sont pas utilisés pour les besoins de la formation initiale et continue.
-Ces activités doivent être compatibles avec la nature des installations et l'aménagement des locaux.
+propriétaire ou attributaire des bâtiments, en vertu des dispositions du présent titre, le maire peut utiliser les locaux et
+les équipements scolaires dans la commune pour l'organisation d'activités à caractère culturel, sportif, social ou socio-
+éducatif pendant les heures ou les périodes au cours desquelles ils ne sont pas utilisés pour les besoins de la formation
+initiale et continue. Ces activités doivent être compatibles avec la nature des installations et l'aménagement des locaux.
 
 La commune ou, le cas échéant, la collectivité propriétaire peut soumettre toute autorisation d'utilisation à la passation,
 entre son représentant, celui de l'école ou de l'établissement et la personne physique ou morale qui désire organiser des
@@ -3345,6 +3355,10 @@ responsabilité d'un tiers est établie.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 207 () JORF 24 février 2005
 
 	**Cité par**:
 
@@ -10720,25 +10734,26 @@ Il n'est exigé aucune condition de délai entre deux contrats."
 ###### Article L341-1
 
 L'enseignement et la formation professionnelle agricoles sont organisés conformément aux dispositions des articles L. 811-1,
-L. 811-2, L. 813-1 et L. 813-2 du code rural, ci-après reproduites :
+L. 811-2, L. 813-1 et L. 813-2 du code rural, ci-après reproduites : 
 
-" Art. L. 811-1. - L'enseignement et la formation professionnelle agricoles publics ont pour objet d'assurer, en les
-associant, une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la
-forêt, de l'aquaculture, de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres
-métiers concourant au développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace
-agricole, rural et forestier, de la gestion de l'eau et de l'environnement. Ils contribuent au développement personnel des
-élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leurs qualifications et à leur insertion
-professionnelle et sociale.
+" Art.L. 811-1.-L'enseignement et la formation professionnelle agricoles publics ont pour objet d'assurer, en les associant,
+une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de
+l'aquaculture, de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres métiers
+concourant au développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace agricole,
+rural et forestier, de la gestion de l'eau et de l'environnement. Ils contribuent au développement personnel des élèves,
+étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leurs qualifications et à leur insertion
+professionnelle et sociale. 
 
-Ils remplissent les missions suivantes :
+Ils remplissent les missions suivantes : 
 
-1° Ils assurent une formation générale, technologique et professionnelle initiale et continue ;
+1° Ils assurent une formation générale, technologique et professionnelle initiale et continue ; 
 
-2° Ils participent à l'animation du milieu rural ;
+2° Ils participent à l'animation et au développement des territoires ; 
 
-3° Ils contribuent à l'insertion scolaire des jeunes, sociale et professionnelle de ces derniers et des adultes ;
+3° Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et professionnelle
+des adultes ; 
 
-4° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ;
+4° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ; 
 
 5° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves,
 apprentis, étudiants, stagiaires et enseignants.
@@ -10746,28 +10761,28 @@ apprentis, étudiants, stagiaires et enseignants.
 L'enseignement et la formation professionnelle agricoles publics sont organisés dans le cadre de l'éducation permanente,
 selon les voies de la formation initiale et de la formation continue. Ils constituent une composante du service public
 d'éducation et de formation. Ils relèvent du ministre de l'agriculture. Ils sont dispensés dans le respect des principes de
-laïcité, de liberté de conscience et d'égal accès de tous au service public. "
+laïcité, de liberté de conscience et d'égal accès de tous au service public. " 
 
-" Art. L. 811-2. - L'enseignement et la formation professionnelle agricoles publics assurent des formations qui peuvent
+" Art.L. 811-2.-L'enseignement et la formation professionnelle agricoles publics assurent des formations qui peuvent
 s'étendre de la classe de quatrième du collège à l'enseignement supérieur inclus. Ces formations sont organisées de façon à
 faciliter les poursuites d'études, les changements d'orientation et le passage entre les formations sous contrats de travail
-de type particulier et celles sous statut scolaire. A cet effet, sont créées des classes préparatoires et des classes
+de type particulier et celles sous statut scolaire.A cet effet, sont créées des classes préparatoires et des classes
 d'adaptation ainsi qu'un service d'orientation commun à l'enseignement général, technologique et professionnel et à
 l'enseignement et la formation professionnelle agricoles. Les élèves, étudiants, apprentis et stagiaires disposent de
 l'ensemble des informations de nature à leur permettre l'élaboration d'un projet d'orientation. Ils bénéficient notamment
-d'une information sur l'évolution de la demande de qualification, les professions et les formations qui y préparent.
+d'une information sur l'évolution de la demande de qualification, les professions et les formations qui y préparent. 
 
 Les formations assurées par l'enseignement et la formation professionnelle agricoles publics sont dispensées suivant des
 programmes et référentiels nationaux, qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés soit
 par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre chargé de l'éducation
-nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles.
+nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles. 
 
 Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du code du travail, les formations dispensées par
 l'enseignement général, technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées
 par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général,
-technologique et professionnel. "
+technologique et professionnel. " 
 
-" Art. L. 813-1. - Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou
+" Art.L. 813-1.-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou
 l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation. Ils
 relèvent du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect des principes de liberté de
 conscience, d'égal accès de tous à l'éducation et de liberté de l'enseignement, qui implique notamment qu'un tel
@@ -10779,62 +10794,71 @@ dans les métiers de l'agriculture, de la forêt, de l'aquaculture, de la transf
 produits agricoles ainsi que dans d'autres métiers concourant au développement de ceux-ci, notamment dans les domaines des
 services et de l'aménagement de l'espace agricole, rural, forestier, de la gestion de l'eau et de l'environnement. Ils
 contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de
-leur qualification et à leur insertion professionnelle et sociale.
+leur qualification et à leur insertion professionnelle et sociale. 
 
-Ils remplissent les missions suivantes :
+Ils remplissent les missions suivantes : 
 
-1° Ils assurent une formation générale, technologique et professionnelle initiale ou continue ;
+1° Ils assurent une formation générale, technologique et professionnelle initiale ou continue ; 
 
-2° Ils participent à l'animation du milieu rural ;
+2° Ils participent à l'animation et au développement des territoires ; 
 
-3° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ;
+2° bis Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et
+professionnelle des adultes ; 
+
+3° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ; 
 
 4° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves,
 apprentis, stagiaires et enseignants.
 
 L'enseignement et la formation professionnelle agricoles privés sont organisés dans le cadre de l'éducation permanente, selon
 les voies de la formation initiale et de la formation continue, sans que dans ce dernier cas leur mise en oeuvre relève du
-contrat prévu au premier alinéa du présent article. "
+contrat prévu au premier alinéa du présent article. " 
 
-" Art. L. 813-2. - Les formations de l'enseignement agricole privé peuvent s'étendre de la classe de quatrième du collège
+" Art.L. 813-2.-Les formations de l'enseignement agricole privé peuvent s'étendre de la classe de quatrième du collège
 jusqu'à la dernière année de formation de techniciens supérieurs. Ces formations sont organisées de façon à faciliter les
 poursuites d'études, les changements d'orientation et le passage entre les formations sous contrats de travail de type
 particulier et celles sous statut scolaire. Les élèves, étudiants, apprentis et stagiaires disposent de l'ensemble des
 informations de nature à leur permettre l'élaboration d'un projet d'orientation. Ils bénéficient notamment d'une information
-sur l'évolution de la demande de qualification, les professions et les formations qui y préparent.
+sur l'évolution de la demande de qualification, les professions et les formations qui y préparent. 
 
 Les formations assurées par l'enseignement et la formation professionnelle agricoles privés sont dispensées suivant des
 programmes et référentiels nationaux, qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés soit
 par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre de l'éducation
 nationale, soit par le ministre de l'éducation nationale. Ces formations sont organisées en cycles. Là où le besoin existe,
 des actions permettant la connaissance et la diffusion des langues et cultures régionales sont organisées dans les
-établissements.
+établissements. 
 
 Des enseignements artistiques sont assurés à titre obligatoire ou facultatif dans les établissements mentionnés au présent
-article.
+article. 
 
 Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du code du travail, les formations dispensées par
 l'enseignement général, technologique et professionnel et la formation professionnelle agricoles privés sont sanctionnées par
 des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général,
-technologique et professionnel.
+technologique et professionnel. 
 
-Chaque établissement privé d'enseignement et de formation professionnelle agricoles établit un projet d'établissement. Celui-
-ci définit les modalités particulières de mise en oeuvre des programmes et référentiels nationaux mentionnés à l'article L.
-811-2 ainsi que les actions relevant de l'autonomie pédagogique de l'établissement. Il comporte une partie relative à
-l'évolution des structures pédagogiques.
+Chaque établissement privé d'enseignement et de formation professionnelle agricoles établit un projet d'établissement qui
+définit les modalités particulières de sa contribution à la mise en oeuvre des missions de l'enseignement et de la formation
+professionnelle agricoles mentionnées à l'article L. 813-1. Le projet d'établissement est établi dans le respect du schéma
+prévisionnel national des formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma prévisionnel
+régional des formations mentionné à l'article L. 214-1 du code de l'éducation, du plan régional de développement des
+formations professionnelles mentionné à l'article L. 214-13 du même code et des programmes et référentiels nationaux
+mentionnés à l'article L. 811-2 du présent code. Il est défini en cohérence avec le projet régional de l'enseignement
+agricole mentionné à l'article L. 814-4 du présent code. Il définit les modalités de la participation de l'établissement au
+développement des territoires dans lesquels celui-ci s'insère. 
 
-Le projet d'établissement est élaboré et adopté dans les conditions prévues par l'article L. 421-5 du code de l'éducation
-pour une durée de trois à cinq ans.
+Le projet d'établissement est élaboré sous la responsabilité du chef d'établissement. Il est adopté par le conseil
+d'administration de l'association ou organisme responsable de l'établissement dans les conditions prévues par l'article L.
+421-5 du code de l'éducation pour une durée de trois à cinq ans. 
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans des conditions fixées par le ministre de
-l'agriculture.
+l'agriculture. 
 
 Les dispositions de l'article L. 811-3 sont applicables aux établissements d'enseignement agricoles privés sous contrat. "
 
 **Nota:**
 
-NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L.
-401-1 du même code.
+La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L. 401-1
+du même code.
 
 **Liens relatifs à cet article**
 
@@ -10842,6 +10866,12 @@ NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-157 du 23 février 2005 - art. 205 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 208 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 211 () JORF 24 février 2005
 
 	**Cite**:
 
@@ -10852,6 +10882,13 @@ NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L
 	  - Code du travail - art. L900-2 (M)
 	  - Code du travail - art. L980-1 (T)
 	  - Code rural L811-1, L811-2, L813-1, L813-2
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L811-1 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L811-2 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L813-1 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L813-2 (V)
 
 
 #### Titre V : Les enseignements pour les enfants et adolescents handicapés
@@ -12882,109 +12919,130 @@ droits des marins et de leurs familles à l'assurance de la caisse générale de
 ###### Article L421-22
 
 Les établissements d'enseignement et de formation professionnelle agricoles publics sont organisés conformément aux
-dispositions des articles L. 811-8 à L. 811-11 du code rural, ci-après reproduites :
+dispositions des articles L. 811-8 à L. 811-11 du code rural, ci-après reproduites : 
 
-"Art. L. 811-8. - Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit
-un lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole et regroupe plusieurs
-centres :
+" Art.L. 811-8.-Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit un
+lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole et regroupe plusieurs centres : 
 
-1° Un ou plusieurs lycées d'enseignement général et technologique agricole ou lycées professionnels agricoles ;
+1° Un ou plusieurs lycées d'enseignement général et technologique agricole ou lycées professionnels agricoles ; 
 
 2° Un ou plusieurs centres de formation professionnelle et de promotion agricoles ou centres de formation d'apprentis qui
-dispensent les formations mentionnées au présent chapitre ;
+dispensent les formations mentionnées au présent chapitre ; 
 
 3° Un ou plusieurs ateliers technologiques ou exploitations agricoles à vocation pédagogique qui assurent l'adaptation et la
 formation aux réalités pratiques, techniques et économiques, et qui contribuent à la démonstration, à l'expérimentation et à
-la diffusion des techniques nouvelles.
+la diffusion des techniques nouvelles. 
+
+Les personnels, autres que le directeur, recrutés pour exercer leurs fonctions dans les ateliers technologiques ou
+exploitations agricoles mentionnés au 3° sont des salariés de droit privé qui sont régis par les dispositions du livre VII du
+présent code ou par celles du code du travail. 
 
 Dans un délai de cinq ans à compter de la promulgation de la loi n° 99-574 du 9 juillet 1999 d'orientation agricole, les
 lycées d'enseignement général et technologique agricoles et les lycées professionnels agricoles prennent la forme de lycées
-d'enseignement général, technologique et professionnel agricoles.
+d'enseignement général, technologique et professionnel agricoles. 
 
 Ces établissements sont dotés de la personnalité civile et de l'autonomie administrative et financière. Ils peuvent être
-implantés sur plusieurs sites si la nature ou l'importance des activités le justifie.
+implantés sur plusieurs sites si la nature ou l'importance des activités le justifie. 
 
-Chaque centre de formation dispose de l'autonomie pédagogique et éducative.
+Chaque centre de formation dispose de l'autonomie pédagogique et éducative. 
 
 En application des articles L. 312-6 et L. 312-7 du code de l'éducation, des enseignements artistiques sont dispensés, à
-titre obligatoire ou facultatif, dans les établissements publics d'enseignement mentionnés au présent article.
+titre obligatoire ou facultatif, dans les établissements publics d'enseignement mentionnés au présent article. 
 
-Chaque établissement public local d'enseignement et de formation établit un projet d'établissement. Celui-ci définit les
-modalités particulières de mise en oeuvre des programmes et référentiels nationaux mentionnés à l'article L. 811-2 du présent
-code ainsi que les actions relevant de l'autonomie pédagogique de l'établissement. Il comporte une partie relative à
-l'évolution des structures pédagogiques.
+Chaque établissement public local d'enseignement et de formation professionnelle agricoles établit un projet d'établissement
+qui définit les modalités particulières de sa contribution à la mise en oeuvre des missions de l'enseignement et de la
+formation professionnelle agricoles publics mentionnés à l'article L. 811-1. Le projet d'établissement est établi dans le
+respect du schéma prévisionnel national des formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma
+prévisionnel régional des formations mentionné à l'article L. 214-1 du code de l'éducation, du plan régional de développement
+des formations professionnelles mentionné à l'article L. 214-13 du même code et des programmes et référentiels nationaux
+mentionnés à l'article L. 811-2 du présent code. Il est défini en cohérence avec le projet régional de l'enseignement
+agricole mentionné à l'article L. 814-4 du présent code. Il définit les modalités de la participation de l'établissement au
+développement des territoires dans lesquels celui-ci s'insère. 
 
-Le projet d'établissement est élaboré et adopté dans les conditions prévues par l'article L. 421-5 du code de l'éducation
-pour une durée de trois à cinq ans.
+Le projet d'établissement est élaboré et adopté sous la responsabilité du chef d'établissement. Il est adopté par le conseil
+d'administration de l'établissement dans les conditions prévues par l'article L. 421-5 du code de l'éducation pour une durée
+de trois à cinq ans. 
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans des conditions fixées par le ministre de
-l'agriculture.
+l'agriculture. 
 
 Les établissements d'enseignement et de formation professionnelle agricole relevant des communautés urbaines de Lille et de
 Dunkerque ainsi que du syndicat intercommunal de gestion du lycée d'enseignement professionnel et horticole de Raismes sont
-transformés en établissements publics locaux d'enseignement et de formation professionnelle agricole.
+transformés en établissements publics locaux d'enseignement et de formation professionnelle agricole. 
 
-Leur transfert à la région Nord - Pas-de-Calais n'intervient, sauf convention contraire entre la région et l'établissement
+Leur transfert à la région Nord-Pas-de-Calais n'intervient, sauf convention contraire entre la région et l'établissement
 public de coopération intercommunale concerné, qu'une fois qu'a été constaté le strict respect de l'ensemble des normes de
-sécurité s'appliquant aux bâtiments et aux équipements.
+sécurité s'appliquant aux bâtiments et aux équipements. 
 
 Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des collectivités territoriales s'appliquent à ce
-transfert de compétence.
+transfert de compétence. 
 
 La région prend en charge la rétribution des personnels ouvriers et de service qui exercent leur fonction dans les
-établissements transformés conformément aux dispositions du présent article.
+établissements transformés conformément aux dispositions du présent article. 
 
-"Art. L. 811-9. - Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil
-d'administration composé de trente membres.
+" Art.L. 811-9.-Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil
+d'administration composé de trente membres. 
 
-Celui-ci comprend :
+Celui-ci comprend : 
 
 1° Pour un tiers, des représentants de l'Etat, de la région, du département, de la commune et des établissements publics
-intéressés à la formation et à la recherche agricole ;
+intéressés à la formation et à la recherche agricole ; 
 
-2° Pour un tiers, des représentants élus du personnel de l'établissement ;
+2° Pour un tiers, des représentants élus du personnel de l'établissement ; 
 
 3° Pour un tiers, des représentants élus des élèves, des parents d'élèves et, le cas échéant, des représentants des
 associations d'anciens élèves, ainsi que des représentants des organisations professionnelles et syndicales représentatives
-des employeurs, exploitants et salariés agricoles.
+des employeurs, exploitants et salariés agricoles. 
 
 Les représentants des collectivités territoriales comprennent deux représentants de la région, un représentant du département
-et un représentant de la commune siège de l'établissement.
+et un représentant de la commune siège de l'établissement. 
 
-Les représentants des organisations professionnelles et syndicales sont au nombre de cinq. Lorsque la formation le justifie,
-ils comprennent un ou plusieurs représentants des formations para-agricoles.
+Les représentants des organisations professionnelles et syndicales sont au nombre de cinq. Lorsque la formation dispensée le
+justifie, ils comprennent un ou plusieurs représentants des formations para-agricoles. 
 
-Le conseil d'administration élit son président en son sein, parmi les personnes extérieures à l'établissement."
+Le conseil d'administration élit son président en son sein, parmi les personnes extérieures à l'établissement. " 
 
-"Art. L. 811-10. - Les articles L. 421-1, L. 421-3, à l'exception du quatrième alinéa, L. 421-11 à L. 421-16 et L. 421-23 du
+" Art.L. 811-10.-Les articles L. 421-1, L. 421-3, à l'exception du quatrième alinéa, L. 421-11 à L. 421-16 et L. 421-23 du
 code de l'éducation sont applicables aux établissements publics locaux mentionnés à l'article L. 811-8 du présent code. Pour
-l'application de ces dispositions, les termes : "autorité académique" désignent le directeur régional de l'agriculture et de
-la forêt."
+l'application de ces dispositions, les termes : " autorité académique " désignent le directeur régional de l'agriculture et
+de la forêt. " 
 
-"Art. L. 811-11. - Les écoles spécialisées dont la responsabilité et la charge incombent à l'Etat dans les conditions prévues
-à l'article L. 211-4 du code de l'éducation installées sur un domaine appartenant à l'Etat ou mis à la disposition de l'Etat
-jouissent de la personnalité civile et de l'autonomie financière et constituent des établissements publics nationaux."
+De la même façon, pour l'application des dispositions du deuxième alinéa de l'article L. 351-3 du code de l'éducation, les
+termes " inspecteur d'académie, directeur des services départementaux de l'éducation nationale " désignent le directeur
+régional de l'agriculture et de la forêt. 
+
+Pour l'application à l'enseignement agricole des dispositions du code de l'éducation, le mot " recteur " désigne, selon le
+cas, le ministre chargé de l'agriculture ou le directeur régional de l'agriculture et de la forêt ". 
+
+" Art.L. 811-11.-Les écoles spécialisées dont la responsabilité et la charge incombent à l'Etat dans les conditions prévues à
+l'article L. 211-4 du code de l'éducation installées sur un domaine appartenant à l'Etat ou mis à la disposition de l'Etat
+jouissent de la personnalité civile et de l'autonomie financière et constituent des établissements publics nationaux. "
 
 **Nota:**
 
-NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L.
-401-1 du même code.
+La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L. 401-1
+du même code.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
+	  - Code rural L811-8 à L811-11
 	  - Loi n°99-574 1999-07-09
+	  - Loi n°2005-380 2005-04-23
 	  - Code général des collectivités territoriales L1321-1 à L1321-8
 	  - Code de l'éducation - art. L211-4 (V)
+	  - Code de l'éducation - art. L214-1 (M)
+	  - Code de l'éducation - art. L214-13 (M)
 	  - Code de l'éducation - art. L312-6 (V)
 	  - Code de l'éducation - art. L312-7 (V)
+	  - Code de l'éducation - art. L401-1 (V)
 	  - Code de l'éducation - art. L421-1 (V)
 	  - Code de l'éducation - art. L421-3 (V)
 	  - Code de l'éducation - art. L421-5 (M)
+	  - Code de l'éducation - art. L811-1 (V)
 	  - Code de l'éducation - art. L811-2 (M)
-	  - Code de l'éducation L312-6, L312-7, L811-2, L421-5, L811-8, L421-1, L421-3, L211-4
-	  - Code rural L811-8 à L811-11
+	  - Code de l'éducation L312-6, L312-7, L811-1, L214-1, L214-13, L811-2, L814-2, L421-5, L811-8, L421-1, L421-3, L211-4, L401-1
 
 	**Codifié par**:
 
@@ -12993,8 +13051,17 @@ NOTA : La loi 2005-380 a transféré les dispositions édictées par l'article L
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 85 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2005-157 du 23 février 2005 - art. 208 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 209 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 214 () JORF 24 février 2005
+	  - Loi n°2005-157 du 23 février 2005 - art. 70 () JORF 24 février 2005
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L811-10 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L811-11 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L811-8 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L811-9 (V)
 
 
 ##### Section 6 : Dispositions diverses.
