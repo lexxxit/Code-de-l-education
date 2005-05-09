@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-05-03
+Version Consolidée au 2005-05-10
 
 # Partie législative
 
@@ -30713,7 +30713,7 @@ Ces conventions sont soumises à l'approbation du conseil d'administration de l'
 
 Les transactions et les conventions d'arbitrage, conclues par les établissements publics administratifs d'enseignement
 supérieur mentionnés à l'article D. 123-9, lorsque leur statut prévoit un contrôle financier a priori, sont soumises au visa
-préalable du contrôleur financier.
+préalable du membre du corps du contrôle général économique et financier.
 
 **Liens relatifs à cet article**
 
@@ -30724,6 +30724,10 @@ préalable du contrôleur financier.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 	**Cite**:
 
