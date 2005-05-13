@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-14
 
 # Partie législative
 
@@ -1490,30 +1490,30 @@ exercent sur lui, de façon continue, une autorité de fait.
 Les personnes responsables d'un enfant soumis à l'obligation scolaire définie à l'article L. 131-1 doivent le faire inscrire
 dans un établissement d'enseignement public ou privé, ou bien déclarer au maire et à l'inspecteur d'académie, directeur des
 services départementaux de l'éducation nationale, qu'elles lui feront donner l'instruction dans la famille. Dans ce cas, il
-est exigé une déclaration annuelle.
+est exigé une déclaration annuelle. 
 
 Les mêmes formalités doivent être accomplies dans les huit jours qui suivent tout changement de résidence ou de choix
-d'instruction.
+d'instruction. 
 
-La présente obligation s'applique à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de six ans.
+La présente obligation s'applique à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de six ans. 
 
 Les familles domiciliées à proximité de deux ou plusieurs écoles publiques ont la faculté de faire inscrire leurs enfants à
 l'une ou l'autre de ces écoles, qu'elle soit ou non sur le territoire de leur commune, à moins qu'elle ne compte déjà le
-nombre maximum d'élèves autorisé par voie réglementaire.
+nombre maximum d'élèves autorisé par voie réglementaire. 
 
 Toutefois, lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, les
 familles doivent se conformer à la délibération du conseil municipal ou de l'organe délibérant de l'établissement public de
-coopération intercommunale compétent, déterminant le ressort de chacune de ces écoles.
+coopération intercommunale compétent, déterminant le ressort de chacune de ces écoles. 
 
 Lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, l'inscription
 des élèves, dans les écoles publiques ou privées, se fait sur présentation d'un certificat d'inscription sur la liste
 scolaire prévue à l'article L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l'enfant doit
-fréquenter.
+fréquenter. 
 
 La domiciliation des parents à l'étranger ne peut être une cause de refus d'inscription d'un enfant soumis à l'obligation
 scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la
 personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus
-particulièrement aux enfants de Français de l'étranger.
+particulièrement aux enfants de Français établis hors de France. 
 
 La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de faire inscrire ses enfants dans une école de
 la commune de son lieu de résidence temporaire ou de travail.
@@ -1536,12 +1536,12 @@ la commune de son lieu de résidence temporaire ou de travail.
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 50 () JORF 24 février 2005
+	  - Ordonnance 2005-461 2005-05-13 art. 3 1° JORF 14 mai 2005
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L131-6 (M)
+	  - Code de l'éducation - art. L131-6 (V)
 
 	**Anciens textes**:
 
@@ -15905,8 +15905,7 @@ la tutelle du ministre chargé des affaires étrangères et du ministre chargé 
 
 L'agence a pour objet :
 
-1° D'assurer, en faveur des enfants de nationalité française résidant à l'étranger, les missions de service public relatives
-à l'éducation ;
+1° D'assurer, en faveur des enfants français établis hors de France, les missions de service public relatives à l'éducation ;
 
 2° De contribuer au renforcement des relations de coopération entre les systèmes éducatifs français et étrangers au bénéfice
 des élèves français et étrangers ;
@@ -15939,6 +15938,10 @@ ministre chargé des affaires étrangères et du ministre chargé de la coopéra
 	  - Code de l'éducation - art. D452-18 (V)
 	  - Code de l'éducation - art. D531-45 (V)
 	  - Code de l'éducation - art. D531-46 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2005-461 2005-05-13 art. 3 2° JORF 14 mai 2005
 
 
 ###### Article L452-3
@@ -41165,6 +41168,1452 @@ code rural.
 
 	  - Code rural - art. R814-42 (V)
 	  - Code rural et de la pêche maritime - art. R814-41 (T)
+
+
+#### Chapitre IX : Le Conseil territorial de l'éducation nationale et les autres instances consultatives
+
+##### Section 1 : Le Conseil territorial de l'éducation nationale
+
+###### Article D239-1
+
+Le Conseil territorial de l'éducation nationale exerce les attributions mentionnées à l'article L. 239-1.
+
+A cet effet, il émet des avis et des recommandations destinés aux services de l'Etat et aux collectivités territoriales
+concernés par le service public de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°2017-778 du 4 mai 2017 - art. 2 (V)
+	  - Code de l'éducation - art. D239-12 (Ab)
+	  - Code de l'éducation - art. D239-2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-15 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L239-1
+
+
+##### Sous-section 1 : Composition.
+
+###### Article D239-2
+
+Le Conseil territorial de l'éducation nationale est présidé par le ministre chargé de l'éducation ou son représentant. Il
+comprend trente-six membres :
+
+1. Outre son président, dix-sept représentants de l'Etat :
+
+a) Neuf au titre des services centraux, désignés par les ministres concernés :
+
+aa) Cinq représentants du ministre chargé de l'éducation ; 
+
+ab) Un représentant du ministre de l'intérieur ;
+
+ac) Un représentant du ministre chargé de l'agriculture ;
+
+ad) Un représentant du ministre chargé de la jeunesse et des sports ;
+
+ae) Un représentant du ministre chargé de la mer ;
+
+b) Huit au titre des services déconcentrés :
+
+ba) Trois recteurs d'académie, désignés par le ministre chargé de l'éducation ;
+
+bb) Un préfet, désigné par le ministre de l'intérieur ;
+
+bc) Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale, désigné par le ministre chargé
+de l'éducation ;
+
+bd) Un directeur régional de l'agriculture et de la forêt, désigné par le ministre chargé de l'agriculture ;
+
+be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ;
+
+bf) Un directeur régional des affaires maritimes, désigné par le ministre chargé de la mer.
+
+2. Dix-huit représentants des collectivités territoriales :
+
+a) Six représentants élus de conseil régional, désignés par l'Association des régions de France ;
+
+b) Six représentants élus de conseil général, désignés par l'Assemblée des départements de France ;
+
+c) Six représentants des maires, dont deux représentants des présidents d'établissement public de coopération intercommunale,
+désignés par l'Association des maires de France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2017-778 du 4 mai 2017 - art. 3 (V)
+	  - Code de l'éducation - art. D239-10 (V)
+	  - Code de l'éducation - art. D239-12 (V)
+	  - Code de l'éducation - art. D239-6 (V)
+	  - Code de l'éducation - art. D239-7 (V)
+	  - Code de l'éducation - art. D239-8 (V)
+	  - Code de l'éducation - art. D239-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-16 (V)
+
+
+###### Article D239-3
+
+Des membres suppléants, dont le nombre est égal à celui des titulaires, sont désignés dans les mêmes conditions que les
+membres titulaires.
+
+Un membre suppléant peut remplacer pour la durée d'une séance du conseil ou de ses commissions spécialisées un membre
+temporairement empêché.
+
+Un membre suppléant remplace à titre définitif un membre titulaire ayant perdu son mandat ou définitivement empêché d'exercer
+ses fonctions. Il est procédé au remplacement du suppléant ainsi devenu membre titulaire.
+
+Un membre suppléant ne peut siéger qu'en l'absence du membre titulaire qu'il remplace.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-17 (V)
+
+
+###### Article D239-4
+
+Les représentants de l'Etat siègent pour la durée des fonctions qui leur confèrent la qualité au titre de laquelle ils ont
+été désignés.
+
+Les représentants des collectivités territoriales siègent pour la durée du mandat au titre duquel ils ont été désignés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-18 (V)
+
+
+###### Article D239-5
+
+Le ministre chargé de l'éducation invite des représentants des personnels et des usagers du service public de l'éducation
+nationale à participer, avec voix consultative, aux débats du Conseil territorial de l'éducation nationale.
+
+A cet effet, dix titulaires et dix suppléants sont proposés par les organisations nationales représentatives des personnels
+du service public de l'éducation nationale.
+
+Trois titulaires et trois suppléants sont proposés par les organisations nationales représentatives des parents d'élèves. Un
+titulaire et un suppléant sont proposés par le conseil national de la vie lycéenne.
+
+Un arrêté du ministre chargé de l'éducation fixe la liste des organisations nationales des personnels et des usagers
+représentées au Conseil territorial de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-19 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D239-7 (Ab)
+
+
+###### Article D239-6
+
+La liste des membres titulaires et suppléants du Conseil territorial de l'éducation nationale et la liste des personnes
+invitées à participer aux débats sont fixées par arrêté du ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-20 (V)
+
+
+##### Sous-section 2 : Fonctionnement.
+
+###### Article D239-7
+
+Le conseil peut constituer en son sein des commissions spécialisées selon des modalités définies par le règlement intérieur
+prévu à l'article D. 239-9 ci-dessous. Ces commissions sont notamment chargées de suivre les questions spécifiques aux
+enseignements agricole et maritime, ainsi que celles concernant le domaine éducatif relevant de la compétence du ministre
+chargé de la jeunesse et des sports.
+
+Les représentants des personnels et des usagers sont associés aux travaux des commissions dans les conditions prévues à
+l'article D. 239-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-21 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D239-5
+	  - Code de l'éducation - art. D239-9
+
+
+###### Article D239-8
+
+Le Conseil territorial de l'éducation nationale est convoqué en session plénière au moins une fois par an par le ministre
+chargé de l'éducation, qui fixe l'ordre du jour des réunions.
+
+Les associations et l'assemblée mentionnées au 2° de l'article D. 239-2 saisissent le ministre chargé de l'éducation des
+questions qu'elles souhaitent voir figurer à l'ordre du jour du Conseil territorial de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D239-10 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D239-2
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-22 (V)
+
+
+###### Article D239-9
+
+Le Conseil territorial de l'éducation nationale arrête son règlement intérieur, qui fixe les conditions de son fonctionnement
+et celles des commissions spécialisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D239-23 (Ab)
+	  - Code de l'éducation - art. D239-7 (V)
+
+
+###### Article D239-10
+
+Le Conseil territorial de l'éducation nationale siège valablement si la moitié au moins des membres ou de leurs suppléants
+sont présents.
+
+L'adoption des avis et recommandations se fait à la majorité simple et à main levée.
+
+Si le quart, au moins, des membres présents ou représentés par leur suppléant demande un vote à bulletin secret, il est fait
+droit à cette demande pour la question concernée.
+
+La voix du président est prépondérante en cas d'égalité de vote.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-24 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D239-9 (T)
+
+
+###### Article D239-11
+
+Les séances du Conseil territorial de l'éducation nationale ne sont pas publiques.
+
+Le Conseil territorial de l'éducation nationale peut toutefois solliciter la présence d'experts des questions inscrites à
+l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 1 (Ab)
+	  - Décret n°95-591 du 6 mai 1995 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-25 (V)
+
+
+###### Article D239-12
+
+Les avis et recommandations du Conseil territorial de l'éducation nationale sont adressés aux services et collectivités
+intéressés mentionnés au deuxième alinéa de l'article D. 239-1 dans le délai d'un mois suivant la date de sa délibération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D239-1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-26 (V)
+
+
+###### Article D239-13
+
+Le secrétariat des séances et la diffusion des convocations, documents de travail et procès-verbaux sont assurés par les
+services du ministère chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-27 (V)
+
+
+###### Article D239-14
+
+Les fonctions de membre et d'invité du Conseil territorial de l'éducation nationale sont exercées à titre gratuit. Elles
+ouvrent droit aux indemnités pour frais de déplacement et de séjour dans les conditions prévues pour les fonctionnaires et
+agents de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-28 (V)
+
+
+##### Section 2 : La Commission nationale pour l'éducation, la science et la culture.
+
+###### Article D239-15
+
+La Commission nationale pour l'éducation, la science et la culture est chargée de promouvoir dans la République française les
+idées de compréhension mutuelle entre les peuples, d'encourager les initiatives d'ordre intellectuel, ainsi que les efforts
+d'éducation en ce sens, d'intéresser l'opinion publique aux buts, au programme et à l'oeuvre de l'Union des nations unies
+pour l'éducation, la science et la culture (UNESCO).
+
+A cette fin :
+
+1° Elle donne son avis au Gouvernement sur le programme et les activités de l'UNESCO ;
+
+2° Elle établit une liaison efficace tant avec l'UNESCO qu'avec les commissions nationales et organismes nationaux de
+coopération des autres Etats membres de l'UNESCO ;
+
+3° Elle veille, sur le plan national, à l'exécution des décisions prises à la conférence générale de l'UNESCO ;
+
+4° Elle prend les contacts nécessaires avec les groupements culturels nationaux et internationaux de caractère public ou
+privé ;
+
+5° Elle convoque, chaque fois que cela est nécessaire, les principaux groupes nationaux et les personnalités qui
+s'intéressent aux problèmes d'éducation, de science, de culture et de communication ;
+
+6° Elle fait connaître, par les moyens appropriés, à l'opinion publique, les buts et les travaux de l'UNESCO ;
+
+7° Elle remplit toutes les tâches que lui confie le Gouvernement dans le domaine de l'éducation, de la science, de la culture
+et de la communication, notamment par sa participation à des actions conduites dans le cadre de la politique culturelle
+extérieure de la France. A cet effet, elle veille à la coordination de ses activités avec ces actions ;
+
+8° Elle adresse au Gouvernement un rapport écrit sur ses activités au 31 décembre de chaque année.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 6 (Ab)
+	  - Code de l'éducation - art. D239-1 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-29 (V)
+
+
+###### Article D239-16
+
+La Commission nationale pour l'éducation, la science et la culture est consultée par le Gouvernement sur le choix de ses cinq
+délégués principaux à la conférence générale de l'organisation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
+	  - Code de l'éducation - art. D239-2 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Cité par**:
+
+	  - Arrêté du 15 février 2010 - art. 1 (V)
+	  - Arrêté du 2 juin 2010 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-30 (V)
+
+
+###### Article D239-17
+
+La Commission nationale pour l'éducation, la science et la culture comprend :
+
+a) Quatre membres représentant le Parlement ;
+
+b) Deux membres désignés par le Conseil économique et social ;
+
+c) Vingt-cinq personnalités désignées par le Gouvernement ;
+
+d) Huit personnalités représentant le Conseil d'Etat, la Cour des comptes, la Cour de cassation, le Médiateur de la
+République, la Commission nationale de l'informatique et des libertés, le Conseil supérieur de l'audiovisuel, le Comité
+national d'éthique et la Commission nationale consultative des droits de l'homme ;
+
+e) Cinq membres représentant l'Institut de France ;
+
+f) Un représentant de chacun des établissements ou fondations suivants :
+
+1° Bibliothèque nationale de France ;
+
+2° Bureau de recherche géologique et minière ;
+
+3° Centre de coopération internationale en recherche agronomique pour le développement ;
+
+4° Centre d'études et de recherches sur les qualifications ;
+
+5° Centre international d'études pédagogiques ;
+
+6° Centre national de documentation pédagogique ;
+
+7° Centre national d'enseignement à distance ;
+
+8° Centre national de la recherche scientifique ;
+
+9° Cité des sciences et de l'industrie ;
+
+10° Collège de France ;
+
+11° Conservatoire national des arts et métiers ;
+
+12° Ecole des hautes études en sciences sociales ;
+
+13° Ecole nationale du patrimoine ;
+
+14° Ecole normale supérieure de Cachan ;
+
+15° Ecole normale supérieure de Fontenay - Saint-Cloud ;
+
+16° Ecole normale supérieure de Lyon ;
+
+17° Ecole normale supérieure de Paris ;
+
+18° Ecole pratique des hautes études ;
+
+19° Fondation nationale des sciences politiques ;
+
+20° Institut français de recherche pour l'exploitation de la mer ;
+
+21° Institut français de recherche scientifique pour le développement en coopération ;
+
+22° Institut national de l'audiovisuel ;
+
+23° Institut national d'études démographiques ;
+
+24° Institut national de la jeunesse et de l'éducation populaire ;
+
+25° Institut Pasteur ;
+
+26° Institut national de recherche pédagogique ;
+
+27° Maison des sciences de l'homme ;
+
+28° Muséum national d'histoire naturelle ;
+
+29° Palais de la Découverte ;
+
+g) Un représentant de la Conférence des présidents d'université et un représentant de la conférence des grandes écoles ;
+
+h) Dix membres représentant les syndicats représentatifs au plan national ;
+
+i) Quatre-vingts membres élus par les différents groupements scientifiques, éducatifs et culturels ;
+
+j) Trente membres de droit représentant l'administration et nommés par arrêté du ministre des affaires étrangères, sur
+proposition des départements ministériels intéressés ;
+
+k) Un représentant de chacune des associations nationales suivantes :
+
+1° Centres UNESCO ;
+
+2° Comité pour les relations nationales et internationales des associations françaises de jeunesse et d'éducation populaire ;
+
+3° Fédération française des clubs UNESCO ;
+
+4° Fondation de l'Arche de la fraternité ;
+
+5° Institut de formation aux droits de l'homme du barreau de Paris ;
+
+l) Un représentant de chacune des associations nationales, sections françaises d'organisations internationales non
+gouvernementales suivantes ;
+
+1° Centre français du théâtre ;
+
+2° Comité français du Conseil international des musées ;
+
+3° Comité français de l'Union internationale pour la conservation de la nature ;
+
+4° Comité national de la musique ;
+
+5° Conseil français des arts plastiques ;
+
+6° Pen-Club français ;
+
+7° Section française du Conseil international des archives ;
+
+8° Section française du Conseil international des critiques d'art ;
+
+9° Section française du Conseil international des monuments et des sites ;
+
+m) Un représentant de chacun des comités français des programmes scientifiques et culturels internationaux de l'UNESCO ;
+
+n) Dix personnalités cooptées par la commission nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
+	  - Code de l'éducation - art. D239-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-31 (V)
+
+
+###### Article D239-18
+
+Des experts peuvent être invités à siéger dans les comités de travail de la commission.
+
+La commission peut demander, notamment aux régions, aux départements et autres collectivités territoriales d'outre-mer et aux
+organismes publics de radiodiffusion et télévision, de désigner des correspondants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 7 (Ab)
+	  - Code de l'éducation - art. D239-4 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-32 (V)
+
+
+###### Article D239-19
+
+La Commission nationale pour l'éducation, la science et la culture se réunit en séance plénière au moins une fois par an sur
+convocation de son président.
+
+Dans l'intervalle de ces séances, un comité permanent, dont la commission fixe elle-même la composition et les attributions,
+se réunit au moins une fois par trimestre pour statuer sur les questions inscrites à son ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-591 du 6 mai 1995 - art. 8 (Ab)
+	  - Code de l'éducation - art. D239-5 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-33 (V)
+
+
+###### Article D239-20
+
+La commission peut former des comités spécialisés et des comités régionaux.
+
+Font partie des comités spécialisés :
+
+1° Les membres de la commission nationale ;
+
+2° Les experts désignés par la commission nationale.
+
+Font partie des comités régionaux :
+
+1° Les membres de la commission nationale ;
+
+2° Les experts ;
+
+3° Les correspondants qui résident dans la région considérée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 1 (Ab)
+	  - Décret n°89-778 du 23 octobre 1989 - art. 2 (Ab)
+	  - Code de l'éducation - art. D239-6 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-34 (V)
+
+
+###### Article D239-21
+
+Les comités spécialisés ou régionaux font rapport à la commission nationale ou, dans l'intervalle de ses sessions, au comité
+permanent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 2 (Ab)
+	  - Code de l'éducation - art. D239-7 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-35 (V)
+
+
+###### Article D239-22
+
+Le mandat des membres de la Commission nationale pour l'éducation, la science et la culture a une durée de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 3 (Ab)
+	  - Code de l'éducation - art. D239-8 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1400 du 19 décembre 2008 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-36 (V)
+
+
+###### Article D239-23
+
+La commission nationale élit son président parmi ses membres. Cette nomination doit être approuvée par le Premier ministre.
+Cinq vice-présidents peuvent, en outre, être élus par la commission. Le président nomme le secrétaire général, après
+consultation des départements ministériels intéressés. Le secrétaire général dirige le secrétariat prévu à l'article D.
+239-10 et participe, à ce titre, aux travaux et aux réunions de la commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 3 (Ab)
+	  - Code de l'éducation - art. D239-9 (T)
+	  - Code de l'éducation D239-xx
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1400 du 19 décembre 2008 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-37 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D239-9
+
+
+###### Article D239-24
+
+Le secrétariat général de la Commission nationale pour l'éducation, la science et la culture est assuré par l'Association
+pour l'éducation, la science et la culture, dont les statuts ont été légalement déposés le 16 mai 1947.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 3 bis (Ab)
+	  - Code de l'éducation - art. D239-10 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2008-1400 du 19 décembre 2008 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-38 (V)
+
+
+##### Section 3 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.
+
+###### Article D239-25
+
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur, placé auprès du ministre
+chargé de l'éducation et de l'enseignement supérieur étudie, au regard des règles de sécurité et dans le respect des
+compétences des commissions centrale et locales de sécurité et de celles des inspecteurs du travail, les conditions
+d'application des règles de sécurité, l'état des immeubles et des équipements affectés aux établissements scolaires, aux
+établissements d'enseignement supérieur et aux centres d'information et d'orientation ou qui sont utilisés par eux de façon
+régulière.
+
+Il informe des conclusions de ses travaux les collectivités territoriales, les administrations, les chancelleries des
+universités, les établissements d'enseignement supérieur ou les propriétaires privés concernés. Il peut porter à la
+connaissance du public les informations qu'il estime nécessaires. Dans le respect du droit de propriété, du principe de la
+libre administration des collectivités territoriales et de l'autonomie des établissements d'enseignement supérieur, il peut
+solliciter tous renseignements et demander à consulter sur place tous documents qu'il estime, en toute indépendance, utiles à
+sa mission. Il remet au ministre chargé de l'éducation le 31 décembre de chaque année, un rapport qui est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
+	  - Code de l'éducation - art. D239-11 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Cité par**:
+
+	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+	  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-39 (V)
+
+
+###### Article D239-26
+
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est compétent pour les
+établissements scolaires du premier et du second degré, publics et privés sous contrat, ainsi que pour les établissements
+publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L813-10
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
+	  - Code de l'éducation - art. D239-12 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D239-25 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-40 (V)
+
+
+###### Article D239-27
+
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est composé de cinquante et
+un membres. Ceux-ci ainsi que, s'il y a lieu, leurs suppléants, sont nommés pour une durée de trois ans par arrêté du
+ministre chargé de l'éducation.
+
+Ils se répartissent de la manière suivante :
+
+1° Collège des élus et des gestionnaires de l'immobilier scolaire et universitaire, composé de dix-sept membres titulaires et
+de deux suppléants pour chaque membre titulaire :
+
+a) Un membre de l'Assemblée nationale ;
+
+b) Un membre du Sénat ;
+
+c) Trois présidents ou vice-présidents de conseil régional ;
+
+d) Trois présidents ou vice-présidents de conseil général ;
+
+e) Sept maires ;
+
+f) Un représentant de la Fédération nationale des organismes de gestion de l'enseignement catholique ;
+
+g) Un président d'université désigné par la Conférence des présidents d'université.
+
+2° Collège des représentants des personnels et des usagers, composé de dix-sept membres titulaires et de deux membres
+suppléants pour chaque membre titulaire nommés sur proposition des organisations représentatives :
+
+a) Représentants des établissements publics :
+
+aa) Trois représentants de la Fédération syndicale unitaire (FSU) ;
+
+ab) Trois représentants de l'Union nationale des syndicats autonomes (UNSA-Education) ;
+
+ac) Un représentant du Syndicat général de l'éducation nationale (SGEN-CFDT) ;
+
+ad) Un représentant de la Confédération générale du travail-Force ouvrière (CGT-FO) ;
+
+ae) Un représentant du Syndicat national des lycées et collèges (SNALC-CSEN) ;
+
+af) Un représentant de la Confédération générale du travail (CGT) ;
+
+ag) Trois représentants de la Fédération des conseils de parents d'élèves (FCPE) ;
+
+ah) Un représentant de la Fédération des parents d'élèves de l'enseignement public (PEEP) ;
+
+ai) Un représentant de l'organisation syndicale d'étudiants la plus représentative au Conseil national de l'enseignement
+supérieur et de la recherche.
+
+b) Représentants des établissements privés :
+
+ba) Un représentant de la Fédération de l'enseignement privé (FEP-CFDT) ;
+
+bb) Un représentant de l'Union nationale des associations de parents d'élèves de l'enseignement libre (UNAPEL).
+
+3° Collège des représentants de l'Etat, des chefs d'établissement et des personnalités qualifiées nommées par lui, composé
+ainsi qu'il suit :
+
+a) Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
+
+aa) Deux représentants du ministre chargé de l'éducation ;
+
+ab) Un représentant du ministre chargé de l'enseignement supérieur ;
+
+ac) Un représentant du ministre de l'intérieur ;
+
+ad) Un représentant du ministre chargé des collectivités locales ;
+
+ae) Un représentant du ministre chargé du budget ;
+
+af) Un représentant du ministre chargé de la fonction publique ;
+
+ag) Un représentant du ministre chargé de l'agriculture ;
+
+ah) Un représentant du ministre chargé de l'outre-mer ;
+
+ai) Un représentant du ministre chargé de l'équipement ;
+
+aj) Un représentant du ministre chargé des sports.
+
+b) Deux membres titulaires représentants des chefs d'établissement et deux suppléants, nommés sur proposition des
+organisations représentatives :
+
+ba) Un représentant du Syndicat national des personnels de direction de l'éducation nationale (SNPDEN) ;
+
+bb) Un représentant du Syndicat national des chefs d'établissement de l'enseignement libre (SNCEEL) ;
+
+bc) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°89-778 du 23 octobre 1989 - art. 5 (Ab)
+	  - Code de l'éducation - art. D239-13 (T)
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. D239-41 (V)
+
+
+###### Article D239-28
+
+Le ministre chargé de l'éducation nomme, parmi les membres de l'Observatoire national de la sécurité des établissements
+scolaires et d'enseignement supérieur, le président, pour une durée de trois ans, par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-14 (T)
+
+
+###### Article D239-29
+
+Des experts peuvent être entendus par l'Observatoire national de la sécurité des établissements scolaires et d'enseignement
+supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-15 (T)
+
+
+###### Article D239-30
+
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur élabore son règlement
+intérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-16 (T)
+
+
+###### Article D239-31
+
+L'observatoire détermine notamment la périodicité, la nature et les conditions de ses travaux ainsi que les conditions dans
+lesquelles les collectivités ou les propriétaires privés présentent les remarques que leur suggèrent les informations
+transmises par l'observatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-17 (T)
+
+
+###### Article D239-32
+
+L'ordre du jour des séances est fixé par le président, ou sur demande d'au moins un quart des membres de l'Observatoire
+national de la sécurité des établissements scolaires et d'enseignement supérieur. Il choisit, en son sein, un rapporteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-18 (T)
+
+
+###### Article D239-33
+
+Un secrétariat est mis à la disposition de l'Observatoire national de la sécurité des établissements scolaires et
+d'enseignement supérieur par le ministre chargé de l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-19 (T)
+
+
+##### Section 4 : Le Conseil supérieur des bibliothèques.
+
+###### Article D239-34
+
+Le Conseil supérieur des bibliothèques, placé auprès du ministre chargé de l'enseignement supérieur, du ministre chargé de la
+culture et du ministre chargé de la recherche, émet des avis et des recommandations sur la situation et les questions qui
+concernent les bibliothèques et les réseaux documentaires. Il favorise la coordination des politiques documentaires relevant
+de plusieurs ministres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-20 (T)
+
+
+###### Article D239-35
+
+Sur la demande du Conseil supérieur des bibliothèques, les différents ministres et les services placés auprès du Premier
+ministre lui communiquent les informations nécessaires concernant les bibliothèques placées sous leur tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-21 (T)
+
+
+###### Article D239-36
+
+Le Conseil supérieur des bibliothèques est composé d'un président et de deux vice-présidents nommés par arrêté du Premier
+ministre et de dix-huit membres nommés par arrêté conjoint du ministre chargé de l'enseignement supérieur, du ministre chargé
+de la culture et du ministre chargé de la recherche :
+
+1° Six membres proposés par le ministre chargé de l'enseignement supérieur ;
+
+2° Six membres proposés par le ministre chargé de la culture ;
+
+3° Trois membres proposés par le ministre chargé de la recherche ;
+
+4° Trois élus, dont un maire, un conseiller général, un conseiller régional proposés conjointement par le ministre chargé de
+l'enseignement supérieur, le ministre chargé de la culture et le ministre chargé de la recherche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-22 (T)
+
+
+###### Article D239-37
+
+Le directeur du livre et de la lecture et le directeur de l'enseignement supérieur participent, avec voix consultative, aux
+travaux du Conseil supérieur des bibliothèques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-23 (T)
+
+
+###### Article D239-38
+
+Les membres du Conseil supérieur des bibliothèques sont nommés pour une période de trois ans renouvelable une fois. En cas de
+vacance d'un siège, un nouveau membre est désigné pour la durée du mandat restant à courir, sauf si la vacance intervient
+moins de six mois avant le terme normal du mandat.
+
+Lorsqu'un membre du Conseil supérieur des bibliothèques perd la qualité au titre de laquelle il a été nommé, son mandat prend
+fin de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-24 (T)
+
+
+###### Article D239-39
+
+Le Conseil supérieur des bibliothèques se réunit au moins trois fois par an sur convocation de son président, qui fixe
+l'ordre du jour de chaque réunion. Le président peut en outre le réunir à la demande des ministres concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-25 (T)
+
+
+###### Article D239-40
+
+Le Conseil supérieur des bibliothèques organise lui-même ses travaux ; il arrête son règlement intérieur, fixe le programme
+de ses activités, détermine sa méthodologie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-26 (T)
+
+
+###### Article D239-41
+
+Les fonctions de membres du Conseil supérieur des bibliothèques sont gratuites. Il peut toutefois être alloué des indemnités
+correspondant aux frais de déplacement et de séjour effectivement supportés à l'occasion des réunions du Conseil supérieur
+des bibliothèques dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités
+de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France
+lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de
+certains organismes subventionnés et le décret n° 89-271 du 12 avril 1989 fixant les conditions et modalités de règlement des
+frais de déplacement des personnels civils à l'intérieur des départements d'outre-mer, entre la métropole et ces
+départements, et pour se rendre d'un département d'outre-mer à l'autre.
+
+**Nota:**
+
+Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
+des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
+présent décret à compter du 1er novembre 2006.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-271 1989-04-12
+	  - Décret n°90-437 1990-05-28
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D239-27 (T)
 
 
 ### Titre IV : L'inspection et l'évaluation de l'éducation.
