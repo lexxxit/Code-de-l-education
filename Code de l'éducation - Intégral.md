@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-05-27
 
 # Partie législative
 
@@ -10149,16 +10149,15 @@ II. - II est créé un répertoire national des certifications professionnelles.
 professionnelle y sont classés par domaine d'activité et par niveau.
 
 Les diplômes et titres à finalité professionnelle, ainsi que les certificats de qualification figurant sur une liste établie
-par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés, par arrêté du
-Premier ministre, à la demande des organismes les ayant créés et après avis de la Commission nationale de la certification
-professionnelle.
+par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés à la demande des
+organismes les ayant créés et après avis de la Commission nationale de la certification professionnelle.
 
 Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations
 représentatives d'employeurs et de salariés sont enregistrés de droit dans ce répertoire.
 
-La Commission nationale de la certification professionnelle, placée auprès du Premier ministre, établit et actualise le
-répertoire national des certifications professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et
-titres à l'évolution des qualifications et de l'organisation du travail.
+La Commission nationale de la certification professionnelle établit et actualise le répertoire national des certifications
+professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et titres à l'évolution des qualifications et
+de l'organisation du travail.
 
 Elle émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou
 des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une
@@ -10284,11 +10283,11 @@ ainsi que la composition et les attributions de la commission.
 	  - Arrêté du 13 août 2014 (V)
 	  - Arrêté du 27 août 2014 (V)
 	  - Arrêté du 5 septembre 2014 (V)
-	  - Arrêté du 6 novembre 2014 (V)
-	  - Arrêté du 31 décembre 2014 - art. 1 (V)
 	  - ORDONNANCE n°2014-1090 du 26 septembre 2014 - art. 12 (V)
+	  - Arrêté du 6 novembre 2014 (V)
 	  - Arrêté du 15 décembre 2014 (V)
 	  - Arrêté du 15 décembre 2014 (VD)
+	  - Arrêté du 31 décembre 2014 - art. 1 (V)
 	  - Arrêté du 17 février 2015 (V)
 	  - Arrêté du 5 février 2015 (V)
 	  - Arrêté du 16 février 2015 (V)
@@ -10426,10 +10425,6 @@ ainsi que la composition et les attributions de la commission.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 134 () JORF 18 janvier 2002
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002
@@ -10441,6 +10436,10 @@ ainsi que la composition et les attributions de la commission.
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 6 (AbD)
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002 - art. 7 (Ab)
 	  - PILOTE_SUIVEUR: Code du travail - art. L6412-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2005-545 du 26 mai 2005 - art. 1 () JORF 27 mai 2005
 
 	**Cite**:
 
