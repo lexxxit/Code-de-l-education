@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-05-27
+Version Consolidée au 2005-06-01
 
 # Partie législative
 
@@ -33161,6 +33161,78 @@ Les règles budgétaires et comptables applicables aux caisses des écoles sont 
 	  - Code général des collectivités territoriales - art. R2313-7 (M)
 	  - Code général des collectivités territoriales - art. R2321-4 (V)
 	  - Code général des collectivités territoriales - art. R2321-5 (M)
+
+
+###### Article R212-33-1
+
+Un conseil consultatif de réussite éducative est institué par délibération du comité de la caisse dans les caisses des écoles
+ayant décidé d'étendre leurs compétences, en application du deuxième alinéa de l'article L. 212-10, à des actions à caractère
+éducatif, culturel, social et sanitaire en faveur des enfants relevant de l'enseignement du premier et du second degrés.
+
+Le conseil consultatif de réussite éducative comprend :
+
+1° Le maire, président, ou son représentant ;
+
+2° Le président du conseil général ou son représentant ;
+
+3° L'inspecteur d'académie ou son représentant ;
+
+4° Deux représentants de l'Etat désignés par le préfet de département ;
+
+5° Un médecin désigné par le directeur départemental des affaires sanitaires et sociales ;
+
+6° Le président de la caisse d'allocations familiales ou son représentant ;
+
+7° Un directeur d'école de la commune ou de l'une des communes concernées désigné par l'inspecteur d'académie ;
+
+8° Un chef d'établissement ou, à défaut, un enseignant désigné par l'inspecteur d'académie ;
+
+9° Un représentant des parents d'élèves siégeant au conseil d'école d'une école de la commune désigné par l'inspecteur
+d'académie ;
+
+10° Un représentant des parents d'élèves siégeant au conseil d'administration d'un établissement public local d'enseignement,
+désigné par l'inspecteur d'académie ;
+
+11° A leur demande, un représentant des associations oeuvrant dans les domaines éducatif, périscolaire, culturel, sportif,
+social ou sanitaire, désigné par le maire ou le président de l'établissement de coopération intercommunal.
+
+La région, à sa demande, est associée aux travaux du conseil consultatif de réussite éducative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-637 du 30 mai 2005 - art. 1 () JORF 1er juin 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L212-10 (M)
+
+
+###### Article R212-33-2
+
+Le conseil consultatif de réussite éducative est compétent pour donner un avis sur toutes les questions relatives aux projets
+de réussite éducative.
+
+Il se réunit, au moins deux fois par an, à l'initiative du président du comité de la caisse ou sur demande de la majorité des
+membres de ce conseil.
+
+Il propose la répartition des crédits affectés aux dispositifs de réussite éducative au comité de la caisse des écoles et
+évalue les résultats des actions précédemment menées ou entreprises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-637 du 30 mai 2005 - art. 1 () JORF 1er juin 2005
 
 
 ##### Section 3 : Collèges.
