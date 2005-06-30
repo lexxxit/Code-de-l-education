@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-06-01
+Version Consolidée au 2005-07-01
 
 # Partie législative
 
@@ -3983,16 +3983,22 @@ conditions de participation de la région ou du département au financement de c
 
 ###### Article L213-13
 
-La loi prévue à l'article 46 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs adaptera les
-dispositions des articles L. 213-11 et L. 213-12 à la région d'Ile-de-France.
+Les articles L. 213-11 et L. 213-12 ne s'appliquent pas dans la région d'Ile-de-France, conformément aux dispositions de
+l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France.
+
+**Nota:**
+
+Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
+après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
+précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
+juillet 2005.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 46, v. init.
-	  - Code de l'éducation - art. L213-11 (M)
-	  - Code de l'éducation - art. L213-12 (M)
+	  - Ordonnance n°59-151 du 7 janvier 1959
+	  - Code de l'éducation - art. L231-11
 
 	**Anciens textes**:
 
@@ -4004,11 +4010,26 @@ dispositions des articles L. 213-11 et L. 213-12 à la région d'Ile-de-France.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
+
 
 ###### Article L213-14
 
-La participation de l'Etat en matière de transports scolaires est égale à 65 % des dépenses subventionnables dans tous les
-départements où les transports scolaires sont gratuits à la date du 30 juin 1983.
+Dans la région d'Ile-de-France, les frais de transport individuel des élèves handicapés vers les établissements scolaires
+rendus nécessaires du fait de leur handicap sont supportés par le Syndicat des transports d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
+après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
+précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
+juillet 2005.
 
 **Liens relatifs à cet article**
 
@@ -4019,12 +4040,24 @@ départements où les transports scolaires sont gratuits à la date du 30 juin 1
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
 
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. R146-42 (V)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L3111-16 (V)
 
 
 ##### Chapitre IV : Les compétences des régions
@@ -26453,6 +26486,52 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
+###### Article L821-5
+
+Dans la région d'Ile-de-France, les frais de transport individuel des étudiants handicapés vers les établissements
+universitaires rendus nécessaires du fait de leur handicap sont supportés par le Syndicat des transports d'Ile-de-France.
+
+**Nota:**
+
+Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
+après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
+précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
+juillet 2005.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1
+	  - Loi n°2004-809 du 13 août 2004
+
+	**Anciens textes**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+
+	**Créé par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
+
+	**Cité par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 41 (V)
+	  - Code de l'action sociale et des familles - art. L242-11 (M)
+	  - Code de l'action sociale et des familles - art. R146-42 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L3111-16 (V)
+
+
 ##### Chapitre II : Les oeuvres universitaires.
 
 ###### Article L822-1
@@ -33816,15 +33895,16 @@ les dispositions des articles R. 1614-36 à R. 1614-40 du code général des col
 
 ###### Article R213-20
 
-L'organisation des transports scolaires dans les départements de la région d'Ile-de-France est régie par les dispositions du
-décret n° 73-462 du 4 mai 1973 relatif à l'organisation des services spéciaux de transports publics routiers réservés aux
-élèves.
+L'organisation des transports scolaires dans les départements de la région d'Ile-de-France est régie par les dispositions de
+l'ordonnance n° 59-151 du 7 janvier 1959 modifiée relative à l'organisation des transports de voyageurs en Ile-de-France et
+par le décret n° 59-157 du 7 janvier 1959 modifié relatif à l'organisation des transports de voyageurs en Ile-de-France.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°73-462 1973-05-04
+	  - Ordonnance n°59-151 du 7 janvier 1959
+	  - Décret n°59-157 du 7 janvier 1959
 
 	**Anciens textes**:
 
@@ -33835,45 +33915,17 @@ décret n° 73-462 du 4 mai 1973 relatif à l'organisation des services spéciau
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
 
-##### Paragraphe 2 : Financement des transports scolaires en région d'Ile-de-France.
-
-###### Article R213-21
-
-Le financement des transports scolaires dans les départements de la région d'Ile-de-France est régi par les dispositions du
-décret n° 69-520 du 31 mai 1969 relatif au financement du transport des élèves de l'enseignement primaire et des
-enseignements généraux, agricoles et professionnels.
-
-**Nota:**
-
-NOTA : Décret n° 2005-664 du 10 juin 2005 art. 26 : Les critères de subventionnement mentionnées aux articles 1er et 2 du
-décret n° 69-520 du 31 mai 1969 restent en vigueur jusqu'à la date d'effet de la délibération du syndicat fixant les
-conditions et les modalités du financement des transports scolaires dans les départements de la région d'Ile-de-France et au
-plus tard dans un délai de six mois à compter de l'installation du conseil du syndicat dans sa composition résultant de
-l'article 1er du présent décret.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°69-520 1969-05-31
-
-	**Anciens textes**:
-
-	  - Décret n°84-322 1984-05-03 art. 7, phrase 1 (1ère partie)
-	  - Décret n°84-322 du 3 mai 1984 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2005-664 du 10 juin 2005 - art. 24 () JORF 11 juin 2005 en vigueur le 1er juillet 2005
 
 	**Abrogé par**:
 
-	  - Décret n°2005-664 du 10 juin 2005 - art. 26 (Ab) JORF 11 juin 2005 en vigueur le  1er juillet 2005
+	  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2005-664 du 10 juin 2005 - art. 26 (Ab)
+	  - Code des transports - art. R3111-31 (V)
 
 
 ##### Paragraphe 3 : Financement des frais de déplacement des élèves et étudiants handicapés dans la région d'Ile-de-France.
