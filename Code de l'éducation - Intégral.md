@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-08-23
 
 # Partie législative
 
@@ -35949,6 +35949,167 @@ position, il leur en fait connaître par écrit les raisons.
 
 
 ### Titre III : Les organismes collégiaux nationaux et locaux.
+
+#### Chapitre préliminaire : Le Haut Conseil de l'éducation
+
+###### Article D230-1
+
+Les membres du Haut Conseil de l'éducation sont désignés conformément aux dispositions de l'article L. 230-1.
+
+En cas de décès ou de démission d'un membre, il est pourvu dans les mêmes conditions à son remplacement pour la durée du
+mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L230-1
+
+
+###### Article D230-2
+
+Le Haut Conseil de l'éducation se réunit sur convocation de son président, à son initiative ou à la demande de la majorité de
+ses membres ou à la demande du ministre chargé de l'éducation nationale.
+
+Les avis et propositions du haut conseil mentionnés à l'article L. 230-2, ainsi que le bilan qu'il est chargé d'établir
+annuellement, sont approuvés à la majorité simple.
+
+Les séances du haut conseil ne sont pas publiques.
+
+Les avis et propositions ainsi que le bilan annuel sont rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L230-2
+
+
+###### Article D230-3
+
+Le Haut Conseil de l'éducation peut entendre toute personne sur les questions qui relèvent de sa compétence. Il dispose de
+crédits d'études.
+
+Les frais occasionnés par les déplacements et les séjours des membres du haut conseil et des personnes qu'il appelle en
+consultation sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+
+###### Article D230-4
+
+Outre les questions dont il est saisi au titre de l'article L. 230-2, le Haut Conseil de l'éducation donne un avis sur la
+définition du socle commun de connaissances et de compétences ainsi que sur le cahier des charges de la formation dispensée
+dans les instituts universitaires de formation des maîtres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L230-2
+
+
+###### Article D230-5
+
+Le Haut Conseil de l'éducation dresse, chaque année, un bilan des résultats obtenus par le système éducatif, ainsi que des
+expérimentations menées en application de l'article L. 401-1. Le président du haut conseil présente ce bilan annuel au
+Conseil supérieur de l'éducation.
+
+A cette fin, le Haut Conseil de l'éducation est assisté d'un comité consultatif composé de personnalités qualifiées choisies
+parmi des représentants des organisations syndicales, professionnelles, de parents d'élèves, d'élèves, des associations et
+toutes autres personnes ayant une activité dans les domaines qui sont de sa compétence.
+
+Le président du Haut Conseil de l'éducation réunit le comité consultatif et le préside.
+
+La composition du comité consultatif est précisée par arrêté du ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L401-1
+
+
+###### Article D230-6
+
+Un secrétaire général, nommé par le ministre chargé de l'éducation nationale, assure, conformément aux directives du
+président, l'organisation des travaux du haut conseil et la coordination des travaux des experts mis à disposition du haut
+conseil par le ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
 
 #### Chapitre Ier : Le Conseil supérieur de l'éducation
 
