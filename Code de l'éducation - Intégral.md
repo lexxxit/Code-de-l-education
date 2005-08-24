@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-08-23
+Version Consolidée au 2005-08-25
 
 # Partie législative
 
@@ -30227,13 +30227,12 @@ classes maternelles dans la limite des places disponibles. Ils y sont scolarisé
 civile au cours de laquelle ils atteignent l'âge de six ans, âge de la scolarité obligatoire.
 
 L'accueil des enfants de moins de trois ans est assuré en priorité dans les écoles et classes maternelles situées dans un
-environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne, et particulièrement en zone
-d'éducation prioritaire.
+environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'outre-mer,
+et particulièrement en zone d'éducation prioritaire.
 
 En l'absence d'école ou de classe maternelle, les enfants de cinq ans dont les parents demandent la scolarisation sont admis
 à l'école élémentaire dans une section enfantine afin de leur permettre d'entrer dans le cycle des apprentissages
-fondamentaux prévu à l'article 3 du décret n° 90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des
-écoles maternelles et élémentaires.
+fondamentaux prévu à l'article D. 321-2 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -30241,13 +30240,17 @@ fondamentaux prévu à l'article 3 du décret n° 90-788 du 6 septembre 1990 rel
 
 	  - Décret n°90-788 1990-09-06 art. 2
 
-	**Cite**:
-
-	  - Décret n°90-788 1990-09-06 art. 3
-
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-1014 du 24 août 2005 - art. 1 () JORF 25 août 2005
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-2 (V)
 
 	**Cité par**:
 
