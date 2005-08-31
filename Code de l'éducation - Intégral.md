@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-01
 
 # Partie législative
 
@@ -14708,7 +14708,19 @@ principes énoncés aux articles L. 141-2, L. 151-1 et L. 442-1.
 Le contrat d'association peut porter sur une partie ou sur la totalité des classes de l'établissement. Dans les classes
 faisant l'objet du contrat, l'enseignement est dispensé selon les règles et programmes de l'enseignement public. Il est
 confié, en accord avec la direction de l'établissement, soit à des maîtres de l'enseignement public, soit à des maîtres liés
-à l'Etat par contrat.
+à l'Etat par contrat. Ces derniers, en leur qualité d'agent public, ne sont pas, au titre des fonctions pour lesquelles ils
+sont employés et rémunérés par l'Etat, liés par un contrat de travail à l'établissement au sein duquel l'enseignement leur
+est confié, dans le cadre de l'organisation arrêtée par le chef d'établissement, dans le respect du caractère propre de
+l'établissement et de la liberté de conscience des maîtres.
+
+Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent
+sont, pour l'application des articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en compte dans le
+calcul des effectifs de l'établissement, tel que prévu à l'article L. 620-10 du même code. Ils sont électeurs et éligibles
+pour les élections des délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail
+et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les
+rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que
+prévu à l'article L. 434-8 du même code, et la détermination du rapport entre la contribution aux institutions sociales et le
+montant global des salaires, mentionné à l'article L. 432-9 du même code.
 
 Les dépenses de fonctionnement des classes sous contrat sont prises en charge dans les mêmes conditions que celles des
 classes correspondantes de l'enseignement public.
@@ -14726,6 +14738,10 @@ Les établissements organisent librement toutes les activités extérieures au s
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 1 () JORF 6 janvier 2005 en vigueur le  1er septembre 2005
+
 	**Cité par**:
 
 	  - Décret n°2008-1206 du 20 novembre 2008 - art. 3 (V)
@@ -14739,6 +14755,7 @@ Les établissements organisent librement toutes les activités extérieures au s
 	  - Code de l'éducation - art. D314-11 (V)
 	  - Code de l'éducation - art. D314-19 (V)
 	  - Code de l'éducation - art. D331-46 (V)
+	  - Code de l'éducation - art. L442-1 (V)
 	  - Code de l'éducation - art. L442-13 (V)
 	  - Code de l'éducation - art. L442-13-1 (V)
 	  - Code de l'éducation - art. L442-14 (V)
@@ -14766,7 +14783,13 @@ Les établissements organisent librement toutes les activités extérieures au s
 
 	  - Code de l'éducation - art. L141-2 (V)
 	  - Code de l'éducation - art. L151-1 (V)
-	  - Code de l'éducation - art. L442-1 (V)
+	  - Code du travail - art. L236-1 (M)
+	  - Code du travail - art. L412-5 (M)
+	  - Code du travail - art. L421-2 (M)
+	  - Code du travail - art. L431-2 (M)
+	  - Code du travail - art. L432-9 (T)
+	  - Code du travail - art. L434-8 (T)
+	  - Code du travail - art. L620-10 (Ab)
 
 
 ###### Article L442-6
@@ -27699,23 +27722,28 @@ Les règles générales qui déterminent les conditions de service et de cessati
 l'enseignement public, ainsi que les mesures sociales et les possibilités de formation dont ils bénéficient, sont applicables
 également et simultanément aux maîtres justifiant du même niveau de formation, habilités par agrément ou par contrat à
 exercer leur fonction dans des établissements d'enseignement privés liés à l'Etat par contrat. Ces maîtres bénéficient
-également des mesures de promotion et d'avancement prises en faveur des maîtres de l'enseignement public.
+également des mesures de promotion et d'avancement prises en faveur des maîtres de l'enseignement public. 
 
 Les documentalistes exerçant leurs fonctions au profit des élèves des classes sous contrat des établissements d'enseignement
-privés du second degré bénéficient d'un contrat dans les mêmes conditions que les maîtres exerçant dans ces classes.
+privés du second degré bénéficient d'un contrat dans les mêmes conditions que les maîtres exerçant dans ces classes. 
 
 Les maîtres liés à l'Etat par agrément ou par contrat qui exercent la fonction de directeur d'un établissement d'enseignement
 privé du premier degré sous contrat bénéficient de décharges de services dans les mêmes conditions que les directeurs des
-écoles publiques.
+écoles publiques. 
 
 Un décret en Conseil d'Etat fixe les conditions d'accès à la retraite des maîtres de l'enseignement privé en application du
-principe énoncé au premier alinéa.
+principe énoncé au premier alinéa. 
 
 Les charges afférentes à la formation initiale et continue des maîtres susvisés sont financées par l'Etat aux mêmes niveaux
 et dans les mêmes limites que ceux qui sont retenus pour la formation initiale et continue des maîtres de l'enseignement
 public. Elles font l'objet de conventions conclues avec les personnes physiques ou morales qui assurent cette formation dans
 le respect du caractère propre de l'établissement visé à l'article L. 442-1 et des accords qui régissent l'organisation de
-l'emploi et celle de la formation professionnelle des personnels dans l'enseignement privé sous contrat.
+l'emploi et celle de la formation professionnelle des personnels dans l'enseignement privé sous contrat. 
+
+Les maîtres titulaires d'un contrat définitif dont le service est supprimé ou réduit, les maîtres titulaires d'un contrat
+provisoire préalable à l'obtention d'un contrat définitif ainsi que les lauréats de concours bénéficient d'une priorité
+d'accès aux services vacants d'enseignement ou de documentation des classes sous contrat d'association dans des conditions
+déterminées par décret en Conseil d'Etat (1).
 
 **Liens relatifs à cet article**
 
@@ -27728,6 +27756,10 @@ l'emploi et celle de la formation professionnelle des personnels dans l'enseigne
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 1 () JORF 6 janvier 2005 en vigueur le  1er septembre 2005
 
 	**Cité par**:
 
@@ -29764,49 +29796,59 @@ relevant de l'enseignement agricole. "
 
 Les personnels de l'enseignement agricole privé relèvent des dispositions de l'article L. 813-7 du code rural, reproduites à
 l'article L. 442-21 du présent code, et des dispositions des articles L. 813-8 et L. 813-9 du code rural, ci-après
-reproduites :
+reproduites : 
 
-" Art. L. 813-8. - Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa
-de l'article L. 811-5, l'association ou l'organisme responsable, et lié à l'Etat par contrat, désigne le chef d'établissement
+" Art.L. 813-8.-Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa de
+l'article L. 811-5, l'association ou l'organisme responsable, et lié à l'Etat par contrat, désigne le chef d'établissement
 qui doit détenir les titres et présenter les qualifications comparables à ceux requis dans l'enseignement agricole public.
 Cette désignation est aussitôt notifiée à l'autorité administrative. Le chef d'établissement détient l'autorité au sein de
 l'établissement. Il attribue aux enseignants une note administrative et il est associé aux décisions concernant le
-déroulement de leur carrière.
+déroulement de leur carrière. 
 
 Les personnels enseignants et de documentation de ces établissements sont nommés par le ministre de l'agriculture, après
 vérification de leurs titres et de leurs qualifications, sur proposition du chef d'établissement. Ils sont liés par un
 contrat de droit public à l'Etat, qui les rémunère directement par référence aux échelles indiciaires des corps équivalents
-de la fonction publique exerçant des fonctions comparables et ayant les mêmes niveaux de formation. Pour les personnels de
-documentation, les dispositions du présent alinéa s'appliqueront progressivement dans un délai de trois ans à compter du 1er
-janvier 1993.
+de la fonction publique exerçant des fonctions comparables et ayant les mêmes niveaux de formation. En leur qualité d'agent
+public, ils ne sont pas, au titre des fonctions pour lesquelles ils sont employés et rémunérés par l'Etat, liés par un
+contrat de travail à l'établissement au sein duquel l'enseignement leur est confié. 
+
+Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent
+sont, pour l'application des articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en compte dans le
+calcul des effectifs de l'établissement, tel que prévu à l'article L. 620-10 du même code. Ils sont électeurs et éligibles
+pour les élections des délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail
+et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les
+rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que
+prévu à l'article L. 434-8 du même code, et la détermination du rapport entre la contribution aux institutions sociales et le
+montant global des salaires, mentionné à l'article L. 432-9 du même code. 
 
 Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner priorité aux candidats qualifiés qui auraient
 perdu leur emploi par suite de la suppression totale ou partielle d'une filière dans l'établissement même ou dans un autre
-établissement d'enseignement agricole privé relevant du présent article. Une commission, dont la composition est fixée par
-décret, peut être saisie des différends concernant l'application du présent alinéa.
+établissement d'enseignement agricole privé relevant du présent article. Un décret en Conseil d'Etat précise les conditions
+de recrutement par concours et les garanties d'emploi dont les lauréats bénéficient. Une commission, dont la composition est
+fixée par décret, peut être saisie des différends concernant l'application du présent alinéa. 
 
 Le contrat type liant le personnel enseignant et de documentation à l'Etat est approuvé par décret en Conseil d'Etat.
 
-L'association ou l'organisme intéressé reçoit une subvention de fonctionnement versée par élève et par an, qui tient compte
+L'association ou l'organisme intéressé reçoit une subvention de fonctionnement versée par élève et par an qui tient compte
 des conditions de scolarisation et qui est déterminée en fonction du coût moyen des charges de personnel non enseignant et
 des dépenses, autres que celles visées au deuxième alinéa du présent article, des formations correspondantes de
-l'enseignement agricole public. "
+l'enseignement agricole public. " 
 
-" Art. L. 813-9. - Pour les associations ou organismes, liés à l'Etat par un contrat qui offrent des formations à temps plein
+" Art.L. 813-9.-Pour les associations ou organismes, liés à l'Etat par un contrat, qui offrent des formations à temps plein
 en conjuguant, selon un rythme approprié, les enseignements théoriques et pratiques dispensés d'une part dans l'établissement
-même et d'autre part dans le milieu agricole et rural, l'aide financière de l'Etat est calculée sur la base :
+même et d'autre part dans le milieu agricole et rural, l'aide financière de l'Etat est calculée sur la base : 
 
 1° Du nombre de postes de formateurs nécessaires à la mise en oeuvre de filières de formation retenues par le schéma
 prévisionnel national, compte tenu des modalités d'organisation interne de ces filières au sein des établissements ou des
-groupes d'établissements ;
+groupes d'établissements ; 
 
 2° Du coût d'un poste, déterminé pour chaque filière de formation, par référence au coût moyen des formateurs qui participent
-aux filières analogues existant dans les établissements, mentionnés à l'article L. 813-8.
+aux filières analogues existant dans les établissements, mentionnés à l'article L. 813-8. 
 
-Cette base de calcul est fixée par décret.
+Cette base de calcul est fixée par décret. 
 
 Pour bénéficier de l'aide de l'Etat, les associations, les organismes ou leurs groupements doivent assurer, directement ou
-indirectement, la totalité des enseignements d'une ou de plusieurs filières de formation.
+indirectement, la totalité des enseignements d'une ou de plusieurs filières de formation. 
 
 Le décret en Conseil d'Etat qui fixe les modalités d'application du présent article définit également les garanties
 supplémentaires dont les agents recrutés par les associations et les organismes responsables, et soumis à leur autorité,
@@ -29820,12 +29862,15 @@ de licenciement et l'exercice du droit syndical. "
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'éducation - art. L442-21 (V)
-	  - Code de l'éducation - art. L811-5 (V)
-	  - Code de l'éducation L442-21, L811-5, L813-8
-	  - Code rural L813-7, L813-8, L813-9
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 2 () JORF 6 janvier 2005 en vigueur le 1er septembre 2005
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 7 () JORF 6 janvier 2005 en vigueur le 1er septembre 2005
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L813-8 (V)
+	  - PILOTE_SUIVEUR: Code rural - art. L813-9 (V)
 
 
 ##### Chapitre II : Les personnels enseignants de l'architecture.
