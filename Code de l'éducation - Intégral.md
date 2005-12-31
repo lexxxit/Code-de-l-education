@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2005-12-31
+Version Consolidée au 2006-01-01
 
 # Partie législative
 
@@ -418,6 +418,33 @@ spéciale peut être entreprise avant et poursuivie après l'âge de la scolarit
 	**Cité par**:
 
 	  - Code de l'action sociale et des familles - art. L242-1 (M)
+
+
+###### Article L112-4
+
+Pour garantir l'égalité des chances entre les candidats, des aménagements aux conditions de passation des épreuves orales,
+écrites, pratiques ou de contrôle continu des examens ou concours de l'enseignement scolaire et de l'enseignement supérieur,
+rendus nécessaires en raison d'un handicap ou d'un trouble de la santé invalidant, sont prévus par décret. Ces aménagements
+peuvent inclure notamment l'octroi d'un temps supplémentaire et sa prise en compte dans le déroulement des épreuves, la
+présence d'un assistant, un dispositif de communication adapté, la mise à disposition d'un équipement adapté ou
+l'utilisation, par le candidat, de son équipement personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005 en vigueur  le 1er janvier 2006
+
+	**Cité par**:
+
+	  - Arrêté du 3 avril 2009 (V)
+	  - Décret n°2009-380 du 3 avril 2009 (V)
+	  - Code de l'éducation - art. L161-1 (V)
 
 
 ###### Article L112-5
@@ -32265,7 +32292,7 @@ d) Centre national de promotion rurale, enseignement et formation professionnell
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
-a) Centre national d'études et de formation pour l'enfance inadaptée de Suresnes et son annexe (Hauts-de-Seine) ;
+a) (supprimé) ;
 
 b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ;
 
@@ -32302,6 +32329,10 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2005-1754 du 30 décembre 2005 - art. 30 () JORF 31 décembre 2005 en vigueur le 1er janvier 2006
 
 	**Cite**:
 
