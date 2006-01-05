@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 
 # Partie législative
 
@@ -3878,26 +3878,27 @@ l'article 28 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du 
 ###### Article L213-11
 
 Les transports scolaires sont des services réguliers publics, au sens de l'article 29 de la loi n° 82-1153 du 30 décembre
-1982 d'orientation des transports intérieurs.
+1982 d'orientation des transports intérieurs. 
 
 Le département a la responsabilité de l'organisation et du fonctionnement de ces transports. Il consulte à leur sujet le
 conseil départemental de l'éducation nationale. Un décret en Conseil d'Etat fixe les règles techniques auxquelles doivent
-répondre les transports scolaires.
+répondre les transports scolaires. 
 
 Le département est consulté par l'autorité compétente de l'Etat, dans des conditions fixées par décret, avant toute décision
 susceptible d'entraîner une modification substantielle des besoins en matière de transport scolaire.
 
 A l'intérieur des périmètres de transports urbains existant au 1er septembre 1984, cette responsabilité est exercée par
-l'autorité compétente pour l'organisation des transports urbains.
+l'autorité compétente pour l'organisation des transports urbains. 
 
 En cas de création ou de modification ultérieures d'un périmètre de transports urbains incluant le transport scolaire, une
 convention est passée entre l'autorité compétente pour l'organisation des transports urbains et le département. Cette
-convention fixe les conditions de financement des services de transports scolaires dans ce nouveau périmètre.
+convention fixe les conditions de financement des services de transports scolaires dans ce nouveau périmètre. 
 
 Un décret en Conseil d'Etat détermine les procédures d'arbitrage par le représentant de l'Etat dans le département en cas de
 litige. En ce qui concerne les modalités financières du transfert, l'arbitrage du représentant de l'Etat dans le département
 prend en compte le montant des dépenses effectuées par le département au titre des compétences transférées à l'autorité
-compétente pour l'organisation des transports urbains au cours de l'année scolaire précédant le transfert.
+compétente pour l'organisation des transports urbains au cours de l'année scolaire précédant le transfert, de sorte que soit
+assurée la compensation intégrale des moyens nécessaires à l'exercice de la compétence transférée. 
 
 Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire,
 au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de
@@ -3905,10 +3906,6 @@ transport des élèves et étudiants gravement handicapés, des élèves des éc
 zones de montagne s'effectue dans les conditions prévues par le code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°82-1153 1982-12-30 art. 29
 
 	**Cité par**:
 
@@ -3937,8 +3934,12 @@ zones de montagne s'effectue dans les conditions prévues par le code général 
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 34 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-809 du 13 août 2004 - art. 90 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 28 () JORF 6 janvier 2006
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L3111-7 (V)
+	  - Code des transports - art. L3111-8 (V)
 
 
 ###### Article L213-12
@@ -13314,28 +13315,36 @@ présent article, les termes : " autorité académique " désignent le service r
 
 ###### Article L421-21
 
-Les élèves des lycées professionnels maritimes sont assurés, en cas d'accident, de maladie et d'invalidité, par la caisse
-générale de prévoyance des marins, dans des conditions et selon des modalités fixées par arrêté du ministre chargé de la mer.
+Les élèves des lycées professionnels maritimes sont assurés, en cas d'accident, de maladie, de maternité et d'invalidité, par
+la caisse générale de prévoyance des marins, dans des conditions et selon des modalités fixées par arrêté du ministre chargé
+de la mer. 
 
 Les périodes de présence des élèves dans les lycées professionnels maritimes entrent en compte pour la détermination des
-droits des marins et de leurs familles à l'assurance de la caisse générale de prévoyance, par application des articles 29,
-37, 39 et 45 du décret-loi du 17 juin 1938 relatif à la réorganisation et à l'unification du régime d'assurance des marins.
+droits des marins et de leurs familles à l'assurance de la caisse générale de prévoyance, par application des articles 29,37
+,39 et 45 du décret-loi du 17 juin 1938 relatif à la réorganisation et à l'unification du régime d'assurance des marins.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret-loi du 17 juin 1938 - art. 29 (V)
+	  - Décret-loi du 17 juin 1938 - art. 37 (V)
+	  - Décret-loi du 17 juin 1938 - art. 39 (V)
+	  - Décret-loi du 17 juin 1938 - art. 45 (V)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 45 () JORF 6 janvier 2006
+
 	**Cité par**:
 
 	  - Arrêté du 27 février 2014 (V)
 	  - Code de l'éducation - art. L757-1 (V)
-
-	**Cite**:
-
-	  - Décret-loi 1938-06-17 art. 29, art. 37, art. 39, art. 45
 
 	**Anciens textes**:
 
@@ -25665,6 +25674,8 @@ suivant la nature de la formation.
 
 Les règles d'administration des écoles de la marine marchande sont fixées par décret en Conseil d'Etat.
 
+Les dispositions de l'article L. 421-21 sont applicables aux élèves des écoles de la marine marchande.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -25674,12 +25685,12 @@ Les règles d'administration des écoles de la marine marchande sont fixées par
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 94 I, II JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-809 du 13 août 2004 - art. 94 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 45 () JORF 6 janvier 2006
 
 	**Cite**:
 
-	  - Code de l'éducation L715-1 à L715-3
+	  - Code de l'éducation - art. L421-21 (M)
+	  - Code de l'éducation L715-1 à L715-3, L421-21
 
 
 ##### Chapitre VIII : La Fondation nationale des sciences politiques.
