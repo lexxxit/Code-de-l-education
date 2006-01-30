@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-01-31
 
 # Partie législative
 
@@ -36184,6 +36184,27 @@ conseil par le ministre chargé de l'éducation nationale.
 	**Créé par**:
 
 	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
+
+	**Abrogé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
+
+
+###### Article D230-7
+
+Le président du Haut Conseil de l'éducation est ordonnateur principal des recettes et des dépenses du Haut Conseil de
+l'éducation. Il peut donner délégation de signature au secrétaire général du Haut Conseil pour signer tous les actes relatifs
+à sa fonction d'ordonnateur principal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-89 du 24 janvier 2006 - art. 1 () JORF 31 janvier 2006
 
 	**Abrogé par**:
 
