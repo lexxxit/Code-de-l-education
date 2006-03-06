@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-02-17
+Version Consolidée au 2006-03-07
 
 # Partie législative
 
@@ -40875,12 +40875,19 @@ e) Le délégué général à l'emploi et à la formation professionnelle ou son
 
 f) Le directeur du Centre d'études et de recherches sur les qualifications ou son représentant ;
 
-g) Le commissaire au Plan ou son représentant ;
+g) Le directeur général du Centre d'analyse stratégique ou son représentant ;
 
 h) Le directeur de l'Agence nationale pour l'emploi ou son représentant ;
 
 4° Quatorze personnalités qualifiées choisies pour leur compétence en matière d'éducation, d'économie et d'emploi. Le
 président du haut comité est choisi par le ministre chargé de l'éducation parmi ces personnalités qualifiées.
+
+**Nota:**
+
+Conformément à l'article 14 du décret n° 2008-1010 les dispositions introduites par l'article 7 dudit décret entrent en
+vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008. Cette date correspond à la date de la
+première réunion du conseil d'administration de l'institution prévue à l'article L. 5312-1 du code du travail. La création de
+pôle emploi est effective depuis le 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -40892,6 +40899,10 @@ président du haut comité est choisi par le ministre chargé de l'éducation pa
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
 
 
 ###### Article D237-4
