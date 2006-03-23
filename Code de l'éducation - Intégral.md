@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-03-07
+Version Consolidée au 2006-03-24
 
 # Partie législative
 
@@ -4528,13 +4528,14 @@ dotation générale de décentralisation. "
 ###### Article L214-12
 
 La région définit et met en oeuvre la politique régionale d'apprentissage et de formation professionnelle des jeunes et des
-adultes à la recherche d'un emploi ou d'une nouvelle orientation professionnelle.
+adultes à la recherche d'un emploi ou d'une nouvelle orientation professionnelle. 
 
 Elle organise sur son territoire le réseau des centres et points d'information et de conseil sur la validation des acquis de
-l'expérience et contribue à assurer l'assistance aux candidats à la validation des acquis de l'expérience.
+l'expérience et contribue à assurer l'assistance aux candidats à la validation des acquis de l'expérience. 
 
-Elle organise des actions destinées à répondre aux besoins d'apprentissage et de formation. Elle veille en particulier à
-organiser des formations permettant d'acquérir une des qualifications mentionnées à l'article L. 900-3 du code du travail.
+Elle organise des actions destinées à répondre aux besoins d'apprentissage et de formation en favorisant un accès équilibré
+des femmes et des hommes aux différentes filières de formation. Elle veille en particulier à organiser des formations
+permettant d'acquérir une des qualifications mentionnées à l'article L. 900-3 du code du travail. 
 
 Elle assure l'accueil en formation de la population résidant sur son territoire, ou dans une autre région si la formation
 désirée n'y est pas accessible. Dans ce dernier cas, une convention fixe les conditions de prise en charge de la formation
@@ -4570,11 +4571,11 @@ par les régions concernées.
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 8 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2006-340 du 23 mars 2006 - art. 27 () JORF 24 mars 2006
 
 	**Cite**:
 
-	  - Code du travail - art. L900-3 (M)
+	  - Code du travail - art. L900-3 (Ab)
 
 
 ###### Article L214-12-1
@@ -4602,7 +4603,8 @@ professionnelle et d'apprentissage des Français établis hors de France.
 
 I. - La région adopte le plan régional de développement des formations professionnelles et s'assure de sa mise en oeuvre. Ce
 plan a pour objet de définir une programmation à moyen terme des actions de formation professionnelle des jeunes et des
-adultes et de favoriser un développement cohérent de l'ensemble des filières de formation.
+adultes et de favoriser un développement cohérent de l'ensemble des filières de formation en favorisant un accès équilibré
+des femmes et des hommes à chacune de ces filières de formation.
 
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
@@ -4622,7 +4624,8 @@ maritimes et des établissements d'enseignement agricole prévu à l'article L. 
 agricole, au schéma prévisionnel national des formations de l'enseignement agricole prévu à l'article L. 814-2 du code rural.
 
 II. - Le plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre l'ensemble
-des filières de formation des jeunes préparant l'accès à l'emploi. Il inclut le cycle d'enseignement professionnel initial
+des filières de formation des jeunes préparant l'accès à l'emploi et veille à assurer une représentation équilibrée des
+femmes et des hommes dans ces filières de formation professionnelle. Il inclut le cycle d'enseignement professionnel initial
 dispensé par les établissements d'enseignement artistique.
 
 Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations sociales et schéma régional des formations
@@ -4650,6 +4653,9 @@ cas échéant, les organismes mentionnés à l'article L. 351-21 du code du trav
 objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
 formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
 être annuels ou pluriannuels.
+
+Ces contrats déterminent notamment les objectifs qui concourent à favoriser une représentation équilibrée des femmes et des
+hommes dans les métiers auxquels préparent les différentes voies de formation professionnelle initiale et continue.
 
 Les chambres de métiers, les chambres de commerce et d'industrie et les chambres d'agriculture peuvent être associées aux
 contrats d'objectifs.
@@ -4683,7 +4689,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 32 () JORF 19 janvier 2005
+	  - Loi n°2006-340 du 23 mars 2006 - art. 27 () JORF 24 mars 2006
 
 	**Cité par**:
 
