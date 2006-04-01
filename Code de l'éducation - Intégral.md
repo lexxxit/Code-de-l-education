@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-03-24
+Version Consolidée au 2006-04-02
 
 # Partie législative
 
@@ -18,6 +18,8 @@ et des étudiants. Il contribue à l'égalité des chances.
 
 Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les
 valeurs de la République.
+
+L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue française.
 
 Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs.
 
@@ -66,7 +68,7 @@ origine sociale, culturelle ou géographique.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 2 () JORF 24 avril 2005
+	  - Loi n°2006-396 du 31 mars 2006 - art. 1 () JORF 2 avril 2006
 
 
 ###### Article L111-2
@@ -1639,6 +1641,9 @@ connaître les motifs d'absence de l'enfant ou qu'ils ont donné des motifs d'ab
 
 2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois.
 
+L'inspecteur d'académie saisit le président du conseil général des situations qui lui paraissent justifier la mise en place
+d'un contrat de responsabilité parentale prévu à l'article L. 222-4-1 du code de l'action sociale et des familles.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -1659,6 +1664,10 @@ connaître les motifs d'absence de l'enfant ou qu'ils ont donné des motifs d'ab
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
+
 	**Anciens textes**:
 
 	  - Loi n°1882-03-28 art. 10
@@ -1668,7 +1677,8 @@ connaître les motifs d'absence de l'enfant ou qu'ils ont donné des motifs d'ab
 ###### Article L131-9
 
 L'inspecteur d'académie saisit le procureur de la République des faits constitutifs d'infraction aux dispositions du présent
-chapitre.
+chapitre, sauf dans le cas où il a sollicité du président du conseil général la mise en oeuvre d'un contrat de responsabilité
+parentale.
 
 **Liens relatifs à cet article**
 
@@ -1681,6 +1691,10 @@ chapitre.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
 
 
 ###### Article L131-10
@@ -10912,19 +10926,45 @@ les professions.
 
 ###### Article L337-3
 
-Les plans régionaux de développement des formations professionnelles des jeunes mentionnés à l'article L. 214-13 du présent
-code prévoient l'ouverture de classes d'initiation préprofessionnelle en alternance dans les lycées professionnels et les
-centres de formation d'apprentis ou dans les collèges disposant d'une équipe enseignante et de moyens adaptés.
+Les élèves ayant atteint l'âge de quatorze ans peuvent être admis, sur leur demande et celle de leurs représentants légaux, à
+suivre une formation alternée, dénommée "formation d'apprenti junior", visant à l'obtention, par la voie de l'apprentissage,
+d'une qualification professionnelle dans les conditions prévues au titre Ier du livre Ier du code du travail. Cette formation
+comprend un parcours d'initiation aux métiers effectué sous statut scolaire dans un lycée professionnel ou un centre de
+formation d'apprentis, puis une formation en apprentissage.
 
-Ces classes accueillent, à partir de l'âge de quatorze ans, des élèves sous statut scolaire qui choisissent d'acquérir une
-préqualification professionnelle par la voie de la formation en alternance.
+Une fois l'admission à la formation acquise, l'équipe pédagogique élabore, en association avec l'élève et ses représentants
+légaux, un projet pédagogique personnalisé. Un tuteur, désigné au sein de l'équipe pédagogique, est chargé de son suivi. Il
+accompagne l'apprenti junior tout au long de sa formation, y compris lors des périodes en entreprise, en liaison avec le
+tuteur en entreprise ou le maître d'apprentissage.
 
-Lorsque les classes d'initiation préprofessionnelle en alternance sont ouvertes dans les centres de formation d'apprentis,
-les charges qui en résultent pour les régions sont compensées selon les modalités définies à l'article L. 1614-3 du code
-général des collectivités territoriales.
+Les élèves suivant une formation d'apprenti junior peuvent, à tout moment, après avis de l'équipe pédagogique et avec
+l'accord de leurs représentants légaux et jusqu'à la fin de la scolarité obligatoire mentionnée à l'article L. 131-1, mettre
+fin à cette formation et reprendre leur scolarité dans un collège, y compris leur collège d'origine, ou un établissement
+d'enseignement agricole ou maritime. A l'issue de la première période de formation, ils peuvent également demander à
+poursuivre le parcours d'initiation aux métiers si leur projet professionnel n'est pas suffisamment abouti pour leur
+permettre de signer un contrat d'apprentissage.
 
-A l'issue de cette formation, les élèves peuvent être orientés vers une formation en alternance sous contrat de travail de
-type particulier, ou sous statut scolaire.
+Le parcours d'initiation aux métiers comporte des enseignements généraux, des enseignements technologiques et pratiques et
+des stages en milieu professionnel, et ce dans plusieurs entreprises. L'ensemble de ces activités concourt à l'acquisition du
+socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 et permet à l'élève de découvrir plusieurs
+métiers et de préparer son choix.
+
+Les stages en milieu professionnel se déroulent dans les conditions prévues à l'article L. 331-5. Lorsque leur durée excède
+une durée minimale fixée par décret, ils donnent lieu au versement, par les entreprises au sein desquelles ils sont
+effectués, d'une gratification dont le montant est fixé par décret. Cette gratification, d'ordre financier, n'a pas le
+caractère d'un salaire au sens de l'article L. 140-2 du code du travail.
+
+L'élève stagiaire en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat
+d'apprentissage à partir de l'âge de quinze ans, à la condition qu'il soit jugé apte à poursuivre l'acquisition, par la voie
+de l'apprentissage, du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 dans la perspective
+d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au
+répertoire national des certifications professionnelles.
+
+L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est
+inscrite au plan régional de développement des formations professionnelles mentionné à l'article L. 214-13.
+
+Les dépenses de transport scolaire spécifiquement liées à la formation de l'apprenti junior sous statut scolaire donnent lieu
+à une compensation au département par l'Etat, dans des conditions fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -10938,10 +10978,9 @@ type particulier, ou sous statut scolaire.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L1614-3 (M)
-	  - Code de l'éducation - art. L214-13 (M)
+	  - Loi n°2006-396 du 31 mars 2006 - art. 2 () JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -10961,6 +11000,14 @@ type particulier, ou sous statut scolaire.
 	  - Code général des impôts, CGI. - art. 244 quater G (VD)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. L122-1-1 (V)
+	  - Code de l'éducation - art. L131-1 (V)
+	  - Code de l'éducation - art. L214-13 (M)
+	  - Code de l'éducation - art. L331-5 (M)
+	  - Code du travail - art. L140-2 (M)
+
 
 ###### Article L337-4
 
@@ -10971,9 +11018,8 @@ reproduites :
 
 L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à des jeunes travailleurs ayant satisfait à
 l'obligation scolaire une formation générale, théorique et pratique, en vue de l'obtention d'une qualification
-professionnelle sanctionnée par un diplôme de l'enseignement professionnel ou technologique du second degré ou du supérieur
-ou un ou plusieurs titres d'ingénieurs ou titres homologués dans les conditions prévues aux articles L. 335-5 et L. 335-6 du
-code de l'éducation.
+professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire nationale des
+certifications professionnelles, dans les conditions prévues à l'article L. 335-6 du code de l'éducation.
 
 L'apprentissage fait l'objet d'un contrat conclu entre un apprenti ou son représentant légal et un employeur. Il associe une
 formation dans une ou plusieurs entreprises, fondée sur l'exercice d'une ou plusieurs activités professionnelles en relation
@@ -10985,15 +11031,16 @@ temporairement l'apprenti est fixé par le décret mentionné à l'article L. 11
 Les enseignements mentionnés à l'alinéa précédent peuvent être également dispensés dans un établissement d'enseignement
 public ou privé sous contrat ou dans des établissements de formation et de recherche relevant d'autres ministères :
 
-1° Soit dans les conditions prévues par une convention, dont le contenu est fixé par décret, conclue entre cet établissement,
-toute personne morale visée au premier alinéa de l'article L. 116-2 et la région ;
+1° Soit au sein d'une section d'apprentissage créée dans les conditions prévues par une convention, dont le contenu est fixé
+par décret, conclue entre cet établissement, toute personne morale visée au premier alinéa de l'article L. 116-2 et la
+région ;
 
-2° Soit dans le cadre d'une convention dont le contenu est fixé par décret entre cet établissement et un centre de formation
-d'apprentis créé par convention selon les dispositions de l'article L. 116-2 entre une région et une association constituée
-au niveau régional par une organisation professionnelle ou interprofessionnelle, une chambre régionale de commerce et
-d'industrie, une chambre régionale de métiers, une chambre régionale d'agriculture ou un groupement d'entreprises en vue de
-développer les formations en apprentissage. La création de cette association est subordonnée à un avis favorable motivé du
-comité de la formation professionnelle, de la promotion sociale et de l'emploi.
+2° Soit au sein d'une unité de formation par apprentissage créée dans le cadre d'une convention dont le contenu est fixé par
+décret entre cet établissement et un centre de formation d'apprentis créé par convention selon les dispositions de l'article
+L. 116-2, notamment entre une région et une association constituée au niveau régional par une organisation professionnelle ou
+interprofessionnelle, une chambre régionale de métiers, une chambre régionale d'agriculture ou un groupement d'entreprises en
+vue de développer les formations en apprentissage. La création de cette association est subordonnée à un avis favorable
+motivé du comité de coordination régional de l'emploi et de la formation professionnelle.
 
 Les conventions mentionnées aux cinquième et sixième alinéas sont passées avec les établissements en application du plan
 régional de développement des formations professionnelles des jeunes mentionné à l'article L. 214-13 du code de l'éducation.
@@ -11007,9 +11054,12 @@ contrat. Elle peut varier, sous réserve des dispositions de l'article L. 117-9,
 les conditions prévues par le décret mentionné à l'article L. 119-4, en fonction du type de profession et du niveau de
 qualification préparés.
 
-En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prend fin, à l'initiative
-du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum deux mois
-auparavant.
+Cette durée peut être adaptée pour tenir compte du niveau initial de compétence de l'apprenti. Elle est alors fixée par les
+cocontractants en fonction de l'évaluation des compétences et après autorisation du service de l'inspection de
+l'apprentissage compétent mentionné à l'article L. 119-1. Cette autorisation est réputée acquise lorsque le contrat
+d'apprentissage est conclu dans le cadre de la formation mentionnée à l'article L. 337-3 du code de l'éducation. Dans le cas
+de l'enseignement supérieur, l'autorisation du service de l'inspection de l'apprentissage est facultative si un avis
+favorable a été émis par le président d'université ou le chef d'établissement d'enseignement supérieur.
 
 L'évaluation des compétences mentionnée à l'alinéa précédent est obligatoire et préalable à la signature du contrat lorsque
 la date du début de l'apprentissage se situe en dehors de la période mentionnée à l'article L. 117-13.
@@ -11037,7 +11087,8 @@ arrêtées, après avis du comité de coordination régional de l'emploi et de l
 régional lorsque celui-ci est signataire de la convention.
 
 En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à
-l'initiative du salarié, avant le terme fixé initialement.
+l'initiative du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum
+deux mois auparavant.
 
 Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs pour préparer des diplômes ou titres
 sanctionnant des qualifications différentes.
@@ -11056,7 +11107,7 @@ Il n'est exigé aucune condition de délai entre deux contrats."
 
 	**Modifié par**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 17 () JORF 19 janvier 2005
+	  - Loi n°2006-396 du 31 mars 2006 - art. 3 () JORF 2 avril 2006
 
 	**Cité par**:
 
@@ -11064,12 +11115,15 @@ Il n'est exigé aucune condition de délai entre deux contrats."
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-13 (M)
-	  - Code de l'éducation - art. L335-5 (M)
-	  - Code de l'éducation - art. L335-6 (M)
-	  - Code de l'éducation L335-5, L335-6, L116-1-1, L119-4, L116-2, L214-13, L116-7, L116-8, L116-5, L116-6, L117-9
+	  - Code de l'éducation - art. L337-3 (M)
 	  - Code du travail - art. L115-1 (M)
 	  - Code du travail - art. L115-2 (M)
+	  - Code du travail - art. L116-2 (M)
+	  - Code du travail - art. L116-3 (M)
+	  - Code du travail - art. L117-13 (M)
+	  - Code du travail - art. L117-9 (M)
+	  - Code du travail - art. L119-4 (M)
+	  - Code du travail - art. L323-10 (M)
 
 
 #### Titre IV : L'enseignement agricole et maritime
@@ -14009,7 +14063,7 @@ pédagogique des enseignements dispensés.
 Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet de conventions conclues avec l'Etat, dans le
 cas des centres à recrutement national, ou conclues avec la région, dans tous les autres cas, par les organismes de formation
 gérés paritairement par les organisations professionnelles d'employeurs et les syndicats de salariés, les collectivités
-territoriales, les établissements publics, les chambres de commerce et d'industrie, les chambres des métiers, les chambres
+locales, les établissements publics, les chambres de commerce et d'industrie, les chambres des métiers, les chambres
 d'agriculture, les établissements d'enseignement privés sous contrat, les organisations professionnelles ou
 interprofessionnelles représentatives d'employeurs, les associations, les entreprises ou leurs groupements, ou toute autre
 personne physique ou morale.
@@ -14051,8 +14105,9 @@ Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle p
 et financier de l'Etat pour les centres à recrutement national, de la région pour les autres centres.
 
 Si ces contrôles révèlent des insuffisances graves ou des manquements aux obligations résultant du présent code et des textes
-pris pour son application ou de la convention, celle-ci peut être dénoncée par l'Etat ou la région après mise en demeure non
-suivie d'effet.
+pris pour son application, ou de la convention, celle-ci peut être dénoncée par l'Etat ou la région après mise en demeure non
+suivie d'effet. Dans le cadre de ces contrôles, il est procédé à l'évaluation de l'application du premier alinéa de l'article
+L. 122-45 à l'occasion du recrutement des apprentis.
 
 Cette dénonciation entraîne la fermeture du centre. L'Etat ou la région peut imposer à l'organisme gestionnaire l'achèvement
 des formations en cours dans les conditions fixées par le décret prévu à l'article L. 119-4 ci-après.
@@ -14071,12 +14126,6 @@ précédent.
 Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les centres de formation d'apprentis ne sont pas
 soumis aux dispositions du titre IV du Livre IV du code de l'éducation.
 
-**Nota:**
-
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Ces dispositions sont applicables à compter de la date de publication du
-décret d'application prévu au quatrième alinéa de l'article L910-1 du code du travail. Ce décret est le décret n° 2005-180 du
-24 février 2005 publié le 26 février 2005.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -14086,7 +14135,7 @@ décret d'application prévu au quatrième alinéa de l'article L910-1 du code d
 
 	**Modifié par**:
 
-	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
+	  - Loi n°2006-396 du 31 mars 2006 - art. 5 () JORF 2 avril 2006
 
 	**Cite**:
 
@@ -18378,6 +18427,14 @@ du contrôle du ministre chargé de l'enseignement supérieur, que ces formation
 dispensant un enseignement après les études secondaires tels que les instituts universitaires de formation des maîtres et les
 lycées comportant des sections de techniciens supérieurs ou des classes préparatoires aux écoles.
 
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont ouvertes et agréées, dans chaque région, des
+classes préparatoires aux écoles ouvertes principalement aux élèves provenant d'établissements situés en zone d'éducation
+prioritaire.
+
+Les procédures d'admission peuvent être mises en oeuvre par voie de conventions conclues avec des établissements
+d'enseignement supérieur, français et étrangers, pour les associer au recrutement de leurs élèves ou étudiants par les
+établissements.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -18414,6 +18471,10 @@ lycées comportant des sections de techniciens supérieurs ou des classes prépa
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-396 du 31 mars 2006 - art. 11 () JORF 2 avril 2006
 
 
 ###### Article L611-2
