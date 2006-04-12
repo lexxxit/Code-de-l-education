@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-04-02
+Version Consolidée au 2006-04-13
 
 # Partie législative
 
@@ -38861,27 +38861,33 @@ Il est dressé procès-verbal de chacune des séances.
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
-##### Section 2 : La Conférence des directeurs d'écoles et de formations d'ingénieurs.
+##### Section 2 : La conférence des directeurs des écoles françaises d'ingénieurs
 
 ###### Article D233-7
 
-La Conférence des directeurs d'écoles et de formations d'ingénieurs regroupe tous les responsables d'établissements et
-d'écoles publics de l'enseignement supérieur habilités à délivrer le titre d'ingénieur diplômé et relevant du ministre chargé
-de l'enseignement supérieur.
+La conférence des directeurs des écoles françaises d'ingénieurs regroupe les responsables d'établissements d'enseignement
+supérieur, d'instituts ou écoles internes à ces établissements habilités à délivrer le diplôme d'ingénieur. 
 
-Le ministre chargé de l'enseignement supérieur en est président de droit. La Conférence des directeurs d'écoles et de
-formations d'ingénieurs élit en son sein des vice-présidents.
+Les directeurs des écoles d'ingénieurs autres que celles relevant du ministre chargé de l'enseignement supérieur sont, sur
+leur demande, membres de la conférence, après, le cas échéant, approbation de leur autorité de tutelle. 
+
+Les règles d'organisation et de fonctionnement de la conférence sont fixées par les articles D. 233-8 à D. 233-12 et par son
+règlement intérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°1990-09-03 art. 1
 	  - Décret n°76-93 1976-01-15 art. 1
+	  - Décret n°1990-09-03 art. 1
 
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
 
 	**Cité par**:
 
@@ -38890,15 +38896,16 @@ formations d'ingénieurs élit en son sein des vice-présidents.
 
 ###### Article D233-8
 
-La Conférence des directeurs d'écoles et de formations d'ingénieurs étudie les questions qui intéressent l'ensemble des
-écoles d'ingénieurs définies à l'article D. 233-7. Elle peut présenter au ministre chargé de l'enseignement supérieur des
-voeux et des projets relatifs à ces questions.
+La conférence des directeurs des écoles françaises d'ingénieurs a pour objet de promouvoir la mutualisation des expériences
+de ses membres, d'étudier tous sujets relatifs au métier et à la formation des ingénieurs, au développement de la recherche
+et à sa valorisation, et de valoriser le diplôme d'ingénieur dans le cadre notamment de l'Espace européen de l'enseignement
+supérieur et de la recherche.
+
+Elle peut présenter au ministre chargé de l'enseignement supérieur des voeux et des projets relatifs à ces questions.
 
 En outre, la conférence est appelée à donner des avis motivés sur les questions qui lui sont soumises par le ministre chargé
-de l'enseignement supérieur.
-
-Lorsque ces questions sont inscrites à l'ordre du jour du Conseil national de l'enseignement supérieur et de la recherche,
-l'avis de la conférence est communiqué à ce conseil.
+de l'enseignement supérieur. Lorsque ces questions sont inscrites à l'ordre du jour du Conseil national de l'enseignement
+supérieur et de la recherche, l'avis de la conférence est communiqué à ce conseil.
 
 **Liens relatifs à cet article**
 
@@ -38910,6 +38917,10 @@ l'avis de la conférence est communiqué à ce conseil.
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. D233-7 (V)
@@ -38917,11 +38928,11 @@ l'avis de la conférence est communiqué à ce conseil.
 
 ###### Article D233-9
 
-Le ministre chargé de l'enseignement supérieur préside les réunions de la Conférence des directeurs d'écoles et de formations
-d'ingénieurs. Il en fixe la date et l'ordre du jour. En son absence les réunions sont présidées par l'un des vice-présidents.
-Chaque question portée à l'ordre du jour fait l'objet d'un exposé introductif présenté par un rapporteur désigné par le
-ministre chargé de l'enseignement supérieur. La conférence peut soit se prononcer immédiatement, soit charger un ou plusieurs
-de ses membres d'élaborer le projet d'avis sur lequel elle sera appelée à statuer.
+L'assemblée générale des membres de la conférence des directeurs des écoles françaises d'ingénieurs est présidée par le
+ministre chargé de l'enseignement supérieur. Elle se réunit en formation plénière au moins deux fois par an. Ses séances ne
+sont pas publiques. Elle peut créer en son sein des commissions chargées de préparer ses débats.
+
+Il est dressé procès-verbal de chacune des séances.
 
 **Liens relatifs à cet article**
 
@@ -38933,11 +38944,20 @@ de ses membres d'élaborer le projet d'avis sur lequel elle sera appelée à sta
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
+
 
 ###### Article D233-10
 
-La Conférence des directeurs d'écoles et de formations d'ingénieurs siège en formation plénière au moins quatre fois par an.
-Ses séances ne sont pas publiques. Elle peut créer en son sein des commissions chargées de préparer ses débats.
+L'assemblée générale élit en son sein, pour un mandat de deux ans, un premier vice-président et plusieurs autres vice-
+présidents.
+
+Le premier vice-président préside l'assemblée générale en l'absence du président. Il est responsable des activités de la
+conférence des directeurs des écoles françaises d'ingénieurs.
+
+Le bureau est constitué de l'ensemble des vice-présidents.
 
 **Liens relatifs à cet article**
 
@@ -38949,13 +38969,15 @@ Ses séances ne sont pas publiques. Elle peut créer en son sein des commissions
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
+
 
 ###### Article D233-11
 
-Le ministre chargé de l'enseignement supérieur met à la disposition de la Conférence des directeurs d'écoles et de formations
-d'ingénieurs les locaux nécessaires à son fonctionnement.
-
-La conférence peut demander l'aide des services du ministère de l'enseignement supérieur.
+Le règlement intérieur de la conférence des directeurs des écoles françaises d'ingénieurs est approuvé par l'assemblée
+générale et soumis pour approbation au ministre chargé de l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
@@ -38967,12 +38989,17 @@ La conférence peut demander l'aide des services du ministère de l'enseignement
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
+
 
 ###### Article D233-12
 
-Le secrétariat des séances est assuré par les services du ministère de l'enseignement supérieur.
-
-Il est dressé procès-verbal de chacune des séances.
+La gestion financière et comptable de la conférence des directeurs des écoles françaises d'ingénieurs est assurée, dans le
+cadre d'un service à comptabilité distincte, par l'un de ses membres fixé par arrêté du ministre chargé de l'enseignement
+supérieur. Le ministre chargé de l'enseignement supérieur alloue à cet établissement les moyens nécessaires au fonctionnement
+de la conférence.
 
 **Liens relatifs à cet article**
 
@@ -38983,6 +39010,10 @@ Il est dressé procès-verbal de chacune des séances.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2006-428 du 11 avril 2006 - art. 1 () JORF 13 avril 2006
 
 
 #### Chapitre IV : Les conseils académiques de l'éducation nationale
