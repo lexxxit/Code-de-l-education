@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-04-13
+Version Consolidée au 2006-04-19
 
 # Partie législative
 
@@ -1021,7 +1021,9 @@ politique de l'emploi prenant en compte les besoins actuels et leur évolution p
 
 3° A la réduction des inégalités sociales ou culturelles et à la réalisation de l'égalité entre les hommes et les femmes en
 assurant à toutes celles et à tous ceux qui en ont la volonté et la capacité l'accès aux formes les plus élevées de la
-culture et de la recherche.
+culture et de la recherche ;
+
+4° A la construction de l'espace européen de la recherche et de l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
@@ -1033,6 +1035,10 @@ culture et de la recherche.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 41 () JORF 19 avril 2006
 
 	**Cité par**:
 
@@ -1156,36 +1162,39 @@ leurs études.
 ###### Article L123-5
 
 Le service public de l'enseignement supérieur s'attache à développer et à valoriser, dans toutes les disciplines et,
-notamment, les sciences humaines et sociales, la recherche fondamentale, la recherche appliquée et la technologie.
+notamment, les sciences humaines et sociales, la recherche fondamentale, la recherche appliquée et la technologie. 
 
 Il assure la liaison nécessaire entre les activités d'enseignement et de recherche. Il offre un moyen privilégié de formation
-à la recherche et par la recherche.
+à la recherche et par la recherche. 
 
 Il participe à la politique de développement scientifique et technologique, reconnue comme priorité nationale, en liaison
 avec les grands organismes nationaux de recherche. Il contribue à la mise en oeuvre des objectifs définis par le code de la
-recherche.
+recherche. 
 
 Il concourt à la politique d'aménagement du territoire par l'implantation et le développement dans les régions d'équipes de
-haut niveau scientifique. Il renforce les liens avec les secteurs socio-économiques publics et privés.
+haut niveau scientifique. Il renforce les liens avec les secteurs socio-économiques publics et privés. 
 
 Il améliore le potentiel scientifique de la nation en encourageant les travaux des jeunes chercheurs et de nouvelles équipes
 en même temps que ceux des formations confirmées, en favorisant les rapprochements entre équipes relevant de disciplines
 complémentaires ou d'établissements différents, en développant diverses formes d'association avec les grands organismes
 publics de recherche, en menant une politique de coopération et de progrès avec la recherche industrielle et l'ensemble des
-secteurs de la production.
+secteurs de la production. 
 
-Les conditions dans lesquelles les établissements qui participent à ce service public assurent, par voie de convention, des
-prestations de services, exploitent des brevets et licences et commercialisent les produits de leurs activités sont fixées
-par leurs statuts. En vue de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par
-convention et pour une durée limitée avec information de l'instance scientifique compétente, fournir à des entreprises ou à
-des personnes physiques des moyens de fonctionnement, notamment en mettant à leur disposition des locaux, des équipements et
-des matériels, dans des conditions fixées par décret ; ce décret définit en particulier les prestations de services qui
-peuvent faire l'objet de ces conventions, les modalités de leur évaluation et celles de la rémunération des établissements.
+Les conditions dans lesquelles les établissements, pôles de recherche et d'enseignement supérieur et réseaux thématiques de
+recherche avancée qui participent à ce service public assurent, par voie de convention, des prestations de services,
+exploitent des brevets et licences et commercialisent les produits de leurs activités sont fixées par leurs statuts. En vue
+de la valorisation des résultats de la recherche dans leurs domaines d'activité, ils peuvent, par convention et pour une
+durée limitée avec information de l'instance scientifique compétente, fournir à des entreprises ou à des personnes physiques
+des moyens de fonctionnement, notamment en mettant à leur disposition des locaux, des équipements et des matériels, dans des
+conditions fixées par décret ; ce décret définit en particulier les prestations de services qui peuvent faire l'objet de ces
+conventions, les modalités de leur évaluation et celles de la rémunération des établissements, pôles de recherche et
+d'enseignement supérieur et réseaux thématiques de recherche avancée. 
 
-Les activités mentionnées au précédent alinéa peuvent être gérées par des services d'activités industrielles et commerciales.
-Pour le fonctionnement de ces services et la réalisation de ces activités, les établissements peuvent recruter, dans des
-conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des agents non titulaires par des contrats de droit
-public à durée déterminée ou indéterminée.
+Les activités mentionnées au précédent alinéa peuvent être gérées par des services d'activités industrielles et commerciales
+dans les conditions fixées par l'article L. 714-1. Pour le fonctionnement de ces services et la réalisation de ces activités,
+les établissements, pôles de recherche et d'enseignement supérieur et réseaux thématiques de recherche avancée peuvent
+recruter, dans des conditions définies, en tant que de besoin, par décret en Conseil d'Etat, des agents non titulaires par
+des contrats de droit public à durée déterminée ou indéterminée.
 
 **Liens relatifs à cet article**
 
@@ -1218,7 +1227,11 @@ public à durée déterminée ou indéterminée.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2004-545 du 11 juin 2004 - art. 4 () JORF 16 juin 2004
+	  - loi n°2006-450 du 18 avril 2006 - art. 22 () JORF 19 avril 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L714-1 (V)
 
 
 ###### Article L123-6
@@ -7545,13 +7558,13 @@ l'extension des locaux ".
 ###### Article L261-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à
-L. 232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+L. 232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4 et L. 242-1.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à compter de
+l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de la recherche
+et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7568,16 +7581,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 55 () JORF 24 avril 2005
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L216-10 (V)
-	  - Code de l'éducation - art. L233-1 (M)
-	  - Code de l'éducation - art. L236-1 (V)
-	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation - art. L242-2 (Ab)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
 
 
 ###### Article L261-2
@@ -7610,13 +7614,14 @@ nationale et de la recherche ;
 ###### Article L262-1
 
 Sont applicables à Mayotte les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1,
-L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+L. 241-1 à L. 241-4, et L. 242-1.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
+compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
+la recherche et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31
+décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7635,15 +7640,14 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 63 () JORF 24 avril 2005
+	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L216-10 (V)
 	  - Code de l'éducation - art. L236-1 (V)
 	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation - art. L242-2 (Ab)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1, L242-2
+	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1
 
 
 ###### Article L262-2
@@ -7704,13 +7708,14 @@ nationale et de la recherche ;
 ###### Article L263-1
 
 Sont applicables en Polynésie française les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
+compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
+la recherche et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31
+décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7729,7 +7734,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 71 () JORF 24 avril 2005
+	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
 
 	**Cite**:
 
@@ -7737,8 +7742,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 	  - Code de l'éducation - art. L233-1 (M)
 	  - Code de l'éducation - art. L236-1 (V)
 	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation - art. L242-2 (Ab)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1
 
 
 ###### Article L263-2
@@ -7773,13 +7777,14 @@ nationale et de la recherche ;
 ###### Article L264-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, L. 242-1 et L. 242-2.
+232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
+compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
+la recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche et au plus tard le 31
+décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -7798,7 +7803,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 78 () JORF 24 avril 2005
+	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
 
 	**Cite**:
 
@@ -7806,8 +7811,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 	  - Code de l'éducation - art. L233-1 (M)
 	  - Code de l'éducation - art. L236-1 (V)
 	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation - art. L242-2 (Ab)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1, L242-2
+	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1
 
 
 ###### Article L264-2
@@ -18852,15 +18856,26 @@ compte l'évolution prévisible des qualifications et des besoins, qui font l'ob
 
 ###### Article L612-7
 
-Le troisième cycle est une formation à la recherche et par la recherche, qui comporte la réalisation individuelle ou
-collective de travaux scientifiques originaux. Il comprend des formations professionnelles de haut niveau intégrant en
-permanence les innovations scientifiques et techniques.
+Le troisième cycle est une formation par la recherche qui comporte, dans le cadre de formations doctorales, la réalisation
+individuelle ou collective de travaux scientifiques originaux. Ces formations doctorales sont organisées en étroite liaison
+avec des laboratoires ou équipes de recherche dont la qualité est reconnue par une évaluation nationale périodique. Elles
+prennent en compte les besoins de la politique nationale de recherche et d'innovation et comportent une ouverture
+internationale. Elles constituent une expérience professionnelle de recherche, sanctionnée, après soutenance de thèse, par la
+collation du grade de docteur.
 
-Le titre de docteur est conféré après la soutenance d'une thèse ou la présentation d'un ensemble de travaux scientifiques
+Les formations doctorales sont organisées dans le cadre d'écoles doctorales dans des conditions fixées par arrêté du ministre
+chargé de l'enseignement supérieur. Elles comprennent un encadrement scientifique personnalisé de la meilleure qualité ainsi
+qu'une formation collective comportant des enseignements, séminaires ou stages destinés à conforter la culture scientifique
+des étudiants, à préparer leur insertion professionnelle dans le secteur public comme dans le secteur privé et à favoriser
+leur ouverture internationale. L'arrêté du ministre chargé de l'enseignement supérieur définit les conditions dans lesquelles
+un établissement d'enseignement supérieur peut être habilité, pour une durée limitée, à organiser des formations doctorales
+et à délivrer le doctorat à la suite d'une évaluation nationale périodique.
+
+Le diplôme de doctorat est délivré après la soutenance d'une thèse ou la présentation d'un ensemble de travaux scientifiques
 originaux. Cette thèse ou ces travaux peuvent être individuels ou, si la discipline le justifie, collectifs, déjà publiés ou
 inédits. Dans le cas où la thèse ou les travaux résultent d'une contribution collective, le candidat doit rédiger et soutenir
-un mémoire permettant d'apprécier sa part personnelle. Le titre de docteur est accompagné de la mention de l'université qui
-l'a délivré.
+un mémoire permettant d'apprécier sa part personnelle. Le diplôme de doctorat est accompagné de la mention de l'établissement
+qui l'a délivré ; il confère à son titulaire le titre de docteur.
 
 L'aptitude à diriger des recherches est sanctionnée par une habilitation délivrée dans des conditions fixées par arrêté du
 ministre chargé de l'enseignement supérieur.
@@ -18941,6 +18956,11 @@ ministre chargé de l'enseignement supérieur.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 41 () JORF 19 avril 2006
+	  - loi n°2006-450 du 18 avril 2006 - art. 42 () JORF 19 avril 2006
 
 
 ##### Chapitre III : Collation des grades et titres universitaires
@@ -21800,10 +21820,10 @@ conforme des conseils d'administration des établissements et à l'accord de leu
 
 ###### Article L711-7
 
-Les établissements déterminent, par délibérations statutaires prises à la majorité des deux tiers des membres en exercice du
-conseil d'administration, leurs statuts et leurs structures internes conformément aux dispositions du présent code et des
-décrets pris pour son application et dans le respect d'une équitable représentation dans les conseils de chaque grand secteur
-de formation.
+Les établissements déterminent, par délibérations statutaires du conseil d'administration prises à la majorité des deux tiers
+des membres présents ou représentés, celle-ci représentant au moins la moitié des membres en exercice, leurs statuts et leurs
+structures internes conformément aux dispositions du présent code et des décrets pris pour son application et dans le respect
+d'une équitable représentation dans les conseils de chaque grand secteur de formation.
 
 Les statuts sont transmis au ministre chargé de l'enseignement supérieur.
 
@@ -21885,6 +21905,10 @@ Les statuts sont transmis au ministre chargé de l'enseignement supérieur.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 40 () JORF 19 avril 2006
 
 
 ###### Article L711-8
@@ -25977,6 +26001,39 @@ biens.
 	  - Code général des impôts, CGI. - art. 1382 D (V)
 
 
+###### Article L762-3
+
+Dans les conditions prévues à l'article L. 321-6 du code de la recherche, les établissements publics d'enseignement supérieur
+ainsi que, le cas échéant, les pôles de recherche et d'enseignement supérieur et les réseaux thématiques de recherche avancée
+peuvent confier par convention à des personnes morales de droit privé les activités mentionnées à l'article L. 321-5 du même
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - n°2006-450 du 18 avril 2006 - art. 21 () JORF 19 avril 2006
+
+	**Cité par**:
+
+	  - Décret n°2008-510 du 28 mai 2008 - art. 1 (V)
+	  - Décret n°2014-1518 du 16 décembre 2014 - art. 4 (V)
+	  - Décret n°2014-1518 du 16 décembre 2014 - art. 8
+	  - Code de la propriété intellectuelle - art. R611-13 (Ab)
+	  - Code de la propriété intellectuelle - art. R811-1-1 (V)
+	  - Code général des impôts, CGI. - art. 244 quater B (V)
+
+	**Cite**:
+
+	  - Code de la recherche - art. L321-5 (V)
+	  - Code de la recherche - art. L321-6 (V)
+
+
 #### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
 
 ##### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.
@@ -29418,6 +29475,32 @@ télématique, jusqu'à une date limite fixée par arrêté, fait foi, à défau
 	  - Code de l'éducation - art. L971-1 (V)
 	  - Code de l'éducation - art. L973-1 (V)
 	  - Code de l'éducation - art. L974-1 (V)
+
+
+###### Article L952-14-1
+
+Dans le respect des dispositions de l'article 432-12 du code pénal, et par dérogation à l'interdiction d'exercer à titre
+professionnel une activité privée lucrative fixée au premier alinéa de l'article 25 de la loi n° 83-634 du 13 juillet 1983
+portant droits et obligations des fonctionnaires, les enseignants-chercheurs autorisés à accomplir une période de service à
+temps partiel peuvent être autorisés à exercer, en sus de leurs fonctions, une activité dans une entreprise exerçant une ou
+plusieurs des missions définies à l'article L. 952-3.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 25 (M)
+	  - Code pénal - art. 432-12 (M)
+	  - Code de l'éducation - art. L952-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - n°2006-450 du 18 avril 2006 - art. 18 () JORF 19 avril 2006
 
 
 ##### Section 2 : Dispositions particulières.
