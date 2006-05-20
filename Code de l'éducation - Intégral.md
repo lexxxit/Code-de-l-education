@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-05-10
+Version Consolidée au 2006-05-21
 
 # Partie législative
 
@@ -35016,17 +35016,25 @@ Le nombre d'élèves pris en compte pour le calcul de la contribution est le nom
 
 ###### Article R221-1
 
-L'administration centrale est organisée conformément aux dispositions du décret n° 2003-317 du 7 avril 2003.
+L'administration centrale est organisée conformément aux dispositions du décret n° 2006-572 du 17 mai 2006.
+
+**Nota:**
+
+Le décret n° 2006-572 du 17 mai 2006 a été abrogé par l'article 15 du décret n° 2014-133 du 15 février 2014.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2003-317 2003-04-07
 
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Cite**:
+
+	  - Décret n°2006-572 du 17 mai 2006 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2006-572 du 17 mai 2006 - art. 17 (VT) JORF 21 mai 2006
 
 	**Cité par**:
 
