@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-05-24
+Version Consolidée au 2006-05-25
 
 # Partie législative
 
@@ -2329,8 +2329,9 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 Sont applicables à Mayotte les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de l'article L. 111-1,
 les articles L. 111-2 à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L.
-121-5, L. 122-1, L. 122-1-1, L. 122-2, L. 122-5, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L.
-141-4, L. 141-5, L. 141-5-1, L. 141-6, L. 151-1 à L. 151-3 et L. 151-6.
+121-4, L. 122-1, L. 122-1-1, L. 122-2, L. 122-5, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L.
+141-4, L. 141-5, L. 141-5-1, L. 141-6, L. 151-1 à L. 151-3 et L. 151-6 du code de l'éducation et l'article L. 100-1 du code
+du sport.
 
 **Liens relatifs à cet article**
 
@@ -2349,29 +2350,30 @@ les articles L. 111-2 à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 62 () JORF 24 avril 2005
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L111-1 (M)
-	  - Code de l'éducation - art. L113-1 (M)
+	  - Code de l'éducation - art. L111-1 (V)
+	  - Code de l'éducation - art. L111-2 (V)
+	  - Code de l'éducation - art. L112-1 (V)
+	  - Code de l'éducation - art. L113-1 (V)
+	  - Code de l'éducation - art. L121-1 (V)
 	  - Code de l'éducation - art. L122-1 (T)
 	  - Code de l'éducation - art. L122-1-1 (V)
-	  - Code de l'éducation - art. L122-2 (M)
+	  - Code de l'éducation - art. L122-2 (V)
 	  - Code de l'éducation - art. L122-5 (V)
 	  - Code de l'éducation - art. L131-1 (V)
 	  - Code de l'éducation - art. L131-1-1 (V)
-	  - Code de l'éducation - art. L131-2 (M)
-	  - Code de l'éducation - art. L131-4 (V)
 	  - Code de l'éducation - art. L132-1 (V)
-	  - Code de l'éducation - art. L132-2 (V)
 	  - Code de l'éducation - art. L141-2 (V)
-	  - Code de l'éducation - art. L141-4 (V)
-	  - Code de l'éducation - art. L141-5 (V)
-	  - Code de l'éducation - art. L141-5-1 (V)
-	  - Code de l'éducation - art. L141-6 (V)
+	  - Code de l'éducation - art. L151-1 (V)
 	  - Code de l'éducation - art. L151-6 (V)
-	  - Code de l'éducation L111-1, L111-2 à L111-4, L112-1 à L112-3, L113-1, L121-1 à L121-5, L122-1, L122-1-1, L122-2, L122-5, L131-1, L131-1-1, L131-2, L131-4, L132-1, L132-2, L141-2, L141-4, L141-5, L141-5-1, L141-6, L151-1 à L151-3, L151-6
+	  - Code du sport. - art. L100-1 (V)
 
 
 ###### Article L162-2
@@ -8075,8 +8077,7 @@ réussite éducative.
 ###### Article L312-1
 
 L'Etat est responsable de l'enseignement de l'éducation physique et sportive, placé sous l'autorité du ministre chargé de
-l'éducation. Il assure ou contrôle, en liaison avec toutes les parties intéressées, l'organisation des formations conduisant
-aux différentes professions des activités physiques et sportives et la délivrance des diplômes correspondants.
+l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -8088,6 +8089,10 @@ aux différentes professions des activités physiques et sportives et la délivr
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 art. 4 1° JORF 25 mai 2006
 
 	**Nouveaux textes**:
 
@@ -8347,49 +8352,6 @@ et concours, y compris ceux de la formation professionnelle. Sa diffusion dans l
 	**Créé par**:
 
 	  - Loi n°2005-102 du 11 février 2005 - art. 75 () JORF 12 février 2005
-
-
-##### Section 3 ter : L'enseignement des langues vivantes étrangères.
-
-###### Article L312-9-2
-
-Il est institué, dans chaque académie, une commission sur l'enseignement des langues, placée auprès du recteur.
-
-Celle-ci comprend des représentants de l'administration, des personnels et des usagers de l'éducation nationale, des
-représentants des collectivités territoriales concernées et des milieux économiques et professionnels.
-
-Cette commission est chargée de veiller à la diversité de l'offre de langues, à la cohérence et à la continuité des parcours
-de langues proposés, de diffuser une information aux établissements, aux élus, aux parents et aux élèves sur l'offre
-linguistique, d'actualiser cette offre en fonction des besoins identifiés et de vérifier l'adéquation de l'offre de langues
-avec les spécificités locales.
-
-Chaque année, la commission établit un bilan de l'enseignement et peut faire des propositions d'aménagement de la carte
-académique des langues.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 19 () JORF 24 avril 2005
-
-	**Cité par**:
-
-	  - Décret n°2005-1011 du 22 août 2005 - art. 8 (Ab)
-	  - Code de l'éducation - art. L371-1 (V)
-	  - Code de l'éducation - art. L442-20 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2006-583 2006-05-23 art. 7 1° JORF 24 mai 2006
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D312-24 (V)
 
 
 ##### Section 4 : L'enseignement des langues et cultures régionales.
@@ -9791,8 +9753,8 @@ l'expérience.
 La validation des acquis produit les mêmes effets que les autres modes de contrôle des connaissances et aptitudes.
 
 Peuvent être prises en compte, au titre de la validation, l'ensemble des compétences professionnelles acquises dans
-l'exercice d'une activité salariée, non salariée ou bénévole, en rapport direct avec le contenu du diplôme ou du titre. La
-durée minimale d'activité requise ne peut être inférieure à trois ans.
+l'exercice d'une activité salariée, non salariée, bénévole ou de volontariat, en rapport direct avec le contenu du diplôme ou
+du titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
 
 La validation est effectuée par un jury dont la composition garantit une présence significative de représentants qualifiés
 des professions concernées.
@@ -10181,7 +10143,7 @@ préparer. Cette dispense doit se fonder sur les compétences professionnelles a
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 134 () JORF 18 janvier 2002
+	  - Loi n°2006-586 du 23 mai 2006 - art. 6 () JORF 25 mai 2006
 
 	**Liens**:
 
@@ -11844,43 +11806,8 @@ sexuelle, atteinte sexuelle sur un mineur ou proxénétisme prévues par les art
 
 ###### Article L363-1
 
-I. - Seuls peuvent, contre rémunération, enseigner, animer ou encadrer une activité physique ou sportive ou entraîner ses
-pratiquants, à titre d'occupation principale ou secondaire, de façon habituelle, saisonnière ou occasionnelle, sous réserve
-des dispositions des quatrième et cinquième alinéas, les titulaires d'un diplôme, titre à finalité professionnelle ou
-certificat de qualification :
-
-1° Garantissant la compétence de son titulaire en matière de sécurité des pratiquants et des tiers dans l'activité
-considérée ;
-
-2° Et enregistré au répertoire national des certifications professionnelles dans les conditions prévues par le II de
-l'article L. 335-6.
-
-Peuvent également exercer contre rémunération les fonctions mentionnées au premier alinéa ci-dessus les personnes en cours de
-formation pour la préparation à un diplôme, titre à finalité professionnelle ou certificat de qualification conforme aux
-prescriptions des 1° et 2° ci-dessus, dans les conditions prévues par le règlement du diplôme, du titre à finalité
-professionnelle ou du certificat de qualification.
-
-Lorsque l'activité mentionnée au premier alinéa s'exerce dans un environnement spécifique impliquant le respect de mesures de
-sécurité particulières, seule la détention d'un diplôme permet son exercice. Ce diplôme est délivré par le ministre chargé
-des sports dans le cadre d'une formation coordonnée par ses services et assurée par des établissements relevant de son
-contrôle pour les activités considérées.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent I. Il fixe notamment les modalités selon
-lesquelles est établie la liste des diplômes, titres à finalité professionnelle et certificats de qualification répondant aux
-conditions prévues aux alinéas précédents. Il fixe également la liste des activités mentionnées au cinquième alinéa et
-précise, pour cette catégorie d'activités, les conditions et modalités particulières de la validation des acquis de
-l'expérience.
-
-Les dispositions du présent I ne sont pas applicables aux militaires, aux fonctionnaires relevant des titres II, III et IV du
-statut général des fonctionnaires dans l'exercice des missions prévues par leur statut particulier et aux enseignants des
-établissements d'enseignement publics et des établissements d'enseignement privés sous contrat avec l'Etat dans l'exercice de
-leurs missions.
-
-La mise à disposition de matériel destiné aux pratiquants ou, hors le cas des activités s'exerçant dans un environnement
-spécifique, la facilitation de la pratique de l'activité à l'intérieur d'un établissement classé relevant de la
-réglementation du tourisme, ne sauraient être assimilées aux fonctions désignées au premier alinéa.
-
-II. - Le diplôme mentionné au I peut être un diplôme étranger admis en équivalence.
+Les règles relatives aux conditions d'enseignement, d'animation ou d'encadrement des activités physiques et sportives sont
+définies au titre Ier du livre II du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -11929,18 +11856,14 @@ II. - Le diplôme mentionné au I peut être un diplôme étranger admis en équ
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Modifié par**:
-
-	  - Loi n°2003-708 du 1 août 2003 - art. 6 () JORF 2 août 2003
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2004-893 du 27 août 2004 - art. 7 (Ab)
 	  - TXT_SOURCE: Décret n°2004-893 du 27 août 2004 - art. 8 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de l'éducation - art. L335-6 (M)
+	  - Ordonnance 2006-596 2006-05-23 art. 4 2° JORF 25 mai 2006
 
 	**Nouveaux textes**:
 
@@ -11948,206 +11871,6 @@ II. - Le diplôme mentionné au I peut être un diplôme étranger admis en équ
 	  - Code du sport. - art. L212-2 (V)
 	  - Code du sport. - art. L212-3 (V)
 	  - Code du sport. - art. L212-4 (V)
-
-
-###### Article L363-1-1
-
-Les dispositions de l'article L. 363-1 entrent en application à compter de l'inscription des diplômes, titres à finalité
-professionnelle ou certificats de qualification sur la liste mentionnée au sixième alinéa du I de cet article, au fur et à
-mesure de cette inscription.
-
-Dans la période qui précède l'inscription visée au premier alinéa du présent article et qui ne peut excéder trois ans à
-compter de la date d'entrée en vigueur du décret prévu au sixième alinéa du I de l'article L. 363-1, reprennent effet les
-dispositions résultant des trois premiers alinéas de l'article 43 de la loi n° 84-610 du 16 juillet 1984 précitée dans leur
-rédaction issue de l'article 24 de la loi n° 92-652 du 13 juillet 1992 modifiant la loi n° 84-610 du 16 juillet 1984 relative
-à l'organisation et à la promotion des activités physiques et sportives et portant diverses dispositions relatives à ces
-activités.
-
-Les personnes qui auront acquis, dans la période précédant l'inscription mentionnée au premier alinéa et conformément aux
-dispositions législatives précitées, le droit d'exercer contre rémunération une des fonctions mentionnées au premier alinéa
-du I de l'article L. 363-1, conservent ce droit.
-
-**Nota:**
-
-Nota : Loi 2003-708 du 1er août 2003 art. 13 : Les dispositions de la loi 2003-708 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 1984-07-16 art. 43
-	  - Loi n°92-652 1992-07-13 art. 24
-	  - Code de l'éducation - art. L363-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2003-708 du 1 août 2003 - art. 12 () JORF 2 août 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-1 (V)
-
-
-###### Article L363-2
-
-Nul ne peut exercer les fonctions mentionnées au I de l'article 363-1, à titre rémunéré ou bénévole, s'il a fait l'objet
-d'une condamnation pour crime ou pour l'un des délits prévus :
-
-1° Au paragraphe 2 de la section 1 du chapitre II du titre II du livre II du code pénal ;
-
-2° Au paragraphe 2 de la section 3 du chapitre II du titre II du livre II du même code ;
-
-3° A la section 4 du chapitre II du titre II du livre II du même code ;
-
-4° A la section 1 du chapitre III du titre II du livre II du même code ;
-
-5° A la section 2 du chapitre V du titre II du livre II du même code ;
-
-6° A la section 5 du chapitre VII du titre II du livre II du même code ;
-
-7° Aux articles L. 3421-1 et L. 3421-4 du code de la santé publique ;
-
-8° Aux articles L. 3633-2 à L. 3633-6 du même code ;
-
-9° A l'article 1750 du code général des impôts.
-
-En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il a fait l'objet
-d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à l'encadrement
-d'institutions et d'organismes régis par les dispositions législatives ou réglementaires relatives à la protection des
-mineurs accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il a fait l'objet d'une
-mesure administrative de suspension de ces mêmes fonctions.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1750
-	  - Code de l'éducation 363-1
-	  - Code de la santé publique - art. L3421-1 (M)
-	  - Code de la santé publique - art. L3421-4 (M)
-	  - Code de la santé publique L3421-1, L3421-4, L3633-2 à L3633-6
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 43-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°93-1035 du 31 août 1993 - art. 12 (M)
-	  - Décret n°93-1035 du 31 août 1993 - art. 13 (M)
-	  - Arrêté du 27 juin 2005 - art. 2 (M)
-	  - Code de l'éducation - art. L463-1 (M)
-	  - Code de l'éducation - art. L463-3 (Ab)
-	  - Code de l'éducation - art. L463-4 (M)
-	  - Code de l'éducation - art. L463-5 (Ab)
-	  - Code de l'éducation - art. L463-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-9 (M)
-	  - Code du sport. - art. L212-9 (V)
-
-
-###### Article L363-3
-
-Les fonctions mentionnées au premier alinéa du I de l'article L. 363-1 peuvent être exercées sur le territoire national par
-les ressortissants des Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen
-qui sont qualifiés pour les exercer dans l'un de ces Etats.
-
-Un décret en Conseil d'Etat fixe les conditions auxquelles cet exercice est soumis lorsqu'il existe une différence
-substantielle de niveau entre la qualification dont les intéressés se prévalent et celle requise en application du I de
-l'article L. 363-1.
-
-Ce décret précise notamment la liste des fonctions dont l'exercice, même occasionnel, peut être subordonné, si la sécurité
-des personnes l'exige compte tenu de l'environnement spécifique et des conditions dans lesquelles elles sont exercées, au
-contrôle préalable de l'aptitude technique des demandeurs et de leur connaissance du milieu naturel, des règles de sécurité
-et des dispositifs de secours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 43-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L463-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-7 (V)
-
-
-###### Article L363-4
-
-Les programmes de formation des professions des activités physiques et sportives comprennent un enseignement sur le sport
-pour les handicapés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 44 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 3° JORF 25 mai 2006
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L211-7 (V)
 
 
 #### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
@@ -12210,10 +11933,10 @@ références aux dispositions, ayant le même objet, qui y sont applicables.
 
 ###### Article L372-1
 
-Sont applicables à Mayotte les articles L. 311-1 à L. 311-4, L. 311-7, L. 312-1 à L. 312-4, L. 312-7, L. 312-12, L. 312-13-1,
+Sont applicables à Mayotte les articles L. 311-1 à L. 311-4, L. 311-7, L. 312-2 à L. 312-4, L. 312-7, L. 312-12, L. 312-13-1,
 L. 312-15, L. 312-16, L. 313-1, L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5,
 L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L.
-336-2, L. 337-1, L. 363-1 à L. 363-4.
+336-2, L. 337-1, L. 363-1 à L. 363-4, l'article L. 111-1 du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -12231,7 +11954,7 @@ L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 3
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 64 () JORF 24 avril 2005
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 	**Cite**:
 
@@ -12248,7 +11971,8 @@ L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 3
 	  - Code de l'éducation - art. L336-1 (V)
 	  - Code de l'éducation - art. L336-2 (V)
 	  - Code de l'éducation - art. L337-1 (V)
-	  - Code de l'éducation L311-1 à L311-4, L311-7, L312-1 à L312-4, L312-7, L312-12, L312-13-1, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L332-6, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à
+	  - Code de l'éducation L311-1 à L311-4, L311-7, L312-2 à L312-4, L312-7, L312-12, L312-13-1, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L332-6, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à
+	  - Code du sport. - art. L111-1 (V)
 
 
 ###### Article L372-2
@@ -16546,14 +16270,8 @@ n'excédant pas trois ans.
 
 ###### Article L463-1
 
-Les fédérations sportives agréées assurent la formation et le perfectionnement de leurs cadres. Elles peuvent bénéficier, à
-cet effet, de l'aide des établissements publics de formation mentionnés à l'article L. 463-2.
-
-Lorsqu'ils concernent des fonctions exercées contre rémunération, les diplômes qu'elles délivrent répondent aux conditions
-prévues par les articles L. 363-1 et L. 363-2.
-
-Les diplômes concernant l'exercice d'une activité à titre bénévole, dans le cadre de structures ne poursuivant pas de buts
-lucratifs, peuvent être obtenus soit à l'issue d'une formation, soit par validation des expériences acquises.
+Les règles relatives aux établissements de formation aux professions des activités physiques et sportives sont définies au
+chapitre Ier du titre Ier du livre II et au chapitre II du titre II du livre III du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -16566,19 +16284,9 @@ lucratifs, peuvent être obtenus soit à l'issue d'une formation, soit par valid
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-	  - Code de l'éducation - art. L363-2 (M)
-	  - Code de l'éducation - art. L463-2 (M)
+	  - Ordonnance 2006-596 2006-05-23 art. 4 4° JORF 25 mai 2006
 
 	**Nouveaux textes**:
 
@@ -16651,278 +16359,6 @@ juillet 2007.
 
 	  - Code du sport. - art. L211-1 (V)
 	  - Code du sport. - art. D211-1 (V)
-
-
-###### Article L463-3
-
-Les établissements où sont pratiquées une ou des activités physiques ou sportives doivent présenter pour chaque type
-d'activité et d'établissement des garanties d'hygiène et de sécurité définies par voie réglementaire.
-
-Nul ne peut exploiter soit directement, soit par l'intermédiaire d'un tiers, un établissement dans lequel sont pratiquées des
-activités physiques ou sportives s'il a fait l'objet d'une condamnation prévue à l'article L. 363-2.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°77-1177 du 20 octobre 1977 - art. 3 (M)
-	  - Arrêté du 27 juin 2005 - art. 3 (M)
-	  - Code de l'éducation - art. L463-4 (M)
-	  - Code de l'éducation - art. L463-5 (Ab)
-	  - Code de la santé publique - art. L3632-2-1 (MMN)
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 47 (M)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 47 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-2 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L322-1 (V)
-	  - Code du sport. - art. L322-2 (V)
-
-
-###### Article L463-4
-
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles les personnes exerçant contre rémunération les activités
-visées au I de l'article L. 363-1 et les responsables des établissements où sont pratiquées une ou plusieurs de ces activités
-déclarent leur activité à l'autorité administrative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 47-1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L463-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-11 (V)
-	  - Code du sport. - art. L322-3 (Ab)
-	  - Code du sport. - art. L322-3 (V)
-
-
-###### Article L463-5
-
-L'autorité administrative peut s'opposer à l'ouverture ou prononcer la fermeture temporaire ou définitive d'un établissement
-qui ne présenterait pas les garanties prévues à l'article L. 463-3 du présent code et ne remplirait pas les conditions
-d'assurance visées à l'article 37 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des
-activités physiques et sportives.
-
-L'autorité administrative peut également prononcer la fermeture temporaire ou définitive d'un établissement employant une
-personne qui enseigne, anime ou encadre une ou plusieurs activités physiques ou sportives mentionnées au I de l'article L.
-363-1 sans posséder les qualifications requises.
-
-L'autorité administrative peut prononcer également la fermeture temporaire ou définitive d'un établissement lorsque son
-maintien en activité présenterait des risques pour la santé et la sécurité physique ou morale des pratiquants ou exposerait
-ceux-ci à l'utilisation de substances ou de procédés interdits par le chapitre 1er du titre III du livre VI de la partie III
-du code de la santé publique.
-
-En outre, l'autorité administrative peut prononcer le retrait de l'agrément d'une association sportive si elle emploie des
-personnes ne satisfaisant pas aux obligations des articles L. 363-1 et L. 363-2 ou si elle méconnaît les obligations de
-l'article L. 463-3.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 37 (M)
-	  - Code de l'éducation - art. L363-1 (M)
-	  - Code de l'éducation - art. L363-2 (M)
-	  - Code de l'éducation - art. L463-3 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 48 (M)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 48 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L463-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L121-4 (M)
-	  - Code du sport. - art. L322-5 (V)
-	  - Code du sport. - art. L121-4 (V)
-
-
-###### Article L463-6
-
-L'autorité administrative peut, par arrêté motivé, prononcer à l'encontre de toute personne dont le maintien en activité
-constituerait un danger pour la santé et la sécurité physique ou morale des pratiquants l'interdiction d'exercer, à titre
-temporaire ou définitif, tout ou partie des fonctions mentionnées à l'article L. 363-1. L'autorité administrative peut, dans
-les mêmes formes, enjoindre à toute personne exerçant en méconnaissance des dispositions du I de l'article L. 363-1 de cesser
-son activité dans un délai déterminé.
-
-Cet arrêté est pris après avis d'une commission comprenant des représentants de l'Etat, du mouvement sportif et des
-différentes catégories de personnes intéressées. Toutefois, en cas d'urgence, l'autorité administrative peut, sans
-consultation de la commission, prononcer une interdiction temporaire d'exercice limitée à six mois.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 48-1 (M)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 48-1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°93-1035 du 31 août 1993 - art. 13 (M)
-	  - Code de l'action sociale et des familles - art. L227-10 (MMN)
-	  - Code de l'éducation - art. L463-7 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-1343 du 9 décembre 2004 - art. 16 () JORF 10 décembre 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-13 (V)
-
-
-###### Article L463-7
-
-Est puni d'un an d'emprisonnement et de 15 000 Euros d'amende le fait pour toute personne :
-
-1° D'exercer contre rémunération l'une des fonctions de professeur, moniteur, éducateur, entraîneur ou animateur d'une
-activité physique ou sportive ou de faire usage de ces titres ou de tout autre titre similaire sans posséder la qualification
-requise au I de l'article L. 363-1 ou en méconnaissance de l'article L. 363-2 ou d'exercer son activité en violation de
-l'article L. 363-3 sans avoir satisfait aux tests auxquels l'autorité administrative l'a soumis ;
-
-2° D'employer une personne qui exerce les fonctions mentionnées au I de l'article L. 363-1 sans posséder la qualification
-requise ou d'employer un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
-économique européen qui exerce son activité en violation de l'article L. 363-3 sans avoir satisfait aux tests auxquels
-l'autorité administrative l'a soumis ;
-
-3° D'exercer contre rémunération une des fonctions mentionnées au I de l'article L. 363-1 ou d'exploiter un établissement où
-sont pratiquées une ou plusieurs de ces activités sans avoir procédé à la déclaration prévue à l'article L. 463-4 ;
-
-4° De maintenir en activité un établissement où sont pratiquées une ou plusieurs activités physiques ou sportives en
-méconnaissance d'une mesure prise en application de l'article L. 463-5 ;
-
-5° D'enseigner, d'animer ou d'encadrer une activité physique ou sportive en méconnaissance d'une mesure prise en application
-de l'article L. 463-6.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 49 (M)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 49 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-	  - Code de l'éducation - art. L363-2 (M)
-	  - Code de l'éducation - art. L363-3 (M)
-	  - Code de l'éducation - art. L463-4 (M)
-	  - Code de l'éducation - art. L463-5 (M)
-	  - Code de l'éducation - art. L463-6 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L212-10 (M)
-	  - Code du sport. - art. L212-12 (V)
-	  - Code du sport. - art. L212-14 (V)
-	  - Code du sport. - art. L212-8 (V)
-	  - Code du sport. - art. L322-4 (M)
-	  - Code du sport. - art. L212-10 (V)
-	  - Code du sport. - art. L322-4 (V)
 
 
 #### Titre VII : Dispositions communes
@@ -17139,7 +16575,7 @@ et L. 423-1 à L. 423-3.
 ###### Article L492-1
 
 Sont applicables à Mayotte les articles L. 401-1, L. 401-2, L. 411-1, L. 411-3, L. 421-7 à L. 421-10, L. 423-1 à L. 423-3, L.
-442-6, L. 442-7 et L. 463-1 à L. 463-7.
+442-6, L. 442-7 et L. 463-2 à L. 463-7 du code de l'éducation et l'article L. 211-2 du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -17157,7 +16593,7 @@ Sont applicables à Mayotte les articles L. 401-1, L. 401-2, L. 411-1, L. 411-3,
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 65 () JORF 24 avril 2005
+	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 	**Cite**:
 
@@ -17168,6 +16604,7 @@ Sont applicables à Mayotte les articles L. 401-1, L. 401-2, L. 411-1, L. 411-3,
 	  - Code de l'éducation - art. L442-6 (V)
 	  - Code de l'éducation - art. L442-7 (V)
 	  - Code de l'éducation L401-1, L401-2, L411-1, L411-3, L421-7 à L421-10, L423-1 à L423-3, L442-6, L442-7, L463-1 à L463-7
+	  - Code du sport. - art. L211-2 (V)
 
 
 ###### Article L492-2
@@ -18264,9 +17701,8 @@ universitaires. Les statuts de ces unions et fédérations sont approuvés par d
 
 ###### Article L552-4
 
-Les associations sportives scolaires et les fédérations sportives scolaires sont régies par la loi n° 84-610 du 16 juillet
-1984 relative à l'organisation et à la promotion des activités physiques et sportives et, en outre, par les dispositions du
-présent chapitre.
+Les associations sportives scolaires et les fédérations sportives scolaires sont soumises aux dispositions du code du sport
+et, en outre, par les dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -18285,7 +17721,7 @@ présent chapitre.
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+	  - Ordonnance 2006-596 2006-05-23 art. 4 6° JORF 25 mai 2006
 
 
 #### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
@@ -19112,10 +18548,10 @@ propres ou préparant à des examens ou des concours.
 
 ###### Article L613-3
 
-Toute personne qui a exercé pendant au moins trois ans une activité professionnelle, salariée, non salariée ou bénévole, en
-rapport avec l'objet de sa demande, peut demander la validation des acquis de son expérience pour justifier tout ou partie
-des connaissances et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat, par un
-établissement d'enseignement supérieur.
+Toute personne qui a exercé pendant au moins trois ans une activité professionnelle, salariée, non salariée, bénévole ou de
+volontariat, en rapport avec l'objet de sa demande, peut demander la validation des acquis de son expérience pour justifier
+tout ou partie des connaissances et des aptitudes exigées pour l'obtention d'un diplôme ou titre délivré, au nom de l'Etat,
+par un établissement d'enseignement supérieur.
 
 Toute personne peut également demander la validation des études supérieures qu'elle a accomplies, notamment à l'étranger.
 
@@ -19160,7 +18596,7 @@ Toute personne peut également demander la validation des études supérieures q
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
+	  - Loi n°2006-586 du 23 mai 2006 - art. 6 () JORF 25 mai 2006
 
 	**Liens**:
 
@@ -19883,6 +19319,31 @@ la santé. En ce qui concerne la recherche, ces arrêtés sont également signé
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-2 (V)
+
+
+###### Article L632-1-1
+
+Ainsi qu'il est prévu à l'article L. 231-1 du code du sport, le deuxième cycle des études médicales contient une formation
+initiale nécessaire à la pratique des examens médico-sportifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Ordonnance 2006-596 2006-05-23 art. 4 7° JORF 25 mai 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
+
+	**Cite**:
+
+	  - Code du sport. - art. L231-1
 
 
 ###### Article L632-2
@@ -27246,9 +26707,8 @@ universitaires mentionnées à l'article L. 552-3.
 
 ###### Article L841-4
 
-Les associations et fédérations sportives universitaires sont régies par les dispositions de la loi n° 84-610 du 16 juillet
-1984 relative à l'organisation et à la promotion des activités physiques et sportives et, en outre, par les dispositions du
-présent chapitre.
+Les associations et fédérations sportives universitaires sont soumises aux dispositions du code du sport et, en outre, par
+les dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -27260,6 +26720,10 @@ présent chapitre.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 art. 4 8° JORF 25 mai 2006
 
 
 #### Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
