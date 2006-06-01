@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-06-02
 
 # Partie législative
 
@@ -7180,9 +7180,9 @@ nationale et de la recherche ;
 Toutefois, les établissements d'enseignement privés ne peuvent être inspectés par les personnels enseignants de
 l'enseignement public qui font partie du conseil départemental ;
 
-5° Par le maire et les délégués départementaux de l'éducation nationale. Toutefois, les délégués départementaux de
-l'éducation nationale ne peuvent exercer leur mission que dans des établissements autres que ceux de leur commune ou, à
-Paris, Lyon et Marseille, de leur arrondissement de résidence.
+5° Par le maire et les délégués départementaux de l'éducation nationale. Toutefois, lorsqu'ils exercent un mandat municipal,
+les délégués départementaux de l'éducation nationale ne peuvent intervenir dans les écoles situées sur le territoire de la
+commune dans laquelle ils sont élus, ni dans les écoles au fonctionnement desquelles cette commune participe.
 
 II. - L'inspection des établissements d'enseignement privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution
 des obligations imposées à ces établissements par le présent code. Elle ne peut porter sur l'enseignement que pour vérifier
@@ -7197,7 +7197,7 @@ s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 40 () JORF 24 avril 2005
+	  - Loi n°2006-636 du 1 juin 2006 - art. 1 () JORF 2 juin 2006
 
 	**Cité par**:
 
@@ -12665,6 +12665,11 @@ Les établissements ainsi que, pour les écoles primaires, les communes qui en o
 convention pour développer les missions de formation de ces établissements et écoles et pour mettre en commun, dans le
 respect de leurs compétences, leurs ressources humaines et matérielles.
 
+Les personnes recrutées par les établissements publics locaux d'enseignement dans le cadre d'un des contrats prévus à la
+section 1 du chapitre II du titre II du livre III du code du travail peuvent exercer leurs fonctions dans l'établissement qui
+les a recrutées, dans un ou plusieurs autres établissements ainsi que, compte tenu des besoins, dans une ou plusieurs écoles.
+Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -12676,6 +12681,10 @@ respect de leurs compétences, leurs ressources humaines et matérielles.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2006-636 du 1 juin 2006 - art. 2 () JORF 2 juin 2006
 
 	**Cité par**:
 
