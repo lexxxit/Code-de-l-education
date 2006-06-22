@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-06-08
+Version Consolidée au 2006-06-23
 
 # Partie législative
 
@@ -25373,6 +25373,43 @@ nationaux dans des conditions fixées par décret.
 	  - Décret n°2011-557 du 20 mai 2011 - art. 4 (V)
 	  - Code de l'éducation - art. L759-3 (V)
 	  - Code de l'éducation - art. L759-4 (V)
+
+
+##### Chapitre X : Les établissements d'enseignement supérieur d'arts plastiques
+
+###### Article L75-10-1
+
+Les établissements d'enseignement supérieur d'arts plastiques mentionnés à l'article L. 216-3 assurent la formation aux
+métiers de la création plastique et industrielle, notamment celle des artistes, photographes, designers et des graphistes. 
+
+Ils relèvent du contrôle pédagogique de l'Etat et sont autorisés à délivrer des diplômes nationaux ou des diplômes d'école
+dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2006-723 du 22 juin 2006 - art. 4 () JORF 23 juin 2006
+
+	**Cité par**:
+
+	  - Décret n°2013-156 du 20 février 2013 - art. 5 (Ab)
+	  - Décret n°2013-291 du 5 avril 2013 - art. 2 (V)
+	  - Arrêté du 28 mai 2013 - art. 1 (Ab)
+	  - Arrêté du 28 mai 2013 - art. 3 (Ab)
+	  - Décret n°2014-817 du 17 juillet 2014 (V)
+	  - Arrêté du 24 décembre 2015 - art. 1 (V)
+	  - Arrêté du 24 décembre 2015 - art. 3 (V)
+	  - Code de l'éducation - art. D75-10-5 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-3 (V)
 
 
 #### Titre VI : Dispositions communes
