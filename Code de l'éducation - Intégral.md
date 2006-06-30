@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-06-27
+Version Consolidée au 2006-07-01
 
 # Partie législative
 
@@ -4231,16 +4231,16 @@ Les schémas prévisionnels, les plans régionaux et la carte des formations sup
 
 ###### Article L214-4
 
-I. - Les équipements nécessaires à la pratique de l'éducation physique et sportive doivent être prévus à l'occasion de la
+I.-Les équipements nécessaires à la pratique de l'éducation physique et sportive doivent être prévus à l'occasion de la
 création d'établissements publics locaux d'enseignement, ainsi que lors de l'établissement du schéma prévisionnel des
-formations mentionné à l'article L. 214-1.
+formations mentionné à l'article L. 214-1. 
 
-II. - Des conventions sont passées entre les établissements publics locaux d'enseignement, leur collectivité de rattachement
-et les propriétaires d'équipements sportifs afin de permettre la réalisation des programmes scolaires de l'éducation physique
-et sportive.
+II.-Des conventions sont passées entre les établissements publics locaux d'enseignement, leur collectivité de rattachement et
+les propriétaires d'équipements sportifs afin de permettre la réalisation des programmes scolaires de l'éducation physique et
+sportive. 
 
-III. - L'utilisation des équipements se fait conformément aux dispositions de l'article L. 1311-7 du code général des
-collectivités territoriales, sauf dans l'hypothèse où des conventions de mise à disposition gracieuse ont été négociées.
+III.-L'utilisation des équipements se fait conformément aux dispositions de l'article L. 1311-15 du code général des
+collectivité territoriales, sauf dans l'hypothèse où des conventions de mise à disposition gracieuse ont été négociées.
 
 **Liens relatifs à cet article**
 
@@ -4255,12 +4255,12 @@ collectivités territoriales, sauf dans l'hypothèse où des conventions de mise
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
+	  - Ordonnance n°2006-460 du 21 avril 2006 - art. 3 () JORF 22 avril 2006 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1311-7 (M)
-	  - Code de l'éducation - art. L214-1 (M)
+	  - Code général des collectivités territoriales - art. L1311-15 (V)
+	  - Code de l'éducation - art. L214-1 (V)
 
 	**Cité par**:
 
@@ -6693,7 +6693,7 @@ d'élèves représentées au Conseil supérieur de l'éducation.
 Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 910-1 et L.
 910-2 du code du travail, ci-après reproduites :
 
-"Art. L. 910-1. -  Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
+"Art. L. 910-1. - Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
 chargé de favoriser, au plan national, la concertation entre les acteurs pour la conception des politiques de formation
 professionnelle et le suivi de leur mise en oeuvre, en liaison avec les comités de coordination régionaux de l'emploi et de
 la formation professionnelle. Il est chargé d'évaluer les politiques régionales d'apprentissage et de formation
@@ -6701,23 +6701,22 @@ professionnelle tout au long de la vie. Il donne son avis sur la législation et
 formation professionnelle tout au long de la vie et d'apprentissage.
 
 Il établit tous les ans un rapport sur l'utilisation des ressources financières soit collectées, soit affectées à la
-formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contr<cb>le régulier de
-l'emploi de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de
-formation tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de
-coordination régionaux de l'emploi et de la formation professionnelle.
+formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contrôle régulier de l'emploi
+de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de formation
+tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de coordination
+régionaux de l'emploi et de la formation professionnelle.
 
 Il est composé de représentants élus des conseils régionaux, de représentants de l'Etat et du Parlement et de représentants
 des organisations professionnelles et syndicales intéressées. Il comprend en outre, des personnes qualifiées en matière de
 formation professionnelle.
 
-Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contr<cb>le, ainsi que ses
+Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contrôle, ainsi que ses
 modalités de fonctionnement et de compte rendu de son activité, sont fixées par décret.
 
-Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle et des comités
-départementaux de l'emploi.
+Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle.
 
 Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
-exerce l'ensemble des attributions dévolues au comité de coordination régional et au comité départemental de l'emploi.
+exerce l'ensemble des attributions dévolues au comité de coordination régional.
 
 Le comité de coordination régional a pour mission de favoriser la concertation entre les divers acteurs afin d'assurer une
 meilleure coordination des politiques de formation professionnelle et d'emploi. Il est notamment chargé des fonctions de
@@ -6750,7 +6749,7 @@ présentent chaque année au comité un rapport sur l'affectation des sommes ain
 
 Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de coordination de l'emploi et de la formation
 professionnelle exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation
-professionnelle et au comité départemental de l'emploi et de la formation professionnelle.
+professionnelle.
 
 Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
 sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'Agence nationale pour l'emploi et par
@@ -6770,26 +6769,13 @@ Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'ali
 lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
 interventions des associations régionales pour la formation professionnelle des adultes.
 
-Les comités départementaux de l'emploi comprennent des représentants élus des collectivités territoriales et les
-parlementaires du département. Ces comités se réunissent au moins une fois par an sous la présidence du préfet du département
-qui, à cette occasion, présente le bilan de la politique de l'emploi et de la formation professionnelle dans le département.
-
-Les membres non fonctionnaires des comités visés au troisième alinéa bénéficient pendant les heures qu'ils consacrent à leur
-mission d'une rémunération, dans le cas où elle n'est pas prévue par ailleurs, et perçoivent le remboursement de leurs frais
-de déplacement.
-
 Les modalités d'organisation et de fonctionnement des comités mentionnés aux alinéas précédents sont déterminées par décret."
 
-"Art. L. 910-2. -  (article abrogé).
-
-</cb></cb>
+"Art. L. 910-2. - (article abrogé).
 
 **Nota:**
 
-Nota : Loi 2004-391 du 4 mai 2004 art. 27 III : Ces dispositions sont applicables à compter de la date de publication du
-décret d'application prévu au quatrième alinéa de l'article L910-1 du code du travail.
-
-Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 février 2005.
+La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30 art. 3.
 
 **Liens relatifs à cet article**
 
@@ -6800,7 +6786,8 @@ Ce décret est le décret n° 2005-180 du 24 février 2005 publié le 26 févrie
 
 	**Modifié par**:
 
-	  - Loi n°2004-391 du 4 mai 2004 - art. 27 (V) JORF 5 mai 2004 en vigueur le 26 février 2005
+	  - Ordonnance 2004-637 2004-07-01 ar. 19 II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Loi n°2004-809 du 13 août 2004 - art. 14 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 	**Cite**:
 
@@ -10489,13 +10476,13 @@ A cette fin, une concertation permanente est organisée entre l'Etat, les compag
 chambres d'agriculture, les organisations professionnelles d'employeurs et de salariés, les organisations familiales et les
 représentants de l'enseignement.
 
-Au niveau régional, cette concertation est réalisée au sein des comités de coordination régionaux de l'emploi et de la
+Au niveau régional, cette concertation est réalisée au sein des comités régionaux de coordination de l'emploi et de la
 formation professionnelle, ainsi que, pour les formations assurées par les établissements d'enseignement supérieur, dans le
 cadre des conseils académiques de l'éducation nationale.
 
 **Nota:**
 
-NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
+La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -10512,7 +10499,6 @@ NOTA : La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifi�
 	**Modifié par**:
 
 	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Loi n°2004-809 2004-08-13 art. 78 6° JORF 17 août 2004 en  vigueur le 1er janvier 2005
 
 	**Cité par**:
 
@@ -19543,16 +19529,12 @@ d'internes en médecine de telle façon que tous les étudiants ayant validé le
 entreprendre un troisième cycle, et en fixent la répartition selon des modalités prévues par décret en Conseil d'Etat.
 
 La liste des services et des départements formateurs et la répartition des postes d'internes dans les services et
-départements sont arrêtés par le représentant de l'Etat dans la région après avis d'une commission dont la composition et le
-fonctionnement sont fixés par décret. Un décret en Conseil d'Etat fixe les conditions d'attribution des postes d'internes aux
-élèves médecins des écoles du service de santé des armées.
+départements sont arrêtés par le représentant de l'Etat dans la région. Un décret en Conseil d'Etat fixe les conditions
+d'attribution des postes d'internes aux élèves médecins des écoles du service de santé des armées.
 
-Pour évaluer les besoins de santé de la population, les ministres chargés des universités et de la santé consultent des
-commissions régionales et une commission nationale. Leur composition, leur rôle et leurs modalités de fonctionnement sont
-fixés par décret en Conseil d'Etat.
+**Nota:**
 
-La composition des commissions régionales assure la parité entre l'ensemble des professionnels de santé et les autres
-représentants.
+La date d'entrée en vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -19573,7 +19555,12 @@ représentants.
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
+	  - Ordonnance 2004-637 2004-07-01 art. 26 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 26 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
 ###### Article L632-11
@@ -19792,15 +19779,15 @@ d'interne en pharmacie mis au concours, d'une part, dans chaque formation propre
 formation commune à la pharmacie et à la médecine.
 
 La liste des services formateurs et la répartition des postes d'interne dans les services sont arrêtées par le représentant
-de l'Etat dans la région, après avis d'une commission dont la composition et le fonctionnement sont fixés par décret.
-
-Pour évaluer les besoins de la population, les ministres chargés de l'enseignement supérieur et de la santé consultent des
-commissions régionales et une commission nationale. Leur composition, leur rôle et leurs modalités de fonctionnement sont
-fixés par décret en Conseil d'Etat.
+de l'Etat dans la région.
 
 En ce qui concerne les formations accessibles à la fois aux internes en médecine, aux internes en pharmacie et aux étudiants
 en sciences vétérinaires, les postes offerts sont affectés dans des services dirigés par des médecins, des pharmaciens ou des
 vétérinaires.
+
+**Nota:**
+
+La date de vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -19819,6 +19806,11 @@ vétérinaires.
 	  - Décret n°2012-173 du 3 février 2012 - art. 10 (Ab)
 	  - Code de l'éducation - art. L633-2 (V)
 	  - Code de l'éducation - art. R633-26 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance 2004-637 2004-07-01 art. 26 III, IV JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 26 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 
 ###### Article L633-4
@@ -28200,12 +28192,15 @@ du travail, ci-après reproduites :
 
 " Art. L. 116-5. - Les membres du personnel de direction, d'enseignement et d'encadrement des centres de formation
 d'apprentis devront posséder des qualifications définies selon des règles fixées par le décret prévu à l'article L. 119-4.
+Les personnels dispensant des enseignements techniques et pratiques sont tenus, dans des conditions et selon des modalités
+définies par décret, d'effectuer périodiquement des stages pratiques en entreprise.
 
 Les personnels mentionnés à l'alinéa ci-dessus, déjà en fonction dans les cours professionnels ou organismes de formation
-d'apprentis publics ou privés existants, qui ne satisfont pas aux règles définies ci-dessus mais aux qualifications exigées
-avant le 1er juillet 1972 sont admis à exercer leurs fonctions dans les centres de formation issus des cours professionnels.
-Ce droit leur est conféré par le comité départemental de l'emploi, sous réserve, le cas échéant, d'avoir à accomplir un stage
-de recyclage et de perfectionnement pédagogique organisé sous le contrôle des ministères compétents.
+d'apprentis publics ou privés existants, qui ne satisferont pas aux règles définies ci-dessus mais aux qualifications exigées
+avant le 1er juillet 1972 seront admis à exercer leurs fonctions dans les centres de formation issus des cours
+professionnels. Ce droit leur sera conféré par le comité de coordination régional de l'emploi et de la formation
+profesionnelle, sous réserve, le cas échéant, d'avoir à accomplir un stage de recyclage et de perfectionnement pédagogique
+organisé sous le contrôle des ministères compétents.
 
 Des fonctionnaires et spécialement ceux des corps de l'enseignement public peuvent être détachés à temps plein dans des
 centres de formation d'apprentis. "
@@ -28214,12 +28209,16 @@ centres de formation d'apprentis. "
 par les organismes responsables des centres.
 
 Ils peuvent en outre être déférés par les autorités chargées d'exercer le contrôle technique et pédagogique de ces centres au
-comité départemental de l'emploi qui peut prononcer contre eux, sous réserve d'appel devant le conseil supérieur de
-l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions dans les centres de formation
-d'apprentis.
+comité de coordination régional de l'emploi et de la formation professionnelles qui peut prononcer contre eux, sous réserve
+d'appel devant le conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions
+dans les centres de formation d'apprentis.
 
 La procédure visée à l'alinéa précédent n'est applicable ni aux agents fonctionnaires de l'Etat, ni aux agents titulaires des
 collectivités territoriales, ni aux établissements publics. "
+
+**Nota:**
+
+La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
 
 **Liens relatifs à cet article**
 
@@ -28230,7 +28229,7 @@ collectivités territoriales, ni aux établissements publics. "
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 152 () JORF 18 janvier 2002
+	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
 
 	**Cite**:
 
@@ -65489,6 +65488,284 @@ de l'éducation.
 	**Cite**:
 
 	  - Code de l'éducation - art. D337-149 (V)
+
+
+##### Section 7 : La formation d'apprenti junior
+
+###### Article D337-161
+
+La formation d'apprenti junior définie à l'article L. 337-3 se déroule au cours des deux dernières années de la scolarité
+obligatoire mentionnée à l'article L. 131-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L337-3
+
+
+###### Article D337-162
+
+L'admission dans la formation d'apprenti junior est prononcée par le chef d'établissement du lycée professionnel ou le
+directeur du centre de formation d'apprentis dans lequel est ouverte la formation d'apprenti junior. Elle intervient à la
+rentrée de l'année scolaire suivante. Elle peut intervenir, par dérogation de l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, pendant l'année scolaire en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+
+###### Article D337-163
+
+L'élève inscrit dans une formation d'apprenti junior dans un lycée professionnel ou un centre de formation d'apprentis
+continue d'être rattaché à son établissement d'origine pendant toute la durée de cette formation. Cet établissement est
+informé régulièrement du déroulement de la formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-164
+
+Pour tout élève admis en formation d'apprenti junior, un bilan des connaissances et des compétences acquises, notamment au
+regard du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1, est effectué à l'entrée au lycée
+professionnel ou au centre de formation d'apprentis. Ce bilan sert de base à l'élaboration du projet pédagogique personnalisé
+mentionné au deuxième alinéa de l'article L. 337-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L122-1-1
+	  - Code de l'éducation - art. L337-3
+
+
+###### Article D337-165
+
+Le projet pédagogique personnalisé définit, pour l'ensemble de la formation d'apprenti junior, les périodes de formation
+donnant lieu à des bilans d'étape.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-166
+
+Le chef d'établissement du lycée professionnel ou le directeur du centre de formation d'apprentis dans lequel est ouverte la
+formation d'apprenti junior désigne au sein de l'équipe pédagogique un tuteur chargé de suivre l'apprenti junior durant sa
+formation.
+
+En coordination avec les autres membres de l'équipe pédagogique, le tuteur organise des entretiens avec l'apprenti junior
+afin de procéder à des évaluations régulières de la formation, assure la liaison avec son établissement d'origine et avec les
+entreprises qui l'accueillent en stage ou en apprentissage, recherche tout appui susceptible de l'aider à résoudre
+d'éventuelles difficultés liées à sa formation ou à sa vie personnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D311-8 (V)
+
+
+###### Article D337-167
+
+Les stages en milieu professionnel effectués pendant le parcours d'initiation aux métiers sont des stages d'initiation tels
+que définis aux articles D. 331-11 et D. 331-12 du présent code, aux articles R. 715-1 et suivants du code rural, aux
+articles 111 et 114 du code du travail maritime ou par le décret n° 2006-534 du 10 mai 2006 relatif à la protection des
+jeunes âgés de moins de dix-huit ans embarqués sur les navires.
+
+Durant ces stages, l'apprenti junior est suivi par un tuteur. Le chef de l'entreprise où est effectué le stage peut assurer
+lui-même le tutorat ou désigner un tuteur parmi les salariés de l'entreprise, ayant au moins un an d'ancienneté dans celle-
+ci.
+
+Le nombre maximal d'apprentis juniors suivis par un même tuteur est fixé à deux.
+
+Lorsqu'un stage en milieu professionnel tel que défini à l'article L. 331-5 excède une durée de 20 jours de présence dans la
+même entreprise, y compris de manière discontinue, il donne lieu, à l'issue de cette période, au bénéfice de l'apprenti
+junior au versement par cette entreprise d'une gratification correspondant à 20 % du salaire minimum de croissance par heure
+d'activité, sans préjudice du remboursement éventuel par l'entreprise des frais de nourriture et de transport.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-534 2006-05-10
+	  - Code de l'éducation - art. D331-11 (V)
+	  - Code de l'éducation - art. D331-12 (V)
+	  - Code de l'éducation - art. L331-5 (M)
+	  - Code du travail 111, 114
+	  - Code rural R715-1
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+
+###### Article D337-168
+
+A l'issue de chaque phase de formation, les éléments du socle commun de connaissances et de compétences acquis par l'apprenti
+junior sont validés et inscrits dans un livret d'apprenti junior.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-169
+
+L'élève en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat d'apprentissage
+à partir de quinze ans si, au vu d'un bilan portant notamment sur les connaissances et les compétences acquises, il est jugé
+apte à poursuivre l'acquisition du socle commun de connaissances et de compétences par la voie de l'apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+
+###### Article D337-170
+
+Si l'élève en parcours d'initiation aux métiers n'est pas jugé apte à poursuivre l'acquisition du socle commun de
+connaissances et de compétences par la voie de l'apprentissage, il reprend sa scolarité dans les conditions définies à
+l'article D. 337-171 ou poursuit le parcours d'initiation aux métiers sous statut scolaire dans un lycée professionnel ou
+dans un centre de formation d'apprentis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-171
+
+
+###### Article D337-171
+
+Lorsque, en application du troisième alinéa de l'article L. 337-3, l'apprenti junior demande à mettre fin à sa formation pour
+reprendre sa scolarité dans un collège ou un établissement d'enseignement agricole ou maritime, il est procédé lors de son
+retour à un bilan approfondi au vu duquel il intègre la classe qui correspond au niveau de connaissances et de compétences
+qu'il a atteint.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D337-170 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L337-3
 
 
 #### Chapitre VIII : Autres diplômes et titres.
