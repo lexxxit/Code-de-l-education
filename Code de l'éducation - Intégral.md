@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-07-12
+Version Consolidée au 2006-07-29
 
 # Partie législative
 
@@ -29971,6 +29971,333 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 ## Livre Ier : Principes généraux de l'éducation.
 
 ### Titre Ier : Le droit à l'éducation.
+
+#### Chapitre Ier : Dispositions générales.
+
+##### Section unique
+
+##### Sous-section 1 : Les parents d'élèves
+
+###### Article D111-1
+
+Les parents des élèves nouvellement inscrits sont réunis par le directeur d'école ou le chef d'établissement dans les
+premiers jours suivant la rentrée scolaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-2
+
+Le conseil des maîtres présidé par le directeur d'école dans le premier degré, le chef d'établissement dans le second degré
+organisent au moins deux fois par an et par classe une rencontre, qui peut prendre différentes formes, entre les parents et
+les enseignants. Dans les collèges et les lycées, l'information sur l'orientation est organisée chaque année dans ce cadre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-3
+
+Les parents sont tenus régulièrement informés des résultats et du comportement scolaires de leurs enfants notamment par
+l'intermédiaire du livret scolaire dans le premier degré ou du bulletin scolaire dans le second degré. L'école ou
+l'établissement scolaire prend toute mesure adaptée pour que les parents prennent connaissance de ces documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2015 - art. 2 (VD)
+	  - Arrêté du 31 décembre 2015 - art. 3 (VD)
+	  - Arrêté du 31 décembre 2015 - art. 4 (VD)
+	  - Arrêté du 23 mai 2016 - art. 1 (V)
+
+
+###### Article D111-4
+
+Le directeur d'école, le chef d'établissement et les enseignants veillent à ce qu'une réponse soit donnée aux demandes
+d'information et d'entrevues présentées par les parents. Toute réponse négative doit être motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-5
+
+Lors de sa première réunion, le conseil d'école ou le conseil d'administration examine les conditions d'organisation du
+dialogue avec les parents. Le conseil d'école ou le conseil d'administration peut prévoir toutes actions supplémentaires pour
+tenir compte des spécificités locales et des orientations du projet d'école ou d'établissement. Les conditions d'accueil des
+parents sont précisées, ainsi que les conditions dans lesquelles ils peuvent accéder aux espaces numériques de travail. Les
+parents d'élèves sont informés des décisions prises, notamment en ce qui concerne le nombre, la nature et la date des
+rencontres prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+##### Sous-section 2 : Les associations de parents d'élèves
+
+###### Article D111-6
+
+Les articles D. 111-7 à D. 111-10 et D. 111-14 sont applicables aux associations de parents d'élèves, regroupant
+exclusivement des parents d'élèves auxquels sont assimilées les personnes ayant la responsabilité légale d'un ou plusieurs
+élèves et ayant pour objet la défense des intérêts moraux et matériels communs aux parents d'élèves, représentées au conseil
+d'école et à celles représentées au conseil d'administration des établissements publics locaux d'enseignement. Les mêmes
+articles sont applicables aux associations de parents d'élèves représentées au Conseil supérieur de l'éducation, dans les
+conseils académiques et dans les conseils départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D111-14 (V)
+	  - Code de l'éducation - art. D111-7 (V)
+
+
+###### Article D111-7
+
+Dans chaque école et établissement scolaire, un lieu accessible aux parents permet l'affichage de la liste des associations
+de parents d'élèves, avec mention des noms et coordonnées des responsables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D111-10 (V)
+	  - Code de l'éducation - art. D111-6 (V)
+
+
+###### Article D111-8
+
+Les associations de parents d'élèves peuvent prendre connaissance et obtenir copie de la liste des parents d'élèves de
+l'école ou de l'établissement scolaire mentionnant leurs noms, adresses postale et électronique, à la condition que ceux-ci
+aient donné leur accord exprès à cette communication.
+
+Elles doivent bénéficier de moyens matériels d'action, notamment d'une boîte aux lettres et d'un panneau d'affichage situés
+dans un lieu accessible aux parents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D111-10 (V)
+
+
+###### Article D111-9
+
+Le directeur d'école ou le chef d'établissement doit permettre aux associations de parents d'élèves de faire connaître leur
+action auprès des autres parents d'élèves. A cet effet, les documents remis par les associations sont distribués aux élèves
+pour être donnés à leurs parents au fur et à mesure de leur remise.
+
+Ces documents ne font pas l'objet d'un contrôle a priori et doivent être clairement identifiés comme émanant des associations
+de parents d'élèves. Leur contenu, qui doit cependant respecter le principe de laïcité et les dispositions relatives à la vie
+privée et prohibant les injures et diffamations et exclure toute propagande en faveur d'un parti politique ou d'une
+entreprise commerciale, relève de la seule responsabilité des associations.
+
+Les modalités de diffusion de ces documents sont définies en concertation entre le directeur d'école ou le chef
+d'établissement et les associations de parents d'élèves. Sauf disposition contraire arrêtée par le conseil d'école ou le
+conseil d'administration, les documents sont remis par l'association en nombre suffisant pour leur distribution.
+
+En cas de désaccord sur les modalités de diffusion des documents ainsi que, dans le cas où le directeur d'école ou le chef
+d'établissement estime que leur contenu méconnaît le principe, les dispositions ou l'interdiction mentionnés au deuxième
+alinéa, l'association de parents d'élèves concernée ou le directeur d'école ou le chef d'établissement peut saisir l'autorité
+académique qui dispose d'un délai de sept jours pour se prononcer. A défaut de réponse dans ce délai, les documents sont
+diffusés dans les conditions initialement prévues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D111-15 (V)
+
+
+##### Sous-section 3 : Les représentants des parents d'élèves
+
+###### Article D111-10
+
+Pendant la période de quatre semaines précédant les élections au conseil d'école et au conseil d'administration des
+établissements publics locaux d'enseignement, l'article D. 111-7 et le premier alinéa de l'article D. 111-8 sont applicables
+aux parents d'élèves et aux associations de parents d'élèves, candidats à ces élections.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D111-7 (V)
+	  - Code de l'éducation - art. D111-8 (V)
+
+
+###### Article D111-11
+
+Dans les écoles et établissements scolaires, les représentants des parents d'élèves facilitent les relations entre les
+parents d'élèves et les personnels. Ils peuvent intervenir auprès des directeurs d'école ou des chefs d'établissement pour
+évoquer un problème particulier et assurer ainsi une médiation à la demande d'un ou des parents concernés. En toute
+circonstance, les représentants des parents sont tenus à une obligation de confidentialité à l'égard des informations à
+caractère personnel dont ils peuvent avoir connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-12
+
+Les heures de réunion des conseils d'école, des conseils d'administration, des conseils de classe et des conseils de
+discipline sont fixées de manière à permettre la représentation des parents d'élèves.
+
+Dans le second degré, le calendrier de ces réunions doit tenir compte des horaires des classes et, selon les périodes, des
+spécificités de l'établissement, du calendrier des activités scolaires, du calendrier de l'orientation et des examens. Le
+chef d'établissement, lorsqu'il doit procéder à des adaptations en fonction de ces contraintes, organise une concertation
+préalable avec les représentants des parents d'élèves après consultation des représentants des enseignants et des élèves.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-13
+
+Les représentants des parents d'élèves sont destinataires pour l'exercice de leur mandat des mêmes documents que les autres
+membres de l'instance concernée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+
+###### Article D111-14
+
+Un local de l'école ou de l'établissement scolaire peut être mis à la disposition des représentants des parents d'élèves, de
+manière temporaire ou permanente, notamment pour l'organisation de réunions, pendant ou en dehors du temps scolaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D111-6 (V)
+
+
+###### Article D111-15
+
+Tout représentant des parents d'élèves doit pouvoir rendre compte des travaux des instances dans lesquelles il siège. Ces
+comptes rendus sont diffusés dans les conditions définies à l'article D. 111-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-935 du 28 juillet 2006 - art. 1 () JORF 29 juillet 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D111-9 (V)
+
 
 #### Chapitre II : Dispositions particulières aux enfants et adolescents handicapés.
 
