@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-07-29
+Version Consolidée au 2006-08-04
 
 # Partie législative
 
@@ -58071,33 +58071,33 @@ Série S : scientifique.
 
 ###### Article D334-4
 
-L'examen du baccalauréat comprend des épreuves obligatoires et des épreuves facultatives.
+L'examen du baccalauréat comprend des épreuves obligatoires et des épreuves facultatives. 
 
 Le ministre chargé de l'éducation peut prévoir qu'un enseignement obligatoire nouvellement créé fait l'objet d'une épreuve
-facultative pendant une durée qui ne peut excéder trois ans à compter de sa mise en place.
+facultative pendant une durée qui ne peut excéder trois ans à compter de sa mise en place. 
 
 Les épreuves portent sur les disciplines faisant partie des enseignements obligatoires ou des options du cycle terminal de la
-série concernée.
+série concernée. 
 
 Les épreuves sont réparties en deux groupes. Le premier groupe d'épreuves comprend l'ensemble des épreuves obligatoires et,
 le cas échéant, des épreuves facultatives. Le second groupe d'épreuves est constitué d'épreuves de contrôle portant sur les
-disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non.
+disciplines ayant fait l'objet d'épreuves obligatoires du premier groupe, anticipées ou non. 
 
-Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options.
+Les candidats ne peuvent être inscrits à plus de deux épreuves facultatives correspondant aux options. 
 
 La liste, la nature, la durée, le coefficient des épreuves des différentes séries et les conditions dans lesquelles la note
 attribuée à certaines épreuves peut prendre en compte des résultats obtenus en cours d'année scolaire, sont définis par
-arrêté du ministre chargé de l'éducation.
+arrêté du ministre chargé de l'éducation. 
 
 En ce qui concerne l'épreuve d'éducation physique et sportive et certaines épreuves facultatives, la note résulte, pour les
 élèves de classe terminale des lycées publics et des lycées d'enseignement privés sous contrat, du contrôle en cours de
-formation prévu par l'article L. 331-1. Pour les autres candidats, le cas échéant, la note résulte d'un examen terminal.
+formation prévu par l'article L. 331-1. Pour les autres candidats, le cas échéant, la note résulte d'un examen terminal. 
 
-Le ministre chargé de l'éducation arrête la liste des langues que les candidats peuvent choisir à l'examen.
+Le ministre chargé de l'éducation arrête la liste des langues que les candidats peuvent choisir à l'examen. 
 
 L'inscription au baccalauréat impose aux candidats de subir la totalité des épreuves obligatoires sous réserve des
 dispositions prévues aux articles D. 334-6, D. 334-7, D. 334-12, D. 334-13, D. 334-14 et au dernier alinéa de l'article D.
-334-19.
+334-19 et sous réserve de dispositions particulières prévues par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -58110,6 +58110,10 @@ dispositions prévues aux articles D. 334-6, D. 334-7, D. 334-12, D. 334-13, D. 
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-978 du 1 août 2006 - art. 1 () JORF 4 août 2006
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. D334-10 (V)
@@ -58118,12 +58122,10 @@ dispositions prévues aux articles D. 334-6, D. 334-7, D. 334-12, D. 334-13, D. 
 	**Cite**:
 
 	  - Code de l'éducation - art. D334-12 (V)
-	  - Code de l'éducation - art. D334-13 (M)
-	  - Code de l'éducation - art. D334-14 (M)
+	  - Code de l'éducation - art. D334-14 (V)
 	  - Code de l'éducation - art. D334-19 (V)
 	  - Code de l'éducation - art. D334-6 (V)
-	  - Code de l'éducation - art. D334-7 (V)
-	  - Code de l'éducation - art. L331-1 (M)
+	  - Code de l'éducation - art. L331-1 (V)
 
 
 ###### Article D334-5
@@ -58227,6 +58229,11 @@ Après délibération du jury à l'issue du second groupe d'épreuves, sont déc
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
 d'épreuves ne peuvent obtenir une mention.
 
+Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
+candidat.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -58244,6 +58251,14 @@ d'épreuves ne peuvent obtenir une mention.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-978 du 1 août 2006 - art. 2 () JORF 4 août 2006
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ###### Article D334-9
@@ -58310,7 +58325,7 @@ examen est portée au livret scolaire sous la signature du président du jury.
 
 ###### Article D334-11
 
-Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du dernier alinéa de
+Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du sixième alinéa de
 l'article D. 334-8 et de l'article D. 334-14, portent les mentions :
 
 1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
@@ -58333,6 +58348,10 @@ diplômes délivrés aux candidats peuvent comporter l'indication :
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-978 du 1 août 2006 - art. 3 () JORF 4 août 2006
 
 	**Cité par**:
 
@@ -58373,7 +58392,8 @@ chargée de l'organisation de l'examen, selon des modalités fixées par arrêt�
 
 ###### Article D334-13
 
-Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, peuvent
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, ainsi que
+les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports peuvent
 conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la
 première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au
 présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
@@ -58404,6 +58424,10 @@ dispositions du premier alinéa du présent article.
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-978 du 1 août 2006 - art. 4 () JORF 4 août 2006
+
 	**Cité par**:
 
 	  - Arrêté du 30 novembre 2011 - art. 2 (V)
@@ -58414,12 +58438,16 @@ dispositions du premier alinéa du présent article.
 
 ###### Article D334-14
 
-Les dispositions des articles D. 334-12 et D. 334-13 s'appliquent :
+Les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
+peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant
+la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues. Ils ne subissent alors que
+les autres épreuves.
 
-a) Aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave, dans des
-conditions fixées par arrêté du ministre chargé de l'éducation ;
+Les dispositions des deuxième et troisième alinéas de l'article D. 334-13 s'appliquent aux candidats mentionnés au premier
+alinéa du présent article.
 
-b) Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports.
+Pour ces candidats, à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et
+des notes obtenues aux épreuves nouvellement subies.
 
 **Liens relatifs à cet article**
 
@@ -58433,6 +58461,10 @@ b) Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau a
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2006-978 du 1 août 2006 - art. 5 () JORF 4 août 2006
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. D334-11 (VD)
@@ -58441,8 +58473,8 @@ b) Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau a
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D334-12 (V)
 	  - Code de l'éducation - art. D334-13 (M)
+	  - Code de l'action sociale et des familles - art. L114 (V)
 
 
 ##### Section 2 : Organisation de l'examen.
