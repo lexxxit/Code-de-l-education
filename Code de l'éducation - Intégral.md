@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-08-22
+Version Consolidée au 2006-09-02
 
 # Partie législative
 
@@ -32601,16 +32601,17 @@ les sanctions pénales auxquelles elles s'exposent. Il peut diligenter une enqu�
 
 Les personnes responsables de l'enfant sont convoquées pour un entretien avec l'inspecteur d'académie, directeur des services
 départementaux de l'éducation nationale ou son représentant. Celui-ci peut proposer des mesures de nature pédagogique ou
-éducative pour l'élève et des modules de soutien à la responsabilité parentale.
+éducative pour l'élève.
 
-Le contenu et les modalités de ces actions d'aide aux parents sont définies par une instance départementale présidée par le
-préfet et qui comprend en outre des représentants de l'Etat, de la communauté éducative, des caisses d'allocations familiales
-et des associations familiales. Sa composition et ses modalités de fonctionnement sont précisées par arrêté préfectoral.
+Lorsque l'inspecteur d'académie constate une situation de nature à justifier la mise en place d'un contrat de responsabilité
+parentale, il saisit le président du conseil général dans les conditions prévues à l'article R. 222-4-2 du code de l'action
+sociale et des familles. Il en informe préalablement les parents ou le représentant légal du mineur.
 
 S'il constate la poursuite de l'absentéisme de l'enfant, en dépit de l'avertissement prévu au premier alinéa et des mesures
-éventuellement prises en vertu du deuxième alinéa, l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, saisit le procureur de la République des faits susceptibles d'être constitutifs de l'infraction prévue
-à l'article R. 624-7 du code pénal. Il informe de cette saisine les personnes responsables de l'enfant.
+éventuellement prises en vertu du deuxième alinéa, et s'il n'a pas procédé à la saisine du président du conseil général
+prévue à l'alinéa précédent, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, saisit
+le procureur de la République des faits susceptibles d'être constitutifs de l'infraction prévue à l'article R. 624-7 du code
+pénal. Il informe de cette saisine les personnes responsables de l'enfant.
 
 **Liens relatifs à cet article**
 
@@ -32622,9 +32623,14 @@ l'éducation nationale, saisit le procureur de la République des faits suscepti
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L131-8 (M)
+	  - Code de l'action sociale et des familles - art. R222-4-2 (V)
 
 	**Cité par**:
 
@@ -32640,8 +32646,7 @@ l'inspecteur d'académie est effectuée par l'intermédiaire, pour la métropole
 forêt et, pour les départements d'outre-mer, du directeur de l'agriculture et de la forêt. Pour l'application des
 dispositions du deuxième alinéa de l'article R. 131-7 aux mêmes élèves, les personnes responsables sont convoquées par le
 directeur régional de l'agriculture et de la forêt pour la métropole et par le directeur de l'agriculture et de la forêt pour
-les départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature pédagogique ou éducative pour l'élève et des
-modules de soutien à la responsabilité parentale.
+les départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature pédagogique ou éducative pour l'élève.
 
 **Liens relatifs à cet article**
 
@@ -32652,6 +32657,10 @@ modules de soutien à la responsabilité parentale.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Modifié par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
 
 	**Cite**:
 
@@ -40666,7 +40675,7 @@ universitaire.
 
 ###### Article R234-25
 
-Les dispositions des articles R. 234-1 à R. 234-15 et R. 235-1 à R. 235-11 sont applicables dans les régions et les
+Les dispositions des articles R. 234-1 à R. 234-15 et R. 235-1 à R. 235-11-1 sont applicables dans les régions et les
 départements d'outre-mer, sous réserve des dispositions de la présente sous-section.
 
 **Liens relatifs à cet article**
@@ -40681,9 +40690,14 @@ départements d'outre-mer, sous réserve des dispositions de la présente sous-s
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+
 	**Cite**:
 
-	  - Code de l'éducation R234-1 à R234-15, R235-1 à R235-11
+	  - Code de l'éducation - art. R234-1 (V)
+	  - Code de l'éducation - art. R235-1 (VT)
 
 
 ###### Article R234-26
@@ -41551,6 +41565,42 @@ c) Sur les modalités générales d'attribution des subventions allouées aux co
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
+###### Article R235-11-1
+
+Le conseil départemental de l'éducation nationale peut instituer, selon des modalités définies dans le règlement intérieur
+prévu à l'article R. 235-9, une section spécialisée. Cette section spécialisée peut être saisie, pour avis, de mesures
+destinées à renforcer l'assiduité scolaire, et notamment des aides aux familles envisagées à cette fin par le président du
+conseil général. Elle est également informée de leur mise en oeuvre. 
+
+Cette section est présidée, selon que les questions qui lui sont soumises relèvent de la compétence de l'Etat ou du
+département, par le préfet du département ou par le président du conseil général. 
+
+Elle comprend, outre des membres du conseil départemental représentant les trois catégories mentionnées à l'article R. 235-2,
+dont le nombre est déterminé par délibération du conseil départemental siégeant en formation plénière, deux membres
+représentant les organismes débiteurs des prestations familiales nommés par le préfet sur proposition desdits organismes et
+deux membres représentant les associations familiales nommés par le président du conseil général sur proposition de l'union
+départementale des associations familiales.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R235-2 (VT)
+	  - Code de l'éducation - art. R235-9 (VT)
+
+
 ##### Section 2 : Dispositions particulières au département de Paris.
 
 ###### Article R235-12
@@ -41661,7 +41711,7 @@ peuvent être entendus par le conseil qu'après accord des autorités dont ils d
 
 ###### Article R235-16
 
-Les dispositions des articles R. 235-1 à R. 235-11 s'appliquent également au conseil de l'éducation nationale de Paris sous
+Les dispositions des articles R. 235-1 à R. 235-11-1 s'appliquent également au conseil de l'éducation nationale de Paris sous
 réserve des articles de la présente section.
 
 **Liens relatifs à cet article**
@@ -41675,16 +41725,20 @@ réserve des articles de la présente section.
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+
 	**Cite**:
 
-	  - Code de l'éducation R235-1 à R235-11
+	  - Code de l'éducation - art. R235-1 (VT)
 
 
 ##### Section 3 : Dispositions particulières à la collectivité territoriale de Corse.
 
 ###### Article R235-17
 
-Les dispositions des articles R. 235-1 à R. 235-11 sont applicables au conseil de l'éducation nationale de chacun des deux
+Les dispositions des articles R. 235-1 à R. 235-11-1 sont applicables au conseil de l'éducation nationale de chacun des deux
 départements de la collectivité territoriale de Corse, sous réserve des dispositions relatives aux compétences en matière de
 collèges qui relèvent du conseil de l'éducation nationale de l'académie de Corse conformément aux dispositions des articles
 R. 234-22 à R. 234-24.
@@ -41700,9 +41754,14 @@ R. 234-22 à R. 234-24.
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+
 	**Cite**:
 
-	  - Code de l'éducation R235-1 à R235-11, R234-22 à R234-24
+	  - Code de l'éducation - art. R234-22 (V)
+	  - Code de l'éducation - art. R235-1 (VT)
 
 
 #### Chapitre VII : Les instances consultatives et juridictionnelles en matière de relations éducation-économie et de formation professionnelle
