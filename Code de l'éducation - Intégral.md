@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-09-15
+Version Consolidée au 2006-11-01
 
 # Partie législative
 
@@ -44025,33 +44025,22 @@ de ses activités, détermine sa méthodologie.
 
 Les fonctions de membres du Conseil supérieur des bibliothèques sont gratuites. Il peut toutefois être alloué des indemnités
 correspondant aux frais de déplacement et de séjour effectivement supportés à l'occasion des réunions du Conseil supérieur
-des bibliothèques dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 fixant les conditions et les modalités
-de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France
-lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de
-certains organismes subventionnés et le décret n° 89-271 du 12 avril 1989 fixant les conditions et modalités de règlement des
-frais de déplacement des personnels civils à l'intérieur des départements d'outre-mer, entre la métropole et ces
-départements, et pour se rendre d'un département d'outre-mer à l'autre.
-
-**Nota:**
-
-Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
-des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
-présent décret à compter du 1er novembre 2006.
+des bibliothèques dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les
+modalités de règlement des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
 	**Cite**:
 
-	  - Décret n°89-271 1989-04-12
-	  - Décret n°90-437 1990-05-28
+	  - Décret n°2006-781 du 3 juillet 2006 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
 
 	**Anciens textes**:
 
@@ -45586,36 +45575,33 @@ Les article D. 242-1 à D. 242-14 ont été abrogés par l'article 19 du décret
 
 ###### Article D*261-7
 
-Pour son application dans les îles Wallis et Futuna, le premier alinéa de l'article D. 242-12 est ainsi rédigé :
+Pour son application dans les îles Wallis et Futuna, le premier alinéa de l'article D. 242-12 est ainsi rédigé : 
 
 " Les membres du Comité national d'évaluation bénéficient du remboursement de leurs frais de déplacement dans les conditions
-prévues par le décret n° 98-844 du 22 septembre 1998 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils de l'Etat à l'intérieur d'un territoire d'outre-mer, entre la
-métropole et un territoire d'outre-mer, entre deux territoires d'outre-mer et entre un territoire d'outre-mer et un
-département d'outre-mer, la collectivité territoriale de Mayotte ou celle de Saint-Pierre-et-Miquelon. "
+prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés
+par les déplacements temporaires des personnels civils de l'Etat. "
 
 **Nota:**
-
-Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
-des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
-présent décret à compter du 1er novembre 2006.
 
 Les article D. 242-1 à D. 242-14 ont été abrogés par l'article 19 du décret n° 2006-1334 du 3 novembre 2006.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-844 1998-09-22
-
 	**Anciens textes**:
 
-	  - Décret n°99-626 1999-07-21 art. 1, alinéa 3 en ce qui concerne Wallis et Futuna
 	  - Décret n°99-626 du 21 juillet 1999 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-702 2004-07-13 JORF 17 juillet 2004
+	  - Décret n°2006-781 du 3 juillet 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-756 du 19 août 2013 - art. 8
 
 
 ###### Article D261-3
@@ -45900,37 +45886,33 @@ Les article D. 242-1 à D. 242-14 ont été abrogés par l'article 19 du décret
 
 ###### Article D*263-10
 
-Pour son application en Polynésie française, le premier alinéa de l'article D. 242-12 est ainsi rédigé :
+Pour son application en Polynésie française, le premier alinéa de l'article D. 242-12 est ainsi rédigé : 
 
 " Les membres du Comité national d'évaluation bénéficient du remboursement de leurs frais de déplacement dans les conditions
-prévues par le décret n° 98-844 du 22 septembre 1998 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils de l'Etat à l'intérieur d'un territoire d'outre-mer, entre la
-métropole et un territoire d'outre-mer, entre deux territoires d'outre-mer et entre un territoire d'outre-mer et un
-département d'outre-mer, la collectivité territoriale de Mayotte ou celle de Saint-Pierre-et-Miquelon. "
+prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés
+par les déplacements temporaires des personnels civils de l'Etat. "
 
 **Nota:**
-
-Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
-des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
-présent décret à compter du 1er novembre 2006.
 
 Les article D. 242-1 à D. 242-14 ont été abrogés par l'article 19 du décret n° 2006-1334 du 3 novembre 2006.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-844 1998-09-22
-	  - Code de l'éducation D242-12
-
 	**Anciens textes**:
 
-	  - Décret n°99-626 1999-07-21 art. 1, alinéa 3 en ce qui concerne la Polynésie française
 	  - Décret n°99-626 du 21 juillet 1999 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-702 2004-07-13 JORF 17 juillet 2004
+	  - Décret n°2006-781 du 3 juillet 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-756 du 19 août 2013 - art. 8
 
 
 ###### Article D263-4
@@ -46231,37 +46213,33 @@ Les articles D. 233-1 à D. 233-6 sont applicables en Nouvelle-Calédonie.
 
 ###### Article D264-10
 
-Pour son application en Nouvelle-Calédonie, le premier alinéa de l'article D. 242-12 est ainsi rédigé :
+Pour son application en Nouvelle-Calédonie, le premier alinéa de l'article D. 242-12 est ainsi rédigé : 
 
 " Les membres du Comité national d'évaluation bénéficient du remboursement de leurs frais de déplacement dans les conditions
-prévues par le décret n° 98-844 du 22 septembre 1998 fixant les conditions et les modalités de règlement des frais
-occasionnés par les déplacements des personnels civils de l'Etat à l'intérieur d'un territoire d'outre-mer, entre la
-métropole et un territoire d'outre-mer, entre deux territoires d'outre-mer et entre un territoire d'outre-mer et un
-département d'outre-mer, la collectivité territoriale de Mayotte ou celle de Saint-Pierre-et-Miquelon. "
+prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement des frais occasionnés
+par les déplacements temporaires des personnels civils de l'Etat. "
 
 **Nota:**
-
-Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires,
-des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du
-présent décret à compter du 1er novembre 2006.
 
 Les article D. 242-1 à D. 242-14 ont été abrogés par l'article 19 du décret n° 2006-1334 du 3 novembre 2006.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°98-844 1998-09-22
-	  - Code de l'éducation D242-12
-
 	**Anciens textes**:
 
-	  - Décret n°99-626 1999-07-21 art. 1, alinéa 3 en ce qui concerne la Nouvelle-Calédonie
 	  - Décret n°99-626 du 21 juillet 1999 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-702 2004-07-13 JORF 17 juillet 2004
+	  - Décret n°2006-781 du 3 juillet 2006
+
+	**Modifié par**:
+
+	  - Décret n°2006-781 du 3 juillet 2006 - art. 12 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-756 du 19 août 2013 - art. 8
 
 
 ###### Article D264-11
