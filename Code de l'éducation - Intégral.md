@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-12-20
+Version Consolidée au 2006-12-31
 
 # Partie législative
 
@@ -7407,24 +7407,18 @@ affectés au développement des enseignements artistiques.
 	  - Loi n°2013-595 du 8 juillet 2013 - art. 79
 
 
-##### Chapitre II : Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel.
+##### Chapitre II : L'évaluation des établissements publics à caractère scientifique, culturel et professionnel
 
 ###### Article L242-1
 
-Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel procède à
-l'évaluation des réalisations dans l'accomplissement des missions définies à l'article L. 123-3. En liaison avec les
-organismes chargés d'élaborer et d'appliquer la politique de formation et de recherche, il évalue les établissements et
-apprécie les résultats des contrats passés par eux. Il dispose d'un pouvoir d'investigation sur pièces et sur place. Il
-recommande les mesures propres à améliorer le fonctionnement des établissements ainsi que l'efficacité de l'enseignement et
-de la recherche, notamment au regard de la carte des formations supérieures et des conditions d'accès et d'orientation des
-étudiants. Il établit et publie périodiquement un rapport sur son activité et sur l'état de l'enseignement supérieur et de la
-recherche. Celui-ci est transmis au Conseil national de l'enseignement supérieur et de la recherche.
+L'évaluation des établissements publics à caractère scientifique, culturel et professionnel est assurée par l'Agence de
+l'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
 d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006. L'Agence d'évaluation a été installée le 21 mars 2007.
+L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.L'Agence d'évaluation a été installée le 21 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -7437,6 +7431,10 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006. L'Agence 
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
 
 	**Cité par**:
 
@@ -7450,48 +7448,7 @@ L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006. L'Agence 
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L123-3 (M)
-
-
-##### Chapitre II : Le Comité national d'évaluation des établissements public à caractère scientifique, culturel et professionnel
-
-###### Article L242-2
-
-Le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel constitue une
-autorité administrative indépendante.
-
-Un décret précise la composition et les règles de fonctionnement du comité ainsi que les conditions de nomination ou
-d'élection de ses membres.
-
-**Nota:**
-
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article
-L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-52 1984-01-26 art. 65
-	  - Loi n°84-52 du 26 janvier 1984 - art. 65 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L261-1 (M)
-	  - Code de l'éducation - art. L262-1 (M)
-	  - Code de l'éducation - art. L263-1 (M)
-	  - Code de l'éducation - art. L264-1 (M)
+	  - Code de la recherche - art. L114-3-1 (V)
 
 
 #### Titre V : Dispositions relatives à Saint-Pierre-et-Miquelon.
@@ -20888,8 +20845,8 @@ Leurs activités de formation, de recherche et de documentation peuvent faire l'
 dans le cadre de la carte des formations supérieures définie à l'article L. 614-3. Ces contrats fixent certaines obligations
 des établissements et prévoient les moyens et emplois correspondants pouvant être mis à leur disposition par l'Etat.
 L'attribution de ces moyens s'effectue annuellement dans les limites prévues par la loi de finances. Les établissements
-rendent compte périodiquement de l'exécution de leurs engagements ; leurs rapports sont soumis au comité national
-d'évaluation prévu à l'article L. 242-1.
+rendent compte périodiquement de l'exécution de leurs engagements ; leurs rapports sont soumis à l'Agence d'évaluation de la
+recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche (1).
 
 Dans le cadre des missions qui leur sont dévolues par le présent code et afin de faire connaître leurs réalisations, tant sur
 le plan national qu'international, ces établissements peuvent assurer, par voie de convention approuvée par le conseil
@@ -20901,9 +20858,14 @@ participer à des groupements et créer des filiales dans des conditions fixées
 recourir à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers. Ils peuvent
 transiger au sens de l'article 2044 du code civil, dans des conditions définies par décret.
 
+L'État tient compte des résultats de l'évaluation réalisée par l'Agence d'évaluation de la recherche et de l'enseignement
+supérieur, en particulier des résultats obtenus en application des dispositions de l'article L. 114-3-2 du code de la
+recherche, pour déterminer les engagements financiers qu'il prend envers les établissements dans le cadre des contrats
+pluriannuels susmentionnés.
+
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+NOTA (1) : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
 d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
 114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
@@ -20998,11 +20960,17 @@ d'installation du conseil de l'Agence d'évaluation de la recherche et de l'ense
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
+	  - loi n°2006-450 du 18 avril 2006 - art. 8 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
+
 	**Cite**:
 
 	  - Code civil - art. 2044 (V)
+	  - Code de la recherche - art. L114-3-1 (V)
+	  - Code de la recherche - art. L114-3-2 (V)
 	  - Code de l'éducation - art. L123-5 (M)
-	  - Code de l'éducation - art. L242-1 (M)
 	  - Code de l'éducation - art. L614-3 (V)
 	  - Code de l'éducation - art. L715-2 (V)
 
@@ -21122,21 +21090,22 @@ l'importance relative de cette représentation au sein de l'organe délibérant 
 représentation propre et authentique des autres personnels et des usagers. Elles ne peuvent porter atteinte au principe de
 l'élection des représentants de ces différentes catégories au sein de l'organe délibérant.
 
-Les expérimentations prévues à l'alinéa précédent font l'objet d'une évaluation par le Comité national d'évaluation des
-établissements publics à caractère scientifique, culturel et professionnel. Le comité établit, pour chaque établissement, un
-rapport qu'il adresse au Parlement et au ministre chargé de l'enseignement supérieur au plus tard six mois avant la fin de
-l'expérimentation.
+Les expérimentations prévues à l'alinéa précédent font l'objet d'une évaluation par l'Agence d'évaluation de la recherche et
+de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche. L'agence établit, pour chaque
+établissement, un rapport qu'elle adresse au Parlement et au ministre chargé de l'enseignement supérieur au plus tard six
+mois avant la fin de l'expérimentation.
 
 Dans le cas où un établissement entend mettre fin à l'expérimentation avant l'expiration du délai de cinq ans susmentionné,
 l'autorité exécutive de l'établissement demande au ministre chargé de l'enseignement supérieur de faire procéder à
-l'évaluation par le Comité national d'évaluation ; ce dernier adresse son rapport au ministre et à l'autorité exécutive de
-l'établissement dans un délai de six mois à compter de la date de la demande de l'autorité exécutive ; il émet notamment un
-avis sur l'opportunité de la poursuite de l'expérimentation ; au vu de cet avis, il appartient à l'établissement de prendre
-la décision de poursuivre l'expérimentation jusqu'au terme du délai de cinq ans ou de l'arrêter.
+l'évaluation par l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du
+code de la recherche ; cette dernière adresse son rapport au ministre et à l'autorité exécutive de l'établissement dans un
+délai de six mois à compter de la date de la demande de l'autorité exécutive ; elle émet notamment un avis sur l'opportunité
+de la poursuite de l'expérimentation ; au vu de cet avis, il appartient à l'établissement de prendre la décision de
+poursuivre l'expérimentation jusqu'au terme du délai de cinq ans ou de l'arrêter.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
 d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
 114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
@@ -21151,6 +21120,10 @@ d'installation du conseil de l'Agence d'évaluation de la recherche et de l'ense
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
 
 	**Cité par**:
 
@@ -21171,6 +21144,7 @@ d'installation du conseil de l'Agence d'évaluation de la recherche et de l'ense
 
 	**Cite**:
 
+	  - Code de la recherche - art. L114-3-1 (V)
 	  - Code de l'éducation - art. L713-1 (M)
 	  - Code de l'éducation - art. L714-1 (V)
 	  - Code de l'éducation L712-1 à L712-3, L712-5 à L712-7, L713-1, L714-1, L715-1 à L715-3, L719-1 à L719-3
@@ -23526,9 +23500,9 @@ assimilés, pour l'application de ces dispositions, à des écoles faisant parti
 
 Des conventions peuvent être conclues, en tant que de besoin, avec d'autres établissements d'enseignement supérieur.
 
-D'ici 2010, le Comité national d'évaluation des établissements publics à caractère scientifique, culturel et professionnel
-procède à une évaluation des modalités et des résultats de l'intégration des instituts universitaires de formation des
-maîtres au sein des universités, notamment au regard des objectifs qui leur sont fixés.
+D'ici 2010, l'Agence d'évaluation de la recherche et de l'enseignement supérieur procède à une évaluation des modalités et
+des résultats de l'intégration des instituts universitaires de formation des maîtres au sein des universités, notamment au
+regard des objectifs qui leur sont fixés.
 
 Dans le cadre des orientations définies par l'Etat, ces instituts universitaires de formation des maîtres conduisent les
 actions de formation professionnelle initiale des personnels enseignants. Celles-ci comprennent des parties communes à
@@ -23541,12 +23515,10 @@ Ils organisent des formations de préparation professionnelle en faveur des étu
 
 **Nota:**
 
-NOTA : Loi 2005-380 du 23 avril 2005 art. 87 : l'article L. 721-1 demeure applicable aux instituts universitaires de
-formation des maîtres jusqu'à la date de leur intégration dans l'une des universités de rattachement.
-
-NOTA : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
+Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
 d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
-114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.L'Agence d'évaluation de la recherche et de
+l'enseignement supérieur a été installée le 21 mars 2007.
 
 **Liens relatifs à cet article**
 
@@ -23589,7 +23561,7 @@ d'installation du conseil de l'Agence d'évaluation de la recherche et de l'ense
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 45 () JORF 24 avril 2005
+	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
 
 	**Cite**:
 
