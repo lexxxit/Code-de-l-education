@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 
 # Partie législative
 
@@ -33543,7 +33543,7 @@ a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
 b) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
 
-c) Centre d'expérimentation pédagogique de Florac (Lozère) ;
+c) (Abrogé)
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
@@ -33587,7 +33587,7 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Décret n°2006-610 du 26 mai 2006 - art. 4 () JORF 28 mai 2006 en vigueur le 27 juin 2006
+	  - Décret n°2006-1593 du 13 décembre 2006 - art. 30 () JORF 14 décembre 2006 en vigueur le 1er janvier 2007
 
 	**Cite**:
 
