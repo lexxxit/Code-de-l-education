@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-01-01
+Version Consolidée au 2007-02-21
 
 # Partie législative
 
@@ -4918,27 +4918,27 @@ La carte de ces formations et de ces activités est arrêtée par l'Etat, après
 
 Les compétences de la collectivité territoriale de Corse en matière d'éducation et de formation professionnelle sont fixées
 par les dispositions des articles L. 4424-1 à L. 4424-5 et L. 4424-34 du code général des collectivités territoriales, ci-
-après reproduites :
+après reproduites : 
 
-Art. L. 4424-1. - La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du
+Art.L. 4424-1.-La collectivité territoriale de Corse établit et transmet au représentant de l'Etat, après consultation du
 conseil économique, social et culturel de Corse et compte tenu des orientations fixées par le plan, le schéma prévisionnel
 des formations des collèges, des lycées, des établissements d'enseignement professionnel, des établissements d'enseignement
 artistique, des établissements d'éducation spéciale, des lycées professionnels maritimes, des établissements d'enseignement
-agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation.
+agricole mentionnés à l'article L. 811-8 du code rural et des centres d'information et d'orientation. 
 
 Elle associe les représentants désignés par les établissements d'enseignement privé sous contrat à l'élaboration de ce
-schéma.
+schéma. 
 
 La collectivité territoriale de Corse établit, après accord de chacune des collectivités concernées par les projets situés
 sur leur territoire, le programme prévisionnel des investissements relatifs aux établissements cités au premier alinéa.
 
 A ce titre, la collectivité territoriale de Corse définit la localisation des établissements, leur capacité d'accueil et le
-mode d'hébergement des élèves.
+mode d'hébergement des élèves. 
 
 Chaque année, après avoir consulté le conseil économique, social et culturel de Corse et recueilli l'avis du représentant de
 l'Etat, la collectivité territoriale de Corse arrête la liste des opérations de construction ou d'extension des
 établissements précités. Cette liste est arrêtée compte tenu du programme prévisionnel des investissements et après accord de
-la commune d'implantation.
+la commune d'implantation. 
 
 Chaque année, la collectivité territoriale de Corse arrête la structure pédagogique générale des établissements
 d'enseignement du second degré en tenant compte du schéma prévisionnel des formations.
@@ -4946,12 +4946,26 @@ d'enseignement du second degré en tenant compte du schéma prévisionnel des fo
 A cette fin, après concertation avec le président du conseil exécutif de Corse, l'Etat fait connaître à l'Assemblée de Corse
 les moyens qu'il se propose d'attribuer à l'académie de Corse. La structure pédagogique devient définitive lorsqu'une
 convention portant sur les moyens attribués par l'Etat à l'académie de Corse et leurs modalités d'utilisation a été conclue
-entre le représentant de l'Etat et le président du conseil exécutif mandaté à cet effet.
+entre le représentant de l'Etat et le président du conseil exécutif mandaté à cet effet. 
 
-Art. L. 4424-2. - La collectivité territoriale de Corse finance, construit, équipe et entretient les collèges, les lycées,
-les établissements publics d'enseignement professionnel, les établissements d'enseignement artistique, les établissements
+Art.L. 4424-2.-La collectivité territoriale de Corse finance, construit, équipe et entretient les collèges, les lycées, les
+établissements publics d'enseignement professionnel, les établissements d'enseignement artistique, les établissements
 d'éducation spéciale, ainsi que les lycées professionnels maritimes, les établissements d'enseignement agricole mentionnés à
-l'article L. 811-8 du code rural et les centres d'information et d'orientation.
+l'article L. 811-8 du code rural et les centres d'information et d'orientation. 
+
+La collectivité territoriale de Corse assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et
+technique, à l'exception des missions d'encadrement et de surveillance des élèves, dans les établissements d'enseignement
+dont elle a la charge. 
+
+Elle assure le recrutement, la gestion et la rémunération des personnels techniciens, ouvriers et de service exerçant leurs
+missions dans ces établissements. Ces personnels sont membres de la communauté éducative et concourent directement aux
+missions du service public de l'éducation nationale dans les conditions fixées par les articles L. 421-13 et L. 913-1 du code
+de l'éducation. 
+
+Les deuxième et troisième alinéas du présent article sont applicables à partir du 1er janvier 2005. 
+
+Les articles 104 à 111 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales s'appliquent au
+transfert de compétences prévu par les trois alinéas précédents. 
 
 La collectivité territoriale de Corse peut confier la maîtrise d'ouvrage des travaux de construction, d'équipement et
 d'entretien des établissements relevant de sa compétence aux départements et aux communes qui le demandent. Une convention
@@ -4959,39 +4973,39 @@ détermine les modalités de cette délégation.
 
 L'Etat assure aux collèges, lycées, établissements publics d'enseignement professionnel, d'éducation spéciale, ainsi qu'aux
 lycées professionnels maritimes, aux établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et
-aux centres d'information et d'orientation, les moyens financiers directement liés à leur activité pédagogique.
+aux centres d'information et d'orientation, les moyens financiers directement liés à leur activité pédagogique. 
 
-Art. L. 4424-3. - Dans le cadre de la politique nationale de l'enseignement supérieur, le président du conseil exécutif
-présente à l'Assemblée de Corse les propositions relatives à l'enseignement supérieur et à la recherche, après avis de
-l'université de Corse.
+Art.L. 4424-3.-Dans le cadre de la politique nationale de l'enseignement supérieur, le président du conseil exécutif présente
+à l'Assemblée de Corse les propositions relatives à l'enseignement supérieur et à la recherche, après avis de l'université de
+Corse. 
 
 Sur cette base, l'Assemblée de Corse établit, en fonction des priorités qu'elle détermine en matière de développement
 culturel, économique et social et après consultation du conseil économique, social et culturel de Corse, la carte de
 l'enseignement supérieur et de la recherche. Cette carte devient définitive lorsqu'elle a fait l'objet d'une convention entre
-la collectivité territoriale de Corse, l'Etat et l'université de Corse.
+la collectivité territoriale de Corse, l'Etat et l'université de Corse. 
 
 La collectivité territoriale de Corse peut, par délibération de l'Assemblée, organiser ses propres actions complémentaires
 d'enseignement supérieur et de recherche, sans préjudice des compétences de l'Etat en matière d'homologation des titres et
 diplômes. Elle passe, à cette fin, des conventions avec des établissements d'enseignement supérieur ou des organismes de
-recherche.
+recherche. 
 
-Art. L. 4424-4. - La collectivité territoriale de Corse finance, construit, équipe et entretient les établissements
-d'enseignement supérieur figurant à la carte prévue à l'article L. 4424-3. L'Etat assure à ces établissements les moyens
-financiers directement liés à leurs activités pédagogiques et de recherche.
+Art.L. 4424-4.-La collectivité territoriale de Corse finance, construit, équipe et entretient les établissements
+d'enseignement supérieur figurant à la carte prévue à l'article L. 4424-3.L'Etat assure à ces établissements les moyens
+financiers directement liés à leurs activités pédagogiques et de recherche. 
 
-Art. L. 4424-5. - Sur proposition du conseil exécutif, qui recueille l'avis du conseil économique, social et culturel de
-Corse, l'Assemblée détermine les activités éducatives complémentaires que la collectivité territoriale de Corse organise.
+Art.L. 4424-5.-Sur proposition du conseil exécutif, qui recueille l'avis du conseil économique, social et culturel de Corse,
+l'Assemblée détermine les activités éducatives complémentaires que la collectivité territoriale de Corse organise.
 
 L'Assemblée adopte, dans les mêmes conditions, un plan de développement de l'enseignement de la langue et de la culture
 corses, dont les modalités d'application font l'objet d'une convention conclue entre la collectivité territoriale de Corse et
-l'Etat.
+l'Etat. 
 
 Cette convention prévoit les mesures d'accompagnement nécessaires, et notamment celles relatives à la formation initiale et à
-la formation continue des enseignants.
+la formation continue des enseignants. 
 
-Art. L. 4424-34. - La collectivité territoriale de Corse assure la mise en oeuvre des actions d'apprentissage et de formation
+Art.L. 4424-34.-La collectivité territoriale de Corse assure la mise en oeuvre des actions d'apprentissage et de formation
 professionnelle continue dans les conditions prévues pour les régions aux articles L. 214-12 à L. 214-16 du code de
-l'éducation.
+l'éducation. 
 
 Elle élabore, en concertation avec l'Etat et après consultation des départements et du conseil économique, social et culturel
 de Corse, le plan régional de développement de la formation professionnelle des jeunes et des adultes, dont elle assure la
@@ -5003,25 +5017,35 @@ programme des opérations d'équipement pour la Corse.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L811-8
-	  - Code général des collectivités territoriales - art. L4424-34 (M)
-	  - Code général des collectivités territoriales L4424-1 à L4424-5, L4424-34
-	  - Code de l'éducation L4424-3, L214-12 à L214-16
-
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 14 () JORF 19 janvier 2005
+	  - Loi n°2004-809 du 13 août 2004 - art. 104 (V)
+	  - Code de l'éducation - art. L214-12 (V)
+	  - Code de l'éducation - art. L421-13 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+	  - Code rural - art. L811-8 (V)
 
 	**Cité par**:
 
 	  - Décret n°2006-753 du 29 juin 2006 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2007-209 du 19 février 2007 - art. 59 () JORF 21 février 2007
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-1 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-2 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-3 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-34 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-4 (V)
+	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L4424-5 (V)
 
 
 ##### Chapitre VI : Les compétences communes aux collectivités territoriales.
@@ -26217,25 +26241,25 @@ Les communes ou les établissements publics de coopération intercommunale qui e
 construction, de la reconstruction, de l'extension, des grosses réparations et de l'équipement des locaux destinés au
 logement des étudiants.
 
-Les biens appartenant à l'Etat et affectés au logement des étudiants sont transférés, par arrêté du représentant de l'Etat
-dans le département, aux communes ou aux établissements publics de coopération intercommunale qui ont demandé à assumer la
-charge de la construction, de la reconstruction, de l'extension, des grosses réparations et de l'équipement des locaux
-destinés au logement des étudiants. Ce transfert se fait à titre gratuit et ne donne lieu au paiement d'aucune indemnité,
-droit, taxe, salaire ou honoraires. La gestion de ces logements est assurée par le centre régional des oeuvres universitaires
-et scolaires territorialement compétent, dans le cadre d'une convention conclue entre celui-ci, d'une part, la commune ou
-l'établissement public de coopération intercommunale bénéficiaire du transfert, d'autre part. Dans des conditions fixées par
-décret en Conseil d'Etat, cette convention dresse un diagnostic de l'état des logements et détermine les obligations
-respectives des signataires et notamment les objectifs de gestion qui sont assignés au centre régional des oeuvres
-universitaires et scolaires, ainsi que les modalités de la participation des représentants de la commune ou de
+Les biens appartenant à l'Etat ou à un établissement public et affectés au logement des étudiants sont transférés, par arrêté
+du représentant de l'Etat dans le département, aux communes ou aux établissements publics de coopération intercommunale qui
+ont demandé à assumer la charge de la construction, de la reconstruction, de l'extension, des grosses réparations et de
+l'équipement des locaux destinés au logement des étudiants. Ce transfert se fait à titre gratuit et ne donne lieu au paiement
+d'aucune indemnité, droit, taxe, salaire ou honoraires. La gestion de ces logements est assurée par le centre régional des
+oeuvres universitaires et scolaires territorialement compétent, dans le cadre d'une convention conclue entre celui-ci, d'une
+part, la commune ou l'établissement public de coopération intercommunale bénéficiaire du transfert, d'autre part. Dans des
+conditions fixées par décret en Conseil d'Etat, cette convention dresse un diagnostic de l'état des logements et détermine
+les obligations respectives des signataires et notamment les objectifs de gestion qui sont assignés au centre régional des
+oeuvres universitaires et scolaires, ainsi que les modalités de la participation des représentants de la commune ou de
 l'établissement public de coopération intercommunale concernés aux décisions d'attribution.
 
 L'exécution des conventions conclues avant la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 relative aux
 libertés et responsabilités locales entre des organismes publics d'habitations à loyer modéré ou des sociétés d'économie
 mixte, l'Etat et un centre régional des oeuvres universitaires et scolaires pour la construction ou la réhabilitation de
 logements sociaux étudiants se poursuit jusqu'au terme de celles-ci. A compter de cette date, les communes ou leurs
-groupements sont substitués à l'Etat dans les droits et obligations résultant de ces conventions. A compter de la date
-d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 précitée, ils peuvent y mettre fin à condition de supporter les
-charges financières afférentes.
+groupements sont substitués à l'Etat ou, le cas échéant, à l'établissement public dans les droits et obligations résultant de
+ces conventions. A compter de la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004 précitée, ils peuvent y
+mettre fin à condition de supporter les charges financières afférentes.
 
 Pour la région d'Ile-de-France, la politique de logement des étudiants fait l'objet d'un schéma élaboré par le conseil
 régional. En Ile-de-France, la compétence prévue au troisième alinéa est transférée à la région, à sa demande, si la commune
@@ -26264,10 +26288,6 @@ propositions en matière d'accès aux logements des étudiants des Français ét
 
 	  - Loi n°2004-809 2004-08-13
 
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 66 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
 	**Cité par**:
 
 	  - Décret n°2006-44 du 9 janvier 2006 - art. 1 (Ab)
@@ -26291,6 +26311,10 @@ propositions en matière d'accès aux logements des étudiants des Français ét
 	  - Code de l'éducation - art. R822-30 (V)
 	  - Code général des collectivités territoriales - art. L5217-2 (V)
 	  - Code général des impôts, CGI. - art. 1042 B (M)
+
+	**Modifié par**:
+
+	  - Loi n°2007-209 du 19 février 2007 - art. 63 () JORF 21 février 2007
 
 
 ###### Article L822-2
