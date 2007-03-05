@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-03-06
 
 # Partie législative
 
@@ -1712,7 +1712,7 @@ parentale.
 
 ###### Article L131-10
 
-Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille sont dès la première année, et tous
+Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille, sont dès la première année, et tous
 les deux ans, l'objet d'une enquête de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguées
 par les personnes responsables, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et
 les conditions de vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie, directeur des
@@ -1724,7 +1724,8 @@ L'inspecteur d'académie doit au moins une fois par an, à partir du troisième 
 famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à
 l'article L. 131-1-1.
 
-Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant.
+Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant. Il vérifie notamment
+que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille.
 
 Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans préjudice de
 l'application des sanctions pénales.
@@ -1748,7 +1749,7 @@ l'établissement qu'ils auront choisi.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
+	  - Loi n°2007-293 du 5 mars 2007 - art. 32 () JORF 6 mars 2007
 
 	**Cite**:
 
@@ -15485,8 +15486,8 @@ académique est complété par deux représentants de cette forme d'enseignement
 
 ###### Article L444-5
 
-Les personnels de direction et d'enseignement doivent satisfaire à des conditions de moralité, diplômes, titres et
-références.
+Les personnels de direction et d'enseignement doivent satisfaire à des conditions de moralité, diplômes, titres et références
+définies par décret.
 
 Les étrangers non ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
 l'espace économique européen sont autorisés à diriger et à enseigner par décision du recteur d'académie, lorsqu'ils
@@ -15503,6 +15504,10 @@ remplissent les conditions de capacité requises.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 33 () JORF 6 mars 2007
+
 	**Cité par**:
 
 	  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
@@ -15515,14 +15520,17 @@ remplissent les conditions de capacité requises.
 
 Sont incapables d'exercer une fonction quelconque de direction et d'être employés à des fonctions didactiques supposant, même
 occasionnellement, la présence physique du maître dans les lieux où l'enseignement est reçu, dans un organisme privé
-d'enseignement à distance :
+d'enseignement à distance : 
 
-a) Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ;
+a) Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ; 
 
 b) Ceux qui ont été privés par jugement de tout ou partie des droits civils, civiques et de famille mentionnés à l'article
-131-26 du code pénal, ou qui ont été déchus de l'autorité parentale ;
+131-26 du code pénal, ou qui ont été déchus de l'autorité parentale ; 
 
-c) Ceux qui ont été frappés d'interdiction absolue d'enseigner.
+c) Ceux qui ont été frappés d'interdiction absolue d'enseigner ; 
+
+d) Ceux qui ont été condamnés à une peine d'au moins deux mois d'emprisonnement sans sursis pour les délits prévus à
+l'article 223-15-2 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -15536,9 +15544,14 @@ c) Ceux qui ont été frappés d'interdiction absolue d'enseigner.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 34 () JORF 6 mars 2007
+
 	**Cite**:
 
 	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 223-15-2 (V)
 
 
 ###### Article L444-7
@@ -15684,6 +15697,39 @@ ont conclu des conventions du type de celles visées à l'alinéa précédent.
 
 	  - Code du travail - art. L910-1 (M)
 	  - Code du travail - art. L920-1 (M)
+
+
+##### Chapitre V : Les organismes de soutien scolaire
+
+###### Article L445-1
+
+Sont incapables d'exercer une fonction quelconque de direction ou d'enseignement dans un organisme de soutien scolaire : 
+
+a) Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ; 
+
+b) Ceux qui ont été privés par jugement de tout ou partie des droits civils, civiques et de famille mentionnés à l'article
+131-26 du code pénal, ou qui ont été déchus de l'autorité parentale ; 
+
+c) Ceux qui ont été frappés d'interdiction absolue d'enseigner ; 
+
+d) Ceux qui ont été condamnés à une peine d'au moins deux mois d'emprisonnement sans sursis pour les délits prévus à
+l'article 223-15-2 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 35 () JORF 6 mars 2007
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 223-15-2 (V)
 
 
 #### Titre V : Les établissements français d'enseignement à l'étranger
@@ -17203,15 +17249,28 @@ conseil général et en fait connaître les motifs. "
 
 ###### Article L541-1
 
-Au cours de leur sixième année, tous les enfants sont obligatoirement soumis à une visite médicale. Cette visite, à laquelle
-les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants, ne donne pas lieu à contribution
-pécuniaire de la part des familles. A l'occasion de cette visite, un dépistage des troubles spécifiques du langage est
-organisé. Les médecins de l'éducation nationale travaillent en lien avec l'équipe éducative et les professionnels de santé
-afin que, pour chaque enfant, une prise en charge et un suivi adaptés soient réalisés.
+Au cours de leur sixième, neuvième, douzième et quinzièmes années, tous les enfants sont obligatoirement soumis à une visite
+médicale au cours de laquelle un bilan de leur état de santé physique et psychologique est réalisé. Ces visites ne donnent
+pas lieu à contribution pécuniaire de la part des familles.
 
-Des examens médicaux périodiques sont ensuite effectués pendant tout le cours de la scolarité et la surveillance sanitaire
-des élèves est exercée avec le concours d'un service social. Des décrets pris en Conseil d'Etat fixent la participation des
-familles et des collectivités publiques aux dépenses occasionnées par ces examens.
+Les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants à ces visites, sauf s'ils sont en
+mesure de fournir un certificat médical attestant que le bilan mentionné au premier alinéa a été assuré par un professionnel
+de santé de leur choix.
+
+A l'occasion de la visite de la sixième année, un dépistage des troubles spécifiques du langage et de l'apprentissage est
+organisé. Les médecins de l'éducation nationale travaillent en lien avec l'équipe éducative, les professionnels de santé et
+les parents, afin que, pour chaque enfant, une prise en charge et un suivi adaptés soient réalisés suite à ces visites.
+
+Le ministère de la santé détermine, par voie réglementaire, pour chacune des visites obligatoires, le contenu de l'examen
+médical de prévention et de dépistage.
+
+Des examens médicaux périodiques sont également effectués pendant tout le cours de la scolarité et le suivi sanitaire des
+élèves est exercé avec le concours d'un service social et, dans les établissements du second degré, de l'infirmière qui leur
+est affectée.
+
+Les visites obligatoires des neuvième, douzième et quinzième années sont assurées pour la moitié au moins de la classe d'âge
+concernée dans un délai de trois ans et, pour toute la classe d'âge concernée, dans un délai de six ans à compter de la
+publication de la loi n° 2007-293 du 5 mars 2007 réformant la protection de l'enfance.
 
 **Liens relatifs à cet article**
 
@@ -17220,9 +17279,13 @@ familles et des collectivités publiques aux dépenses occasionnées par ces exa
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Cite**:
+
+	  - Loi n°2007-293 du 5 mars 2007 (V)
+
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 85 () JORF 18 janvier 2002
+	  - Loi n°2007-293 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -17412,10 +17475,11 @@ d'assurance obligatoire institué par l'article L. 751-1 du code rural.
 
 ###### Article L542-1
 
-Les médecins, ainsi que l'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les
-enseignants et les personnels de la police nationale et de la gendarmerie reçoivent une formation initiale et continue propre
-à leur permettre de répondre aux cas d'enfants maltraités et de prendre les mesures nécessaires de prévention et de
-protection qu'ils appellent. Cette formation est dispensée dans les conditions fixées par voie réglementaire.
+Les médecins, l'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les personnels
+enseignants, les personnels d'animation sportive, culturelle et de loisirs et les personnels de la police nationale, des
+polices municipales et de la gendarmerie nationale reçoivent une formation initiale et continue, en partie commune aux
+différentes professions et institutions, dans le domaine de la protection de l'enfance en danger. Cette formation est
+dispensée dans des conditions fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
@@ -17428,6 +17492,10 @@ protection qu'ils appellent. Cette formation est dispensée dans les conditions 
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 25 () JORF 6 mars 2007
 
 	**Cité par**:
 
@@ -17446,8 +17514,8 @@ protection qu'ils appellent. Cette formation est dispensée dans les conditions 
 ###### Article L542-2
 
 Les visites médicales effectuées en application du troisième alinéa (2°) de l'article L. 2112-2 du code de la santé publique
-et du deuxième alinéa de l'article L. 541-1 du présent code ont notamment pour objet de prévenir et de détecter les cas
-d'enfants maltraités.
+et de l'avant-dernier alinéa de l'article L. 541-1 du présent code ont notamment pour objet de prévenir et de détecter les
+cas d'enfants maltraités.
 
 **Liens relatifs à cet article**
 
@@ -17456,10 +17524,14 @@ d'enfants maltraités.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 2 () JORF 6 mars 2007
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L541-1 (M)
-	  - Code de la santé publique - art. L2112-2 (M)
+	  - Code de l'éducation - art. L541-1 (V)
+	  - Code de la santé publique - art. L2112-2 (V)
 
 	**Cité par**:
 
@@ -26502,7 +26574,7 @@ L. 541-1 et L. 541-3.
 
 ###### Article L831-3
 
-Le deuxième alinéa de l'article L. 541-1 est applicable aux étudiants et élèves de l'enseignement supérieur.
+L'avant-dernier alinéa de l'article L. 541-1 est applicable aux étudiants et élèves de l'enseignement supérieur.
 
 Des décrets déterminent les sanctions disciplinaires applicables aux étudiants et élèves de l'enseignement supérieur en cas
 d'infraction aux dispositions de l'article L. 541-1.
@@ -26513,6 +26585,10 @@ d'infraction aux dispositions de l'article L. 541-1.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-293 du 5 mars 2007 - art. 2 () JORF 6 mars 2007
 
 	**Cité par**:
 
