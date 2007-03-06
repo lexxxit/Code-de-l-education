@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-06
+Version Consolidée au 2007-03-07
 
 # Partie législative
 
@@ -530,12 +530,13 @@ ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'o
 
 Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur sont chargés de transmettre et de faire
 acquérir connaissances et méthodes de travail. Ils contribuent à favoriser la mixité et l'égalité entre les hommes et les
-femmes, notamment en matière d'orientation. Ils assurent une formation à la connaissance et au respect des droits de la
-personne ainsi qu'à la compréhension des situations concrètes qui y portent atteinte. Ils dispensent une formation adaptée
-dans ses contenus et ses méthodes aux évolutions économiques, sociales et culturelles du pays et de son environnement
-européen et international. Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures
-régionales. Les enseignements artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de
-tous les élèves. Dans l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants.
+femmes, notamment en matière d'orientation. Ils concourent à l'éducation à la responsabilité civique et participent à la
+prévention de la délinquance. Ils assurent une formation à la connaissance et au respect des droits de la personne ainsi qu'à
+la compréhension des situations concrètes qui y portent atteinte. Ils dispensent une formation adaptée dans ses contenus et
+ses méthodes aux évolutions économiques, sociales et culturelles du pays et de son environnement européen et international.
+Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. Les enseignements
+artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de tous les élèves. Dans
+l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants.
 
 **Liens relatifs à cet article**
 
@@ -551,8 +552,7 @@ tous les élèves. Dans l'enseignement supérieur, des activités physiques et s
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 5 () JORF 24 avril 2005
-	  - Loi n°2005-380 du 23 avril 2005 - art. 6 () JORF 24 avril 2005
+	  - Loi n°2007-297 2007-03-05 art. 12 1° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -1594,27 +1594,44 @@ la commune de son lieu de résidence temporaire ou de travail.
 ###### Article L131-6
 
 Chaque année, à la rentrée scolaire, le maire dresse la liste de tous les enfants résidant dans sa commune et qui sont soumis
-à l'obligation scolaire.
+à l'obligation scolaire. 
 
-Les personnes responsables doivent y faire inscrire les enfants dont elles ont la garde.
+Les personnes responsables doivent y faire inscrire les enfants dont elles ont la garde. 
+
+Afin de procéder au recensement prévu au premier alinéa et d'améliorer le suivi de l'obligation d'assiduité scolaire, le
+maire peut mettre en oeuvre un traitement automatisé de données à caractère personnel où sont enregistrées les données à
+caractère personnel relatives aux enfants en âge scolaire domiciliés dans la commune, qui lui sont transmises par les
+organismes chargés du versement des prestations familiales ainsi que par l'inspecteur d'académie en application de l'article
+L. 131-8 et par le directeur ou la directrice de l'établissement d'enseignement en application du même article ainsi qu'en
+cas d'exclusion temporaire ou définitive de l'établissement ou lorsqu'un élève inscrit dans un établissement le quitte en
+cours ou en fin d'année. 
+
+Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
+conditions d'application du troisième alinéa. Il précise la liste des données à caractère personnel collectées, la durée de
+conservation de ces données, les modalités d'habilitation des destinataires ainsi que les conditions dans lesquelles les
+personnes intéressées peuvent exercer leur droit d'accès.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°1882-03-28 art. 8
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-297 2007-03-05 art. 12 2° JORF 7 mars 2007
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. L131-5 (V)
 	  - Code de l'éducation - art. L131-8 (VD)
 	  - Code de l'éducation - art. R131-10-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1882-03-28 art. 8
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 8 (Ab)
 
 
 ###### Article L131-7
@@ -1638,24 +1655,34 @@ sanctions pénales encourues.
 ###### Article L131-8
 
 Lorsqu'un enfant manque momentanément la classe, les personnes responsables doivent, sans délai, faire connaître au directeur
-ou à la directrice de l'établissement d'enseignement les motifs de cette absence.
+ou à la directrice de l'établissement d'enseignement les motifs de cette absence. 
 
 Les seuls motifs réputés légitimes sont les suivants : maladie de l'enfant, maladie transmissible ou contagieuse d'un membre
 de la famille, réunion solennelle de famille, empêchement résultant de la difficulté accidentelle des communications, absence
 temporaire des personnes responsables lorsque les enfants les suivent. Les autres motifs sont appréciés par l'inspecteur
 d'académie. Celui-ci peut consulter les assistantes sociales agréées par lui, et les charger de conduire une enquête, en ce
-qui concerne les enfants présumés réfractaires.
+qui concerne les enfants présumés réfractaires. 
 
-L'inspecteur d'académie adresse un avertissement aux personnes responsables de l'enfant et leur rappelle les sanctions
-pénales dans les cas suivants :
+Le directeur ou la directrice de l'établissement d'enseignement saisit l'inspecteur d'académie afin qu'il adresse un
+avertissement aux personnes responsables de l'enfant et leur rappelle les sanctions pénales dans les cas suivants : 
 
 1° Lorsque, malgré l'invitation du directeur ou de la directrice de l'établissement d'enseignement, ils n'ont pas fait
-connaître les motifs d'absence de l'enfant ou qu'ils ont donné des motifs d'absence inexacts ;
+connaître les motifs d'absence de l'enfant ou qu'ils ont donné des motifs d'absence inexacts ; 
 
-2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois.
+2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois. 
+
+Lorsque le directeur ou la directrice de l'établissement d'enseignement saisit l'inspecteur d'académie afin que celui-ci
+adresse un avertissement aux personnes responsables de l'enfant, dans les cas prévus aux deux alinéas précédents, il en
+informe le maire de la commune dans laquelle l'élève est domicilié.
 
 L'inspecteur d'académie saisit le président du conseil général des situations qui lui paraissent justifier la mise en place
-d'un contrat de responsabilité parentale prévu à l'article L. 222-4-1 du code de l'action sociale et des familles.
+d'un contrat de responsabilité parentale prévu à l'article L. 222-4-1 du code de l'action sociale et des familles. 
+
+Il communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au
+présent article a été notifié. 
+
+Les informations communiquées au maire en application du présent article sont enregistrées dans le traitement prévu à
+l'article L. 131-6.
 
 **Liens relatifs à cet article**
 
@@ -1679,7 +1706,7 @@ d'un contrat de responsabilité parentale prévu à l'article L. 222-4-1 du code
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
+	  - Loi n°2007-297 2007-03-05 art. 12 3° JORF 7 mars 2007
 
 	**Anciens textes**:
 
@@ -1712,28 +1739,29 @@ parentale.
 
 ###### Article L131-10
 
-Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille, sont dès la première année, et tous
-les deux ans, l'objet d'une enquête de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguées
-par les personnes responsables, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et
-les conditions de vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale.
+Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille, y compris dans le cadre d'une
+inscription dans un établissement d'enseignement à distance, sont dès la première année, et tous les deux ans, l'objet d'une
+enquête de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguées par les personnes
+responsables, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et les conditions de
+vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale. 
 
 Lorsque l'enquête n'a pas été effectuée, elle est diligentée par le représentant de l'Etat dans le département.
 
 L'inspecteur d'académie doit au moins une fois par an, à partir du troisième mois suivant la déclaration d'instruction par la
 famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à
-l'article L. 131-1-1.
+l'article L. 131-1-1. 
 
 Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant. Il vérifie notamment
-que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille.
+que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille. 
 
 Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans préjudice de
-l'application des sanctions pénales.
+l'application des sanctions pénales. 
 
-Le contenu des connaissances requis des élèves est fixé par décret.
+Le contenu des connaissances requis des élèves est fixé par décret. 
 
 Les résultats de ce contrôle sont notifiés aux personnes responsables avec l'indication du délai dans lequel elles devront
-fournir leurs explications ou améliorer la situation et des sanctions dont elles seraient l'objet dans le cas contraire.
+fournir leurs explications ou améliorer la situation et des sanctions dont elles seraient l'objet dans le cas contraire. 
 
 Si, au terme d'un nouveau délai fixé par l'inspecteur d'académie, les résultats du contrôle sont jugés insuffisants, les
 parents sont mis en demeure, dans les quinze jours suivant la notification, d'inscrire leur enfant dans un établissement
@@ -1749,7 +1777,7 @@ l'établissement qu'ils auront choisi.
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 32 () JORF 6 mars 2007
+	  - Loi n°2007-297 2007-03-05 art. 12 4° JORF 7 mars 2007
 
 	**Cite**:
 
@@ -4636,6 +4664,8 @@ plan a pour objet de définir une programmation à moyen terme des actions de fo
 adultes et de favoriser un développement cohérent de l'ensemble des filières de formation en favorisant un accès équilibré
 des femmes et des hommes à chacune de ces filières de formation.
 
+Il comporte des actions de formation et d'information destinées à favoriser leur insertion sociale.
+
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience.
 
 Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales
@@ -4719,7 +4749,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2006-340 du 23 mars 2006 - art. 27 () JORF 24 mars 2006
+	  - Loi n°2007-297 2007-03-05 art. 12 5° JORF 7 mars 2007
 
 	**Cité par**:
 
@@ -4774,6 +4804,54 @@ autres organismes de formation concernés.
 	  - Code rural L814-2, L811-1, L813-1
 	  - Code du travail - art. L118-1 (M)
 	  - Code du travail - art. L351-21 (T)
+
+
+###### Article L214-14
+
+Les Ecoles de la deuxième chance proposent une formation à des personnes de dix-huit à vingt-cinq ans dépourvues de
+qualification professionnelle ou de diplôme. Chacune d'entre elles bénéficie d'un parcours de formation personnalisé.
+
+Ces écoles délivrent une attestation de fin de formation indiquant le niveau de compétence acquis de manière à faciliter
+l'accès à l'emploi ou à une certification inscrite au répertoire national des certifications professionnelles.
+
+Un décret, pris après avis du Conseil national de la formation professionnelle tout au long de la vie, fixe les modalités
+d'application du présent article.
+
+Il définit les conditions dans lesquelles les Ecoles de la deuxième chance sont habilitées, après avis du comité de
+coordination régional de l'emploi et de la formation professionnelle, à percevoir les financements de la formation
+professionnelle ou les versements des entreprises pouvant donner lieu à exonération de la taxe d'apprentissage. L'Etat et les
+régions apportent leur concours aux formations dispensées dans les conditions déterminées par convention.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°71-578 du 16 juillet 1971 - art. 1 (Ab)
+	  - Décret n°2007-1756 du 13 décembre 2007 (V)
+	  - Décret n°2009-221 du 24 février 2009 (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 9
+	  - Code de l'éducation - art. D214-10 (V)
+	  - Code de l'éducation - art. D214-11 (V)
+	  - Code de l'éducation - art. D214-9 (V)
+	  - Code de l'éducation - art. L214-13 (M)
+	  - Code de l'éducation - art. R214-9 (Ab)
+	  - Code de la sécurité sociale. - art. L321-3 (V)
+	  - Code du travail - art. L6241-10 (V)
+	  - Code général des impôts, CGI. - art. 1599 ter H (V)
+
+	**Anciens textes**:
+
+	  - Loi n°83-8 1983-01-07 art. 84
+	  - Loi n°83-8 du 7 janvier 1983 - art. 84 (Ab)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-297 2007-03-05 art. 12 6° JORF 7 mars 2007
 
 
 ###### Article L214-15
