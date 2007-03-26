@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-25
+Version Consolidée au 2007-03-27
 
 # Partie législative
 
@@ -48443,14 +48443,22 @@ national de moniteur des premiers secours.
 
 ###### Article D312-43
 
-Afin de permettre aux élèves, usagers de la route, d'acquérir des comportements responsables, un enseignement des règles de
-sécurité routière est dispensé aux élèves des écoles primaires et des collèges ainsi qu'à ceux des classes de même niveau des
-établissements d'enseignement publics et privés.
+Afin de permettre aux élèves, usagers de l'espace routier, d'acquérir des comportements responsables, un enseignement des
+règles de sécurité routière est assuré par les établissements dispensant un enseignement du premier et du second degré. Cet
+enseignement s'intègre obligatoirement dans le cadre des horaires et des programmes en vigueur dans ces établissements. Il a
+un caractère transdisciplinaire. Les conditions de sa mise en oeuvre sont fixées par le ministre chargé de l'éducation en vue
+d'assurer, notamment, une continuité dans l'apprentissage des règles de sécurité routière. 
 
-Cet enseignement s'intègre obligatoirement dans le cadre des horaires et des programmes en vigueur dans les établissements
-d'enseignement publics et privés sous contrat. Il a un caractère transdisciplinaire. Les conditions de sa mise en oeuvre sont
-fixées par instructions du ministre chargé de l'éducation en vue d'assurer, notamment, une continuité dans l'apprentissage
-des règles de sécurité routière.
+Afin de permettre aux apprentis, usagers de l'espace routier, qui n'auraient pas obtenu les attestations scolaires de
+sécurité routière de premier et de second niveaux, prévues à l'article R. 211-1 du code de la route, d'acquérir des
+comportements responsables, un enseignement des règles de sécurité routière est dispensé par les centres de formation
+d'apprentis. 
+
+Afin de permettre aux personnes, usagers de l'espace routier, qui ne sont pas titulaires des attestations mentionnées à
+l'alinéa précédent et qui ne sont pas scolarisées, d'acquérir des comportements responsables, les groupements
+d'établissements dispensent un enseignement des règles de sécurité routière. Cet enseignement peut être dispensé par d'autres
+établissements ou organismes, notamment les établissements d'enseignement de la conduite mentionnés aux articles L. 213-1 et
+suivants du code de la route.
 
 **Liens relatifs à cet article**
 
@@ -48462,6 +48470,10 @@ des règles de sécurité routière.
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-429 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
 	**Cité par**:
 
 	  - Arrêté du 25 mars 2007 - art. 1 (V)
@@ -48470,10 +48482,15 @@ des règles de sécurité routière.
 	  - Arrêté du 23 mai 2016 - art. 4 (V)
 	  - Code de l'éducation - art. D312-44 (V)
 
+	**Cite**:
+
+	  - Code de la route. - art. L213-1 (V)
+	  - Code de la route. - art. R211-1 (V)
+
 
 ###### Article D312-44
 
-Dans le cadre de la formation initiale et de la formation continue, les enseignants des établissements mentionnés au deuxième
+Dans le cadre de la formation initiale et de la formation continue, les enseignants des établissements mentionnés au premier
 alinéa de l'article D. 312-43 sont préparés à assurer l'acquisition par les élèves de la connaissance des règles de sécurité
 routière et des comportements adaptés qui en découlent.
 
@@ -48487,9 +48504,13 @@ routière et des comportements adaptés qui en découlent.
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-429 du 25 mars 2007 - art. 2 () JORF 27 mars 2007
+
 	**Cite**:
 
-	  - Code de l'éducation - art. D312-43 (M)
+	  - Code de l'éducation - art. D312-43 (V)
 
 
 ###### Article D312-45
@@ -48532,6 +48553,28 @@ d'établissement.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+
+###### Article D312-47-1
+
+Pour les personnes présentant une déficience visuelle ne leur permettant pas de se présenter aux épreuves des attestations
+scolaires de sécurité routière ou de l'attestation de sécurité routière, il est créé une attestation d'éducation à la route
+dont les modalités d'organisation et de délivrance sont fixées par arrêté des ministres intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-429 du 25 mars 2007 - art. 3 () JORF 27 mars 2007
+
+	**Cité par**:
+
+	  - Arrêté du 25 mars 2007 - art. 7 (V)
+	  - Code de l'éducation - art. D372-3 (VD)
 
 
 ###### Article R312-47
@@ -60244,6 +60287,172 @@ conditions fixées conjointement par le ministre chargé de l'éducation et le m
 	  - Décret n°2017-960 du 10 mai 2017 - art. 2
 
 
+##### Section 5 : La formation à l'accessibilité du cadre bâti.
+
+###### Article R335-48
+
+Doivent, en application de l'article 41-V de la loi n° 2005-102 du 11 février 2005, comporter un enseignement à
+l'accessibilité aux personnes handicapées du cadre bâti, tel que défini à l'article L. 111-7 du code de la construction et de
+l'habitation, les formations qui conduisent aux diplômes, titres et certifications :
+
+- préparant à des professions dont l'objet est la conception ou la réalisation de bâtiments, de lieux spécialement aménagés
+pour être ouverts au public, ainsi que d'installations ou d'équipements susceptibles d'y être incorporés ;
+
+- et relevant de l'un des domaines énumérés ci-après : 
+
+1. Architecture. 
+
+2. Domaines inclus dans la nomenclature des spécialités de formation établie par le code de l'éducation : 
+
+Lettres et arts : 
+
+a) Arts plastiques ; 
+
+b) Arts et design, art et patrimoine ; art et communication ; 
+
+Agriculture, pêche, forêt et espaces verts : 
+
+c) Forêt, espaces naturels ; 
+
+d) Aménagement paysager (parcs, jardins, espaces verts, terrains de sport) ; 
+
+Transformations : 
+
+e) Agro-alimentaires, alimentation, cuisine ; 
+
+f) Matériaux de construction, verre, céramique ; 
+
+g) Energie, génie climatique ; 
+
+Génie civil, construction, bois : 
+
+h) Spécialités pluritechnologiques génie civil, construction, bois ; 
+
+i) Mines et carrières, génie civil, topographie ; 
+
+j) Bâtiment : construction et couverture ; 
+
+k) Bâtiment : finitions ; 
+
+l) Travail du bois et de l'ameublement ; 
+
+Mécanique, électricité, électronique : 
+
+m) Spécialités pluritechnologiques mécanique-électricité ; 
+
+n) Electricité, électronique ; 
+
+Echanges et gestion : 
+
+o) Transports, manutention, magasinage ; 
+
+Communication et information : 
+
+p) Spécialités plurivalentes de la communication et de l'information ; 
+
+q) Techniques de l'image et du son ; 
+
+Services à la collectivité : 
+
+r) Aménagement du territoire, développement, urbanisme ; 
+
+s) Développement et protection du patrimoine culturel ; 
+
+t) Assainissement, protection de l'environnement.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 41 (V)
+	  - Code de la construction et de l'habitation. - art. L111-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-436 du 25 mars 2007 - art. 2 (V)
+	  - Arrêté du 24 janvier 2008 (V)
+	  - Arrêté du 22 janvier 2009 (V)
+	  - Arrêté du 22 janvier 2009 - art. 1 (V)
+	  - Arrêté du 16 juillet 2013 - art. 12 (VD)
+	  - Code de l'éducation - art. R335-49 (V)
+
+
+###### Article R335-49
+
+Doivent comporter un enseignement à l'accessibilité aux personnes handicapées du cadre bâti, lorsqu'ils relèvent de l'article
+R. 335-48, les formations conduisant :
+
+- aux diplômes et titres délivrés par l'Etat ou en son nom, acquis conformément aux dispositions de l'article L. 335-5,
+mentionnés au I de l'article L. 335-6, et enregistrés de droit au répertoire national des certifications professionnelles en
+vertu du deuxième alinéa du II de l'article L. 335-6 ;
+
+- aux autres diplômes, titres et certifications enregistrés au répertoire national des certifications professionnelles selon
+les modalités définies au premier alinéa du II de l'article L. 335-6.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+	**Cité par**:
+
+	  - Arrêté du 22 janvier 2009 - art. 1 (V)
+	  - Code de l'éducation - art. R335-50 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-6 (V)
+	  - Code de l'éducation - art. R335-48 (V)
+
+
+###### Article R335-50
+
+Des arrêtés pris par les ministres intéressés déterminent les diplômes ou spécialités de diplômes, titres et certifications
+visés à l'article R. 335-49, en tenant compte des difficultés d'accessibilité propres à chaque type de handicap.
+
+**Nota:**
+
+Décret 2007-436 du 25 mars 2007 art. 3 : Le présent décret est applicable aux formations qui commencent à compter du 1er
+janvier 2009.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-436 du 25 mars 2007 - art. 1 () JORF 27 mars 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R335-49 (V)
+
+
 #### Chapitre VI : Dispositions propres aux formations technologiques.
 
 ##### Section 1 : Dispositions générales relatives au baccalauréat technologique.
@@ -71157,14 +71366,16 @@ Les adaptations des programmes nationaux mentionnés à l'article L. 311-3 sont 
 
 ###### Article D372-3
 
-Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-48, D. 321-1 à D. 321-16, D. 331-23 à D.
-331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.  334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D.
-337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.  337-111 et D. 337-113 à D. 337-160 sont
-applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux articles D. 372-4 et D.
-372-5 :
+Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-43, D. 312-44, D. 312-47-1, D. 312-48, D.
+321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.  334-22, D. 336-1 à D.
+336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.  337-111 et
+D. 337-113 à D. 337-160 sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux
+articles D. 372-4 et D. 372-5 :
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot : " vice-recteur " ;
+sont remplacés par le mot :
+
+" vice-recteur " ;
 
 2° Le mot : " département " est remplacé par les mots :
 
@@ -71182,14 +71393,19 @@ l'agriculture, de la forêt et de l'environnement " ;
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
+	**Modifié par**:
+
+	  - Décret n°2007-429 du 25 mars 2007 - art. 4 (V) JORF 27 mars 2007
+
 	**Cite**:
 
 	  - Code de l'éducation - art. D311-5 (V)
 	  - Code de l'éducation - art. D312-1 (V)
+	  - Code de l'éducation - art. D312-47-1 (V)
 	  - Code de l'éducation - art. D312-48 (V)
 	  - Code de l'éducation - art. D372-4 (V)
 	  - Code de l'éducation - art. D372-5 (V)
-	  - Code de l'éducation D311-5, D312-1, D312-4 à D312-6, D312-40 à D312-42, D312-48, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337
+	  - Code de l'éducation D311-5, D312-1, D312-4 à D312-6, D312-40 à D312-44, D312-47-1, D312-48, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D3
 
 
 ###### Article D372-4
