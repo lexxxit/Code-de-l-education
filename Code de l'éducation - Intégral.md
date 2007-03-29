@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-03-27
+Version Consolidée au 2007-03-30
 
 # Partie législative
 
@@ -59359,15 +59359,17 @@ professionnelles informent la Commission nationale de la certification professio
 suppression de ces diplômes ou titres à finalité professionnelle.
 
 Pour les autres certifications, la première demande d'enregistrement ainsi que la demande de renouvellement ou de suppression
-d'enregistrement doivent être déposées par l'autorité ou l'organisme qui les délivre auprès du ministre compétent pour le
-champ professionnel des activités concernées par la certification ou, à défaut, auprès du ministre chargé de la formation
-professionnelle, s'il s'agit d'un organisme ayant un champ d'intervention national, ou du préfet de région, s'il a une
-vocation régionale.
+d'enregistrement peuvent être déposées par l'autorité ou l'organisme qui les délivre, soit auprès de la Commission nationale
+de la certification professionnelle, puis auprès du ministre compétent pour le champ professionnel des activités concernées
+par la certification, soit auprès du ministre chargé de la formation professionnelle. S'il s'agit d'un organisme à vocation
+régionale, la demande est déposée auprès du préfet de région.
 
 Lorsque la demande s'exprime au niveau régional, le préfet de région communique le dossier au correspondant de la commission
 nationale pour la région prévu à l'article R. 335-29. Ce dernier instruit la demande avec le concours des services
 déconcentrés de l'Etat dans la région et rapporte devant la commission spécialisée du comité de coordination régional de
-l'emploi et de la formation professionnelle.
+l'emploi et de la formation professionnelle. La commission spécialisée se prononce dans un délai de trois mois à compter de
+la date de transmission du dossier par le préfet de région. A défaut de réponse dans ce délai, l'avis de la commission est
+réputé rendu.
 
 Le correspondant de la commission nationale pour la région transmet le dossier de l'organisme, accompagné de son rapport et
 de l'avis du comité de coordination régional de l'emploi et de la formation professionnelle, au président de la commission.
@@ -59400,6 +59402,10 @@ la formation professionnelle les avis de la commission afin qu'il puisse prendre
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-466 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
 
 	**Cite**:
 
@@ -59550,12 +59556,11 @@ p) Du travail et de l'emploi ;
 4° Trois représentants élus des assemblées permanentes des chambres d'agriculture, des chambres françaises de commerce et
 d'industrie et des chambres de métiers et de l'artisanat ;
 
-5° Trois représentants élus des régions, dont le président du comité de coordination des programmes régionaux de formation
-professionnelle et d'apprentissage et deux autres désignés sur proposition de l'Association des régions de France.
+5° Trois représentants élus des régions, désignés sur proposition de l'Association des régions de France.
 
 Participent également aux travaux de la commission en tant que personnalités qualifiées, avec voix consultative :
 
-1° Un rapporteur général ;
+1° Un rapporteur général et deux rapporteurs adjoints ;
 
 2° Deux personnalités désignées sur proposition d'organisations intéressées à la formation professionnelle ;
 
@@ -59573,7 +59578,9 @@ Participent également aux travaux de la commission en tant que personnalités q
 
 9° Un représentant de l'Union des confédérations de l'industrie et des employeurs d'Europe ;
 
-10° Un représentant de la Confédération européenne des syndicats.
+10° Un représentant de la Confédération européenne des syndicats ;
+
+11° Le président du Conseil national de la formation professionnelle tout au long de la vie.
 
 Chacun des membres de la commission dispose d'un suppléant.
 
@@ -59594,6 +59601,10 @@ de salariés les plus représentatives au niveau national.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-466 du 28 mars 2007 - art. 2 () JORF 30 mars 2007
 
 	**Cité par**:
 
@@ -59665,10 +59676,10 @@ La commission établit un règlement intérieur.
 ###### Article R335-28
 
 Pour l'instruction des demandes d'enregistrement dans le répertoire national, et afin de préparer ses avis, la Commission
-nationale de la certification professionnelle s'appuie sur les travaux d'une commission spécialisée composée de membres
-titulaires de la commission nationale ou de leurs suppléants.
+nationale de la certification professionnelle s'appuie sur les travaux d'une commission spécialisée.
 
-La commission spécialisée comprend, outre le président de la commission nationale et le rapporteur général :
+La commission spécialisée comprend, outre le président de la commission nationale, le rapporteur général et les deux
+rapporteurs adjoints :
 
 1° Dix représentants des ministres ;
 
@@ -59683,6 +59694,9 @@ et des sports.
 Les représentants des autres ministres à la commission nationale participent, dans la limite de quatre, aux travaux de la
 commission spécialisée chaque fois que des dossiers à l'ordre du jour les concernent.
 
+Toute personne dont l'audition apparaît de nature à éclairer les débats peut être invitée par le président à participer aux
+réunions.
+
 Le fonctionnement de la commission spécialisée est défini par le règlement intérieur de la commission nationale.
 
 **Liens relatifs à cet article**
@@ -59695,6 +59709,10 @@ Le fonctionnement de la commission spécialisée est défini par le règlement i
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-466 du 28 mars 2007 - art. 3 () JORF 30 mars 2007
 
 
 ###### Article R335-29
