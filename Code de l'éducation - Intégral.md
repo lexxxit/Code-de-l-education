@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-05-03
+Version Consolidée au 2007-05-15
 
 # Partie législative
 
@@ -47235,6 +47235,120 @@ l'éducation.
 
 	  - Code de l'éducation - art. D371-3 (MMN)
 	  - Code de l'éducation - art. D372-3 (VD)
+
+
+##### Section 3 : Livret personnel de compétences
+
+###### Article D311-6
+
+Le livret personnel de compétences est établi pour chaque élève selon un modèle national fixé par arrêté du ministre chargé
+de l'éducation nationale.
+
+Il permet à l'élève, à ses parents ou représentants légaux et aux enseignants de suivre la validation progressive des
+connaissances et compétences du socle commun défini par l'annexe à la section première du chapitre II du titre II du livre
+Ier de la partie réglementaire du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-860 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2015 - art. 1 (VD)
+	  - Arrêté du 23 mai 2016 - art. 1 (V)
+	  - Code de l'éducation - art. D321-10 (VD)
+	  - Code de l'éducation - art. D321-23 (VD)
+	  - Code de l'éducation - art. D337-176 (VD)
+
+
+###### Article D311-7
+
+Le livret personnel de compétences comporte :
+
+1° La mention de la validation du socle commun de connaissances et de compétences pour chacun des paliers :
+
+- à la fin du cycle des apprentissages fondamentaux pour ce qui relève de la maîtrise de la langue française, des principaux
+éléments de mathématiques et des compétences sociales et civiques ;
+
+- à la fin de l'école primaire et à la fin du collège ou de la scolarité obligatoire pour chacune des sept compétences du
+socle commun de connaissance et de compétences ;
+
+2° Les attestations mentionnées sur une liste définie par arrêté du ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-860 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+
+	**Cité par**:
+
+	  - Arrêté du 31 décembre 2015 - art. 1 (VD)
+	  - Arrêté du 31 décembre 2015 - art. 7 (VD)
+	  - Arrêté du 23 mai 2016 - art. 1 (V)
+	  - Arrêté du 23 mai 2016 - art. 4 (V)
+	  - Code de l'éducation - art. D331-25 (V)
+	  - Code de l'éducation - art. D331-49 (V)
+	  - Code de l'éducation - art. D341-25 (V)
+	  - Code de l'éducation - art. D341-3 (V)
+
+
+###### Article D311-8
+
+Le livret personnel de compétences est renseigné :
+
+a) A l'école élémentaire publique par les enseignants du cycle réunis en conseil des maîtres de cycle et, dans les écoles
+élémentaires privées sous contrat, par l'enseignant ou l'équipe pédagogique prévue à l'article D. 321-20 ;
+
+b) Au collège et au lycée par le professeur principal et, dans les sections d'enseignement général et professionnel adapté
+ainsi que dans les établissements régionaux d'enseignement adapté, par l'enseignant de référence de chaque division, après
+consultation de l'équipe pédagogique de la classe ;
+
+c) Dans les centres de formation d'apprentis, pour les apprentis juniors, par le tuteur mentionné à l'article D. 337-166 et,
+pour les autres apprentis encore soumis à la scolarité obligatoire, par un formateur désigné par le directeur du centre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-860 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-20 (V)
+	  - Code de l'éducation - art. D337-166 (V)
+
+
+###### Article D311-9
+
+Constitué au cycle des apprentissages fondamentaux, le livret personnel de compétences est transmis aux écoles et
+établissements dans lesquels est inscrit l'élève ou l'apprenti jusqu'à la fin de la scolarité obligatoire.
+
+Il est remis à ce dernier à la fin de la scolarité obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Créé par**:
+
+	  - Décret n°2007-860 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
 
 
 #### Chapitre II : Dispositions propres à certaines matières d'enseignement.
