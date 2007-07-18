@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-05-16
+Version Consolidée au 2007-07-19
 
 # Partie législative
 
@@ -36394,36 +36394,6 @@ publiques et privées sous contrat du premier degré et leurs personnels.
 
 ##### Sous-section 1 : Le recteur.
 
-###### Article D222-15
-
-Conformément aux dispositions de l'article L. 222-2, le recteur dirige la chancellerie, établissement public national à
-caractère administratif qui est régi par les dispositions du décret n° 71-1105 du 30 décembre 1971 relatif aux chancelleries.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°71-1105 1971-12-30
-	  - Code de l'éducation - art. L222-2 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2006-583 2006-05-23 art. 4 6° JORF 24 mai 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2007-1109 du 18 juillet 2007 - art. 1 () JORF 19 juillet 2007
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. R*222-15 (V)
-	  - Code de l'éducation R222-15
-
-
 ###### Article D222-20
 
 Le recteur est autorisé à déléguer sa signature :
@@ -36589,6 +36559,28 @@ recteurs.
 	**Codifié par**:
 
 	  - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
+
+
+###### Article R*222-15
+
+Les recteurs d'académie qui bénéficient d'un recul de la limite d'âge en vertu des textes applicables à l'ensemble des
+fonctionnaires de l'Etat continuent d'exercer, jusqu'à ce qu'ils atteignent cette limite, les fonctions de directeur et de
+président du conseil d'administration des établissements publics qui leur sont conférées par les textes régissant ces
+établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2007-1109 du 18 juillet 2007 - art. 1 () JORF 19 juillet 2007
+
+	**Anciens textes**:
+
+	  - Code de l'éducation - art. D222-15 (M)
 
 
 ###### Article R*222-16
