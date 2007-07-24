@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-07-19
+Version Consolidée au 2007-07-25
 
 # Partie législative
 
@@ -16388,74 +16388,6 @@ chapitre Ier du titre Ier du livre II et au chapitre II du titre II du livre III
 	**Nouveaux textes**:
 
 	  - Code du sport. - art. L211-2 (V)
-
-
-###### Article L463-2
-
-I. - Les établissements publics de formation relevant du ministère chargé des sports, notamment l'Institut national des
-sports et de l'éducation physique, ainsi que les établissements publics de formation relevant des autres ministères
-participent à la mise en oeuvre de la politique nationale de développement des activités physiques et sportives.
-
-A ce titre, ils assurent la formation initiale des personnes qui gèrent, animent, encadrent et enseignent les activités
-physiques et sportives et ils contribuent à leur formation continue.
-
-Toutefois, s'agissant des collectivités territoriales et de leurs établissements publics, la formation s'effectue
-conformément à la loi n° 84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale et
-complétant la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
-
-II. - L'Institut national des sports et de l'éducation physique a pour mission de participer à la politique nationale de
-développement des activités physiques et sportives, particulièrement dans le domaine du sport de haut niveau. L'institut est
-chargé de la formation et de la préparation des sportifs de haut niveau.
-
-Il participe à la recherche et à la diffusion des connaissances dans le domaine des activités physiques et sportives.
-
-Pour la mise en oeuvre de ses missions, l'institut peut passer des conventions avec les établissements français et étrangers
-de formation.
-
-En application de l'article L. 717-1, un décret en Conseil d'Etat fixe les conditions d'organisation et de fonctionnement de
-l'institut.
-
-**Nota:**
-
-NOTA : Ordonnance n° 2006-596 du 23 mai 2006 art. 8 : L'article L. 463-2 du code de l'éducation est abrogé à l'exception du
-II de cet l'article qui est abrogé à compter de l'entrée en vigueur de la partie réglementaire du code du sport. La partie
-réglementaire du code du sport a été publiée par le décret n° 2007-1133 du 24 juillet 2007 dans le Journal officiel du 25
-juillet 2007.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-53 1984-01-26
-	  - Loi n°84-594 1984-07-12
-	  - Code de l'éducation - art. L717-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 46 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2003-339 du 14 avril 2003 - art. 4 () JORF 15 avril 2003
-
-	**Abrogé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 5° JORF 25 mai 2006 sous réserve art. 8 III en vigueur le 25 juillet 2007
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L363-1 (M)
-	  - Code de l'éducation - art. L463-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. L211-1 (V)
-	  - Code du sport. - art. D211-1 (V)
 
 
 #### Titre VII : Dispositions communes
@@ -71205,30 +71137,18 @@ d'enseignement du théâtre peuvent être accordées dans des conditions fixées
 
 ###### Article R363-1
 
-Les règles relatives aux conditions d'exercice des professions relatives aux activités physiques et sportives sont fixées par
-les articles 2 et 2-1 du décret n° 89-685 du 21 septembre 1989, relatif à l'enseignement contre rémunération et à la sécurité
-de ces activités, les décrets n° 93-1035 du 31 août 1993, relatif au contrôle de l'enseignement contre rémunération de ces
-activités, n° 96-1011 du 25 novembre 1996, relatif à la prestation de services d'éducateur sportif par les ressortissants
-d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen, l'article 10 du décret n°
-2002-1269 du 18 octobre 2002, pris pour l'application de l'article 43 de la loi n° 84-610 du 16 juillet 1984 modifiée
-relative à l'organisation et à la promotion de ces activités, et le décret n° 2004-893 du 27 août 2004, pris pour
-l'application de l'article L. 363-1 du code de l'éducation.
+Les règles relatives aux conditions d'exercice des professions relatives aux activités physiques et sportives sont prévues au
+chapitre II du titre Ier du livre II du code du sport.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-610 1984-07-16 art. 43
-	  - Décret n°89-685 du 21 septembre 1989 - art. 2 (Ab)
-	  - Décret n°89-685 du 21 septembre 1989 - art. 2-1 (V)
-	  - Décret n°93-1035 1993-08-31
-	  - Décret n°2002-1269 2002-10-18 art. 10
-	  - Décret n°2004-893 2004-08-27
-	  - Code de l'éducation - art. L363-1 (M)
 
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1133 2007-07-24 art. 3 JORF 25 juillet 2007
 
 
 ##### Section 2 : Les diplômes.
@@ -71236,61 +71156,47 @@ l'application de l'article L. 363-1 du code de l'éducation.
 ###### Article D363-2
 
 Les règles relatives aux conditions de délivrance du brevet d'Etat d'animateur technicien de l'éducation populaire et de la
-jeunesse, du brevet d'Etat d'éducateur sportif, du brevet d'aptitude professionnelle d'assistant-animateur technicien de la
-jeunesse et des sports et du brevet professionnel de la jeunesse, de l'éducation populaire et du sport sont fixées
-respectivement par les décrets n° 86-687 du 14 mars 1986, n° 91-260 du 7 mars 1991, n° 93-53 du 12 janvier 1993 et n°
-2001-792 du 31 août 2001.
+jeunesse sont fixées par le décret n° 86-687 du 14 mars 1986.
+
+Les règles relatives aux diplômes permettant d'exercer contre rémunération l'enseignement, l'animation ou l'encadrement des
+activités physiques et sportives ainsi que l'entraînement de pratiquants sont fixées à la section 1 du chapitre II du titre
+Ier du livre II du code du sport.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°86-687 1986-03-14
-	  - Décret n°91-260 1991-03-07
-	  - Décret n°93-53 1993-01-12
-	  - Décret n°2001-792 2001-08-31
 
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
-
-###### Article D363-4
-
-Les règles relatives aux fraudes aux examens conduisant à la délivrance d'un diplôme, titre à finalité professionnelle ou
-certificat de qualification en application de l'article L. 363-1 sont fixées par l'article 15 du décret n° 89-685 du 21
-septembre 1989 relatif à l'enseignement contre rémunération et à la sécurité des activités physiques et sportives.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°89-685 du 21 septembre 1989 - art. 15 (M)
-	  - Code de l'éducation - art. L363-1 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 art. 3 JORF 25 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°86-687 du 14 mars 1986 (V)
 
 
 ###### Article R363-3
 
-Les règles relatives aux conditions de délivrance des diplômes relatifs à l'encadrement des sports de montagne sont fixées
-par le décret n° 76-556 du 17 juin 1976.
+Les sanctions applicables en cas de fraude aux examens conduisant à la délivrance d'un diplôme, titre à finalité
+professionnelle ou certificat de qualification délivré en application de l'article L. 212-1 du code du sport sont fixées par
+l'article R. 212-6 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°76-556 1976-06-17
 
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-1133 2007-07-24 art. 3 JORF 25 juillet 2007
+
+	**Cite**:
+
+	  - Code du sport. - art. L212-1 (V)
+	  - Code du sport. - art. R212-6 (V)
 
 
 ### Titre VII : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.
