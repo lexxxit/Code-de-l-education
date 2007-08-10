@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-07-25
+Version Consolidée au 2007-08-11
 
 # Partie législative
 
@@ -1051,11 +1051,15 @@ Les missions du service public de l'enseignement supérieur sont :
 
 1° La formation initiale et continue ;
 
-2° La recherche scientifique et technique ainsi que la valorisation de ses résultats ;
+2° La recherche scientifique et technologique, la diffusion et la valorisation de ses résultats ;
 
-3° La diffusion de la culture et l'information scientifique et technique ;
+3° L'orientation et l'insertion professionnelle ;
 
-4° La coopération internationale.
+4° La diffusion de la culture et l'information scientifique et technique ;
+
+5° La participation à la construction de l'Espace européen de l'enseignement supérieur et de la recherche ;
+
+6° La coopération internationale.
 
 **Liens relatifs à cet article**
 
@@ -1090,6 +1094,10 @@ Les missions du service public de l'enseignement supérieur sont :
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 1 () JORF 11 août 2007
 
 
 ###### Article L123-4
@@ -6119,9 +6127,10 @@ Le Conseil national de l'enseignement supérieur et de la recherche assure la re
 publics à caractère scientifique, culturel et professionnel et, d'autre part, des grands intérêts nationaux, notamment
 éducatifs, culturels, scientifiques, économiques et sociaux.
 
-Les représentants des personnels et des étudiants des établissements à caractère scientifique, culturel et professionnel sont
-élus au scrutin secret et par collèges distincts tels que définis à l'article L. 719-1. Les représentants des grands intérêts
-nationaux sont nommés par le ministre chargé de l'enseignement supérieur.
+Les établissements publics à caractère scientifique, culturel et professionnel sont représentés par les deux conférences
+composant la Conférence des chefs d'établissements de l'enseignement supérieur, qui désignent leurs représentants, et par des
+représentants élus des personnels et des étudiants, élus au scrutin secret par collèges distincts. Les représentants des
+grands intérêts nationaux sont nommés par le ministre chargé de l'enseignement supérieur.
 
 Le conseil est présidé par le ministre chargé de l'enseignement supérieur.
 
@@ -6160,12 +6169,15 @@ nomination ou d'élection de ses membres.
 
 	  - Loi n°99-587 du 12 juillet 1999 - art. 10 (V)
 	  - Code de l'éducation - art. L711-1 (M)
-	  - Code de l'éducation - art. L719-1 (M)
 
 	**Codifié par**:
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 37 () JORF 11 août 2007
 
 	**Cité par**:
 
@@ -6355,24 +6367,29 @@ que les autres mesures nécessaires à l'exécution de la présente sous-section
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-##### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel.
+##### Chapitre III : La Conférence des chefs d'établissements de l'enseignement supérieur.
 
 ###### Article L233-1
 
-La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel est composée des
-présidents d'université, des directeurs des instituts et des écoles extérieurs aux universités, des responsables des grands
-établissements, des directeurs des écoles normales supérieures et des responsables des écoles françaises à l'étranger.
+I. - La Conférence des chefs d'établissements de l'enseignement supérieur est composée des responsables des écoles françaises
+à l'étranger, des directeurs des instituts et des écoles extérieurs aux universités ainsi que des membres de deux conférences
+constituées respectivement :
 
-La conférence plénière est présidée par le ministre chargé de l'enseignement supérieur. Elle élit en son sein un vice-
+- des présidents d'université, des responsables des grands établissements et des directeurs d'écoles normales supérieures ;
+
+- des responsables d'établissements d'enseignement supérieur, d'instituts ou écoles internes à ces établissements habilités à
+délivrer le diplôme d'ingénieur et des directeurs des écoles d'ingénieurs, autres que celles relevant du ministre chargé de
+l'enseignement supérieur, ayant, le cas échéant, reçu l'approbation de leur autorité de tutelle.
+
+Ces deux conférences se réunissent séparément pour examiner les questions qui les concernent.
+
+Chacune de ces deux conférences peut se constituer en une association régie par la loi du 1er juillet 1901 relative au
+contrat d'association.
+
+II. - La Conférence des chefs d'établissements de l'enseignement supérieur, en formation plénière, élit en son sein un
 président et un bureau pour une durée de deux ans. Elle étudie toutes les questions intéressant les établissements qu'elle
 représente. Elle peut formuler des voeux à l'intention du ministre chargé de l'enseignement supérieur. Celui-ci lui soumet
 les problèmes pour lesquels il requiert son avis motivé.
-
-Les présidents d'université, les responsables des grands établissements et les directeurs d'écoles normales supérieures,
-d'une part, les directeurs des écoles, instituts et autres établissements relevant du ministre chargé de l'enseignement
-supérieur et habilités à délivrer un diplôme d'ingénieur, d'autre part, se réunissent séparément pour examiner les questions
-qui les concernent. Chacune de ces conférences est présidée par le ministre chargé de l'enseignement supérieur et élit un
-vice-président et un bureau pour une durée de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -6400,6 +6417,44 @@ vice-président et un bureau pour une durée de deux ans.
 	  - Code de l'éducation - art. L264-1 (V)
 	  - Code de l'éducation - art. R642-5 (V)
 	  - Code de la recherche - art. L114-3-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 36 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+
+###### Article L233-2
+
+Les associations mentionnées au dernier alinéa du I de l'article L. 233-1 ont vocation à représenter auprès de l'Etat, de
+l'Union européenne et des autres instances internationales compétentes en matière d'enseignement supérieur et de recherche
+les intérêts communs des établissements qu'elles regroupent. Elles bénéficient, sous réserve de leur agrément par le ministre
+chargé de l'enseignement supérieur, du régime des associations reconnues d'utilité publique. 
+
+A cette fin, elles peuvent percevoir, outre les cotisations annuelles versées par les établissements qu'elles représentent,
+des subventions de l'Etat et des autres collectivités publiques, ainsi que toute autre ressource conforme à leur statut.
+Elles sont soumises au contrôle de la Cour des comptes. 
+
+Ces associations peuvent bénéficier du concours d'agents publics titulaires ou contractuels mis à leur disposition par
+l'administration ou l'établissement public dont ils dépendent ou de fonctionnaires placés en position de détachement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 36 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L233-1 (V)
 
 
 ##### Chapitre IV : Les conseils académiques de l'éducation nationale.
@@ -7102,6 +7157,32 @@ membres.
 	  - Code de l'éducation - art. L211-1
 
 
+##### Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.
+
+###### Article L23-10-1
+
+Un médiateur de l'éducation nationale et de l'enseignement supérieur, des médiateurs académiques et leurs correspondants
+reçoivent les réclamations concernant le fonctionnement du service public de l'éducation nationale et de l'enseignement
+supérieur dans ses relations avec les usagers et ses agents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 40 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L261-1 (V)
+	  - Code de l'éducation - art. L263-1 (V)
+	  - Code de l'éducation - art. L264-1 (V)
+
+
 #### Titre IV : L'inspection et l'évaluation de l'éducation
 
 ##### Chapitre Ier : L'exercice des missions d'inspection et d'évaluation.
@@ -7757,14 +7838,7 @@ nationale et de la recherche ;
 ###### Article L263-1
 
 Sont applicables en Polynésie française les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
-
-**Nota:**
-
-NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
-compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
-la recherche et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31
-décembre 2006.
+232-7, L. 233-1, L. 233-2, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Liens relatifs à cet article**
 
@@ -7783,15 +7857,7 @@ décembre 2006.
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L216-10 (V)
-	  - Code de l'éducation - art. L233-1 (M)
-	  - Code de l'éducation - art. L236-1 (V)
-	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1
+	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
 
 
 ###### Article L263-2
@@ -7826,14 +7892,7 @@ nationale et de la recherche ;
 ###### Article L264-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
-
-**Nota:**
-
-NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
-compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
-la recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche et au plus tard le 31
-décembre 2006.
+232-7, L. 233-1, L. 233-2, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Liens relatifs à cet article**
 
@@ -7852,15 +7911,7 @@ décembre 2006.
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L216-10 (V)
-	  - Code de l'éducation - art. L233-1 (M)
-	  - Code de l'éducation - art. L236-1 (V)
-	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L233-1, L236-1, L241-1 à L241-4, L242-1
+	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
 
 
 ###### Article L264-2
@@ -18071,6 +18122,39 @@ formation ou de perfectionnement, dans les conditions définies par les articles
 	  - Code de l'éducation L612-2 à L612-4, L613-3 à L613-5
 
 
+###### Article L611-5
+
+Un bureau d'aide à l'insertion professionnelle des étudiants est créé dans chaque université par délibération du conseil
+d'administration après avis du conseil des études et de la vie universitaire. Ce bureau est notamment chargé de diffuser aux
+étudiants une offre de stages et d'emplois variée et en lien avec les formations proposées par l'université et d'assister les
+étudiants dans leur recherche de stages et d'un premier emploi.
+
+Il conseille les étudiants sur leurs problématiques liées à l'emploi et à l'insertion professionnelle.
+
+Le bureau d'aide à l'insertion professionnelle des étudiants présente un rapport annuel au conseil des études et de la vie
+universitaire sur le nombre et la qualité des stages effectués par les étudiants, ainsi que sur l'insertion professionnelle
+de ceux-ci dans leur premier emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 21 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D612-32-6 (V)
+	  - Code de l'éducation - art. L681-1 (V)
+	  - Code de l'éducation - art. L683-2 (V)
+	  - Code de l'éducation - art. L684-2 (V)
+	  - Code de l'éducation - art. L781-3 (V)
+
+
 ##### Chapitre II : Déroulement des études supérieures.
 
 ###### Article L612-1
@@ -18080,8 +18164,13 @@ fonction des études dispensées. Chaque cycle, selon ses objectifs propres, fai
 leur formation générale, à l'acquisition d'éléments d'une qualification professionnelle, à la recherche, au développement de
 la personnalité, du sens des responsabilités et de l'aptitude au travail individuel et en équipe.
 
-Chaque cycle conduit à la délivrance de diplômes nationaux ou de diplômes d'établissements sanctionnant les connaissances,
-les compétences ou les éléments de qualification professionnelle acquis.
+Au cours de chaque cycle sont délivrés des diplômes nationaux ou des diplômes d'établissement sanctionnant les connaissances,
+les compétences ou les éléments de qualification professionnelle acquis. Les grades de licence, de master et de doctorat sont
+conférés respectivement dans le cadre du premier, du deuxième et du troisième cycle.
+
+Les établissements dispensant des formations sanctionnées par un diplôme d'études supérieures rendent publiques des
+statistiques comportant des indicateurs de réussite aux examens et aux diplômes, de poursuite d'études et d'insertion
+professionnelle des étudiants.
 
 **Liens relatifs à cet article**
 
@@ -18124,6 +18213,11 @@ les compétences ou les éléments de qualification professionnelle acquis.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 20 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 35 () JORF 11 août 2007
 
 
 ##### Section 1 : Le premier cycle.
@@ -18168,24 +18262,30 @@ sanctionnée par un titre ou un diplôme.
 ###### Article L612-3
 
 Le premier cycle est ouvert à tous les titulaires du baccalauréat et à ceux qui ont obtenu l'équivalence ou la dispense de ce
-grade en justifiant d'une qualification ou d'une expérience jugées suffisantes conformément à l'article L. 613-5.
+grade en justifiant d'une qualification ou d'une expérience jugées suffisantes conformément à l'article L. 613-5. 
 
-Tout candidat est libre de s'inscrire dans l'établissement de son choix. Il doit pouvoir, s'il le désire, être inscrit en
-fonction des formations existantes lors de cette inscription dans un établissement ayant son siège dans le ressort de
-l'académie où il a obtenu le baccalauréat ou son équivalent ou, en cas de dispense, dans l'académie où est située sa
-résidence. Lorsque l'effectif des candidatures excède les capacités d'accueil d'un établissement, constatées par l'autorité
-administrative, les inscriptions sont prononcées, après avis du président de cet établissement, par le recteur chancelier,
-selon la réglementation établie par le ministre chargé de l'enseignement supérieur, en fonction du domicile, de la situation
-de famille du candidat et des préférences exprimées par celui-ci.
+Tout candidat est libre de s'inscrire dans l'établissement de son choix, sous réserve d'avoir, au préalable, sollicité une
+préinscription lui permettant de bénéficier du dispositif d'information et d'orientation dudit établissement, qui doit être
+établi en concertation avec les lycées. Il doit pouvoir, s'il le désire, être inscrit en fonction des formations existantes
+lors de cette inscription dans un établissement ayant son siège dans le ressort de l'académie où il a obtenu le baccalauréat
+ou son équivalent ou dans l'académie où est située sa résidence. Lorsque l'effectif des candidatures excède les capacités
+d'accueil d'un établissement, constatées par l'autorité administrative, les inscriptions sont prononcées, après avis du
+président de cet établissement, par le recteur chancelier, selon la réglementation établie par le ministre chargé de
+l'enseignement supérieur, en fonction du domicile, de la situation de famille du candidat et des préférences exprimées par
+celui-ci. 
 
 Les dispositions relatives à la répartition entre les établissements et les formations excluent toute sélection. Toutefois,
 une sélection peut être opérée, selon des modalités fixées par le ministre chargé de l'enseignement supérieur, pour l'accès
 aux sections de techniciens supérieurs, instituts, écoles et préparations à celles-ci, grands établissements au sens du titre
 Ier du livre VII, et tous établissements où l'admission est subordonnée à un concours national ou à un concours de
-recrutement de la fonction publique.
+recrutement de la fonction publique. 
 
 La préparation aux écoles est assurée dans les classes préparatoires des lycées et dans les établissements publics à
 caractère scientifique, culturel et professionnel, dans des conditions fixées par décret.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : Le I de l'article 20 de la présente loi s'applique pour la rentrée 2008-2009.
 
 **Liens relatifs à cet article**
 
@@ -18225,9 +18325,13 @@ caractère scientifique, culturel et professionnel, dans des conditions fixées 
 	  - Code de l'éducation - art. R264-3 (V)
 	  - Code de l'éducation - art. R672-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 20 () JORF 11 août 2007
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L613-5 (M)
+	  - Code de l'éducation - art. L613-5 (V)
 
 
 ###### Article L612-4
@@ -20934,46 +21038,50 @@ chargés de la santé, de l'enseignement supérieur et de l'outre-mer.
 
 Les établissements publics à caractère scientifique, culturel et professionnel sont des établissements nationaux
 d'enseignement supérieur et de recherche jouissant de la personnalité morale et de l'autonomie pédagogique et scientifique,
-administrative et financière.
+administrative et financière. 
 
 Ces établissements sont gérés de façon démocratique avec le concours de l'ensemble des personnels, des étudiants et de
-personnalités extérieures.
+personnalités extérieures. 
 
 Ils sont pluridisciplinaires et rassemblent des enseignants-chercheurs, des enseignants et des chercheurs de différentes
 spécialités, afin d'assurer le progrès de la connaissance et une formation scientifique, culturelle et professionnelle
-préparant notamment à l'exercice d'une profession.
+préparant notamment à l'exercice d'une profession. 
 
 Ils sont autonomes. Exerçant les missions qui leur sont conférées par la loi, ils définissent leur politique de formation, de
 recherche et de documentation dans le cadre de la réglementation nationale et dans le respect de leurs engagements
-contractuels.
+contractuels. 
 
-Leurs activités de formation, de recherche et de documentation peuvent faire l'objet de contrats d'établissement pluriannuels
-dans le cadre de la carte des formations supérieures définie à l'article L. 614-3. Ces contrats fixent certaines obligations
-des établissements et prévoient les moyens et emplois correspondants pouvant être mis à leur disposition par l'Etat.
-L'attribution de ces moyens s'effectue annuellement dans les limites prévues par la loi de finances. Les établissements
-rendent compte périodiquement de l'exécution de leurs engagements ; leurs rapports sont soumis à l'Agence d'évaluation de la
-recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche (1).
+Les établissements peuvent demander, par délibération statutaire du conseil d'administration prise à la majorité absolue des
+membres en exercice, le regroupement au sein d'un nouvel établissement ou d'un établissement déjà constitué. Le regroupement
+est approuvé par décret. 
+
+Les activités de formation, de recherche et de documentation des établissements font l'objet de contrats pluriannuels
+d'établissement dans le cadre de la carte des formations supérieures définie à l'article L. 614-3. Ces contrats prévoient les
+conditions dans lesquelles les personnels titulaires et contractuels de l'établissement sont évalués, conformément aux
+dispositions de l'article L. 114-3-1 du code de la recherche relatives à l'Agence d'évaluation de la recherche et de
+l'enseignement supérieur, ainsi que, le cas échéant, les modalités de la participation de l'établissement à un pôle de
+recherche et d'enseignement supérieur. Ils fixent en outre certaines obligations des établissements et prévoient les moyens
+et emplois correspondants pouvant être mis à leur disposition par l'Etat.L'attribution de ces moyens s'effectue annuellement
+dans les limites prévues par la loi de finances. Les établissements rendent compte périodiquement de l'exécution de leurs
+engagements ; leurs rapports sont soumis à l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à
+l'article L. 114-3-1 du code de la recherche. 
+
+Ils mettent en place un outil de contrôle de gestion et d'aide à la décision de nature à leur permettre d'assumer l'ensemble
+de leurs missions, compétences et responsabilités ainsi que d'assurer le suivi des contrats pluriannuels d'établissement. 
 
 Dans le cadre des missions qui leur sont dévolues par le présent code et afin de faire connaître leurs réalisations, tant sur
 le plan national qu'international, ces établissements peuvent assurer, par voie de convention approuvée par le conseil
 d'administration dans les conditions fixées aux articles L. 712-3, L. 715-2, L. 716-1, L. 717-1 et L. 718-1, des prestations
 de services à titre onéreux, exploiter des brevets et licences et commercialiser les produits de leurs activités. Ils peuvent
 créer à cette fin des services d'activités industrielles et commerciales, dans les conditions prévues à l'article L. 123-5.
-Dans la limite des ressources disponibles dégagées par ces activités, les établissements peuvent prendre des participations,
-participer à des groupements et créer des filiales dans des conditions fixées par décret en Conseil d'Etat. Ils peuvent
-recourir à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des organismes étrangers. Ils peuvent
-transiger au sens de l'article 2044 du code civil, dans des conditions définies par décret.
+Ils peuvent prendre des participations, participer à des groupements et créer des filiales dans des conditions fixées par
+décret en Conseil d'Etat. Ils peuvent recourir à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des
+organismes étrangers. Ils peuvent transiger au sens de l'article 2044 du code civil, dans des conditions définies par décret.
 
 L'État tient compte des résultats de l'évaluation réalisée par l'Agence d'évaluation de la recherche et de l'enseignement
 supérieur, en particulier des résultats obtenus en application des dispositions de l'article L. 114-3-2 du code de la
 recherche, pour déterminer les engagements financiers qu'il prend envers les établissements dans le cadre des contrats
 pluriannuels susmentionnés.
-
-**Nota:**
-
-NOTA (1) : Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
-114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
@@ -21068,16 +21176,17 @@ d'installation du conseil de l'Agence d'évaluation de la recherche et de l'ense
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
-	  - loi n°2006-450 du 18 avril 2006 - art. 8 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
+	  - Loi n°2007-1199 du 10 août 2007 - art. 17 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 2 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 27 () JORF 11 août 2007
 
 	**Cite**:
 
+	  - Code de la propriété intellectuelle - art. L614-3 (V)
 	  - Code civil - art. 2044 (V)
 	  - Code de la recherche - art. L114-3-1 (V)
 	  - Code de la recherche - art. L114-3-2 (V)
-	  - Code de l'éducation - art. L123-5 (M)
-	  - Code de l'éducation - art. L614-3 (V)
+	  - Code de l'éducation - art. L123-5 (V)
 	  - Code de l'éducation - art. L715-2 (V)
 
 
@@ -21353,10 +21462,9 @@ conforme des conseils d'administration des établissements et à l'accord de leu
 
 ###### Article L711-7
 
-Les établissements déterminent, par délibérations statutaires du conseil d'administration prises à la majorité des deux tiers
-des membres présents ou représentés, celle-ci représentant au moins la moitié des membres en exercice, leurs statuts et leurs
-structures internes conformément aux dispositions du présent code et des décrets pris pour son application et dans le respect
-d'une équitable représentation dans les conseils de chaque grand secteur de formation.
+Les établissements déterminent, par délibérations statutaires du conseil d'administration prises à la majorité absolue des
+membres en exercice, leurs statuts et leurs structures internes, conformément aux dispositions du présent code et des décrets
+pris pour son application.
 
 Les statuts sont transmis au ministre chargé de l'enseignement supérieur.
 
@@ -21441,7 +21549,7 @@ Les statuts sont transmis au ministre chargé de l'enseignement supérieur.
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 40 () JORF 19 avril 2006
+	  - Loi n°2007-1199 du 10 août 2007 - art. 3 () JORF 11 août 2007
 
 
 ###### Article L711-8
@@ -21450,6 +21558,10 @@ Le recteur d'académie, chancelier des universités, assiste ou se fait représe
 des établissements publics à caractère scientifique, culturel et professionnel. Il reçoit sans délai communication de leurs
 délibérations ainsi que des décisions des présidents et directeurs, lorsque ces délibérations et ces décisions ont un
 caractère réglementaire.
+
+Le rapport établi chaque année par le recteur, chancelier des universités, sur l'exercice du contrôle de légalité des
+décisions et délibérations des organes statutaires des établissements publics à caractère scientifique, culturel et
+professionnel est rendu public.
 
 **Liens relatifs à cet article**
 
@@ -21483,14 +21595,68 @@ caractère réglementaire.
 	  - Code de la défense. - art. R3411-93 (VD)
 	  - Code du sport. - art. R211-1-2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 34 () JORF 11 août 2007
+
+
+###### Article L711-9
+
+I.-Les établissements publics à caractère scientifique, culturel et professionnel autres que les universités peuvent demander
+à bénéficier, dans les conditions fixées par l'article L. 712-8, des responsabilités et des compétences élargies en matière
+budgétaire et de gestion des ressources humaines mentionnées aux articles L. 712-9, L. 712-10 et L. 954-1 à L. 954-3. 
+
+II.-Un décret en Conseil d'Etat précise les conditions dans lesquelles les établissements publics administratifs dont les
+missions comportent l'enseignement supérieur et la recherche peuvent demander à bénéficier, dans les conditions fixées par
+l'article L. 712-8, des responsabilités et des compétences élargies mentionnées au I du présent article. Ce décret précise
+également les conditions dans lesquelles ces établissements sont habilités à créer une fondation partenariale, dans les
+conditions définies à l'article L. 719-13, et à bénéficier du transfert des biens mobiliers et immobiliers appartenant à
+l'Etat qui leur sont affectés ou sont mis à leur disposition, dans les conditions fixées à l'article L. 719-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cité par**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 47 (V)
+	  - Arrêté du 26 décembre 2008 (V)
+	  - Arrêté du 7 mai 2012 - art. (V)
+	  - Arrêté du 7 janvier 2013 - art. (V)
+	  - Arrêté du 26 décembre 2013 - art. (V)
+	  - Arrêté du 24 décembre 2014 - art. (V)
+	  - Décret n°2015-1176 du 24 septembre 2015 - art. 3 (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 50 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-10 (V)
+	  - Code de l'éducation - art. L712-8 (V)
+	  - Code de l'éducation - art. L712-9 (V)
+	  - Code de l'éducation - art. L719-13 (V)
+	  - Code de l'éducation - art. L719-14 (V)
+	  - Code de l'éducation - art. L954-1 (V)
+
 
 ##### Chapitre II : Les universités.
 
+##### Section 1 : Gouvernance.
+
 ###### Article L712-1
 
-Le président d'université par ses décisions, le conseil d'administration par ses délibérations, le conseil scientifique ainsi
-que le conseil des études et de la vie universitaire par leurs propositions, leurs avis et leurs voeux, assurent
-l'administration de l'université.
+Le président de l'université par ses décisions, le conseil d'administration par ses délibérations, le conseil scientifique et
+le conseil des études et de la vie universitaire par leurs avis assurent l'administration de l'université.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 5 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21503,6 +21669,11 @@ l'administration de l'université.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 5 () JORF 11 août 2007
 
 	**Cité par**:
 
@@ -21520,32 +21691,69 @@ l'administration de l'université.
 	  - Code de l'éducation - art. L774-1 (V)
 	  - Code de l'éducation - art. L781-1 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
 
 ###### Article L712-2
 
-Le président est élu par l'ensemble des membres des trois conseils réunis en une assemblée, à la majorité absolue des membres
-en exercice de celle-ci, selon des modalités fixées par décret. Il est choisi parmi les enseignants-chercheurs permanents, en
-exercice dans l'université, et de nationalité française. Son mandat dure cinq ans. Le président n'est pas rééligible dans les
-cinq années qui suivent la fin de son mandat.
+Le président de l'université est élu à la majorité absolue des membres élus du conseil d'administration parmi les
+enseignants-chercheurs, chercheurs, professeurs ou maîtres de conférences, associés ou invités, ou tous autres personnels
+assimilés, sans condition de nationalité. Son mandat, d'une durée de quatre ans, expire à l'échéance du mandat des
+représentants élus des personnels du conseil d'administration. Il est renouvelable une fois. 
+
+Dans le cas où le président cesse ses fonctions, pour quelque cause que ce soit, un nouveau président est élu pour la durée
+du mandat de son prédécesseur restant à courir. 
 
 Ses fonctions sont incompatibles avec celles de directeur d'unité de formation et de recherche, d'école ou d'institut et
-celles de chef de tout établissement public à caractère scientifique, culturel et professionnel.
+celles de chef de tout établissement public à caractère scientifique, culturel et professionnel. 
 
-Le président dirige l'université.
+Le président assure la direction de l'université. A ce titre : 
 
-Il la représente à l'égard des tiers ainsi qu'en justice, conclut les accords et les conventions. Il est ordonnateur des
-recettes et des dépenses de l'université. Il préside les trois conseils, prépare et exécute leurs délibérations, reçoit leurs
-propositions et avis. Il a autorité sur l'ensemble des personnels de l'établissement. Il affecte dans les différents services
-de l'université les personnels administratifs, techniques, ouvriers et de service. Il nomme les différents jurys. Il est
-responsable du maintien de l'ordre et peut faire appel à la force publique dans des conditions fixées par décret en Conseil
-d'Etat.
+1° Il préside le conseil d'administration, prépare et exécute ses délibérations. Il prépare et met en oeuvre le contrat
+pluriannuel d'établissement. Il préside également le conseil scientifique et le conseil des études et de la vie
+universitaire ; il reçoit leurs avis et leurs voeux ; 
+
+2° Il représente l'université à l'égard des tiers ainsi qu'en justice, conclut les accords et les conventions ; 
+
+3° Il est ordonnateur des recettes et des dépenses de l'université ; 
+
+4° Il a autorité sur l'ensemble des personnels de l'université. 
+
+Sous réserve des dispositions statutaires relatives à la première affectation des personnels recrutés par concours national
+d'agrégation de l'enseignement supérieur, aucune affectation ne peut être prononcée si le président émet un avis défavorable
+motivé. 
+
+Il affecte dans les différents services de l'université les personnels administratifs, techniques, ouvriers et de service ; 
+
+5° Il nomme les différents jurys ; 
+
+6° Il est responsable du maintien de l'ordre et peut faire appel à la force publique dans des conditions fixées par décret en
+Conseil d'Etat ; 
+
+7° Il est responsable de la sécurité dans l'enceinte de son établissement et assure le suivi des recommandations du comité
+d'hygiène et de sécurité permettant d'assurer la sécurité des personnels et des usagers accueillis dans les locaux ; 
+
+8° Il exerce, au nom de l'université, les compétences de gestion et d'administration qui ne sont pas attribuées à une autre
+autorité par la loi ou le règlement ; 
+
+9° Il veille à l'accessibilité des enseignements et des bâtiments aux personnes handicapées, étudiants et personnels de
+l'université. 
 
 Le président est assisté d'un bureau élu sur sa proposition, dont la composition est fixée par les statuts de
-l'établissement.
+l'établissement. 
 
-Le président peut déléguer sa signature aux vice-présidents des trois conseils, au secrétaire général et, pour les affaires
-concernant les unités de formation et de recherche, les instituts, les écoles et les services communs, à leurs directeurs
+Le président peut déléguer sa signature aux vice-présidents des trois conseils, aux membres élus du bureau âgés de plus de
+dix-huit ans, au secrétaire général et aux agents de catégorie A placés sous son autorité ainsi que, pour les affaires
+intéressant les composantes énumérées à l'article L. 713-1, les services communs prévus à l'article L. 714-1 et les unités de
+recherche constituées avec d'autres établissements publics d'enseignement supérieur ou de recherche, à leurs responsables
 respectifs.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 6 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21609,30 +21817,87 @@ respectifs.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 6 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L713-1 (M)
+	  - Code de l'éducation - art. L714-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
 
 ###### Article L712-3
 
-Le conseil d'administration comprend de trente à soixante membres ainsi répartis :
+I.-Le conseil d'administration comprend de vingt à trente membres ainsi répartis : 
 
-1° De 40 à 45 % de représentants des enseignants-chercheurs, des enseignants et des chercheurs ;
+1° De huit à quatorze représentants des enseignants-chercheurs et des personnels assimilés, des enseignants et des
+chercheurs, en exercice dans l'établissement, dont la moitié de professeurs des universités et personnels assimilés ; 
 
-2° De 20 à 30 % de personnalités extérieures ;
+2° Sept ou huit personnalités extérieures à l'établissement ; 
 
-3° De 20 à 25 % de représentants d'étudiants ;
+3° De trois à cinq représentants des étudiants et des personnes bénéficiant de la formation continue inscrits dans
+l'établissement ; 
 
-4° De 10 à 15 % de représentants des personnels administratifs, techniques, ouvriers et de service.
+4° Deux ou trois représentants des personnels ingénieurs, administratifs, techniques et des bibliothèques, en exercice dans
+l'établissement. 
 
-Les statuts de l'université s'efforcent de garantir la représentation de toutes les grandes disciplines enseignées.
+Le nombre de membres du conseil est augmenté d'une unité lorsque le président est choisi hors du conseil d'administration. 
 
-Le conseil d'administration détermine la politique de l'établissement, notamment en délibérant sur le contenu du contrat
-d'établissement. Il vote le budget et approuve les comptes. Il fixe, dans le respect des priorités nationales, la répartition
-des emplois qui lui sont alloués par les ministres compétents. Il autorise le président à engager toute action en justice. Il
-approuve les accords et les conventions signés par le président, et, sous réserve des conditions particulières fixées par
-décret, les emprunts, les prises de participation, les créations de filiales, l'acceptation de dons et legs et les
-acquisitions immobilières. Il peut déléguer certaines de ses attributions au président de l'université.
+II.-Les personnalités extérieures à l'établissement, membres du conseil d'administration, sont nommées par le président de
+l'université pour la durée de son mandat. Elles comprennent, par dérogation à l'article L. 719-3, notamment : 
 
-Celui-ci rend compte, dans les meilleurs délais, au conseil d'administration des décisions prises dans le cadre de cette
-délégation.
+1° Au moins un chef d'entreprise ou cadre dirigeant d'entreprise ; 
+
+2° Au moins un autre acteur du monde économique et social ; 
+
+3° Deux ou trois représentants des collectivités territoriales ou de leurs groupements, dont un du conseil régional, désignés
+par les collectivités concernées. 
+
+La liste des personnalités extérieures est approuvée par les membres élus du conseil d'administration à l'exclusion des
+représentants des collectivités territoriales qui sont désignés par celles-ci. 
+
+III.-Le mandat des membres élus du conseil d'administration court à compter de la première réunion convoquée pour l'élection
+du président. Les membres du conseil d'administration siègent valablement jusqu'à la désignation de leurs successeurs. 
+
+IV.-Le conseil d'administration détermine la politique de l'établissement. A ce titre : 
+
+1° Il approuve le contrat d'établissement de l'université ; 
+
+2° Il vote le budget et approuve les comptes ; 
+
+3° Il approuve les accords et les conventions signés par le président de l'établissement et, sous réserve des conditions
+particulières fixées par décret, les emprunts, les prises de participation, les créations de filiales et de fondations
+prévues à l'article L. 719-12, l'acceptation de dons et legs et les acquisitions et cessions immobilières ; 
+
+4° Il adopte le règlement intérieur de l'université ; 
+
+5° Il fixe, sur proposition du président et dans le respect des priorités nationales, la répartition des emplois qui lui sont
+alloués par les ministres compétents ; 
+
+6° Il autorise le président à engager toute action en justice ; 
+
+7° Il adopte les règles relatives aux examens ; 
+
+8° Il approuve le rapport annuel d'activité, qui comprend un bilan et un projet, présenté par le président. 
+
+Il peut déléguer certaines de ses attributions au président à l'exception de celles mentionnées aux 1°, 2°, 4° et 8°. Celui-
+ci rend compte, dans les meilleurs délais, au conseil d'administration des décisions prises en vertu de cette délégation. 
+
+Toutefois, le conseil d'administration peut, dans des conditions qu'il détermine, déléguer au président le pouvoir d'adopter
+les décisions modificatives du budget. 
+
+En cas de partage égal des voix, le président a voix prépondérante.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : Le IV de l'article L. 712-3 du code de l'éducation s'applique à compter de
+l'installation du nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21687,14 +21952,24 @@ délégation.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 7 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L719-12 (V)
+	  - Code de l'éducation - art. L719-3 (V)
+
 
 ###### Article L712-4
 
 Le pouvoir disciplinaire à l'égard des enseignants-chercheurs, enseignants et usagers est exercé en premier ressort par le
-conseil d'administration de l'établissement constitué en section disciplinaire.
+conseil d'administration de l'établissement constitué en section disciplinaire. 
 
 Le président de la section disciplinaire est un professeur des universités ; il est élu en leur sein par l'ensemble des
-enseignants-chercheurs membres de la section.
+enseignants-chercheurs membres de la section. 
 
 Un décret en Conseil d'Etat précise la composition, les modalités de désignation des membres et le fonctionnement de la
 section disciplinaire. Il fixe les conditions selon lesquelles le conseil d'administration complète la composition de la
@@ -21745,6 +22020,18 @@ plusieurs établissements, notamment en cas de rattachement prévu par l'article
 	  - Code de l'éducation - art. R741-3 (M)
 	  - Code de la défense. - art. R3411-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2013-660 du 22 juillet 2013 - art. 49
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L712-6-2 (V)
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L719-10 (V)
@@ -21759,18 +22046,32 @@ aux autres personnes qui sont habilitées à diriger des recherches, pour un six
 la catégorie précédente, pour un douzième au moins aux autres personnels parmi lesquels la moitié au moins d'ingénieurs et de
 techniciens ;
 
-2° De 7,5 à 12,5 % de représentants des étudiants de troisième cycle ;
+2° De 10 à 15 % de représentants des doctorants inscrits en formation initiale ou continue ;
 
 3° De 10 à 30 % de personnalités extérieures qui peuvent être des enseignants-chercheurs ou des chercheurs appartenant à
 d'autres établissements.
 
-Le conseil scientifique propose au conseil d'administration les orientations des politiques de recherche, de documentation
-scientifique et technique, ainsi que la répartition des crédits de recherche. Il est consulté sur les programmes de formation
-initiale et continue, sur la qualification à donner aux emplois d'enseignants-chercheurs et de chercheurs vacants ou
-demandés, sur les programmes et contrats de recherche proposés par les diverses composantes de l'université, sur les demandes
-d'habilitation à délivrer des diplômes nationaux, sur les projets de création ou de modification des diplômes d'établissement
-et sur le contrat d'établissement. Il assure la liaison entre l'enseignement et la recherche, notamment dans le troisième
-cycle.
+Le conseil scientifique est consulté sur les orientations des politiques de recherche, de documentation scientifique et
+technique, ainsi que sur la répartition des crédits de recherche (1). Il peut émettre des voeux. Il est consulté sur les
+programmes de formation initiale et continue, sur la qualification à donner aux emplois d'enseignants-chercheurs et de
+chercheurs vacants ou demandés, sur les programmes et contrats de recherche proposés par les diverses composantes de
+l'université, sur les demandes d'habilitation à délivrer des diplômes nationaux, sur les projets de création ou de
+modification des diplômes d'établissement et sur le contrat d'établissement. Il assure la liaison entre l'enseignement et la
+recherche.
+
+Dans le respect des dispositions statutaires applicables aux enseignants-chercheurs, le conseil scientifique en formation
+restreinte aux enseignants-chercheurs donne un avis sur les mutations des enseignants-chercheurs, sur l'intégration des
+fonctionnaires des autres corps dans le corps des enseignants-chercheurs, sur la titularisation des maîtres de conférences
+stagiaires et sur le recrutement ou le renouvellement des attachés temporaires d'enseignement et de recherche.
+
+Le nombre des membres du conseil est augmenté d'une unité lorsque le président est choisi hors du conseil.
+
+En cas de partage égal des voix, le président a voix prépondérante.
+
+**Nota:**
+
+(1) : Loi 2007-1199 du 10 août 2007 art. 45 : L'article 8 2° de la présente loi s'applique à compter de l'installation du
+nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21808,6 +22109,15 @@ cycle.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Cite**:
+
+	  - Loi n°2007-1199 2007-08-10
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 8 () JORF 11 août 2007
+
 
 ###### Article L712-6
 
@@ -21821,13 +22131,25 @@ représentations de ces deux catégories étant égales et la représentation de
 
 3° De 10 à 15 % de personnalités extérieures.
 
-Le conseil des études et de la vie universitaire propose au conseil d'administration les orientations des enseignements de
-formation initiale et continue, instruit les demandes d'habilitation et les projets de nouvelles filières. Il prépare les
-mesures de nature à permettre la mise en oeuvre de l'orientation des étudiants et la validation des acquis, à faciliter leur
-entrée dans la vie active, à favoriser les activités culturelles, sportives, sociales ou associatives offertes aux étudiants,
-et à améliorer leurs conditions de vie et de travail. Il examine notamment les mesures relatives aux activités de soutien,
-aux oeuvres universitaires et scolaires, aux services médicaux et sociaux, aux bibliothèques et centres de documentation. Il
-est garant des libertés politiques et syndicales étudiantes.
+Le conseil des études et de la vie universitaire est consulté sur les orientations des enseignements de formation initiale et
+continue, sur les demandes d'habilitation et les projets de nouvelles filières et sur l'évaluation des enseignements.
+
+Le conseil est en outre consulté sur les mesures de nature à permettre la mise en oeuvre de l'orientation des étudiants et de
+la validation des acquis, à faciliter leur entrée dans la vie active et à favoriser les activités culturelles, sportives,
+sociales ou associatives offertes aux étudiants et sur les mesures de nature à améliorer les conditions de vie et de travail,
+notamment sur les mesures relatives aux activités de soutien, aux oeuvres universitaires et scolaires, aux services médicaux
+et sociaux, aux bibliothèques et aux centres de documentation. Il est également consulté sur les mesures d'aménagement de
+nature à favoriser l'accueil des étudiants handicapés. Il est le garant des libertés politiques et syndicales étudiantes.
+
+Il peut émettre des voeux.
+
+Le conseil élit en son sein un vice-président étudiant chargé des questions de vie étudiante en lien avec les centres
+régionaux des oeuvres universitaires et scolaires.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 9 de la présente loi, à l'exception de son dernier alinéa, s'applique à
+compter de l'installation du nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21856,6 +22178,91 @@ est garant des libertés politiques et syndicales étudiantes.
 	  - Code de l'éducation - art. L774-2 (V)
 	  - Code de l'éducation - art. L781-4 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+	  - Loi n°2007-1199 du 10 août 2007 - art. 9 () JORF 11 août 2007
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+
+###### Article L712-6-1
+
+Les statuts de l'université prévoient les conditions dans lesquelles est assurée la représentation des grands secteurs de
+formation au conseil scientifique et au conseil des études et de la vie universitaire.
+
+Ces conseils sont renouvelés à chaque renouvellement de conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-1175 du 23 décembre 1983 - art. 3 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 19 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 33 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 34 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 40 (VD)
+	  - Décret n°84-431 du 6 juin 1984 - art. 58-4 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 7-1 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 9-2 (V)
+	  - Décret n°85-733 du 17 juillet 1985 - art. 2 (V)
+	  - Décret n°85-733 du 17 juillet 1985 - art. 7 (V)
+	  - Décret n°86-434 du 12 mars 1986 - art. 19 (V)
+	  - Décret n°86-434 du 12 mars 1986 - art. 36-4 (V)
+	  - Décret n°87-889 du 29 octobre 1987 - art. 4 (V)
+	  - Décret n°2000-552 du 16 juin 2000 - art. 1 (V)
+	  - Décret n°2000-552 du 16 juin 2000 - art. 5 (V)
+	  - Décret n°2004-186 du 26 février 2004 - art. 12 (V)
+	  - Décret n°2005-1444 du 24 novembre 2005 - art. 9 (V)
+	  - Décret n°2007-772 du 10 mai 2007 - art. 1 (V)
+	  - Décret n°2012-614 du 30 avril 2012 - art. 7 (V)
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 116 (V)
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 122 (V)
+	  - Décret n°2014-780 du 7 juillet 2014 (V)
+	  - Décret n°2014-780 du 7 juillet 2014 - art. 1 (VD)
+	  - ORDONNANCE n°2014-806 du 17 juillet 2014 - art. 3 (V)
+	  - Décret n°2014-851 du 30 juillet 2014 - art. 4 (V)
+	  - Décret n°2014-1676 du 29 décembre 2014 - art. (V)
+	  - Décret n°2014-1680 du 30 décembre 2014 - art. (V)
+	  - Décret n°2014-1682 du 30 décembre 2014 - art. (V)
+	  - Décret n°2015-127 du 5 février 2015 - art. (V)
+	  - Décret n°2015-156 du 11 février 2015 - art. (V)
+	  - Décret n°2015-157 du 11 février 2015 - art. (V)
+	  - Décret n°2015-220 du 27 février 2015 - art. (V)
+	  - Décret n°2015-408 du 10 avril 2015 - art. (V)
+	  - Décret n°2015-554 du 19 mai 2015 - art. (V)
+	  - Décret n°2015-664 du 10 juin 2015 - art. Annexe (VD)
+	  - Loi n°2015-737 du 25 juin 2015 - art. 2 (V)
+	  - Décret n°2015-1176 du 24 septembre 2015 - art. 27 (V)
+	  - Décret n°2015-1496 du 18 novembre 2015 - art. 5 (VD)
+	  - Décret n°2016-542 du 3 mai 2016 - art. 9
+	  - Décret n°2017-852 du 6 mai 2017 - art. 132
+	  - Décret n°2017-854 du 9 mai 2017 - art. 16
+	  - Code de l'éducation - art. L712-3 (V)
+	  - Code de l'éducation - art. L713-4 (M)
+	  - Code de l'éducation - art. L715-1 (V)
+	  - Code de l'éducation - art. L715-2 (V)
+	  - Code de l'éducation - art. L716-1 (V)
+	  - Code de l'éducation - art. L717-1 (V)
+	  - Code de l'éducation - art. L718-1 (V)
+	  - Code de l'éducation - art. L718-12 (V)
+	  - Code de l'éducation - art. L741-1 (V)
+	  - Code de l'éducation - art. L781-2 (V)
+	  - Code de l'éducation - art. L781-3 (V)
+	  - Code de l'éducation - art. L781-4 (V)
+	  - Code de l'éducation - art. L781-6 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 10 () JORF 11 août 2007
+
 
 ###### Article L712-7
 
@@ -21874,10 +22281,185 @@ service commun, en entendent le directeur.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
+
 	**Cité par**:
 
 	  - Décret n°2009-207 du 19 février 2009 (V)
 	  - Code de l'éducation - art. L711-4 (V)
+
+
+##### Section 2 : Responsabilités et compétences élargies.
+
+###### Article L712-8
+
+Les universités peuvent, par délibération adoptée dans les conditions prévues à l'article L. 711-7, demander à bénéficier des
+responsabilités et des compétences élargies en matière budgétaire et de gestion des ressources humaines prévues aux articles
+L. 712-9, L. 712-10 et L. 954-1 à L. 954-3. 
+
+Les dispositions des articles mentionnés au premier alinéa s'appliquent sous réserve que la délibération du conseil
+d'administration soit approuvée par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'enseignement
+supérieur.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 18 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°90-50 du 12 janvier 1990 - art. 1-1 (V)
+	  - Décret n°94-39 du 14 janvier 1994 - art. 61-1 (Ab)
+	  - Décret n°2008-616 du 27 juin 2008 - art. 2 (V)
+	  - Décret n°2008-618 du 27 juin 2008 - art. 1 (VT)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 6 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 7 (V)
+	  - Arrêté du 26 décembre 2008 (V)
+	  - Décret n°2009-851 du 8 juillet 2009 - art. 8 (V)
+	  - Décret n°2009-1641 du 24 décembre 2009 - art. 2 (V)
+	  - Décret n°2009-1642 du 24 décembre 2009 - art. 2 (V)
+	  - Arrêté du 7 mai 2012 - art. (V)
+	  - Arrêté du 7 janvier 2013 - art. (V)
+	  - Arrêté du 26 décembre 2013 - art. (V)
+	  - Arrêté du 24 décembre 2014 - art. (V)
+	  - Arrêté du 26 décembre 2014 - art. 7 (V)
+	  - Décret n°2014-1679 du 30 décembre 2014 - art. 2 (V)
+	  - Code de l'éducation - art. D762-21 (V)
+	  - Code de l'éducation - art. L711-9 (V)
+	  - Code de l'éducation - art. L954-2 (V)
+	  - Code de l'éducation - art. R719-180 (VT)
+	  - Code de l'éducation - art. R719-51 (VD)
+	  - Code de l'éducation - art. R719-54 (V)
+	  - Code de l'éducation - art. R719-61 (V)
+	  - Code de l'éducation - art. R719-69 (V)
+	  - Code du sport. - art. R211-1-1 (V)
+	  - Code du sport. - art. R211-1-2 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 18 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-7 (V)
+	  - Code de l'éducation - art. L712-9 (V)
+	  - Code de l'éducation - art. L954-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+
+###### Article L712-9
+
+Le contrat pluriannuel d'établissement conclu par l'université avec l'Etat prévoit, pour chacune des années du contrat et
+sous réserve des crédits inscrits en loi de finances, le montant global de la dotation de l'Etat en distinguant les montants
+affectés à la masse salariale, les autres crédits de fonctionnement et les crédits d'investissement. 
+
+Les montants affectés à la masse salariale au sein de la dotation annuelle de l'Etat sont limitatifs et assortis du plafond
+des emplois que l'établissement est autorisé à rémunérer. Le contrat pluriannuel d'établissement fixe le pourcentage maximum
+de cette masse salariale que l'établissement peut consacrer au recrutement des agents contractuels mentionnés à l'article L.
+954-3.
+
+L'établissement assure l'information régulière du ministre chargé de l'enseignement supérieur et se dote d'instruments
+d'audit interne et de pilotage financier et patrimonial selon des modalités précisées par décret. 
+
+Les comptes de l'université font l'objet d'une certification annuelle par un commissaire aux comptes.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 18 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°83-975 du 10 novembre 1983 - art. 19 (V)
+	  - Décret n°2008-606 du 26 juin 2008 - art. 1 (Ab)
+	  - Arrêté du 26 décembre 2008 - art. 1 (V)
+	  - Arrêté du 2 mars 2010 - art. 1 (V)
+	  - Arrêté du 15 octobre 2010 - art. 1 (V)
+	  - Arrêté du 9 novembre 2010 - art. 1 (V)
+	  - Arrêté du 28 octobre 2011 - art. 1 (V)
+	  - Arrêté du 3 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-924 du 17 octobre 2013 - art. 26 (V)
+	  - Arrêté du 16 décembre 2014 - art. 1 (V)
+	  - Décret n°2016-1076 du 3 août 2016 - art. 11
+	  - Décret n°2016-1076 du 3 août 2016 - art. 12 (V)
+	  - Arrêté du 21 décembre 2016 - art. 1 (V)
+	  - Code de l'éducation - art. L123-1 (V)
+	  - Code de l'éducation - art. L711-9 (V)
+	  - Code de l'éducation - art. L712-10 (V)
+	  - Code de l'éducation - art. L712-8 (V)
+	  - Code de l'éducation - art. L718-6 (V)
+	  - Code de l'éducation - art. R711-7 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 18 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L954-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+
+###### Article L712-10
+
+Les unités et les services communs des universités bénéficiant des responsabilités et compétences élargies en matière
+budgétaire prévues à l'article L. 712-9 sont associés à l'élaboration du budget de l'établissement dont ils font partie. Ces
+unités et services communs reçoivent chaque année une dotation de fonctionnement arrêtée par le conseil d'administration de
+l'université.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 18 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 18 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Arrêté du 2 mars 2010 - art. 1 (V)
+	  - Arrêté du 28 octobre 2011 - art. 1 (V)
+	  - Arrêté du 16 décembre 2014 - art. 1 (V)
+	  - Arrêté du 21 décembre 2016 - art. 1 (V)
+	  - Code de l'éducation - art. L711-9 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-9 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
 
 
 ##### Chapitre III : Les composantes des universités.
@@ -21886,15 +22468,21 @@ service commun, en entendent le directeur.
 
 Les universités regroupent diverses composantes qui sont :
 
-1° Des instituts ou écoles créés par décret après avis du Conseil national de l'enseignement supérieur et de la recherche ;
+1° Des unités de formation et de recherche, des départements, laboratoires et centres de recherche, créés par délibération du
+conseil d'administration de l'université après avis du conseil scientifique ;
 
-2° Des unités de formation et de recherche créées par arrêté du ministre chargé de l'enseignement supérieur ;
+2° Des écoles ou des instituts, créés par arrêté du ministre chargé de l'enseignement supérieur sur proposition ou après avis
+du conseil d'administration de l'université et du Conseil national de l'enseignement supérieur et de la recherche.
 
-3° Des départements, laboratoires et centres de recherche créés par délibération du conseil d'administration, à la majorité
-des deux tiers de ses membres, sur proposition du conseil scientifique.
+Les composantes de l'université déterminent leurs statuts, qui sont approuvés par le conseil d'administration de
+l'université, et leurs structures internes. Le président associe les composantes de l'université à la préparation et à la
+mise en oeuvre du contrat pluriannuel d'établissement. La création, la suppression ou le regroupement de composantes sont
+inscrits dans le contrat pluriannuel d'établissement, le cas échéant, par voie d'avenant.
 
-Les composantes de l'université déterminent leurs statuts, qui sont approuvés par le conseil d'administration, et leurs
-structures internes.
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 14 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -21950,6 +22538,14 @@ structures internes.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 14 () JORF 11 août 2007
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
 
 
 ###### Article L713-2
@@ -22040,33 +22636,52 @@ enseignants ou les chercheurs qui participent à l'enseignement, en fonction dan
 
 ###### Article L713-4
 
-I. - Les unités de formation et de recherche de médecine, de pharmacie et d'odontologie ou, à défaut, les départements qui
-assurent ces formations concluent, conjointement avec les centres hospitaliers régionaux et conformément aux dispositions des
-articles L. 713-5 et L. 713-6, les conventions qui ont pour objet de déterminer la structure et les modalités de
-fonctionnement du centre hospitalier et universitaire. Le directeur de l'unité ou du département a qualité pour signer ces
-conventions au nom de l'université. Ces conventions sont soumises à l'approbation du président de l'université. Le directeur
-est compétent pour prendre toutes décisions découlant de l'application de ces conventions. Il est ordonnateur secondaire des
-recettes et des dépenses. Les ministres compétents affectent directement aux unités de formation et de recherche les emplois
-hospitalo-universitaires attribués à l'université.
+I.-Par dérogation aux articles L. 712-2, L. 712-3, L. 712-5 et L. 712-6, les unités de formation et de recherche de médecine,
+de pharmacie et d'odontologie ou, à défaut, les départements qui assurent ces formations concluent, conjointement avec les
+centres hospitaliers régionaux, conformément aux articles L. 713-5 et L. 713-6, et, le cas échéant, avec les centres de lutte
+contre le cancer, conformément à l'article L. 6142-5 du code de la santé publique, les conventions qui ont pour objet de
+déterminer la structure et les modalités de fonctionnement du centre hospitalier et universitaire. Elles respectent les
+orientations stratégiques de l'université définies dans le contrat pluriannuel d'établissement, notamment dans le domaine de
+la recherche biomédicale. 
 
-II. - Par dérogation aux articles L. 613-1, L. 712-3 et L. 712-6, l'organisation des enseignements et du contrôle des
-connaissances est définie par les unités de formation et de recherche de médecine, d'odontologie ou de pharmacie, suivant le
-cas, puis approuvée par le président de l'université, pour les formations suivantes :
+Le directeur de l'unité ou du département a qualité pour signer ces conventions au nom de l'université. 
 
-1° Deuxième cycle des études médicales ;
+Ces conventions ne peuvent être exécutées qu'après avoir été approuvées par le président de l'université et votées par le
+conseil d'administration de l'université. 
 
-2° Deuxième cycle des études odontologiques ;
+Le président de l'université peut déléguer sa signature au directeur pour ordonnancer les recettes et les dépenses de l'unité
+de formation et de recherche ou du département. 
 
-3° Formation de pharmacie générale du troisième cycle des études pharmaceutiques.
+Les emplois du personnel enseignant et hospitalier des centres hospitaliers et universitaires sont affectés dans le respect
+des dispositions de l'article L. 952-21. 
 
-III. - La même procédure comportant une proposition commune des unités de formation et de recherche situées, selon le cas,
-dans la région sanitaire ou dans l'interrégion instituée en application de l'article L. 632-7, est applicable aux formations
-suivantes :
+La révision des effectifs enseignants et hospitaliers prend en compte les besoins de santé publique, d'une part, et
+d'enseignement et de recherche, d'autre part. 
 
-1° Troisièmes cycles de médecine générale, de médecine spécialisée et de santé publique ;
+II.-Par dérogation aux articles L. 613-1, 
+L. 712-3 et L. 712-6, l'organisation des enseignements et du contrôle des connaissances est définie par les unités de
+formation et de recherche de médecine, d'odontologie ou de pharmacie, suivant le cas, puis approuvée par le président de
+l'université, pour les formations suivantes : 
+
+1° Deuxième cycle des études médicales ; 
+
+2° Deuxième cycle des études odontologiques ; 
+
+3° Formation de pharmacie générale du troisième cycle des études pharmaceutiques. 
+
+III.-La même procédure comportant une proposition commune des unités de formation et de recherche situées, selon le cas, dans
+la région sanitaire ou dans l'interrégion instituée en application de l'article L. 632-7, est applicable aux formations
+suivantes : 
+
+1° Troisièmes cycles de médecine générale, de médecine spécialisée et de santé publique ; 
 
 2° Formations de pharmacie hospitalière, de pharmacie et santé publique et de biologie médicale du troisième cycle des études
 pharmaceutiques.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 15 de la présente loi (I du présent article) s'applique à compter de
+l'installation du nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -22098,14 +22713,21 @@ pharmaceutiques.
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 15 () JORF 11 août 2007
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L613-1 (M)
+	  - Code de l'éducation - art. L613-1 (V)
 	  - Code de l'éducation - art. L632-7 (Ab)
-	  - Code de l'éducation - art. L712-3 (M)
-	  - Code de l'éducation - art. L712-6 (M)
-	  - Code de l'éducation - art. L713-5 (M)
-	  - Code de l'éducation - art. L713-6 (M)
+	  - Code de l'éducation - art. L712-2 (V)
+	  - Code de l'éducation - art. L712-3 (V)
+	  - Code de l'éducation - art. L712-5 (V)
+	  - Code de l'éducation - art. L712-6 (V)
+	  - Code de l'éducation - art. L713-5 (V)
+	  - Code de l'éducation - art. L952-21 (V)
+	  - Code de la santé publique - art. L6142-5 (V)
 
 	**Liens**:
 
@@ -22903,24 +23525,43 @@ décret en Conseil d'Etat, compte tenu de leurs caractéristiques propres.
 
 ###### Article L719-1
 
-Les membres des conseils prévus au présent titre, en dehors des personnalités extérieures, sont périodiquement désignés au
-scrutin secret par collèges distincts et, dans le respect des dispositions du premier alinéa de l'article L. 711-7, au
-suffrage direct. Le renouvellement des mandats intervient tous les quatre ans, sauf pour les représentants étudiants dont le
-mandat est de deux ans.
+Les membres des conseils prévus au présent titre, en dehors des personnalités extérieures et du président de l'établissement,
+sont élus au scrutin secret par collèges distincts et au suffrage direct. A l'exception du président, nul ne peut siéger dans
+plus d'un conseil de l'université. Le renouvellement des mandats intervient tous les quatre ans, sauf pour les représentants
+étudiants dont le mandat est de deux ans.
 
-L'élection s'effectue pour l'ensemble des personnels au scrutin de liste à un tour avec représentation proportionnelle au
-plus fort reste, panachage et possibilité de listes incomplètes.
+En cas de vacance d'un siège, un nouveau membre est désigné pour la durée du mandat restant à courir selon des modalités
+fixées par décret.
 
-Les représentants des étudiants sont élus suivant les mêmes modalités, mais sans panachage. Dans la mesure du possible, les
-collèges sont distincts selon les cycles d'études.
+L'élection s'effectue, pour l'ensemble des représentants des personnels, des étudiants et des personnes bénéficiant de la
+formation continue, au scrutin de liste à un tour avec représentation proportionnelle au plus fort reste, possibilité de
+listes incomplètes et sans panachage.
+
+Pour les élections des représentants des enseignants-chercheurs et des personnels assimilés au conseil d'administration de
+l'université, une liste de professeurs des universités et des personnels assimilés et une liste de maîtres de conférences et
+des personnels assimilés peuvent s'associer autour d'un projet d'établissement. Chaque liste assure la représentation des
+grands secteurs de formation enseignés dans l'université concernée, à savoir les disciplines juridiques, économiques et de
+gestion, les lettres et sciences humaines et sociales, les sciences et technologies et les disciplines de santé. Dans chacun
+des collèges, il est attribué à la liste qui obtient le plus de voix un nombre de sièges égal à la moitié des sièges à
+pourvoir ou, dans le cas où le nombre de sièges à pouvoir est impair, le nombre entier immédiatement supérieur à la moitié
+des sièges à pourvoir. Les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle au plus
+fort reste.
+
+Pour les élections des représentants des étudiants et des personnes bénéficiant de la formation continue, chaque liste assure
+la représentation d'au moins deux des grands secteurs de formation enseignés dans l'université concernée. Pour chaque
+représentant, un suppléant est élu dans les mêmes conditions que le titulaire ; il ne siège qu'en l'absence de ce dernier.
 
 Les électeurs empêchés de voter personnellement sont admis à voter par procuration. Le vote par correspondance n'est pas
 autorisé.
 
-Nul ne peut être élu à plus d'un conseil d'administration, ni siéger à plus de deux conseils d'administration.
+Nul ne peut être élu à plus d'un conseil d'administration d'université.
 
-Dans le cas où un électeur appartient à plus d'un conseil d'une université, son droit de vote pour l'élection du président
-est exercé par un suppléant désigné dans des conditions fixées par le décret prévu à l'article L. 712-2.
+Nul ne peut être président de plus d'une université.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : La dernière phrase du troisième alinéa de l'article 11 de la présente loi (phrase qui
+débute par " A l'exception du président,...) s'applique à compter de l'installation du nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -22988,6 +23629,10 @@ est exercé par un suppléant désigné dans des conditions fixées par le décr
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 11 () JORF 11 août 2007
 
 	**Cite**:
 
@@ -23114,10 +23759,11 @@ désignation par les collectivités, institutions ou organismes qu'elles représ
 
 Les établissements publics à caractère scientifique, culturel et professionnel disposent, pour l'accomplissement de leurs
 missions, des équipements, personnels et crédits qui leur sont attribués par l'Etat. Ils peuvent disposer des ressources
-provenant notamment des legs, donations et fondations, rémunérations de services, fonds de concours, participation des
-employeurs au financement des premières formations technologiques et professionnelles et subventions diverses. Ils reçoivent
-des droits d'inscription versés par les étudiants et les auditeurs. Ils peuvent recevoir des subventions d'équipement ou de
-fonctionnement des régions, départements et communes et de leurs groupements.
+provenant notamment de la vente des biens, des legs, donations et fondations, rémunérations de services, droits de propriété
+intellectuelle, fonds de concours, de la participation des employeurs au financement des premières formations technologiques
+et professionnelles et de subventions diverses. Ils reçoivent des droits d'inscription versés par les étudiants et les
+auditeurs. Ils peuvent recevoir des subventions d'équipement ou de fonctionnement des régions, départements et communes et de
+leurs groupements.
 
 Dans le cadre des orientations de la planification et de la carte des formations supérieures, le ministre chargé de
 l'enseignement supérieur, après consultation du Conseil national de l'enseignement supérieur et de la recherche, répartit les
@@ -23190,6 +23836,10 @@ dotation globale.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 33 () JORF 11 août 2007
 
 
 ###### Article L719-5
@@ -23370,11 +24020,17 @@ chancelier peut en suspendre l'application pour un délai de trois mois.
 
 ###### Article L719-8
 
-En cas de difficulté grave dans le fonctionnement des organes statutaires ou de défaut d'exercice de leurs responsabilités,
-le ministre chargé de l'enseignement supérieur peut prendre, à titre exceptionnel, toutes dispositions imposées par les
-circonstances ; il consulte le Conseil national de l'enseignement supérieur et de la recherche ou, en cas d'urgence,
-l'informe dès que possible. Dans ces mêmes cas, le recteur, chancelier des universités, a qualité pour prendre, à titre
-provisoire, les mesures conservatoires nécessaires après avoir consulté le président ou le directeur.
+En cas de difficulté grave dans le fonctionnement des organes statutaires des établissements publics à caractère
+scientifique, culturel et professionnel ou de défaut d'exercice de leurs responsabilités, le ministre chargé de
+l'enseignement supérieur peut prendre, à titre exceptionnel, toutes dispositions imposées par les circonstances. Pour
+l'exercice de ces pouvoirs, le ministre informe le Conseil national de l'enseignement supérieur et de la recherche dans les
+meilleurs délais. Dans ces mêmes cas, le recteur, chancelier des universités, a qualité pour prendre, à titre provisoire, les
+mesures conservatoires nécessaires après avoir consulté le président ou le directeur de l'établissement.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 12 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -23405,6 +24061,14 @@ provisoire, les mesures conservatoires nécessaires après avoir consulté le pr
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 12 () JORF 11 août 2007
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
 
 
 ###### Article L719-9
@@ -23593,6 +24257,145 @@ la recherche et le développement technologique de la France sont applicables au
 	**Abrogé par**:
 
 	  - Loi n°2011-525 du 17 mai 2011 - art. 118
+
+
+##### Section 5 : Autres dispositions communes.
+
+###### Article L719-12
+
+Les établissements publics à caractère scientifique, culturel et professionnel peuvent créer en leur sein une ou plusieurs
+fondations universitaires, non dotées de la personnalité morale, résultant de l'affectation irrévocable à l'établissement
+intéressé de biens, droits ou ressources apportés par un ou plusieurs fondateurs pour la réalisation d'une ou plusieurs
+oeuvres ou activités d'intérêt général et à but non lucratif conformes aux missions du service public de l'enseignement
+supérieur visées à l'article L. 123-3. 
+
+Ces fondations disposent de l'autonomie financière. 
+
+Les règles relatives aux fondations reconnues d'utilité publique, dans les conditions fixées notamment par la loi n° 87-571
+du 23 juillet 1987 sur le développement du mécénat, s'appliquent aux fondations universitaires sous réserve des dispositions
+du présent article. 
+
+Les opérations de recettes et de dépenses effectuées au titre de chacune des fondations créées dans les conditions prévues au
+premier alinéa respectent les actes constitutifs de chacune des fondations et, le cas échéant, les règles applicables aux
+comptes des fondations. 
+
+Un décret en Conseil d'Etat détermine les règles générales de fonctionnement de ces fondations et, notamment, la composition
+de leur conseil de gestion, la place au sein de celui-ci du collège des fondateurs, les modalités d'exercice d'un contrôle de
+l'Etat et les conditions dans lesquelles la dotation peut être affectée à l'activité de la fondation. 
+
+Les règles particulières de fonctionnement de chaque fondation sont fixées dans ses statuts qui sont approuvés par le conseil
+d'administration de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°94-39 du 14 janvier 1994 - art. 3 (Ab)
+	  - Décret n°2008-326 du 7 avril 2008 - art. 1 (Ab)
+	  - Décret n°2008-326 du 7 avril 2008 - art. 8 (Ab)
+	  - Décret n°2015-1064 du 26 août 2015 - art. (V)
+	  - Décret n°2015-1176 du 24 septembre 2015 - art. 3 (V)
+	  - Code de l'éducation - art. L712-3 (V)
+	  - Code de l'éducation - art. L719-13 (V)
+	  - Code de l'éducation - art. L781-2 (V)
+	  - Code de l'éducation - art. R719-115 (VT)
+	  - Code de l'éducation - art. R719-194 (V)
+	  - Code de l'éducation - art. R719-201 (V)
+	  - Code général des impôts, CGI. - art. 200 (V)
+	  - Code général des impôts, CGI. - art. 238 bis (V)
+	  - Code général des impôts, CGI. - art. 885-0 V bis A (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 28 () JORF 11 août 2007
+
+
+###### Article L719-13
+
+Les établissements publics à caractère scientifique, culturel et professionnel peuvent créer, en vue de la réalisation d'une
+ou plusieurs oeuvres ou activités d'intérêt général conformes aux missions de l'établissement, une personne morale à but non
+lucratif dénommée fondation partenariale. Ils peuvent créer cette fondation seuls ou avec les personnes morales visées à
+l'article 19 de la loi n° 87-571 du 23 juillet 1987 précitée. 
+
+Les règles relatives aux fondations d'entreprise, dans les conditions fixées notamment par la loi n° 87-571 du 23 juillet
+1987 précitée, s'appliquent aux fondations partenariales sous réserve des dispositions du présent article. 
+
+Outre les ressources visées à l'article 19-8 de la loi n° 87-571 du 23 juillet 1987 précitée, les ressources de ces
+fondations comprennent les legs, les donations et le mécénat. 
+
+Les établissements publics à caractère scientifique, culturel et professionnel disposent de la majorité des sièges au conseil
+d'administration. 
+
+Les règles particulières de fonctionnement de chaque fondation sont fixées dans ses statuts qui sont approuvés par le conseil
+d'administration de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 28 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-606 du 26 juin 2008 - art. 2 (Ab)
+	  - Décret n°2009-1641 du 24 décembre 2009 - art. 2 (V)
+	  - Décret n°2010-1129 du 28 septembre 2010 - art. 3 (V)
+	  - Décret n°2012-279 du 28 février 2012 - art. 5 (VD)
+	  - Décret n°2015-1176 du 24 septembre 2015 - art. 4 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (V)
+	  - Code de l'éducation - art. L711-9 (V)
+	  - Code de l'éducation - art. R711-8 (V)
+	  - Code de la défense. - art. R3411-93 (VD)
+	  - Code du sport. - art. R211-1-2 (V)
+
+
+###### Article L719-14
+
+L'Etat peut transférer aux établissements publics à caractère scientifique, culturel et professionnel qui en font la demande
+la pleine propriété des biens mobiliers et immobiliers appartenant à l'Etat qui leur sont affectés ou sont mis à leur
+disposition. Ce transfert s'effectue à titre gratuit. Il s'accompagne, le cas échéant, d'une convention visant à la mise en
+sécurité du patrimoine, après expertise contradictoire. Il ne donne lieu ni à un versement de salaires ou honoraires au
+profit de l'Etat ni à aucune indemnité ou perception de droits ou de taxes au profit de l'Etat. Les biens qui sont utilisés
+par l'établissement pour l'accomplissement de ses missions de service public peuvent faire l'objet d'un contrat conférant des
+droits réels à un tiers, sous réserve de l'accord préalable de l'autorité administrative compétente et de clauses permettant
+d'assurer la continuité du service public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Cité par**:
+
+	  - Décret n°2006-1543 du 7 décembre 2006 - art. 2 (VD)
+	  - Décret n°2008-606 du 26 juin 2008 - art. 3 (Ab)
+	  - Décret n°2012-1147 du 12 octobre 2012 - art. 1 (Ab)
+	  - Décret n°2012-1147 du 12 octobre 2012 - art. 2 (Ab)
+	  - Décret n°2014-1679 du 30 décembre 2014 - art. 2 (V)
+	  - Loi n°2017-257 du 28 février 2017 - art. 44 (V)
+	  - Code de l'éducation - art. L711-9 (V)
+	  - Code de l'éducation - art. L772-1 (V)
+	  - Code de l'éducation - art. R711-9 (V)
+	  - Code de l'éducation - art. R719-206 (V)
+	  - Code de l'éducation - art. R719-207 (V)
+	  - Code général des impôts, CGI. - art. 1040 bis (V)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 32 () JORF 11 août 2007
 
 
 #### Titre II : Etablissements de formation des maîtres
@@ -25634,6 +26437,8 @@ Sont applicables dans les îles Wallis et Futuna les articles L. 711-1, L. 711-2
 
 ###### Article L772-1
 
+L'article L. 719-14 est applicable à Mayotte.
+
 Les articles L. 721-1 et L. 721-2 sont applicables à Mayotte, sauf en ce qui concerne la formation des instituteurs de la
 collectivité départementale de Mayotte.
 
@@ -25654,7 +26459,7 @@ L'article L. 762-2 est applicable à Mayotte.
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 67 () JORF 24 avril 2005
+	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V) JORF 11 août 2007
 
 	**Cité par**:
 
@@ -25662,6 +26467,7 @@ L'article L. 762-2 est applicable à Mayotte.
 
 	**Cite**:
 
+	  - Code de l'éducation - art. L719-14 (V)
 	  - Code de l'éducation - art. L721-1 (M)
 	  - Code de l'éducation - art. L721-2 (M)
 	  - Code de l'éducation - art. L762-2 (V)
@@ -25977,6 +26783,12 @@ conseil des études et de la vie universitaire, par le président ou le directeu
 Les étudiants sont associés à l'accueil des nouveaux étudiants, à l'animation de la vie des établissements d'enseignement
 supérieur et aux activités d'aide à l'insertion professionnelle.
 
+A cette fin, le chef d'établissement peut recruter, dans des conditions fixées par décret, tout étudiant, notamment pour des
+activités de tutorat ou de service en bibliothèque, sous réserve que l'étudiant soit inscrit en formation initiale dans un
+établissement public d'enseignement supérieur.
+
+Le recrutement s'opère prioritairement sur des critères académiques et sociaux.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -26003,6 +26815,10 @@ supérieur et aux activités d'aide à l'insertion professionnelle.
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 22 () JORF 11 août 2007
 
 
 ###### Article L811-3
@@ -26031,6 +26847,24 @@ culturelle des étudiants.
 	  - Code de l'éducation - art. L341-1 (V)
 	  - Code de l'éducation - art. R234-19 (V)
 	  - Code de l'éducation - art. R234-3 (VD)
+
+
+###### Article L811-3-1
+
+Les élus étudiants aux différentes instances des établissements publics d'enseignement supérieur bénéficient d'une
+information et d'actions de formation, le cas échéant qualifiantes, définies par les établissements et leur permettant
+d'exercer leurs mandats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 23 () JORF 11 août 2007
 
 
 ###### Article L811-4
@@ -28390,30 +29224,79 @@ leur est assurée dans l'exercice de leurs activités.
 	  - Code rural et de la pêche maritime - art. L812-1 (V)
 
 
-###### Article L951-2
+###### Article L951-1-1
 
-Les dispositions de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
-l'Etat, définissant les conditions dans lesquelles doivent être pourvus les emplois civils permanents de l'Etat et de ses
-établissements publics et autorisant l'intégration des agents non titulaires occupant de tels emplois, sont applicables aux
-établissements publics à caractère scientifique, culturel et professionnel.
-
-Sous réserve des dispositions du dernier alinéa de l'article L. 123-5, les établissements ne peuvent pas recruter par contrat
-à durée indéterminée des personnes rémunérées, soit sur des crédits alloués par l'Etat ou d'autres collectivités publiques,
-soit sur leurs ressources propres.
-
-Le régime des contrats à durée déterminée est fixé par les articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 précitée.
-
-Lorsque les ressources nécessaires à la rémunération de personnels permanents sont suffisamment garanties, les emplois
-correspondants, dont la rémunération est couverte par voie de fonds de concours, peuvent être attribués aux établissements
-dans la limite du total des emplois inscrits à la loi de finances de l'année dans des conditions fixées par décret.
+Un comité technique paritaire est créé dans chaque établissement public à caractère scientifique, culturel et professionnel
+par délibération du conseil d'administration. Outre les compétences qui lui sont conférées en application de l'article 15 de
+la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, il est
+consulté sur la politique de gestion des ressources humaines de l'établissement. Un bilan de la politique sociale de
+l'établissement lui est présenté chaque année.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 4, art. 6
-	  - Loi n°84-16 du 11 janvier 1984 - art. 6 (M)
-	  - Code de l'éducation - art. L123-5 (M)
+	  - Loi n°84-16 1984-01-11 art. 15
+	  - Loi n°84-16 du 11 janvier 1984 - art. 15 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 16 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 48 (V)
+	  - Décret n°2008-616 du 27 juin 2008 - art. 1 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 2 (V)
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 1 (V)
+	  - Décret n°2009-1641 du 24 décembre 2009 - art. 1 (V)
+	  - Décret n°2014-321 du 10 mars 2014 (Ab)
+	  - Décret n°2014-1682 du 30 décembre 2014 - art. (V)
+	  - Décret n°2014-1674 du 29 décembre 2014 - art. (V)
+	  - Décret n°2015-156 du 11 février 2015 - art. (V)
+	  - Décret n°2015-281 du 11 mars 2015 - art. (V)
+	  - Décret n°2015-408 du 10 avril 2015 - art. (V)
+	  - Décret n°2015-664 du 10 juin 2015 - art. Annexe (VD)
+	  - Décret n°2015-857 du 13 juillet 2015 - art. (V)
+	  - Décret n°2015-1064 du 26 août 2015 - art. (V)
+	  - Code de l'éducation - art. L712-3 (V)
+	  - Code de l'éducation - art. L712-6-1 (V)
+	  - Code de l'éducation - art. L781-5 (V)
+
+
+###### Article L951-2
+
+Les dispositions de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
+l'Etat, définissant les conditions dans lesquelles doivent être pourvus les emplois civils permanents de l'Etat et de ses
+établissements publics et autorisant l'intégration des agents non titulaires occupant de tels emplois, sont applicables aux
+établissements publics à caractère scientifique, culturel et professionnel. 
+
+Le régime des contrats à durée déterminée est fixé par les articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984 précitée. 
+
+Lorsque les ressources nécessaires à la rémunération de personnels permanents sont suffisamment garanties, les emplois
+correspondants, dont la rémunération est couverte par voie de fonds de concours, peuvent être attribués aux établissements
+dans la limite du total des emplois inscrits à la loi de finances de l'année dans des conditions fixées par décret.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 19 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4 (V)
+	  - Loi n°84-16 du 11 janvier 1984 (V)
 
 	**Anciens textes**:
 
@@ -28424,6 +29307,10 @@ dans la limite du total des emplois inscrits à la loi de finances de l'année d
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 19 (V)
 
 	**Cité par**:
 
@@ -28579,6 +29466,30 @@ Le recrutement de chercheurs pour des tâches d'enseignement est organisé dans 
 	**Cite**:
 
 	  - Code de l'éducation - art. L951-2 (V)
+
+
+###### Article L952-1-1
+
+Dans le cadre des contrats pluriannuels d'établissement mentionnés à l'article L. 711-1, chaque établissement public à
+caractère scientifique, culturel et professionnel présente les objectifs qu'il se fixe en matière de recrutement de maîtres
+de conférences n'ayant pas obtenu leur grade universitaire dans l'établissement, ainsi qu'en matière de recrutement de
+professeurs des universités n'ayant pas exercé, immédiatement avant leur promotion à ce grade, des fonctions de maître de
+conférences dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 26 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-1 (V)
 
 
 ###### Article L952-2
@@ -28783,6 +29694,68 @@ d'Etat, être nommées dans un corps d'enseignants-chercheurs.
 	**Modifié par**:
 
 	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+
+
+###### Article L952-6-1
+
+Sous réserve des dispositions statutaires relatives à la première affectation des personnels recrutés par concours national
+d'agrégation d'enseignement supérieur, lorsqu'un emploi d'enseignant-chercheur est créé ou déclaré vacant, les candidatures
+des personnes dont la qualification est reconnue par l'instance nationale prévue à l'article L. 952-6 sont soumises à
+l'examen d'un comité de sélection créé par délibération du conseil d'administration siégeant en formation restreinte aux
+représentants élus des enseignants-chercheurs, des chercheurs et des personnels assimilés. 
+
+Le comité est composé d'enseignants-chercheurs et de personnels assimilés, pour moitié au moins extérieurs à l'établissement,
+d'un rang au moins égal à celui postulé par l'intéressé. Ses membres sont proposés par le président et nommés par le conseil
+d'administration siégeant en formation restreinte aux représentants élus des enseignants-chercheurs et personnels assimilés.
+Ils sont choisis en raison de leurs compétences, en majorité parmi les spécialistes de la discipline en cause et après avis
+du conseil scientifique. En l'absence d'avis rendu par le conseil scientifique dans un délai de quinze jours, l'avis est
+réputé favorable. Le comité siège valablement si au moins la moitié des membres présents sont extérieurs à l'établissement. 
+
+Au vu de son avis motivé, le conseil d'administration, siégeant en formation restreinte aux enseignants-chercheurs et
+personnels assimilés de rang au moins égal à celui postulé, transmet au ministre compétent le nom du candidat dont il propose
+la nomination ou une liste de candidats classés par ordre de préférence, sous réserve de l'absence d'avis défavorable du
+président tel que prévu à l'article L. 712-2. 
+
+Un comité de sélection commun à plusieurs établissements d'enseignement supérieur peut être mis en place, notamment dans le
+cadre d'un pôle de recherche et d'enseignement supérieur.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 25 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°84-431 du 6 juin 1984 - art. 9 (V)
+	  - Décret n°84-431 du 6 juin 1984 - art. 9-1 (V)
+	  - Décret n°92-1178 du 2 novembre 1992 - art. 10 (VD)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 5 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 6 (V)
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 1 (V)
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 122 (V)
+	  - ORDONNANCE n°2015-24 du 14 janvier 2015 - art. 15 (V)
+	  - Décret n°2015-1102 du 31 août 2015 (V)
+	  - Code de l'éducation - art. L954-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 25 () JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-2 (M)
+	  - Code de l'éducation - art. L952-6 (V)
 
 
 ###### Article L952-7
@@ -29352,6 +30325,42 @@ universitaires.
 	  - Code de l'éducation - art. L952-9 (V)
 
 
+##### Section 4 : Dispositions propres aux personnels de recherche.
+
+###### Article L952-24
+
+Les chercheurs des organismes de recherche, les chercheurs et, dès lors que leurs activités d'enseignement sont au moins
+égales au tiers des obligations d'enseignement de référence, les personnels contractuels exerçant des fonctions
+d'enseignement ou de recherche dans les établissements publics à caractère scientifique, culturel et professionnel
+participent à la vie démocratique des établissements. Ils sont assimilés aux enseignants et enseignants-chercheurs pour leur
+participation aux différents conseils et instances des établissements.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-59 du 18 janvier 1985 - art. 13 (Ab)
+	  - Décret n°2008-616 du 27 juin 2008 - art. 1 (V)
+	  - Décret n°2008-1424 du 19 décembre 2008 (V)
+	  - Décret n°2009-851 du 8 juillet 2009 - art. 3 (V)
+	  - Décret n°2009-1641 du 24 décembre 2009 - art. 1 (V)
+	  - Décret n°2013-1310 du 27 décembre 2013 (V)
+	  - Code de l'éducation - art. D719-12 (V)
+	  - Code de l'éducation - art. L971-1 (V)
+	  - Code de l'éducation - art. L973-1 (V)
+	  - Code de l'éducation - art. L974-1 (V)
+	  - Code de la recherche - art. L411-3 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 24 () JORF 11 août 2007
+
+
 ##### Chapitre III : Les personnels ingénieurs, administratifs, techniques, ouvriers et de service.
 
 ###### Article L953-1
@@ -29530,8 +30539,7 @@ du chef de service auprès duquel le fonctionnaire est affecté ou détaché, qu
 d'établissement ; ces mesures sont prononcées par le ministre après consultation de la commission administrative paritaire.
 
 La commission paritaire d'établissement prépare les travaux des commissions administratives paritaires des corps mentionnés
-au premier alinéa ainsi que, pour ce qui concerne les problèmes généraux d'organisation et de fonctionnement des services,
-les travaux des conseils des établissements publics d'enseignement supérieur.
+au premier alinéa.
 
 Un décret en Conseil d'Etat détermine les conditions de création, la composition, l'organisation et le fonctionnement de la
 commission paritaire d'établissement.
@@ -29554,6 +30562,10 @@ corps d'administration générale, corps des personnels de bibliothèques, autre
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
+	**Modifié par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 16 () JORF 11 août 2007
+
 	**Cité par**:
 
 	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 2 (V)
@@ -29561,6 +30573,171 @@ corps d'administration générale, corps des personnels de bibliothèques, autre
 	  - Code de l'éducation - art. L971-1 (V)
 	  - Code de l'éducation - art. L973-1 (V)
 	  - Code de l'éducation - art. L974-1 (V)
+
+
+###### Article L953-7
+
+Les personnels ingénieurs, techniques et administratifs des organismes de recherche ou les personnels contractuels qui
+exercent des fonctions techniques ou administratives dans les établissements publics à caractère scientifique, culturel et
+professionnel participent à la vie démocratique des établissements. Ils sont assimilés aux personnels ingénieurs,
+administratifs, techniques, et des bibliothèques, nommés dans l'établissement pour leur participation aux différents conseils
+et instances des établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 24 () JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2008-616 du 27 juin 2008 - art. 1 (V)
+	  - Décret n°2008-1424 du 19 décembre 2008 (V)
+	  - Décret n°2009-1641 du 24 décembre 2009 - art. 1 (V)
+	  - Code de la recherche - art. L411-3 (V)
+
+
+##### Chapitre IV : Dispositions applicables aux universités bénéficiant de responsabilités et de compétences élargies mentionnées à l'article L. 712-8.
+
+###### Article L954-1
+
+Le conseil d'administration définit, dans le respect des dispositions statutaires applicables et des missions de formation
+initiale et continue de l'établissement, les principes généraux de répartition des obligations de service des personnels
+enseignants et de recherche entre les activités d'enseignement, de recherche et les autres missions qui peuvent être confiées
+à ces personnels.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 19 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-606 du 26 juin 2008 - art. 1 (Ab)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 6 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 7 (V)
+	  - Décret n°2008-744 du 28 juillet 2008 - art. 4 (V)
+	  - Arrêté du 26 décembre 2008 - art. 1 (V)
+	  - Arrêté du 2 mars 2010 - art. 1 (V)
+	  - Arrêté du 15 octobre 2010 - art. 1 (V)
+	  - Arrêté du 9 novembre 2010 - art. 1 (V)
+	  - Arrêté du 28 octobre 2011 - art. 1 (V)
+	  - Arrêté du 3 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-924 du 17 octobre 2013 - art. 26 (V)
+	  - Arrêté du 16 décembre 2014 - art. 1 (V)
+	  - Arrêté du 21 décembre 2016 - art. 1 (V)
+	  - Code de l'éducation - art. L123-1 (V)
+	  - Code de l'éducation - art. L711-9 (V)
+	  - Code de l'éducation - art. L712-8 (V)
+	  - Code de l'éducation - art. L718-6 (V)
+	  - Code de l'éducation - art. L971-1 (V)
+	  - Code de l'éducation - art. L973-1 (V)
+	  - Code de l'éducation - art. L974-1 (V)
+	  - Code de l'éducation - art. R711-7 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+
+###### Article L954-2
+
+Le président est responsable de l'attribution des primes aux personnels qui sont affectés à l'établissement, selon des règles
+générales définies par le conseil d'administration. La prime d'encadrement doctoral et de recherche est accordée après avis
+du conseil scientifique.
+
+Le conseil d'administration peut créer des dispositifs d'intéressement permettant d'améliorer la rémunération des personnels.
+
+Les conditions d'application du présent article peuvent être précisées par décret.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 19 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 19 (V) JORF 11 août 2007
+
+	**Cité par**:
+
+	  - Décret n°2009-851 du 8 juillet 2009 - art. 1 (V)
+	  - Décret n°2014-557 du 28 mai 2014 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-8 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+
+
+###### Article L954-3
+
+Sous réserve de l'application de l'article L. 712-9, le président peut recruter, pour une durée déterminée ou indéterminée,
+des agents contractuels : 
+
+1° Pour occuper des fonctions techniques ou administratives correspondant à des emplois de catégorie A ; 
+
+2° Pour assurer, par dérogation au premier alinéa de l'article L. 952-6, des fonctions d'enseignement, de recherche ou
+d'enseignement et de recherche, après avis du comité de sélection prévu à l'article L. 952-6-1.
+
+**Nota:**
+
+Loi 2007-1199 du 10 août 2007 art. 45 : L'article 19 de la présente loi s'applique à compter de l'installation du nouveau
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-59 du 18 janvier 1985 - art. 3 (Ab)
+	  - Arrêté du 10 avril 2009 - art. 2 (V)
+	  - Arrêté du 28 octobre 2011 - art. 1 (V)
+	  - Code de l'éducation - art. D719-4 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2007-1199 du 10 août 2007 - art. 19 (V) JORF 11 août 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-9 (V)
+	  - Code de l'éducation - art. L952-6 (V)
+	  - Code de l'éducation - art. L952-6-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
 
 
 #### Titre VI : Les personnels des établissements d'enseignement spécialisés
@@ -29882,8 +31059,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L973-1
 
 Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
-912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
-952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1, L.
+952-2 à L. 952-6, L. 952-7 à L. 952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7.
 
 **Liens relatifs à cet article**
 
@@ -29902,23 +31079,7 @@ Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 75 () JORF 24 avril 2005
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L912-1 (M)
-	  - Code de l'éducation - art. L912-1-1 (V)
-	  - Code de l'éducation - art. L912-1-2 (V)
-	  - Code de l'éducation - art. L912-1-3 (V)
-	  - Code de l'éducation - art. L912-2 (V)
-	  - Code de l'éducation - art. L913-1 (M)
-	  - Code de l'éducation - art. L914-1 (M)
-	  - Code de l'éducation - art. L914-2 (V)
-	  - Code de l'éducation - art. L931-1 (V)
-	  - Code de l'éducation - art. L932-1 (V)
-	  - Code de l'éducation - art. L941-1 (V)
-	  - Code de l'éducation - art. L953-6 (M)
-	  - Code de l'éducation L911-1 à L911-5, L912-1, L912-1-1, L912-1-2, L912-1-3, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
 
 
 ###### Article L973-2
@@ -29971,8 +31132,8 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 ###### Article L974-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
-912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
-952-12, L. 952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1, L.
+952-2 à L. 952-6, L. 952-7 à L. 952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7.
 
 **Liens relatifs à cet article**
 
@@ -29991,23 +31152,7 @@ Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 91
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 83 () JORF 24 avril 2005
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L912-1 (M)
-	  - Code de l'éducation - art. L912-1-1 (V)
-	  - Code de l'éducation - art. L912-1-2 (V)
-	  - Code de l'éducation - art. L912-1-3 (V)
-	  - Code de l'éducation - art. L912-2 (V)
-	  - Code de l'éducation - art. L913-1 (M)
-	  - Code de l'éducation - art. L914-1 (M)
-	  - Code de l'éducation - art. L914-2 (V)
-	  - Code de l'éducation - art. L931-1 (V)
-	  - Code de l'éducation - art. L932-1 (V)
-	  - Code de l'éducation - art. L941-1 (V)
-	  - Code de l'éducation - art. L953-6 (M)
-	  - Code de l'éducation L911-1 à L911-5, L912-1, L912-1-1, L912-1-2, L912-1-3, L912-2, L913-1, L914-1, L914-2, L931-1, L932-1, L932-3 à L932-6, L941-1, L951-1 à L951-4, L952-1 à L952-12, L952-14 à L952-20, L953-1 à L953-4, L953-6
+	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
 
 
 ###### Article L974-2
