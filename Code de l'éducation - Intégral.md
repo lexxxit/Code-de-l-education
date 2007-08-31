@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-08-11
+Version Consolidée au 2007-09-01
 
 # Partie législative
 
@@ -37475,9 +37475,9 @@ publiques et privées sous contrat du premier degré et leurs personnels.
 
 Le recteur est autorisé à déléguer sa signature :
 
-a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de celui-ci, au secrétaire général
-d'administration scolaire et universitaire chargé des fonctions d'adjoint au secrétaire général d'académie, et aux chefs de
-division du rectorat dans la limite de leurs attributions ;
+a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de celui-ci, à l'administrateur de l'éducation
+nationale, de l'enseignement supérieur et de la recherche chargé des fonctions d'adjoint au secrétaire général d'académie, et
+aux chefs de division du rectorat dans la limite de leurs attributions ;
 
 b) Aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et, en cas d'absence ou
 d'empêchement de ceux-ci, aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique ou au chef
@@ -37495,23 +37495,15 @@ Ces délégations fixent les actes et les corps des fonctionnaires auxquels elle
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°62-35 1962-01-16 art. 2
-
 	**Cité par**:
 
 	  - Décret n°64-1022 du 29 septembre 1964 - art. 17 (Ab)
 	  - Code de l'éducation - art. R222-19-3 (VD)
 	  - Code de l'éducation - art. R931-2 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 art. 4 7° JORF 24 mai 2006
+	  - Décret n°2008-1518 du 30 décembre 2008 - art. 2
 
 
 ###### Article D222-21
@@ -67960,7 +67952,12 @@ Les diplômes ainsi que les titres homologués permettant l'accès en formation 
 Sur décision du recteur, prise après avis de l'équipe pédagogique de l'établissement concerné par la formation demandée,
 peuvent également être admises en formation les personnes ayant accompli en France ou à l'étranger une formation validée par
 un diplôme ou un titre d'un niveau comparable aux diplômes et titres mentionnés à l'article D. 337-143 et dans un secteur en
-rapport avec leur finalité.
+rapport avec leur finalité. 
+
+Sur décision du recteur, prise après avis de l'équipe pédagogique de l'établissement de formation, peuvent également être
+admises en formation les personnes à la recherche d'un emploi ou en reconversion professionnelle ayant interrompu leurs
+études depuis plus de deux ans et ne possédant pas les diplômes et titres exigés par chaque arrêté de spécialité, mentionné à
+l'article D. 337-143, ni les autres titres ou diplômes mentionnés au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
@@ -67989,6 +67986,10 @@ rapport avec leur finalité.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2007-497 du 30 mars 2007 - art. 1 () JORF 1er avril 2007 en vigueur le 1er septembre 2007
 
 	**Cite**:
 
