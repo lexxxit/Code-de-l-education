@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-09-14
+Version Consolidée au 2007-10-01
 
 # Partie législative
 
@@ -34641,18 +34641,23 @@ R. 121-3 du code de l'urbanisme.
 ###### Article R211-6
 
 Le préfet procède à toutes les opérations nécessaires à la réalisation du projet, en tenant compte de la structure
-pédagogique établie par l'autorité académique.
+pédagogique établie par l'autorité académique. 
 
-Il arrête le programme technique et le montant prévisionnel de l'opération.
+Il arrête le programme technique et le montant prévisionnel de l'opération. 
 
 Si le terrain d'assiette n'est pas fourni à l'Etat, il prend les mesures nécessaires pour l'acquérir en recourant
-éventuellement à l'expropriation.
+éventuellement à l'expropriation. 
 
-Il délivre le permis de construire dans les conditions prévues par les articles L. 421-2-1, R. 421-33 (alinéa 2) et R. 421-36
-du code de l'urbanisme.
+Il délivre le permis de construire dans les conditions prévues par les articles L. 422-2-2 et R. 422-2 du code de
+l'urbanisme. 
 
 Il passe les marchés et souscrit l'assurance de dommages prévue par les articles L. 242-1 et suivants du code des assurances
 pour le compte de la collectivité territoriale, future propriétaire.
+
+**Nota:**
+
+L'article 4 du décret n° 2007-817 du 11 mai 2007 a fixé au 1er octobre 2007 la date d'entrée en vigueur du décret n° 2007-18
+du 5 janvier 2007.
 
 **Liens relatifs à cet article**
 
@@ -34664,16 +34669,19 @@ pour le compte de la collectivité territoriale, future propriétaire.
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2007-18 du 5 janvier 2007 - art. 17 () JORF 6 janvier 2007 en vigueur le 1er octobre 2007
+
 	**Cité par**:
 
 	  - Code du sport. - art. R211-3 (V)
 
 	**Cite**:
 
-	  - Code des assurances - art. L242-1 (M)
-	  - Code de l'urbanisme - art. L421-2-1 (M)
-	  - Code de l'urbanisme - art. R421-33 (M)
-	  - Code de l'urbanisme - art. R421-36 (M)
+	  - Code des assurances - art. L242-1 (V)
+	  - Code de l'urbanisme - art. L422-2 (V)
+	  - Code de l'urbanisme - art. R*422-2 (V)
 
 
 ###### Article R211-7
