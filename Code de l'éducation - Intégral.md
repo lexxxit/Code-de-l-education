@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2007-10-28
 
 # Partie législative
 
@@ -37593,6 +37593,30 @@ de division du rectorat.
 	  - Décret n°71-1023 1971-12-22 art. 6, paragraphe III
 
 
+###### Article D222-23-1
+
+Pendant l'intérim du recteur et sauf décision contraire du ou des fonctionnaires assurant l'intérim, les délégations de
+signature données par le précédent recteur sont maintenues jusqu'à la nomination d'un nouveau recteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+	**Créé par**:
+
+	  - Décret n°2007-1540 du 26 octobre 2007 - art. 2 () JORF 28 octobre 2007
+
+	**Cité par**:
+
+	  - Décret n°2007-1540 du 26 octobre 2007 - art. 3 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2013-469 du 5 juin 2013 - art. 2
+
+
 ###### Article R*222-13
 
 Nul ne peut être nommé recteur s'il n'est habilité à diriger des recherches.
@@ -37746,8 +37770,9 @@ scolaire, est chargé de l'administration de l'académie pour les questions ment
 Sous l'autorité du recteur, le secrétaire général d'académie est chargé de l'administration de l'académie. En cas d'absence
 ou d'empêchement, il supplée le recteur.
 
-L'académie de Paris comprend deux emplois de secrétaire général. Les fonctionnaires nommés dans ces deux emplois exercent
-leurs fonctions dans les conditions fixées par les articles R. 222-17 et R. 222-18.
+En cas de vacance momentanée du poste de recteur, le secrétaire général d'académie assure l'intérim. Toutefois, l'intérim du
+recteur de l'académie de Paris est assuré par le vice-chancelier des universités de Paris pour les questions mentionnées à
+l'article R.* 222-17 et par le directeur de l'académie de Paris pour les questions mentionnées à l'article R.* 222-18.
 
 **Liens relatifs à cet article**
 
@@ -37760,14 +37785,19 @@ leurs fonctions dans les conditions fixées par les articles R. 222-17 et R. 222
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
+	**Modifié par**:
+
+	  - Décret n°2007-1540 du 26 octobre 2007 - art. 1 () JORF 28 octobre 2007
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R*222-17 (V)
+	  - Code de l'éducation - art. R*222-18 (V)
+
 	**Cité par**:
 
 	  - Code de l'éducation - art. R222-19-3 (VD)
 	  - Code de l'éducation - art. R222-24 (VD)
-
-	**Cite**:
-
-	  - Code de l'éducation R222-17, R222-18
 
 
 ##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
