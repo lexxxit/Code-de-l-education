@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-10-28
+Version Consolidée au 2007-12-09
 
 # Partie législative
 
@@ -44806,16 +44806,19 @@ pour l'éducation, la science et la culture, dont les statuts ont été légalem
 	  - Code de l'éducation - art. D239-38 (V)
 
 
-##### Section 3 : L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.
+##### Section 3 : L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement.
 
 ###### Article D239-25
 
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur, placé auprès du ministre
+L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement, placé auprès du ministre
 chargé de l'éducation et de l'enseignement supérieur étudie, au regard des règles de sécurité et dans le respect des
 compétences des commissions centrale et locales de sécurité et de celles des inspecteurs du travail, les conditions
-d'application des règles de sécurité, l'état des immeubles et des équipements affectés aux établissements scolaires, aux
-établissements d'enseignement supérieur et aux centres d'information et d'orientation ou qui sont utilisés par eux de façon
-régulière.
+d'application des règles de sécurité, l'état des immeubles et des équipements notamment utilisés à des fins d'enseignement,
+de recherche, de restauration, d'hébergement, d'information, d'orientation et d'administration ainsi que les conditions de
+leur protection en vue de prévenir toute atteinte aux personnes et aux biens. 
+
+Il évalue l'accessibilité des établissements mentionnés à l'article D. 239-26, conformément aux dispositions du code de la
+construction et de l'habitation. 
 
 Il informe des conclusions de ses travaux les collectivités territoriales, les administrations, les chancelleries des
 universités, les établissements d'enseignement supérieur ou les propriétaires privés concernés. Il peut porter à la
@@ -44824,6 +44827,18 @@ libre administration des collectivités territoriales et de l'autonomie des éta
 solliciter tous renseignements et demander à consulter sur place tous documents qu'il estime, en toute indépendance, utiles à
 sa mission. Il remet au ministre chargé de l'éducation le 31 décembre de chaque année, un rapport qui est rendu public.
 
+**Nota:**
+
+Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Observatoire
+national de la sécurité et de l'accessibilité des établissements d'enseignement).
+
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, l'Observatoire national de la sécurité et de l'accessibilité
+des établissements d'enseignement est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -44831,18 +44846,19 @@ sa mission. Il remet au ministre chargé de l'éducation le 31 décembre de chaq
 	  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
 	  - Code de l'éducation - art. D239-11 (T)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 3
 
 	**Cité par**:
 
 	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
 	  - Décret n°2015-623 du 5 juin 2015 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D239-26
 
 	**Nouveaux textes**:
 
@@ -44851,28 +44867,20 @@ sa mission. Il remet au ministre chargé de l'éducation le 31 décembre de chaq
 
 ###### Article D239-26
 
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est compétent pour les
+L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement est compétent pour les
 établissements scolaires du premier et du second degré, publics et privés sous contrat, ainsi que pour les établissements
 publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code rural.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L813-10
 
 	**Anciens textes**:
 
 	  - Décret n°89-778 du 23 octobre 1989 - art. 4 (Ab)
 	  - Code de l'éducation - art. D239-12 (T)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Cité par**:
 
@@ -44882,12 +44890,16 @@ publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code 
 
 	  - Code de l'éducation - art. D239-40 (V)
 
+	**Cite**:
+
+	  - Code rural - art. L813-10 (V)
+
 
 ###### Article D239-27
 
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est composé de cinquante et
-un membres. Ceux-ci ainsi que, s'il y a lieu, leurs suppléants, sont nommés pour une durée de trois ans par arrêté du
-ministre chargé de l'éducation.
+L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement est composé de cinquante et un
+membres. Ceux-ci ainsi que, s'il y a lieu, leurs suppléants, sont nommés pour une durée de trois ans par arrêté du ministre
+chargé de l'éducation.
 
 Ils se répartissent de la manière suivante :
 
@@ -44943,7 +44955,7 @@ ainsi qu'il suit :
 
 a) Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
 
-aa) Deux représentants du ministre chargé de l'éducation ;
+aa) Un représentant du ministre chargé de l'éducation ;
 
 ab) Un représentant du ministre chargé de l'enseignement supérieur ;
 
@@ -44961,7 +44973,9 @@ ah) Un représentant du ministre chargé de l'outre-mer ;
 
 ai) Un représentant du ministre chargé de l'équipement ;
 
-aj) Un représentant du ministre chargé des sports.
+aj) Un représentant du ministre chargé des sports ;
+
+ak) Un représentant du ministre chargé des personnes handicapées.
 
 b) Deux membres titulaires représentants des chefs d'établissement et deux suppléants, nommés sur proposition des
 organisations représentatives :
@@ -44979,13 +44993,10 @@ bc) Quatre personnalités qualifiées désignées en fonction de leurs compéten
 	  - Décret n°89-778 du 23 octobre 1989 - art. 5 (Ab)
 	  - Code de l'éducation - art. D239-13 (T)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 4
 
 	**Nouveaux textes**:
 
@@ -44994,18 +45005,14 @@ bc) Quatre personnalités qualifiées désignées en fonction de leurs compéten
 
 ###### Article D239-28
 
-Le ministre chargé de l'éducation nomme, parmi les membres de l'Observatoire national de la sécurité des établissements
-scolaires et d'enseignement supérieur, le président, pour une durée de trois ans, par arrêté.
+Le ministre chargé de l'éducation nomme, parmi les membres de l'Observatoire national de la sécurité et de l'accessibilité
+des établissements d'enseignement, le président, pour une durée de trois ans, par arrêté.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
@@ -45014,18 +45021,14 @@ scolaires et d'enseignement supérieur, le président, pour une durée de trois 
 
 ###### Article D239-29
 
-Des experts peuvent être entendus par l'Observatoire national de la sécurité des établissements scolaires et d'enseignement
-supérieur.
+Des experts peuvent être entendus par l'Observatoire national de la sécurité et de l'accessibilité des établissements
+d'enseignement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
@@ -45034,18 +45037,14 @@ supérieur.
 
 ###### Article D239-30
 
-L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur élabore son règlement
+L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement  élabore son règlement
 intérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
@@ -45054,19 +45053,16 @@ intérieur.
 
 ###### Article D239-31
 
-L'observatoire détermine notamment la périodicité, la nature et les conditions de ses travaux ainsi que les conditions dans
-lesquelles les collectivités ou les propriétaires privés présentent les remarques que leur suggèrent les informations
-transmises par l'observatoire.
+L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement  détermine notamment la
+périodicité, la nature et les conditions de ses travaux ainsi que les conditions dans lesquelles les collectivités ou les
+propriétaires privés présentent les remarques que leur suggèrent les informations transmises par l'Observatoire national de
+la sécurité et de l'accessibilité des établissements d'enseignement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
@@ -45076,17 +45072,13 @@ transmises par l'observatoire.
 ###### Article D239-32
 
 L'ordre du jour des séances est fixé par le président, ou sur demande d'au moins un quart des membres de l'Observatoire
-national de la sécurité des établissements scolaires et d'enseignement supérieur. Il choisit, en son sein, un rapporteur.
+national de la sécurité et de l'accessibilité des établissements d'enseignement.   Il choisit, en son sein, un rapporteur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
@@ -45095,18 +45087,14 @@ national de la sécurité des établissements scolaires et d'enseignement supér
 
 ###### Article D239-33
 
-Un secrétariat est mis à la disposition de l'Observatoire national de la sécurité des établissements scolaires et
-d'enseignement supérieur par le ministre chargé de l'enseignement supérieur.
+Un secrétariat est mis à la disposition de l'Observatoire national de la sécurité et de l'accessibilité des établissements
+d'enseignement  par le ministre chargé de l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
+	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
 
 	**Anciens textes**:
 
