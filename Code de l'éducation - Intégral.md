@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-12-09
+Version Consolidée au 2007-12-16
 
 # Partie législative
 
@@ -36962,6 +36962,98 @@ contrats d'objectifs.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+
+##### Section 4 : Ecoles de la deuxième chance.
+
+###### Article D214-9
+
+Les écoles de la deuxième chance mentionnées à l'article L. 214-14 sont des établissements ou des organismes de formation
+gérés par toute personne physique ou morale auxquels a été attribué, sur leur demande, le label " école de la deuxième chance
+". 
+
+Les formations dispensées par les écoles de la deuxième chance s'inscrivent dans le cadre de la programmation des actions de
+formation professionnelle des jeunes mentionnée à l'article L. 214-13.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1756 du 13 décembre 2007 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2009-221 du 24 février 2009 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-13
+	  - Code de l'éducation - art. L214-14
+
+
+###### Article D214-10
+
+Le label " école de la deuxième chance " est délivré pour une durée de quatre ans par l'association " Réseau des E2C en
+France " aux établissements et organismes de formation se conformant aux critères définis par un cahier des charges établi
+par cette association sur avis conforme des ministres chargés de l'éducation et de la formation professionnelle. 
+
+Le label peut être renouvelé au vu d'une évaluation dont les modalités figurent à la convention mentionnée au quatrième
+alinéa de l'article L. 214-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1756 du 13 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-14
+
+
+###### Article D214-11
+
+Le parcours de formation personnalisé prévu à l'article L. 214-14, dont la durée ne peut excéder quarante-huit mois, est
+défini sur la base d'une évaluation individuelle du niveau initial de connaissances et de compétences des personnes admises
+au sein d'une école de la deuxième chance et d'un entretien réalisé lors de leur entrée en formation et portant notamment sur
+leurs projets professionnel et personnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1756 du 13 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-14
+
+
+###### Article D214-12
+
+L'attestation de fin de formation délivrée par les écoles de la deuxième chance précise le niveau des connaissances et des
+compétences atteintes par les personnes ayant suivi la formation, notamment au regard du socle commun de connaissances et de
+compétences défini à l'article L. 122-1-1. 
+
+Cette attestation est prise en compte lors du positionnement prévu notamment aux articles D. 337-4, 
+D. 337-58, D. 337-59, D. 337-61 et D. 337-145 ou de l'évaluation des compétences définie à l'article L. 115-2 du code du
+travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2007-1756 du 13 décembre 2007 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-145
+	  - Code de l'éducation - art. D337-4
+	  - Code de l'éducation - art. D337-58
+	  - Code de l'éducation - art. D337-59
+	  - Code de l'éducation - art. D337-61
+	  - Code de l'éducation - art. L122-1-1
+	  - Code du travail - art. L115-2
 
 
 #### Chapitre V : Les compétences de la collectivité territoriale de Corse.
