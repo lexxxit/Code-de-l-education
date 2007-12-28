@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-12-28
+Version Consolidée au 2007-12-29
 
 # Partie législative
 
@@ -3661,36 +3661,30 @@ public de l'éducation nationale dans les conditions fixées à l'article L. 421
 
 ###### Article L213-3
 
-Le département est propriétaire des locaux dont il a assuré la construction et la reconstruction.
+Le département est propriétaire des locaux dont il a assuré la construction et la reconstruction. 
 
 Les biens immobiliers des collèges appartenant à l'Etat à la date d'entrée en vigueur de la loi n° 2004-809 du 13 août 2004
 relative aux libertés et responsabilités locales lui sont transférés en pleine propriété à titre gratuit. Ce transfert ne
-donne lieu au versement d'aucun droit, taxe, salaire ou honoraires.
+donne lieu au versement d'aucun droit, taxe, salaire ou honoraires. 
 
 Les biens immobiliers des collèges appartenant à une commune ou un groupement de communes peuvent être transférés en pleine
 propriété au département, à titre gratuit et sous réserve de l'accord des parties. Lorsque le département effectue sur ces
 biens des travaux de construction, de reconstruction ou d'extension, ce transfert est de droit, à sa demande, et ne donne
-lieu au versement d'aucun droit, taxe ou honoraires.
+lieu au versement d'aucun droit, taxe, salaire ou honoraires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Cite**:
 
-	  - Loi n°2004-809 2004-08-13
+	  - Loi n°2004-809 du 13 août 2004 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2005-1720 du 30 décembre 2005 - art. 72 () JORF 31 décembre 2005
+	  - Loi n°2007-1824 du 25 décembre 2007 - art. 81
 
 
 ###### Article L213-4
