@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2007-12-29
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -2361,57 +2361,6 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.
-
-###### Article L162-1
-
-Sont applicables à Mayotte les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de l'article L. 111-1,
-les articles L. 111-2 à L. 111-4, L. 112-1 à L. 112-3, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L.
-121-4, L. 122-1, L. 122-1-1, L. 122-2, L. 122-5, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L.
-141-4, L. 141-5, L. 141-5-1, L. 141-6, L. 151-1 à L. 151-3 et L. 151-6 du code de l'éducation et l'article L. 100-1 du code
-du sport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-	  - Loi n°94-51 1994-01-21 art. 5
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L111-1 (V)
-	  - Code de l'éducation - art. L111-2 (V)
-	  - Code de l'éducation - art. L112-1 (V)
-	  - Code de l'éducation - art. L113-1 (V)
-	  - Code de l'éducation - art. L121-1 (V)
-	  - Code de l'éducation - art. L122-1 (T)
-	  - Code de l'éducation - art. L122-1-1 (V)
-	  - Code de l'éducation - art. L122-2 (V)
-	  - Code de l'éducation - art. L122-5 (V)
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L131-1-1 (V)
-	  - Code de l'éducation - art. L132-1 (V)
-	  - Code de l'éducation - art. L141-2 (V)
-	  - Code de l'éducation - art. L151-1 (V)
-	  - Code de l'éducation - art. L151-6 (V)
-	  - Code du sport. - art. L100-1 (V)
-
 
 ###### Article L162-2
 
@@ -6450,31 +6399,26 @@ l'administration ou l'établissement public dont ils dépendent ou de fonctionna
 ###### Article L234-1
 
 Le conseil de l'éducation nationale institué dans chaque académie comprend des représentants des communes, départements et
-régions, des personnels et des usagers.
+régions, des personnels et des usagers. 
 
 La présidence est exercée par le représentant de l'Etat ou le représentant de la collectivité concernée selon que les
-questions soumises aux délibérations du conseil sont de la compétence de l'Etat, du département ou de la région.
+questions soumises aux délibérations du conseil sont de la compétence de l'Etat, du département ou de la région. 
 
-Ce conseil peut siéger en formations restreintes.
+Ce conseil peut siéger en formations restreintes. 
 
 Un décret en Conseil d'Etat précise notamment l'organisation et les compétences de ce conseil. Ce décret peut comporter les
-adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse et des départements d'outre-mer.
+adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse       des départements d'outre-mer et
+de Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 12
 	  - Loi n°83-663 du 22 juillet 1983 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 78 1° JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cité par**:
 
@@ -6769,25 +6713,24 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 ###### Article L235-1
 
 Le conseil de l'éducation nationale institué dans chaque département comprend des représentants des communes, départements et
-régions, des personnels et des usagers.
+régions, des personnels et des usagers. 
 
 La présidence est exercée par le représentant de l'Etat ou le représentant de la collectivité concernée selon que les
-questions soumises aux délibérations du conseil sont de la compétence de l'Etat, du département ou de la région.
+questions soumises aux délibérations du conseil sont de la compétence de l'Etat, du département ou de la région. 
 
 Un décret en Conseil d'Etat précise notamment l'organisation et les compétences de ce conseil. Ce décret peut comporter les
-adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse et des départements d'outre-mer.
+adaptations rendues nécessaires par l'organisation particulière de Paris, de la Corse       des départements d'outre-mer et
+de Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 12
 	  - Loi n°83-663 du 22 juillet 1983 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cité par**:
 
@@ -7731,41 +7674,36 @@ nationale et de la recherche ;
 
 ###### Article L262-1
 
-Sont applicables à Mayotte les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 236-1,
-L. 241-1 à L. 241-4, et L. 242-1.
+Les articles L. 211-3, L. 212-1 à L. 212-5, L. 212-9, 
+L. 213-1 à L. 213-5, L. 213-7 à L. 213-9, L. 214-1, L. 214-4 à L. 214-11, L. 216-4 à L. 216-9 et le premier alinéa de
+l'article L. 222-1 ne sont pas applicables à Mayotte.
 
 **Nota:**
 
-NOTA : Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à
-compter de l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de
-la recherche et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31
-décembre 2006.
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-	  - Loi n°94-51 1994-01-21 art. 5
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L216-10 (V)
-	  - Code de l'éducation - art. L236-1 (V)
-	  - Code de l'éducation - art. L242-1 (M)
-	  - Code de l'éducation L216-10, L230-1 à L230-3, L231-1 à L231-13, L232-1 à L232-7, L236-1, L241-1 à L241-4, L242-1
+	  - Code de l'éducation - art. L211-3
+	  - Code de l'éducation - art. L212-1
+	  - Code de l'éducation - art. L212-9
+	  - Code de l'éducation - art. L213-1
+	  - Code de l'éducation - art. L213-7
+	  - Code de l'éducation - art. L214-1
+	  - Code de l'éducation - art. L214-4
+	  - Code de l'éducation - art. L216-4
+	  - Code de l'éducation - art. L222-1
 
 
 ###### Article L262-2
@@ -7779,6 +7717,39 @@ d'un établissement scolaire des équipements nécessaires à la pratique de l'�
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+###### Article L262-2-1
+
+Pour l'application à Mayotte de l'article L. 211-2, les mots : " en tenant compte du schéma prévisionnel des formations " et
+les mots : " de la collectivité compétente " sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-2
+
+
+###### Article L262-2-2
+
+A Mayotte, la dotation spéciale pour le logement des instituteurs mentionnée à l'article L. 212-6 est régie par les
+dispositions de l'article L. 2572-61 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2572-61 (T)
+	  - Code de l'éducation - art. L212-6 (V)
 
 
 ###### Article L262-3
@@ -12018,46 +11989,22 @@ références aux dispositions, ayant le même objet, qui y sont applicables.
 
 ###### Article L372-1
 
-Sont applicables à Mayotte les articles L. 311-1 à L. 311-4, L. 311-7, L. 312-2 à L. 312-4, L. 312-7, L. 312-12, L. 312-13-1,
-L. 312-15, L. 312-16, L. 313-1, L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-4, L. 331-6 à L. 331-8, L. 332-1 à L. 332-5,
-L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 335-3 à L. 335-6, L. 335-9 à L. 335-11, L. 335-14 à L. 335-16, L. 336-1, L.
-336-2, L. 337-1, L. 363-1 à L. 363-4, l'article L. 111-1 du code du sport.
+L'article L. 312-10 n'est pas applicable à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L311-7 (M)
-	  - Code de l'éducation - art. L312-12 (V)
-	  - Code de l'éducation - art. L312-13-1 (V)
-	  - Code de l'éducation - art. L312-15 (M)
-	  - Code de l'éducation - art. L312-16 (M)
-	  - Code de l'éducation - art. L312-7 (V)
-	  - Code de l'éducation - art. L313-1 (M)
-	  - Code de l'éducation - art. L313-2 (V)
-	  - Code de l'éducation - art. L332-6 (V)
-	  - Code de l'éducation - art. L334-1 (V)
-	  - Code de l'éducation - art. L336-1 (V)
-	  - Code de l'éducation - art. L336-2 (V)
-	  - Code de l'éducation - art. L337-1 (V)
-	  - Code de l'éducation L311-1 à L311-4, L311-7, L312-2 à L312-4, L312-7, L312-12, L312-13-1, L312-15, L312-16, L313-1, L313-2, L321-1 à L321-4, L331-1 à L331-4, L331-6 à L331-8, L332-1 à L332-5, L332-6, L333-1 à L333-3, L334-1, L335-3 à L335-6, L335-9 à
-	  - Code du sport. - art. L111-1 (V)
+	  - Code de l'éducation - art. L312-10
 
 
 ###### Article L372-2
@@ -16642,37 +16589,42 @@ et L. 423-1 à L. 423-3.
 
 ###### Article L492-1
 
-Sont applicables à Mayotte les articles L. 401-1, L. 401-2, L. 411-1, L. 411-3, L. 421-7 à L. 421-10, L. 423-1 à L. 423-3, L.
-442-6, L. 442-7 et L. 463-2 à L. 463-7 du code de l'éducation et l'article L. 211-2 du code du sport.
+Les articles L. 412-1, L. 421-1 à L. 421-5, L. 421-11 à L. 421-24, L. 422-2 et L. 422-3 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2006-596 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L401-1 (V)
-	  - Code de l'éducation - art. L401-2 (V)
-	  - Code de l'éducation - art. L411-1 (M)
-	  - Code de l'éducation - art. L411-3 (V)
-	  - Code de l'éducation - art. L442-6 (V)
-	  - Code de l'éducation - art. L442-7 (V)
-	  - Code de l'éducation L401-1, L401-2, L411-1, L411-3, L421-7 à L421-10, L423-1 à L423-3, L442-6, L442-7, L463-1 à L463-7
-	  - Code du sport. - art. L211-2 (V)
+	  - Code de l'éducation - art. L412-1
+	  - Code de l'éducation - art. L421-1
+	  - Code de l'éducation - art. L421-11
+	  - Code de l'éducation - art. L422-2
+	  - Code de l'éducation - art. L422-3
+
+
+###### Article L492-1-1
+
+Pour l'application de l'article L. 471-3 à Mayotte, les mots : "le recteur" sont remplacés par les mots : "le vice-recteur de
+Mayotte".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L471-3
 
 
 ###### Article L492-2
@@ -17846,38 +17798,6 @@ L. 551-1.
 	  - Code de l'éducation - art. L521-1 (V)
 	  - Code de l'éducation - art. L542-1 (V)
 	  - Code de l'éducation - art. L551-1 (V)
-
-
-##### Chapitre II : Dispositions applicables à Mayotte.
-
-###### Article L562-1
-
-Sont applicables à Mayotte les articles L. 511-1 à L. 511-4, L. 521-1, L. 521-2, L. 521-4, L. 542-1, L. 542-3, L. 551-1 et 
-L. 552-1 à L. 552-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L511-1 (V)
-	  - Code de l'éducation - art. L521-1 (V)
-	  - Code de l'éducation - art. L542-1 (V)
-	  - Code de l'éducation - art. L551-1 (V)
-	  - Code de l'éducation - art. L552-1 (V)
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -20815,32 +20735,14 @@ Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2
 
 ###### Article L682-1
 
-Sont applicables à Mayotte les articles L. 611-4, L. 624-1, L. 624-2, L. 625-1, L. 632-3, L. 642-2 à L. 642-12.
+Pour l'application du présent livre à Mayotte, le ministre chargé de l'enseignement supérieur exerce les compétences dévolues
+au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code de l'éducation - art. L611-4 (M)
-	  - Code de l'éducation - art. L624-1 (M)
-	  - Code de l'éducation - art. L624-2 (M)
-	  - Code de l'éducation - art. L625-1 (V)
-	  - Code de l'éducation - art. L632-3 (V)
-	  - Code de l'éducation L611-4, L624-1, L624-2, L625-1, L632-3, L642-2 à L642-12
-
-	**Anciens textes**:
-
-	  - Loi n°1934-07-10 art. 17
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 66 () JORF 24 avril 2005
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -26426,29 +26328,24 @@ Sont applicables dans les îles Wallis et Futuna les articles L. 711-1, L. 711-2
 
 ###### Article L772-1
 
-L'article L. 719-14 est applicable à Mayotte.
+Pour l'application du présent livre à Mayotte, le ministre chargé de l'enseignement supérieur exerce les compétences dévolues
+par le présent livre au recteur d'académie. 
 
 Les articles L. 721-1 et L. 721-2 sont applicables à Mayotte, sauf en ce qui concerne la formation des instituteurs de la
-collectivité départementale de Mayotte.
+collectivité départementale de Mayotte. 
 
-L'article L. 762-2 est applicable à Mayotte.
+Les articles L. 722-1 à 
+L. 722-16 ne sont pas applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V) JORF 11 août 2007
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
 
 	**Cité par**:
 
@@ -26456,10 +26353,10 @@ L'article L. 762-2 est applicable à Mayotte.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L719-14 (V)
-	  - Code de l'éducation - art. L721-1 (M)
-	  - Code de l'éducation - art. L721-2 (M)
-	  - Code de l'éducation - art. L762-2 (V)
+	  - Code de l'éducation - art. L721-1 (V)
+	  - Code de l'éducation - art. L721-2 (V)
+	  - Code de l'éducation - art. L722-1
+	  - Code de l'éducation - art. L722-16 (V)
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -27694,37 +27591,6 @@ l'article L. 831-1 et l'article L. 841-1.
 	  - Code de l'éducation - art. L821-1 (V)
 	  - Code de l'éducation - art. L822-4 (V)
 	  - Code de l'éducation - art. L831-1 (V)
-	  - Code de l'éducation - art. L841-1 (V)
-
-
-##### Chapitre II : Dispositions applicables à Mayotte.
-
-###### Article L852-1
-
-Sont applicables à Mayotte les articles L. 811-2 à L. 811-4, L. 822-4, 
-L. 841-1 à L. 841-4.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 51 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L811-2 (V)
-	  - Code de l'éducation - art. L822-4 (V)
 	  - Code de l'éducation - art. L841-1 (V)
 
 
@@ -30940,41 +30806,6 @@ références aux dispositions, ayant le même objet, qui y sont applicables.
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.
-
-###### Article L972-1
-
-Sont applicables à Mayotte les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L. 912-2, L.
-913-1, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 68 () JORF 24 avril 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L911-1 (V)
-	  - Code de l'éducation - art. L912-1 (V)
-	  - Code de l'éducation - art. L913-1 (V)
-	  - Code de l'éducation - art. L931-1 (V)
-	  - Code de l'éducation - art. L932-1 (V)
-	  - Code de l'éducation - art. L941-1 (V)
-
 
 ###### Article L972-2
 
@@ -34803,9 +34634,9 @@ incombent entièrement à l'Etat est fixée ainsi qu'il suit :
 
 a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-b) Centre national de promotion rurale, enseignement et formation professionnelle à distance, Marmilhat (Puy-de-Dôme) ;
+b) (Abrogé) ;
 
-c) (Abrogé)
+c) (Abrogé).
 
 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
@@ -34833,7 +34664,6 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
 
 	**Anciens textes**:
 
-	  - Décret n°85-349 du 20 mars 1985 - art. 1 (M)
 	  - Décret n°85-349 du 20 mars 1985 - art. 1 (Ab)
 
 	**Cité par**:
@@ -34843,17 +34673,13 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
 	  - Code de l'éducation - art. D422-1 (V)
 	  - Code de l'éducation - art. R422-60 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2006-1593 du 13 décembre 2006 - art. 30 () JORF 14 décembre 2006 en vigueur le 1er janvier 2007
+	  - Décret n°2007-1855 du 26 décembre 2007 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L211-4 (V)
+	  - Code de l'éducation - art. L211-4
 
 
 ###### Article D211-13
