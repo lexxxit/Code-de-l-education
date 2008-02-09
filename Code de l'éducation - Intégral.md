@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-02-10
 
 # Partie législative
 
@@ -29373,23 +29373,23 @@ d'objectivité.
 
 ###### Article L952-3
 
-Les fonctions des enseignants-chercheurs s'exercent dans les domaines suivants :
+Les fonctions des enseignants-chercheurs s'exercent dans les domaines suivants : 
 
-1° L'enseignement incluant formation initiale et continue, tutorat, orientation, conseil et contrôle des connaissances ;
+1° L'enseignement incluant formation initiale et continue, tutorat, orientation, conseil et contrôle des connaissances ; 
 
-2° La recherche ;
+2° La recherche ; 
 
-3° La diffusion des connaissances et la liaison avec l'environnement économique, social et culturel ;
+3° La diffusion des connaissances et la liaison avec l'environnement économique, social et culturel ; 
 
-4° La coopération internationale ;
+4° La coopération internationale ; 
 
-5° L'administration et la gestion de l'établissement.
+5° L'administration et la gestion de l'établissement. 
 
-En outre, les fonctions des personnels enseignants et hospitaliers comportent une activité de soins, conformément aux
-articles L. 952-21 à L. 952-23.
+En outre, les fonctions des personnels enseignants et hospitaliers et des personnels enseignants de médecine générale
+comportent une activité de soins, conformément aux articles L. 952-21 à L. 952-23-1.
 
 Les professeurs ont la responsabilité principale de la préparation des programmes, de l'orientation des étudiants, de la
-coordination des équipes pédagogiques.
+coordination des équipes pédagogiques. 
 
 Un décret en Conseil d'Etat précise les droits et obligations des enseignants-chercheurs, notamment les modalités de leur
 présence dans l'établissement.
@@ -29398,7 +29398,6 @@ présence dans l'établissement.
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 55
 	  - Loi n°84-52 du 26 janvier 1984 - art. 55 (Ab)
 
 	**Cité par**:
@@ -29412,14 +29411,13 @@ présence dans l'établissement.
 	  - Code de l'éducation - art. L952-14-1 (V)
 	  - Code rural et de la pêche maritime - art. L812-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2008-112 du 8 février 2008 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation L952-21 à L952-23
+	  - Code de l'éducation - art. L952-21
 
 
 ###### Article L952-4
@@ -30178,6 +30176,42 @@ universitaires.
 
 	  - Code de l'éducation - art. L952-8 (V)
 	  - Code de l'éducation - art. L952-9 (V)
+
+
+##### Section 3 bis : Dispositions propres aux personnels enseignants de médecine générale.
+
+###### Article L952-23-1
+
+Les membres du personnel enseignant titulaire et non titulaire de médecine générale exercent conjointement les fonctions
+d'enseignement, de recherche et de soins en médecine générale. 
+
+Ils consacrent à leurs fonctions de soins en médecine générale, à l'enseignement et à la recherche la totalité de leur
+activité professionnelle, sous réserve des dérogations qui peuvent être prévues par leur statut. Ils exercent leur activité
+de soins en médecine générale et ambulatoire. 
+
+Pour leur activité d'enseignement et de recherche, ils sont soumis à la juridiction disciplinaire mentionnée à l'article L.
+952-22.
+
+Un décret en Conseil d'Etat fixe les modalités d'application de la présente section, et notamment le statut des personnels
+enseignants de médecine générale, les conditions de leur recrutement et d'exercice de leurs fonctions ainsi que les mesures
+transitoires et les conditions dans lesquelles les enseignants associés de médecine générale peuvent être recrutés ou
+demander à être intégrés dans les nouveaux corps.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2008-112 du 8 février 2008 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 30 décembre 2008 (V)
+	  - Arrêté du 29 avril 2009 (V)
+	  - Code de la sécurité sociale. - art. L183-1-3 (VT)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L952-22
 
 
 ##### Section 4 : Dispositions propres aux personnels de recherche.
