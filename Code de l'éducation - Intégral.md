@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-02-10
+Version Consolidée au 2008-02-11
 
 # Partie législative
 
@@ -26610,6 +26610,165 @@ la complémentarité entre ses laboratoires et l'ensemble des organismes de rech
 	**Cite**:
 
 	  - Code de l'éducation - art. L774-2 (V)
+
+
+#### Titre VIII : Dispositions applicables aux universités implantées dans une ou plusieurs régions et départements d'outre-mer.
+
+##### Chapitre unique : Dispositions applicables à l'université des Antilles et de la Guyane.
+
+###### Article L781-1
+
+I.-Par dérogation aux dispositions du I de l'article L. 712-3, le conseil d'administration de l'université des Antilles et de
+la Guyane comprend quarante-deux membres ainsi répartis : 
+
+1° Dix-huit représentants des enseignants-chercheurs et des personnels assimilés, des enseignants et des chercheurs, en
+exercice dans l'établissement, dont la moitié de professeurs des universités et personnels assimilés ; 
+
+2° Quinze personnalités extérieures à l'établissement ; 
+
+3° Six représentants des étudiants et des personnes bénéficiant de la formation continue inscrits dans l'établissement ; 
+
+4° Trois représentants des personnels ingénieurs, administratifs, techniques et des bibliothèques, en exercice dans
+l'établissement. 
+
+Le nombre de membres du conseil est augmenté d'une unité lorsque le président est choisi hors du conseil d'administration. 
+
+II.-Par dérogation aux dispositions des 1° à 3° du II de l'article L. 712-3, les personnalités extérieures comprennent : 
+
+1° Au moins un chef d'entreprise ou cadre dirigeant d'entreprise au titre de chacune des régions d'outre-mer dans lesquelles
+est implantée l'université ; 
+
+2° Au moins un autre acteur du monde économique et social au titre de chacune des régions d'outre-mer dans lesquelles est
+implantée l'université ; 
+
+3° Des représentants des collectivités territoriales ou de leurs groupements répartis à égalité entre chaque région d'outre-
+mer dans laquelle est implantée l'université, dont un représentant de chacun des conseils régionaux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L781-4 (M)
+
+
+###### Article L781-2
+
+Les sièges de chacun des collèges du conseil d'administration, du conseil scientifique et du conseil des études et de la vie
+universitaire sont répartis à égalité entre les régions d'outre-mer dans lesquelles est implantée l'université. 
+
+L'élection des membres est organisée dans le cadre de chaque région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2015-737 du 25 juin 2015 - art. 2 (V)
+
+
+###### Article L781-3
+
+Un vice-président est désigné au titre de chaque région dans laquelle est implantée l'université parmi les représentants des
+enseignants-chercheurs et des personnels assimilés siégeant au conseil d'administration de l'université au titre de cette
+région. 
+
+Il est élu par le conseil d'administration de l'université, sur proposition du président de l'université et après avis des
+membres du conseil d'administration siégeant au titre de chaque région. 
+
+Sous réserve des dispositions des articles L. 713-4 et L. 713-9, le président peut lui déléguer sa signature, notamment pour
+ordonnancer les recettes et les dépenses des composantes situées dans la région au titre de laquelle il a été désigné. 
+
+Les membres du conseil d'administration élus et nommés au titre d'une région constituent un conseil consultatif qui formule
+des propositions et est saisi pour avis par le président sur les questions propres aux sites de l'université implantés dans
+cette région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cité par**:
+
+	  - Loi n°2015-737 du 25 juin 2015 - art. 2 (V)
+	  - Code de l'éducation - art. L781-2 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L713-4
+	  - Code de l'éducation - art. L713-9
+
+
+###### Article L781-4
+
+Le conseil des études et de la vie universitaire élit en son sein, outre le vice-président mentionné au dernier alinéa de
+l'article L. 712-6, un vice-président chargé des questions de vie étudiante au titre de chaque région dans laquelle est
+implantée l'université.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-6
+
+
+###### Article L781-5
+
+Sans préjudice des compétences du comité technique paritaire prévu par l'article L. 951-1-1, un comité technique paritaire
+spécial est institué, par le président de l'université, dans chacune des régions d'outre-mer où est implantée l'université ;
+il est chargé de connaître des questions d'organisation et de fonctionnement des sites de l'université implantés dans cette
+région.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L951-1-1
+
+
+###### Article L781-6
+
+Ne sont pas applicables à l'université des Antilles et de la Guyane : 
+
+1° Le premier alinéa de l'article L. 712-6-1 ; 
+
+2° A l'article L. 719-1 : 
+
+a) S'agissant des enseignants-chercheurs et personnels assimilés, enseignants et chercheurs en exercice dans l'université, la
+deuxième phrase du premier alinéa et les trois dernières phrases du quatrième alinéa ; 
+
+b) S'agissant de l'élection des représentants des étudiants et des personnes bénéficiant de la formation continue, la
+première phrase du cinquième alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-6-1
+	  - Code de l'éducation - art. L719-1
 
 
 ### Livre VIII : La vie universitaire
