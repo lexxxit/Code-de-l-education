@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-02-15
+Version Consolidée au 2008-02-16
 
 # Partie législative
 
@@ -33842,7 +33842,8 @@ départementaux de l'éducation nationale ou son représentant. Celui-ci peut pr
 
 Lorsque l'inspecteur d'académie constate une situation de nature à justifier la mise en place d'un contrat de responsabilité
 parentale, il saisit le président du conseil général dans les conditions prévues à l'article R. 222-4-2 du code de l'action
-sociale et des familles. Il en informe préalablement les parents ou le représentant légal du mineur.
+sociale et des familles et en informe le maire de la commune de résidence de l'enfant. Il en informe préalablement les
+parents ou le représentant légal du mineur.
 
 S'il constate la poursuite de l'absentéisme de l'enfant, en dépit de l'avertissement prévu au premier alinéa et des mesures
 éventuellement prises en vertu du deuxième alinéa, et s'il n'a pas procédé à la saisine du président du conseil général
@@ -33856,18 +33857,14 @@ pénal. Il informe de cette saisine les personnes responsables de l'enfant.
 
 	  - Décret n°66-104 du 18 février 1966 - art. 5-2 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+	  - Décret n°2008-139 du 14 février 2008 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-8 (M)
-	  - Code de l'action sociale et des familles - art. R222-4-2 (V)
+	  - Code de l'éducation - art. L131-8
+	  - Code de l'action sociale et des familles - art. R222-4-2
 
 	**Cité par**:
 
@@ -33945,7 +33942,167 @@ Les organismes ou services débiteurs des prestations familiales peuvent, lorsqu
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
 
 
+##### Sous-section 3 : Traitement automatisé relatif au recensement des enfants soumis à l'obligation scolaire et à l'amélioration du suivi de l'assiduité.
+
+###### Article R131-10-1
+
+En application de l'article L. 131-6, le maire peut mettre en œuvre un traitement automatisé de données à caractère personnel
+ayant pour finalités de procéder au recensement des enfants soumis à l'obligation scolaire résidant dans la commune et de
+recueillir les informations concernant l'inscription et l'assiduité scolaires de ces enfants afin de lui permettre de prendre
+les mesures à caractère social ou éducatif dans le cadre des compétences qui lui sont conférées, notamment par les articles
+L. 141-2 et L. 222-4-1 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L131-6
+	  - Code de l'action sociale et des familles - art. L141-2
+	  - Code de l'action sociale et des familles - art. L222-4-1
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R131-10-6 (V)
+
+
+###### Article R131-10-2
+
+Les catégories de données enregistrées sont les suivantes : 
+
+1° Nom, prénoms, sexe, date et lieu de naissance et adresse de l'enfant soumis à l'obligation scolaire ; 
+
+2° Nom, prénoms, adresse et profession de la ou les personnes responsables de l'enfant, au sens de l'article L. 131-4 ; 
+
+3° Nom, prénom et adresse de l'allocataire des prestations familiales ; 
+
+4° Nom et adresse de l'établissement d'enseignement public ou privé fréquenté, date d'inscription et date de radiation de
+l'élève ; le cas échéant, date de la déclaration annuelle d'instruction dans la famille ; 
+
+5° Mention et date de la saisine de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
+par le directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de l'élève en application de l'article L.
+131-8 ; 
+
+6° Mention et date de notification de l'avertissement adressé par l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, aux personnes responsables de l'enfant en application de l'article L. 131-8 ; 
+
+7° Mention, date et éventuellement durée de la sanction d'exclusion temporaire ou définitive de l'élève prononcée par le chef
+d'établissement ou le conseil de discipline de l'établissement d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L131-4
+	  - Code de l'éducation - art. L131-8
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R131-10-4 (V)
+
+
+###### Article R131-10-3
+
+Les organismes chargés du versement des prestations familiales transmettent au maire, à sa demande et par voie sécurisée, les
+données suivantes : 
+
+1° Données relatives à l'identité de l'enfant ouvrant droit au versement de prestations familiales : nom, prénom, date de
+naissance, sexe ; 
+
+2° Données relatives à l'identité de l'allocataire : nom, prénom, adresse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+
+###### Article R131-10-4
+
+Les données figurant aux 1°, 2°, 3° et 4° de l'article R. 131-10-2 ne sont pas conservées au-delà de l'année scolaire au
+cours de laquelle l'élève atteint l'âge de seize ans. 
+
+Les données figurant aux 5°, 6° et 7° du même article ne sont pas conservées au-delà de la fin de l'année scolaire au cours
+de laquelle elles ont fait l'objet du traitement automatisé. 
+
+Toutefois les données sont immédiatement effacées lorsque le maire a connaissance de ce que l'enfant ne réside plus dans la
+commune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R131-10-2
+
+
+###### Article R131-10-5
+
+I.-Ont accès aux données enregistrées en fonction de leurs attributions respectives et du besoin d'en connaître :
+
+- les élus ayant reçu délégation du maire pour les affaires scolaires ou sociales ;
+
+- les agents des services municipaux chargés des affaires scolaires ou sociales, individuellement désignés par le maire. 
+
+II.-Sont habilités à recevoir communication des données enregistrées, en fonction de leurs attributions respectives et du
+besoin d'en connaître :
+
+- les agents du centre communal d'action sociale, individuellement désignés par son directeur et les agents de la caisse des
+écoles, individuellement désignés par le président du comité de caisse ;
+
+- l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, et son ou ses représentants,
+individuellement désignés ;
+
+- le président du conseil général, son ou ses représentants individuellement désignés et les agents des services
+départementaux chargés de l'aide et de l'action sociales, individuellement désignés par le président du conseil général ;
+
+- le coordonnateur prévu par l'article L. 121-6-2 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L121-6-2
+
+
+###### Article R131-10-6
+
+Le droit d'accès et le droit de rectification s'exercent auprès du maire dans les conditions définies par les articles 39 et
+40 de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au traitement mentionné à l'article R. 131-10-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Code de l'éducation - art. R131-10-1
+
+	**Créé par**:
+
+	  - Décret n°2008-139 du 14 février 2008 - art. 1
+
+
 ##### Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.
+
+##### Sous-section 4 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.
 
 ###### Article D131-11
 
