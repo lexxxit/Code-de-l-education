@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-02-16
+Version Consolidée au 2008-03-19
 
 # Partie législative
 
@@ -34100,8 +34100,6 @@ Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas a
 	  - Décret n°2008-139 du 14 février 2008 - art. 1
 
 
-##### Sous-section 3 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.
-
 ##### Sous-section 4 : Contrôle du contenu des connaissances requis des enfants instruits dans la famille ou dans les établissements d'enseignement privés hors contrat.
 
 ###### Article D131-11
@@ -37278,6 +37276,8 @@ adultes, à ces opérations d'équipement en Corse sont intégrés dans la dotat
 
 #### Chapitre VI : Les compétences communes aux collectivités territoriales.
 
+##### Section 1 : Dispositions générales
+
 ###### Article D216-1
 
 La contribution que le département ou la région verse chaque année à la collectivité territoriale propriétaire d'un collège,
@@ -37312,9 +37312,15 @@ l'importance relative de chacune des trois parts mentionnées ci-dessus.
 
 	  - Décret n°85-887 du 12 août 1985 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - DEPLACE: Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-5
+	  - Code de l'éducation - art. L421-11
+	  - Code rural L811-8
 
 
 ###### Article D216-2
@@ -37323,14 +37329,14 @@ Le coût moyen par élève servant au calcul de la contribution que le départem
 siège ou au groupement de communes compétent en application du troisième alinéa de l'article L. 216-6 est égal au rapport
 entre le montant total des dépenses de fonctionnement de l'année précédente de l'ensemble des établissements relevant du
 département ou de la région et le nombre total des élèves inscrits dans ces établissements au 1er octobre de la pénultième
-année.
+année. 
 
 Les dépenses mentionnées à l'alinéa précédent sont les dépenses de fonctionnement matériel afférentes à l'externat, à
 l'exception de celles des dépenses pédagogiques restant à la charge de l'Etat en application des articles D. 211-14 à D.
-211-16.
+211-16. 
 
 Le coût moyen par élève est actualisé chaque année du taux annuel d'évolution du montant total des dépenses supportées par le
-département ou la région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence.
+département ou la région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence. 
 
 Le nombre d'élèves pris en compte pour le calcul de la contribution est le nombre des élèves inscrits dans l'établissement au
 1er octobre de l'année précédente.
@@ -37341,9 +37347,371 @@ Le nombre d'élèves pris en compte pour le calcul de la contribution est le nom
 
 	  - Décret n°85-887 du 12 août 1985 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - DEPLACE: Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D211-14 (V)
+	  - Code de l'éducation - art. L216-6 (V)
+
+
+###### Article R216-3
+
+Les règles relatives au classement des établissements d'enseignement public de la musique, de la danse et de l'art dramatique
+sont fixées par la section 1 du chapitre Ier du titre VI du livre IV.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+##### Section 2 : Concessions de logement accordées aux personnels de l'Etat dans les établissements publics locaux d'enseignement
+
+###### Article R216-4
+
+Dans les établissements publics locaux d'enseignement relevant de leur compétence en application des articles L. 211-8, L.
+213-2, L. 214-6, L. 216-5 et L. 216-6 du présent code et dans les établissements publics locaux d'enseignement et de
+formation professionnelle agricoles relevant de la section 3 du chapitre Ier du titre Ier du livre VIII du code rural, la
+région, le département ou, le cas échéant, la commune ou le groupement de communes attribue les concessions de logement aux
+personnels de l'Etat exerçant certaines fonctions, dans les conditions fixées par la présente section. 
+
+Les concessions de logement sont attribuées par nécessité absolue ou utilité de service, dans les conditions fixées aux
+articles R. 92 à R. 103 du code du domaine de l'Etat et par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R92
+	  - Code de l'éducation - art. L211-8
+	  - Code de l'éducation - art. L213-2
+	  - Code de l'éducation - art. L214-6
+	  - Code de l'éducation - art. L216-5
+	  - Code de l'éducation - art. L216-6
+
+	**Cité par**:
+
+	  - Code général de la propriété des personnes publ... - art. R2124-78 (V)
+
+
+###### Article R216-5
+
+Dans les conditions fixées au premier alinéa de l'article R. 94 du code du domaine de l'Etat, sont logés par nécessité
+absolue de service les personnels appartenant aux catégories suivantes : 
+
+1° Les personnels de direction, d'administration, de gestion et d'éducation, dans les limites fixées à l'article R. 216-6,
+selon l'importance de l'établissement ; 
+
+2° Les personnels de santé, dans les conditions définies à l'article R. 216-7 ; 
+
+3° Dans les établissements publics locaux d'enseignement et de formation professionnelle agricoles mentionnés à l'article L.
+815-1 du code rural, les personnels responsables d'une exploitation agricole et ceux chargés des élevages et des cultures,
+dans les conditions définies à l'article R. 216-8.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2012 - art. 2 (VT)
+	  - Arrêté du 2 novembre 2015 - art. 2 (V)
+	  - Code de l'éducation - art. R216-12 (V)
+	  - Code de l'éducation - art. R216-6 (V)
+	  - Code de l'éducation - art. R216-7 (V)
+	  - Code de l'éducation - art. R216-8 (V)
+	  - Code de l'éducation - art. R216-9 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R94 (V)
+	  - Code rural - art. L815-1 (V)
+
+
+###### Article R216-6
+
+Le nombre des personnels mentionnés au 1° de l'article R. 216-5 et logés par nécessité absolue de service est fixé selon un
+classement pondéré des établissements :
+
+- moins de 400 points : 2 ;
+
+- de 400 à 800 points : 3 ;
+
+- de 801 à 1 200 points : 4 ;
+
+- de 1 201 à 1 700 points : 5 ;
+
+- de 1 701 à 2 200 points : 6 ;
+
+- de 2 201 à 2 700 points : 7 ; 
+
+Au-delà, à raison d'un agent supplémentaire logé par nécessité absolue de service par tranche de 500 points. 
+
+Dans ce calcul, chaque élève est compté pour un point. Toutefois, sont comptés pour deux points les élèves des classes
+préparatoires aux grandes écoles, les élèves des sections industrielles des lycées, les élèves de l'enseignement agricole et
+les élèves de l'enseignement pour les enfants et adolescents handicapés. En outre, chaque demi-pensionnaire est compté pour
+un point supplémentaire et chaque interne pour trois points supplémentaires. Lorsque les demi-pensionnaires et les internes
+sont hébergés dans un autre établissement, ces points supplémentaires sont attribués à l'établissement qui assure
+l'hébergement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R216-5 (V)
+
+
+###### Article R216-7
+
+Le nombre des personnels mentionnés au 2° de l'article R. 216-5 et logés par nécessité absolue de service est fixé au minimum
+à un dans un établissement d'externat simple, deux s'il existe une demi-pension et trois s'il existe un internat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R216-5 (V)
+
+
+###### Article R216-8
+
+Le nombre des personnels mentionnés au 3° de l'article R. 216-5 et logés par nécessité absolue de service ne peut excéder
+quatre par établissement public local d'enseignement et de formation professionnelle agricoles auquel la ou les exploitations
+sont rattachées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R216-5 (V)
+
+
+###### Article R216-9
+
+Dans les conditions fixées au deuxième alinéa de l'article R. 94 du code du domaine de l'Etat, peuvent être logés par utilité
+de service, dans la limite des logements disponibles après application des articles R. 216-5 à R. 216-8, les personnels
+occupant les emplois dont la liste est proposée par le conseil d'administration de l'établissement sur rapport du chef
+d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 19 décembre 2012 - art. 3 (VT)
+	  - Arrêté du 2 novembre 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R94
+	  - Code de l'éducation - art. R216-5
+
+
+###### Article R216-10
+
+Dans le ressort d'une même commune ou d'un groupement de communes, l'autorité académique ou l'autorité en tenant lieu peut
+procéder, avec l'accord de la collectivité ou des collectivités de rattachement, à une compensation entre établissements
+compte tenu des logements disponibles. 
+
+La compensation ne peut jouer que sur des logements concédés par utilité de service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+###### Article R216-11
+
+Seules les concessions de logement accordées par nécessité absolue de service comportent la gratuité du logement nu. 
+
+Les charges locatives sont remboursées à l'établissement, sous réserve des prestations accessoires accordées gratuitement aux
+personnels concessionnaires dans les conditions fixées à l'article R. 216-12. 
+
+Les concessions par utilité de service ne comportent aucune prestation gratuite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R216-12 (V)
+
+
+###### Article R216-12
+
+La collectivité de rattachement fixe chaque année le taux d'actualisation de la valeur des prestations accessoires
+mentionnées à l'article R. 216-11 pour chacune des catégories d'agents mentionnées à l'article R. 216-5, selon qu'ils
+exercent leurs fonctions en métropole, en distinguant les logements dotés d'un chauffage collectif de ceux qui n'y sont pas
+raccordés, ou dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. L'actualisation de ce
+montant ne peut être inférieure à celle de la dotation générale de décentralisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R216-11 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R216-5
+
+
+###### Article R216-13
+
+En cas de concession de logement par utilité de service, les redevances mises à la charge des bénéficiaires sont égales à la
+valeur locative des locaux, déterminée conformément aux règles applicables aux concessions de logement accordées par l'Etat.
+Cette valeur locative est diminuée d'un abattement décidé par la collectivité de rattachement selon les critères fixés par
+l'article R. 100 du code du domaine de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R100
+
+
+###### Article R216-14
+
+La durée des concessions de logement est limitée à celle de l'exercice des fonctions au titre desquelles les bénéficiaires
+les ont obtenues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+###### Article R216-15
+
+Lorsque tous les besoins résultant de la nécessité ou de l'utilité de service ont été satisfaits, le conseil
+d'administration, sur le rapport du chef d'établissement, émet des propositions sur l'attribution des logements demeurés
+vacants. La collectivité de rattachement peut accorder à des personnels de l'Etat, en raison de leurs fonctions, des
+conventions d'occupation précaire de ces logements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+###### Article R216-16
+
+Sur le rapport du chef d'établissement, le conseil d'administration propose les emplois dont les titulaires bénéficient d'une
+concession de logement par nécessité absolue de service ou par utilité de service, la situation et la consistance des locaux
+concédés ainsi que les conditions financières de chaque concession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+###### Article R216-17
+
+Le chef d'établissement, avant de transmettre les propositions du conseil d'administration à la collectivité de rattachement
+en vue d'attribuer les logements soit par voie de concession, soit par voie de convention d'occupation précaire, recueille
+l'avis du service des domaines sur leur nature et leurs conditions financières. Il soumet ensuite ces propositions, assorties
+de l'avis du service des domaines, à la collectivité de rattachement et en informe l'autorité académique ou l'autorité en
+tenant lieu. 
+
+La collectivité de rattachement délibère sur ces propositions. Le président du conseil régional, le président du conseil
+général, le maire ou le président du groupement de communes compétent accorde, par arrêté, les concessions de logement telles
+qu'elles ont été fixées par la délibération de la collectivité de rattachement. Il signe également les conventions
+d'occupation précaire. 
+
+Toute modification dans la nature ou la consistance d'une concession fait l'objet d'un arrêté pris dans les mêmes conditions.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+
+###### Article R216-18
+
+La concession ou la convention d'occupation prend fin en cas d'aliénation, de nouvelle affectation ou de désaffectation du
+logement. L'occupant du logement en est informé au moins trois mois à l'avance. 
+
+La concession ou la convention prend également fin si le bénéficiaire ne s'acquitte pas de ses obligations financières et sur
+proposition de l'autorité académique ou de l'autorité en tenant lieu, lorsque le bénéficiaire ne jouit pas des locaux en bon
+père de famille. 
+
+Lorsque la concession ou la convention d'occupation vient à expiration pour quelque cause que ce soit, le bénéficiaire doit
+quitter les lieux dans le délai qui lui est imparti conjointement par l'autorité académique ou l'autorité en tenant lieu et
+la collectivité de rattachement, sous peine d'être astreint à payer à l'établissement public une redevance fixée et majorée
+selon les critères fixés par l'article R. 102 du code du domaine de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R102
+
+
+###### Article R216-19
+
+Tout établissement public local d'enseignement créé depuis le 1er janvier 1986 doit comporter un nombre de logements
+correspondant au moins à celui des concessions déterminées en application des dispositions de la présente section. Il ne peut
+être dérogé à cette obligation qu'avec l'accord de l'autorité académique ou de l'autorité en tenant lieu. 
+
+Pour les établissements existant à la date précitée, les dispositions de la présente section ne s'appliquent que dans la
+limite du nombre des logements existant à cette date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 3
 
 
 ### Titre II : L'organisation des services de l'administration de l'éducation.
@@ -54027,58 +54395,57 @@ désigné dans les mêmes conditions.
 ###### Article D314-76
 
 Le conseil d'administration règle par ses délibérations les affaires du Centre national de documentation pédagogique. Il
-délibère notamment sur :
+délibère notamment sur : 
 
-1° Les orientations de l'établissement ;
+1° Les orientations de l'établissement ; 
 
-2° L'organisation de l'établissement et son règlement intérieur ;
+2° L'organisation de l'établissement et son règlement intérieur ; 
 
-3° Le budget et ses décisions modificatives ;
+3° Le budget et ses décisions modificatives ; 
 
-4° La répartition des moyens entre les centres régionaux de documentation pédagogique ;
+4° La répartition des moyens entre les centres régionaux de documentation pédagogique ; 
 
-5° Le compte financier et l'affectation des résultats de l'exercice ;
+5° Le compte financier et l'affectation des résultats de l'exercice ; 
 
-6° L'acceptation des dons et legs ;
+6° L'acceptation des dons et legs ; 
 
-7° Les acquisitions, aliénations et échanges d'immeubles ;
+7° Les acquisitions, aliénations et échanges d'immeubles ; 
 
 8° La création de filiales, les prises, extensions et cessions de participations, la participation à des groupements
 d'intérêt public, à des groupements d'intérêt économique ou à des groupements européens d'intérêt économique, ainsi que les
-décisions prises par les centres régionaux de documentation pédagogique dans les mêmes matières ;
+décisions prises par les centres régionaux de documentation pédagogique dans les mêmes matières ; 
 
-9° La création de centres départementaux et de centres locaux de documentation pédagogique ;
+9° La création de centres départementaux et de centres locaux de documentation pédagogique ; 
 
-10° La définition des zones interacadémiques mentionnées à l'article D. 314-127 ;
+10° La définition des zones interacadémiques mentionnées à l'article D. 314-127 ; 
 
-11° Les conventions mentionnées au 4° de l'article D. 314-72 ;
+11° Les conventions mentionnées au 4° de l'article D. 314-72 ; 
 
-12° Les conditions générales de passation des marchés ;
+12° Les conditions générales de passation des marchés ; 
 
-13° Les actions en justice et les transactions ;
+13° Les actions en justice et les transactions ; 
 
-14° Les emprunts ;
+14° Les emprunts ; 
 
-15° Le rapport annuel d'activité.
+15° Le rapport annuel d'activité. 
 
 Par dérogation aux dispositions du 2°, les paragraphes 4 et 5 de la présente sous-section définissent l'organisation et le
 fonctionnement du Centre de ressources et d'information sur les multimédias pour l'enseignement supérieur et du Centre de
-liaison de l'enseignement et des moyens d'information, qui constituent des services de l'établissement.
+liaison de l'enseignement et des médias d'information, qui constituent des services de l'établissement. 
 
-Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les pouvoirs prévus aux 6°,
-7° et 13°. Celui-ci lui rend compte, lors de sa plus prochaine séance, des décisions qu'il a prises en vertu de cette
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les pouvoirs prévus aux
+6°,7° et 13°. Celui-ci lui rend compte, lors de sa plus prochaine séance, des décisions qu'il a prises en vertu de cette
 délégation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-548 2002-04-19 art. 7
 	  - Décret n°2002-548 du 19 avril 2002 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 	**Cité par**:
 
@@ -54087,6 +54454,11 @@ délégation.
 	  - Code de l'éducation - art. D314-82 (V)
 	  - Code de l'éducation - art. D314-91 (V)
 	  - Code de l'éducation - art. D314-92 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D314-127
+	  - Code de l'éducation - art. D314-72
 
 
 ###### Article D314-77
@@ -54703,133 +55075,77 @@ d'information sur les multimédias pour l'enseignement supérieur.
 
 ##### Paragraphe 5 : Le Centre de liaison de l'enseignement et des moyens d'information.
 
+##### Paragraphe 5 : Le            Centre de liaison de l'enseignement et des médias d'information .
+
 ###### Article D314-99
 
-Le Centre de liaison de l'enseignement et des moyens d'information a pour mission de promouvoir, notamment par des actions de
+Le Centre de liaison de l'enseignement et des médias d'information est chargé de l'éducation aux médias dans l'ensemble du
+système éducatif. Il a pour mission de promouvoir, tant au plan national que dans les académies, notamment par des actions de
 formation, l'utilisation pluraliste des moyens d'information dans l'enseignement afin de favoriser une meilleure
-compréhension par les élèves du monde qui les entoure tout en développant leur sens critique.
+compréhension par les élèves du monde qui les entoure tout en développant leur sens critique. 
 
-Ce centre est associé au Centre national de documentation pédagogique, dont il constitue une direction à gestion spécifique
-assurée dans les conditions fixées aux articles D. 314-100 à D. 314-106.
+Ce centre constitue un service du Centre national de documentation pédagogique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 1
 	  - Décret n°93-718 du 25 mars 1993 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation D314-100 à D314-106
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-100
 
-Un conseil d'orientation et de perfectionnement auprès du Centre de liaison de l'enseignement et des moyens d'information
-donne des avis et formule des recommandations sur les actions à entreprendre et apprécie les bilans des actions menées ou en
-cours qui lui sont périodiquement soumis.
+Un conseil d'orientation et de perfectionnement auprès du            Centre de liaison de l'enseignement et des médias
+d'information  donne des avis et formule des recommandations sur les actions à entreprendre et apprécie les bilans des
+actions menées ou en cours qui lui sont périodiquement soumis.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 2
 	  - Décret n°93-718 du 25 mars 1993 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-101
 
-Le ministre chargé de l'éducation nomme le président du conseil d'orientation et de perfectionnement du Centre de liaison de
-l'enseignement et des moyens d'information. Outre le président, le conseil comprend un nombre égal de représentants des
-pouvoirs publics, de représentants du système éducatif et de représentants des professionnels de l'information et de la
-communication, les membres relevant de ces deux catégories étant désignés dans les conditions précisées aux deux derniers
-alinéas du présent article.
+Le ministre chargé de l'éducation nomme les membres du conseil d'orientation et de perfectionnement et son président. 
 
-Sont désignés en qualité de représentant des pouvoirs publics :
+Le directeur général du Centre national de documentation pédagogique est membre de droit du conseil d'orientation et de
+perfectionnement. 
 
-1° Au titre des services du Premier ministre :
+Ce conseil comprend un nombre égal de représentants des pouvoirs publics, de représentants du système éducatif et de
+représentants des professionnels de l'information et de la communication : 
 
-Le chef du service d'information du Gouvernement ou son représentant ;
+1° Vingt et un représentants des pouvoirs publics, dont le directeur général du Centre national de documentation
+pédagogique ; 
 
-2° Au titre du ministère de l'éducation nationale :
+2° Vingt et un représentants du système éducatif choisis au sein des organisations syndicales représentatives des personnels
+des corps enseignants, des associations à finalité pédagogique ou périscolaire et des associations de parents d'élèves les
+plus représentatives ; 
 
-a) Le directeur chargé de l'enseignement supérieur ou son représentant ;
+3° Vingt et un représentants des professionnels de l'information et de la communication choisis en raison de leur expérience
+et de leur compétence en matière de relations entre la presse et l'enseignement. 
 
-b) Le directeur chargé des écoles ou son représentant ;
-
-c) Le directeur chargé des lycées et collèges ou son représentant ;
-
-d) Le directeur chargé des affaires internationales et de la coopération ou son représentant ;
-
-e) Le directeur chargé des personnels d'inspection et de direction ou son représentant ;
-
-f) Le directeur chargé de l'information et de la communication ou son représentant ;
-
-g) Le directeur général du Centre national de documentation pédagogique ou son représentant ;
-
-h) Le directeur de l'Institut national de recherche pédagogique ou son représentant ;
-
-i) Un inspecteur général ;
-
-j) Un recteur d'académie ;
-
-k) Un directeur d'institut universitaire de formation des maîtres ;
-
-3° Au titre du ministre chargé de l'enseignement technique :
-
-Un représentant du ministre ;
-
-4° Au titre du ministère des sports :
-
-Un représentant du ministre ;
-
-5° Au titre du ministère chargé de la communication :
-
-a) Un représentant du ministre ;
-
-b) Un représentant de Radio France ;
-
-c) Deux représentants des sociétés nationales de télévision ou de programme ;
-
-6° Au titre du ministère de la culture :
-
-Un représentant du ministre ;
-
-7° Au titre du ministère de l'agriculture :
-
-Le directeur général de l'enseignement et de la recherche ou son représentant ;
-
-8° Au titre du ministère des affaires étrangères :
-
-Le directeur général des relations culturelles ou son représentant.
-
-Sont désignés en qualité de représentant des acteurs et usagers du système éducatif dix représentants des organisations
-syndicales représentatives des membres des corps enseignants, sept représentants des associations à finalité pédagogique ou
-périscolaire et quatre représentants des associations de parents d'élèves les plus représentatives.
-
-Sont désignés en qualité de représentant des professionnels de l'information et de la communication vingt et une
-personnalités choisies en raison de leur expérience et de leur compétence particulières en matière de relations entre les
-médias et l'enseignement.
+En cas d'empêchement, chacun des membres mentionnés au 1° et au 2° du présent article peut se faire représenter par toute
+autre personne qu'il désignera au président du conseil d'orientation et de perfectionnement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 3
 	  - Décret n°93-718 du 25 mars 1993 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-102
@@ -54853,11 +55169,12 @@ En cas de vacance, les membres sont remplacés dans les mêmes conditions pour l
 
 ###### Article D314-103
 
-Le conseil du Centre de liaison de l'enseignement et des moyens d'information se réunit deux fois par an en séance plénière.
+Le conseil du            Centre de liaison de l'enseignement et des médias d'information  se réunit deux fois par an en
+séance plénière. 
 
 Sur proposition du président, le conseil peut désigner une commission permanente composée, outre du président, de
 représentants en nombre égal de chacun des trois collèges. Cette commission permanente assure le suivi des dossiers entre
-chacune des deux réunions annuelles.
+chacune des deux réunions annuelles. 
 
 Le conseil peut être convoqué en séance extraordinaire à l'initiative de son président ou du directeur du centre ou à la
 demande de la moitié au moins de ses membres.
@@ -54866,20 +55183,19 @@ demande de la moitié au moins de ses membres.
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 5
 	  - Décret n°93-718 du 25 mars 1993 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-104
 
-Le directeur du Centre de liaison de l'enseignement et des moyens d'information prépare les travaux et délibérations du
-conseil d'orientation et de perfectionnement.
+Le directeur du            Centre de liaison de l'enseignement et des médias d'information  prépare les travaux et
+délibérations du conseil d'orientation et de perfectionnement. 
 
-Il recueille et lui transmet tous documents nécessaires ou utiles à son information.
+Il recueille et lui transmet tous documents nécessaires ou utiles à son information. 
 
 Il assiste aux séances du conseil.
 
@@ -54887,18 +55203,17 @@ Il assiste aux séances du conseil.
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 6
 	  - Décret n°93-718 du 25 mars 1993 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-105
 
-Le directeur du Centre de liaison de l'enseignement et des moyens d'information est nommé par arrêté du ministre chargé de
-l'éducation, après avis du directeur général du Centre national de documentation pédagogique.
+Le directeur du            Centre de liaison de l'enseignement et des médias d'information  est nommé par arrêté du ministre
+chargé de l'éducation, après avis du directeur général du Centre national de documentation pédagogique. 
 
 Il détermine et conduit les actions du centre en s'appuyant sur les recommandations du conseil d'orientation et de
 perfectionnement. Il assure la gestion administrative et technique du centre.
@@ -54907,32 +55222,42 @@ perfectionnement. Il assure la gestion administrative et technique du centre.
 
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 7
 	  - Décret n°93-718 du 25 mars 1993 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 ###### Article D314-106
 
-Le Centre de liaison de l'enseignement et des moyens d'information est constitué en service à comptabilité distincte. Il
-dispose d'un budget annexe intégré dans le budget du Centre national de documentation pédagogique.
+Le            Centre de liaison de l'enseignement et des médias d'information  est constitué en service à comptabilité
+distincte. Il dispose d'un budget annexe intégré dans le budget du Centre national de documentation pédagogique. 
 
-L'exécution de ce budget est assurée par le directeur du Centre de liaison de l'enseignement et des moyens d'information, qui
-reçoit du directeur général du Centre national de documentation pédagogique la qualité d'ordonnateur.
+L'exécution de ce budget est assurée par le directeur du            Centre de liaison de l'enseignement et des médias
+d'information , qui reçoit du directeur général du Centre national de documentation pédagogique la qualité d'ordonnateur.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code de l'éducation annexe
+
 	**Anciens textes**:
 
-	  - Décret n°93-718 1993-03-25 art. 8
 	  - Décret n°93-718 du 25 mars 1993 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2014-1631 du 26 décembre 2014 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1631 du 26 décembre 2014 - art. 15
 
 
 ##### Sous-section 2 : Les centres régionaux de documentation pédagogique
@@ -62034,7 +62359,7 @@ réglementaires relatifs à ce diplôme.
 
 Le baccalauréat technologique comprend les séries suivantes :
 
-1° Série SMS : sciences médico-sociales ;
+1° Série ST2S : sciences et technologies de la santé et du social ;
 
 2° Série STI : sciences et technologies industrielles ;
 
@@ -62066,22 +62391,16 @@ et technologies de l'agronomie et de l'environnement et STPA : sciences et techn
 
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 2
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 2 (Ab)
-	  - Décret n°2005-996 du 17 août 2005 - art. 3, v. init.
 	  - Décret n°2005-996 du 17 août 2005 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 	**Cité par**:
 
 	  - Arrêté du 31 mars 2015 - art. 3 (VD)
-
-	**Modifié par**:
-
-	  - Décret n°2006-08-21 art. 1 JORF 22 août 2006
 
 
 ##### Sous-section 1 : Conditions de délivrance.
@@ -63916,10 +64235,10 @@ diplôme correspond une épreuve.
 ###### Article D337-4
 
 Une période de formation en milieu professionnel est organisée par l'établissement de formation. L'arrêté prévu à l'article
-D. 337-2 en fixe la durée qui doit être comprise entre douze et seize semaines.
+D. 337-2 en fixe la durée qui doit être comprise entre douze et seize semaines. 
 
-Les modalités d'organisation et d'évaluation de la formation en milieu professionnel sont fixées pour l'ensemble des
-spécialités par un arrêté du ministre chargé de l'éducation.
+Les modalités d'organisation, d'évaluation et de dispense de la formation en milieu professionnel sont fixées pour l'ensemble
+des spécialités par un arrêté du ministre chargé de l'éducation. 
 
 Toutefois, pour les candidats mentionnés à l'article D. 337-18, bénéficiant d'une décision de positionnement, prise par le
 recteur après avis de l'équipe pédagogique, cette durée peut être diminuée dans les conditions fixées par l'arrêté prévu à
@@ -63930,18 +64249,22 @@ inférieure à huit semaines.
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 4
 	  - Décret n°2002-463 du 4 avril 2002 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 	**Cité par**:
 
 	  - Décret n°2009-692 du 15 juin 2009 - art. 1 (V)
 	  - Code de l'éducation - art. D214-12 (VD)
 	  - Code de l'éducation - art. D337-25-1 (M)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-18
+	  - Code de l'éducation - art. D337-2
 
 
 ##### Sous-section 2 : Voies d'accès au diplôme et conditions de délivrance.
@@ -64122,29 +64445,33 @@ continue ou d'enseignement à distance.
 ###### Article D337-11
 
 Quatre au moins des épreuves obligatoires mentionnées à l'article D. 337-3 sont évaluées par contrôle en cours de formation
-pour les candidats ayant préparé le diplôme du certificat d'aptitude professionnelle :
+pour les candidats ayant préparé le diplôme du certificat d'aptitude professionnelle : 
 
 1° Par la voie scolaire, dans des établissements d'enseignement public ou des établissements d'enseignement privés sous
-contrat ;
+contrat ; 
 
 2° Par l'apprentissage, dans des centres de formation d'apprentis ou des sections d'apprentissage habilités dans les
-conditions mentionnées au 3° de l'article D. 337-14 ;
+conditions mentionnées au 3° de l'article D. 337-14 ; 
 
 3° Ou dans le cadre de la formation professionnelle continue dans un établissement d'enseignement public autre que ceux
-mentionnés à l'article D. 337-12.
+mentionnés à l'article D. 337-12. 
 
-Les autres épreuves sont évaluées à la fois par un contrôle en cours de formation ou par un contrôle terminal.
+Les autres épreuves sont évaluées par un contrôle en cours de formation ou par un contrôle terminal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 11
 	  - Décret n°2002-463 du 4 avril 2002 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-12
+	  - Code de l'éducation - art. D337-3
 
 	**Cité par**:
 
@@ -71315,7 +71642,7 @@ est renouvelé pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 202
 
 ##### Section 2 : Les titres de formation professionnelle maritime.
 
-###### Article R342-7
+###### Article D342-7
 
 Les titres de formation professionnelle maritime permettent à leurs titulaires d'exercer les fonctions définies dans le
 décret n° 99-439 du 25 mai 1999 relatif à la délivrance des titres de formation professionnelle maritime et aux conditions
@@ -71330,22 +71657,13 @@ Ces titres sont délivrés conformément aux dispositions de ce décret.
 
 	  - Décret n°99-439 du 25 mai 1999
 
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
 	**Anciens textes**:
 
-	  - Décret n°99-439 du 25 mai 1999 - art. 1 (Ab)
-	  - Décret n°99-439 du 25 mai 1999 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2008-263 du 14 mars 2008 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D342-7 (V)
+	  - Code de l'éducation - art. R342-7 (T)
 
 
 ###### Article R342-8
@@ -72396,14 +72714,14 @@ comportant pas, au 1er janvier 2006, de dispositifs équivalents.
 ###### Article D351-33
 
 Les formations conduisant au diplôme d'Etat d'éducateur spécialisé, au diplôme d'Etat d'éducateur technique spécialisé et au
-certificat d'aptitude aux fonctions de moniteur-éducateur, délivrés par le recteur d'académie, sont organisées dans les
-conditions prévues par le code de l'action sociale et des familles.
+diplôme d'Etat de moniteur éducateur, délivrés par le recteur d'académie, sont organisées dans les conditions prévues par le
+code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
 
 
 #### Chapitre II : La formation professionnelle et l'apprentissage des jeunes handicapés.
@@ -72576,6 +72894,151 @@ d'enseignement du théâtre peuvent être accordées dans des conditions fixées
 	**Abrogé par**:
 
 	  - Décret n°2015-1227 du 2 octobre 2015 - art. 1
+
+
+##### Section 3 : Le cycle d'enseignement professionnel initial et les diplômes nationaux d'orientation professionnelle de musique, de danse et d'art dramatique
+
+###### Article R361-7
+
+Le cycle d'enseignement professionnel initial de musique, de danse et d'art dramatique est destiné à approfondir la
+motivation et les aptitudes des élèves en vue d'une orientation professionnelle. Ce cycle est assuré par les conservatoires
+classés par l'Etat. 
+
+L'accès au cycle d'enseignement professionnel initial et son organisation sont définis par arrêté du ministre chargé de la
+culture. 
+
+Le cycle d'enseignement professionnel initial est sanctionné par un diplôme national.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+
+###### Article R361-8
+
+Le cycle d'enseignement professionnel initial est accessible aux élèves ayant achevé le second cycle des conservatoires
+classés tel que défini par les schémas nationaux d'orientation pédagogique et aux personnes présentant un dossier attestant
+d'un niveau équivalent. 
+
+L'admission est décidée par un jury après étude du dossier personnel du candidat et réussite à l'examen d'entrée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+
+###### Article R361-9
+
+Le cycle d'enseignement professionnel initial dispense un enseignement permettant à l'élève d'acquérir le savoir-faire
+nécessaire à un pratique artistique confirmée et une culture musicale, chorégraphique ou théâtrale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+
+###### Article R361-10
+
+Les diplômes nationaux qui sanctionnent le cycle d'enseignement professionnel initial sont : 
+
+- le diplôme national d'orientation professionnelle de musique ; 
+
+- le diplôme national d'orientation professionnelle de danse ; 
+
+- le diplôme national d'orientation professionnelle d'art dramatique. 
+
+Ces diplômes sont délivrés à compter de l'année 2009.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R361-11 (V)
+
+
+###### Article R361-11
+
+Les diplômes nationaux d'orientation professionnelle mentionnés à l'article R. 361-10 sont délivrés par le ministre chargé de
+la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R361-10
+
+
+###### Article R361-12
+
+Le diplôme est délivré aux élèves ayant satisfait à l'évaluation continue et à l'épreuve d'évaluation terminale devant un
+jury. 
+
+Le diplôme ouvre à ses titulaires la possibilité de suivre une formation professionnelle supérieure. 
+
+Les modalités de l'évaluation des cursus et les conditions d'obtention des diplômes nationaux d'orientation professionnelle
+sont définies par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+
+#### Chapitre II : L'enseignement de la danse.
+
+###### Article R362-1
+
+Les enfants de quatre et cinq ans ne peuvent pratiquer que les activités d'éveil corporel. 
+
+Pour l'enseignement de la danse classique, de la danse contemporaine et de la danse de jazz, les enfants de six et sept ans
+ne peuvent pratiquer qu'une activité d'initiation. 
+
+Les activités d'éveil corporel et d'initiation ne doivent pas inclure les techniques propres à la discipline enseignée. 
+
+L'ensemble des activités pratiquées par les enfants de quatre à sept ans inclus ne peuvent comporter un travail contraignant
+pour le corps, des extensions excessives ni des articulations forcées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R462-7 (V)
+
+
+###### Article R362-2
+
+Les exploitants doivent s'assurer, avant le début de chaque période d'enseignement, que les élèves sont munis d'un certificat
+médical attestant l'absence de contre-indication à l'enseignement qui leur est dispensé. Ce certificat doit être renouvelé
+chaque année. A la demande de tout enseignant, un certificat attestant un examen médical supplémentaire doit être requis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R462-7 (V)
 
 
 #### Chapitre III : Les formations et les professions des activités physiques, sportives et de l'animation.
@@ -74243,5 +74706,20855 @@ nationale qui sont applicables en Nouvelle-Calédonie.
 	**Abrogé par**:
 
 	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+
+## Livre IV : Les établissements d'enseignement scolaire.
+
+### Titre Ier : Les écoles.
+
+#### Chapitre Ier : Organisation et fonctionnement  des écoles maternelles et élémentaires.
+
+###### Article D411-1
+
+Dans chaque école, le conseil d'école est composé des membres suivants : 
+
+1° Le directeur de l'école, président ; 
+
+2° Le maire ou son représentant et un conseiller municipal désigné par le conseil municipal ; 
+
+3° Les maîtres de l'école et les maîtres remplaçants exerçant dans l'école au moment des réunions du conseil ; 
+
+4° Un des maîtres du réseau d'aides spécialisées intervenant dans l'école choisi par le conseil des maîtres de l'école ; 
+
+5° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par
+arrêté du ministre chargé de l'éducation. Ces représentants constituent au sein du conseil d'école le comité des parents
+prévu par l'article L. 411-1 ; 
+
+6° Le délégué départemental de l'éducation nationale chargé de visiter l'école. 
+
+L'inspecteur de l'éducation nationale de la circonscription assiste de droit aux réunions. 
+
+Le conseil d'école est constitué pour une année et siège valablement jusqu'à l'intervention du renouvellement de ses
+membres. 
+
+Le conseil d'école se réunit au moins une fois par trimestre, et obligatoirement dans les quinze jours suivant la
+proclamation des résultats des élections, sur un ordre du jour adressé au moins huit jours avant la date des réunions aux
+membres du conseil. En outre, il peut également être réuni à la demande du directeur de l'école, du maire ou de la moitié de
+ses membres. 
+
+Assistent avec voix consultative aux séances du conseil d'école pour les affaires les intéressant : 
+
+a) Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les
+médecins chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires, les assistants de service social et
+les agents spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des
+actions d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces
+personnes à s'associer aux travaux du conseil ; 
+
+b) Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les
+locaux scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales, les
+personnes chargées des activités complémentaires prévues à l'article L. 216-1 et les représentants des activités
+périscolaires pour les questions relatives à leurs activités en relation avec la vie de l'école. 
+
+Le président, après avis du conseil, peut inviter une ou plusieurs personnes dont la consultation est jugée utile en fonction
+de l'ordre du jour. 
+
+Les suppléants des représentants des parents d'élèves peuvent assister aux séances du conseil d'école.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 13 mai 1985 - art. 4 (V)
+	  - Code de l'éducation - art. D411-3 (VD)
+	  - Code de l'éducation - art. D454-1 (V)
+	  - Code de l'éducation - art. D491-1 (V)
+	  - Code de l'éducation - art. D491-2 (M)
+	  - Code de l'éducation - art. D492-1 (V)
+	  - Code de l'éducation - art. D492-2 (V)
+	  - Code de l'éducation - art. R453-19 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-1 (V)
+	  - Code de l'éducation - art. L411-1 (V)
+
+
+###### Article D411-2
+
+Le conseil d'école, sur proposition du directeur de l'école : 
+
+1° Vote le règlement intérieur de l'école ; 
+
+2° Etablit le projet d'organisation de la semaine scolaire, conformément à l'article 10 du décret n° 90-788 du 6 septembre
+1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires ; 
+
+3° Dans le cadre de l'élaboration du projet d'école à laquelle il est associé, donne tous avis et présente toutes suggestions
+sur le fonctionnement de l'école et sur toutes les questions intéressant la vie de l'école, et notamment sur : 
+
+a) Les actions pédagogiques qui sont entreprises pour réaliser les objectifs nationaux du service public d'enseignement ; 
+
+b) L'utilisation des moyens alloués à l'école ; 
+
+c) Les conditions de bonne intégration d'enfants handicapés ; 
+
+d) Les activités périscolaires ; 
+
+e) La restauration scolaire ; 
+
+f) L'hygiène scolaire ; 
+
+g) La protection et la sécurité des enfants dans le cadre scolaire et périscolaire ; 
+
+4° Statue sur proposition des équipes pédagogiques pour ce qui concerne la partie pédagogique du projet d'école ; 
+
+5° En fonction de ces éléments, adopte le projet d'école ; 
+
+6° Donne son accord pour l'organisation d'activités complémentaires éducatives, sportives et culturelles prévues par
+l'article L. 216-1 ; 
+
+7° Est consulté par le maire sur l'utilisation des locaux scolaires en dehors des heures d'ouverture de l'école, conformément
+à l'article L. 212-15. 
+
+En outre, une information doit être donnée au sein du conseil d'école sur : 
+
+a) Les principes de choix de manuels scolaires ou de matériels pédagogiques divers ; 
+
+b) L'organisation des aides spécialisées. 
+
+En fin d'année scolaire, le directeur de l'école établit à l'intention des membres du conseil d'école un bilan sur toutes les
+questions dont a eu à connaître le conseil d'école, notamment sur la réalisation du projet d'école, et sur les suites qui ont
+été données aux avis qu'il a formulés. 
+
+Par ailleurs, le conseil d'école est informé des conditions dans lesquelles les maîtres organisent les rencontres avec les
+parents de leurs élèves, et notamment la réunion de rentrée. 
+
+Le conseil d'école établit son règlement intérieur, et notamment les modalités des délibérations. 
+
+Le conseil d'école peut établir un projet d'organisation du temps scolaire, conformément aux dispositions de l'article 10-1
+du décret du 6 septembre 1990 susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 10 (VT)
+	  - Code de l'éducation - art. L212-15 (V)
+	  - Code de l'éducation - art. L216-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 (Ab)
+	  - Code de l'éducation - art. D411-8 (VD)
+	  - Code de l'éducation - art. D491-3 (V)
+	  - Code de l'éducation - art. D492-3 (V)
+	  - Code de l'éducation - art. D521-11 (VD)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D411-3
+
+Pour l'application des articles D. 411-1 et D. 411-2, des conseils d'école peuvent décider de se regrouper en un seul conseil
+pour la durée de l'année scolaire après délibération prise à la majorité des membres de chaque conseil, sauf opposition
+motivée de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. 
+
+Tous les membres des conseils des écoles d'origine sont membres du conseil ainsi constitué, qui est présidé par l'un des
+directeurs d'école désigné par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après
+avis de la commission administrative paritaire départementale unique des instituteurs et professeurs des écoles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-4 (VD)
+	  - Code de l'éducation - art. D492-4 (VD)
+
+
+###### Article D411-4
+
+A l'issue de chaque séance du conseil d'école, un procès-verbal de la réunion est dressé par son président, signé par celui-
+ci puis contresigné par le secrétaire de séance et consigné dans un registre spécial conservé à l'école. Deux exemplaires du
+procès-verbal sont adressés à l'inspecteur de l'éducation nationale chargé de la circonscription d'enseignement du premier
+degré et un exemplaire est adressé au maire. Un exemplaire du procès-verbal est affiché en un lieu accessible aux parents
+d'élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-5 (V)
+
+
+###### Article D411-6
+
+Le règlement intérieur de chaque école est établi par le conseil d'école compte tenu des dispositions du règlement type du
+département. Il est affiché dans l'école et remis aux parents d'élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 9, alinéa 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-6 (V)
+	  - Code de l'éducation - art. D492-5 (V)
+
+
+###### Article D411-7
+
+Dans chaque école, le conseil des maîtres de l'école est composé des membres de l'équipe pédagogique suivants : 
+
+1° Le directeur, président ; 
+
+2° L'ensemble des maîtres affectés à l'école ; 
+
+3° Les maîtres remplaçants exerçant dans l'école au moment des réunions du conseil ; 
+
+4° Les membres du réseau d'aides spécialisées intervenant dans l'école. 
+
+Le conseil des maîtres de l'école se réunit au moins une fois par trimestre en dehors de l'horaire d'enseignement dû aux
+élèves et chaque fois que le président le juge utile ou que la moitié de ses membres en fait la demande. 
+
+Il donne son avis sur l'organisation du service qui est ensuite arrêtée par le directeur de l'école, conformément aux
+dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école. Il peut donner des avis sur tous les
+problèmes concernant la vie de l'école. 
+
+Il exerce les attributions prévues aux articles D. 312-17, D. 321-6 et D. 321-15. 
+
+Un relevé des conclusions du conseil des maîtres de l'école est établi par son président, signé par celui-ci et consigné dans
+un registre spécial conservé à l'école. Une copie en est adressée à l'inspecteur de l'éducation nationale chargé de la
+circonscription d'enseignement du premier degré.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-122 du 24 février 1989 (V)
+	  - Code de l'éducation - art. D312-17 (V)
+	  - Code de l'éducation - art. D321-15 (V)
+	  - Code de l'éducation - art. D321-6 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D 492-6 (V)
+	  - Code de l'éducation - art. D321-14 (VD)
+	  - Code de l'éducation - art. D401-2 (VD)
+	  - Code de l'éducation - art. D491-5 (V)
+	  - Code de l'éducation - art. D491-7 (V)
+
+
+###### Article D411-8
+
+Dans chaque école, un projet d'école est élaboré par le conseil des maîtres avec les représentants de la communauté
+éducative. Il est adopté, pour une durée comprise entre trois et cinq ans, par le conseil d'école conformément aux
+dispositions de l'article D. 411-2. 
+
+Le projet d'école définit les modalités particulières de mise en œuvre des objectifs et des programmes nationaux ; il précise
+pour chaque cycle les actions pédagogiques qui y concourent ainsi que les voies et moyens mis en œuvre pour assurer la
+réussite de tous les élèves et pour associer les parents ou le représentant légal à cette fin. Il organise la continuité
+éducative avec les activités proposées aux élèves en dehors du temps scolaire, notamment dans le cadre des dispositifs de
+réussite éducative. 
+
+Le projet d'école peut prévoir, pour une durée maximale de cinq ans, la réalisation d'expérimentations portant sur les
+domaines énumérés au troisième alinéa de l'article L. 401-1. Les objectifs, principes et modalités générales de ces
+expérimentations sont approuvés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+Ces expérimentations font l'objet d'une évaluation annuelle par le conseil des maîtres de l'école ; les corps d'inspection
+concourent à cette évaluation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 9-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-2 (V)
+	  - Code de l'éducation - art. L401-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-142 (V)
+	  - Code de l'éducation - art. D491-4 (VD)
+	  - Code de l'éducation - art. D492-4 (V)
+
+
+###### Article D411-9
+
+Les écoles peuvent également accueillir des adultes qui participent à des actions de formation organisées au titre du livre
+IX du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R411-5
+
+Un règlement type des écoles maternelles et des écoles élémentaires publiques de chaque département est arrêté par
+l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après avis du conseil départemental
+de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°90-788 du 6 septembre 1990 - art. 9, alinéa 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-4 (VD)
+	  - Code de l'éducation - art. D491-6 (V)
+	  - Code de l'éducation - art. D492-4 (V)
+	  - Code de l'éducation - art. D492-5 (V)
+	  - Code de l'éducation - art. D521-12 (VD)
+	  - Code de l'éducation - art. D521-14 (VT)
+
+
+#### Chapitre II :  Les écoles régionales du premier degré.
+
+###### Article D412-1
+
+Les écoles régionales du premier degré mentionnées à l'article L. 412-1 accueillent les enfants de familles exerçant des
+professions non sédentaires. Elles reçoivent également des enfants de familles dispersées ou en difficultés financières
+momentanées. Ces écoles sont mixtes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-723 du 29 mars 1993 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L412-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-2 (V)
+
+
+###### Article D412-4
+
+Dans les écoles régionales du premier degré, une exonération peut être accordée par l'Etat aux familles qui ne peuvent
+supporter en totalité les charges afférentes aux prix de pension, dans la limite des crédits budgétaires ouverts. Un arrêté
+du ministre chargé de l'éducation et du ministre chargé du budget fixe les modalités de cette aide.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-723 du 29 mars 1993 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-328 du 16 mars 2016 - art. 1
+
+
+###### Article R412-2
+
+Les élèves qui sont accueillis dans les écoles régionales du premier degré reçoivent un enseignement du premier
+degré.L'organisation de cet enseignement est conçue en complémentarité avec celui dispensé dans les écoles du réseau scolaire
+local. Le régime des élèves est l'internat. Des enfants de familles répondant aux critères énoncés à l'article D. 412-1
+fréquentant un établissement du second degré peuvent être accueillis dans l'internat de ces écoles. 
+
+Les classes des écoles régionales du premier degré sont soumises aux mêmes règles de fonctionnement pédagogique que celles
+des écoles élémentaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33, alinéa 19, ecqc les écoles régionales du premier degré (Ab)
+	  - Décret n°93-723 du 29 mars 1993 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D412-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article R412-3
+
+Sont applicables aux écoles régionales du premier degré les dispositions des articles R. 421-2 à R. 421-8, R. 421-9, sous
+réserve des dispositions du deuxième alinéa du présent article, R. 421-10 à R. 421-13, R. 421-15, R. 421-17, sous réserve des
+dispositions du dernier alinéa du présent article, à R. 421-20, R. 421-23 à R. 421-26, R. 421-29 et R. 421-30, uniquement en
+ce qui concerne les personnels et les parents d'élèves, D. 421-31 à R. 421-36, R. 421-46, R. 421-47 et R. 421-53 à R.
+421-78. 
+
+Pour son application aux écoles régionales du premier degré : 
+
+a) Le 3° de l'article R. 421-9 est ainsi rédigé : « Préside le conseil d'administration ; » ; 
+
+b) Le 9° de l'article R. 421-17 est ainsi rédigé : « Quatre représentants élus des parents d'élèves et quatre représentants
+des professions non sédentaires nommés par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale. »
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 1, alinéa 1, ecqc les établissements d'éducation spéciale (Ab)
+	  - Décret n°85-924 du 30 août 1985 - art. 13, alinéa 10, ecqc les écoles régionales du premier degré (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-31 (V)
+	  - Code de l'éducation - art. R412-2 (V)
+	  - Code de l'éducation - art. R421-10 (V)
+	  - Code de l'éducation - art. R421-15 (V)
+	  - Code de l'éducation - art. R421-17 (V)
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-23 (V)
+	  - Code de l'éducation - art. R421-29 (V)
+	  - Code de l'éducation - art. R421-46 (V)
+	  - Code de l'éducation - art. R421-53 (V)
+	  - Code de l'éducation - art. R421-9 (V)
+
+
+### Titre II : Les collèges et les lycées.
+
+#### Chapitre Ier : Organisation et fonctionnement  des établissements publics locaux d'enseignement.
+
+###### Article R421-1
+
+Sont applicables aux collèges et aux lycées relevant du ministre chargé de l'éducation les dispositions des articles R.
+421-2 
+à R. 421-78. 
+
+Ces dispositions sont applicables aux établissements régionaux d'enseignement adapté relevant du ministère de l'éducation
+nationale, à l'exception des articles R. 421-14, R. 421-16, R. 421-21, R. 421-37 et R. 421-38. Sont ainsi applicables aux
+élèves de ces établissements qui fréquentent les classes des niveaux correspondant à ceux des lycées celles de ces
+dispositions qui sont applicables aux élèves des lycées. 
+
+Les dispositions du présent article ne sont pas applicables aux établissements dont la responsabilité et la charge incombent
+entièrement à l'Etat, en application de l'article L. 211-4, et aux établissements municipaux ou départementaux mentionnés à
+l'article L. 422-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 1, alinéas 1 et 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-4 (V)
+	  - Code de l'éducation - art. L422-2 (V)
+	  - Code de l'éducation - art. R421-14 (V)
+	  - Code de l'éducation - art. R421-16 (V)
+	  - Code de l'éducation - art. R421-2 (V)
+	  - Code de l'éducation - art. R421-21 (V)
+	  - Code de l'éducation - art. R421-37 (V)
+	  - Code de l'éducation - art. R421-78 (V)
+
+
+##### Section 1 :  Dispositions générales.
+
+###### Article R421-2
+
+Les collèges, les lycées, les écoles régionales du premier degré et les établissements régionaux d'enseignement adapté
+disposent, en matière pédagogique et éducative, d'une autonomie qui porte sur : 
+
+1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ; 
+
+2° L'emploi des dotations en heures d'enseignement mises à la disposition de l'établissement dans le respect des obligations
+résultant des horaires réglementaires ; 
+
+3° L'organisation du temps scolaire et les modalités de la vie scolaire ; 
+
+4° La préparation de l'orientation ainsi que de l'insertion sociale et professionnelle des élèves ; 
+
+5° La définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue
+destinées aux jeunes et aux adultes ; 
+
+6° L'ouverture de l'établissement sur son environnement social, culturel, économique ; 
+
+7° Le choix de sujets d'études spécifiques à l'établissement, en particulier pour compléter ceux qui figurent aux programmes
+nationaux ; 
+
+8° Sous réserve de l'accord des familles pour les élèves mineurs, les activités facultatives qui concourent à l'action
+éducative organisées à l'initiative de l'établissement à l'intention des élèves ainsi que les actions d'accompagnement pour
+la mise en œuvre des dispositifs de réussite éducative définis par l'article 128 de la loi n° 2005-32 du 18 janvier 2005 de
+programmation pour la cohésion sociale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 128 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D332-4 (V)
+	  - Code de l'éducation - art. R421-1 (VD)
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-25 (V)
+	  - Code de l'éducation - art. R421-41 (V)
+	  - Code de l'éducation - art. R421-9 (V)
+	  - Code de l'éducation - art. R481-7 (V)
+
+
+###### Article R421-3
+
+Le projet d'établissement prévu à l'article L. 401-1 définit sous forme d'objectifs et de programmes d'action, en prenant en
+compte les prévisions relatives aux dotations d'équipement, les modalités propres à chaque établissement de mise en œuvre des
+programmes nationaux et des orientations nationales et académiques. 
+
+Le projet d'établissement assure la cohérence des différentes activités de formation initiale, d'insertion sociale et
+professionnelle et de formation continue des adultes dans l'établissement. 
+
+En matière de formation professionnelle continue des adultes, le projet d'établissement, l'organisation et le fonctionnement
+de l'établissement intègrent les objectifs liés à l'exercice de cette mission, notamment dans l'utilisation des moyens de
+l'établissement en locaux et équipements. 
+
+Le projet d'établissement fait l'objet d'un examen par l'autorité académique et peut prévoir le recours à des procédures
+contractuelles ; il peut donner lieu à l'attribution de moyens spécifiques. 
+
+Lorsqu'un établissement est associé à d'autres au sein de réseaux, conformément à l'article L. 421-7, pour mettre en œuvre
+des projets communs, ces projets sont mentionnés dans le projet d'établissement. 
+
+Ce projet peut prévoir, pour une durée maximale de cinq ans, la réalisation d'expérimentations dans les domaines énumérés au
+troisième alinéa de l'article L. 401-1. En cas d'incidences de ces actions sur son budget, celles-ci sont subordonnées à
+l'accord de la collectivité territoriale de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 2-1 (Ab)
+	  - Décret n°85-924 du 30 août 1985 - art. 4, 2e phrase (Ab)
+	  - Décret n°93-432 du 24 mars 1993 - art. 9 sauf établissements d'enseignement agricole (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-142 (V)
+	  - Code de l'éducation - art. D422-18 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L401-1 (V)
+	  - Code de l'éducation - art. L421-7 (V)
+
+
+###### Article R421-4
+
+Le contrat d'objectifs conclu avec l'autorité académique définit les objectifs à atteindre par l'établissement pour
+satisfaire aux orientations nationales et académiques et mentionne les indicateurs qui permettront d'apprécier la réalisation
+de ces objectifs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 2-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-5
+
+Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de chacun des membres de la
+communauté éducative. 
+
+Il détermine notamment les modalités selon lesquelles sont mis en application : 
+
+1° La liberté d'information et la liberté d'expression dont disposent les élèves, dans le respect du pluralisme et du
+principe de neutralité ; 
+
+2° Le respect des principes de laïcité et de pluralisme ; 
+
+3° Le devoir de tolérance et de respect d'autrui dans sa personnalité et dans ses convictions ; 
+
+4° Les garanties de protection contre toute agression physique ou morale et le devoir qui en découle pour chacun de n'user
+d'aucune violence ; 
+
+5° La prise en charge progressive par les élèves eux-mêmes de la responsabilité de certaines de leurs activités. 
+
+Il détermine également les modalités : 
+
+6° D'exercice de la liberté de réunion ; 
+
+7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1. 
+
+Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues
+à l'article 3 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement. 
+
+Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement
+intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 3 (V)
+	  - Code de l'éducation - art. L511-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 3 al 1 à 7 (1ère phrase) et 9 (V)
+	  - Décret n°85-924 du 30 août 1985 - art. 3-3 al 4 (2ème phrase en partie) (V)
+	  - Décret n°85-924 du 30 août 1985 - art. 3-5 al 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-19 (V)
+
+
+###### Article R421-6
+
+Le conseil d'administration et le chef d'établissement donnent leur accord aux activités complémentaires organisées au sein
+de l'établissement en application des dispositions de l'article L. 216-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-1 (V)
+
+
+###### Article R421-7
+
+Plusieurs collèges, lycées, écoles régionales du premier degré ou établissements régionaux d'enseignement adapté peuvent, par
+convention, instituer des groupements de services ou une gestion commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Organisation administrative.
+
+##### Sous-section 1 :  Le chef d'établissement.
+
+###### Article R421-8
+
+Les collèges, les lycées, les écoles régionales du premier degré et les établissements régionaux d'enseignement adapté sont
+dirigés par un chef d'établissement nommé par le ministre chargé de l'éducation.
+
+Le chef d'établissement représente l'Etat au sein de l'établissement. Il est l'organe exécutif de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 7 (Ab)
+	  - Décret n°85-924 du 30 août 1985 - art. 8 al 1 (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-9
+
+En qualité d'organe exécutif de l'établissement, le chef d'établissement : 
+
+1° Représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
+
+3° Préside le conseil d'administration, la commission permanente, le conseil de discipline et dans les lycées l'assemblée
+générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
+
+4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
+
+5° Prépare les travaux du conseil d'administration et notamment, en fonction des orientations relatives à l'équipement et au
+fonctionnement matériel fixées par la collectivité territoriale de rattachement et dans la limite des ressources dont dispose
+l'établissement, le projet de budget ; 
+
+6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ; 
+
+7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-2 et exécute les
+décisions adoptées par le conseil ; 
+
+8° Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article R. 421-20,
+l'autorisation du conseil d'administration. 
+
+Lorsqu'il est fait application des dispositions du c du 6° de l'article R. 421-20, le chef d'établissement informe le conseil
+d'administration le plus proche des marchés conclus sans autorisation préalable et tient à disposition des membres de ce
+dernier les documents y afférents ; 
+
+9° Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14, conformément aux
+dispositions des articles R. 421-54 et R. 421-55 ; 
+
+10° Organise les élections des instances énumérées au 3°, veille à leur bon déroulement et en proclame les résultats. 
+
+Lorsque l'établissement est associé, pour la mise en œuvre de ses missions de formation continue, à un groupement
+d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
+s'inscrivant dans le programme des actions de formation continue de son établissement, qui ont été signées par l'ordonnateur
+de l'établissement, dit « établissement support », auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
+d'entraîner des conséquences sur la formation initiale et la vie scolaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 8 al 2 à 14 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code de l'éducation - art. L421-14 (V)
+	  - Code de l'éducation - art. R421-2 (V)
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-54 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article R421-10
+
+En qualité de représentant de l'Etat au sein de l'établissement, le chef d'établissement : 
+
+1° A autorité sur l'ensemble des personnels affectés ou mis à disposition de l'établissement. Il désigne à toutes les
+fonctions au sein de l'établissement pour lesquelles aucune autre autorité administrative n'a reçu de pouvoir de nomination.
+Il fixe le service des personnels dans le respect du statut de ces derniers ; 
+
+2° Veille au bon déroulement des enseignements, de l'information, de l'orientation et du contrôle des connaissances des
+élèves ; 
+
+3° Prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
+personnes et des biens, l'hygiène et la salubrité de l'établissement ; 
+
+4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
+communauté scolaire et assure l'application du règlement intérieur ; 
+
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
+peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 85-924 du 30 août 1985 relatif aux établissements
+publics locaux d'enseignement, ainsi que les mesures de prévention, d'accompagnement et de réparation prévues au règlement
+intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 8 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 8 al 15 à 20 (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article R421-11
+
+Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe l'autorité académique et la
+collectivité locale de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 8 al 21 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-12
+
+En cas de difficultés graves dans le fonctionnement d'un établissement, le chef d'établissement peut prendre toutes
+dispositions nécessaires pour assurer le bon fonctionnement du service public.
+
+S'il y a urgence, et notamment en cas de menace ou d'action contre l'ordre dans les enceintes et locaux scolaires de
+l'établissement, le chef d'établissement, sans préjudice des dispositions générales réglementant l'accès aux établissements,
+peut :
+
+1° Interdire l'accès de ces enceintes ou locaux à toute personne relevant ou non de l'établissement ;
+
+2° Suspendre des enseignements ou autres activités au sein de l'établissement.
+
+Le chef d'établissement informe le conseil d'administration des décisions prises et en rend compte à l'autorité académique,
+au maire, au président du conseil général ou du conseil régional et au représentant de l'Etat dans le département.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-13
+
+Le chef d'établissement est secondé dans ses tâches pédagogiques, éducatives et administratives par un adjoint nommé par le
+ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet ainsi que, le cas échéant, par le directeur
+adjoint de la section d'éducation spécialisée. Un professeur ou un conseiller principal d'éducation peut assurer à temps
+partiel les fonctions d'adjoint. Dans une école régionale du premier degré ou un établissement régional d'enseignement
+adapté, cette fonction peut être assurée par un instituteur titulaire du certificat d'aptitude à l'éducation des enfants et
+adolescents déficients ou inadaptés, ou titulaire d'un titre équivalent.
+
+Le chef d'établissement est secondé dans ses tâches de gestion matérielle, financière et administrative par un gestionnaire
+nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet, parmi les personnels de
+l'administration scolaire et universitaire. Le gestionnaire est chargé, sous l'autorité du chef d'établissement, des
+relations avec les collectivités territoriales pour les questions techniques et il organise le travail des personnels
+techniques, ouvriers et de service.
+
+Le chef d'établissement peut déléguer sa signature à son adjoint et au gestionnaire.
+
+En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint, notamment pour la présidence des
+instances de l'établissement.
+
+En cas d'absence ou d'empêchement du chef d'établissement, lorsque celui-ci n'a donné aucune délégation à cet effet,
+l'autorité académique nomme un ordonnateur suppléant qui peut être soit l'adjoint soit le chef d'un autre établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 3 (V)
+
+
+##### Sous-section 2 :  Le conseil d'administration.
+
+##### Paragraphe 1 :  Composition.
+
+###### Article R421-14
+
+Le conseil d'administration des collèges et des lycées comprend :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ;
+
+5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les collèges, le chef des travaux dans les lycées ;
+
+6° Un représentant de la collectivité territoriale de rattachement ;
+
+7° Trois représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
+du groupement de communes et deux représentants de la commune siège ;
+
+8° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
+désignés en raison de leur fonction sont en nombre inférieur à cinq ;
+
+9° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+10° Dix représentants élus des parents d'élèves et des élèves, dont, dans les collèges, sept représentants des parents
+d'élèves et trois représentants des élèves et, dans les lycées, cinq représentants des parents d'élèves, quatre représentants
+des élèves, dont un au moins représente les élèves des classes postbaccalauréat si elles existent et un représentant des
+élèves élu par le conseil des délégués pour la vie lycéenne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 11, alinéas 1 à 9 (1e phrase) (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-1 (VD)
+	  - Code de l'éducation - art. R421-18 (V)
+	  - Code de l'éducation - art. R421-33 (VD)
+
+
+###### Article R421-15
+
+Lorsque le conseil d'administration comprend une personnalité qualifiée, elle est désignée par l'inspecteur d'académie,
+directeur des services départementaux de l'éducation nationale, sur proposition du chef d'établissement, après avis de la
+collectivité territoriale de rattachement.
+
+Lorsque le conseil d'administration comprend deux personnalités qualifiées, la première est désignée par l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du chef d'établissement, la
+seconde est désignée par la collectivité de rattachement.
+
+Si la personnalité qualifiée désignée par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, représente les organisations syndicales des salariés ou les organisations syndicales des employeurs, celle
+désignée par la collectivité de rattachement doit représenter les organisations syndicales des employeurs ou les
+organisations syndicales des salariés.
+
+Si la personnalité qualifiée désignée par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, ne représente ni les organisations syndicales des salariés ni les organisations syndicales d'employeurs, celle
+désignée par la collectivité ne peut représenter ni les organisations syndicales d'employeurs ni les organisations syndicales
+de salariés.
+
+Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan
+départemental des organisations doit être prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 11, alinéas 9 (2e phrase) à 11 et 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+	  - Code de l'éducation - art. R421-14 (V)
+	  - Code de l'éducation - art. R421-16 (VD)
+	  - Code de l'éducation - art. R421-17 (V)
+	  - Code de l'éducation - art. R421-35 (V)
+
+
+###### Article R421-16
+
+Dans les collèges accueillant moins de 600 élèves et ne comportant pas une section d'éducation spécialisée, la composition du
+conseil d'administration est ainsi fixée :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ;
+
+5° Un représentant de la collectivité territoriale de rattachement ;
+
+6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
+du groupement de communes et un représentant de la commune siège ;
+
+7° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
+désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées selon
+les modalités fixées à l'article R. 421-15 ;
+
+8° Huit représentants élus des personnels, dont six au titre des personnels d'enseignement et d'éducation et deux au titre
+des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+9° Huit représentants des parents d'élèves et des élèves, dont six représentants élus des parents d'élèves et deux
+représentants élus des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-1 (VD)
+	  - Code de l'éducation - art. R421-14 (V)
+	  - Code de l'éducation - art. R421-18 (V)
+	  - Code de l'éducation - art. R421-33 (VD)
+
+
+###### Article R421-17
+
+Le conseil d'administration des établissements régionaux d'enseignement adapté comprend :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ou le chef des travaux ;
+
+5° Le représentant de la collectivité territoriale de rattachement ;
+
+6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
+du groupement de communes et un représentant de la commune siège ;
+
+7° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
+désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées selon
+les modalités fixées à l'article R. 421-15 ;
+
+8° Huit représentants élus des personnels de l'établissement, dont quatre au titre des personnels d'enseignement et
+d'éducation, deux au titre des personnels administratifs, techniques, ouvriers et de service et deux au titre des personnels
+sociaux et de santé ;
+
+9° Huit représentants élus des parents d'élèves et des élèves, dont cinq représentants des parents d'élèves, deux
+représentants des élèves et un élu par le conseil des délégués pour la vie lycéenne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 13, sauf ecqc les écoles régionales du premier degré (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+	  - Code de l'éducation - art. R421-18 (V)
+	  - Code de l'éducation - art. R421-33 (VD)
+
+
+###### Article R421-18
+
+La composition des conseils d'administration prévue aux articles R. 421-14, R. 421-16 et R. 421-17 n'est pas modifiée en cas
+d'application des articles L. 216-5 et L. 216-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-5 (V)
+	  - Code de l'éducation - art. R421-14 (V)
+	  - Code de l'éducation - art. R421-16 (VT)
+	  - Code de l'éducation - art. R421-17 (V)
+
+
+###### Article R421-19
+
+L'autorité académique, ou son représentant, peut assister aux réunions du conseil d'administration. Le président du conseil
+d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
+
+Les séances du conseil d'administration ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 15, alinéas 1 et 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Paragraphe 2 : Compétences.
+
+###### Article R421-20
+
+En qualité d'organe délibérant de l'établissement, le conseil d'administration, sur le rapport du chef d'établissement,
+exerce notamment les attributions suivantes : 
+
+1° Il fixe les principes de mise en œuvre de l'autonomie pédagogique et éducative dont disposent les établissements dans les
+domaines définis à l'article R. 421-2 et, en particulier, les règles d'organisation de l'établissement ; 
+
+2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité
+territoriale au moins un mois avant la réunion du conseil ; 
+
+3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de
+fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées
+par l'établissement et du contrat d'objectifs ; 
+
+4° Il adopte : 
+
+a) Le budget et le compte financier de l'établissement ; 
+
+b) Les tarifs des ventes des produits et de prestations de services réalisés par l'établissement ; 
+
+5° Il adopte le règlement intérieur de l'établissement ; 
+
+6° Il donne son accord sur : 
+
+a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ; 
+
+b) Le programme de l'association sportive fonctionnant au sein de l'établissement ; 
+
+c) L'adhésion à tout groupement d'établissements ou la passation des conventions dont l'établissement est signataire, à
+l'exception : 
+
+― des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le
+cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ; 
+
+― en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000
+euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ; 
+
+d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel
+l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un
+groupement d'intérêt public ; 
+
+e) La programmation et les modalités de financement des voyages scolaires ; 
+
+7° Il délibère sur : 
+
+a) Toute question dont il a à connaître en vertu des lois et règlements en vigueur ainsi que celles ayant trait à
+l'information des membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ; 
+
+b) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation
+à la vie scolaire ; 
+
+c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un
+organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures
+à prendre en ce domaine au sein de l'établissement ; 
+
+8° Il peut définir, dans le cadre du projet d'établissement et, le cas échéant, des orientations de la collectivité
+territoriale de rattachement en matière de fonctionnement matériel, toutes actions particulières propres à assurer une
+meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ; 
+
+9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens ainsi que les actions à intenter ou à
+défendre en justice ; 
+
+10° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de
+l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation continue des
+adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait appel, à
+parité, à des représentants des organisations représentatives au plan départemental des employeurs et des salariés ; 
+
+11° Il adopte son règlement intérieur ; 
+
+12° Il adopte un plan de prévention de la violence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 16, alinéas 1 à 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+	  - Code de l'éducation - art. R421-22 (V)
+	  - Code de l'éducation - art. R421-24 (V)
+	  - Code de l'éducation - art. R421-41-3 (VD)
+	  - Code de l'éducation - art. R421-9 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-2 (V)
+	  - Code de l'éducation - art. R421-60 (V)
+
+
+###### Article R421-21
+
+Conformément à l'article 39 de la loi n° 2005-380 du 23 avril 2005 d'orientation et de programme pour l'avenir de l'école,
+dans les lycées d'enseignement technologique ou professionnel, le conseil d'administration peut, sur proposition du chef
+d'établissement, à titre expérimental et pour une durée maximale de cinq ans, décider que son président peut être désigné
+parmi les personnalités extérieures à l'établissement siégeant en son sein. 
+
+Dans ce cas, le conseil d'administration procède à l'élection de son président, pour une durée d'un an, par une délibération
+distincte. 
+
+Le président élu exerce les compétences dévolues au président du conseil d'administration. Le chef d'établissement reste
+membre du conseil d'administration avec voix délibérative et conserve la présidence des autres instances de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 16, alinéas 26 à 28 (Ab)
+
+	**Cite**:
+
+	  - Loi n°2005-380 du 23 avril 2005 - art. 39 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 3 (V)
+	  - Code de l'éducation - art. R421-1 (VD)
+	  - Code de l'éducation - art. R421-22 (V)
+	  - Code de l'éducation - art. R421-24 (V)
+
+
+###### Article R421-22
+
+Le conseil d'administration peut déléguer à la commission permanente certaines de ses attributions, à l'exception de celles
+prévues aux 1°, 2°, 3°, 4°, 5° et 11° de l'article R. 421-20 et à l'article R. 421-21. La délégation s'applique, si elle le
+précise, aux affaires alors en cours d'instruction par la commission permanente en vue d'une prochaine délibération du
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 16, alinéa 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-21 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-41 (V)
+
+
+###### Article R421-23
+
+Le conseil d'administration, sur saisine du chef d'établissement, donne son avis sur : 
+
+1° Les mesures annuelles de créations et de suppressions de sections, d'options et de formations complémentaires d'initiative
+locale dans l'établissement ; 
+
+2° Les principes de choix des manuels scolaires, des logiciels et des outils pédagogiques ; 
+
+3° La modification, par le maire, des heures d'entrée et de sortie de l'établissement prévue à l'article L. 521-3.
+
+Il peut être consulté par le chef d'établissement sur les questions ayant trait au fonctionnement administratif général de
+l'établissement. 
+
+Le conseil d'administration peut, à son initiative, adopter tous vœux sur les questions intéressant la vie de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 16-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L521-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article R421-24
+
+Les avis émis et les décisions prises en application des articles R. 421-20, R. 421-21, R. 421-22 et R. 421-23 résultent de
+votes personnels. Le vote secret est de droit si un membre du conseil le demande ; en cas de partage des voix, celle du
+président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 15, alinéa 3 (Ab)
+	  - Décret n°85-924 du 30 août 1985 - art. 16-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-21 (V)
+
+
+##### Paragraphe 3 : Fonctionnement.
+
+###### Article R421-25
+
+Le conseil d'administration se réunit en séance ordinaire à l'initiative du chef d'établissement au moins trois fois par an.
+Il est, en outre, réuni en séance extraordinaire à la demande de l'autorité académique, de la collectivité territoriale de
+rattachement, du chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour déterminé. Une séance est
+consacrée à l'examen du budget, dans le délai de trente jours suivant la notification de la participation de la collectivité
+territoriale de rattachement.
+
+Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence.
+
+Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents, en début de séance, est égal à
+la majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
+d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il délibère alors
+valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois jours.
+
+L'ordre du jour est adopté en début de séance ; toute question inscrite à l'ordre du jour et ayant trait aux domaines définis
+à l'article R. 421-2 doit avoir fait l'objet d'une instruction préalable en commission permanente, dont les conclusions sont
+communiquées aux membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-41 (V)
+
+
+##### Paragraphe 4 : Election et désignation.
+
+###### Article D421-31
+
+Les membres du corps des tribunaux administratifs et des cours administratives d'appel affectés en tribunal administratif
+sont autorisés, par le président du tribunal administratif intéressé, à participer aux travaux de contrôle et d'établissement
+des résultats définitifs des élections des représentants des parents d'élèves aux conseils d'école des écoles maternelles et
+élémentaires et aux conseils d'administration ou d'établissement des lycées, des collèges, des écoles régionales du premier
+degré et des établissements régionaux d'enseignement adapté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-1054 du 23 septembre 1986 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article D421-32
+
+Ces opérations sont effectuées sous la responsabilité du ministre chargé de l'éducation et ont lieu auprès des recteurs
+d'académie ou des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-1054 du 23 septembre 1986 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-26
+
+Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au
+plus fort reste. En cas d'égalité des restes, le siège restant à pourvoir est attribué à la liste qui a obtenu le plus grand
+nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé. Pour l'élection des représentants
+des personnels, les électeurs sont répartis en deux collèges dans les collèges et les lycées et en trois collèges dans les
+écoles régionales du premier degré et les établissements régionaux d'enseignement adapté. 
+
+Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction,
+d'éducation, de surveillance, d'assistance éducative ou pédagogique et de documentation. Dans les collèges et les lycées, le
+second collège comprend les personnels titulaires ou non titulaires d'administration, de santé, sociaux, techniques,
+ouvriers, de service et de laboratoire. Dans les écoles régionales du premier degré et les établissements régionaux
+d'enseignement adapté, le deuxième collège comprend les personnels titulaires ou non titulaires d'administration, techniques,
+ouvriers, de service et de laboratoire, le troisième collège comprend les personnels titulaires ou non titulaires sociaux et
+de santé. 
+
+Les titulaires exerçant à temps complet ou partiel sont électeurs ; ils sont aussi éligibles lorsqu'ils n'ont pas la qualité
+de membre de droit. 
+
+Les non-titulaires ne sont électeurs que s'ils sont employés par l'établissement pour une durée au moins égale à cent
+cinquante heures annuelles. Ils ne sont éligibles que s'ils sont nommés pour l'année scolaire. 
+
+Les personnels votent dans l'établissement où ils ont été affectés ou par lequel ils ont été recrutés. Ceux qui exercent dans
+plusieurs établissements votent dans l'établissement où ils effectuent la partie la plus importante de leur service ; en cas
+de répartition égale de celui-ci entre deux établissements, ils votent dans l'établissement de leur choix. Les personnels
+remplaçants votent dans l'établissement où ils exercent leurs fonctions au moment des élections à la condition d'y être
+affectés pour une durée supérieure à trente jours. 
+
+Les fonctionnaires stagiaires régis par le décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables
+aux stagiaires de l'Etat et de ses établissements publics sont électeurs et éligibles. 
+
+Chaque parent est électeur et éligible sous réserve pour les parents d'enfant mineur de ne pas s'être vu retirer l'autorité
+parentale. Il ne dispose que d'une voix quel que soit le nombre de ses enfants inscrits dans le même établissement. 
+
+Lorsque l'enfant a été confié à un tiers qui accomplit tous les actes usuels relatifs à la surveillance et à l'éducation de
+l'enfant, ce tiers exerce à la place des parents le droit de voter et de se porter candidat. 
+
+Ce droit de suffrage est non cumulatif avec celui dont il disposerait déjà au titre de parent d'un ou plusieurs élèves
+inscrits dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 18 (Ab)
+
+	**Cite**:
+
+	  - Décret n°94-874 du 7 octobre 1994 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-29 (V)
+	  - Code de l'éducation - art. R421-30 (V)
+
+
+###### Article R421-27
+
+Les délégués des élèves peuvent recueillir les avis et les propositions des élèves et les exprimer auprès du chef
+d'établissement et du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 18-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-28
+
+L'élection des représentants des élèves se fait à deux degrés. Deux délégués d'élèves sont élus au scrutin uninominal à deux
+tours dans chaque classe ou, dans le cas d'une organisation différente, dans les groupes définis à cet effet par le ministre
+chargé de l'éducation. Le nom de chaque candidat est accompagné de celui de son suppléant. Tous les élèves sont électeurs et
+éligibles.
+
+Dans les établissements comportant un internat, l'ensemble des élèves internes est assimilé à une classe pour l'élection de
+ses représentants.
+
+Les délégués d'élèves élisent en leur sein au scrutin plurinominal à un tour les représentants des élèves au conseil
+d'administration. Le nom de chaque candidat est accompagné de celui de son suppléant. Sont seuls éligibles les élèves des
+classes d'un niveau égal ou supérieur à la classe de cinquième.
+
+Dans les scrutins prévus au présent article, en cas d'égalité des voix, le plus jeune des candidats est déclaré élu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-29
+
+Les articles R. 421-26 à R. 421-28 s'appliquent aux personnels de toute catégorie, aux parents d'élèves et aux élèves sans
+condition de nationalité. 
+
+Les mandats des membres élus du conseil d'administration sont d'une année. Ils expirent le jour de la première réunion du
+conseil qui suit leur renouvellement. 
+
+Un membre élu ne peut siéger au conseil d'administration qu'au titre d'une seule catégorie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-26 (V)
+
+
+###### Article R421-30
+
+L'élection des représentants des personnels, celle des représentants des parents d'élèves et celle des élèves comme délégués
+de classe sont effectuées au plus tard avant la fin de la septième semaine de l'année scolaire. 
+
+Le chef d'établissement dresse, pour chacun des collèges définis à l'article R. 421-26, la liste électorale, vingt jours
+avant l'élection. Les déclarations de candidature signées par les candidats lui sont remises dix jours francs avant
+l'ouverture du scrutin. Ces différents documents sont affichés dans un lieu facilement accessible aux personnels et aux
+parents. 
+
+Pour les élections des représentants des personnels et des parents d'élèves, les listes peuvent comporter au plus un nombre
+égal au double du nombre des sièges à pourvoir. Ce nombre ne peut être inférieur à deux noms. Les candidats sont inscrits
+sans mention de la qualité de titulaire et de suppléant. Les électeurs votent pour une liste sans panachage ni radiation. Les
+élus sont désignés selon l'ordre de présentation de la liste. Il est désigné au maximum autant de suppléants que de
+titulaires. En cas d'empêchement provisoire de membres titulaires, il est fait appel aux suppléants dans l'ordre de la
+liste. 
+
+Si un candidat se désiste moins de huit jours francs avant l'ouverture du scrutin, il ne peut être remplacé. 
+
+Lorsque le scrutin est uninominal, le nom de chaque candidat est accompagné de celui de son suppléant. 
+
+Le matériel de vote est envoyé aux électeurs six jours au moins avant la date du scrutin. Le vote par correspondance est
+admis. Les votes sont personnels et secrets. 
+
+Le chef d'établissement fixe la date du scrutin et les heures d'ouverture du bureau de vote sans que celles-ci puissent être
+inférieures à quatre heures consécutives pour les parents d'élèves et à huit heures consécutives pour les personnels. Il
+reçoit pour le vote par correspondance les bulletins sous double enveloppe, organise le dépouillement public et en publie les
+résultats. 
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
+la proclamation des résultats devant le recteur d'académie. Celui-ci statue dans un délai de huit jours à l'issue duquel, à
+défaut de décision, la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-26 (V)
+
+
+###### Article R421-33
+
+Les représentants des collectivités territoriales ou de leurs groupements mentionnés aux 6° et 7° de l'article R. 421-14,5°
+et 6° de l'article R. 421-16 et 5° et 6° de l'article R. 421-17 sont désignés en son sein par l'assemblée délibérante. Il est
+procédé à une nouvelle désignation à la suite de chaque renouvellement partiel ou total de l'assemblée délibérante de la
+collectivité. 
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-14 (V)
+	  - Code de l'éducation - art. R421-16 (V)
+	  - Code de l'éducation - art. R421-17 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-35 (V)
+
+
+###### Article R421-34
+
+Les personnalités qualifiées siégeant au conseil d'administration sont désignées pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-35
+
+Lorsqu'un membre élu du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou quand une vacance
+survient par décès, mutation, démission ou empêchement définitif constaté par le chef d'établissement, il est remplacé, selon
+le cas, par son suppléant ou par le premier suppléant dans l'ordre de la liste, pour la durée du mandat restant à courir. 
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article R. 421-33 perd la qualité au titre de laquelle
+il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif de la
+collectivité, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant suppléant. 
+
+En cas de décès, de démission ou d'empêchement définitif constaté par le chef d'établissement d'une personnalité qualifiée,
+une nouvelle personnalité qualifiée est désignée, pour la durée du mandat restant à courir, dans les conditions fixées à
+l'article R. 421-15.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-15 (V)
+	  - Code de l'éducation - art. R421-33 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-41 (V)
+
+
+###### Article R421-36
+
+Nul ne peut être membre du conseil d'administration s'il a été privé par jugement de tout ou partie des droits civils,
+civiques ou de famille mentionnés à l'article 131-26 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+##### Sous-section 3 : La commission permanente.
+
+##### Paragraphe 1 : Composition.
+
+###### Article R421-37
+
+La commission permanente dans les collèges et lycées comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ;
+
+3° Le gestionnaire ;
+
+4° Un représentant de la collectivité territoriale de rattachement ;
+
+5° Quatre représentants élus des personnels, dont trois au titre des personnels d'enseignement et d'éducation et un au titre
+des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé ;
+
+6° Trois représentants élus des parents d'élèves dans les collèges et les lycées ;
+
+7° Un représentant élu des élèves dans les collèges et deux dans les lycées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-1 (VD)
+
+
+###### Article R421-38
+
+Les membres de la commission permanente dans les collèges et les lycées sont élus ou désignés dans les conditions suivantes :
+
+1° Les représentants des personnels, des parents d'élèves et des élèves sont élus chaque année en leur sein par les membres
+titulaires et suppléants du conseil d'administration appartenant à leurs catégories respectives. Cette élection est organisée
+à l'occasion de la première réunion du conseil d'administration qui suit les élections à ce conseil ;
+
+2° Les représentants des personnels d'enseignement et d'éducation, les représentants des parents d'élèves et les
+représentants des élèves dans les lycées sont élus au scrutin proportionnel au plus fort reste. Le représentant des
+personnels administratifs, sociaux et de santé, techniques, ouvriers et de service et le représentant des élèves dans les
+collèges sont élus au scrutin uninominal à un tour ;
+
+3° Le représentant de la collectivité territoriale de rattachement peut être soit le représentant titulaire de celle-ci, soit
+son suppléant au conseil d'administration de l'établissement.
+
+Pour chaque membre élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 26-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-40 (VD)
+
+
+###### Article R421-39
+
+La commission permanente dans les établissements régionaux d'enseignement adapté comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ;
+
+3° Le gestionnaire ;
+
+4° Un représentant de la collectivité territoriale de rattachement ;
+
+5° Quatre représentants élus des personnels d'enseignement et d'éducation, dont deux au titre des personnels d'enseignement
+et d'éducation, un au titre des personnels administratifs, techniques, ouvriers, de service, et un au titre des personnels
+sociaux et de santé ;
+
+6° Trois représentants élus des parents d'élèves ;
+
+7° Un représentant élu des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-40
+
+Les membres de la commission permanente dans les établissements régionaux d'enseignement adapté sont élus ou désignés dans
+les conditions suivantes : 
+
+1° Les représentants des personnels, des parents d'élèves et des élèves sont élus dans les conditions prévues au 1° de
+l'article R. 421-38 ; 
+
+2° Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus au
+scrutin proportionnel au plus fort reste. Le représentant des personnels administratifs, techniques, ouvriers et de service,
+le représentant des personnels sociaux et de santé et le représentant des élèves sont élus au scrutin uninominal à un tour ; 
+
+3° Le représentant de la collectivité territoriale de rattachement peut être soit le représentant titulaire de celle-ci soit
+son suppléant au conseil d'administration de l'établissement. 
+
+Pour chaque membre titulaire élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 27-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-38 (V)
+
+
+##### Paragraphe 2 : Compétences.
+
+###### Article R421-41
+
+La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie
+obligatoirement des questions qui relèvent des domaines définis à l'article R. 421-2. Elle veille à ce qu'il soit procédé à
+toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées. 
+
+Elle peut recevoir délégation du conseil d'administration pour exercer certaines de ses compétences, dans les conditions
+prévues à l'article R. 421-22. Les décisions prises sur délégation sont transmises aux membres du conseil d'administration
+dans le délai de quinze jours. 
+
+La commission permanente peut inviter d'autres membres de la communauté éducative à participer à ses travaux. 
+
+Le vote secret est de droit si un membre de la commission permanente le demande. En cas de partage des voix, celle du
+président est prépondérante. Les règles fixées à l'article R. 421-25 en matière de convocation et de quorum pour le conseil
+d'administration sont applicables à la commission permanente ; les règles fixées au premier alinéa de l'article R. 421-35, en
+ce qui concerne le remplacement des membres du conseil d'administration, sont applicables aux membres de la commission
+permanente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-2 (V)
+	  - Code de l'éducation - art. R421-22 (V)
+	  - Code de l'éducation - art. R421-25 (V)
+	  - Code de l'éducation - art. R421-35 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-9 (V)
+
+
+##### Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté.
+
+##### Paragraphe 1 : L'assemblée générale des délégués des élèves.
+
+###### Article R421-42
+
+Dans les lycées, l'ensemble des délégués des élèves est réuni en assemblée générale sous la présidence du chef
+d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire. Le ou les
+adjoints du chef d'établissement et les conseillers principaux d'éducation assistent aux réunions.
+
+Au cours de sa première réunion, il est procédé à l'élection :
+
+1° Des représentants des délégués des élèves au conseil d'administration ;
+
+2° Des trois représentants des délégués des élèves au conseil des délégués pour la vie lycéenne.
+
+L'assemblée générale des délégués des élèves constitue un lieu d'échanges sur les questions relatives à la vie et au travail
+scolaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.
+
+###### Article R421-43
+
+Dans les lycées, un conseil des délégués pour la vie lycéenne est composé de dix lycéens élus au scrutin plurinominal à un
+tour, dont trois élus pour un an par les délégués des élèves et sept élus pour deux ans par l'ensemble des élèves de
+l'établissement. En cas d'égalité des voix, le plus jeune des candidats est déclaré élu.
+
+Pour chaque titulaire, un suppléant est élu dans les mêmes conditions. Lorsque le titulaire élu par l'ensemble des élèves de
+l'établissement est en dernière année de cycle d'études, son suppléant doit être inscrit dans une classe de niveau inférieur.
+Un membre suppléant ne peut siéger qu'en l'absence du titulaire. Lorsqu'un membre titulaire cesse d'être élève de
+l'établissement ou démissionne, il est remplacé par son suppléant pour la durée du mandat restant à courir.
+
+Le mandat des membres du conseil expire le jour de la première réunion qui suit l'élection de la catégorie à laquelle ils
+appartiennent.
+
+Assistent, à titre consultatif, aux réunions du conseil des délégués pour la vie lycéenne des représentants des personnels et
+des parents d'élèves dont le nombre est égal à celui des membres. Les représentants des personnels sont désignés chaque
+année, pour cinq d'entre eux, parmi les membres volontaires des personnels d'enseignement, d'éducation et d'assistance
+éducative ou pédagogique et, pour trois d'entre eux, parmi les membres volontaires des personnels administratifs, sociaux et
+de santé, techniques, ouvriers et de service de l'établissement, par le conseil d'administration du lycée, sur proposition
+des représentants de leur catégorie au sein de ce conseil. Deux représentants des parents d'élèves sont élus, en leur sein,
+par les représentants des parents d'élèves au conseil d'administration.
+
+Le conseil est présidé par le chef d'établissement.
+
+Les représentants des lycéens élisent pour un an, en leur sein, au scrutin uninominal à deux tours, un représentant titulaire
+et un représentant suppléant au conseil d'administration. Le représentant titulaire assure les fonctions de vice-président du
+conseil des délégués pour la vie lycéenne.
+
+Le président peut, à son initiative ou à la demande de la moitié des membres du conseil, inviter à participer à la séance
+toute personne dont la consultation est jugée utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R511-2 (V)
+
+
+###### Article R421-44
+
+Le conseil des délégués pour la vie lycéenne exerce les attributions suivantes : 
+
+1° Il formule des propositions sur la formation des représentants des élèves et les conditions d'utilisation des fonds
+lycéens ;
+
+2° Il est obligatoirement consulté :
+
+a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et
+sur l'élaboration du projet d'établissement et du règlement intérieur ; 
+
+b) Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à
+l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ; 
+
+c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des
+activités sportives, culturelles et périscolaires. 
+
+Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont portés à la connaissance et, le cas échéant,
+inscrits à l'ordre du jour du conseil d'administration et peuvent faire l'objet d'un affichage conformément aux dispositions
+de l'article 8-1 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement.
+
+Le conseil des délégués pour la vie lycéenne se réunit, sur convocation du chef d'établissement, avant chaque séance
+ordinaire du conseil d'administration. Il est, en outre, réuni en séance extraordinaire, à la demande de la moitié de ses
+membres. L'ordre du jour est arrêté par le chef d'établissement. Sont inscrites à l'ordre du jour toutes les questions ayant
+trait aux domaines définis ci-dessus, dont l'inscription est demandée par au moins la moitié des membres du conseil. 
+
+Le conseil ne peut siéger valablement que si la majorité des lycéens est présente. Si le quorum n'est pas atteint, le chef
+d'établissement doit procéder à une nouvelle convocation du conseil dans un délai de trois jours au minimum et de huit jours
+au maximum. Le conseil délibère alors valablement quel que soit le nombre des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 30-1 (Ab)
+
+	**Cite**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 8-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-162 (V)
+
+
+###### Article R421-45
+
+Les élections de l'ensemble des représentants lycéens au conseil des délégués pour la vie lycéenne ont lieu au plus tard
+avant la fin de la septième semaine de l'année scolaire.
+
+Pour les sièges à pourvoir au suffrage direct, le chef d'établissement recueille les candidatures qui lui parviennent dix
+jours au moins avant la date du scrutin. Chaque candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont
+la scolarité se déroule en dehors de l'établissement peuvent voter par correspondance selon des modalités fixées par le
+règlement intérieur de l'établissement.
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
+la proclamation des résultats devant le chef d'établissement, qui statue dans un délai de huit jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 30-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.
+
+###### Article R421-46
+
+Le comité d'éducation à la santé et à la citoyenneté réunit, sous la présidence du chef d'établissement, les personnels
+d'éducation, sociaux et de santé de l'établissement et des représentants des personnels enseignants, des parents et des
+élèves, désignés par le chef d'établissement sur proposition des membres du conseil d'administration appartenant à leurs
+catégories respectives, ainsi que les représentants de la commune et de la collectivité territoriale de rattachement au sein
+de ce conseil. En fonction des sujets traités, il peut associer à ses travaux toute personne dont il estime l'avis utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 30-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+###### Article R421-47
+
+Le comité d'éducation à la santé et à la citoyenneté exerce les missions suivantes :
+
+1° Il contribue à l'éducation à la citoyenneté ;
+
+2° Il prépare le plan de prévention de la violence ;
+
+3° Il propose des actions pour aider les parents en difficulté et lutter contre l'exclusion ;
+
+4° Il définit un programme d'éducation à la santé et à la sexualité et de prévention des comportements à risques.
+
+Le comité d'éducation à la santé et à la citoyenneté est réuni à l'initiative du chef d'établissement ou à la demande du
+conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 30-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 5 : Autres conseils compétents en matière de scolarité.
+
+###### Article R421-48
+
+Les dispositions relatives à la procédure disciplinaire à l'encontre des élèves des établissements publics locaux
+d'enseignement, la composition et les compétences du conseil de discipline de l'établissement, la composition du conseil de
+discipline départemental et les modalités d'appel de leur décisions sont fixées par les articles 31,31-1 et 31-2 du décret n°
+85-924 du 30 août 1985 relatif à ces établissements et par le décret n° 85-1348 du 18 décembre 1985 relatif aux procédures
+disciplinaires dans les collèges, les lycées et les établissements d'éducation spéciale. 
+
+Ces dispositions ne sont pas applicables aux classes élémentaires des établissements régionaux d'enseignement adapté qui sont
+soumises aux mêmes règles disciplinaires que celles des écoles élémentaires.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 31 (V)
+	  - Décret n°85-1348 du 18 décembre 1985 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-49
+
+Les équipes pédagogiques constituées par classe, ou groupe d'élèves éventuellement regroupés par cycles, favorisent la
+concertation entre les enseignants, en particulier en ce qui concerne l'élaboration et la mise en œuvre du projet
+d'établissement et la coordination des enseignements et des méthodes d'enseignement. Elles assurent le suivi et l'évaluation
+des élèves et organisent l'aide à leur travail personnel. Elles conseillent les élèves pour le bon déroulement de leur
+scolarité et le choix de leur orientation. Dans le cadre de ces missions, les équipes pédagogiques sont chargées des
+relations avec les familles et les élèves et travaillent en collaboration avec d'autres personnels, notamment les personnels
+d'éducation et d'orientation.
+
+Les équipes pédagogiques constituées par discipline ou spécialité favorisent les coordinations nécessaires entre les
+enseignants, en particulier pour le choix des matériels techniques, des manuels et des supports pédagogiques.
+
+Les équipes pédagogiques sont réunies sous la présidence du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 32, sauf dernier alinéa (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-41-1 (VD)
+
+
+###### Article R421-50
+
+Dans les collèges, les lycées et les établissements régionaux d'enseignement adapté, pour chaque classe ou groupe d'élèves,
+un conseil de classe, présidé par le chef d'établissement ou son représentant, comprend les membres suivants :
+
+1° Les personnels enseignants de la classe ou du groupe de classes ;
+
+2° Les deux délégués des parents d'élèves de la classe ou du groupe de classes ;
+
+3° Les deux délégués d'élèves de la classe ou du groupe de classes ;
+
+4° Le conseiller principal d'éducation ;
+
+5° Le conseiller d'orientation-psychologue.
+
+Sont également membres du conseil de classe lorsqu'ils ont eu à connaître du cas personnel d'un ou de plusieurs élèves de la
+classe :
+
+6° Le médecin de santé scolaire ou le médecin d'orientation scolaire et professionnelle ou, à défaut, le médecin de
+l'établissement ;
+
+7° L'assistant de service social ;
+
+8° L'infirmier ou l'infirmière.
+
+Le chef d'établissement réunit, au cours du premier trimestre, les responsables des listes de candidats qui ont obtenu des
+voix lors de l'élection des représentants de parents d'élèves au conseil d'administration, pour désigner les deux délégués
+titulaires et les deux délégués suppléants des parents d'élèves de chaque classe, à partir des listes qu'ils présentent à
+cette fin. Le chef d'établissement répartit les sièges compte tenu des suffrages obtenus lors de cette élection.
+
+Dans le cas où, pour une classe, il s'avérerait impossible de désigner des parents d'élèves de la classe, les sièges des
+délégués pourraient être attribués à des parents d'élèves d'autres classes volontaires.
+
+Les parents d'élèves ne sont pas représentés dans le conseil de classe pour les formations postérieures au baccalauréat de
+l'enseignement secondaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33, alinéas 1 à 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-52 (V)
+
+
+###### Article R421-51
+
+Le conseil de classe se réunit au moins trois fois par an, et chaque fois que le chef d'établissement le juge utile. 
+
+Le conseil de classe examine les questions pédagogiques intéressant la vie de la classe, notamment les modalités
+d'organisation du travail personnel des élèves. 
+
+Le professeur principal qui assure la tâche de coordination et de suivi mentionnée à l'article 3 du décret n° 93-55 du 15
+janvier 1993 instituant une indemnité de suivi et d'orientation des élèves ou un représentant de l'équipe pédagogique expose
+au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation
+formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social
+apporté par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux le guider
+dans son travail et ses choix d'études. 
+
+Le conseil de classe se prononce sur les conditions dans lesquelles se poursuit la scolarité de l'élève.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33, alinéas 15 à 18 (Ab)
+
+	**Cite**:
+
+	  - Décret n°93-55 du 15 janvier 1993 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D311-8 (VD)
+	  - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
+
+
+###### Article R421-52
+
+Les dispositions des articles R. 421-50 et R. 421-51 ne s'appliquent pas aux classes élémentaires des établissements
+régionaux d'enseignement adapté qui sont soumises aux mêmes règles de fonctionnement pédagogique que celles des écoles
+élémentaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33, alinéa 19, ecqc les établissements régionaux d'enseignement adapté (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-50 (VT)
+
+
+###### Article R421-53
+
+Des relations d'information mutuelle sont établies à l'initiative du chef d'établissement entre les enseignants, les élèves
+et les parents d'un même groupe, d'une même classe ou d'un même niveau, en particulier au moment de la rentrée scolaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33, alinéa 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R412-3 (VD)
+
+
+##### Sous-section 6 : Relations avec les autorités de tutelle.
+
+###### Article R421-54
+
+Les actes relatifs au fonctionnement de l'établissement qui, pour devenir exécutoires en application du I de l'article L.
+421-14, sont transmis au représentant de l'Etat ou, par délégation de ce dernier, à l'autorité académique sont : 
+
+1° Les délibérations du conseil d'administration relatives : 
+
+a) A la passation des conventions et contrats, et notamment des marchés ; 
+
+b) Au recrutement de personnels ; 
+
+c) Au financement des voyages scolaires. 
+
+Ces délibérations sont exécutoires quinze jours après leur transmission ; 
+
+2° Les décisions du chef d'établissement relatives : 
+
+a) Au recrutement et au licenciement des personnels liés par contrat à l'établissement ainsi qu'aux mesures disciplinaires
+prises à l'encontre de ces personnels ; 
+
+b) Aux marchés et aux conventions comportant des incidences financières, à l'exception des marchés passés selon une procédure
+adaptée en raison de leur montant conformément aux dispositions de l'article 28 du code des marchés publics. 
+
+Ces décisions sont exécutoires dès leur transmission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 6 (V)
+	  - Code de l'éducation - art. R421-78-1 (V)
+	  - Code de l'éducation - art. R421-84 (VD)
+	  - Code de l'éducation - art. R421-9 (V)
+
+	**Cite**:
+
+	  - Code des marchés publics - art. 28 (V)
+	  - Code de l'éducation - art. L421-14 (V)
+
+
+###### Article R421-55
+
+Les délibérations du conseil d'administration portant sur le contenu ou l'organisation de l'action éducatrice dont le
+caractère exécutoire est, en application du II de l'article L. 421-14, subordonné à leur transmission à l'autorité académique
+sont celles relatives : 
+
+1° Au règlement intérieur de l'établissement ; 
+
+2° A l'organisation de la structure pédagogique ; 
+
+3° A l'emploi de la dotation horaire globalisée ; 
+
+4° A l'organisation du temps scolaire ; 
+
+5° Au projet d'établissement ; 
+
+6° Au rapport annuel sur le fonctionnement pédagogique ; 
+
+7° A la définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue
+destinées aux jeunes et aux adultes. 
+
+Ces délibérations deviennent exécutoires quinze jours après leur transmission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 6 (V)
+	  - Code de l'éducation - art. R421-78-1 (V)
+	  - Code de l'éducation - art. R421-84 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-14 (V)
+
+
+###### Article R421-56
+
+Le représentant de l'Etat, l'autorité académique et la collectivité territoriale de rattachement ont accès, sur leur demande,
+à l'ensemble des actes et documents relatifs au fonctionnement de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 33-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-78-1 (V)
+
+
+##### Section 3 : Organisation financière.
+
+###### Article R421-57
+
+Sous réserve des dispositions des articles R. 421-58 à R. 421-78, les collèges, les lycées, les écoles régionales du premier
+degré et les établissements régionaux d'enseignement adapté sont soumis au régime financier résultant des dispositions de
+l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963 et de la première partie du décret n° 62-1587 du 29
+décembre 1962 portant règlement général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Code de l'éducation - art. R421-58 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-58
+
+Le budget des collèges, des lycées, des écoles régionales du premier degré et des établissements régionaux d'enseignement
+adapté, qui comprend une section de fonctionnement et une section d'investissement, est établi dans la limite des ressources
+de ces établissements, dans le respect de la nomenclature fixée par le ministre chargé du budget, le ministre de l'intérieur
+et le ministre chargé de l'éducation, et en fonction des orientations fixées par la collectivité territoriale de
+rattachement. 
+
+Ces ressources comprennent : 
+
+1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, 
+L. 213-2, L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 du présent code ou, dans la collectivité territoriale de Corse, en
+application de l'article L. 4424-2 du code général des collectivités territoriales ; 
+
+2° Toute autre contribution d'une collectivité publique ; 
+
+3° Des ressources propres, notamment les dons et legs, les ressources provenant des prestations de restauration et
+d'hébergement, le produit de la vente des objets confectionnés dans les ateliers, de la taxe d'apprentissage, des conventions
+de formation professionnelle et des conventions d'occupation des logements et locaux et le produit de l'aliénation des biens
+propres. 
+
+Les dépenses de la section de fonctionnement prévues au budget pour le service général ont notamment pour objet les activités
+pédagogiques et éducatives, le chauffage et l'éclairage, l'entretien des matériels et des locaux, les charges générales, la
+restauration et l'internat, les aides aux élèves. 
+
+En outre, des services spéciaux permettent de distinguer, notamment, l'enseignement technique, la formation continue, les
+séquences éducatives, les activités périscolaires et parascolaires, les projets d'actions éducatives, les groupements de
+service, les sections sports-études, les transports scolaires organisés par l'établissement. 
+
+Le budget comporte en annexe un état récapitulatif faisant apparaître les emplois dont l'établissement dispose à quelque
+titre que ce soit. 
+
+Lorsque la formation continue est gérée par un établissement support, la gestion est effectuée sous la forme d'un service à
+comptabilité distincte pour tous les établissements adhérents au groupement d'établissements. L'apprentissage est également
+géré sous forme de service à comptabilité distincte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4424-2 (V)
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
+	  - Code de l'éducation - art. L216-4 (V)
+	  - Code de l'éducation - art. L421-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-57 (V)
+
+
+###### Article R421-59
+
+Le projet de budget est préparé par le chef d'établissement. Il doit être soumis au vote du conseil d'administration et
+adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité
+territoriale de rattachement. 
+
+Il est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'à l'autorité académique dans les cinq
+jours suivant le vote. 
+
+Il devient exécutoire dans un délai de trente jours à compter de la dernière date de réception par les trois autorités
+mentionnées ci-dessus, sauf si la collectivité de rattachement ou l'autorité académique a fait connaître son désaccord motivé
+sur le budget. Dans ce cas ou lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la
+participation de la collectivité de rattachement, il est fait application de la procédure prévue aux e et f de l'article L.
+421-11.
+
+Le budget est transmis à l'agent comptable dès qu'il est adopté ou réglé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 6 (V)
+	  - Code de l'éducation - art. R421-78-1 (V)
+	  - Code des juridictions financières - art. R232-3 (V)
+	  - Code des juridictions financières - art. R253-16 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R232-3 (M)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+
+
+###### Article R421-60
+
+Les modifications apportées au budget initial en cours d'exercice sont adoptées dans les mêmes conditions que le budget.
+Elles deviennent exécutoires dans le délai de quinze jours à compter de la dernière date de réception par les autorités de
+tutelle, sauf si l'une ou l'autre fait connaître son désaccord motivé.
+
+Par dérogation aux dispositions du premier alinéa, le chef d'établissement peut directement porter au budget les
+modifications suivantes :
+
+1° Les augmentations de crédits provenant de l'encaissement de ressources liées à des activités spécifiques de
+l'établissement dont le montant ne peut être arrêté avec exactitude lors de l'élaboration du budget ;
+
+2° Dans la mesure où elles n'ont pas pu faire l'objet d'une inscription au budget initial, les augmentations de crédits,
+suivies en ressources affectées, relatives à des recettes encaissées par l'établissement mais qui ne lui sont définitivement
+acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
+fonds.
+
+Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
+d'administration.
+
+Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
+l'intérieur d'un chapitre.
+
+Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 6 (V)
+	  - Code de l'éducation - art. D422-16 (V)
+	  - Code de l'éducation - art. R421-20 (V)
+	  - Code de l'éducation - art. R421-78-1 (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R232-4 (Ab)
+
+
+###### Article R421-61
+
+Lorsqu'il est fait application des dispositions combinées de l'article L. 1612-1 du code général des collectivités
+territoriales et du II de l'article L. 421-13 du présent code, il peut, en cas de nécessité, être tenu compte, après accord
+de la collectivité territoriale de rattachement et de l'autorité académique, de l'incidence des mesures prises au titre de la
+dernière rentrée scolaire, pour la détermination des limites d'engagement des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Code des juridictions financières - art. R232-5 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1612-1 (V)
+	  - Code de l'éducation - art. L421-13 (V)
+
+
+###### Article R421-62
+
+La création des groupements comptables est arrêtée par le recteur de l'académie après avis des conseils d'administration des
+établissements publics locaux d'enseignement intéressés et des collectivités territoriales de rattachement. Chacun des
+établissements appartenant à un groupement comptable conserve sa personnalité morale et son autonomie financière. Une
+convention entre les établissements membres précise, en tant que de besoin, les modalités de fonctionnement du groupement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-63
+
+Un poste comptable est créé dans l'établissement siège du groupement. L'agent comptable de cet établissement, agent comptable
+du groupement, est chargé de la tenue de la comptabilité générale de chaque établissement membre du groupement.
+
+Lorsque le conseil d'administration d'un établissement membre d'un groupement est appelé à examiner une question relative à
+l'organisation financière, l'agent comptable assiste aux travaux du conseil avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-64
+
+L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
+l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+
+Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
+à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable, qui demande qu'il soit procédé à l'inventaire
+annuel des stocks.
+
+En cas de perte, de destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à
+leur remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-65
+
+Les agents comptables sont nommés, après information préalable de la collectivité territoriale de rattachement, par le
+ministre chargé de l'éducation parmi les personnels de l'administration scolaire et universitaire, conformément aux
+dispositions de l'article 16 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 16 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-66
+
+Les recettes de l'établissement sont liquidées par l'ordonnateur sur les bases fixées par la loi, les règlements, les
+décisions de justice et les conventions.
+
+Les produits attribués à l'établissement avec une destination déterminée, les subventions des organismes publics et privés,
+les dons et legs doivent conserver leur affectation.
+
+Toutefois, la réduction ou la modification de l'affectation des charges résultant de dons et legs peut être prononcée dans
+les conditions prévues par le code du domaine de l'Etat , les lois et règlements.
+
+Dans les mêmes conditions, la périodicité des attributions prévues par le disposant ou le groupement en une seule attribution
+des revenus provenant de libéralités assorties de charges analogues peut être autorisée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-67
+
+Les ordres de recettes sont établis par l'ordonnateur et remis à l'agent comptable qui les prend en charge et les notifie aux
+débiteurs. 
+
+Tous les droits acquis au cours d'un exercice doivent faire l'objet d'un ordre de recettes au titre de cet exercice. 
+
+Les ordonnateurs sont autorisés, dans les conditions et limites fixées par arrêté du ministre chargé du budget, à ne pas
+émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est inférieur au minimum fixé
+par le décret pris pour l'application de l'article 82 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
+la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 82 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 45 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-68
+
+Les créances de l'établissement qui n'ont pu être recouvrées à l'amiable font l'objet d'états rendus exécutoires par
+l'ordonnateur.
+
+Les états exécutoires peuvent être notifiés aux débiteurs par lettre recommandée avec demande d'avis de réception. Leur
+recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
+
+L'agence comptable procède aux poursuites. Celles-ci peuvent à tout moment être suspendues sur un ordre écrit de
+l'ordonnateur si la créance est l'objet d'un litige.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 46 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-69
+
+Les créances de l'établissement peuvent faire l'objet :
+
+1° Soit d'une remise gracieuse, en cas de gêne des débiteurs ;
+
+2° Soit d'une admission en non-valeur, en cas d'insolvabilité des débiteurs.
+
+La décision de remise est prise par le conseil d'administration après avis conforme de l'agent comptable, sauf lorsqu'elle
+concerne une dette de l'agent comptable, ou par l'ordonnateur, dans le cas où la créance est inférieure à un seuil fixé par
+le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 47 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-70
+
+Les régisseurs de recettes et d'avances sont nommés par le chef d'établissement avec l'agrément de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 48 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-71
+
+L'ordonnateur de l'établissement et ses délégués ont seuls qualité pour procéder à l'engagement des dépenses de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-72
+
+Les marchés de travaux, de fournitures et de services sont passés conformément aux dispositions du code des marchés publics
+applicables aux collectivités territoriales et aux établissements publics locaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-73
+
+Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 51 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-74
+
+Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 31 du décret n° 62-1587 du 29
+décembre 1962 portant règlement général sur la comptabilité publique, sont transmis, accompagnés des pièces justificatives, à
+l'agent comptable qui les prend en charge et procède à leur règlement. 
+
+La liste des pièces justificatives que l'agent comptable peut exiger est celle prévue par l'article D. 1617-19 du code
+général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 31 (V)
+	  - Code général des collectivités territoriales - art. D1617-19 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 52 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-75
+
+Les fonds de l'établissement sont déposés chez un comptable du Trésor.
+
+Lorsque les fonds d'un établissement proviennent d'excédents d'exercices antérieurs, de libéralités, du produit de
+l'aliénation d'un élément du patrimoine ou d'emprunts et d'annuités d'amortissement momentanément inutilisés, ils peuvent
+être placés en valeurs d'Etat ou en valeurs garanties par l'Etat.
+
+Ces placements font l'objet de prévisions ou d'autorisations budgétaires.
+
+Toutefois, les placements en valeurs du Trésor à court terme peuvent être autorisés par décision de l'ordonnateur visée par
+le comptable supérieur du Trésor territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 53, sauf ecqc le service des chèques postaux (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-76
+
+Le ministre chargé du budget, le ministre de l'intérieur et le ministre chargé de l'éducation fixent le plan comptable des
+établissements publics locaux d'enseignement, ainsi que la présentation de leur compte financier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 54 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-77
+
+A la fin de chaque exercice, l'agent comptable en fonctions prépare le compte financier de l'établissement pour l'exercice
+écoulé.
+
+Le compte financier comprend :
+
+1° La balance définitive des comptes ;
+
+2° Le développement, par chapitre, des dépenses et des recettes budgétaires ;
+
+3° Le tableau récapitulatif de l'exécution du budget ;
+
+4° Les documents de synthèse comptable ;
+
+5° La balance des comptes des valeurs inactives.
+
+Le compte financier est visé par l'ordonnateur, qui certifie que le montant des ordres de dépenses et des ordres de recettes
+est conforme à ses écritures.
+
+Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier
+après avoir entendu l'agent comptable.
+
+Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable
+est transmis à la collectivité territoriale de rattachement et à l'autorité académique dans les trente jours suivant son
+adoption.
+
+L'agent comptable adresse le compte financier et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant
+la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état
+d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+
+Faute de présentation dans le délai prescrit, le préfet peut, après avis du comptable supérieur du Trésor territorialement
+compétent, et sur proposition de l'autorité académique, désigner d'office un agent chargé de la reddition des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 55 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 juin 2015 - art. 6 (V)
+	  - Code de l'éducation - art. R421-78-1 (V)
+
+
+###### Article R421-78
+
+Le contrôle de la gestion des agents comptables est assuré par le comptable supérieur du Trésor territorialement compétent.
+
+Les agents comptables sont, en outre, soumis aux vérifications de l'inspection générale des finances et éventuellement des
+corps de contrôle compétents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-924 du 30 août 1985 - art. 56 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-1 (V)
+
+
+##### Section 5 : Dispositions applicables aux lycées professionnels maritimes.
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R421-79
+
+Les dispositions des articles R. 421-80 à R. 421-129 s'appliquent aux lycées professionnels maritimes relevant du ministre
+chargé de la mer qui ont été érigés en établissements publics locaux d'enseignement dans les conditions prévues à l'article
+L. 421-20. 
+
+Les conditions d'admission dans ces lycées sont déterminées par arrêtés du ministre chargé de la mer pris, le cas échéant,
+avec le ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-378 du 27 mars 1985 - art. 3 sauf ecqc les écoles nationales de la marine marchande (VT)
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 1 (Ab)
+	  - Décret n°85-378 du 27 mars 1985 - art. 4, uniquement ecqc les conditions d'admission (Ab)
+
+	**Cité par**:
+
+	  - Décret n°90-89 du 24 janvier 1990 - art. 3 (VD)
+	  - Décret n°90-89 du 24 janvier 1990 - art. 7 (VD)
+	  - Décret n°90-89 du 24 janvier 1990 - art. 7-1 (VD)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 1 (VD)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 10 (V)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 12 (Ab)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 2 (V)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 3 (V)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 6 (V)
+	  - Décret n°92-778 du 3 août 1992 - art. 10 (V)
+	  - Décret n°92-778 du 3 août 1992 - art. 7 (V)
+	  - Décret n°2017-1031 du 10 mai 2017 - art. 28
+	  - Décret n°2017-1031 du 10 mai 2017 - art. 31
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-20 (V)
+	  - Code de l'éducation - art. R421-80 (V)
+
+
+###### Article R421-80
+
+Le ministre chargé de la mer ou le directeur régional des affaires maritimes autorise la conduite de recherches et
+d'expériences pédagogiques par les établissements. En cas d'incidences de ces actions sur son budget, celles-ci sont
+subordonnées à l'accord de la région.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-79 (V)
+
+
+###### Article R421-81
+
+Le conseil d'administration et le chef d'établissement donnent leur accord aux activités complémentaires organisées au sein
+de l'établissement en application des dispositions de l'article L. 216-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-1 (V)
+
+
+###### Article R421-82
+
+Les lycées peuvent, par convention, adhérer à des groupements de service ou à des organismes de gestion commune.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Organisation administrative.
+
+##### Paragraphe 1 : Le chef d'établissement.
+
+###### Article R421-83
+
+Les lycées professionnels maritimes sont dirigés par un chef d'établissement nommé par arrêté du ministre chargé de la mer.
+
+Le chef d'établissement représente l'Etat au sein de l'établissement. Il est l'organe exécutif de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 5 (Ab)
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 1 (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-84
+
+En qualité d'organe exécutif de l'établissement, le chef d'établissement : 
+
+1° Représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+2° A autorité sur le personnel recruté par l'établissement ; 
+
+3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle et le conseil de
+discipline ; 
+
+4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
+
+5° Prépare les travaux du conseil d'administration, et notamment, en fonction des orientations relatives à l'équipement et au
+fonctionnement fixées par la région et dans la limite des ressources dont dispose l'établissement, le projet de budget ; 
+
+6° Exécute les délibérations du conseil d'administration, et notamment le budget adopté par le conseil ; 
+
+7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-92 et exécute les
+décisions adoptées par le conseil ; 
+
+8° Après accord du conseil d'administration, conclut tout contrat ou convention au nom de l'établissement, et notamment tout
+contrat relatif aux actions de formation continue ; 
+
+9° Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11, L. 421-14 et L. 421-20,
+conformément aux dispositions des articles R. 421-54 et R. 421-55.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 2 à 11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code de l'éducation - art. L421-14 (V)
+	  - Code de l'éducation - art. L421-20 (V)
+	  - Code de l'éducation - art. R421-54 (V)
+	  - Code de l'éducation - art. R421-92 (V)
+
+
+###### Article R421-85
+
+En qualité de représentant de l'Etat au sein de l'établissement, le chef d'établissement : 
+
+1° A autorité sur l'ensemble des personnels affectés ou mis à disposition de l'établissement ; il désigne à toutes les
+fonctions au sein de l'établissement ; il fixe le service des personnels ; 
+
+2° Veille au bon déroulement des enseignements ainsi que du contrôle continu des aptitudes et des connaissances ; 
+
+3° Prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
+personnes et des biens, l'hygiène et la salubrité de l'établissement ; 
+
+4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
+communauté scolaire et assure l'application du règlement intérieur ; 
+
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes ; à l'égard des élèves, il
+prononce seul les sanctions mentionnées à l'article 6 du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements
+publics locaux d'enseignement relevant du ministre chargé de le mer, sans préjudice de l'application des sanctions prévues
+par le règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 12 à 16 et 17 (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-86
+
+Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le directeur régional des
+affaires maritimes et le conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-87
+
+En cas de difficultés graves dans le fonctionnement d'un établissement, le chef d'établissement peut prendre toutes
+dispositions nécessaires pour assurer le bon fonctionnement du service public.
+
+S'il y a urgence, et notamment en cas de menace ou d'action contre l'ordre dans les enceintes et locaux scolaires de
+l'établissement, le chef d'établissement, sans préjudice des dispositions générales réglementant l'accès aux établissements,
+peut :
+
+1° Interdire l'accès à ces enceintes ou locaux à toute personne relevant ou non de l'établissement ;
+
+2° Suspendre des enseignements ou autres activités au sein de l'établissement.
+
+Le chef d'établissement informe le conseil d'administration des décisions prises et en rend compte au chef de quartier des
+affaires maritimes, au maire de la commune siège de l'établissement et au président du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-88
+
+Le chef d'établissement peut être secondé dans ses tâches de gestion matérielle et financière par un agent nommé par le
+ministre chargé de la mer ou par le directeur régional des affaires maritimes.
+
+Le chef d'établissement peut déléguer sa signature et une partie de ses attributions.
+
+En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint s'il en existe un, notamment pour la
+présidence du conseil d'administration, du conseil de perfectionnement et de la formation professionnelle et du conseil de
+discipline. Toutefois, la suppléance n'a pas d'effet sur l'exercice des fonctions d'ordonnateur.
+
+En cas d'absence ou d'empêchement du chef d'établissement, le directeur régional des affaires maritimes nomme un ordonnateur
+suppléant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Paragraphe 2 : Le conseil d'administration.
+
+##### Sous-paragraphe 1 : Composition.
+
+###### Article R421-89
+
+Le conseil d'administration des lycées professionnels maritimes comprend :
+
+1° Le chef d'établissement, président ;
+
+2° Un représentant de la région ;
+
+3° Deux représentants de la commune siège de l'établissement ;
+
+4° Quatre personnalités qualifiées, dont deux désignées par le conseil régional et deux par le directeur régional des
+affaires maritimes ;
+
+5° Huit représentants élus des personnels de l'établissement ;
+
+6° Huit représentants des parents d'élèves et des élèves, dont six représentants élus des parents d'élèves et deux
+représentants élus des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 9, alinéas 1 à 4, 5 (en partie), 6 à 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-101 (V)
+
+
+###### Article R421-90
+
+Si les personnalités qualifiées désignées par le directeur régional des affaires maritimes ou au moins l'une d'entre elles
+représentent les organisations syndicales des salariés ou les organisations syndicales des employeurs, celles désignées par
+la région doivent représenter les organisations syndicales des employeurs ou les organisations syndicales des salariés.
+
+Si les personnalités qualifiées désignées par le directeur régional des affaires maritimes ou au moins l'une d'entre elles ne
+représentent ni les organisations syndicales des salariés ni les organisations syndicales d'employeurs, celles désignées par
+la région ne peuvent représenter ni les organisations syndicales d'employeurs ni les organisations syndicales de salariés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 9, alinéa 5 (en partie) (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-91
+
+Le directeur régional des affaires maritimes, l'agent comptable de l'établissement ainsi qu'un représentant du département
+désigné en son sein par le conseil général peuvent assister aux réunions du conseil d'administration. Le président du conseil
+d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
+
+Les séances du conseil d'administration ne sont pas publiques.
+
+En cas de partage des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-paragraphe 2 : Compétences.
+
+###### Article R421-92
+
+Le conseil d'administration, sur le rapport du chef d'établissement, délibère sur :
+
+1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ;
+
+2° L'organisation du temps scolaire ;
+
+3° La définition, en tenant compte des schémas régionaux, des actions de formation complémentaire et de formation continue
+destinées aux jeunes et aux adultes ;
+
+4° L'ouverture de l'établissement sur son environnement social, culturel et économique ;
+
+5° Le choix de sujets d'études spécifiques à l'établissement, en particulier pour compléter ceux qui figurent aux programmes
+nationaux ;
+
+6° Sous réserve de l'accord des familles pour les élèves mineurs, les activités facultatives qui concourent à l'action
+éducative organisées à l'initiative de l'établissement à l'intention des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-84 (VD)
+	  - Code de l'éducation - art. R421-94 (V)
+
+
+###### Article R421-93
+
+Le règlement intérieur adopté par le conseil d'administration définit les droits et les devoirs de chacun des membres de la
+communauté scolaire. Il détermine notamment les modalités selon lesquelles sont mis en application :
+
+1° Le respect des principes de laïcité et de pluralisme ;
+
+2° Le devoir de tolérance et de respect d'autrui dans sa personnalité et dans ses convictions ;
+
+3° Les garanties de protection contre toute agression physique ou morale et le devoir qui en découle pour chacun de n'user
+d'aucune violence ;
+
+4° L'obligation pour chaque élève de participer à toutes les activités correspondant à sa scolarité organisées par
+l'établissement et d'accomplir les tâches qui en découlent ;
+
+5° La prise en charge progressive par les élèves eux-mêmes de la responsabilité de certaines de leurs activités.
+
+Le règlement intérieur est porté à la connaissance des membres de la communauté scolaire. Tout manquement au règlement
+intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D511-3 (V)
+
+
+###### Article R421-94
+
+En qualité d'organe délibérant de l'établissement, le conseil d'administration, sur le rapport du chef d'établissement,
+exerce notamment les attributions suivantes : 
+
+1° Il fixe, dans le respect des dispositions législatives et réglementaires en vigueur et des objectifs définis par les
+autorités compétentes de l'Etat, les règles d'organisation et de fonctionnement de l'établissement dans les domaines définis
+aux articles R. 421-92 et R. 421-93 ; 
+
+2° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, les résultats obtenus et les
+objectifs à atteindre ; 
+
+3° Il adopte le budget et le compte financier de l'établissement ; 
+
+4° Il donne son accord sur : 
+
+a) Le programme des associations fonctionnant au sein de l'établissement ; 
+
+b) La passation des contrats, conventions et marchés dont l'établissement est signataire ou l'adhésion à tout groupement
+d'établissements ; 
+
+c) Les modalités de participation de l'établissement aux actions de formation continue ; 
+
+5° Il délibère sur les questions qui relèvent de sa compétence ainsi que sur celles ayant trait aux domaines sanitaire et
+social et à la sécurité, à l'information des membres de la communauté scolaire, à la constitution au sein de l'établissement
+de groupes de travail ; 
+
+6° Il peut définir un plan d'actions particulières qui seront entreprises pour permettre, dans le cadre des objectifs et des
+programmes nationaux du service public et, le cas échéant, des orientations de la région en matière de fonctionnement
+matériel, une meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ; 
+
+7° Il autorise l'acceptation des dons et legs, l'acquisition et l'aliénation des biens, ainsi que les actions à intenter ou à
+défendre en justice ; 
+
+8° Il peut donner délégation au chef d'établissement pour passer des conventions et contrats sous réserve que leur incidence
+financière ne dépasse pas les limites fixées à l'article 28 du code des marchés publics.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 13, alinéas 1 à 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code des marchés publics - art. 28 (V)
+	  - Code de l'éducation - art. R421-92 (V)
+
+
+###### Article R421-95
+
+Le conseil d'administration, sur saisine du chef d'établissement, donne son avis sur : 
+
+1° Les mesures annuelles de créations et de suppressions de sections et options dans l'établissement ; 
+
+2° Les modalités d'information des personnels, des parents et des élèves ; 
+
+3° L'utilisation des locaux scolaires par le maire de la commune pour l'organisation d'activités à caractère culturel,
+sportif, social ou socio-éducatif prévue par l'article L. 212-15 ; 
+
+4° La modification, par le maire, des heures d'entrée et de sortie de l'établissement prévue à l'article L. 521-3. 
+
+Il peut être consulté par le chef d'établissement sur les questions ayant trait au fonctionnement administratif général de
+l'établissement. 
+
+Le conseil d'administration peut, à son initiative, adopter tous vœux sur les questions intéressant la vie de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 13, alinéas 14 à 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L212-15 (V)
+	  - Code de l'éducation - art. L521-3 (V)
+
+
+##### Sous-paragraphe 3 : Fonctionnement.
+
+###### Article R421-96
+
+Le conseil d'administration se réunit en séance ordinaire à l'initiative du chef d'établissement au moins deux fois par an.
+Il est en outre réuni en séance extraordinaire à la demande du directeur régional des affaires maritimes, de la collectivité
+territoriale de rattachement, du chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour déterminé.
+
+Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence.
+
+Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents est égal à la majorité des
+membres en exercice composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
+d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il délibère alors
+valablement, quel que soit le nombre des membres présents. En cas d'urgence, le délai minimum peut être réduit à trois jours.
+
+L'ordre du jour est adopté en début de séance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-paragraphe 4 : Election et désignation.
+
+###### Article R421-97
+
+Les représentants des personnels et des parents d'élèves au conseil d'administration sont élus au scrutin de liste à la
+représentation proportionnelle au plus fort reste. Les listes peuvent ne pas être complètes.
+
+Seuls sont électeurs et éligibles les personnels nommés pour une année scolaire et effectuant au moins un demi-service dans
+un même établissement.
+
+Les parents d'élèves ou, le cas échéant, celui des parents qui est doté du droit de garde ou, à défaut, les personnes qui ont
+la garde légale ou judiciaire d'élèves sont électeurs et éligibles à raison d'un seul suffrage par famille.
+
+Les familles nourricières d'enfants placés sous la garde judiciaire d'organismes sociaux bénéficient également d'un suffrage
+non cumulatif avec celui dont elles disposeraient déjà au titre de parents d'élèves inscrits dans l'établissement.
+
+Les représentants des parents d'élèves sont élus, le cas échéant, par correspondance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-99 (V)
+
+
+###### Article R421-98
+
+L'élection des représentants des élèves se fait à deux degrés. Deux délégués d'élèves sont élus au scrutin uninominal à deux
+tours dans chaque classe ou, dans le cas d'une organisation différente, dans les groupes définis à cet effet par le ministre
+chargé de la mer. Tous les élèves sont électeurs et éligibles.
+
+Les délégués d'élèves élisent selon les mêmes modalités en leur sein les représentants des élèves au conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-99 (V)
+
+
+###### Article R421-99
+
+Les articles R. 421-97 et R. 421-98 s'appliquent aux personnels de toute catégorie, aux parents d'élèves et aux élèves sans
+condition de nationalité. 
+
+Les mandats des membres élus du conseil d'administration sont d'une année. Ils expirent le jour de la première réunion du
+conseil qui suit leur renouvellement. 
+
+Un membre élu ne peut siéger au conseil d'administration qu'au titre d'une seule catégorie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-97 (V)
+	  - Code de l'éducation - art. R421-98 (V)
+
+
+###### Article R421-100
+
+Le chef d'établissement assure l'organisation et veille au bon déroulement des élections. L'élection des représentants des
+personnels, celle des représentants des parents d'élèves et celle des élèves comme délégués de classe sont effectuées au plus
+tard avant la fin de la sixième semaine après la date de la rentrée scolaire.
+
+Le chef d'établissement établit les listes électorales, reçoit les bulletins de vote sous double enveloppe, organise le
+dépouillement public et en publie les résultats. Les votes sont personnels et secrets.
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours à compter de la
+proclamation des résultats devant le directeur régional des affaires maritimes. Celui-ci statue dans un délai de huit jours à
+l'issue duquel la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-101
+
+Les représentants des collectivités territoriales mentionnées aux 2° et 3° de l'article R. 421-89 sont désignés en son sein
+par l'assemblée délibérante. Il est procédé à une nouvelle désignation à la suite de chaque renouvellement partiel ou total
+de l'assemblée délibérante de la collectivité. 
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-103 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-89 (V)
+
+
+###### Article R421-102
+
+Les personnalités qualifiées siégeant au conseil d'administration sont désignées pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-103
+
+Lorsqu'un membre du conseil d'administration perd la qualité au titre de laquelle il a été désigné, ou quand une vacance
+survient par décès, mutation, démission ou empêchement définitif constaté par le chef d'établissement, il est remplacé par le
+suivant de la liste dans l'ordre de présentation pour les membres élus au scrutin de liste. 
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article R. 421-101 perd la qualité au titre de
+laquelle il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif
+de la collectivité, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant suppléant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-101 (V)
+
+
+###### Article R421-104
+
+Nul ne peut être membre du conseil d'administration, s'il a été privé par jugement de tout ou partie des droits civils,
+civiques ou de famille mentionnés à l'article 131-26 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+##### Paragraphe 3 : Autres conseils.
+
+###### Article R421-105
+
+Le conseil de perfectionnement et de la formation professionnelle comprend, sous la présidence du chef d'établissement, les
+membres suivants :
+
+1° Sept membres du conseil d'administration dont :
+
+a) Le représentant de la région ;
+
+b) Un représentant de la commune siège de l'établissement ;
+
+c) Un représentant des personnels enseignants ;
+
+d) Un représentant des parents d'élèves ;
+
+e) Un représentant des élèves ;
+
+f) Deux personnalités qualifiées ;
+
+2° Huit membres choisis en dehors du conseil d'administration dont :
+
+a) Deux représentants des organisations patronales ;
+
+b) Deux représentants des organisations syndicales de salariés ;
+
+c) Deux représentants choisis parmi les membres de la chambre de commerce et d'industrie ou du comité local des pêches ou du
+comité interprofessionnel conchylicole ;
+
+d) Un représentant du directeur régional des affaires maritimes ;
+
+e) Le délégué régional de la formation professionnelle ou son représentant.
+
+Le conseil peut s'adjoindre à titre consultatif toute personne ayant une compétence particulière sur les affaires traitées.
+
+A l'exception du représentant de la région et de celui de la commune siège, les membres issus du conseil d'administration
+sont élus au scrutin uninominal à un tour par les membres de ce conseil appartenant à leurs catégories respectives.
+
+Les autres membres du conseil de perfectionnement et de la formation professionnelle sont désignés par le directeur régional
+des affaires maritimes sur proposition des organisations syndicales d'employeurs et de salariés représentatives dans le
+département, des organismes consulaires et des comités locaux concernés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 23 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-106
+
+Le conseil de perfectionnement et de la formation professionnelle est consulté, préalablement à la saisine du conseil
+d'administration, sur :
+
+1° Le programme d'actions particulières de l'établissement ;
+
+2° Le programme de formation continue des adultes et le programme des formations complémentaires ;
+
+3° Les questions ayant trait aux relations de l'établissement avec le monde social, économique et professionnel.
+
+Il peut émettre à son initiative tous vœux et suggestions sur les questions relevant de sa compétence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 24 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-107
+
+La composition et les compétences du conseil de discipline ainsi que les modalités d'appel de ses décisions sont fixées à
+l'article 25 du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements publics locaux relevant du ministre chargé
+de la mer.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 25 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 3 : Organisation financière.
+
+##### Paragraphe unique : Dispositions générales.
+
+###### Article R421-108
+
+Sous réserve des dispositions des articles R. 421-109 à R. 421-128, les lycées professionnels maritimes érigés en
+établissements publics locaux d'enseignement sont soumis au régime financier résultant des dispositions de l'article 60 de la
+loi n° 63-156 du 23 février 1963 de finances pour 1963 et de la première partie du décret n° 62-1587 du 29 décembre 1962
+portant règlement général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Code de l'éducation - art. R421-109 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-109
+
+Le budget des lycées professionnels maritimes, qui comprend une section de fonctionnement et une section d'investissement,
+est établi dans la limite des ressources des établissements, dans le respect de la nomenclature fixée conjointement par le
+ministre chargé du budget, le ministre de l'intérieur et le ministre chargé de la mer et en fonction des orientations fixées
+par la collectivité territoriale de rattachement. 
+
+Ces ressources comprennent notamment : 
+
+1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, L. 213-2, 
+L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 ; 
+
+2° Toute autre contribution d'une collectivité publique ou privée ; 
+
+3° Des ressources propres, notamment les dons et legs, les ressources provenant des prestations de restauration et
+d'hébergement et, d'une manière générale, toute contribution des élèves, les produits de la vente des objets confectionnés
+dans les ateliers, la taxe d'apprentissage, les conventions de formation professionnelle et les conventions d'occupation des
+logements et locaux. 
+
+Les dépenses de la section de fonctionnement prévues au budget pour le service général ont notamment pour objet les activités
+pédagogiques et éducatives, le chauffage et l'éclairage, l'entretien des matériels et des locaux, les charges générales, les
+missions de restauration et d'hébergement, les aides aux élèves ainsi que les dépenses de personnel à la charge de
+l'établissement. 
+
+En outre, des services spéciaux permettent de distinguer notamment la formation continue, les activités périscolaires et
+parascolaires. 
+
+Le budget des lycées professionnels maritimes comporte en annexe un état récapitulatif faisant apparaître les emplois dont
+l'établissement dispose à quelque titre que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
+	  - Code de l'éducation - art. L216-4 (V)
+	  - Code de l'éducation - art. L421-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-108 (V)
+
+
+###### Article R421-110
+
+Le projet de budget est préparé par le chef d'établissement. Il doit être soumis au vote du conseil d'administration et
+adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité
+territoriale de rattachement. Il est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'au
+directeur régional des affaires maritimes dans les cinq jours suivant le vote. Il devient exécutoire dans un délai de trente
+jours à compter de la dernière date de réception par les trois autorités mentionnées ci-dessus, sauf si la collectivité de
+rattachement ou le directeur régional des affaires maritimes a fait connaître son désaccord motivé sur le budget. Dans ce cas
+ou lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité de
+rattachement, il est fait application de la procédure prévue aux paragraphes e et f de l'article L. 421-11.
+
+Le budget est transmis à l'agent comptable dès qu'il est adopté ou réglé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+
+
+###### Article R421-111
+
+Les modifications apportées au budget initial en cours d'exercice sont adoptées et deviennent exécutoires dans les mêmes
+conditions que le budget.
+
+Par exception aux dispositions du premier alinéa, le chef d'établissement inscrit au budget les augmentations de crédits
+provenant de ressources affectées. Le chef d'établissement peut également, à charge d'en rendre compte au conseil
+d'administration, procéder à tout virement à l'intérieur d'un chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-112
+
+Lorsqu'il est fait application des dispositions combinées de l'article L. 1612-1 du code général des collectivités
+territoriales et du II de l'article L. 421-13 du présent code, il peut, en cas de nécessité, être tenu compte, après accord
+de la collectivité territoriale de rattachement et du directeur régional des affaires maritimes, de l'incidence des mesures
+prises au titre de la dernière rentrée scolaire pour la détermination des limites d'engagement des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1612-1 (V)
+	  - Code de l'éducation - art. L421-13 (V)
+
+
+###### Article R421-113
+
+Les fonctions d'agent comptable sont confiées soit à un agent des services déconcentrés du Trésor, soit à un fonctionnaire du
+ministère chargé de la mer.
+
+Un même agent comptable peut se voir confier les postes comptables de plusieurs établissements publics locaux d'enseignement
+ou d'un établissement public national et d'un ou de plusieurs établissements publics locaux d'enseignement.
+
+Les agents comptables sont nommés par le préfet de région après information préalable de la collectivité territoriale de
+rattachement et pour les agents des services déconcentrés du Trésor, sur proposition du comptable supérieur du Trésor
+territorialement compétent. Ils prêtent serment devant la chambre régionale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 31 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-114
+
+L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
+l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+
+Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
+à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable qui demande qu'il soit procédé à l'inventaire
+annuel des stocks.
+
+En cas de perte, destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à leur
+remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 32 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-115
+
+Lorsqu'il est fait application des dispositions combinées de l'article L. 1617-3 du code général des collectivités
+territoriales et de l'article L. 233-3 du code des juridictions financières, et que l'agent comptable a été requis de payer
+par le chef d'établissement, celui-ci en rend compte à la collectivité territoriale de rattachement, au directeur régional
+des affaires maritimes et au conseil d'administration. L'agent comptable en rend compte au trésorier-payeur général qui
+transmet l'ordre de réquisition à la chambre régionale des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 33 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L233-3 (V)
+	  - Code général des collectivités territoriales - art. L1617-3 (V)
+
+
+###### Article R421-116
+
+Les recettes de l'établissement sont liquidées par l'ordonnateur sur les bases fixées par la loi, les règlements, les
+décisions de justice et les conventions.
+
+Les produits attribués à l'établissement avec une destination déterminée, les subventions des organismes publics et privés,
+les dons et legs doivent conserver leur affectation.
+
+Toutefois, la réduction ou la modification de l'affectation des charges résultant de dons et legs peut être prononcée dans
+les conditions prévues par le code du domaine de l'Etat, les lois et règlements.
+
+Dans les mêmes conditions, la périodicité des attributions prévues par le disposant en une seule attribution des revenus
+provenant de libéralités assorties de charges analogues peut être autorisée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-117
+
+Les ordres de recettes sont établis par l'ordonnateur et remis à l'agent comptable qui les prend en charge et les notifie aux
+débiteurs.
+
+Tous les droits acquis au cours d'un exercice doivent faire l'objet d'un ordre de recette au titre de cet exercice.
+
+Les ordonnateurs sont autorisés, dans les conditions et limites fixées par arrêté du ministre chargé du budget, à ne pas
+émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est inférieur à un minimum
+fixé par décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-118
+
+Les créances de l'établissement qui n'ont pu être recouvrées à l'amiable font l'objet d'états rendus exécutoires par
+l'ordonnateur.
+
+Les états exécutoires peuvent être notifiés aux débiteurs par lettre recommandée avec accusé de réception. Leur recouvrement
+est poursuivi jusqu'à opposition devant la juridiction compétente.
+
+L'agent comptable procède aux poursuites. Celles-ci peuvent à tout moment être suspendues sur ordre écrit de l'ordonnateur si
+la créance est l'objet d'un litige.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-119
+
+Les créances de l'établissement peuvent faire l'objet :
+
+1° Soit d'une remise gracieuse, en cas de gêne des débiteurs ;
+
+2° Soit d'une admission en non-valeur en cas d'insolvabilité des débiteurs.
+
+La décision de remise est prise après avis conforme de l'agent comptable, sauf lorsqu'elle concerne une dette de l'agent
+comptable, par le conseil d'administration ou par l'ordonnateur, dans le cas où la créance est inférieure à un seuil fixé par
+le conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 37 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-120
+
+Les régisseurs de recette et d'avance sont nommés par le chef d'établissement avec l'agrément de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 38 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-121
+
+L'ordonnateur de l'établissement et ses délégués ont seuls qualité pour procéder à l'engagement des dépenses de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-122
+
+Les marchés de travaux, de fournitures et de services sont passés conformément aux dispositions du code des marchés publics
+applicables aux collectivités territoriales et aux établissements publics locaux. Ils sont transmis au représentant de
+l'Etat, dans les conditions fixées à l'article L. 421-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-14 (V)
+
+
+###### Article R421-123
+
+Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exercice auquel elles se rattachent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-124
+
+Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 31 du décret n° 62-1587 du 29
+décembre 1962 portant règlement général sur la comptabilité publique, sont transmis, accompagnés des pièces justificatives, à
+l'agent comptable qui les prend en charge et procède à leur règlement. 
+
+La liste des pièces justificatives que l'agent comptable peut exiger est celle prévue par l'article D. 1617-19 du code
+général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 31 (V)
+	  - Code général des collectivités territoriales - art. D1617-19 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-125
+
+Les fonds de l'établissement sont déposés chez un comptable du Trésor. 
+
+Lorsque les fonds d'un établissement proviennent d'excédents d'exercices antérieurs, de libéralités, du produit de
+l'aliénation d'un élément du patrimoine ou d'emprunts et d'annuités d'amortissement momentanément inutilisés, ils peuvent
+être placés en valeurs d'Etat. 
+
+Ces placements font l'objet de prévisions ou d'autorisations budgétaires. 
+
+Toutefois, les placements en valeurs du Trésor à court terme peuvent être autorisés par décision de l'ordonnateur visée par
+le comptable supérieur du Trésor chargé, aux termes de l'article R. 421-128, du contrôle de la gestion de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 43, sauf ecqc le service des chèques postaux (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-128 (V)
+
+
+###### Article R421-126
+
+Le ministre chargé du budget, le ministre de l'intérieur et le ministre chargé de la mer fixent le plan comptable des
+établissements ainsi que la présentation de leur compte financier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-127
+
+A la fin de chaque exercice, l'agent comptable en fonctions prépare le compte financier de l'établissement pour l'exercice
+écoulé.
+
+Le compte financier comprend :
+
+1° La balance définitive des comptes ;
+
+2° Le développement, par chapitre, des dépenses et des recettes budgétaires ;
+
+3° Le tableau récapitulatif de l'exécution du budget ;
+
+4° Les documents de synthèse comptable ;
+
+5° La balance des comptes des valeurs inactives.
+
+Le compte financier est visé par l'ordonnateur qui certifie que le montant des ordres de dépenses et des ordres de recettes
+est conforme à ses écritures.
+
+Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier
+après avoir entendu l'agent comptable.
+
+Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable
+est transmis à la région et au directeur régional des affaires maritimes, dans les trente jours suivant son adoption.
+
+L'agent comptable adresse le compte financier et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant
+la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état
+d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+
+Faute de présentation dans le délai prescrit, le représentant de l'Etat peut, après avis du comptable supérieur du Trésor
+territorialement compétent, et sur proposition du directeur régional des affaires maritimes, désigner d'office un agent
+chargé de la reddition des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 45 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R421-128
+
+Le contrôle de la gestion des agents comptables est assuré par le comptable supérieur du Trésor territorialement compétent.
+
+Les agents comptables sont, en outre, soumis aux vérifications de l'inspection générale des finances et éventuellement des
+corps de contrôle compétents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1242 du 25 novembre 1985 - art. 46 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-125 (V)
+
+
+###### Article R421-129
+
+Le représentant de l'Etat, le directeur régional des affaires maritimes et le conseil régional ont accès, sur leur demande, à
+l'ensemble des actes et documents relatifs au fonctionnement des lycées professionnels maritimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 6 : Dispositions applicables aux lycées d'enseignement général,  technologique et professionnel agricoles.
+
+###### Article R421-130
+
+Les règles relatives aux établissements publics locaux d'enseignement et de formation professionnelle agricoles, et notamment
+leurs missions et leur organisation administrative et financière, sont fixées par la section 3 du chapitre Ier du titre Ier
+du livre VIII de la partie réglementaire du code rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 7 : Dispositions diverses.
+
+##### Sous-section 1 : Les sections internationales.
+
+###### Article D421-131
+
+Des sections internationales scolarisant des élèves français et des élèves étrangers peuvent être créées par arrêté du
+ministre chargé de l'éducation dans les écoles, les collèges et les lycées pour permettre à des élèves étrangers et à des
+élèves français d'acquérir ensemble une formation impliquant l'utilisation progressive d'une langue étrangère dans certaines
+disciplines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-132
+
+La formation dispensée dans les sections internationales a pour objet de faciliter l'intégration et l'accueil d'élèves
+étrangers dans le système éducatif français et de former des élèves français à la pratique approfondie d'une langue
+étrangère, en particulier par l'utilisation de cette langue dans certaines disciplines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-134 (V)
+
+
+###### Article D421-133
+
+L'admission des élèves dans les sections internationales est prononcée, dans les conditions fixées par le ministre chargé de
+l'éducation, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du
+directeur d'école et du chef d'établissement qui aura vérifié au préalable l'aptitude des enfants français et étrangers à
+suivre le type d'enseignement dispensé dans ces sections. 
+
+Les dispositions des articles D. 321-6 et D. 331-23 à D. 331-44 relatives à l'orientation des élèves s'appliquent aux
+sections internationales.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D312-6 (V)
+	  - Code de l'éducation - art. D331-23 (V)
+	  - Code de l'éducation - art. D331-44 (V)
+
+
+###### Article D421-134
+
+Dans les sections internationales, les enseignements sont dispensés conformément aux horaires et programmes en vigueur dans
+les classes considérées, sous réserve des aménagements nécessaires à la réalisation des objectifs définis à l'article D.
+421-132. 
+
+Dans les écoles, ces aménagements peuvent porter sur l'ensemble des disciplines à la condition que les horaires minimaux de
+chaque domaine d'enseignement soient respectés. 
+
+Dans les collèges, ces aménagements portent sur les programmes d'histoire, de géographie et d'éducation civique assurés
+partiellement en français et partiellement en langue étrangère. Un enseignement complémentaire de lettres étrangères
+s'ajoute, à raison de quatre heures par semaine, aux horaires normaux d'enseignement. 
+
+Dans les lycées, ces aménagements portent sur les programmes d'une ou deux disciplines non linguistiques dont les
+enseignements sont assurés partiellement ou en totalité en langue étrangère. La ou les disciplines concernées et les
+modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont fixées par arrêté du ministre
+chargé de l'éducation, après concertation avec le pays partenaire. 
+
+Un enseignement complémentaire de lettres étrangères d'une durée d'au moins quatre heures par semaine s'ajoute aux horaires
+normaux d'enseignement, sous réserve d'aménagements à prévoir dans les lycées professionnels. 
+
+En outre, le chef d'établissement ou le directeur d'école peut organiser des enseignements particuliers destinés à réaliser
+la mise à niveau en français des élèves étrangers et en langues étrangères des élèves français.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-132 (V)
+
+
+###### Article D421-135
+
+Les enseignements particuliers dispensés dans les sections internationales sont pris en compte pour l'attribution du diplôme
+national du brevet. Une attestation de scolarité effectuée dans la section comportant notamment le bilan des compétences
+acquises dans la langue de la section, appréciés au regard du cadre commun de référence pour les langues prévu à l'article D.
+312-16, est délivrée aux élèves qui en font la demande, s'ils quittent le collège avant la fin de leur scolarité. 
+
+Ils sont pris en compte pour le baccalauréat de l'enseignement du second degré conformément aux dispositions du chapitre IV,
+des sections 1 à 3 du chapitre VI et de la section 3 du chapitre VII du titre III du livre III, soit sous la forme d'une
+option internationale dont les épreuves sont fixées par arrêté du ministre chargé de l'éducation, soit sous la forme d'un
+baccalauréat binational, en fonction des accords conclus avec les pays partenaires. Cette prise en compte peut se faire dans
+le cadre de modalités dérogatoires prévues au dernier alinéa de l'article D. 334-6 et aux articles D. 334-8, D. 334-10, D.
+334-14 et D. 334-19, précisées par arrêté du ministre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D312-16 (V)
+	  - Code de l'éducation - art. D334-10 (V)
+	  - Code de l'éducation - art. D334-14 (V)
+	  - Code de l'éducation - art. D334-19 (V)
+	  - Code de l'éducation - art. D334-6 (V)
+	  - Code de l'éducation - art. D334-8 (V)
+
+
+###### Article D421-136
+
+Les dispositions relatives à l'organisation générale des établissements, au déroulement de la scolarité, notamment en ce qui
+concerne la répartition des élèves dans les classes ou les groupes, au règlement intérieur et à la participation des parents
+d'élèves s'appliquent aux sections internationales. L'organisation des emplois du temps de l'ensemble des classes de
+l'établissement permet de regrouper les élèves des sections internationales pour les enseignements qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-137
+
+Dans les écoles ou établissements comportant une ou plusieurs sections internationales, un conseil de section internationale
+donne un avis sur toutes les questions intéressant la vie de la ou des sections internationales et, notamment, sur :
+
+1° Les principes d'élaboration de l'emploi du temps ;
+
+2° Le choix des manuels scolaires ;
+
+3° L'information des élèves, des parents et des personnels enseignants ;
+
+4° L'organisation d'activités complémentaires de formation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéas 1 à 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-39 (V)
+
+
+###### Article D421-138
+
+Dans les écoles, le conseil est composé des membres suivants :
+
+1° Le directeur d'école, président ;
+
+2° Les enseignants français et étrangers exerçant dans la section ;
+
+3° Trois représentants élus des parents d'élèves de la section ;
+
+4° Un représentant de la commune siège de l'école ;
+
+5° Deux personnalités choisies par le recteur d'académie en fonction de l'intérêt qu'elles portent au fonctionnement de la
+section internationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéas 6 à 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-139
+
+Dans les collèges et les lycées, le conseil est composé des membres suivants :
+
+1° Le chef d'établissement ou son adjoint, président ;
+
+2° Trois membres désignés parmi les personnels d'éducation, d'administration et des services ;
+
+3° Quatre représentants élus des personnels enseignants exerçant dans la section internationale ;
+
+4° Trois représentants élus des parents d'élèves de la section internationale ;
+
+5° Deux représentants élus des élèves de la section internationale ;
+
+6° Quatre personnalités locales, dont :
+
+a) Un représentant de la collectivité territoriale de rattachement ;
+
+b) Un représentant de la commune ou du groupement de communes siège de l'établissement ;
+
+c) Deux personnalités choisies par le recteur d'académie en fonction de l'intérêt qu'elles portent au fonctionnement de la
+section internationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéas 12 à 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-39 (V)
+
+
+###### Article D421-140
+
+Les représentants élus le sont en même temps et dans les mêmes conditions que les membres élus du conseil d'école ou du
+conseil d'administration.
+
+La qualité de membre du conseil d'école ou du conseil d'administration ne fait pas obstacle à celle de membre du conseil de
+section internationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéa 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-141
+
+Le conseil de section internationale est réuni au moins une fois par an à l'initiative du directeur d'école ou du chef
+d'établissement.
+
+Les avis du conseil de section internationale sont soumis au conseil d'école ou au conseil d'administration par le directeur
+d'école ou le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéas 23 et 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-142
+
+Dans chaque école et établissement d'enseignement scolaire public, le contenu du projet d'école et du projet d'établissement
+prévus aux articles D. 411-8 et R. 421-3 est, en ce qui concerne les sections internationales, proposé par le conseil de
+section internationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 8, alinéa 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-8 (V)
+	  - Code de l'éducation - art. R421-3 (V)
+
+
+###### Article D421-143
+
+Pour assurer la cohérence entre les formations propres aux sections internationales des écoles, des collèges et des lycées
+d'une même académie et procéder notamment aux aménagements éventuels concernant l'organisation pédagogique, un conseil
+académique des sections internationales peut être institué par le recteur.
+
+Ce conseil comporte les membres suivants :
+
+1° Le recteur d'académie ou son représentant, président ;
+
+2° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+
+3° Un inspecteur d'académie-inspecteur pédagogique régional ;
+
+4° Un inspecteur de l'éducation nationale ;
+
+5° Les directeurs des écoles et chefs des établissements comportant des sections internationales ;
+
+6° Trois représentants des personnels enseignants (un pour les écoles, un pour les collèges, un pour les lycées) ;
+
+7° Trois représentants des parents d'élèves (un pour écoles, un pour les collèges, un pour les lycées) ;
+
+8° Deux représentants des élèves (un pour les collèges, un pour les lycées) ;
+
+9° Sept personnalités locales, dont :
+
+a) Un représentant du département ;
+
+b) Un représentant de la région ;
+
+c) Le maire d'une commune siège d'une école ou d'un établissement comportant une ou plusieurs sections internationales ;
+
+d) Quatre personnalités choisies en fonction de l'intérêt qu'elles portent aux sections internationales.
+
+Les représentants des personnels enseignants, des parents d'élèves et des élèves au conseil académique des sections
+internationales sont désignés par le recteur parmi les membres des conseils des sections internationales d'école, de collège
+ou de lycée de l'académie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°81-594 du 11 mai 1981 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 2 juin 2010 - art. 7 (Ab)
+	  - Arrêté du 2 juin 2010 - art. 7 (VD)
+
+
+##### Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
+
+##### Paragraphe 1 : Rôle de l'inspection du travail.
+
+###### Article D421-144
+
+Le rôle de l'inspecteur du travail dans les ateliers des établissements publics dispensant un enseignement technique ou
+professionnel, mentionnés au quatrième alinéa de l'article L. 231-1 du code du travail, est défini par les articles D.
+421-145 à D. 421-150.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-145 (V)
+
+
+###### Article D421-145
+
+La visite de l'inspecteur du travail dans les ateliers peut avoir lieu soit de sa propre initiative, soit à la demande du
+chef d'établissement. 
+
+Le chef d'établissement ne peut refuser de demander la visite de l'inspecteur du travail si un avis en ce sens lui est
+adressé par la commission d'hygiène et de sécurité mentionnée à l'article D. 421-151.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-144 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-151 (V)
+
+
+###### Article D421-146
+
+A l'issue de ses visites, l'inspecteur du travail remet au chef d'établissement, s'il y a lieu, un rapport constatant les
+manquements aux règles d'hygiène et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-147
+
+Dans le délai de deux mois à compter de la date de la remise du rapport par l'inspecteur du travail, le chef d'établissement
+peut contester tout ou partie des conclusions de ce rapport devant le directeur régional du travail, de l'emploi et de la
+formation professionnelle.
+
+Le directeur régional du travail, de l'emploi et de la formation professionnelle se prononce dans le délai de deux mois à
+compter de la date de la réception de la contestation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-148
+
+Le chef d'établissement fait connaître à l'inspecteur du travail les mesures prises ou les suites qu'il entend donner en
+application du rapport dans le délai de deux mois à compter de la date à laquelle le rapport est devenu définitif.
+
+Dans ce délai, le chef d'établissement recueille l'avis du conseil d'administration et, pour les lycées, informe les membres
+du conseil des délégués pour la vie lycéenne et de la commission d'hygiène et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-149
+
+Si l'inspecteur du travail estime que toutes les dispositions adéquates pour remédier aux manquements constatés ne sont pas
+prises, il en avise le directeur régional du travail, de l'emploi et de la formation professionnelle, qui saisit l'autorité
+académique et la collectivité territoriale de rattachement et, le cas échéant, le préfet.
+
+L'autorité académique, la collectivité de rattachement et, le cas échéant, le préfet informent le directeur régional du
+travail, de l'emploi et de la formation professionnelle de la suite qu'ils entendent donner à l'affaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-150
+
+Pour l'application de l'article L. 233-1 du code du travail, le chef d'établissement, en sa qualité de président de la
+commission d'hygiène et de sécurité, propose, en tant que de besoin, à la collectivité territoriale de rattachement, un
+projet d'état des actions prioritaires de mise en sécurité des machines existantes. Il en informe préalablement le conseil
+des délégués pour la vie lycéenne. 
+
+Ce projet est soumis à l'approbation du conseil d'administration. 
+
+La collectivité de rattachement arrête l'état des actions prioritaires de mise en sécurité et le calendrier correspondant, et
+le communique au chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1162 du 7 novembre 1991 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L233-1 (VT)
+
+
+##### Paragraphe 2 : La commission d'hygiène et de sécurité.
+
+##### Sous-paragraphe 1 : Composition et désignation.
+
+###### Article D421-151
+
+La commission d'hygiène et de sécurité prévue à l'article L. 231-2-2 du code du travail comprend :
+
+1° Le chef d'établissement, président ;
+
+2° Le gestionnaire de l'établissement ;
+
+3° Le conseiller principal d'éducation siégeant au conseil d'administration ;
+
+4° Le chef de travaux ;
+
+5° Le représentant de la collectivité territoriale de rattachement ;
+
+6° Deux représentants du personnel au titre des personnels enseignants ;
+
+7° Un représentant du personnel au titre des personnels administratifs, sociaux, de santé, techniques, ouvriers et de
+service. Ce nombre est porté à deux dans les établissements de plus de 600 élèves ;
+
+8° Deux représentants des parents d'élèves ;
+
+9° Deux représentants des élèves.
+
+L'adjoint au chef d'établissement assiste de droit aux réunions de la commission d'hygiène et de sécurité. En cas
+d'empêchement du chef d'établissement, il en assure la présidence.
+
+Le médecin de prévention, le médecin de l'éducation nationale et l'infirmier ou l'infirmière assistent de droit aux séances
+de la commission d'hygiène et de sécurité en qualité d'experts.
+
+Les membres de la commission d'hygiène et de sécurité sont désignés pour l'année scolaire.
+
+La liste des membres de la commission est affichée en permanence dans un lieu visible de tous et dans les ateliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 1, alinéas 1 à 9 (en partie), 10 (en partie), 13 et 14 (Ab)
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 10 (Ab)
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 7, alinéa 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-145 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2-2 (Ab)
+
+
+###### Article D421-152
+
+Les représentants du personnel sont désignés par les membres représentants des personnels au conseil d'administration, parmi
+les électeurs des collèges de personnel au conseil d'administration.
+
+Les représentants des parents d'élèves membres de la commission d'hygiène et de sécurité sont désignés au sein du conseil
+d'administration par les représentants des parents d'élèves qui y siègent ;
+
+Les représentants des élèves sont désignés au sein du conseil des délégués pour la vie lycéenne par ces derniers.
+
+Il est désigné autant de membres suppléants que de membres titulaires pour les représentants du personnel, des parents
+d'élèves et des élèves. En cas d'empêchement des membres titulaires de ces catégories, ceux-ci sont remplacés par leurs
+suppléants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 1, alinéas 9 (en partie), 10 (en partie), 11 et 12 (Ab)
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 7, alinéa 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-paragraphe 2 : Fonctionnement et compétences.
+
+###### Article D421-153
+
+La commission d'hygiène et de sécurité se réunit en séance ordinaire à l'initiative du chef d'établissement au moins une fois
+par trimestre. Elle est réunie en séance extraordinaire, sur un ordre du jour déterminé, à la demande du chef
+d'établissement, du conseil d'administration, du conseil des délégués pour la vie lycéenne, du tiers au moins de ses membres
+ou du représentant de la collectivité territoriale de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-154
+
+Les membres de la commission d'hygiène et de sécurité reçoivent du chef d'établissement toutes les informations nécessaires
+pour l'exercice de leur mission.
+
+Ils sont astreints à une obligation de discrétion pour toutes les informations à caractère personnel qu'ils auraient à
+connaître au cours de leurs travaux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-155
+
+La commission d'hygiène et de sécurité peut créer des groupes de travail chargés d'instruire des dossiers déterminés. Le chef
+d'établissement, ou le représentant qu'il désigne, est membre de droit de ces groupes de travail.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-156
+
+Dans l'exercice de sa mission, la commission d'hygiène et de sécurité procède à des visites des locaux de l'établissement,
+notamment des ateliers, chaque fois qu'elle le juge utile et au moins une fois par an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-157
+
+Au début de chaque année scolaire, le chef d'établissement présente à la commission d'hygiène et de sécurité :
+
+1° Un rapport d'activité de l'année passée présentant notamment les suites données aux avis de la commission ;
+
+2° Un programme annuel de prévention des risques et d'amélioration des conditions d'hygiène et de sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-158
+
+La commission d'hygiène et de sécurité fait toutes propositions utiles en vue de promouvoir la formation à la sécurité et de
+contribuer à l'amélioration des conditions d'hygiène et de sécurité dans l'établissement, et notamment dans les ateliers.
+
+Elle délibère à la majorité des membres présents.
+
+Lorsque la commission est saisie pour avis, en cas de partage des voix, l'avis est réputé donné.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D421-159
+
+Le chef d'établissement transmet les avis de la commission d'hygiène et de sécurité, le rapport d'activité de l'année passée
+et le programme annuel de prévention des risques et d'amélioration des conditions d'hygiène et de sécurité, au conseil
+d'administration, au conseil des délégués des élèves et à l'inspection du travail.
+
+Les avis de la commission d'hygiène et de sécurité peuvent être communiqués à tout membre de la communauté éducative qui en
+fait la demande.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°91-1194 du 27 novembre 1991 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.
+
+##### Section 1 : Les établissements d'Etat.
+
+##### Sous-section 1 : Les établissements relevant du ministère de l'éducation nationale.
+
+###### Article D422-1
+
+Les dispositions des articles D. 422-2 à D. 422-58 s'appliquent aux établissements d'enseignement dont la responsabilité et
+la charge incombent entièrement à l'Etat et dont la liste est fixée par l'article D. 211-12.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 1, alinéa 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-772 du 23 juin 2009 - art. 2 (V)
+	  - Arrêté du 11 mars 2014 (V)
+	  - Arrêté du 11 mars 2014 (VT)
+	  - Arrêté du 7 décembre 2015 (V)
+	  - Code de l'éducation - art. D422-2 (VD)
+	  - Code de l'éducation - art. D422-45 (VD)
+	  - Code de l'éducation - art. R453-33 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D211-12 (V)
+
+
+###### Article D422-2
+
+Les collèges et les lycées mentionnés à l'article D. 422-1 disposent en matière pédagogique et éducative d'une autonomie qui
+porte sur : 
+
+1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ; 
+
+2° L'emploi des dotations en heures d'enseignement mises à la disposition de l'établissement dans le respect des obligations
+résultant des horaires réglementaires ; 
+
+3° L'organisation du temps scolaire et les modalités de la vie scolaire ; 
+
+4° La préparation de l'orientation ainsi que de l'insertion sociale et professionnelle des élèves ; 
+
+5° La définition, compte tenu des schémas régionaux de formation, des actions de formation complémentaire et de formation
+continue destinées aux jeunes et aux adultes ; 
+
+6° L'ouverture de l'établissement sur son environnement social, culturel, économique ; 
+
+7° Le choix de sujets d'études spécifiques à l'établissement, en particulier pour compléter ceux qui figurent aux programmes
+nationaux ; 
+
+8° Sous réserve de l'accord des familles pour les élèves mineurs, les activités facultatives qui concourent à l'action
+éducative organisées à l'initiative de l'établissement à l'intention des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. 422-33 (V)
+	  - Code de l'éducation - art. D422-1 (V)
+	  - Code de l'éducation - art. D422-16 (V)
+	  - Code de l'éducation - art. D422-31 (V)
+	  - Code de l'éducation - art. D422-6 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+	  - Code de l'éducation - art. D454-1 (V)
+	  - Code de l'éducation - art. D454-12 (VD)
+	  - Code de l'éducation - art. R481-7 (V)
+
+
+###### Article D422-3
+
+Les collèges et les lycées dont la responsabilité et la charge incombent entièrement à l'Etat sont placés sous le contrôle du
+ministre chargé de l'éducation, qui peut déléguer ses pouvoirs en cette matière aux autorités académiques dans l'académie ou
+dans le département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-4
+
+Le conseil d'administration et le chef d'établissement donnent leur accord aux activités complémentaires organisées au sein
+de l'établissement en application des dispositions de l'article L. 216-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-1 (V)
+
+
+##### Paragraphe 1 : Organisation administrative.
+
+##### Sous-paragraphe 1 : Le chef d'établissement.
+
+###### Article D422-5
+
+Les collèges et les lycées sont dirigés par un chef d'établissement nommé par le ministre chargé de l'éducation.
+
+Le chef d'établissement représente l'Etat au sein de l'établissement. Il est l'organe exécutif de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 7 (Ab)
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 1 (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-6
+
+En qualité d'organe exécutif de l'établissement, le chef d'établissement :
+
+1° Représente l'établissement en justice et dans tous les actes de la vie civile ;
+
+2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
+
+3° Préside le conseil d'administration, la commission permanente, l'assemblée générale des délégués des élèves et le conseil
+des délégués pour la vie lycéenne ;
+
+4° Est ordonnateur des recettes et des dépenses de l'établissement ;
+
+5° Prépare les travaux du conseil d'administration et notamment dans la limite des ressources dont dispose l'établissement,
+le projet de budget ;
+
+6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ;
+
+7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article D. 422-2 et exécute les
+décisions adoptées par le conseil ;
+
+8° Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil
+d'administration dans sa séance la plus proche des marchés conclus sans autorisation préalable dans les cas prévus à
+l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ;
+
+Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement
+d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
+s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur
+de l'établissement, dit « établissement support » auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
+d'entraîner des conséquences sur la formation initiale et la vie scolaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 2 à 11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-7
+
+En qualité de représentant de l'Etat au sein de l'établissement, le chef d'établissement : 
+
+1° A autorité sur l'ensemble des personnels affectés ou mis à disposition de l'établissement. Il désigne à toutes les
+fonctions au sein de l'établissement pour lesquelles aucune autre autorité administrative n'a reçu de pouvoir de nomination.
+Il fixe le service des personnels dans le respect du statut de ces derniers ; 
+
+2° Veille au bon déroulement des enseignements, de l'information, de l'orientation et du contrôle des connaissances des
+élèves ; 
+
+3° Prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
+personnes et des biens, l'hygiène et la salubrité de l'établissement ; 
+
+4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
+communauté scolaire et assure l'application du règlement intérieur ; 
+
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
+peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 86-164 du 31 janvier 1986 portant organisation
+administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à
+l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de second degré municipaux ou
+départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 12 à 17 1ère phrase et 2ème phrase (en partie) (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-62 (V)
+
+
+###### Article D422-8
+
+Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe l'autorité académique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 18 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-59 (VD)
+
+
+###### Article D422-9
+
+En cas de difficultés graves dans le fonctionnement d'un établissement, le chef d'établissement peut prendre toutes
+dispositions nécessaires pour assurer le bon fonctionnement du service public.
+
+S'il y a urgence, et notamment en cas de menace ou d'action contre l'ordre dans les enceintes et locaux scolaires de
+l'établissement, le chef d'établissement, sans préjudice des dispositions générales réglementant l'accès aux établissements,
+peut :
+
+1° Interdire l'accès de ces enceintes ou locaux à toute personne relevant ou non de l'établissement ;
+
+2° Suspendre des enseignements ou autres activités au sein de l'établissement. Le chef d'établissement expose, dans les
+meilleurs délais, au conseil d'administration les décisions prises et en rend compte à l'autorité académique, au maire et au
+représentant de l'Etat dans le département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-59 (VD)
+
+
+###### Article D422-10
+
+Le chef d'établissement est secondé dans ses tâches pédagogiques, éducatives et administratives par un adjoint nommé par le
+ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet, ainsi que, le cas échéant, par le directeur
+adjoint de la section d'éducation spécialisée. Un professeur ou un conseiller principal d'éducation peut assurer à temps
+partiel les fonctions d'adjoint.
+
+Le chef d'établissement est secondé dans ses tâches de gestion matérielle et financière par un gestionnaire nommé par le
+ministre chargé de l'éducation, ou l'autorité académique habilitée à cet effet, parmi les personnels de l'administration
+scolaire et universitaire.
+
+Le chef d'établissement peut déléguer sa signature à son adjoint.
+
+En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint, notamment pour la présidence du
+conseil d'administration et de la commission permanente de l'établissement.
+
+L'autorité académique nomme alors un ordonnateur suppléant, qui peut être soit l'adjoint, soit le chef d'un autre
+établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-62 (V)
+
+
+###### Article D422-11
+
+Les actes du chef d'établissement pris pour la passation ou l'exécution de conventions et de marchés sont exécutoires dès
+transmission à l'autorité académique.
+
+Les actes du chef d'établissement relatifs au contenu ou à l'organisation de l'action éducatrice ne sont pas soumis à
+transmission pour devenir exécutoires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-paragraphe 2 : Le conseil d'administration.
+
+###### Article D422-12
+
+Le conseil d'administration des collèges et des lycées comporte les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ;
+
+5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les collèges et le chef des travaux dans les
+lycées ;
+
+6° Un représentant du département pour les collèges et un représentant de la région pour les lycées ;
+
+7° Trois représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
+du groupement de communes et deux représentants de la commune siège ;
+
+8° Une personnalité qualifiée lorsque les membres de l'administration de l'établissement, désignés en raison de leur
+fonction, sont en nombre égal à cinq et deux personnalités qualifiées lorsque ce nombre est inférieur à cinq ;
+
+9° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+10° Dix représentants élus des parents d'élèves et des élèves, dont sept représentants des parents d'élèves et trois
+représentants des élèves pour les collèges et cinq représentants des parents d'élèves et cinq représentants des élèves pour
+les lycées, dont un au moins représentant les élèves des classes post-baccalauréat si elles existent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 12, alinéas 1 à 9 (en partie) et 10 à 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2014 (V)
+	  - Code de l'éducation - art. D422-27 (V)
+	  - Code de l'éducation - art. D422-63 (VD)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-13
+
+Les personnalités qualifiées sont désignées par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, sur proposition du chef d'établissement.
+
+Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan
+départemental des organisations syndicales doit être prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 12, alinéa 9 (2e phrase) et alinéa 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-14 (V)
+	  - Code de l'éducation - art. D422-29 (VD)
+
+
+###### Article D422-14
+
+Dans les collèges accueillant moins de six cents élèves et ne comportant pas une section d'éducation spécialisée, la
+composition du conseil d'administration est ainsi fixée : 
+
+1° Le chef d'établissement, président ; 
+
+2° L'adjoint au chef d'établissement ; 
+
+3° Le gestionnaire de l'établissement ; 
+
+4° Le conseiller principal d'éducation le plus ancien ; 
+
+5° Un représentant du département ; 
+
+6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
+du groupement de communes et un représentant de la commune siège ; 
+
+7° Une personnalité qualifiée lorsque les membres de l'administration de l'établissement, désignés en raison de leur
+fonction, sont en nombre égal à quatre et deux personnalités qualifiées lorsque ce nombre est inférieur à quatre. Les
+personnalités qualifiées sont désignées selon les modalités définies à l'article D. 422-13 ; 
+
+8° Huit représentants élus des personnels, dont six au titre des personnels d'enseignement et d'éducation et deux au titre
+des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ; 
+
+9° Huit représentants élus des parents d'élèves et des élèves, dont six représentants des parents d'élèves et deux
+représentants des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-13 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-27 (V)
+
+
+###### Article D422-15
+
+L'autorité académique, ou son représentant, peut assister aux réunions du conseil d'administration. Le président du conseil
+d'administration peut inviter aux séances du conseil, à titre consultatif, toute personne dont la présence paraîtrait utile.
+
+Les séances du conseil d'administration ne sont pas publiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 14, alinéas 1 et 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+###### Article D422-16
+
+En qualité d'organe délibérant de l'établissement, le conseil d'administration, sur le rapport du chef d'établissement,
+exerce notamment les attributions suivantes : 
+
+1° Il fixe les principes de mise en œuvre de l'autonomie pédagogique et éducative dont disposent les établissements dans les
+domaines définis à l'article D. 422-2 et, en particulier, les règles d'organisation de l'établissement ; 
+
+2° Il adopte le projet d'établissement ; 
+
+3° Il établit chaque année un rapport sur le fonctionnement pédagogique et les conditions de fonctionnement matériel de
+l'établissement, qui rend compte notamment de la mise en œuvre du projet d'établissement, des objectifs à atteindre et des
+résultats obtenus ; 
+
+4° Il adopte le budget et le compte financier de l'établissement ; 
+
+5° Il adopte le règlement intérieur de l'établissement ; 
+
+6° Il donne son accord sur : 
+
+a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ; 
+
+b) Le programme de l'association sportive fonctionnant au sein de l'établissement ; 
+
+c) L'adhésion à tout groupement d'établissements ou la passation des conventions et contrats dont l'établissement est
+signataire, à l'exception : 
+
+― des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le
+cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ; 
+
+― en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000
+euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ; 
+
+d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel
+l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un
+groupement d'intérêt public ; 
+
+7° Il délibère sur : 
+
+a) Toute question dont il a à connaître en vertu des lois et règlements en vigueur ; 
+
+b) Celles ayant trait à l'information des membres de la communauté éducative et à la création de groupes de travail au sein
+de l'établissement ; 
+
+c) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation
+à la vie scolaire ; 
+
+d) Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un
+organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures
+à prendre en ce domaine au sein de l'établissement ; 
+
+8° Il peut définir, dans le cadre du projet d'établissement, toutes actions particulières propres à assurer une meilleure
+utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ; 
+
+9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens ainsi que les actions à intenter ou à
+défendre en justice ; 
+
+10° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de
+l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation continue des
+adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait appel, à
+parité, à des représentants des organisations représentatives au plan départemental des employeurs et des salariés ; 
+
+11° Il adopte son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-2 (V)
+	  - Code de l'éducation - art. R421-60 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-20 (V)
+	  - Code de l'éducation - art. D422-6 (V)
+	  - Code de l'éducation - art. D422-64 (V)
+
+
+###### Article D422-17
+
+Le conseil d'administration, sur saisine du chef d'établissement, donne son avis sur : 
+
+1° Les mesures annuelles de créations et de suppressions de sections, d'options et de formations complémentaires d'initiative
+locale dans l'établissement ; 
+
+2° Les principes de choix des manuels scolaires, des logiciels et des outils pédagogiques ; 
+
+3° La modification, par le maire, des heures d'entrée et de sortie de l'établissement prévue à l'article L. 521-3. 
+
+Il peut être consulté par le chef d'établissement sur les questions ayant trait au fonctionnement administratif général de
+l'établissement. 
+
+Le conseil d'administration peut, à son initiative, adopter tous vœux sur les questions intéressant la vie de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 15-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-20 (V)
+	  - Code de l'éducation - art. D422-64 (V)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L521-3 (V)
+
+
+###### Article D422-18
+
+Le projet d'établissement est élaboré selon les modalités définies aux premier, deuxième et quatrième alinéas et à la
+première phrase du sixième alinéa de l'article R. 421-3.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 2-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-3 (V)
+
+
+###### Article D422-19
+
+Le règlement intérieur est établi conformément aux dispositions de l'article R. 421-5. 
+
+Les sanctions qui peuvent être prononcées à l'encontre des élèves sont celles mentionnées à l'article 4 du décret n° 86-164
+du 31 janvier 1986 portant organisation administrative et financière des établissements d'enseignement dont la responsabilité
+et la charge incombent entièrement à l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de
+second degré municipaux ou départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 4 (V)
+	  - Code de l'éducation - art. R421-5 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 4 al 1 à 8 (1ère et 2ème phrases en partie) (V)
+	  - Décret n°86-164 du 31 janvier 1986 - art. 4-3 al 4 (2ème phrase en partie) (V)
+	  - Décret n°86-164 du 31 janvier 1986 - art. 4-5 al 4 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-20
+
+Les avis émis et les décisions prises en application des articles D. 422-16 et D. 422-17 résultent de votes personnels. Le
+vote secret est de droit si un membre du conseil le demande. En cas de partage des voix, celle du président est
+prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 14, alinéa 3 (Ab)
+	  - Décret n°86-164 du 31 janvier 1986 - art. 15-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-16 (V)
+	  - Code de l'éducation - art. D422-17 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+###### Article D422-21
+
+Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, fixées aux articles D.
+422-45 à D. 422-53 : 
+
+1° Les délibérations du conseil d'administration relatives au fonctionnement de l'établissement qui, pour devenir
+exécutoires, doivent être transmises à l'autorité académique sont celles relatives : 
+
+a) A la passation des conventions et contrats, et notamment des marchés ; 
+
+b) Au recrutement de personnels ; 
+
+c) Aux tarifs du service annexe d'hébergement ; 
+
+d) Au financement des voyages scolaires. 
+
+Les délibérations sont exécutoires quinze jours après leur transmission. 
+
+2° Les délibérations du conseil d'administration portant sur le contenu ou l'organisation de l'action éducatrice qui, pour
+devenir exécutoires, doivent être transmises à l'autorité académique sont celles relatives : 
+
+a) Au règlement intérieur de l'établissement ; 
+
+b) A l'organisation de la structure pédagogique ; 
+
+c) A l'emploi de la dotation horaire globalisée ; 
+
+d) A l'organisation du temps scolaire ; 
+
+e) Au projet d'établissement ; 
+
+f) Au rapport annuel sur le fonctionnement pédagogique ; 
+
+g) A la définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue
+destinées aux jeunes et aux adultes. 
+
+Les délibérations sont exécutoires quinze jours après leur transmission. 
+
+Dans le délai prévu à l'alinéa précédent, l'autorité académique peut prononcer l'annulation des actes du conseil
+d'administration relatifs au contenu ou à l'organisation de l'action éducatrice lorsque ces actes sont contraires aux lois et
+règlements ou de nature à porter atteinte au fonctionnement du service public de l'enseignement. La décision motivée de
+l'autorité académique est communiquée sans délai au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-45 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-59 (VD)
+
+
+###### Article D422-22
+
+Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au
+plus fort reste. En cas d'égalité des restes, le siège restant à pourvoir est attribué à la liste qui a obtenu le plus grand
+nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé. Pour l'élection des représentants
+des personnels, les électeurs sont répartis en deux collèges. 
+
+Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction,
+d'éducation, de surveillance ou de documentation. Le second collège comprend les personnels titulaires ou non titulaires
+d'administration, de santé scolaire, techniques, ouvriers, de service et de laboratoire. 
+
+Les instructeurs font partie du même collège électoral que celui des personnels dont les fonctions sont identiques à celles
+qu'ils exercent. 
+
+Les titulaires exerçant à temps complet ou partiel sont électeurs ; ils sont aussi éligibles lorsqu'ils n'ont pas la qualité
+de membre de droit. 
+
+Les non-titulaires ne sont électeurs que s'ils sont employés par l'établissement pour une durée au moins égale à 150 heures
+annuelles. Ils ne sont éligibles que s'ils sont nommés pour l'année scolaire. 
+
+Les personnels votent dans l'établissement où ils ont été affectés ou par lequel ils ont été recrutés. Ceux qui exercent dans
+plusieurs établissements votent dans l'établissement où ils effectuent la partie la plus importante de leur service ; en cas
+de répartition égale de celui-ci entre deux établissements, ils votent dans l'établissement de leur choix. Les personnels
+remplaçants votent dans l'établissement où ils exercent leurs fonctions au moment des élections à la condition d'y être
+affectés pour une durée supérieure à trente jours. 
+
+Les fonctionnaires stagiaires régis par le décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables
+aux stagiaires de l'Etat et de ses établissements publics sont électeurs et éligibles. 
+
+Chaque parent est électeur et éligible sous réserve pour les parents d'enfant mineur de ne s'être pas vu retirer l'autorité
+parentale. Il ne dispose que d'une voix quel que soit le nombre de ses enfants inscrits dans le même établissement. 
+
+Lorsque l'enfant a été confié à un tiers qui accomplit tous les actes usuels relatifs à la surveillance et à l'éducation de
+l'enfant, ce tiers exerce à la place des parents le droit de voter et de se porter candidat. 
+
+Ce droit de suffrage est non cumulatif avec celui dont il disposerait déjà au titre de parent d'un ou plusieurs élèves
+inscrits dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 17 (Ab)
+
+	**Cite**:
+
+	  - Décret n°94-874 du 7 octobre 1994 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-25 (V)
+	  - Code de l'éducation - art. D422-26 (V)
+	  - Code de l'éducation - art. D422-62 (V)
+	  - Code de l'éducation - art. D422-63 (VD)
+	  - Code de l'éducation - art. R453-26 (V)
+
+
+###### Article D422-23
+
+L'élection des représentants des élèves se fait à deux degrés. Deux délégués d'élèves sont élus au scrutin uninominal à deux
+tours dans chaque classe ou, dans le cas d'une organisation différente, dans les groupes définis à cet effet par le ministre
+chargé de l'éducation. Le nom de chaque candidat est accompagné de celui de son suppléant. Tous les élèves sont électeurs et
+éligibles.
+
+Dans les établissements comportant un internat, l'ensemble des élèves internes est assimilé à une classe pour l'élection de
+ses représentants.
+
+Les délégués d'élèves élisent en leur sein au scrutin plurinominal à un tour les représentants des élèves au conseil
+d'administration. Le nom de chaque candidat est accompagné de celui de son suppléant. Sont seuls éligibles les élèves des
+classes d'un niveau égal ou supérieur à la classe de cinquième.
+
+Dans les scrutins prévus au présent article, en cas d'égalité des voix, le plus jeune des candidats est déclaré élu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-24
+
+Les délégués des élèves peuvent recueillir les avis et les propositions des élèves et les exprimer auprès du chef
+d'établissement et du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 18-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-25
+
+Les articles D. 422-22 et D. 422-23 s'appliquent aux personnels de toute catégorie, aux parents d'élèves et aux élèves sans
+condition de nationalité. 
+
+Les mandats des membres élus du conseil d'administration sont d'une année. Ils expirent le jour de la première réunion du
+conseil qui suit leur renouvellement. 
+
+Un membre élu ne peut siéger au conseil d'administration qu'au titre d'une seule catégorie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-22 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-26 (V)
+
+
+###### Article D422-26
+
+Le chef d'établissement assure l'organisation et veille au bon déroulement des élections. L'élection des représentants des
+personnels, celle des représentants des parents d'élèves et celle des élèves comme délégués de classe sont effectuées au plus
+tard avant la fin de la septième semaine de l'année scolaire. 
+
+Le chef d'établissement dresse, pour chacun des collèges définis à l'article D. 422-22, la liste électorale vingt jours avant
+l'élection. Les déclarations de candidature signées par les candidats lui sont remises dix jours francs avant l'ouverture du
+scrutin. Ces différents documents sont affichés dans un lieu facilement accessible aux personnels et aux parents. 
+
+Pour les élections des représentants des personnels et des parents d'élèves, les listes peuvent comporter au plus un nombre
+égal au double du nombre des sièges à pourvoir. Ce nombre ne peut être inférieur à deux noms. Les candidats sont inscrits
+sans mention de la qualité de titulaire et de suppléant. Les électeurs votent pour une liste sans panachage ni radiation. Les
+élus sont désignés selon l'ordre de présentation de la liste. Il est désigné au maximum autant de suppléants que de
+titulaires. En cas d'empêchement provisoire de membres titulaires, il est fait appel aux suppléants dans l'ordre de la
+liste. 
+
+Si un candidat se désiste moins de huit jours francs avant l'ouverture du scrutin, il ne peut être remplacé. 
+
+Lorsque le scrutin est uninominal, le nom de chaque candidat est accompagné de celui de son suppléant. 
+
+Le matériel de vote est envoyé aux électeurs six jours au moins avant la date du scrutin. Le vote par correspondance est
+admis. Les votes sont personnels et secrets. 
+
+Le chef d'établissement fixe la date du scrutin et les heures d'ouverture du bureau de vote sans que celles-ci puissent être
+inférieures à quatre heures consécutives pour les parents d'élèves et à huit heures consécutives pour les personnels. Il
+reçoit pour le vote par correspondance les bulletins sous double enveloppe, organise le dépouillement public et en publie les
+résultats. 
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
+la proclamation des résultats devant le recteur d'académie. Celui-ci statue dans un délai de huit jours à l'issue duquel la
+demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-22 (V)
+
+
+###### Article D422-27
+
+Le représentant des collectivités territoriales ou de leurs groupements mentionnés aux 6° et 7° de l'article D. 422-12 et 5°
+et 6° de l'article D. 422-14 sont désignés en leur sein par l'assemblée délibérante. Il est procédé à une nouvelle
+désignation à la suite de chaque renouvellement partiel ou total de l'assemblée délibérante de la collectivité. 
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-12 (V)
+	  - Code de l'éducation - art. D422-14 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-29 (VD)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-28
+
+Les personnalités qualifiées siégeant au conseil d'administration sont désignées pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-29
+
+Lorsqu'un membre élu perd la qualité au titre de laquelle il a été désigné ou quand une vacance survient par décès, mutation,
+démission ou empêchement définitif constaté par le chef d'établissement, il est remplacé, selon le cas, par son suppléant ou
+par le premier suppléant dans l'ordre de la liste, pour la durée du mandat restant à courir. 
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article D. 422-27 perd la qualité au titre de laquelle
+il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif de la
+collectivité concernée, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant
+suppléant. 
+
+En cas de décès, de démission ou d'empêchement définitif constaté par le chef d'établissement d'une personnalité qualifiée,
+une nouvelle personnalité qualifiée est désignée, pour la durée du mandat restant à courir, dans les conditions fixées à
+l'article D. 422-13.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. 422-33 (V)
+	  - Code de l'éducation - art. D422-62 (V)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+	  - Code de l'éducation - art. R453-26 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-13 (V)
+	  - Code de l'éducation - art. D422-27 (V)
+
+
+###### Article D422-30
+
+Nul ne peut être membre du conseil d'administration s'il a été privé par jugement de tout ou partie des droits civils,
+civiques ou de famille mentionnés à l'article 131-26 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 24 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26 (V)
+
+
+###### Article D422-31
+
+Le conseil d'administration se réunit en séance ordinaire à l'initiative du chef d'établissement au moins une fois par an. Il
+est en outre réuni en séance extraordinaire à la demande de l'autorité académique, du chef d'établissement ou de la moitié au
+moins de ses membres sur un ordre du jour déterminé. 
+
+Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit en cas d'urgence à un jour. 
+
+Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents en début de séance est égal à la
+majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
+d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il délibère alors
+valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois jours. 
+
+L'ordre du jour est adopté en début de séance ; toute question inscrite à l'ordre du jour et ayant trait au domaine
+d'autonomie pédagogique et éducative de l'établissement défini à l'article D. 422-2 doit avoir fait l'objet d'une instruction
+préalable de la commission permanente, dont les conclusions sont communiquées aux membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. 422-33 (V)
+	  - Code de l'éducation - art. D422-59 (VD)
+	  - Code de l'éducation - art. D422-63 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-2 (V)
+
+
+##### Sous-paragraphe 3 : La commission permanente.
+
+###### Article D422-32
+
+La commission permanente dans les collèges et lycées comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ;
+
+5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les collèges, le chef de travaux dans les lycées ;
+
+6° Cinq représentants élus des personnels, dont quatre au titre des personnels d'enseignement, de direction, d'éducation, de
+surveillance ou de documentation et un au titre des personnels administratifs ou d'intendance, sociaux et de santé,
+techniques, ouvriers et de service ou de laboratoire ;
+
+7° Cinq représentants des parents d'élèves et des élèves, dont quatre représentants élus des parents d'élèves et un
+représentant élu des élèves dans les collèges, et trois représentants élus des parents d'élèves et deux représentants élus
+des élèves dans les lycées ;
+
+8° Un représentant de la commune siège de l'établissement.
+
+Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus, au
+scrutin proportionnel au plus fort reste, en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives. Le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service et le représentant des élèves sont élus au scrutin uninominal à un tour en leur sein par les membres du conseil
+d'administration appartenant à leurs catégories respectives. Le représentant de la commune siège est désigné par la
+collectivité concernée parmi ses représentants au conseil d'administration.
+
+Pour chaque membre élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-63 (VD)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-33
+
+La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie
+obligatoirement des questions qui relèvent des domaines définis à l'article D. 422-2. Elle veille à ce qu'il soit procédé à
+toutes consultations utiles et notamment à celle des équipes pédagogiques intéressées. 
+
+Les règles fixées à l'article D. 422-31 en matière de convocation et de quorum pour le conseil d'administration sont
+applicables à la commission permanente. Les règles fixées au premier alinéa de l'article D. 422-29, en ce qui concerne le
+remplacement des membres du conseil d'administration, sont applicables aux membres de la commission permanente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-2 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+	  - Code de l'éducation - art. D422-31 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-63 (VD)
+
+
+##### Sous-paragraphe 4 : L'assemblée générale des délégués des élèves, le conseil des délégués  pour la vie lycéenne et le conseil de section internationale.
+
+###### Article D422-34
+
+Dans les lycées, l'ensemble des délégués des élèves est réuni en assemblée générale sous la présidence du chef
+d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire. Le ou les
+adjoints du chef d'établissement et les conseillers principaux d'éducation assistent aux réunions.
+
+Au cours de la première réunion, il est procédé à l'élection :
+
+1° Des représentants des délégués des élèves au conseil d'administration ;
+
+2° Des trois représentants des délégués des élèves au conseil des délégués pour la vie lycéenne.
+
+L'assemblée générale des délégués des élèves constitue un lieu d'échanges sur les questions relatives à la vie et au travail
+scolaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+###### Article D422-35
+
+Dans les lycées, le conseil des délégués pour la vie lycéenne est composé de dix lycéens élus au scrutin plurinominal à un
+tour, dont trois élus pour un an par les délégués des élèves et sept élus pour deux ans par l'ensemble des élèves de
+l'établissement. En cas d'égalité des voix, le plus jeune des candidats est déclaré élu.
+
+Pour chaque titulaire, un suppléant est élu dans les mêmes conditions. Lorsque le titulaire élu par l'ensemble des élèves de
+l'établissement est en dernière année de cycle d'études, son suppléant doit être inscrit dans une classe de niveau inférieur.
+Un membre suppléant ne peut siéger qu'en l'absence du titulaire. Lorsqu'un membre titulaire cesse d'être élève de
+l'établissement ou démissionne, il est remplacé par son suppléant pour la durée du mandat restant à courir.
+
+Le mandat des membres du conseil expire le jour de la première réunion qui suit l'élection de la catégorie à laquelle ils
+appartiennent.
+
+Le conseil est présidé par le chef d'établissement. Les représentants des lycéens élisent, parmi eux, un vice-président pour
+une durée d'un an.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 29, alinéas 1 à 3 et 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-63 (VD)
+
+
+###### Article D422-36
+
+Assistent, à titre consultatif, aux réunions du conseil des délégués des élèves pour la vie lycéenne des représentants des
+personnels et des parents d'élèves dont le nombre est égal à celui des membres. Les représentants des personnels sont
+désignés chaque année, pour cinq d'entre eux, parmi les membres volontaires des personnels d'enseignement et d'éducation et,
+pour trois d'entre eux, parmi les membres volontaires des personnels administratifs, sociaux et de santé, techniques,
+ouvriers et de service de l'établissement, par le conseil d'administration du lycée, sur proposition des représentants de
+leur catégorie au sein de ce conseil. Deux représentants des parents d'élèves sont élus, en leur sein, par les représentants
+des parents d'élèves au conseil d'administration.
+
+Le président peut, à son initiative ou à la demande de la moitié des membres du conseil, inviter à participer à la séance
+toute personne dont la consultation est jugée utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 29, alinéas 4 et 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-37
+
+Le chef d'établissement assure l'organisation et veille au bon déroulement des élections de l'ensemble des représentants
+lycéens au conseil des délégués pour la vie lycéenne. Celles-ci ont lieu au plus tard avant la fin de la septième semaine de
+l'année scolaire. Le vote par correspondance est autorisé, dans les conditions définies par le conseil d'administration.
+
+Pour les sièges à pourvoir au suffrage direct, le chef d'établissement recueille les candidatures qui lui parviennent dix
+jours au moins avant la date du scrutin. Chaque candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont
+la scolarité se déroule en dehors de l'établissement peuvent voter par correspondance selon des modalités fixées par le
+règlement intérieur de l'établissement.
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables, à compter de
+la proclamation des résultats, devant le chef d'établissement, qui statue dans un délai de huit jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 29-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-38
+
+Le conseil des délégués pour la vie lycéenne exerce les attributions suivantes : 
+
+1° Il formule des propositions sur la formation des représentants des élèves et les conditions d'utilisation des fonds
+lycéens ; 
+
+2° Il est obligatoirement consulté : 
+
+a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et
+sur l'élaboration du projet d'établissement et du règlement intérieur ; 
+
+b) Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à
+l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ; 
+
+c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des
+activités sportives, culturelles et périscolaires. 
+
+Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont portés à la connaissance et, le cas échéant,
+inscrits à l'ordre du jour du conseil d'administration et peuvent faire l'objet d'un affichage conformément aux dispositions
+de l'article 8-1 du décret n° 86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements
+d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses
+applicables aux établissements d'enseignement de second degré municipaux ou départementaux. 
+
+Le conseil des délégués pour la vie lycéenne se réunit, sur convocation du chef d'établissement, avant chaque séance
+ordinaire du conseil d'administration. Il est, en outre, réuni en séance extraordinaire, à la demande de la moitié de ses
+membres. L'ordre du jour est arrêté par le chef d'établissement. Sont inscrites à l'ordre du jour toutes les questions ayant
+trait aux domaines définis ci-dessus, dont l'inscription est demandée par au moins la moitié des membres du conseil. 
+
+Le conseil ne peut siéger valablement que si la majorité des lycéens est présente. Si le quorum n'est pas atteint, le chef
+d'établissement convoque à nouveau le conseil dans un délai de trois jours au minimum et de huit jours au maximum. Le conseil
+délibère alors valablement quel que soit le nombre des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 29-1 (Ab)
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 8-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-63 (VD)
+	  - Code de l'éducation - art. R511-2 (V)
+
+
+###### Article D422-39
+
+Dans les collèges et les lycées comportant une ou plusieurs sections internationales, un conseil de section internationale
+exerce les compétences consultatives prévues à l'article D. 421-137 et est composé conformément aux dispositions de l'article
+D. 421-139. Toutefois, la représentation des collectivités territoriales au sein de cette instance comprendra, tant pour les
+collèges que pour les lycées, un représentant de la commune siège ou du groupement de communes concernées siégeant au conseil
+d'administration et, respectivement pour les collèges et pour les lycées, le représentant du conseil général ou le
+représentant du conseil régional siégeant au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-137 (V)
+	  - Code de l'éducation - art. D421-139 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+##### Sous-paragraphe 5 : Autres conseils compétents en matière de scolarité.
+
+###### Article D422-40
+
+Les règles relatives au conseil de discipline des établissements d'enseignement relevant de la présente sous-section, aux
+modalités d'appel de ses décisions et à la procédure disciplinaire sont fixées par les articles 31,31-1 et 31-2 du décret n°
+86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements d'enseignement dont la
+responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses applicables aux établissements
+d'enseignement de second degré municipaux ou départementaux et par le décret n° 85-1348 du 18 décembre 1985 relatif aux
+procédures disciplinaires dans les collèges, les lycées et les établissements d'éducation spéciale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°85-1348 du 18 décembre 1985 (V)
+	  - Décret n°86-164 du 31 janvier 1986 - art. 31 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - article créé
+
+
+###### Article D422-41
+
+Les équipes pédagogiques constituées par classe, ou groupe d'élèves éventuellement regroupés par cycles favorisent la
+concertation entre les enseignants, en particulier en ce qui concerne l'élaboration et la mise en œuvre du projet
+d'établissement et la coordination des enseignements et des méthodes d'enseignement. Elles assurent le suivi et l'évaluation
+des élèves et organisent l'aide à leur travail personnel. Elles conseillent les élèves pour le bon déroulement de leur
+scolarité et le choix de leur orientation. Dans le cadre de ces missions, les équipes pédagogiques sont chargées des
+relations avec les familles et les élèves et travaillent en collaboration avec d'autres personnels, notamment les personnels
+d'éducation et d'orientation.
+
+Les équipes pédagogiques constituées par discipline ou spécialité favorisent les coordinations nécessaires entre les
+enseignants, en particulier pour le choix des matériels techniques, des manuels et des supports pédagogiques.
+
+Les équipes pédagogiques peuvent être réunies à l'initiative du chef d'établissement sous sa présidence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 32 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-42
+
+Dans les collèges et les lycées, pour chaque classe ou groupe d'élèves, un conseil de classe, présidé par le chef
+d'établissement ou son représentant, comprend les membres suivants :
+
+1° Les personnels enseignants de la classe ou du groupe de classes ;
+
+2° Les deux délégués des parents d'élèves de la classe ou du groupe de classes ;
+
+3° Les deux délégués d'élèves de la classe ou du groupe de classes ;
+
+4° Le conseiller principal d'éducation ;
+
+5° Le conseiller d'orientation-psychologue.
+
+Sont également membres du conseil de classe lorsqu'ils ont eu à connaître du cas personnel d'un ou de plusieurs élèves de la
+classe :
+
+6° Le médecin de santé scolaire ou le médecin d'orientation scolaire et professionnelle ou, à défaut, le médecin de
+l'établissement ;
+
+7° L'assistant de service social ;
+
+8° L'infirmier ou l'infirmière.
+
+Le chef d'établissement réunit, au cours du premier trimestre, les responsables des listes de candidats qui ont obtenu des
+voix lors de l'élection des représentants de parents d'élèves au conseil d'administration, pour désigner les deux délégués
+titulaires et les deux délégués suppléants des parents d'élèves de chaque classe, à partir des listes qu'ils présentent à
+cette fin. Le chef d'établissement répartit les sièges compte tenu des suffrages obtenus lors de cette élection.
+
+Dans le cas où, pour une classe, il s'avérerait impossible de désigner des parents d'élèves de la classe, les sièges des
+délégués pourraient être attribués à des parents d'élèves d'autres classes volontaires.
+
+Les parents d'élèves ne sont pas représentés dans le conseil de classe pour les formations postérieures au baccalauréat de
+l'enseignement secondaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 33 al 1 à 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-43
+
+Le conseil de classe se réunit au moins trois fois par an et chaque fois que le chef d'établissement le juge utile. 
+
+Le conseil de classe examine les questions pédagogiques intéressant la vie de la classe, notamment les modalités
+d'organisation du travail personnel des élèves. 
+
+Le professeur principal qui assure la tâche de coordination et de suivi mentionnée à l'article 3 du décret n° 93-55 du 15
+janvier 1993 instituant une indemnité de suivi et d'orientation des élèves ou un représentant de l'équipe pédagogique expose
+au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation
+formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social
+apportés par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux le guider
+dans son travail et ses choix d'études. 
+
+Dans les mêmes conditions et compte tenu des éléments d'information complémentaire recueillis à la demande, ou avec l'accord
+de la famille ou de l'élève majeur, le conseil de classe émet des propositions d'orientation dans les conditions définies à
+l'article D. 331-32 ou de redoublement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 33 al 15 à 18 (Ab)
+
+	**Cite**:
+
+	  - Décret n°93-55 du 15 janvier 1993 - art. 3 (V)
+	  - Code de l'éducation - art. D331-32 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-44
+
+Des relations d'information mutuelle sont établies à l'initiative du chef d'établissement entre les enseignants, les élèves
+et les parents d'un même groupe, d'une même classe ou d'un même niveau, en particulier au moment de la rentrée scolaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 33 al 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Paragraphe 2 : Organisation financière.
+
+##### Sous-paragraphe 1 : Dispositions générales.
+
+###### Article D422-45
+
+Sous réserve des dispositions des articles D. 422-46 à D. 422-53, les établissements d'enseignement visés à l'article D.
+422-1 sont soumis au régime financier résultant des dispositions de l'article 60 de la loi n° 63-156 du 23 février 1963 de
+finances pour 1963, de la première partie et des articles 154 à 189 du décret n° 62-1587 du 29 décembre 1962 portant
+règlement général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 154 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+	  - Code de l'éducation - art. D422-1 (V)
+	  - Code de l'éducation - art. D422-46 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 34 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-21 (V)
+	  - Code de l'éducation - art. D454-29 (V)
+
+
+###### Article D422-46
+
+Le budget de ces établissements, qui comprend une section de fonctionnement et une section d'investissement, est établi dans
+la limite de leurs ressources et dans le respect de la nomenclature fixée conjointement par le ministre chargé du budget et
+le ministre chargé de l'éducation.
+
+Ces ressources comprennent :
+
+1° Des subventions de l'Etat ;
+
+2° Toute autre contribution d'une collectivité publique ;
+
+3° Des ressources propres, notamment les dons et legs, les recettes de pension et de demi-pension, le produit de la vente des
+objets confectionnés dans les ateliers, de la taxe d'apprentissage, des conventions de formation professionnelle et des
+conventions d'occupation des logements et locaux et le produit de l'aliénation des biens propres.
+
+Les dépenses de la section de fonctionnement prévues au budget pour le service général ont notamment pour objet les activités
+pédagogiques et éducatives, le chauffage et l'éclairage, l'entretien des matériels et des locaux, les charges générales, la
+restauration et l'internat, les aides aux élèves.
+
+En outre, des services spéciaux permettent de distinguer notamment l'enseignement technique, la formation continue, les
+séquences éducatives, les activités périscolaires et parascolaires, les projets d'actions éducatives, les groupements de
+service, les sections sports-études, les transports scolaires organisés par l'établissement.
+
+Le budget des établissements comporte en annexe un état récapitulatif faisant apparaître les emplois dont ils disposent à
+quelque titre que ce soit.
+
+Lorsque la formation continue est gérée par un établissement support, la gestion est effectuée sous la forme d'un service à
+comptabilité distincte pour tous les établissements adhérents au groupement d'établissements. L'apprentissage est également
+géré sous forme de service à comptabilité distincte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-45 (VD)
+
+
+###### Article D422-47
+
+Le projet de budget est préparé par le chef d'établissement. Il doit être soumis au vote du conseil d'administration et
+adopté en équilibre réel dans le délai de trente jours suivant la notification de la subvention de l'Etat. Il est transmis à
+l'autorité académique dans les cinq jours suivant le vote. Il devient exécutoire dans un délai de trente jours à compter de
+la date de réception par l'autorité de tutelle, sauf si elle a fait connaître son désaccord motivé sur le budget. Dans ce cas
+ou lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la subvention de l'Etat, il est réglé
+par l'autorité de tutelle.
+
+Le budget des établissements est transmis à l'agent comptable dès qu'il est adopté ou réglé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-59 (VD)
+
+
+###### Article D422-48
+
+Les modifications apportées au budget initial en cours d'exercice sont adoptées et deviennent exécutoires dans les mêmes
+conditions que le budget.
+
+Sont limitatifs les crédits inscrits aux chapitres budgétaires et, plus généralement, les crédits auxquels une disposition
+législative ou réglementaire a donné ce caractère.
+
+Par dérogation aux dispositions du deuxième alinéa, le chef d'établissement peut directement porter au budget les
+modifications suivantes :
+
+1° Les augmentations de crédits provenant de l'encaissement de ressources liées à des activités spécifiques de
+l'établissement dont le montant ne peut être arrêté avec exactitude lors de l'élaboration du budget ;
+
+2° Dans la mesure où elles n'ont pas pu faire l'objet d'une inscription au budget initial, les augmentations de crédits,
+suivies en ressources affectées, relatives à des recettes encaissées par l'établissement mais qui ne lui sont définitivement
+acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
+fonds.
+
+Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
+d'administration.
+
+Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
+l'intérieur d'un chapitre.
+
+Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 37 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-49
+
+Si le budget de l'établissement n'est pas exécutoire au début de l'exercice budgétaire, les opérations de recettes et de
+dépenses sont effectuées temporairement sur la base des prévisions de l'exercice précédent, dans la limite des crédits
+ouverts et déduction faite, le cas échéant, des crédits affectés à des dépenses non renouvelables.
+
+Toutefois, en cas de nécessité, il peut être tenu compte, après accord de l'autorité de tutelle, de l'incidence de la
+reconduction des mesures prises dans le budget de l'exercice précédent au titre de la rentrée scolaire, pour la détermination
+des limites d'engagement des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 38 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-50
+
+Plusieurs établissements peuvent être constitués, après accord entre eux, en un groupement comptable par décision de
+l'autorité de tutelle. Chacun des établissements appartenant à un groupement comptable conserve sa personnalité morale et son
+autonomie financière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 39 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-51
+
+Un poste comptable est créé dans l'établissement siège du groupement. L'agent comptable de cet établissement, agent comptable
+du groupement, est chargé de la tenue de la comptabilité générale de chaque établissement membre du groupement.
+
+Lorsque le conseil d'administration d'un établissement membre d'un groupement est appelé à examiner une question relative à
+l'organisation financière, l'agent comptable assiste aux travaux du conseil avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 40 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-52
+
+L'agent comptable tient la comptabilité générale dans les conditions définies par le plan comptable applicable à
+l'établissement, approuvé par arrêté interministériel pris après avis du Conseil national de la comptabilité.
+
+Lorsque l'agent comptable ne peut tenir lui-même la comptabilité matière, il en exerce le contrôle. Les instructions données
+à ce sujet au préposé doivent avoir recueilli l'accord de l'agent comptable qui demande qu'il soit procédé à l'inventaire
+annuel des stocks.
+
+En cas de perte, destruction ou vol des justifications remises à l'agent comptable, le chef d'établissement pourvoit à leur
+remplacement en établissant un certificat visé par le comptable supérieur du Trésor territorialement compétent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 41 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-42 (V)
+
+
+###### Article D422-53
+
+Les agents comptables sont nommés par le ministre chargé de l'éducation parmi les personnels de l'administration scolaire et
+universitaire, conformément aux dispositions de l'article 16 du décret n° 62-1587 du 29 décembre 1962 portant règlement
+général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 16
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 42 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
+
+
+##### Sous-paragraphe 2 : Le service annexe d'hébergement.
+
+###### Article D422-54
+
+Un service d'hébergement peut être créé dans l'établissement. Ce service accueille, dans le cadre de l'établissement, des
+élèves internes ou demi-pensionnaires. Les élèves d'un établissement d'enseignement peuvent être hébergés dans un service
+annexé à un autre établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 43 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-55
+
+Les dépenses de fonctionnement du service annexe d'hébergement sont entièrement supportées par les familles et par l'Etat.
+
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion, d'éducation et de surveillance du
+service d'hébergement, sauf les charges résultant de l'emploi des maîtres d'internat au pair. La rémunération des personnels
+soignants, ouvriers et de service est partagée entre l'Etat et les familles. Le ministre chargé de l'éducation fixe, par
+arrêté, la participation que les familles apportent à ce titre pour chaque élève interne et demi-pensionnaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 44 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-56
+
+Une délibération du conseil d'administration de l'établissement fixe les tarifs des frais d'hébergement. 
+
+Ces tarifs comprennent le coût direct des prestations et une participation aux charges générales de fonctionnement qui ne
+peut être inférieure à 30 % du tarif de demi-pension ou du tarif appliqué aux commensaux et hôtes prévus à l'article D.
+422-58, ni être supérieure à 35 et 25 % des mêmes tarifs. 
+
+Des tarifs d'hébergement différents peuvent être pratiqués selon les prestations servies en fonction des niveaux ou de la
+nature des formations, notamment pour les élèves des classes de sixième et cinquième, pour ceux des classes préparatoires aux
+grandes écoles, sections de techniciens supérieurs, sections sport-études et sections hôtelières.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 45 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-58 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-57
+
+Les frais d'hébergement sont forfaitaires, payables par trimestre et d'avance.
+
+Lorsque, au cours d'un trimestre, l'hébergement n'est pas assuré, lorsqu'un élève hébergé est absent pendant plus de deux
+semaines pour raison médicale ou familiale dûment justifiée, des remises d'ordre peuvent être demandées par les familles, en
+remboursement des frais versés.
+
+Pour les demi-pensionnaires, le conseil d'administration, sur proposition du chef d'établissement, peut autoriser le paiement
+"au ticket". Le prix des repas payés "au ticket" peut être supérieur à celui qui résulte de l'application du forfait.
+
+En cas de défaut de paiement des frais scolaires, le chef d'établissement peut prononcer l'exclusion de l'élève du service
+d'hébergement. Toutefois, dans les établissements où cette mesure pourrait entraîner l'exclusion totale de l'élève, et
+notamment dans les établissements qui reçoivent des pensionnaires, la décision est prise par l'autorité de tutelle sur
+rapport du chef d'établissement, après avis du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 46 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D422-58
+
+Parmi les personnels des établissements, les catégories d'agents suivantes sont commensales de droit :
+
+1° Les maîtres d'internat et les surveillants d'externat à service complet ou partiel et tout personnel assimilé ;
+
+2° Les assistants étrangers ;
+
+3° Les infirmiers et les infirmières ;
+
+4° Les agents de service et les personnels de laboratoire des catégories C et D de la fonction publique.
+
+Les commensaux de droit paient pour trois repas quotidiens 1/270 du tarif annuel de pension des élèves des classes de
+quatrième à terminale ; un abattement de 20 % est de plus consenti aux agents de service et de laboratoire. Le déjeuner et le
+dîner représentent chacun 45 % de ce tarif et le petit déjeuner 10 %.
+
+Les chefs de cuisine ou leurs remplaçants effectifs lorsqu'ils sont en congé régulier sont dispensés de tout reversement.
+
+Tous les autres personnels des établissements visés ci-dessus peuvent être admis à titre d'hôtes permanents ou de passage,
+sur décision du chef d'établissement prise après avis du conseil d'administration.
+
+En deçà de l'indice des traitements de la fonction publique limitant le droit à prestations interministérielles, ces
+personnels paient le tarif des élèves de quatrième à terminale, majoré de 15 %. Au-delà de l'indice plafond, le tarif
+applicable aux personnels visés au précédent alinéa est majoré de 25 %. Lorsque les tarifs sont payés "au ticket" par les
+élèves, le pourcentage d'augmentation est déterminé par le conseil d'administration de l'établissement.
+
+L'admission peut être étendue, dès lors que les capacités d'hébergement le permettent, aux élèves de passage, au tarif des
+classes correspondantes et au tarif majoré des personnels visés au huitième alinéa du présent article, aux auditeurs des
+cours de toute nature organisés dans l'établissement, aux membres des conseils d'administration des établissements dont les
+élèves sont nourris à ladite table, enfin à des personnes étrangères au service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 47 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-56 (V)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D422-59
+
+Pour l'application au lycée polyvalent et lycée professionnel de Saint-Pierre-et-Miquelon des dispositions des articles D.
+422-8, D. 422-9, D. 422-10, D. 422-11, D. 422-13, D. 422-15, D. 422-18, D. 422-21, D. 422-26, D. 422-31 et D. 422-47, les
+mots : « autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « chef du
+service de l'éducation nationale ». A l'article D. 422-9, les mots : « représentant de l'Etat dans le département » sont
+remplacés par les mots : « le préfet ou son représentant ».
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2005-1321 du 25 octobre 2005 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-21 (V)
+	  - Code de l'éducation - art. D422-31 (V)
+	  - Code de l'éducation - art. D422-47 (V)
+	  - Code de l'éducation - art. D422-8 (V)
+	  - Code de l'éducation - art. D422-9 (V)
+
+
+##### Sous-section 2 : Les établissements relevant du ministère de l'agriculture.
+
+###### Article R422-60
+
+Les règles relatives aux établissements publics nationaux d'enseignement et de formation professionnelle agricoles mentionnés
+à l'article D. 211-12 du code de l'éducation sont fixées par les dispositions de la section 4 du chapitre Ier du titre Ier du
+livre VIII de la partie réglementaire du code rural et par le décret n° 99-298 du 16 avril 1999 relatif à l'organisation
+administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à
+l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°99-298 du 16 avril 1999 (V)
+	  - Code de l'éducation - art. D211-12 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+##### Section 2 : Les établissements municipaux ou départementaux.
+
+###### Article D422-61
+
+Sont applicables aux collèges et aux lycées visés à l'article L. 422-2 les articles D. 422-2, D. 422-4, D. 422-5, D. 422-15,
+D. 422-18, D. 422-19, la dernière phrase de l'article D. 422-20, les articles D. 422-34 à D. 422-38, et D. 422-40 à D.
+422-44. 
+
+Les règles relatives aux libertés d'expression, d'association, de réunion et de publication dont disposent les élèves de ces
+établissements, à l'obligation d'assiduité à laquelle ils sont soumis ainsi qu'au conseil de discipline de l'établissement et
+à l'appel de ses décisions sont celles mentionnées aux articles 4-1 à 4-5,8-1,31,31-1 et 31-2 du décret n° 86-164 du 31
+janvier 1986 portant organisation administrative et financière des établissements d'enseignement dont la responsabilité et la
+charge incombent entièrement à l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de
+second degré municipaux ou départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 (V)
+	  - Code de l'éducation - art. D422-15 (V)
+	  - Code de l'éducation - art. D422-2 (V)
+	  - Code de l'éducation - art. D422-20 (V)
+	  - Code de l'éducation - art. D422-34 (V)
+	  - Code de l'éducation - art. L422-2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 48 sauf ecqc art 4-1, 4-2, 4-3 (en partie), 4-4, 4-5 (en partie), 8-1, 31, 31-1, et 31-2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-62 (V)
+	  - Code de l'éducation - art. D422-63 (VD)
+	  - Code de l'éducation - art. D422-64 (V)
+	  - Code de l'éducation - art. D422-66 (V)
+	  - Code de l'éducation - art. D491-8 (V)
+	  - Code de l'éducation - art. D492-7 (V)
+	  - Code de l'éducation - art. R511-2 (V)
+
+
+###### Article D422-62
+
+Le chef d'établissement des collèges et des lycées mentionnés à l'article D. 422-61 représente l'Etat au sein de
+l'établissement. 
+
+En cette qualité, le chef d'établissement exerce les compétences prévues à l'article D. 422-7. 
+
+Par ailleurs, il exerce les compétences suivantes : 
+
+1° Il préside le conseil d'établissement et les différentes instances de l'établissement ; 
+
+2° Il prépare les travaux du conseil d'établissement et exécute ses délibérations ; 
+
+3° Il soumet au conseil d'établissement les mesures à prendre dans les domaines définis à l'article D. 422-2. 
+
+En cas de difficultés graves dans le fonctionnement de l'établissement et s'il y a urgence, le chef d'établissement exerce
+les compétences prévues à l'article D. 422-9. Dans ce cas, il expose, dans les meilleurs délais, au conseil d'établissement
+les décisions prises et en rend compte à l'autorité académique et à la collectivité locale. 
+
+En cas d'empêchement ou d'absence du chef d'établissement, sa suppléance est assurée dans les conditions prévues à l'article
+D. 422-10, exceptées celles fixées aux deuxième et cinquième alinéas.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 49 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-10 (V)
+	  - Code de l'éducation - art. D422-22 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+	  - Code de l'éducation - art. D422-7 (V)
+
+
+###### Article D422-63
+
+Le conseil d'établissement des collèges et des lycées mentionnés à l'article D. 422-61 est composé conformément aux
+dispositions des articles D. 422-12 à D. 422-14. 
+
+Toutefois, la représentation des collectivités locales concerne exclusivement la collectivité qui assure la gestion
+financière de l'établissement. Cette représentation est fixée par la collectivité locale et est au plus égale à quatre ou
+trois membres, selon que le conseil d'établissement doit comprendre 30 ou 24 membres. 
+
+En outre, lorsque le conseil d'établissement comprend une personnalité qualifiée, celle-ci est désignée par la collectivité
+qui assure la gestion financière de l'établissement. Si le conseil d'établissement comprend deux personnalités qualifiées,
+l'une est désignée, sur proposition du chef d'établissement, par l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, l'autre par la collectivité qui assure la gestion financière de l'établissement. 
+
+Les membres du conseil d'établissement sont désignés conformément aux dispositions des articles D. 422-22 à D. 422-30. 
+
+Les dispositions de l'article D. 422-31 relatives à la convocation et à la réunion du conseil d'administration sont
+applicables au conseil d'établissement des établissements municipaux ou départementaux. 
+
+La commission permanente et le conseil des délégués des élèves sont composés conformément aux articles D. 422-32 et D. 422-35
+et exercent les compétences prévues aux articles D. 422-33 et D. 422-38.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-12 (V)
+	  - Code de l'éducation - art. D422-22 (V)
+	  - Code de l'éducation - art. D422-31 (V)
+	  - Code de l'éducation - art. D422-32 (V)
+	  - Code de l'éducation - art. D422-33 (V)
+	  - Code de l'éducation - art. D422-35 (V)
+	  - Code de l'éducation - art. D422-38 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+###### Article D422-64
+
+Dans les établissements mentionnés à l'article D. 422-61, le conseil d'établissement, sur le rapport du chef d'établissement,
+exerce les compétences prévues aux 1°,2°,3° et aux a, b, d, du 6° de l'article D. 422-16 ainsi qu'au 8° de l'article D.
+422-16 en tant qu'elles ne concernent pas le fonctionnement matériel de l'établissement. Sur la saisine du chef
+d'établissement, le conseil d'établissement émet un avis sur les questions prévues aux 1°,2°,3° de l'article D. 422-17. Le
+conseil d'établissement peut, à son initiative, adopter tous vœux sur les questions intéressant la vie de l'établissement. 
+
+Le conseil d'établissement est tenu informé chaque année du montant des crédits prévus pour le fonctionnement de
+l'établissement, ainsi que des dépenses effectuées au cours de l'exercice écoulé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 51 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-16 (V)
+	  - Code de l'éducation - art. D422-17 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+###### Article D422-65
+
+En cas d'incidences des actions d'expérimentations pédagogiques prévues au troisième alinéa de l'article L. 401-1 sur son
+budget, celles-ci sont subordonnées à l'accord de la collectivité de rattachement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 52, 2ème phrase (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L401-1 (V)
+
+
+###### Article D422-66
+
+Les délibérations du conseil d'établissement des établissements visés à l'article D. 422-61 sont exécutoires quinze jours
+après leur transmission à l'autorité académique par le chef d'établissement. Celui-ci transmet également à l'autorité
+académique ses actes relatifs au contenu ou à l'organisation de l'action éducatrice. 
+
+Dans le délai prévu au premier alinéa, l'autorité académique peut prononcer l'annulation des délibérations du conseil
+d'établissement relatives au contenu ou à l'organisation de l'action éducatrice s'ils sont contraires aux lois et règlements
+ou de nature à porter atteinte au fonctionnement du service public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 53 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-61 (V)
+
+
+#### Chapitre III : Les groupements d'établissements scolaires publics.
+
+##### Section 1 : La formation professionnelle tout au long de la vie.
+
+##### Sous-section 1 : Les groupements d'établissements.
+
+##### Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale.
+
+###### Article D423-1
+
+Sont soumis aux dispositions du présent article et des articles D. 423-3 à D. 423-14 les groupements d'établissements
+(GRETA), mentionnés à l'article L. 423-1, constitués entre les établissements scolaires publics d'enseignement relevant du
+ministère de l'éducation nationale pour exercer leur mission de formation professionnelle continue dans le cadre de la
+formation professionnelle tout au long de la vie. 
+
+Ils sont créés par une convention conclue entre les établissements. 
+
+Ils s'intègrent dans le réseau d'offre national et académique de formation professionnelle continue du ministère de
+l'éducation nationale. 
+
+Dans le cadre des orientations nationales, le recteur définit une stratégie académique de développement. Il arrête la carte
+des groupements et favorise le développement de l'activité du réseau académique, dans une logique de cohérence et de
+solidarité entre les groupements. 
+
+Chaque groupement élabore un plan pluriannuel de développement s'inscrivant dans cette stratégie et tenant compte de sa
+propre situation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 1 al 1 à 3 (Ab)
+	  - Décret n°93-432 du 24 mars 1993 - art. 10 art 10, al 2 (1ère phrase) et 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-11 (V)
+	  - Code de l'éducation - art. D423-2 (V)
+	  - Code de l'éducation - art. D423-3 (V)
+	  - Code de l'éducation - art. D423-4 (V)
+	  - Code de l'éducation - art. D423-6 (V)
+	  - Code de l'éducation - art. D423-7 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L423-1
+
+
+###### Article D423-2
+
+Par dérogation aux dispositions de l'article D. 423-1, un établissement peut être autorisé par le ministre chargé de
+l'éducation, après consultation du recteur, à mener des actions de formation professionnelle continue en dehors d'un
+groupement lorsque l'établissement exerce en ce domaine une mission particulière d'intérêt national.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D423-1
+
+
+###### Article D423-3
+
+La convention mentionnée à l'article D. 423-1 est approuvée par le recteur après avis du ou des inspecteurs d'académie,
+directeurs des services départementaux de l'éducation nationale. 
+
+Elle précise notamment les droits et obligations des établissements, les règles d'organisation, de fonctionnement et de
+dissolution du groupement. Elle mentionne également l'établissement support du groupement. 
+
+La convention est conclue pour une durée de six ans. Elle peut être modifiée et renouvelée dans les formes prévues à l'alinéa
+premier du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-1 (Ab)
+	  - Code de l'éducation - art. D423-7 (V)
+
+
+###### Article D423-4
+
+Le conseil interétablissements comprend l'ensemble des chefs d'établissement et le fonctionnaire ou agent chargé de la
+gestion du groupement.
+
+Le conseil désigne son président parmi ses membres pour une période de trois ans renouvelable. Le président peut être le chef
+de l'établissement support du groupement.
+
+Le conseil peut proposer au recteur la désignation d'un fonctionnaire de catégorie A chargé de la direction technique du
+groupement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 4 al 1 et 6 (2ème et 3 ème phrases) (Ab)
+	  - Décret n°92-275 du 26 mars 1992 - art. 5 al 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-5
+
+Le recteur ou son représentant, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou
+son représentant assistent de droit aux séances du conseil interétablissements.
+
+Participent aux séances du conseil, avec voix consultative :
+
+1° L'agent comptable du groupement ;
+
+2° Le cas échéant, le fonctionnaire ou agent chargé de la direction technique du groupement ;
+
+3° Les conseillers en formation continue ;
+
+4° Les représentants, d'une part, des personnels enseignants, d'autre part, des autres catégories de personnels ;
+
+5° Un représentant du conseil régional ;
+
+6° Des personnalités qualifiées désignées par les chefs d'établissement du conseil, dont notamment des représentants des
+organisations d'employeurs et de salariés à parts égales ;
+
+7° Le directeur du centre d'information et d'orientation.
+
+Peuvent également assister aux séances du conseil des représentants des services appelés à collaborer avec le groupement et,
+en tant que de besoin, toute personne dont la présence est jugée utile.
+
+Le conseil se réunit au minimum trois fois par an sur convocation du président, à la demande d'un tiers de ses membres ou à
+la demande du recteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 4 al 2 à 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-11 (Ab)
+
+
+###### Article D423-6
+
+Le conseil interétablissements exerce les compétences suivantes : 
+
+1° Il décide du changement éventuel de l'établissement support du groupement ; 
+
+2° Il arrête le schéma de développement pluriannuel dans le cadre de la politique nationale et de la stratégie académique de
+développement de la formation professionnelle continue ainsi que le programme annuel d'activité ; 
+
+3° Il approuve la politique d'équipement et d'emploi ; 
+
+4° Il examine le projet de budget ; 
+
+5° Sur proposition des établissements membres, il arrête la participation de chacun d'eux à l'action collective. Chaque
+établissement prend en compte pour ce qui le concerne cette décision dans son projet d'établissement ; 
+
+6° Pour les actions devant faire l'objet d'une convention avec la région, le conseil veille à la liaison de cette activité du
+groupement avec le schéma prévisionnel des formations établi par la région et prévu par l'article L. 214-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 4 al 6 (1ère phrase), 7 et 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-1
+
+
+###### Article D423-7
+
+Le président du conseil interétablissements exerce les compétences suivantes :
+
+1° Il préside les séances du conseil ;
+
+2° Il veille à l'exécution des décisions du conseil ;
+
+3° Il anime l'action du groupement ;
+
+4° Il représente le groupement auprès des différents partenaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 5 al 1 sauf convocation du conseil (Ab)
+	  - Décret n°93-432 du 24 mars 1993 - art. 12 1ère phrase ecqc l'animation du groupement (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-8
+
+Dans le cadre de l'organisation du groupement d'établissements, les chefs d'établissement élaborent au sein du conseil
+interétablissements la politique du groupement.
+
+Les chefs des établissements adhérents du groupement informent régulièrement et au moins deux fois par an les membres de leur
+conseil d'administration de l'exécution des conventions qu'ils auront passées dans le cadre du programme annuel d'activité du
+groupement.
+
+Par ailleurs, les chefs d'établissement assurent, avec leurs adjoints, la responsabilité du déroulement des activités de
+formation professionnelle continue des adultes relevant de leur établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 4 al 9 (Ab)
+	  - Décret n°93-432 du 24 mars 1993 - art. 12 sauf l'animation du groupement (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-9
+
+Le conseil de perfectionnement est présidé par le président du conseil interétablissements.
+
+Il est composé :
+
+1° Du chef de l'établissement support ;
+
+2° De chefs d'établissements membres du groupement ;
+
+3° Du fonctionnaire ou agent chargé de la direction technique du groupement ;
+
+4° Des conseillers en formation continue ;
+
+5° Des représentants des personnels ;
+
+6° D'un représentant du conseil régional ;
+
+7° De personnalités qualifiées, dont des représentants d'organisations d'employeurs et de salariés à parts égales ;
+
+8° De représentants des stagiaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 6 al 1et 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-10
+
+Le conseil de perfectionnement formule des propositions et des avis sur l'organisation, le fonctionnement et la qualité des
+actions de formation.
+
+En matière disciplinaire, il est consulté lorsqu'un stagiaire encourt une mesure d'exclusion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 6 al 3 et 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-11
+
+Les représentants des personnels mentionnés aux articles D. 423-5 et D. 423-9 sont élus au scrutin uninominal à un tour si le
+nombre de représentants, d'une part, des personnels d'enseignement et, d'autre part, des autres personnels est égal à un. Si
+ce nombre est supérieur à un, ils sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste selon
+les dispositions applicables dans les établissements publics locaux d'enseignement. 
+
+Sont électeurs et éligibles les personnels effectuant dans l'année, pour le compte du groupement, un volume d'activité
+déterminé par arrêté ministériel. 
+
+L'organisation des élections est assurée par le président du groupement qui fixe la période pendant laquelle elles se
+déroulent. 
+
+Les modalités de représentation des stagiaires dans le conseil de perfectionnement sont prévues par la convention
+constitutive.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D423-5
+
+
+###### Article D423-12
+
+L'agent comptable de l'établissement support est agent comptable du groupement.
+
+Le chef de l'établissement support du groupement est ordonnateur des recettes et des dépenses du groupement.
+
+Les agents comptables gestionnaires des établissements supports des groupements d'établissements assurent la gestion
+financière et comptable des activités de formation professionnelle continue des adultes, avec le concours des gestionnaires
+des établissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 8 (Ab)
+	  - Décret n°93-432 du 24 mars 1993 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Arrêté du 14 mai 2014 - art. 1 (V)
+	  - Arrêté du 14 mai 2014 - art. 4 (V)
+	  - Décret n°2015-384 du 3 avril 2015 (V)
+
+
+###### Article D423-13
+
+Le groupement est géré sous forme de budget annexe au budget de l'établissement support du groupement ; il est doté d'une
+comptabilité distincte.
+
+Le budget du groupement est voté par le conseil d'administration de l'établissement support du groupement, après avis du
+conseil interétablissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 10 (Ab)
+	  - Décret n°92-275 du 26 mars 1992 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-14
+
+Les équipements acquis pour le compte du groupement sont identifiés dans l'inventaire tenu par l'établissement support du
+groupement. En cas de changement d'établissement support, l'ensemble des biens, droits et obligations est transféré au nouvel
+établissement support.
+
+En cas de dissolution du groupement, la dévolution des biens est réglée selon les dispositions arrêtées par la convention.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-15
+
+Des fonds académiques de mutualisation des ressources des groupements d'établissements destinés à couvrir les risques liés à
+l'emploi des personnels, à renforcer l'efficacité de l'activité de ces groupements et à optimiser l'emploi de leurs
+ressources sont institués dans chaque académie dans des conditions fixées par arrêté interministériel. Ces fonds sont gérés
+en service spécial dans le budget d'un établissement public local d'enseignement de l'académie, selon le mode de
+comptabilisation des ressources affectées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-432 du 24 mars 1993 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+##### Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole.
+
+###### Article D423-16
+
+L'action des établissements publics locaux et nationaux d'enseignement et de formation professionnelle agricole et notamment
+celle, au sein de ces établissements, des centres de formation professionnelle et de promotion agricoles s'inscrivent dans le
+réseau d'offre de formation du ministère de l'agriculture.
+
+Dans le cadre des orientations nationales, le directeur régional de l'agriculture et de la forêt définit une stratégie
+régionale de développement et favorise le développement de l'activité du réseau régional des établissements relevant de sa
+compétence dans une logique de cohérence et de solidarité entre ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-432 du 24 mars 1993 - art. 10 al 4 sauf GIP régis par le décret n°92-276 du 26 mars 1993 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D423-17
+
+Les établissements publics locaux et nationaux d'enseignement et de formation professionnelle agricole relevant du ministère
+de l'agriculture peuvent être membres d'un groupement d'établissements (GRETA) constitué entre les établissements scolaires
+publics d'enseignement relevant du ministère de l'éducation nationale en application de l'article L. 423-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-275 du 26 mars 1992 - art. 1 al 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L423-1 (V)
+
+
+##### Paragraphe 3 : Dispositions communes aux groupements d'établissements relevant du ministère de l'éducation nationale et du ministère de l'agriculture.
+
+###### Article D423-18
+
+Le recteur et le directeur régional de l'agriculture et de la forêt se concertent pour coordonner les stratégies de
+développement de la formation continue des adultes relevant de leur champ de compétences respectif.
+
+Ces stratégies se développent en cohérence avec la programmation régionale des interventions de l'Etat et le programme
+régional de formation professionnelle continue de la région. Le recteur et le directeur régional de l'agriculture et de la
+forêt apportent leur concours à la définition des programmes de formation décidés par l'Etat et les collectivités
+territoriales. Ils définissent les conditions dans lesquelles les réseaux qui relèvent de leur compétence participent à la
+mise en œuvre de ces programmes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-432 du 24 mars 1993 - art. 10 al 5 et 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie.
+
+###### Article R423-19
+
+Un groupement d'intérêt public peut être créé dans chaque académie entre l'Etat et des personnes morales de droit public ou
+de droit privé pour assurer le développement de la formation professionnelle continue ainsi que de la formation et de
+l'insertion professionnelles et pour mettre en commun les moyens nécessaires à ces activités.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R423-25 (Ab)
+
+
+###### Article R423-20
+
+La convention constitutive du groupement d'intérêt public et ses annexes sont soumises, par le recteur de l'académie, à
+l'approbation du préfet du département où se situe le siège du groupement. Cette approbation est donnée après avis du
+trésorier-payeur général du même département.
+
+La liste et le contenu des annexes de la convention sont fixés par arrêté du ministre chargé de l'éducation et du ministre
+chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R423-22 (Ab)
+
+
+###### Article R423-21
+
+Le groupement d'intérêt public jouit de la personnalité morale à compter de la publication au Journal officiel de la
+République française de la convention constitutive, sous la forme d'un avis.
+
+La publication, assurée par le ministre chargé de l'éducation, fait mention :
+
+1° De la dénomination et de l'objet du groupement ;
+
+2° De l'identité de ses membres fondateurs ;
+
+3° Du siège du groupement ;
+
+4° De la durée de la convention ;
+
+5° Du mode de gestion ;
+
+6° Des règles de responsabilité des membres entre eux et à l'égard des tiers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article R423-22
+
+Les modifications ou la prorogation de la convention constitutive, ainsi que la dissolution du groupement avant le terme fixé
+par cette dernière, font l'objet d'une approbation et d'une publication dans les conditions fixées aux articles R. 423-20 et
+R. 423-21. Dans ce cas, le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier
+transmettent leur avis motivé au recteur. 
+
+Toute demande de prorogation, accompagnée d'un dossier complet, doit être transmise quatre mois au moins avant la date
+d'expiration de la convention constitutive. A défaut, la demande transmise tardivement est regardée comme tendant à
+l'approbation de la création d'un nouveau groupement d'intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R423-20
+
+
+###### Article R423-23
+
+Le recteur de l'académie où se situe le siège du groupement préside le groupement.
+
+Le ministre chargé de l'éducation nomme le commissaire du Gouvernement. Celui-ci peut se faire représenter. Il assiste, avec
+voix consultative, aux séances de toutes les instances de délibération et d'administration du groupement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 5 al 1 et 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article R423-24
+
+Le commissaire du Gouvernement exerce les compétences suivantes :
+
+1° Il reçoit communication de tous les documents relatifs au groupement ;
+
+2° Il dispose d'un droit de visite dans les locaux appartenant au groupement ou mis à sa disposition ;
+
+3° Il approuve le recrutement de personnel propre par le groupement ;
+
+4° Pour les décisions qui mettent en jeu l'existence ou le bon fonctionnement du groupement, il peut provoquer une nouvelle
+délibération dans un délai de quinze jours à compter de la date à laquelle le procès-verbal de la séance lui a été
+communiqué ;
+
+5° Il informe les administrations dont relèvent les établissements publics participant au groupement ;
+
+6° Il adresse chaque année au ministre chargé de l'éducation et au ministre chargé du budget un rapport sur l'activité et la
+gestion du groupement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 5 al 3 à 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article R423-25
+
+Les dispositions du décret n° 53-707 du 9 août 1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et
+certains organismes ayant un objet d'ordre économique ou social et celles du titre II du décret n° 55-733 du 26 mai 1955
+portant codification et aménagement des textes relatifs au contrôle économique et financier de l'Etat s'appliquent aux
+groupements d'intérêt public régis par les articles R. 423-19 à R. 423-27. 
+
+Le trésorier-payeur général ou son représentant exerce auprès du groupement les fonctions de membre du corps du contrôle
+général économique et financier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-707 du 9 août 1953
+	  - Décret n°55-733 du 26 mai 1955
+	  - Code de l'éducation - art. R423-19
+	  - Code de l'éducation - art. R423-27
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article R423-26
+
+La comptabilité du groupement est tenue et sa gestion effectuée selon les règles du droit public. 
+
+Les dispositions du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique relatives
+aux établissements publics à caractère industriel et commercial dotés d'un agent comptable lui sont applicables. 
+
+L'agent comptable est nommé par arrêté du ministre chargé de l'éducation et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article R423-27
+
+Lorsque les missions, les activités et les ressources du groupement le justifient, des agents contractuels de droit public
+rémunérés sur le budget de celui-ci peuvent être recrutés par des contrats à durée déterminée qui ne peuvent être renouvelés
+que par disposition expresse. Les personnels ainsi recrutés, pour une durée au plus égale à celle du groupement, n'acquièrent
+pas de droit à occuper ultérieurement des emplois dans les personnes morales membres de celui-ci. Les dispositions du décret
+n° 86-83 du 17 janvier 1986 relatif aux dispositions applicables aux agents non titulaires de l'Etat pris pour l'application
+de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
+l'Etat, à l'exception de ses articles 4 à 8, leur sont applicables. 
+
+Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au membre du corps du contrôle
+général économique et financier. 
+
+Un état des effectifs et un bilan des activités du groupement sont présentés chaque année au comité technique paritaire
+académique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 7 (V)
+	  - Décret n°86-83 du 17 janvier 1986 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2001-757 du 28 août 2001 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R423-25 (Ab)
+
+
+##### Section 2 : Innovation et transfert de technologie.
+
+###### Article D423-28
+
+Des groupements d'intérêt public peuvent être constitués entre des lycées d'enseignement général ou technologique ou des
+lycées professionnels et d'autres personnes morales de droit public ou des personnes morales de droit privé pour mener, dans
+le cadre du projet d'établissement, des actions destinées à favoriser l'innovation et le transfert de technologie et gérer
+les services communs nécessaires à ces actions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-30
+
+Le groupement d'intérêt public jouit de la personnalité morale à compter de la publication au Journal officiel de la
+République française de la convention constitutive, sous la forme d'un avis.
+
+La publication, assurée par le ministre chargé de l'éducation, le ministre chargé de l'enseignement supérieur ou le ministre
+chargé de l'agriculture, fait mention :
+
+1° De la dénomination et de l'objet du groupement ;
+
+2° De l'identité de ses membres fondateurs ;
+
+3° Du siège du groupement ;
+
+4° De la durée de la convention ;
+
+5° Du mode de gestion ;
+
+6° Des règles de responsabilité des membres entre eux et à l'égard des tiers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-31 (Ab)
+
+
+###### Article D423-31
+
+Les modifications ou la prorogation de la convention constitutive, ainsi que la dissolution du groupement avant le terme fixé
+par cette dernière, font l'objet d'une approbation et d'une publication dans les conditions fixées aux articles R. 423-29 et
+D. 423-30. Dans ce cas, le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier
+transmettent leur avis motivé au recteur ou au directeur régional de l'agriculture et de la forêt. 
+
+Toute demande de prorogation, accompagnée d'un dossier complet, doit être transmise quatre mois au moins avant la date
+d'expiration de la convention constitutive. A défaut, la demande transmise tardivement est regardée comme tendant à
+l'approbation de la création d'un nouveau groupement d'intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D423-30 (V)
+	  - Code de l'éducation - art. R423-29 (V)
+
+
+###### Article D423-32
+
+Le recteur d'académie ou le directeur régional de l'agriculture et de la forêt exerce la fonction de commissaire du
+Gouvernement auprès du groupement d'intérêt public. Il peut se faire représenter. Il assiste, avec voix consultative, aux
+séances de toutes les instances de délibération et d'administration du groupement.
+
+Le commissaire du Gouvernement exerce les compétences suivantes :
+
+1° Il reçoit communication de tous les documents relatifs au groupement ;
+
+2° Il dispose d'un droit de visite dans les locaux appartenant au groupement ou mis à sa disposition ;
+
+3° Il approuve le recrutement de personnel propre par le groupement ;
+
+4° Pour les décisions qui mettent en jeu l'existence ou le bon fonctionnement du groupement, il peut provoquer une nouvelle
+délibération dans un délai de quinze jours à compter de la date à laquelle le procès-verbal de la séance lui a été
+communiqué ;
+
+5° Il informe les administrations dont relèvent les établissements publics participant au groupement ;
+
+6° Il adresse chaque année au ministre chargé de l'éducation, au ministre chargé de l'enseignement supérieur ou au ministre
+chargé de l'agriculture et au ministre chargé du budget un rapport sur l'activité et la gestion du groupement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D423-33
+
+Les dispositions du titre II du décret n° 55-733 du 26 mai 1955 portant codification et aménagement des textes relatifs au
+contrôle économique et financier de l'Etat et, dans les cas visés au second alinéa de l'article D. 423-34, du décret n°
+53-707 du 9 août 1953 relatif au contrôle de l'Etat sur les entreprises publiques nationales et certains organismes ayant un
+objet d'ordre économique ou social s'appliquent aux groupements d'intérêt public régis par la présente section. 
+
+Le trésorier-payeur général ou son représentant exerce auprès du groupement les fonctions de membre du corps du contrôle
+général économique et financier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-707 du 9 août 1953
+	  - Décret n°55-733 du 26 mai 1955
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-34
+
+La comptabilité du groupement est tenue et sa gestion assurée selon les règles du droit privé sauf si les parties
+contractantes ont fait le choix de la gestion publique ou si le groupement n'est constitué que de personnes morales de droit
+public. 
+
+Dans ces deux dernières hypothèses, les dispositions du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
+la comptabilité publique relatives aux établissements publics à caractère industriel et commercial dotés d'un agent comptable
+sont applicables. Dans ce cas, l'agent comptable est nommé par arrêté du ministre chargé de l'éducation, du ministre chargé
+de l'enseignement supérieur ou du ministre chargé de l'agriculture et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-35
+
+Lorsque les missions, les activités et les ressources du groupement le justifient, des agents contractuels rémunérés sur le
+budget de celui-ci peuvent être recrutés par des contrats à durée déterminée qui ne peuvent être renouvelés que par
+disposition expresse. Les personnels ainsi recrutés, pour une durée au plus égale à celle du groupement, n'acquièrent pas de
+droit à occuper ultérieurement des emplois dans les personnes morales membres de celui-ci. Les dispositions du décret n°
+86-83 du 17 janvier 1986 relatif aux dispositions applicables aux agents non titulaires de l'Etat pris pour l'application de
+l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
+l'Etat, à l'exception de ses articles 4 à 8, leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984
+	  - Décret n°86-83 du 17 janvier 1986
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
+
+
+###### Article D423-36
+
+Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au membre du corps du contrôle
+général économique et financier.
+
+L'état annuel des effectifs et un bilan des activités du groupement sont présentés chaque année au comité technique paritaire
+académique ou au comité technique paritaire régional de l'enseignement agricole.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 8 al 2 et 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R423-29
+
+La convention constitutive du groupement d'intérêt public et ses annexes sont transmises au recteur d'académie ou au
+directeur régional de l'agriculture et de la forêt pour les établissements relevant de leur compétence respective. Lorsque le
+groupement comprend des établissements relevant de plusieurs académies ou de plusieurs directions régionales de l'agriculture
+et de la forêt, le recteur d'académie ou le directeur régional de l'agriculture et de la forêt compétents sont ceux dont
+relève l'établissement siège du groupement.
+
+Le recteur ou le directeur régional de l'agriculture et de la forêt accuse réception de la convention et de ses annexes. En
+cas d'avis favorable de sa part, il transmet dans un délai de deux mois ces documents, le cas échéant avec les modifications
+demandées par lui, pour approbation, au préfet du département où se situe le siège du groupement.
+
+Le préfet accuse réception de la convention constitutive et de ses annexes et recueille l'avis du trésorier-payeur général du
+département.
+
+A défaut d'approbation expresse, la décision du préfet est réputée favorable à l'expiration d'un délai de deux mois à compter
+de la date de réception de la convention constitutive et de ses annexes, à moins qu'il ne fasse connaître son opposition
+pendant ce délai.
+
+Lorsque le préfet ou le trésorier-payeur général demande par écrit des informations ou documents complémentaires, le délai
+mentionné à l'alinéa précédent est suspendu jusqu'à la date de réception de ces informations ou documents.
+
+La liste et le contenu des annexes de la convention sont fixés par arrêté du ministre chargé de l'éducation, du ministre
+chargé de l'enseignement supérieur, du ministre chargé du budget et du ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-1227 du 19 décembre 2001 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-31 (Ab)
+
+
+#### Chapitre IV : Les écoles de métiers.
+
+###### Article D424-1
+
+Les écoles de métiers sont régies par les dispositions du décret du 12 juillet 1921 qui leur sont applicables et par
+l'article 47 du code de l'artisanat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret du 12 juillet 1921, v. init.
+	  - Code de l'artisanat - art. 47 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre V : Les lycées de la défense.
+
+##### Section 1 : Dispositions générales.
+
+###### Article R425-1
+
+Les lycées de la défense sont des établissements d'enseignement relevant du ministre de la défense, qui en fixe la liste et
+précise, par arrêté, l'armée et les autorités de tutelle dont ils dépendent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2006 - art. ANNEXE III (VD)
+	  - Code de l'éducation - art. D612-24 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-2
+
+Les lycées de la défense ont pour vocation à dispenser :
+
+1° Un enseignement scolaire, notamment au profit des enfants de militaires, d'agents du ministère de la défense et de
+fonctionnaires, au titre de l'aide à la famille ;
+
+2° Une préparation aux concours d'officiers des armées et des formations rattachées, au titre de l'aide au recrutement.
+
+Ils comprennent des classes de l'enseignement du second degré et des classes préparatoires aux écoles de formation
+d'officiers des armées et des formations rattachées dont la liste est fixée par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D612-19 (V)
+	  - Code de l'éducation - art. D612-20 (V)
+	  - Code de l'éducation - art. R425-8 (V)
+
+
+###### Article R425-3
+
+Les lycées de la défense sont commandés par des officiers supérieurs en activité, chefs d'établissement, qui exercent leur
+autorité sur l'ensemble de l'établissement.
+
+Le commandant du lycée est assisté par au moins un membre du corps des personnels de direction d'établissement d'enseignement
+ou de formation, de première classe ou de seconde classe, pour les questions relatives à l'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 3 al 1 et 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-4
+
+La composition, les attributions et les modalités de fonctionnement des conseils de classe, du conseil intérieur et du
+conseil de discipline institués dans chacun des lycées de la défense sont fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-5
+
+Le régime des lycées de la défense est l'internat. Toutefois, la demi-pension peut être autorisée par le commandant du lycée,
+dans des conditions fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-6
+
+Les cycles annuels d'instruction sont analogues à ceux des établissements de l'enseignement public ; les programmes sont
+conformes à ceux fixés par le ministre chargé de l'éducation. 
+
+Les séries et options d'enseignement des classes du second degré sont déterminées par arrêté du ministre de la défense, sur
+proposition des autorités de tutelle. La nature des classes préparatoires est définie conformément aux dispositions de
+l'article 11 du décret n° 94-1015 du 23 novembre 1994 relatif à l'organisation et au fonctionnement des classes préparatoires
+aux grandes écoles organisées dans les lycées relevant des ministres chargés de l'éducation, de l'agriculture et des armées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°94-1015 du 23 novembre 1994 - art. 11 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 3 al 3 (sauf 1ère phrase) et 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Modalités d'admission et scolarité.
+
+###### Article R425-7
+
+Les lycées de la défense sont réservés aux enfants de nationalité française. Toutefois, les enfants de militaires de
+nationalité étrangère servant ou ayant servi dans les armées françaises peuvent demander à être admis dans les classes de
+l'enseignement du second degré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R425-11 (V)
+
+
+###### Article R425-8
+
+Au titre du régime de l'aide à la famille mentionné au 1° de l'article R. 425-2, un arrêté du ministre de la défense fixe les
+catégories d'ayants droit et le contingent minimal d'admissions réservé aux enfants de militaires. 
+
+Le régime de l'aide au recrutement mentionné au 2° de l'article R. 425-2 est ouvert à tout jeune Français. 
+
+Les limites d'âge d'accès aux différentes classes et les conditions d'aptitude à chaque niveau et classe d'admission sont
+fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 6 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2006 - art. 4 (V)
+	  - Arrêté du 21 mars 2006 - art. 4 bis (V)
+	  - Arrêté du 21 mars 2006 - art. ANNEXE III (VD)
+	  - Code de l'éducation - art. D612-19 (V)
+	  - Code de l'éducation - art. D612-20 (V)
+	  - Code de l'éducation - art. R425-11 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R425-2 (V)
+
+
+###### Article R425-9
+
+Les admissions dans les lycées de la défense sont prononcées chaque année sur proposition d'une commission de classement qui
+tient compte :
+
+1° Du dossier individuel des candidats ;
+
+2° Des notes obtenues à l'examen annuel d'entrée lorsqu'il est requis ;
+
+3° De la situation de famille dans des conditions fixées par arrêté du ministre de la défense.
+
+L'admission ne devient définitive qu'après la visite médicale d'aptitude effectuée par un médecin du lycée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 7 sauf ecqc le ministre de la défense (Ab)
+	  - Décret n°2006-246 du 1 mars 2006 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R425-11 (V)
+
+
+###### Article R425-10
+
+Les décisions d'admission sont prises par le ministre de la défense.
+
+Le ministre peut déléguer les décisions d'admission aux autorités de tutelle, dans des conditions fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 19 (Ab)
+	  - Décret n°2006-246 du 1 mars 2006 - art. 7 al 1, uniquement ecqc le ministre de la défense (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-11
+
+Par dérogation aux dispositions de l'article R. 425-9, peuvent être admis, sous réserve que leur niveau scolaire soit
+suffisant pour suivre l'enseignement : 
+
+1° Dans les classes de l'enseignement du second degré et dans la limite de 5 % des élèves admis chaque année, des enfants
+appartenant aux catégories d'ayants droit fixées par l'arrêté mentionné au premier alinéa de l'article R. 425-8 et placés
+dans une situation familiale particulièrement difficile ; 
+
+2° A titre exceptionnel et par dérogation aux dispositions du deuxième alinéa de l'article R. 425-8, dans les classes de
+l'enseignement du second degré ou dans les classes préparatoires et dans la limite de 3 % des élèves admis chaque année, des
+enfants de nationalité étrangère autres que ceux mentionnés à l'article R. 425-7.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 8 sauf ecqc le ministre de la défense (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R425-12 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R425-7 (V)
+	  - Code de l'éducation - art. R425-8 (V)
+	  - Code de l'éducation - art. R425-9 (V)
+
+
+###### Article R425-12
+
+Les décisions d'admission mentionnées à l'article R. 425-11 sont prises par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 8 al 1, unqieument ecqc le ministre de la défense (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R425-11 (V)
+
+
+###### Article R425-13
+
+Les conditions dans lesquelles se poursuit la scolarité de l'élève sont arrêtées par le conseil de classe et peuvent, à
+l'initiative de l'intéressé ou de son représentant légal, si l'élève est mineur, faire l'objet d'un appel selon des modalités
+fixées par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 3 : Droits et obligations des élèves.
+
+###### Article R425-14
+
+Les élèves sont tenus de se présenter aux examens et concours qui sanctionnent l'enseignement reçu.
+
+Les élèves des classes préparatoires admis au titre de l'aide au recrutement sont tenus de se présenter au concours militaire
+correspondant à leur classe particulière de préparation. Ils peuvent, en outre, se présenter à d'autres concours d'admission
+dans les écoles de formation d'officiers des armées et des formations rattachées du ministère de la défense.
+
+Ils peuvent également être autorisés par le commandant du lycée de la défense à se présenter, à titre individuel et à leurs
+frais, à un ou plusieurs concours d'admission ne relevant pas du ministère de la défense :
+
+1° Soit à la fin de la deuxième année du cycle préparatoire et à titre exceptionnel, après avis favorable du proviseur du
+lycée ;
+
+2° Soit lorsqu'ils redoublent leur deuxième année, ou se présentent pour la dernière fois en raison de leur âge à un concours
+d'accès aux écoles de formation d'officiers des armées et des formations rattachées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-15
+
+Le règlement intérieur établi au sein de chaque lycée de la défense détermine notamment les règles de comportement et de
+discipline applicables aux élèves et définit leurs droits et obligations. Il est soumis à l'approbation de l'autorité de
+tutelle du lycée et porté à la connaissance de l'ensemble des membres de la communauté scolaire. Tout manquement au règlement
+intérieur peut justifier la mise en œuvre d'une procédure disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D511-4 (V)
+
+
+###### Article R425-16
+
+Les sanctions applicables aux élèves des lycées de la défense sont celles prévues à l'article 15 du décret n° 2006-246 du 1er
+mars 2006 relatif à ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-246 du 1 mars 2006 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 15 al 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 4 : Frais de trousseau et de pension.
+
+###### Article R425-17
+
+Les enfants admis au titre de l'aide à la famille doivent acquitter les frais de trousseau et de pension dont le montant est
+fixé chaque année par arrêté du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 16 al 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-18
+
+Les familles de militaires et agents du ministère de la défense dont la situation le justifie peuvent, après avis du
+commandant du lycée, bénéficier de remises totales ou partielles du montant des frais de trousseau et de pension.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 16 al 2 sauf ecqc le ministre de la défense (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R425-19 (V)
+
+
+###### Article R425-19
+
+Les décisions de remises mentionnées à l'article R. 425-18 sont prises par le ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 16 al 2 uniquement ecqc le ministre de la défense (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R425-18 (V)
+
+
+###### Article R425-20
+
+L'admission au titre de l'aide au recrutement fait l'objet d'un contrat d'éducation signé par l'élève ou, s'il est mineur,
+par son représentant légal ; dans ce dernier cas, le contrat doit être confirmé par l'élève à sa majorité.
+
+Le contrat prévoit que les élèves admis au titre de l'aide au recrutement bénéficient pendant toute la durée de leur
+scolarité d'une exonération provisoire des frais de trousseau et de pension.
+
+Si, en cours de scolarité, le représentant légal d'un élève mineur ou un élève majeur ne confirme pas le contrat, celui-ci
+est résilié et les frais de trousseau et de pension, devenus exigibles, sont mis à la charge du représentant légal. L'élève
+peut néanmoins, à titre onéreux, terminer l'année scolaire en cours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 14 (Ab)
+	  - Décret n°2006-246 du 1 mars 2006 - art. 17 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2006 - art. 10 (V)
+	  - Code de l'éducation - art. R425-21 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-21
+
+L'exonération prévue à l'article R. 425-20devient définitive lorsque : 
+
+1° Dans un délai de six ans à compter du 1er octobre de l'année d'obtention du baccalauréat : 
+
+a) L'intéressé est nommé au premier grade d'officier dans l'armée active ou les formations rattachées ; 
+
+b) L'intéressé, admis dans une école de formation d'officiers des armées ou des formations rattachées, est soit radié de
+l'école pour inaptitude physique définitive, soit exclu de l'école pour insuffisance de résultats ; 
+
+2° Dans un délai maximal d'un an après son départ du lycée de la défense, l'intéressé entre au service de l'État pour une
+durée minimale de trois années, en particulier au titre d'un contrat d'engagement dans les armées ou les formations
+rattachées. Toutefois, en cas de cessation de ce service avant trois ans pour toute autre cause que l'inaptitude physique,
+les sommes dues sont proportionnelles à la durée du service restant à accomplir pour parfaire les trois années.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2006-246 du 1 mars 2006 - art. 18 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2006 - art. ANNEXE III (VD)
+	  - Code de l'éducation - art. R425-22 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre VI : Le Centre national d'enseignement à distance.
+
+##### Section 1 : Dispositions générales.
+
+###### Article R426-1
+
+Le Centre national d'enseignement à distance est un établissement public national à caractère administratif doté de la
+personnalité civile et de l'autonomie financière, placé sous la tutelle des ministres chargés de l'éducation et de
+l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-1261 du 27 décembre 2013 - art. 5 (V)
+	  - Arrêté du 24 avril 2015 (V)
+	  - Code de l'éducation - art. D741-2 (Ab)
+
+
+###### Article R426-2
+
+Le Centre national d'enseignement à distance dispense un enseignement et des formations à distance dans le cadre de la
+formation initiale et de la formation professionnelle tout au long de la vie.
+
+Cet enseignement et ces formations sont assurés à tous les niveaux de l'enseignement scolaire et de l'enseignement supérieur
+dans le cadre de formations complètes ou particulières. En matière d'enseignement supérieur, le centre exerce ses missions en
+coopération avec les universités et les autres établissements d'enseignement supérieur.
+
+Le centre favorise le développement, notamment à l'étranger, de cet enseignement et de ces formations ainsi que des
+techniques d'enseignement et de formation à distance. Il participe à la coopération européenne et internationale en la
+matière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 27 juillet 2009 - art. 1 (VD)
+	  - Arrêté du 13 janvier 2017 - art. 2
+	  - Code de l'éducation - art. R426-2-1 (VD)
+	  - Code de l'éducation - art. R426-20 (V)
+
+
+###### Article R426-3
+
+Pour l'exercice de ses missions, le Centre national d'enseignement à distance peut notamment :
+
+1° Participer à des groupements d'intérêt public, à des groupements d'intérêt économique et à des groupements européens
+d'intérêt économique ;
+
+2° Prendre des participations ou créer des filiales ;
+
+3° Acquérir ou exploiter tout droit de propriété intellectuelle ;
+
+4° Concevoir et distribuer des produits ou des services liés à ses activités ;
+
+5° Délivrer des attestations ou des certificats d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R426-7 (V)
+
+
+##### Section 2 : Organisation administrative.
+
+###### Article R426-4
+
+Le Centre national d'enseignement à distance est administré par un conseil d'administration assisté d'un conseil
+d'orientation. Il est dirigé par un directeur général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 1 : Le conseil d'administration.
+
+###### Article R426-5
+
+Le conseil d'administration du Centre national d'enseignement à distance comprend dix-huit membres :
+
+1° Six représentants de l'Etat ainsi désignés :
+
+a) Quatre par les ministres chargés de l'éducation et de l'enseignement supérieur ;
+
+b) Un par le ministre chargé de la recherche ;
+
+c) Un par le ministre chargé de la formation professionnelle ;
+
+2° Six représentants du centre élus par les personnels de l'établissement et parmi eux, dont :
+
+a) Trois représentants des personnels enseignants ;
+
+b) Trois représentants des personnels administratifs et techniques ;
+
+3° Six personnalités qualifiées désignées par arrêté des ministres chargés de l'éducation et de l'enseignement supérieur,
+dont l'une sur proposition du ministre des affaires étrangères.
+
+Pour chacun des membres mentionnés aux 1° et 2°, un suppléant est désigné dans les mêmes conditions que le titulaire.
+
+Le directeur général, le secrétaire général, l'agent comptable, le membre du corps du contrôle général économique et
+financier ainsi que tout personne dont la présence est jugée utile par le président assistent aux séances avec voix
+consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2014 (V)
+	  - Code de l'éducation - art. R426-6 (V)
+
+
+###### Article R426-6
+
+Le président du conseil d'administration du Centre national d'enseignement à distance, choisi parmi les membres du conseil
+d'administration désignés au titre du 3° de l'article R. 426-5, est nommé par arrêté des ministres chargés de l'éducation et
+de l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R426-5 (V)
+
+
+###### Article R426-7
+
+Le conseil d'administration règle par ses délibérations les affaires du Centre national d'enseignement à distance. Il
+délibère notamment sur : 
+
+1° Les orientations et l'organisation générale de l'établissement proposées par le directeur général ; 
+
+2° Le rapport annuel d'activité ; 
+
+3° Le budget et ses modifications ; 
+
+4° Le compte financier et l'affectation du résultat de l'exercice ; 
+
+5° Le taux des redevances et rémunérations de toute nature dues au centre ; 
+
+6° Les dons et legs ; 
+
+7° Les acquisitions, aliénations et échanges d'immeubles ; 
+
+8° Les prises, extensions et cessions de participations, les créations de filiales ou de tout autre organisme mentionné à
+l'article R. 426-3 ; 
+
+9° L'exercice des actions en justice et les transactions ; 
+
+10° L'approbation des concessions ; 
+
+11° Les emprunts ; 
+
+12° Les conditions générales de passation des marchés. 
+
+Il est consulté sur toute question qui lui est soumise par les ministres chargés de la tutelle du centre ou par le directeur
+général. 
+
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur général les pouvoirs prévus aux 5°,
+6°, 7° et 9°. Celui-ci lui rend compte lors de sa plus prochaine séance des décisions qu'il a prises en vertu de cette
+délégation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R426-10 (VD)
+	  - Code de l'éducation - art. R426-8 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R426-3 (V)
+
+
+###### Article R426-8
+
+Les délibérations du conseil d'administration du Centre national d'enseignement à distance autres que celles mentionnées aux
+3°,4°,8° et 11° de l'article R. 426-7 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce
+délai, quinze jours après leur réception par les ministres chargés de l'éducation et de l'enseignement supérieur si l'un
+d'eux n'y a pas fait opposition dans ce délai. 
+
+Les décisions prises par le directeur général par délégation du conseil d'administration et prises en application du dernier
+alinéa de l'article R. 426-7 sont exécutoires dans les mêmes conditions. 
+
+Les délibérations relatives aux 8° et 11° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation
+expresse des ministres chargés de l'éducation, de l'enseignement supérieur et du budget. 
+
+Les délibérations portant sur le budget ou ses modifications ainsi que sur le compte financier sont approuvées par les mêmes
+ministres dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
+certaines décisions financières des établissements publics de l'État.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°99-575 du 8 juillet 1999 (V)
+	  - Code de l'éducation - art. R426-7 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-9
+
+Le conseil d'administration du Centre national d'enseignement à distance se réunit au moins deux fois par an sur convocation
+de son président. Il peut être réuni à la demande conjointe des ministres chargés de la tutelle du centre ou du directeur
+général ou de la majorité des membres du conseil.
+
+Le président fixe l'ordre du jour en accord avec le directeur général.
+
+Le conseil d'administration ne peut valablement délibérer que si la moitié au moins des membres sont présents. Si ce nombre
+n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai de quinze jours. Il peut alors
+valablement délibérer quel que soit le nombre des membres présents.
+
+Les délibérations sont prises à la majorité des suffrages exprimés. En cas de partage des voix, celle du président est
+prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Le directeur général et le secrétaire général.
+
+###### Article R426-10
+
+Le directeur général est un recteur d'académie. Il assure la direction du Centre national d'enseignement à distance. A ce
+titre : 
+
+1° Il conduit la politique générale de l'établissement dans le cadre des orientations définies par le conseil
+d'administration ; 
+
+2° Il prépare les délibérations du conseil d'administration et en assure l'exécution ; 
+
+3° Il prépare et exécute le budget ; 
+
+4° Il est ordonnateur des recettes et des dépenses ; 
+
+5° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+6° Il gère le personnel, donne un avis préalable à l'affectation à l'établissement des personnels fonctionnaires, nomme aux
+emplois pour lesquels aucune autre autorité n'a pouvoir de nomination et recrute les personnels contractuels. Il a autorité
+sur l'ensemble du personnel de l'établissement et l'affecte dans les différents services ; 
+
+7° Il conclut les conventions et marchés, sous réserve des dispositions de l'article R. 426-7. 
+
+Le directeur général est assisté d'un secrétaire général nommé sur sa proposition par les ministres chargés de l'éducation et
+de l'enseignement supérieur. Il peut également se faire assister de directeurs adjoints qu'il nomme. Il peut nommer des
+ordonnateurs secondaires et fixer leurs attributions. 
+
+Il peut déléguer sa signature. 
+
+Sous réserve de l'accord du membre du corps du contrôle général économique et financier et d'une ratification par le conseil
+d'administration lors de sa plus prochaine séance, il peut prendre les décisions de modification du budget qui ne comportent
+ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes,
+ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des
+dépenses de personnels et les chapitres des dépenses de matériel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 10 (Ab)
+	  - Décret n°2005-1312 du 21 octobre 2005 - art. 2 al 1 et 3, ecqc le CNED (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R426-7 (V)
+
+
+###### Article R426-11
+
+Tout fonctionnaire nommé à l'emploi de secrétaire général du Centre national d'enseignement à distance peut se voir retirer
+cet emploi dans l'intérêt du service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2005-1312 du 21 octobre 2005 - art. 7 ecqc le CNED (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 3 : Le conseil d'orientation.
+
+###### Article R426-12
+
+Le conseil d'orientation du Centre national d'enseignement à distance est composé de deux collèges.
+
+Le collège interne comprend douze membres, dont :
+
+1° Neuf représentants élus des personnels du centre, parmi lesquels six représentants des personnels enseignants ;
+
+2° Trois représentants des usagers du centre nommés par arrêté des ministres chargés de l'éducation et de l'enseignement
+supérieur sur proposition du directeur général.
+
+Pour chaque titulaire, un suppléant est désigné dans les mêmes conditions.
+
+Le collège externe comprend douze membres nommés en raison de leurs compétences par arrêté des ministres chargés de
+l'éducation et de l'enseignement supérieur sur proposition du directeur général, dont :
+
+1° Six personnalités compétentes en matière d'éducation, d'enseignement supérieur ou de recherche publique ;
+
+2° Trois personnalités du monde économique et social ;
+
+3° Trois personnalités étrangères, dont deux au moins appartenant à un Etat membre de la Communauté européenne ou d'un autre
+Etat partie à l'accord sur l'Espace économique européen.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-13
+
+Le président du conseil d'orientation du Centre national d'enseignement à distance est nommé par arrêté des ministres chargés
+de l'éducation et de l'enseignement supérieur parmi les membres du collège externe.
+
+Le conseil d'orientation se réunit au moins deux fois par an en séance plénière. Le collège externe se réunit au moins une
+fois par an en formation restreinte.
+
+Le conseil d'orientation donne son avis sur toutes les questions relatives à la politique de l'établissement dont il est
+saisi par le conseil d'administration ou par le directeur général.
+
+Il émet un avis sur le rapport d'activité du centre. Cet avis est transmis au conseil d'administration.
+
+Le directeur général et les membres de la direction qu'il désigne en accord avec le président assistent aux séances plénières
+avec voix consultative.
+
+Le président du conseil d'orientation peut inviter à participer aux réunions toute personne dont il juge la présence utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 4 : Dispositions diverses.
+
+###### Article R426-14
+
+Les membres du conseil d'administration et du conseil d'orientation du Centre national d'enseignement à distance sont élus ou
+nommés pour une durée de trois ans renouvelable.
+
+Le mandat des membres cesse lorsqu'ils perdent la qualité au titre de laquelle ils ont été élus ou nommés.
+
+En cas de vacance de siège pour quelque cause que ce soit survenant plus de trois mois avant l'expiration du mandat, un
+remplaçant est désigné dans les mêmes conditions pour la durée du mandat restant à courir.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-15
+
+Les modalités d'élection des représentants du personnel au conseil d'administration et au conseil d'orientation du Centre
+national d'enseignement à distance sont fixées par arrêté des ministres chargés de l'éducation et de l'enseignement
+supérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-16
+
+Les membres du conseil d'administration et du conseil d'orientation du Centre national d'enseignement à distance exercent
+leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour sont pris en charge dans les conditions
+prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-17
+
+Outre les services rattachés à la direction générale, le Centre national d'enseignement à distance comprend des instituts,
+une école d'ingénierie de la formation à distance et des unités communes de services.
+
+Les instituts et l'école d'ingénierie de la formation à distance sont créés et supprimés par le conseil d'administration sur
+proposition du directeur général après avis du conseil d'orientation.
+
+Les unités communes de services sont créées par décision du directeur général et rattachées soit à la direction générale,
+soit à un ou plusieurs instituts.
+
+Les directeurs des instituts et de l'école et les responsables des unités communes de services sont nommés par le directeur
+général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 3 : Organisation financière.
+
+###### Article R426-18
+
+Les ressources du Centre national d'enseignement à distance comprennent :
+
+1° Les subventions et les fonds de concours attribués notamment par l'Etat, les collectivités publiques et la Communauté
+européenne ;
+
+2° Les droits, redevances et produits de toute nature résultant de ses activités ;
+
+3° Les versements au titre de la taxe d'apprentissage ;
+
+4° Les versements au titre de la participation des employeurs au financement de la formation professionnelle continue ;
+
+5° Les produits des conventions ou contrats, notamment de travaux ou d'études ;
+
+6° Les revenus des biens meubles et immeubles de l'établissement ;
+
+7° Le produit des aliénations ;
+
+8° Les contributions privées, les dons et legs ;
+
+9° Les emprunts ;
+
+10° D'une manière générale, toutes les recettes autorisées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-19
+
+Les dépenses du Centre national d'enseignement à distance comprennent les frais de personnel, de fonctionnement et
+d'équipement et, d'une manière générale, toutes les dépenses nécessaires aux activités de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-20
+
+Le Centre national d'enseignement à distance met en place une comptabilité analytique qui distingue les activités
+commerciales des autres activités.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-21
+
+L'agent comptable du Centre national d'enseignement à distance est nommé, sur proposition du directeur général, par arrêté
+des ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-22
+
+Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions fixées par le décret n°
+92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°92-681 du 20 juillet 1992 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R426-23
+
+Les fonds du Centre national d'enseignement à distance sont déposés chez un comptable du Trésor ou auprès de tout autre
+organisme habilité.
+
+Toutefois, une fraction des fonds, définie en accord avec les ministres chargés de l'éducation, de l'enseignement supérieur
+et du budget, peut être placée librement après avis de l'agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
+
+
+###### Article R426-24
+
+Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
+administratifs de l'Etat, le Centre national d'enseignement à distance est soumis au contrôle financier prévu par le décret
+n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations de l'Etat. Les attributions du membre
+du corps du contrôle général économique et financier et les modalités d'exercice de son contrôle sont précisées, en tant que
+de besoin, par arrêté des ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-602 du 25 avril 2002 - art. 23 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2005-54 du 27 janvier 2005
+	  - Décret n°2005-757 du 4 juillet 2005
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
+
+
+### Titre III : Les centres de formation d'apprentis.
+
+#### Chapitre unique : Création et fonctionnement des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage.
+
+##### Section 1 : Institutions et personnel.
+
+###### Article 431-3
+
+Les règles relatives aux dispositions financières des conventions portant création de centres de formation d'apprentis ou de
+sections d'apprentissage sont fixées par les articles R. 116-15 à R. 116-17-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R116-15 (V)
+
+
+###### Article R431-1
+
+Les règles relatives aux modalités de conclusion des conventions portant création de centres de formation d'apprentis, de
+sections d'apprentissage et d'unités de formation par apprentissage ainsi que leurs modalités de renouvellement sont
+respectivement fixées par les articles R. 116-1, R. 116-2, R. 116-3-1, R. 116-9, R. 116-12, R. 116-14, R. 116-14-1 et par les
+articles R. 116-18 à R. 116-23 du code du travail. 
+
+Les règles relatives à la dénonciation des conventions sont fixées par les articles R. 116-35, R. 116-36 et R. 116-31 du même
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2016-1171 du 29 août 2016 - art. 15 (V)
+	  - Code de l'éducation - art. R421-58 (VD)
+	  - Code de l'éducation - art. R481-8 (V)
+	  - Code du sport. - art. R114-21 (VD)
+
+	**Cite**:
+
+	  - Code du travail - art. R116-1 (Ab)
+	  - Code du travail - art. R116-12 (Ab)
+	  - Code du travail - art. R116-14 (Ab)
+	  - Code du travail - art. R116-18 (Ab)
+	  - Code du travail - art. R116-3-1 (Ab)
+	  - Code du travail - art. R116-35 (Ab)
+	  - Code du travail - art. R116-9 (Ab)
+
+
+###### Article R431-2
+
+Les règles relatives aux modalités d'organisation administrative et pédagogique des centres de formation d'apprentis, des
+sections d'apprentissage et des unités de formation par apprentissage sont fixées par les articles R. 116-3, R. 116-4 à R.
+116-8, R. 116-10, R. 116-11, R. 116-13 et R. 116-32-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R116-10 (Ab)
+	  - Code du travail - art. R116-13 (Ab)
+	  - Code du travail - art. R116-3 (Ab)
+	  - Code du travail - art. R116-32-1 (Ab)
+	  - Code du travail - art. R116-4 (Ab)
+
+
+###### Article R431-4
+
+Les règles relatives au recrutement et aux qualifications exigées du directeur et du personnel enseignant des centres de
+formation d'apprentis sont fixées par les articles R. 116-26 à R. 116-29 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R116-26 (V)
+
+
+##### Section 2 : Contrôle.
+
+###### Article R431-5
+
+Les règles relatives au contrôle de l'activité et du fonctionnement administratif et financier des centres de formation
+d'apprentis et des sections d'apprentissage sont fixées par l'article R. 116-33 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R116-33 (V)
+
+
+###### Article R431-6
+
+Le contrôle pédagogique de la formation donnée aux apprentis, mentionné à l'article R. 116-34 du code du travail, est assuré
+par le service académique de l'inspection de l'apprentissage, dans les conditions fixées par l'article R. 241-22 du présent
+code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R241-22 (V)
+
+
+##### Section 3 : Centres de formation d'apprentis  agricoles et sections d'apprentissage agricoles.
+
+###### Article R431-7
+
+Les règles relatives aux centres de formation d'apprentis agricoles sont fixées par l'article R. 811-46 du code rural.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code rural - art. R811-46 (V)
+
+
+### Titre IV : Les établissements d'enseignement privés. 
+
+#### Chapitre Ier : L'ouverture des établissements  d'enseignement privés.
+
+##### Section 1 : L'ouverture des établissements  d'enseignement du premier degré privés.
+
+##### Sous-section 1 : Conditions générales d'ouverture.
+
+###### Article R441-1
+
+Un registre spécial est ouvert dans chaque mairie pour recevoir les déclarations des personnes qui veulent établir des écoles
+privées. 
+
+Chaque déclaration indiquant la nature de l'école qu'il s'agit d'ouvrir est signée sur le registre par le demandeur et par le
+maire qui en fait immédiatement établir quatre copies. 
+
+L'une de ces copies est affichée à la porte de la mairie, où elle demeure pendant un mois. L'observation de cette formalité
+est prouvée par un certificat d'affichage que le maire dresse, signe et envoie directement, dans les trois jours de la
+déclaration, à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. 
+
+Les trois autres copies sont, ainsi que le récépissé mentionné par le deuxième alinéa de l'article L. 441-1, remises
+gratuitement par le maire au demandeur qui en adresse une au préfet et une autre au procureur de la République ; il lui en
+est délivré récépissé. 
+
+La troisième copie est adressée par le demandeur à l'inspecteur d'académie, qui tient un registre spécial ouvert à cet
+effet. 
+
+Le demandeur adresse à l'inspecteur d'académie, en même temps que la copie de sa déclaration : 
+
+1° Les pièces énumérées dans le premier alinéa de l'article L. 441-2 ; 
+
+2° Celles qui sont destinées à établir qu'il est français ou ressortissant d'un autre Etat membre de la Communauté européenne
+ou d'un autre Etat partie à l'accord sur l'Espace économique européen. 
+
+Récépissé de toutes ces pièces est donné au demandeur par l'inspecteur d'académie. 
+
+Ces mêmes formalités sont exigées de toute personne qui succède à une autre dans la direction d'une école privée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-1 (V)
+	  - Code de l'éducation - art. L441-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R441-3 (V)
+	  - Code de l'éducation - art. R441-5 (V)
+
+
+###### Article R441-2
+
+A l'expiration d'un délai de huit jours à compter de la réception de la déclaration, le maire fait savoir par écrit au
+recteur d'académie, qui en informe le préfet, à l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, ainsi qu'au demandeur, s'il s'oppose ou non à l'ouverture de l'école. Dans le cas où il fait opposition, sa
+décision est motivée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-3
+
+Le délai d'un mois accordé à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, pour
+faire opposition court du jour où a été délivré le récépissé, prévu au neuvième alinéa de l'article R. 441-1, des pièces qui
+doivent lui être adressées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-4
+
+Quand l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, fait opposition à l'ouverture
+d'une école, il en informe le recteur d'académie et lui transmet le dossier de l'affaire. Il notifie également par écrit sa
+décision au demandeur en lui faisant connaître les motifs pour lesquels son opposition est fondée. Le recteur de l'académie
+fait connaître au préfet la décision prise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat.
+
+###### Article D441-7
+
+A défaut d'opposition à l'ouverture d'un pensionnat privé ainsi que dans le cas où l'opposition formée a été levée, le préfet
+détermine, sur le rapport de l'inspecteur d'académie, après avis du conseil départemental de l'éducation nationale, le nombre
+maximum d'élèves qui peuvent être admis dans le local affecté en pensionnat et le nombre des maîtres nécessaires pour la
+surveillance de ces élèves. Il en fait mention sur le plan du local ; le plan est renvoyé au demandeur, qui est tenu de le
+présenter aux autorités préposées à la surveillance des écoles chaque fois qu'il en est requis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D441-9
+
+Aucun pensionnat primaire ne peut être établi dans des locaux dont le voisinage serait reconnu dangereux pour la moralité ou
+la santé des élèves.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-5
+
+Toute personne qui veut ouvrir un pensionnat primaire privé doit justifier qu'elle s'est soumise aux prescriptions édictées
+par les articles L. 441-1 à L. 441-4. 
+
+Les dispositions des articles R. 441-1 à R. 441-4 sont applicables à ces pensionnats. 
+
+Le plan joint à la demande indique avec précision la destination de chacune des pièces affectées au pensionnat, ainsi que la
+dimension desdites pièces.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-1 (V)
+	  - Code de l'éducation - art. R441-1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°85-895 du 21 août 1985 - art. 25 (Ab)
+
+
+###### Article R441-6
+
+La personne qui veut ouvrir à la fois une école privée et un pensionnat primaire privé peut accomplir simultanément les
+formalités prescrites tant pour le pensionnat que pour l'école.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-8
+
+Toute personne qui reçoit des pensionnaires tient un registre sur lequel elle inscrit les noms, prénoms, le lieu et la date
+de naissance de ses élèves pensionnaires, la date de leur entrée et celle de leur sortie.
+
+Chaque année elle transmet, avant le 1er novembre, à l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale, un rapport sur la situation et le personnel de son établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-10
+
+Lorsque, par application des articles L. 241-5 et L. 441-4, un pensionnat primaire se trouve dans le cas d'être fermé, le
+préfet, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, et le procureur de la
+République prennent toute mesure pour avertir les personnes responsables des élèves et assurer provisoirement l'accueil des
+élèves pensionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L241-5 (V)
+	  - Code de l'éducation - art. L441-4 (V)
+
+
+##### Section 2 : L'ouverture des établissements d'enseignement  du second degré privés.
+
+##### Sous-section 1 : Délivrance des certificats de stage.
+
+###### Article D441-11
+
+Le certificat de stage est délivré par le recteur de l'académie dans le ressort de laquelle le postulant se propose d'ouvrir
+un établissement, sur avis du conseil académique de l'éducation nationale. Il énonce :
+
+1° Les nom, prénoms, âge et lieu de naissance du postulant ;
+
+2° La nature et la durée des fonctions exercées, attestées par le chef de chaque établissement dans lequel le stage a été
+accompli.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D441-12
+
+Les délibérations des conseils académiques de l'éducation nationale portant propositions de dispense de stage sont motivées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Opposition à l'ouverture  d'un établissement d'enseignement secondaire privé.
+
+###### Article R441-13
+
+La décision par laquelle le recteur d'académie, le préfet ou le procureur de la République s'opposent à l'ouverture d'un
+établissement privé d'enseignement secondaire est motivée. Elle est notifiée par le recteur au demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R441-14
+
+Lorsque, par application des articles L. 441-9 et L. 914-6, un établissement d'enseignement du second degré privé se trouve
+dans le cas d'être fermé, le recteur d'académie, le préfet et le procureur de la République prennent toute mesure pour
+avertir les personnes responsables des élèves et assurer provisoirement l'accueil des élèves pensionnaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-9 (V)
+	  - Code de l'éducation - art. L914-6 (V)
+
+
+##### Sous-section 3 : Dispositions particulières.
+
+###### Article R441-15
+
+L'autorité compétente pour prendre les décisions après l'avis du conseil académique de l'éducation nationale dans les
+matières mentionnées aux 1°,2° et 3° de l'article L. 234-6 est le recteur de l'académie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-642 du 14 mars 1986 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L234-6 (V)
+
+
+##### Section 3 : L'ouverture des établissements d'enseignement technique privés.
+
+###### Article D441-16
+
+Est école technique privée tout établissement fondé et entretenu par un particulier, par une société, par une association,
+par un syndicat ou un groupement, donnant un enseignement sur place, commun à un certain nombre d'élèves, constituant un
+cycle d'études obligatoire dans toutes ses parties et mettant l'élève dans l'impossibilité d'occuper simultanément un emploi.
+
+Cet enseignement a pour objet la préparation théorique et pratique à l'exercice d'une profession industrielle ou commerciale
+complétée par des connaissances d'enseignement général.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre II : Rapports entre l'Etat  et les établissements d'enseignement privés.
+
+##### Section 1 : Contrôle de l'Etat sur les établissements  d'enseignement privés.
+
+##### Sous-section 1 : Dispositions applicables à tous les établissements d'enseignement privés.
+
+##### Paragraphe 1 : Registre du personnel.
+
+###### Article R442-1
+
+Dans toute école ou établissement d'enseignement privé, un registre spécial est ouvert pour recevoir les nom, prénoms,
+nationalité, date et lieu de naissance des personnels, l'indication des emplois qu'ils occupaient précédemment ainsi que la
+nature et la date d'obtention de leur brevet de capacité mentionné à l'article L. 914-3 et de leurs diplômes. 
+
+Ce registre est présenté aux autorités préposées à la surveillance et à l'inspection, mentionnées à l'article L. 241-4, quand
+elles inspectent les établissements d'enseignement du premier et du second degré. 
+
+L'établissement signale dans les mêmes conditions toute modification aux renseignements figurant dans le registre du
+personnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret du 16 août 1901 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L241-4 (V)
+	  - Code de l'éducation - art. L914-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+##### Paragraphe 2 : Etablissements bénéficiant d'une garantie d'emprunt.
+
+###### Article D442-2
+
+Les établissements privés dont les travaux de construction ou d'aménagement sont financés par des emprunts garantis par
+l'Etat doivent préparer leurs élèves à l'obtention de diplômes délivrés ou reconnus par l'Etat. Ils sont soumis aux contrôles
+pédagogiques effectués par le ministre chargé de l'éducation ou le ministre chargé de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-20 du 7 janvier 1966 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D442-6 (V)
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article D442-3
+
+Les travaux financés au moyen d'emprunts garantis par l'Etat ont pour objet soit l'extension, le premier équipement ou les
+grosses réparations de locaux d'enseignement existants, soit la construction et l'aménagement de nouveaux locaux
+d'enseignement.
+
+Ces travaux correspondent à une implantation rationnelle, compte tenu de la carte scolaire, des possibilités de recrutement
+du personnel enseignant et des besoins scolaires à satisfaire.
+
+Les travaux financés respectent les normes en vigueur telles qu'elles sont fixées par les ministères responsables pour les
+constructions scolaires des établissements d'enseignement publics qui relèvent de leur compétence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-20 du 7 janvier 1966 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D442-4
+
+Les groupements ou associations privés à caractère national auxquels peut être accordée la garantie de l'Etat pour les
+emprunts qu'ils émettent doivent être expressément autorisés par leurs statuts à effectuer au profit de leurs membres toutes
+les opérations financières que comportent lesdits emprunts, notamment la constitution de sûretés, le service des annuités et
+la répartition du produit et des charges des émissions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-20 du 7 janvier 1966 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D442-5
+
+La garantie de l'Etat ne peut être octroyée qu'aux emprunts pour lesquels des garanties complémentaires ont été constituées :
+
+1° Garanties réelles apportées par les établissements bénéficiaires ;
+
+2° Création d'un fonds de garantie mutuelle constitué par le groupement ou l'association emprunteur, et alimenté par des
+cotisations spéciales des établissements bénéficiaires et par un prélèvement obligatoire de 10 % des emprunts émis.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-20 du 7 janvier 1966 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D442-6
+
+Les demandes de garantie de l'Etat sont soumises à l'instruction d'une commission interministérielle présidée par un
+conseiller maître ou un conseiller référendaire de la Cour des comptes et comprenant un représentant du ministre chargé du
+budget, du ministre chargé de l'éducation, du ministre de l'intérieur, du ministre chargé du travail, du ministre chargé de
+l'agriculture et du secrétariat général du Gouvernement. 
+
+La liste des travaux pouvant être financés au moyen d'emprunts garantis par l'Etat conformément aux dispositions des articles
+D. 442-2 à D. 442-5 est fixée par arrêté du Premier ministre, du ministre chargé du budget et du ministre chargé de
+l'éducation ou du ministre chargé de l'agriculture. 
+
+La garantie de l'Etat est octroyée par arrêté du ministre de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°66-20 du 7 janvier 1966 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D442-2 (V)
+
+
+##### Sous-section 2 : Dispositions applicables aux établissements d'enseignement privés placés sous contrat d'association ou sous contrat simple.
+
+##### Paragraphe 1 : Organisation pédagogique.
+
+###### Article D442-7
+
+Les règles générales d'organisation des formations et des enseignements et les programmes sont applicables aux établissements
+d'enseignement privés sous contrat, conformément aux articles D. 321-18 à D. 321-27, D. 331-47 à D. 331-61, D. 332-1 à D.
+332-15 et D. 333-1 à D. 333-18.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-521 du 18 mai 1977 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-18 (V)
+	  - Code de l'éducation - art. D331-47 (VT)
+	  - Code de l'éducation - art. D332-1 (V)
+	  - Code de l'éducation - art. D333-1 (V)
+
+
+###### Article D442-8
+
+Les établissements d'enseignement privés sont organisés selon les mêmes structures pédagogiques que celles des établissements
+d'enseignement publics. Ils sont, à cet effet, divisés en unités autonomes. 
+
+Les établissements d'enseignement privés sous contrat font figurer dans leur dénomination le terme d'école, de collège ou de
+lycée suivi, en application des dispositions prévues par l'article L. 471-2, du mot "privé".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°77-521 du 18 mai 1977 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L471-2 (V)
+
+
+##### Paragraphe 2 : Contrôle financier et administratif.
+
+###### Article R442-9
+
+Les préfets sont institués ordonnateurs secondaires pour le paiement des dépenses auxquelles donne lieu l'application des
+textes réglant les rapports entre l'Etat et les établissements d'enseignement privés.
+
+Les préfets peuvent déléguer leur signature soit au recteur d'académie, soit à l'inspecteur d'académie, directeur des
+services départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-10 (V)
+	  - Code de l'éducation - art. R442-18 (V)
+	  - Code de l'éducation - art. R442-43 (V)
+	  - Code de l'éducation - art. R442-76 (V)
+
+
+###### Article R442-10
+
+Les trésoriers-payeurs généraux sont comptables assignataires des dépenses mentionnées à l'article R. 442-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-3 (V)
+
+
+###### Article R442-11
+
+La rémunération des maîtres contractuels ou auxiliaires et des maîtres agréés exerçant respectivement leur enseignement dans
+les classes placées sous le régime de l'association ou sous le régime du contrat simple est mandatée mensuellement et à terme
+échu, selon les règles applicables au paiement des traitements des maîtres de l'enseignement public.
+
+A l'appui du premier mandat de rémunération adressé au trésorier-payeur général sont jointes les pièces justificatives
+suivantes, établies en triple exemplaire :
+
+1° La fiche d'identification du maître comportant notamment les renseignements d'état civil et de situation de famille ainsi
+que les éléments de base de rémunération. Cette fiche est signée par le maître, attestée par le chef d'établissement et visée
+par l'ordonnateur ;
+
+2° La copie du contrat individuel ou de la décision portant agrément du maître ou, le cas échéant, copie de la délégation
+rectorale s'il s'agit d'un maître auxiliaire ;
+
+3° Le cas échéant, l'état signé par le chef d'établissement et visé par l'ordonnateur, faisant apparaître, pour chaque maître
+n'assurant pas un service complet, le nombre d'heures d'enseignement assuré ;
+
+4° Le cas échéant, le relevé signé par le chef d'établissement et visé par l'ordonnateur des journées d'absence ou de congé
+non rémunérées.
+
+Copie certifiée de tout acte, contrat, décision ou déclaration portant modification des documents énumérés ci-dessus est
+annexée, en triple exemplaire, au mandat de paiement correspondant.
+
+En outre, la copie certifiée par l'ordonnateur du contrat simple ou du contrat d'association conclu avec l'établissement est
+produite par l'ordonnateur ou comptable assignataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-17 (V)
+	  - Code de l'éducation - art. R442-18 (VD)
+
+
+###### Article R442-12
+
+Les heures supplémentaires de remplacement, de suppléance ou d'enseignement partiel effectuées dans les conditions prévues à
+l'article 8 du décret n° 60-746 du 28 juillet 1960 relatif aux conditions financières de fonctionnement (personnel) des
+classes sous contrat simple et à l'article 10 du décret n° 60-745 du 28 juillet 1960 relatif aux conditions de fonctionnement
+(personnel et matériel) des classes sous contrat d'association font l'objet de mandatements distincts. A l'appui de chaque
+mandat sont jointes, en triple exemplaire, les pièces justificatives suivantes : 
+
+1° La décision de l'autorité académique autorisant le bénéficiaire à effectuer des heures supplémentaires de remplacement, de
+suppléance ou d'enseignement partiel ; 
+
+2° Le décompte des heures effectuées signé par l'intéressé, attesté par le chef d'établissement et visé par l'ordonnateur.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-746 du 28 juillet 1960 - art. 8 (V)
+	  - Décret n°60-745 du 28 juillet 1960 - art. 10 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-13 (V)
+
+
+###### Article R442-13
+
+Le remboursement total ou partiel des charges sociales et fiscales, prévu par l'article 5 du décret n° 60-746 du 28 juillet
+1960 mentionné à l'article R. 442-12, fait l'objet d'un titre de perception établi par l'ordonnateur. Ce titre de perception
+est recouvré par le trésorier-payeur général assignataire des dépenses et imputé au compte Dépenses des ministères annulées
+par suite de reversements de fonds ».
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-746 du 28 juillet 1960 - art. 5 (V)
+	  - Code de l'éducation - art. R442-12 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-14
+
+Le forfait d'externat prévu au deuxième alinéa de l'article L. 442-9 est mandaté trimestriellement et à terme échu. 
+
+A l'appui du mandat afférent au premier trimestre de l'année scolaire sont jointes, en triple exemplaire, les pièces
+justificatives suivantes : 
+
+1° L'état nominatif des élèves inscrits au 15 novembre de chaque année dans les classes placées sous contrat. Cet état est
+signé par le chef d'établissement et visé par l'ordonnateur ; 
+
+2° La déclaration du chef d'établissement faisant connaître, le cas échéant, le montant de la participation allouée par les
+collectivités locales. 
+
+En cas de changement au cours des trimestres suivants, un état modificatif, en triple exemplaire, est joint aux mandatements
+ultérieurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-18 (V)
+	  - Code de l'éducation - art. R442-80 (V)
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article R442-15
+
+Le contrôle administratif des établissements d'enseignement placés sous le régime du contrat simple ou du contrat
+d'association incombe à l'inspection générale de l'administration de l'éducation nationale et de la recherche ainsi qu'aux
+autorités académiques compétentes conformément aux règles applicables dans l'enseignement public.
+
+Ce contrôle est exercé dans le secteur sous contrat de l'établissement. Il porte sur l'observation des textes législatifs et
+réglementaires applicables à l'établissement et sur l'accomplissement des engagements souscrits par celui-ci.
+
+Les inspecteurs généraux de l'administration de l'éducation nationale et de la recherche disposent des pouvoirs
+d'investigation financière nécessaires à l'accomplissement de cette mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-76 (V)
+
+
+###### Article R442-16
+
+Le contrôle financier des établissements d'enseignement placés sous le régime du contrat simple ou du contrat d'association
+incombe au trésorier-payeur général du département du siège de l'établissement, en liaison avec les inspecteurs généraux de
+l'administration de l'éducation nationale et de la recherche et les services académiques. Il est exercé dans les conditions
+définies aux articles R. 442-17 à R. 442-21. 
+
+Les établissements mentionnés au premier alinéa sont également soumis aux vérifications de l'inspection générale des
+finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-17 (V)
+
+
+###### Article R442-17
+
+Le contrôle exercé par le trésorier-payeur général a pour objet de : 
+
+1° Vérifier l'exactitude des divers éléments pris en compte dans les mandatements énumérés aux articles R. 442-11, R. 442-12
+et R. 442-14 ; 
+
+2° S'assurer que les contributions demandées aux familles des externes simples des classes placées sous contrat d'association
+sont conformes aux clauses du contrat ; 
+
+3° Vérifier la conformité de l'utilisation par l'établissement de la contribution de l'Etat prévue aux articles L. 442-9 et
+R. 442-45 à R. 442-47 ; 
+
+4° Déterminer si le taux de réduction des redevances de scolarité, tel qu'il est prévu à l'article 9 du décret n° 60-746 du
+28 juillet 1960 mentionné à l'article R. 442-12, correspond effectivement à la prise en charge par l'Etat des traitements des
+maîtres agréés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-746 du 28 juillet 1960 - art. 9 (Ab)
+	  - Code de l'éducation - art. L442-9 (V)
+	  - Code de l'éducation - art. R442-11 (V)
+	  - Code de l'éducation - art. R442-45 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1516 du 22 décembre 2008 (V)
+	  - Code de l'éducation - art. R442-16 (V)
+	  - Code de l'éducation - art. R442-76 (V)
+
+
+###### Article R442-18
+
+Pour l'exercice du contrôle financier prévu aux articles R. 442-9 à R. 442-17, les établissements sont tenus : 
+
+1° De conserver et de présenter à toute réquisition du trésorier-payeur général ou de son délégué copie de toutes les pièces
+justificatives énumérées aux articles R. 442-11, R. 442-12 et R. 442-14 ; 
+
+2° D'adresser au trésorier-payeur général, dans les trois mois suivant la clôture de l'exercice, les comptes de résultats de
+l'exercice écoulé. Si l'établissement titulaire d'un contrat a bénéficié de ressources afférentes à la taxe d'apprentissage,
+l'emploi de ces ressources doit être retracé en détail sous une rubrique spéciale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 10 al 1 à 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-11 (V)
+	  - Code de l'éducation - art. R442-14 (V)
+	  - Code de l'éducation - art. R442-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-76 (V)
+
+
+###### Article R442-19
+
+Les établissements placés sous contrat d'association sont tenus d'organiser leur comptabilité de manière telle que celle-ci
+fasse apparaître distinctement pour le secteur de l'établissement placé sous le régime du contrat : 
+
+1° Les charges et les produits de l'exercice ; 
+
+2° Les résultats ; 
+
+3° La situation des immobilisations et le tableau des amortissements correspondants. 
+
+Cette comptabilité, qui est tenue à la disposition du trésorier-payeur général ou de son délégué, s'inspire du plan comptable
+général approuvé par arrêté du 22 juin 1999 du ministre de la justice, du ministre chargé de l'économie et du ministre chargé
+du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 10 al 4 à 8 (Ab)
+
+	**Cite**:
+
+	  - Arrêté du 22 juin 1999 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-20
+
+Le rapport de vérification du trésorier-payeur général est communiqué au chef de l'établissement, qui doit produire ses
+observations dans un délai d'un mois.
+
+Passé ce délai, un exemplaire de ce rapport, complété le cas échéant par les observations du chef d'établissement et par les
+nouvelles observations du trésorier-payeur général, est adressé au ministre chargé de l'éducation par l'intermédiaire du
+recteur d'académie.
+
+Un autre exemplaire est adressé au ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-21
+
+Lorsque le trésorier-payeur général constate des manquements graves aux clauses financières du contrat simple ou du contrat
+d'association, il suspend le paiement des mandats établis au bénéfice de l'établissement si la direction de celui-ci est en
+cause, ou le paiement des rémunérations des maîtres reconnus responsables des manquements constatés.
+
+Le paiement ne peut ensuite intervenir que sur réquisition de l'ordonnateur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°61-246 du 15 mars 1961 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 3 : Dispositions applicables aux établissements d'enseignement privés hors contrat.
+
+###### Article D442-22
+
+Le contenu des connaissances requis des élèves des établissements d'enseignement privés hors contrat est fixé par les
+articles D. 131-11 à D. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+##### Section 2 : Demandes d'intégration d'établissements d'enseignement privés dans l'enseignement public.
+
+##### Sous-section 1 : Dispositions générales.
+
+###### Article R442-23
+
+Les demandes présentées en application de l'article L. 442-4, et tendant à obtenir l'intégration d'un établissement
+d'enseignement privé dans l'enseignement public, sont présentées par la personne physique ou morale qui est à la fois partie
+au contrat d'enseignement passé avec les parents des élèves et employeur, le cas échéant, des maîtres et du personnel
+d'administration et qui a la jouissance des biens meubles et immeubles affectés à l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 1 ecqc les demandes d'intégration (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-4 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-24 (V)
+	  - Code de l'éducation - art. R442-26 (V)
+
+
+###### Article R442-24
+
+Dans le cas où les droits et obligations définis à l'article R. 442-23 sont partagés entre plusieurs personnes physiques ou
+morales, les demandes sont présentées par l'ensemble de celles-ci agissant conjointement ou représentées par un mandataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 2 ecqc les demandes d'intégration (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-23 (V)
+
+
+###### Article R442-25
+
+Le préfet de département instruit la demande, en liaison avec le recteur d'académie et la collectivité publique intéressée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 3 ecqc les demandes d'intégration (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-26
+
+Les établissements d'enseignement privés du premier et du second degré et les écoles privées d'enseignement technique
+régulièrement ouverts qui demandent à être intégrés dans l'enseignement public doivent : 
+
+1° Répondre à un besoin scolaire apprécié par le recteur de l'académie ; 
+
+2° Présenter une situation de postes d'enseignement telle que ceux-ci soient en majorité tenus, au moment de l'intégration,
+par des maîtres aptes à être titularisés dans les cadres de l'enseignement public. 
+
+Les demandes sont présentées conformément aux dispositions des articles R. 442-23 à R. 442-25.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-564 du 30 mai 2014 - art. 1 (V)
+	  - Code de l'éducation - art. R442-84 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-23 (V)
+
+
+##### Sous-section 2 : Dispositions relatives au personnel.
+
+###### Article R442-27
+
+Les dispositions relatives aux maîtres laïcs d'un établissement d'enseignement privé qui a été intégré dans l'enseignement
+public sont fixées par les articles 2 à 15 du décret n° 60-388 du 22 avril 1960 relatif à l'intégration d'établissements
+d'enseignement privés dans l'enseignement public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 2 (V)
+
+
+##### Sous-section 3 : Dispositions relatives  aux immeubles et au matériel.
+
+###### Article R442-28
+
+Tout établissement d'enseignement privé qui demande son intégration dans l'enseignement public doit disposer de locaux
+appropriés. Un rapport est établi conjointement par l'autorité académique et la collectivité publique de rattachement sur
+l'état général de ces locaux et sur leur adaptation à l'usage d'établissement d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-564 du 30 mai 2014 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 16 (Ab)
+
+
+###### Article R442-29
+
+Si l'établissement d'enseignement est propriétaire des immeubles utilisés pour son fonctionnement, l'acceptation de la
+demande d'intégration ne devient définitive qu'à compter de la cession à la collectivité intéressée soit de la propriété,
+soit de la jouissance de ces immeubles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 17 (Ab)
+
+
+###### Article R442-30
+
+Si l'établissement est usufruitier, locataire ou occupant à un titre quelconque, l'acceptation de la demande ne devient
+définitive qu'à compter de la cession du droit de jouissance à la collectivité intéressée, avec l'accord du propriétaire et
+pour une durée maximale de neuf ans.
+
+Un état des lieux contradictoire, auquel interviennent la collectivité, l'établissement et le propriétaire, est dressé dans
+le mois de la conclusion de l'acte constatant la cession de jouissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 18 (Ab)
+
+
+###### Article R442-31
+
+L'acceptation de la demande d'intégration peut entraîner le transfert à la collectivité intéressée des droits détenus par
+l'établissement sur le matériel et l'équipement des locaux.
+
+Pour les matériels ou équipements dont l'établissement est seulement détenteur, l'accord du propriétaire au transfert prévu
+ci-dessus est joint à la demande d'intégration avec un inventaire évaluatif détaillé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 19 (Ab)
+
+
+###### Article R442-32
+
+Dans les établissements d'enseignement privés du premier degré, du second degré et dans les écoles privées d'enseignement
+technique régulièrement ouverts qui seront intégrés dans l'enseignement public, les locaux qui sont réservés à l'exercice du
+culte gardent leur affectation. Les services d'aumônerie sont maintenus dans les conditions prévues par les articles R. 141-1
+à R. 141-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-388 du 22 avril 1960 - art. 20 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R141-1 (V)
+
+
+##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat  par les établissements d'enseignement privés.
+
+##### Sous-section 1 : Le contrat d'association.
+
+###### Article R442-33
+
+Peuvent demander à passer avec l'Etat un contrat d'association à l'enseignement public les établissements d'enseignement
+privés du premier degré et du second degré ouverts depuis cinq ans au moins à la date d'entrée en vigueur du contrat.
+Toutefois, ce délai peut être ramené, par décision du préfet du département, à un an dans les quartiers nouveaux des zones
+urbaines lorsque ces quartiers comprennent au moins 300 logements neufs. 
+
+Les classes des établissements faisant l'objet de la demande de contrat doivent répondre à un besoin scolaire reconnu,
+apprécié conformément aux dispositions de l'article L. 442-5, et en ce qui concerne les classes des établissements du second
+degré, en fonction des schémas prévisionnels, des plans régionaux et de la carte des formations supérieures prévus aux
+articles L. 214-1 et L. 214-2. Le contrat ne peut être conclu que dans les conditions fixées par l'article L. 442-14. 
+
+Les conditions fixées par l'article L. 442-13 à la conclusion des contrats s'apprécient, notamment en ce qui concerne les
+effectifs, dans le cadre du département pour le premier degré et le premier cycle du second degré et dans le cadre de la
+région pour les lycées. 
+
+Les établissements présentent leurs demandes suivant les conditions fixées par les articles R. 442-59 à R. 442-61. Pour les
+classes faisant l'objet de la demande de contrat, ils disposent de locaux et d'installations appropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L214-1 (V)
+	  - Code de l'éducation - art. L442-13 (V)
+	  - Code de l'éducation - art. L442-14 (V)
+	  - Code de l'éducation - art. L442-5 (V)
+	  - Code de l'éducation - art. R442-59 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article R442-34
+
+Les établissements privés demandeurs justifient que leurs directeurs et leurs maîtres possèdent les titres de capacité prévus
+selon les dispositions du décret n° 60-386 du 22 avril 1960 relatif aux titres de capacité dont doivent justifier les
+directeurs et maîtres des établissements d'enseignement privés placés sous contrat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-386 du 22 avril 1960 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 2 (Ab)
+
+
+###### Article R442-35
+
+Les classes sous contrat d'association respectent les programmes et les règles appliquées dans l'enseignement public en
+matière d'horaires sauf dérogation accordée par le recteur d'académie en considération de l'intérêt présenté par une
+expérience pédagogique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 3 (Ab)
+
+
+###### Article R442-36
+
+L'organisation des services d'enseignement, dans les classes sous contrat d'association, fait l'objet d'un tableau de service
+soumis aux autorités académiques.
+
+L'instruction religieuse peut être dispensée soit aux heures non occupées par l'emploi du temps des classes, soit à la
+première ou à la dernière heure de l'emploi du temps de la matinée ou de l'après-midi.
+
+Les autres heures d'activités spirituelles et éducatives complémentaires ne peuvent être incluses dans le tableau de service.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 5 (Ab)
+
+
+###### Article R442-37
+
+Le contrat d'association peut porter sur une partie ou sur la totalité des classes de l'établissement demandeur ; il peut
+porter également sur les classes préparatoires aux grandes écoles ou assimilées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 6 (Ab)
+
+
+###### Article R442-38
+
+Les règles relatives à la nomination des maîtres titulaires, des maîtres contractuels ou des délégués nommés par le recteur
+d'académie dans les classes sous contrat d'association ainsi qu'aux commissions consultatives mixtes consultées à cet effet
+sont fixées par les articles 8,8-1,8-2,8-3,8-5,8-6,8-7 et 8-8 du décret n° 60-389 du 22 avril 1960 relatif au contrat
+d'association à l'enseignement public passé par les établissements d'enseignement privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 8 (Ab)
+	  - Décret n°60-389 du 22 avril 1960 - art. 8-5 (Ab)
+
+
+###### Article R442-39
+
+Le chef d'établissement assume la responsabilité de l'établissement et de la vie scolaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 9 al 1 (Ab)
+
+
+###### Article R442-40
+
+En matière d'accidents scolaires, la responsabilité de l'Etat est appréciée dans le cadre des dispositions de l'article 1384
+du code civil et de l'article L. 911-4 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code civil - art. 1384 (V)
+	  - Code de l'éducation - art. L911-4 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 10 (Ab)
+
+
+###### Article R442-41
+
+L'enseignement dispensé dans les classes sous contrat d'association est apprécié par les autorités académiques, qui prennent
+l'avis du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 19 octobre 2010 - art. 2 (V)
+	  - Arrêté du 22 décembre 2014 - art. 2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 12 (Ab)
+
+
+###### Article R442-42
+
+Tout établissement ayant passé avec l'Etat un contrat d'association à l'enseignement public peut, au cours ou au terme du
+contrat, demander son intégration dans cet enseignement. Dans tous les autres cas, la fin du régime du contrat a pour effet
+de replacer l'établissement sous le régime en vigueur pour les établissements d'enseignement privés qui ne sont pas liés à
+l'Etat par contrat ; les maîtres devenus fonctionnaires titulaires ou stagiaires, sauf démission, sont mutés dans un
+établissement d'enseignement public ou dans un autre établissement d'enseignement privé lié à l'Etat par contrat
+d'association.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 15 al 1 (Ab)
+
+
+###### Article R442-43
+
+Les conditions générales de fonctionnement financier applicables aux classes sous contrat d'association, ainsi que les
+modalités des contrôles administratifs et financiers qu'exercent l'Etat et les collectivités publiques intéressées sont
+fixées par l'article L. 442-9, les articles 1er, 4 à 6,8 à 11 du décret n° 60-745 du 28 juillet 1960 relatif aux conditions
+financières de fonctionnement (personnel et matériel) des classes sous contrat d'association, les articles R. 442-9 à R.
+442-21, R. 442-45 à R. 442-48 et R. 442-58.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-745 du 28 juillet 1960 - art. 1 (Ab)
+	  - Décret n°60-745 du 28 juillet 1960 - art. 4 (Ab)
+	  - Décret n°60-745 du 28 juillet 1960 - art. 8 (Ab)
+	  - Code de l'éducation - art. L442-9 (V)
+	  - Code de l'éducation - art. R442-45 (V)
+	  - Code de l'éducation - art. R442-58 (V)
+	  - Code de l'éducation - art. R442-9 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 16 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+##### Sous-section 2 : Financement des dépenses des classes sous contrat d'association.
+
+###### Article R442-44
+
+En ce qui concerne les classes élémentaires, les communes de résidence sont tenues d'assumer, pour les élèves domiciliés sur
+leur territoire et dans les mêmes conditions que pour les classes élémentaires publiques, les dépenses de fonctionnement
+(matériel) des classes sous contrat, sous réserve des charges afférentes aux personnels enseignants rémunérés directement par
+l'Etat. 
+
+En ce qui concerne les classes maternelles ou enfantines, la commune siège de l'établissement, si elle a donné son accord à
+la conclusion du contrat, est tenue d'assumer, pour les élèves domiciliés dans la commune et dans les mêmes conditions que
+pour les classes maternelles ou enfantines publiques, les dépenses de fonctionnement (matériel) des classes sous contrat,
+sous réserve des charges afférentes aux personnels enseignants rémunérés directement par l'Etat. Pour les élèves non
+domiciliés dans la commune siège de l'établissement, leurs communes de résidence peuvent également participer, par
+convention, aux dépenses de fonctionnement de ces classes, sous réserve des dispositions de l'article R. 442-47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 7 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-47 (V)
+
+
+###### Article R442-45
+
+Les dépenses de fonctionnement relatives aux personnels non enseignants afférentes à l'externat des classes sous contrat des
+collèges et lycées privés sont prises en charge dans les conditions prévues à l'article L. 442-9. 
+
+Les départements, pour les classes sous contrat des collèges, les régions, pour les classes sous contrat des lycées, et la
+collectivité territoriale de Corse, pour les classes sous contrat des collèges et lycées de Corse, assument, en ce qui
+concerne les établissements privés, les dépenses de fonctionnement (matériel) afférentes à l'externat, calculées dans les
+conditions prévues à l'article L. 442-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 7-1 sauf 1 ère phrase al 1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-9 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-17 (V)
+	  - Code de l'éducation - art. R442-43 (V)
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article R442-46
+
+La participation des départements ou régions autres que ceux du siège de l'établissement est réglée par les dispositions
+suivantes :
+
+1° En ce qui concerne les collèges, lorsque 10 % au moins des élèves résident dans un autre département, une participation
+aux charges de fonctionnement peut être demandée par le département du siège de l'établissement au département de résidence.
+Le montant de cette participation est fixé par convention entre les départements intéressés. En cas de désaccord, le
+représentant de l'Etat dans la région fixe les modalités de cette participation ; si les départements appartiennent à des
+régions différentes, ces modalités sont conjointement fixées par les représentants de l'Etat dans les régions intéressées.
+
+2° En ce qui concerne les lycées, lorsque 10 % au moins des élèves ou 5 % au moins des élèves, s'il s'agit d'un lycée
+professionnel, résident dans une autre région, une participation aux charges de fonctionnement peut être demandée à la région
+de résidence. Le montant de cette participation est fixé par convention entre les régions intéressées.
+
+En cas de désaccord, les représentants de l'Etat dans les régions en cause fixent conjointement les modalités de cette
+participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 7-2 (Ab)
+
+
+###### Article R442-47
+
+En aucun cas, les avantages consentis par les collectivités publiques pour le fonctionnement des classes sous contrat
+d'association ne peuvent être proportionnellement supérieurs à ceux consentis par les mêmes collectivités et dans le même
+domaine aux classes des établissements d'enseignement public correspondants du même ressort territorial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 7-3 (Ab)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-44 (V)
+
+
+###### Article R442-48
+
+Le régime de l'externat simple pour les classes placées sous le régime de l'association est la gratuité. Toutefois, une
+contribution peut être demandée aux familles :
+
+1° Pour couvrir les frais afférents à l'enseignement religieux et à l'exercice du culte ;
+
+2° Pour le règlement des annuités correspondant à l'amortissement des bâtiments scolaires et administratifs affectés aux
+classes sous contrat, pour l'acquisition du matériel d'équipement scientifique, scolaire ou sportif, ainsi que pour la
+constitution d'une provision pour grosses réparations de ces bâtiments.
+
+Le contrat précise le montant des redevances correspondantes ainsi que celles demandées aux familles des externes surveillés,
+des demi-pensionnaires et des internes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-745 du 28 juillet 1960 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 4 : Contrat simple passé avec l'Etat  par des établissements d'enseignement privés.
+
+###### Article R442-49
+
+Peuvent demander à passer avec l'Etat, dans les conditions prévues aux articles R. 442-59 à R. 442-61, un contrat simple
+d'une durée de trois ans au moins, les établissements d'enseignement privés du premier degré ouverts depuis cinq ans au moins
+à la date d'entrée en vigueur du contrat. 
+
+Toutefois, ce délai peut être ramené par décision du préfet du département à un an dans les quartiers nouveaux des zones
+urbaines lorsque ces quartiers comprennent au moins 300 logements neufs. 
+
+Le contrat ne peut être conclu que dans les conditions fixées par l'article L. 442-14.
+
+Les établissements disposent, pour les classes faisant l'objet de la demande de contrat, de locaux et d'installations
+appropriés aux exigences de la salubrité et de l'hygiène conformément aux dispositions du chapitre Ier du titre III du livre
+III de la partie I du code de la santé publique et de celles du livre Ier du code de la construction et de l'habitation. 
+
+Les effectifs d'élèves des classes faisant l'objet de la demande de contrat sont ceux des classes correspondantes de
+l'enseignement public, toutes conditions de fonctionnement étant égales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-14 (V)
+	  - Code de l'éducation - art. R442-59 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article R442-50
+
+Les établissements qui ont passé avec l'Etat un contrat simple préparent aux examens officiels et organisent l'enseignement
+par référence aux programmes et aux règles générales relatives aux horaires de l'enseignement public.
+
+L'organisation des services d'enseignement des classes sous contrat simple fait l'objet d'un tableau de service soumis à
+l'approbation des autorités académiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 2 (Ab)
+
+
+###### Article R442-51
+
+Le contrat simple peut porter sur une partie ou sur la totalité des classes de l'établissement demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 3 (Ab)
+
+
+###### Article R442-52
+
+La prise en charge par l'Etat des traitements des maîtres agréés a pour effet une réduction des redevances de scolarité
+demandées aux familles des élèves fréquentant les classes sous contrat simple.
+
+Le contrat passé entre l'établissement et l'Etat prévoit le taux de cette réduction qui est portée à la connaissance des
+familles. Les redevances demandées aux familles permettent néanmoins d'assurer l'équilibre financier des classes sous
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-746 du 28 juillet 1960 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-53
+
+Les dépenses de fonctionnement (matériel) des classes sous contrat simple peuvent être prises en charge par les communes dans
+les conditions fixées par convention passée entre la collectivité et l'établissement intéressé.
+
+En aucun cas, les avantages consentis par les collectivités publiques dans le domaine du fonctionnement matériel des classes
+sous contrat simple ne peuvent être proportionnellement supérieurs à ceux consentis par les mêmes collectivités et dans le
+même domaine aux classes des établissements d'enseignement public correspondants du même ressort territorial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 7 (Ab)
+
+
+###### Article R442-54
+
+Les conditions dans lesquelles il est pourvu aux emplois vacants dans les établissements d'enseignement privés sous contrat
+simple, notamment par des maîtres agréés, sont fixés par les articles 8 et 9 du décret n° 60-390 du 22 avril 1960 relatif au
+contrat simple passé avec l'Etat par les établissements d'enseignement privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 8 (V)
+
+
+###### Article R442-55
+
+Le chef d'établissement assume la responsabilité de l'établissement et de la vie scolaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 10 al 1 (Ab)
+
+
+###### Article R442-56
+
+L'enseignement dispensé dans les classes sous contrat simple est apprécié par les autorités académiques qui prennent l'avis
+du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 19 octobre 2010 - art. 2 (V)
+	  - Arrêté du 22 décembre 2014 - art. 2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 11 (Ab)
+
+
+###### Article R442-57
+
+Tout établissement ayant passé avec l'Etat un contrat simple peut, en cours ou au terme du contrat, demander à bénéficier du
+contrat d'association à l'enseignement public ou demander son intégration dans cet enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-390 du 22 avril 1960 - art. 13 (Ab)
+
+
+##### Section 5 : Dispositions communes aux établissements liés à l'Etat par contrat.
+
+##### Sous-section 1 : Instruction des demandes de passation de contrat.
+
+###### Article R442-58
+
+Le contrat d'association ou le contrat simple prend effet à compter du début de l'année scolaire suivant l'acceptation de la
+demande par l'Etat.
+
+**Nota:**
+
+Décret n° 2008-263 du 14 mars 2008 art. 14 : L'article R. 442-58 du code de l'éducation est applicable aux demandes
+présentées postérieurement à l'entrée en vigueur du présent décret.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-746 du 28 juillet 1960 - art. 10 bis al 1 (V)
+	  - Décret n°60-745 du 28 juillet 1960 - art. 16 al 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. 14 (V)
+	  - Code de l'éducation - art. R442-43 (V)
+
+
+###### Article R442-59
+
+Les demandes présentées en application des articles L. 442-5 et L. 442-12, et tendant à obtenir l'application du régime du
+contrat d'association ou du contrat simple à une partie ou à la totalité des classes d'un établissement d'enseignement privé,
+sont présentées par la personne physique ou morale qui est à la fois partie au contrat d'enseignement passé avec les parents
+des élèves et employeur du personnel d'administration ainsi que, le cas échéant, des maîtres et qui a la jouissance des biens
+meubles et immeubles affectés à l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 1 ecqc les contrats (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-12 (V)
+	  - Code de l'éducation - art. L442-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-33 (V)
+	  - Code de l'éducation - art. R442-49 (V)
+	  - Code de l'éducation - art. R442-60 (V)
+	  - Code de l'éducation - art. R494-14 (V)
+
+
+###### Article R442-60
+
+Dans le cas où les droits et obligations définis à l'article R. 442-59 sont partagés entre plusieurs personnes physiques ou
+morales, les demandes sont présentées par l'ensemble de celles-ci agissant conjointement ou représentées par un mandataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 2 ecqc les contrats (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-59 (V)
+
+
+###### Article R442-61
+
+Le préfet de département instruit la demande, en liaison avec l'autorité académique, et signe le contrat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°60-385 du 22 avril 1960 - art. 3 ecqc les contrats (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Résiliation des contrats.
+
+###### Article R442-62
+
+En cas de manquements graves aux dispositions légales et réglementaires ou aux stipulations du contrat, et après avis de la
+commission de concertation prévue par l'article L. 442-11, la résiliation du contrat d'association ou du contrat simple peut
+être prononcée par le préfet du département. La décision de résiliation est motivée. Elle prend effet au terme de l'année
+scolaire en cours. 
+
+Le contrat ne peut être résilié à la demande de l'établissement qu'avec l'accord de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Anciens textes**:
+
+	  - Décret n°60-389 du 22 avril 1960 - art. 15 al 2 et 3 (Ab)
+	  - Décret n°60-390 du 22 avril 1960 - art. 12 (Ab)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-76 (V)
+
+
+##### Sous-section 3 : Les commissions de concertation.
+
+###### Article R442-63
+
+Les commissions de concertation mentionnées à l'article L. 442-11 sont instituées au siège de chaque académie. En outre, si
+le nombre des contrats simples et des contrats d'association passés dans un département le justifie, une commission de
+concertation peut être instituée au chef-lieu de ce département, après avis du recteur d'académie, par décision du préfet de
+la région dans laquelle est situé le siège de l'académie. 
+
+Lorsqu'une commission de concertation est instituée au chef-lieu d'un département, cette commission est seule consultée sur
+les questions relatives aux contrats passés avec des établissements situés dans le département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R494-10 (V)
+
+
+###### Article R442-64
+
+La commission de concertation instituée au siège de l'académie comprend :
+
+1° Au titre des personnes désignées par l'Etat :
+
+a) Le préfet de région, président ;
+
+b) Le recteur de l'académie ;
+
+c) Quatre représentants des services académiques et trois personnalités qualifiées dans les domaines économique, social,
+éducatif ou culturel, désignés par le préfet de région sur proposition du recteur d'académie ;
+
+2° Au titre des représentants des collectivités territoriales :
+
+a) Trois conseillers régionaux désignés par le conseil régional ;
+
+b) Trois conseillers généraux désignés par accord des présidents des conseils généraux des départements intéressés ou, à
+défaut, élus par le collège des conseillers généraux de ces départements ;
+
+c) Trois maires désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des
+maires de l'ensemble des départements intéressés ;
+
+3° Au titre des représentants des établissements d'enseignement privés :
+
+a) Trois chefs d'établissement d'enseignement privé, parmi lesquels au moins un chef d'établissement d'enseignement primaire
+privé et un chef d'établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région, sur
+proposition des organisations syndicales les plus représentatives au niveau académique, parmi les chefs d'établissement
+exerçant leurs fonctions depuis trois ans au moins dans un établissement ayant passé avec l'Etat un contrat d'association ou
+un contrat simple ;
+
+b) Trois maîtres enseignant dans un établissement privé, parmi lesquels au moins un maître d'un établissement d'enseignement
+primaire privé et un maître d'un établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région,
+sur proposition des organisations syndicales les plus représentatives au niveau académique, respectivement parmi les maîtres
+titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat et parmi les maîtres
+titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la
+fonction de chef d'établissement ;
+
+c) Trois parents d'élèves nommés par le préfet de région sur proposition des associations de parents d'élèves les plus
+représentatives au niveau académique.
+
+La répartition, entre les établissements d'enseignement primaire privés et les établissements d'enseignement secondaire ou
+technique privés, des sièges attribués aux chefs d'établissement et aux maîtres tient compte de l'effectif des élèves
+scolarisés dans les deux catégories d'établissements. Elle est arrêtée par le préfet de région, sur proposition du recteur,
+dans les limites fixées au a et au b du 3° du présent article.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-65 (V)
+	  - Code de l'éducation - art. R442-67 (V)
+
+
+###### Article R442-65
+
+La commission de concertation instituée à Paris est composée dans les conditions prévues à l'article R. 442-64. 
+
+Par dérogation aux dispositions du 2° de l'article R. 442-64, la commission de concertation de Paris comprend, au titre des
+représentants des collectivités territoriales, trois conseillers régionaux désignés par le conseil régional d'Ile-de-France
+et six conseillers de Paris désignés par le conseil de Paris.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-64 (V)
+
+
+###### Article R442-66
+
+La commission de concertation instituée au chef-lieu du département comprend :
+
+1° Au titre des personnes désignées par l'Etat :
+
+a) Le préfet du département, président ;
+
+b) L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+
+c) Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social,
+éducatif ou culturel, désignés par le préfet du département sur proposition de l'inspecteur d'académie, directeur des
+services départementaux de l'éducation nationale ;
+
+2° Au titre des représentants des collectivités territoriales :
+
+a) Deux conseillers régionaux désignés par le conseil régional ;
+
+b) Deux conseillers généraux désignés par le conseil général ;
+
+c) Deux maires désignés par l'association des maires du département ou, à défaut, par le collège des maires du département ;
+
+3° Au titre des représentants des établissements d'enseignement privés :
+
+a) Un chef d'établissement d'enseignement primaire privé nommé par le préfet du département, sur proposition des
+organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement
+primaire privé exerçant leurs fonctions depuis trois ans au moins dans les établissements ayant passé avec l'Etat un contrat
+d'association ou un contrat simple ;
+
+b) Un chef d'établissement d'enseignement secondaire ou technique privé nommé par le préfet du département, sur proposition
+des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement
+secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ;
+
+c) Un maître enseignant dans un établissement d'enseignement primaire privé, nommé par le préfet du département, sur
+proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires,
+contractuels ou agréés des établissements d'enseignement primaire privés sous contrat n'exerçant pas la fonction de chef
+d'établissement ;
+
+d) Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, nommé par le préfet du
+département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres
+titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la
+fonction de chef d'établissement ;
+
+e) Deux parents d'élèves nommés par le préfet du département sur proposition des associations de parents d'élèves les plus
+représentatives au niveau départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-67 (V)
+
+
+###### Article R442-67
+
+Lorsqu'une élection est organisée au titre du b ou du c du 2° de l'article R. 442-64, ou du c du 2° de l'article R. 442-66,
+elle a lieu à la représentation proportionnelle à la plus forte moyenne, sans adjonction ni suppression de noms et sans
+modification de l'ordre de présentation. Les sièges sont attribués d'après l'ordre de présentation. 
+
+Toutefois, lorsqu'il n'y a qu'un siège à pourvoir, l'élection a lieu au scrutin uninominal à un tour. 
+
+Dans l'un et l'autre cas, le vote a lieu par correspondance. Les modalités du scrutin et la date de l'élection sont fixées,
+pour la commission instituée au siège de l'académie, par le préfet de région et, pour les commissions instituées au chef-lieu
+d'un département, par le préfet du département.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-64 (V)
+	  - Code de l'éducation - art. R442-66 (V)
+
+
+###### Article R442-68
+
+Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés ou élus dans les mêmes conditions que
+ceux-ci. Les membres suppléants ne siègent qu'en l'absence des membres titulaires qu'ils suppléent.
+
+En cas d'empêchement du président de la commission, la présidence est assurée par le recteur de l'académie, pour la
+commission instituée au siège de l'académie, ou par l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale, pour les commissions instituées au chef-lieu d'un département.
+
+Si le recteur ou l'inspecteur d'académie est lui-même empêché, la présidence de la commission est assurée, selon le cas, par
+le secrétaire général pour les affaires régionales ou par le secrétaire général de la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-69
+
+La durée du mandat des membres titulaires et suppléants des commissions de concertation est de trois ans.
+
+Lorsqu'une vacance survient, pour quelque cause que ce soit, six mois au moins avant le renouvellement de la commission et,
+notamment, lorsqu'un membre titulaire ou suppléant vient à perdre la qualité en laquelle il a été nommé ou élu, il est pourvu
+à la vacance, pour la durée du mandat restant à courir, dans les conditions prévues pour la nomination ou l'élection du
+membre de la commission dont le siège est devenu vacant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-70
+
+Le président de la commission de concertation fixe l'ordre du jour et convoque la commission.
+
+Il désigne un rapporteur pour chaque affaire.
+
+La commission de concertation peut entendre toute personne dont l'audition lui paraît utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-71
+
+Lorsque la résiliation d'un contrat est envisagée dans les conditions prévues par l'article L. 442-10, le préfet, président
+de la commission de concertation territorialement compétente, en informe le chef de l'établissement, la personne physique ou
+morale gestionnaire de l'établissement et le représentant légal de la collectivité intéressée par lettre recommandée avec
+demande d'avis de réception. 
+
+Le chef d'établissement, la personne physique ou le mandataire de la personne morale gestionnaire de l'établissement et le
+représentant de la collectivité intéressée sont entendus par la commission ; ils peuvent se faire assister par toute personne
+de leur choix. Le chef d'établissement ne peut se faire représenter.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-10 (V)
+
+
+###### Article R442-72
+
+Lorsque la commission de concertation est consultée en application des dispositions du premier alinéa de l'article L. 442-11,
+le chef d'établissement, la personne physique ou le mandataire de la personne morale gestionnaire de l'établissement et le
+représentant légal de la collectivité intéressée sont entendus sur leur demande.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-11 (V)
+
+
+###### Article R442-73
+
+Les recours contentieux contre les décisions administratives relatives à l'instruction, à la passation et à l'exécution des
+contrats, ainsi qu'à l'utilisation des fonds publics, ne peuvent être introduits qu'après un recours devant le préfet du
+département, qui statue après avis de la commission de concertation compétente.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°85-1204 du 13 novembre 1985 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 6 : Dispositions relatives aux établissements d'enseignement agricoles privés sous contrat.
+
+###### Article R442-74
+
+Les règles relatives aux établissements d'enseignement agricoles privés sous contrat sont fixées par les dispositions du
+chapitre III du titre Ier du livre VIII de la partie réglementaire du code rural.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code rural (V)
+
+
+##### Section 7 : Dispositions relatives aux établissements ou services sociaux ou médico-sociaux privés.
+
+###### Article R442-75
+
+Dans la limite des moyens inscrits à cet effet dans la loi de finances, les établissements ou services sociaux ou médico-
+sociaux privés mentionnés au 2° et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles peuvent
+passer avec l'Etat un contrat simple dans les conditions prévues par l'article L. 442-12 du présent code. 
+
+Ce contrat peut porter sur une partie ou sur la totalité des classes de l'établissement. 
+
+Ce contrat est conclu pour un an. Il est renouvelable par tacite reconduction. Les locaux des classes faisant l'objet du
+contrat satisfont aux exigences de la salubrité conformément aux dispositions du chapitre Ier du titre III du livre III de la
+partie I du code de la santé publique et de celles du livre Ier du code de la construction et de l'habitation et comportent
+des installations appropriées à l'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-254 du 8 mars 1978 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-12 (V)
+	  - Code de la santé publique (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+	  - Code de la construction et de l'habitation. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-76 (V)
+	  - Code de l'éducation - art. R442-78 (V)
+	  - Code de l'éducation - art. R442-79 (VD)
+
+
+###### Article R442-76
+
+Sont applicables aux établissements ayant passé un contrat dans les conditions prévues à l'article R. 442-75 : 
+
+1° Les articles R. 442-9 à R. 442-12, R. 442-15, R. 442-16, les premier et deuxième alinéas de l'article R. 442-17, les
+articles R. 442-18 à R. 442-21 et R. 442-62 ; 
+
+2° Les articles 5 et 8 du décret n° 60-390 du 22 avril 1960 relatif au contrat simple passé avec l'Etat par les
+établissements d'enseignement privés ; 
+
+3° Les articles 1er, 4,6 et 8 du décret n° 60-746 du 28 juillet 1960 relatif aux conditions financières de fonctionnement
+(personnel) des classes sous contrat simple.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°60-746 du 28 juillet 1960 (Ab)
+	  - Décret n°60-390 du 22 avril 1960 (Ab)
+	  - Code de l'éducation - art. R442-15 (V)
+	  - Code de l'éducation - art. R442-17 (V)
+	  - Code de l'éducation - art. R442-18 (V)
+	  - Code de l'éducation - art. R442-62 (V)
+	  - Code de l'éducation - art. R442-75 (V)
+	  - Code de l'éducation - art. R442-9 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°78-254 du 8 mars 1978 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-77
+
+Dans la mesure où la nature et le degré de handicap des élèves le permettent, les établissements qui ont passé avec l'Etat un
+contrat simple préparent les élèves aux examens officiels et organisent l'enseignement par référence aux programmes et aux
+règles générales relatives aux horaires de l'enseignement public.
+
+Un tableau fixant pour chaque année scolaire l'organisation des services d'enseignement est soumis à l'approbation des
+autorités académiques, qui reçoivent également communication du projet éducatif de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-254 du 8 mars 1978 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-78
+
+Les dépenses prises en charge par l'Etat en ce qui concerne le fonctionnement des classes sous contrat sont constituées
+exclusivement par la rémunération des services d'enseignement dispensés par les maîtres et le financement des charges
+sociales et fiscales incombant à l'employeur. 
+
+Lorsqu'un établissement bénéficie des dispositions des articles R. 442-75 à R. 442-79, ces dépenses ne sont pas prises en
+compte pour le calcul du prix de revient prévisionnel servant à l'établissement du prix de journée. A cet effet, les
+autorités académiques communiquent chaque année scolaire à la direction départementale des affaires sanitaires et sociales un
+état nominatif des personnels pris en charge en application des articles R. 442-75 à R. 442-79.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-254 du 8 mars 1978 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-75 (V)
+
+
+###### Article R442-79
+
+Un tableau répartissant les établissements et les classes entre l'enseignement préscolaire et élémentaire, d'une part, et
+l'enseignement secondaire, d'autre part, est dressé chaque année par l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale, compte tenu du projet éducatif de ces établissements ou de ces classes. 
+
+Pour l'application des articles R. 442-75 à R. 442-78 du présent code, tout établissement ou service social ou médico-social
+privé mentionné au 2° et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles qui a constitué des
+classes de niveau égal ou supérieur à la classe de sixième est assimilé, en ce qui concerne ces classes, à un établissement
+du second degré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-254 du 8 mars 1978 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-75 (V)
+	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+
+
+##### Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon.
+
+###### Article R442-80
+
+Sont applicables à la collectivité de Saint-Pierre-et-Miquelon dans les conditions précisées aux articles R. 442-81 à R.
+442-84 les dispositions des sections 1 à 5 et 7 du présent chapitre à l'exception de l'article R. 442-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-549 du 30 juin 1972 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-14 (V)
+	  - Code de l'éducation - art. R442-81 (V)
+
+
+###### Article R442-81
+
+Les compétences attribuées au préfet de département ou au préfet de région sont exercées sur le territoire des îles Saint-
+Pierre-et-Miquelon par l'administrateur chef du territoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-549 du 30 juin 1972 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R442-80 (V)
+
+
+###### Article R442-82
+
+Les compétences attribuées au recteur d'académie, à l'inspecteur d'académie ou aux services académiques sont exercées sur le
+territoire des îles Saint-Pierre-et-Miquelon par le chef du service de l'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-549 du 30 juin 1972 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-83
+
+Les compétences attribuées au trésorier-payeur général sont exercées sur le territoire des îles Saint-Pierre-et-Miquelon par
+le comptable principal du territoire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-549 du 30 juin 1972 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R442-84
+
+Par dérogation aux dispositions de l'article R. 442-26, le ministre chargé de l'éducation apprécie le besoin scolaire auquel
+doivent répondre les établissements d'enseignement privés du territoire des îles Saint-Pierre-et-Miquelon sans être tenu de
+prendre au préalable l'avis d'aucune commission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-549 du 30 juin 1972 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-26 (V)
+
+
+#### Chapitre III : Les établissements d'enseignement technique privés.
+
+##### Section 2 : Les écoles techniques privées.
+
+###### Article R443-1
+
+Les écoles techniques privées légalement ouvertes peuvent être reconnues par l'Etat.
+
+La reconnaissance par l'Etat est accordée après consultation du Conseil supérieur de l'éducation et enquête administrative.
+Elle est prononcée par décret ou par arrêté du ministre chargé de l'éducation suivant le caractère de l'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D643-5 (V)
+
+
+##### Section 3 : Les centres d'apprentissage privés.
+
+###### Article R443-2
+
+Lorsque les centres d'apprentissage privés fonctionnent avec un équipement acquis sur les fonds de l'Etat ou au moyen de
+subventions faites par lui, il est dressé inventaire de cet équipement dans les conditions fixées par arrêté du ministre
+chargé de l'éducation. Cet équipement, propriété de l'Etat, demeure à la disposition de ces établissements autant qu'il est
+effectivement utilisé pour la formation professionnelle, sauf autorisation de remploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 4 : Les cours privés professionnels.
+
+###### Article R443-3
+
+Toute personne qui veut diriger un cours privé professionnel ou de perfectionnement adresse au recteur d'académie, en plus
+des pièces prescrites par l'article L. 441-11, la liste des professeurs éventuels, avec l'indication justifiée pour chacun
+d'eux de ses date et lieu de naissance, de son casier judiciaire ayant moins de trois mois de date, des titres et références
+qu'il possède et des fonctions qui lui seront confiées. Elle signale dans les mêmes conditions toute modification qui serait
+apportée par la suite à cette liste.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-11 (V)
+
+
+#### Chapitre IV : Les établissements privés  dispensant un enseignement à distance.
+
+##### Section 1 : Organismes assujettis.
+
+###### Article R444-1
+
+Constitue un organisme privé d'enseignement à distance, soumis aux dispositions des articles L. 444-1 à L. 444-11 et L. 471-1
+à L. 471-5, tout organisme privé qui s'engage à dispenser un enseignement, sous quelque forme que ce soit, dans les
+conditions définies aux articles L. 444-1 à L. 444-11. 
+
+Cet enseignement consiste à dispenser à distance, à titre principal ou en complément d'un enseignement, un service
+d'assistance pédagogique à une préparation ou à une formation. Le service peut consister notamment à fournir, avec ou sans
+échelonnement dans le temps, en vue d'une formation dans une discipline quelconque d'enseignement ou de la préparation à un
+concours, à un examen, à un diplôme ou à une activité professionnelle, des livres, cours ou matériels, que l'assistance
+pédagogique accompagne ces fournitures ou soit dispensée séparément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-1 (V)
+	  - Code de l'éducation - art. L471-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-2 (V)
+	  - Code de l'éducation - art. R444-3 (V)
+
+
+###### Article R444-2
+
+Tout organisme qui assure un enseignement dans les conditions définies à l'article R. 444-1 constitue en raison de cette
+activité un organisme privé d'enseignement à distance, alors même qu'il dispense en outre un enseignement sur place. 
+
+Toutefois, si un établissement privé d'enseignement sur place organise, à titre accessoire et complémentaire d'un
+enseignement délivré au cours de l'année scolaire, un enseignement à distance, destiné à ses seuls élèves, assuré par ses
+enseignants et limité à la période des vacances scolaires, il ne peut être regardé comme constituant, en raison de cette
+activité, un établissement privé d'enseignement à distance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-1 (V)
+
+
+###### Article R444-3
+
+Les organismes privés mentionnés au premier alinéa de l'article L. 920-3 du code du travail et les centres de formation
+d'apprentis prévus par le chapitre VI du titre Ier du livre Ier du même code ne sont pas soumis, pour leurs actions utilisant
+l'enseignement à distance, aux dispositions des articles R. 444-1 à R. 444-28 du présent code. 
+
+Les centres assurant les actions de formation professionnelle et de promotion sociale mentionnées à l'article L. 900-1 du
+code du travail ne sont pas soumis, pour leurs actions utilisant l'enseignement à distance et faisant l'objet de conventions
+conclues avec l'Etat en application du chapitre Ier du titre II du livre IX du code du travail, aux dispositions des articles
+R. 444-10 à R. 444-17 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-10 (V)
+	  - Code de l'éducation - art. R444-1 (V)
+	  - Code du travail - art. L900-1 (Ab)
+	  - Code du travail - art. L920-3 (Ab)
+
+
+##### Section 2 : Création.
+
+###### Article R444-4
+
+La déclaration prévue à l'article L. 444-2 est adressée en quatre exemplaires, par le représentant légal de l'organisme privé
+d'enseignement à distance, au recteur de l'académie dans laquelle est situé le siège de l'organisme. Le recteur en avise le
+préfet territorialement compétent. 
+
+Lorsque la formation ou l'une des formations que se propose de dispenser l'organisme relève d'un ministre autre que celui
+chargé de l'éducation, la déclaration est transmise par les soins du recteur au représentant territorialement compétent de ce
+ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L442-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-9 (V)
+
+
+###### Article R444-5
+
+La déclaration indique la dénomination et l'adresse de l'organisme, ainsi que la qualité et le domicile du signataire.
+Lorsqu'il s'agit d'une personne morale, la déclaration est accompagnée de la production des statuts, de la liste des
+personnes ayant le pouvoir d'administrer l'établissement et des personnes responsables, le cas échéant, des dettes sociales. 
+
+Sont annexées, dans tous les cas, à la déclaration les listes du personnel de direction et des enseignants, accompagnées des
+précisions mentionnées aux articles R. 444-10 à R. 444-12, la liste des enseignements que l'organisme se propose de
+dispenser, des programmes d'enseignement avec, pour chacun de ceux-ci, la description des méthodes pédagogiques prévues, des
+matériels et ouvrages didactiques conseillés ou fournis aux élèves ainsi que l'indication de la périodicité des
+enseignements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-10 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-14 (V)
+
+
+###### Article R444-6
+
+Lorsque l'organisme a prévu, à titre accessoire et pour donner son efficacité pédagogique à l'enseignement à distance, de
+regrouper des élèves en vue de leur dispenser des cours oraux ou de les faire participer à des travaux pratiques, la
+déclaration contient, en outre, la description précise des locaux et des matériels utilisés ; lorsque ces regroupements sont
+effectués, même partiellement, dans le ressort d'une autre académie, le représentant de l'établissement privé en avise
+spécialement le recteur qui en informe le préfet territorialement compétent et, le cas échéant, le représentant compétent du
+ministre concerné par l'enseignement dispensé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R444-7
+
+Le recteur d'académie délivre, dans les deux mois, récépissé de la déclaration ; si cette déclaration, ou les éléments qui y
+sont annexés, est incomplète, le recteur, dans le même délai, demande à l'organisme privé d'en opérer la régularisation ; le
+recteur dispose alors, pour délivrer le récépissé, d'un nouveau délai de deux mois à compter du jour où la régularisation a
+été opérée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-8 (V)
+
+
+###### Article R444-8
+
+Aucun organisme privé ne peut exercer une activité d'enseignement à distance avant d'avoir obtenu le récépissé prévu à
+l'article R. 444-7. 
+
+Toutefois, si le recteur n'a pas délivré le récépissé ou demandé la régularisation de la déclaration dans le délai de deux
+mois, le récépissé est réputé délivré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-28 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-7 (V)
+
+
+###### Article R444-9
+
+Toute modification affectant l'un des éléments de la déclaration est portée dans les huit jours à la connaissance du recteur,
+dans les conditions prévues à l'article R. 444-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-4 (V)
+
+
+##### Section 3 : Conditions exigées des personnels enseignant et de direction.
+
+###### Article R444-10
+
+Pour exercer une fonction quelconque de direction, dans un organisme privé d'enseignement à distance, toute personne adresse,
+avant son entrée en fonctions, au recteur de l'académie dans le ressort de laquelle est situé le siège de l'organisme, un
+dossier comportant : 
+
+1° Un bulletin n° 3 de son casier judiciaire ayant moins de trois mois de date ; 
+
+2° Les copies des diplômes, titres et références exigés dans les conditions précisées à l'article R. 444-11 pour diriger un
+organisme privé d'enseignement à distance ou pour y enseigner. 
+
+Le dossier ci-dessus est complété par l'indication des lieux de résidence et des activités professionnelles exercées pendant
+les cinq années précédentes. 
+
+L'un quelconque de ces documents, ainsi que la production d'une lettre revêtue de la signature du représentant légal ou du
+directeur de l'organisme privé, attestant qu'il s'engage à le recruter, peuvent être demandés par le recteur à tout membre du
+personnel enseignant. 
+
+Lorsque les enseignements ou les formations dispensés ne relèvent pas du seul contrôle du ministre chargé de l'éducation, le
+recteur en avise le représentant du ministre intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-11 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-14 (V)
+	  - Code de l'éducation - art. R444-5 (V)
+
+
+###### Article R444-11
+
+Les diplômes, titres et références exigés pour enseigner dans un organisme privé d'enseignement à distance ne peuvent être
+inférieurs, lorsque la matière qui fait l'objet de l'enseignement à distance est dispensée dans les établissements publics
+d'enseignement, à ceux qui sont exigés pour être admis à enseigner dans des établissements publics de nature et de niveau
+correspondants. Dans les autres cas, la qualification exigée tient compte de la nature et du niveau de l'enseignement en
+cause.
+
+Pour diriger un organisme privé d'enseignement à distance, il est nécessaire de justifier, outre des diplômes, titres et
+références exigés pour enseigner dans cet organisme, de cinq ans de fonctions d'enseignement dans un établissement quelconque
+d'enseignement. Toutefois, le recteur d'académie peut dispenser de cette dernière condition toute personne qui justifie de
+diplômes, titres et références supérieurs à ceux qui sont normalement exigés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+	  - Code de l'éducation - art. R444-10 (V)
+	  - Code de l'éducation - art. R444-13 (V)
+
+
+###### Article R444-12
+
+Les étrangers ne ressortissant pas à un autre Etat membre de la Communauté européenne ou à un Etat partie à l'Espace
+économique européen et désireux de diriger un organisme privé d'enseignement à distance ou d'y enseigner peuvent être appelés
+à fournir : 
+
+1° Un bulletin n° 3 du casier judiciaire ayant moins de trois mois de date ; 
+
+2° Un document officiel dont l'équivalence avec le bulletin du casier judiciaire français est établie par un certificat
+administratif, délivré depuis moins de trois mois soit par les autorités compétentes de l'Etat dont ils sont ressortissants,
+soit par l'Office français de protection des réfugiés et apatrides, dans les conditions définies à l'article L. 721-3 du code
+de l'entrée et du séjour des étrangers et du droit d'asile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+	  - Code de l'éducation - art. R444-13 (V)
+
+	**Cite**:
+
+	  - Code de l'entrée et du séjour des étrangers et ... - art. L721-3 (V)
+
+
+###### Article R444-13
+
+Le recteur d'académie, après consultation, s'il y a lieu, du représentant du ministre dont dépend l'enseignement dispensé,
+examine dans chaque cas la valeur des diplômes et titres produits par tout étranger mentionné à l'article R. 444-12 et
+accorde, le cas échéant, des dérogations aux exigences fixées dans les conditions définies à l'article R. 444-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-11 (V)
+	  - Code de l'éducation - art. R444-12 (V)
+
+
+##### Section 4 : Contrôle et inspection.
+
+###### Article R444-14
+
+Le contrôle des organismes privés d'enseignement à distance porte sur : 
+
+1° La conformité des programmes aux documents annexés à la déclaration prévue à l'article R. 444-5 ; 
+
+2° La régularité de la situation des personnels de direction et d'enseignement au regard des exigences définies aux articles
+L. 444-5 et L. 444-6 et R. 444-10 à R. 444-13 ; 
+
+3° Le caractère suffisant de l'effectif des enseignants par rapport aux élèves inscrits ; 
+
+4° Les méthodes pédagogiques utilisées pour la mise en œuvre des programmes d'enseignement ; 
+
+5° Les conditions dans lesquelles sont assurés le service d'assistance pédagogique, l'envoi à l'élève de tous documents et
+les corrections de ses travaux de toute nature ; 
+
+6° Les locaux utilisés en cas de regroupements d'élèves, pour vérifier que ces locaux sont conformes aux règles d'hygiène et
+de sécurité et qu'ils comportent un matériel d'enseignement et de travaux pratiques suffisant et adapté à la matière de la
+formation et au nombre d'élèves accueillis. 
+
+Lorsque l'organisme bénéficie d'une aide sur fonds publics, le contrôle porte également sur les conditions de sa gestion
+financière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-5 (V)
+	  - Code de l'éducation - art. R444-10 (V)
+	  - Code de l'éducation - art. R444-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-28 (V)
+
+
+###### Article R444-15
+
+Pour faciliter l'exercice du contrôle, le directeur de l'organisme privé d'enseignement à distance tient à jour des registres
+où sont reportés respectivement les noms des enseignants et des élèves avec les indications pédagogiques les concernant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-28 (V)
+
+
+###### Article R444-16
+
+Le contrôle est effectué par les membres des corps d'inspection du ministère de l'éducation nationale et par les membres des
+corps d'inspection compétents des départements ministériels dont relèvent les enseignements dispensés par l'organisme privé
+d'enseignement à distance.
+
+Pour les enseignements dont le niveau ressortit à l'enseignement supérieur, le contrôle est assuré par des enseignants de
+l'enseignement supérieur public accompagnés, le cas échéant, par des personnes choisies pour leur compétence. Ces enseignants
+sont désignés, après avis du président de l'université dont ils dépendent, par le recteur d'académie, après consultation
+éventuelle du représentant compétent du ministre dont relève l'enseignement dispensé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-17 (VD)
+
+
+###### Article R444-17
+
+Les observations et les injonctions que peuvent formuler les inspecteurs ou les enseignants, chargés d'une mission
+d'inspection par application des dispositions de l'article R. 444-16, sont notifiées aux intéressés par l'intermédiaire du
+recteur d'académie, après accord, le cas échéant, avec le représentant du ministre dont dépend l'enseignement en cause. 
+
+Sans préjudice des pouvoirs propres du recteur, les membres des corps d'inspection compétents qui estiment que des mesures
+doivent être prises, ou des poursuites engagées, à l'encontre d'un organisme privé d'enseignement à distance, ou de l'un
+quelconque des membres de son personnel, en saisissent le conseil académique par l'intermédiaire du recteur. Le recteur en
+informe, le cas échéant, le représentant du ministre dont relève l'enseignement dispensé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R444-16 (V)
+
+
+##### Section 5 : Obligations contractuelles des établissements.
+
+###### Article R444-18
+
+Le contrat prévu à l'article L. 444-7 précise le caractère et la périodicité des travaux de toute nature qui sont proposés à
+l'élève dans chacune des disciplines faisant l'objet d'un enseignement ; il expose également la manière dont est assuré le
+service d'assistance pédagogique, les méthodes utilisées, les contrôles exercés, la façon dont sont communiquées les
+directives des enseignants et dont l'élève est mis en mesure d'apprécier le résultat d'ensemble de ses efforts ; il indique
+les noms, prénoms et qualités des enseignants responsables de la formation de l'élève. 
+
+Le contrat contient, s'il y a lieu, la liste des livres, cours et matériel didactiques de toute nature que l'élève sera
+astreint à se procurer, à titre onéreux, ainsi que l'indication du prix et des modalités de paiement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-7 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-25 (V)
+
+
+###### Article R444-19
+
+Un plan d'études, annexé au contrat, précise en outre, conformément au deuxième alinéa de l'article L. 444-7 : 
+
+1° Le programme de l'enseignement, la nature et le contenu des disciplines étudiées, le nombre minimum des travaux de toute
+nature demandés à l'élève, l'échelonnement des enseignements et des travaux dans le temps ; 
+
+2° Le niveau des connaissances préalables nécessaires pour entreprendre l'étude de ce programme, apprécié par référence aux
+diplômes et titres exigés pour suivre un enseignement de niveau équivalent dans un établissement public d'enseignement ; 
+
+3° Le niveau des études, apprécié par référence à celui de leur premier aboutissement et, le cas échéant, à celui des études
+correspondantes dans l'enseignement public ; 
+
+4° La durée moyenne des études, appréciées en nombre d'heures, compte tenu du niveau préalable de connaissances de l'élève
+tel qu'il résulte de ses déclarations écrites et des diplômes et titres qu'il détient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-7 (V)
+
+
+###### Article R444-20
+
+Les fournitures assurées, le cas échéant, aux élèves par l'organisme privé d'enseignement à distance sont adaptées aux
+exigences de l'enseignement dispensé et conformes aux données récentes, notamment scientifiques et techniques ; elles ne
+peuvent être livrées et facturées qu'au fur et à mesure des nécessités de leur utilisation : elles font l'objet d'un compte
+distinct et détaillé. Le titre, les noms d'auteur et d'éditeur sont précisés pour chaque livre ; l'utilité pédagogique est
+sommairement expliquée pour tout autre objet ou matériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R444-21
+
+Lorsque la durée totale de l'enseignement est supérieure à douze mois, le compte relatif au prix de l'enseignement proprement
+dit fait apparaître le prix effectif global, toutes charges et taxes comprises, de la première année pédagogique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R444-22
+
+Le contrat est clairement divisé et rédigé en caractères facilement lisibles. Les nullités et déchéances prévues, le cas
+échéant, par le contrat sont mentionnées en caractères gras contrastant suffisamment avec le contexte dans lequel elles sont
+insérées. 
+
+Les dispositions de l'article L. 444-8sont reproduites en caractères gras, nettement détachées des clauses contractuelles et
+contrastant suffisamment avec celles-ci. Elles sont placées en dernier lieu, avant l'emplacement réservé pour les signatures.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-8 (V)
+
+
+###### Article R444-23
+
+Le projet de contrat, y compris le plan d'études qui lui est annexé, est adressé au souscripteur, par lettre recommandée avec
+demande d'avis de réception, en deux exemplaires, signés par le représentant légal de l'organisme privé d'enseignement à
+distance. Le contrat est retourné par le souscripteur, par lettre recommandée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R444-24
+
+La somme exigible dès la souscription du contrat ne peut excéder le montant du prix susceptible d'être payé par anticipation
+tel qu'il est prévu par les dispositions du cinquième alinéa de l'article L. 444-8.
+
+Les versements subséquents ont lieu dans les conditions fixées par le contrat. Toutefois, pendant une période de trois mois à
+compter de la date de la conclusion du contrat, ces versements ne peuvent aboutir à constituer, au profit de l'organisme
+privé d'enseignement à distance, une provision supérieure au montant de l'indemnité que ledit organisme peut, en application
+du troisième alinéa de l'article L. 444-8, réclamer, le cas échéant, au souscripteur en cas de résiliation. 
+
+Les sommes dues au titre de contrats relatifs à des enseignements à distance dispensés pendant les vacances scolaires et
+limités à la durée de celles-ci peuvent faire l'objet de modalités de paiement entièrement libres, lorsque ces enseignements
+ne s'appliquent qu'à des élèves fréquentant, pendant l'année scolaire, des établissements d'enseignement sur place. Dans ce
+cas, le délai de résiliation est fixé à huit jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-8 (V)
+
+
+###### Article R444-25
+
+Toute modification ou adjonction aux contrats déjà conclus ne peut être apportée que dans les conditions et formes prévues
+par les articles L. 444-7 et L. 444-8 et par les dispositions des articles R. 444-18 à R. 444-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-7 (V)
+	  - Code de l'éducation - art. R444-18 (V)
+
+
+###### Article R444-26
+
+En cas de survenance de l'empêchement prévu au deuxième alinéa de l'article L. 444-8, à la suite d'un cas fortuit ou d'une
+force majeure, l'élève ou son représentant légal notifie la résiliation, en en précisant les motifs, à l'organisme privé
+d'enseignement à distance, par lettre recommandée avec demande d'avis de réception. 
+
+A défaut de réponse de l'organisme privé, la résiliation prend effet huit jours après la date de la réception de cette
+lettre. L'organisme privé restitue aussitôt les sommes versées par l'élève ou pour son compte par un tiers ou par un
+organisme de crédit, qu'il détiendrait à titre de provision ou d'avance et qui ne constitueraient pas la contrepartie de
+services effectivement rendus à la date d'effet de la résiliation. 
+
+L'estimation pécuniaire de ces services est faite à proportion du temps couru depuis la date d'entrée en vigueur du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-8 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R444-27 (V)
+
+
+###### Article R444-27
+
+S'il entend faire usage de la faculté de résiliation prévue au troisième alinéa de l'article L. 444-8, l'élève ou son
+représentant légal notifie la résiliation à l'organisme privé d'enseignement à distance, sans être tenu de la motiver, par
+lettre recommandée avec demande d'avis de réception. 
+
+La résiliation prend effet à la date de réception de cette lettre par l'organisme privé intéressé. Celui-ci restitue aussitôt
+les sommes versées par l'élève ou pour son compte par un tiers ou par un organisme de crédit, qu'il détiendrait à titre de
+provision ou d'avance et qui excéderaient le montant du prix des services effectivement rendus augmenté, le cas échéant, de
+celui de l'indemnité prévue au troisième alinéa de l'article L. 444-8. 
+
+L'estimation pécuniaire des services effectivement rendus est faite comme il est dit à l'article R. 444-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-8 (V)
+	  - Code de l'éducation - art. R444-26 (V)
+
+
+##### Section 6 : Dispositions pénales.
+
+###### Article R444-28
+
+Sans préjudice des peines plus graves prévues par l'article L. 444-10, est puni de l'amende prévue pour les contraventions de
+la cinquième classe le fait, pour toute personne, d'enfreindre les dispositions des articles R. 444-8 et R. 444-15. Les mêmes
+peines s'appliquent à toute personne qui ferait obstacle à l'exercice des contrôles et inspections prévus aux articles R.
+444-14 à R. 444-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008, v. init.
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L444-10 (V)
+	  - Code de l'éducation - art. R444-14 (V)
+	  - Code de l'éducation - art. R444-15 (V)
+	  - Code de l'éducation - art. R444-8 (V)
+
+
+### Titre V : Les établissements français d'enseignement à l'étranger.
+
+#### Chapitre Ier : Dispositions générales.
+
+###### Article R451-1
+
+Les dispositions des articles L. 111-1 à L. 111-3, L. 112-2, L. 113-1, L. 121-1, L. 121-3, L. 122-2 à L. 122-5, L. 131-1, L.
+231-1 à L. 231-9, L. 241-1 à L. 241-3, L. 311-2, L. 311-4, du premier alinéa de l'article L. 311-7, L. 313-1, L. 313-2, L.
+314-2, L. 321-2 à L. 321-4, L. 331-1 à L. 331-3, L. 331-6 à L. 331-8, L. 332-2 à L. 332-5, L. 333-2 à L. 333-3, L. 334-1, L.
+335-1, L. 335-2, L. 336-1, L. 337-1, L. 337-2, L. 411-1 à L. 411-3, 
+L. 421-3, L. 421-5, L. 421-7, L. 421-9, L. 423-1, L. 511-3 à L. 511-4, 
+L. 521-1, L. 521-4, L. 551-1, 
+L. 911-1, L. 912-1, L. 912-3, L. 913-1 et les dispositions réglementaires prises pour leur application s'appliquent aux
+établissements scolaires français à l'étranger qui figurent sur la liste prévue à l'article R. 451-2.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°79-142 du 19 février 1979 - art. 1 (V)
+	  - Décret n°2008-1516 du 22 décembre 2008 (V)
+	  - Arrêté du 21 avril 2009 - art. 1 (V)
+	  - Arrêté du 1er juin 2011 - art. 1 (V)
+	  - Arrêté du 25 juin 2012 - art. 1 (P)
+	  - Arrêté du 27 juin 2013 - art. 1 (V)
+	  - Arrêté du 20 juin 2014 - art. 1 (V)
+	  - Arrêté du 16 juin 2015 - art. 1 (V)
+	  - Arrêté du 28 juin 2016 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-1 (V)
+	  - Code de l'éducation - art. L112-2 (V)
+	  - Code de l'éducation - art. L113-1 (V)
+	  - Code de l'éducation - art. L121-1 (V)
+	  - Code de l'éducation - art. L121-3 (V)
+	  - Code de l'éducation - art. L122-2 (V)
+	  - Code de l'éducation - art. L131-1 (V)
+	  - Code de l'éducation - art. L231-1 (V)
+	  - Code de l'éducation - art. L241-1 (V)
+	  - Code de l'éducation - art. L311-2 (V)
+	  - Code de l'éducation - art. L311-4 (V)
+	  - Code de l'éducation - art. L311-7 (V)
+	  - Code de l'éducation - art. L314-2 (V)
+	  - Code de l'éducation - art. L321-2 (V)
+	  - Code de l'éducation - art. L331-3 (V)
+	  - Code de l'éducation - art. L331-6 (V)
+	  - Code de l'éducation - art. L332-2 (V)
+	  - Code de l'éducation - art. L333-2 (V)
+	  - Code de l'éducation - art. L334-1 (V)
+	  - Code de l'éducation - art. L335-1 (V)
+	  - Code de l'éducation - art. L336-1 (V)
+	  - Code de l'éducation - art. L337-1 (V)
+	  - Code de l'éducation - art. L411-1 (V)
+	  - Code de l'éducation - art. L421-3 (V)
+	  - Code de l'éducation - art. L421-9 (V)
+	  - Code de l'éducation - art. L423-1 (Ab)
+	  - Code de l'éducation - art. L511-3 (V)
+	  - Code de l'éducation - art. L521-1 (V)
+	  - Code de l'éducation - art. L551-1 (V)
+	  - Code de l'éducation - art. L911-1 (V)
+	  - Code de l'éducation - art. L912-1 (V)
+	  - Code de l'éducation - art. L912-3 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+	  - Code de l'éducation - art. R451-2 (V)
+
+
+###### Article R451-2
+
+La liste des établissements scolaires français à l'étranger est établie par le ministre chargé de l'éducation, en accord avec
+le ministre des affaires étrangères et avec le ministre chargé de la coopération. Elle est révisable annuellement. 
+
+Ne peuvent figurer sur cette liste que les établissements du premier ou du second degré qui : 
+
+1° Sont ouverts aux enfants de nationalité française résidant hors de France, auxquels ils dispensent dans le respect des
+principes définis à l'article L. 111-1, un enseignement conforme aux programmes, aux objectifs pédagogiques et aux règles
+d'organisation applicables, en France, aux établissements de l'enseignement public ; 
+
+2° Préparent les élèves aux examens et diplômes auxquels préparent ces mêmes établissements. 
+
+Les établissements scolaires français à l'étranger peuvent également accueillir des élèves de nationalité étrangère.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°72-581 du 4 juillet 1972 - art. 14 (V)
+	  - Décret n°72-581 du 4 juillet 1972 - art. 9 (V)
+	  - Décret n°80-627 du 4 août 1980 - art. 5-3 (V)
+	  - Décret n°90-90 du 24 janvier 1990 - art. 6 (V)
+	  - Décret n°90-680 du 1 août 1990 - art. 17-2 (V)
+	  - Décret n°90-680 du 1 août 1990 - art. 17-7 (Ab)
+	  - Décret n°92-778 du 3 août 1992 - art. 10 (V)
+	  - Décret n°92-778 du 3 août 1992 - art. 7 (V)
+	  - Décret n°92-1189 du 6 novembre 1992 - art. 7 (V)
+	  - Décret n°2003-1260 du 23 décembre 2003 - art. 1-7 (VT)
+	  - Arrêté du 1er juin 2011 - art. 1 (V)
+	  - Arrêté du 25 juin 2012 - art. 1 (P)
+	  - Arrêté du 27 juin 2013 - art. 1 (V)
+	  - Arrêté du 20 juin 2014 - art. 1 (V)
+	  - Arrêté du 16 juin 2015 - art. 1 (V)
+	  - Décret n°2016-900 du 1er juillet 2016 - art. 1
+	  - Code de l'entrée et du séjour des étrangers et ... - art. R311-20 (V)
+	  - Code de l'éducation - art. R451-1 (VD)
+	  - Code de l'éducation - art. R914-80 (VD)
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-1 (V)
+
+
+###### Article R451-3
+
+La scolarité dans les établissements scolaires français à l'étranger est organisée en cycles, conformément à l'article L.
+311-1 et aux articles D. 321-2, D. 332-3 et D. 333-2. Pour chaque cycle, ces établissements appliquent les objectifs et les
+programmes prévus aux articles L. 311-1, L. 311-3, L. 321-1, L. 332-1 et L. 333-1. Leur sont également applicables les
+dispositions de l'article L. 331-4 relatives aux périodes de formation dans des entreprises, des associations, des
+administrations ou des collectivités territoriales. 
+
+Toutefois, ces établissements peuvent apporter aux dispositions de l'alinéa précédent des aménagements pour tenir compte des
+conditions particulières dans lesquelles s'exerce leur activité et pour renforcer leur coopération avec les systèmes
+éducatifs étrangers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-2 (V)
+	  - Code de l'éducation - art. D332-3 (V)
+	  - Code de l'éducation - art. D333-2 (V)
+	  - Code de l'éducation - art. L311-1 (V)
+	  - Code de l'éducation - art. L311-3 (V)
+	  - Code de l'éducation - art. L321-1 (V)
+	  - Code de l'éducation - art. L331-4 (V)
+	  - Code de l'éducation - art. L332-1 (V)
+	  - Code de l'éducation - art. L333-1 (V)
+
+
+###### Article R451-4
+
+Dans les écoles maternelles et élémentaires, par dérogation aux dispositions de l'article D. 321-3, lorsque les parents
+contestent la proposition mentionnée au quatrième alinéa du même article, leur recours motivé est formé devant une commission
+constituée par le chef de poste diplomatique, présidée par celui-ci ou par une personne désignée par lui, et composée du chef
+d'établissement, d'un représentant des enseignants exerçant au niveau scolaire considéré et d'un représentant des parents
+d'élèves désigné sur proposition des associations de parents. La commission statue définitivement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-3 (V)
+
+
+###### Article R451-5
+
+Dans les établissements du second degré, pour la réalisation du projet personnel de l'élève, le chef d'établissement procède
+à la consultation des enseignants et facilite le dialogue entre la famille et l'équipe éducative. 
+
+En fonction de ces consultations et des demandes d'orientation de la famille ou de l'élève majeur, le conseil de classe
+formule des propositions d'orientation dans le cadre des voies d'orientation définies conformément à l'article D. 331-36, ou
+de redoublement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2015-1407 du 5 novembre 2015 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-36 (V)
+
+
+###### Article R451-6
+
+Lorsque les propositions ne sont pas conformes aux demandes, le chef d'établissement reçoit l'élève et ses parents ou l'élève
+majeur afin de les informer des propositions du conseil de classe et de recueillir leurs observations. Le chef
+d'établissement prend ensuite les décisions d'orientation ou de redoublement, dont il informe l'équipe pédagogique, et les
+notifie aux parents de l'élève ou à l'élève majeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-7
+
+Les décisions non conformes aux demandes sont motivées. Elles sont adressées aux parents de l'élève ou à l'élève majeur qui
+font savoir au chef d'établissement s'ils acceptent les décisions ou s'ils en font appel, dans un délai de huit jours à
+compter de la réception de la notification de ces décisions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-8
+
+Par dérogation à l'article D. 331-35, la commission d'appel est constituée par le chef de poste diplomatique, présidée par
+celui-ci ou par une personne désignée par lui, et composée d'un ou plusieurs chefs d'établissements, de deux enseignants et
+de deux parents d'élèves désignés sur proposition des associations de parents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-35 (V)
+
+
+###### Article R451-9
+
+Les décisions relatives à la scolarité des élèves, notamment les décisions d'orientation, prises par les établissements
+scolaires français à l'étranger, s'appliquent en France dans les établissements d'enseignement publics et dans les
+établissements d'enseignement privés sous contrat ; elles s'appliquent également dans les autres établissements scolaires
+français à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-10
+
+L'organisation de l'année scolaire tient compte des conditions géographiques et de la législation de l'Etat dans lequel
+l'établissement est situé.
+
+Toutefois, cette organisation n'a pas pour effet de réduire les volumes annuels d'heures d'enseignement et les programmes
+tels qu'ils résultent de la réglementation applicable en France.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-11
+
+Les droits et obligations des élèves et les règles de participation des membres de la communauté éducative sont définis, en
+concertation avec les organes consultatifs de l'établissement, par le règlement intérieur de cet établissement, dans le
+respect des principes généraux mentionnés aux articles L. 111-4, L. 236-1, L. 511-1 et L. 511-2, ainsi que de la législation
+de l'Etat dans lequel l'établissement est situé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-4 (V)
+	  - Code de l'éducation - art. L236-1 (V)
+	  - Code de l'éducation - art. L511-1 (V)
+
+
+###### Article R451-12
+
+Les enseignants exerçant dans les établissements scolaires français à l'étranger sont responsables de l'ensemble des
+activités scolaires des élèves. Ils travaillent au sein d'équipes pédagogiques constituées des enseignants ayant en charge
+les mêmes classes ou groupes d'élèves ou intervenant dans le même champ disciplinaire. Ils apportent une aide au travail
+personnel des élèves et en assurent le suivi. Ils procèdent à l'évaluation des élèves et les conseillent dans le choix de
+leur projet d'orientation. Leur formation les prépare à l'ensemble de ces missions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-12 (V)
+
+
+###### Article R451-13
+
+Les modalités particulières de mise en œuvre des objectifs et programmes nationaux dans les établissements scolaires français
+à l'étranger sont définies en concertation avec les membres de la communauté éducative. Elles peuvent être énoncées dans un
+projet d'établissement précisant les activités scolaires et périscolaires prévues à cette fin. Le chef de poste diplomatique
+est informé de ce projet, qui lui est transmis dès son adoption.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-14
+
+Les établissements scolaires français à l'étranger et leurs personnels font l'objet des évaluations effectuées par les corps
+d'inspection spécialisés du ministère de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R451-15
+
+La scolarité accomplie par les élèves dans les établissements scolaires français à l'étranger est considérée, en vue de la
+poursuite de leurs études et de la délivrance des diplômes, comme effectuée en France dans un établissement d'enseignement
+public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°93-1084 du 9 septembre 1993 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre II : L'Agence pour l'enseignement français à l'étranger.
+
+###### Article D452-1
+
+L'Agence pour l'enseignement français à l'étranger comprend en France des services centraux et à l'étranger les
+établissements placés en gestion directe dont la liste est prévue à l'article L. 452-3. 
+
+Il peut être constitué entre ces établissements des groupements de gestion. La composition de ces groupements figure sur la
+liste mentionnée à l'alinéa précédent. 
+
+L'organisation administrative, financière et comptable de ces établissements est régie par les dispositions du présent
+chapitre sous réserve des conventions internationales liant la France aux pays dans lesquels ils sont implantés. 
+
+Les immeubles des établissements d'enseignement français à l'étranger placés en gestion directe, appartenant à l'Etat et
+affectés au ministère des affaires étrangères, sont attribués à l'agence à titre de dotation par arrêté du ministre des
+affaires étrangères et du ministre chargé des domaines. L'arrêté fixe la liste des immeubles et les conditions de
+l'attribution à titre de dotation. 
+
+L'agence est substituée à l'Etat dans les droits et obligations résultant des contrats qu'il a passés, relatifs à la gestion
+des immeubles domaniaux. La substitution intervient à la date de leur attribution à titre de dotation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 7 juillet 2005 - art. 1 (V)
+	  - Arrêté du 7 juillet 2015 (V)
+	  - Code de l'éducation - art. D452-11 (V)
+	  - Code de l'éducation - art. D452-14 (V)
+	  - Code de l'éducation - art. D911-42 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L452-3 (V)
+
+
+##### Section 1 : Organisation administrative.
+
+###### Article D452-2
+
+L'Agence pour l'enseignement français à l'étranger est administrée par un conseil d'administration et dirigée par un
+directeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 21 mars 2014 (V)
+
+
+###### Article D452-3
+
+Le conseil d'administration de l'Agence pour l'enseignement français à l'étranger comprend vingt-six membres :
+
+1° Un président ;
+
+2° Deux parlementaires désignés respectivement par l'Assemblée nationale et le Sénat ;
+
+3° Sept représentants du ministre des affaires étrangères ;
+
+4° Trois représentants du ministre chargé de l'éducation nationale ;
+
+5° Un représentant du ministre chargé du budget ;
+
+6° Un représentant du ministre chargé de la fonction publique ;
+
+7° Un représentant du ministre chargé du commerce extérieur ;
+
+8° Un membre de l'Assemblée des Français de l'étranger ;
+
+9° Deux représentants d'organismes gestionnaires d'établissements conventionnés, désignés par le ministre des affaires
+étrangères ;
+
+10° Deux représentants des fédérations d'associations de parents d'élèves de l'enseignement français à l'étranger désignés
+dans des conditions définies par arrêté du ministre des affaires étrangères ;
+
+11° Cinq représentants du personnel en service tant dans les établissements d'enseignement à l'étranger que dans les services
+centraux de l'agence, désignés par les organisations syndicales représentatives dans des conditions définies par arrêté du
+ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-4
+
+Le président du conseil d'administration de l'Agence pour l'enseignement français à l'étranger est nommé pour trois ans par
+décret, sur proposition du ministre des affaires étrangères, après consultation du ministre chargé de l'éducation.
+
+Les représentants de l'administration sont nommés par arrêté du ministre qu'ils représentent. Ils cessent d'appartenir au
+conseil d'administration lorsqu'ils perdent la qualité au titre de laquelle ils ont été nommés. Les autres représentants sont
+nommés par arrêté du ministre des affaires étrangères. En cas de vacance, le siège est pourvu dans un délai de trois mois et
+pour la durée du mandat restant à courir.
+
+Le mandat des administrateurs est de trois ans ; il est renouvelable. Les fonctions sont exercées à titre gratuit. Toutefois,
+les frais de déplacement et de séjour des administrateurs peuvent être pris en charge dans les conditions fixées par la
+réglementation applicable aux fonctionnaires de l'Etat.
+
+Le président du conseil d'administration peut être suppléé par l'un des représentants du ministre des affaires étrangères
+siégeant au conseil.
+
+Chaque membre du conseil, à l'exception de son président, peut se faire représenter par un suppléant nommément désigné. Les
+suppléants sont appelés à siéger en cas d'empêchement du titulaire ou en cas de vacance en cours de mandat jusqu'au
+remplacement du titulaire.
+
+En cas d'empêchement du titulaire et de son suppléant, un administrateur peut donner procuration à un autre membre du
+conseil. Nul ne peut être porteur de plus de deux procurations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-5
+
+Le conseil d'administration de l'Agence pour l'enseignement français à l'étranger se réunit au moins trois fois par an sur
+convocation de son président. Le président est tenu de convoquer le conseil sur demande du ministre des affaires étrangères
+ou du tiers des membres du conseil d'administration.
+
+Le président fixe l'ordre du jour du conseil. Il est tenu d'inscrire à l'ordre du jour toute question que le ministre des
+affaires étrangères ou le ministre chargé de l'éducation lui demande d'y faire figurer. Il en va de même des demandes
+présentées par le tiers des membres du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-6
+
+Le conseil d'administration de l'Agence pour l'enseignement français à l'étranger ne peut valablement délibérer que si la
+moitié au moins de ses membres est présente ou représentée. Si le quorum n'est pas atteint, le conseil d'administration se
+réunit à nouveau dans un délai de quinze jours et délibère valablement sur le même ordre du jour, quel que soit le nombre de
+ses membres présents.
+
+Les délibérations du conseil d'administration sont adoptées à la majorité des membres présents ou représentés. En cas de
+partage des voix, celle du président est prépondérante.
+
+Le conseil d'administration adopte son règlement intérieur à la majorité absolue des membres en exercice du conseil. Ce
+règlement est approuvé par le ministre des affaires étrangères et le ministre chargé de la coopération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-7
+
+Le directeur, le membre du corps du contrôle général économique et financier et l'agent comptable de l'Agence pour
+l'enseignement français à l'étranger assistent avec voix consultative aux travaux du conseil d'administration.
+
+Toute personne dont le président estime la présence utile peut également assister aux séances du conseil d'administration
+avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-8
+
+Le conseil d'administration de l'Agence pour l'enseignement français à l'étranger délibère sur les matières suivantes : 
+
+1° La politique générale de l'établissement ; 
+
+2° Les orientations en matière de gestion des personnels ; 
+
+3° Les principes de répartition des emplois dont les titulaires sont rémunérés dans les conditions définies par le décret n°
+2002-22 du 4 janvier 2002 relatif à la situation administrative et financière des personnels des établissements
+d'enseignement français à l'étranger ; 
+
+4° Les conventions types proposées aux établissements visés à l'article L. 452-4, et notamment destinées à déterminer les
+modalités dans lesquelles l'agence met ses concours en personnels et en financements à la disposition de ces établissements ;
+ces conventions types précisent notamment les responsabilités respectives de l'agence et des établissements quant aux
+modalités de financement des rémunérations des personnels tels que définis à l'article 2 du décret du 4 janvier 2002
+précité ; 
+
+5° Le rapport annuel d'activité ; 
+
+6° Le budget et les décisions modificatives de celui-ci. Sont soumises au conseil d'administration les décisions
+modificatives du budget de l'agence qui comportent soit une modification de l'équilibre global, soit une augmentation du
+montant global des dépenses, soit une diminution des recettes entraînant une perte ou une variation négative du fonds de
+roulement, soit des virements de crédits entre chapitres. Les autres décisions modificatives du budget de l'agence sont
+prises par le directeur de l'agence, après visa du membre du corps du contrôle général économique et financier et sont
+présentées pour information au conseil d'administration lors de sa plus prochaine séance. En cas d'urgence avérée et si le
+conseil d'administration ne peut se réunir à une date suffisamment proche, une décision modificative d'urgence peut être
+prise par le directeur de l'agence, après l'autorisation du membre du corps du contrôle général économique et financier, en
+accord avec le ministre des affaires étrangères et le président du conseil d'administration. Elle doit faire l'objet d'une
+approbation au cours du plus prochain conseil d'administration ; 
+
+7° Le compte financier et l'affectation des résultats ; 
+
+8° Les placements et les emprunts ; 
+
+9° Les acquisitions, aliénations, échanges, locations, baux, constructions et grosses réparations d'immeubles relevant de son
+domaine propre ; 
+
+10° Le programme annuel des travaux d'aménagement, d'entretien et de grosses réparations des immeubles remis en dotation
+ainsi que la délivrance des autorisations d'occupation temporaire de ces immeubles. Les modifications apportées au programme
+des travaux en cours d'année font l'objet d'une régularisation par le conseil d'administration ; 
+
+11° Les principes selon lesquels sont déterminées les redevances et rémunérations de toute nature perçues par l'agence ; 
+
+12° Les dons et legs ; 
+
+13° Les transactions ; 
+
+14° L'habilitation du directeur de l'agence à introduire les actions en justice. 
+
+Le conseil d'administration détermine les catégories de conventions qui, en raison de leur nature ou du montant financier
+engagé, lui sont soumises pour approbation. 
+
+Il fixe les redevances dues à raison des autorisations d'occupation temporaire des immeubles remis en dotation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2002-22 du 4 janvier 2002 (V)
+	  - Décret n°2002-22 du 4 janvier 2002 - art. 2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D452-11 (V)
+
+
+###### Article D452-9
+
+Le directeur de l'Agence pour l'enseignement français à l'étranger transmet les délibérations du conseil d'administration
+dans les dix jours qui suivent leur adoption au ministre des affaires étrangères. Lorsque la délibération présente un
+caractère pédagogique, elle est également transmise dans les mêmes conditions au ministre chargé de l'éducation. 
+
+Sauf opposition ou demande de surseoir à exécution adressée au directeur de l'agence par le ministre des affaires étrangères,
+les délibérations du conseil d'administration sont exécutoires quinze jours après leur transmission. En cas d'urgence
+déclarée par le conseil d'administration, le ministre peut autoriser l'exécution immédiate. 
+
+Toutefois, les délibérations ayant une incidence financière ou budgétaire, notamment celles portant sur le budget et les
+décisions modificatives de celui-ci, le compte financier, les acquisitions, échanges et aliénations d'immeubles sont
+transmises au ministre des affaires étrangères et au ministre chargé du budget. Elles sont exécutoires par approbation tacite
+un mois après leur réception ou, en cas d'urgence, par approbation expresse, conformément au décret n° 99-575 du 8 juillet
+1999 relatif aux modalités d'approbation de certaines dispositions financières des établissements publics de l'État. 
+
+Les délibérations relatives aux emprunts ne sont exécutoires qu'après avoir été approuvées par arrêté du ministre des
+affaires étrangères et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°99-575 du 8 juillet 1999 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-10
+
+Le directeur de l'Agence pour l'enseignement français à l'étranger est nommé pour trois ans par décret sur proposition du
+ministre des affaires étrangères.
+
+Il est assisté d'un directeur adjoint et d'un secrétaire général. Le directeur adjoint assure l'intérim du directeur de
+l'agence en cas de vacance ou d'empêchement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-11
+
+Le directeur de l'Agence pour l'enseignement français à l'étranger dirige l'établissement public national dans le cadre des
+orientations définies par le conseil d'administration. Il prépare et exécute les délibérations du conseil d'administration.
+Il assure le fonctionnement des services de l'agence. Il recrute, affecte et gère l'ensemble des personnels de l'agence sur
+lesquels il a autorité. 
+
+Il représente l'agence en justice et dans les actes de la vie civile. 
+
+Il est ordonnateur principal des dépenses et des recettes de l'agence. 
+
+Dans le cadre du budget de l'agence approuvé par le conseil d'administration, il notifie les budgets des établissements en
+gestion directe ou des groupements de gestion d'établissements. 
+
+Il arrête le montant des frais de scolarité, des frais d'examen et des autres tarifs conformément aux principes fixés par le
+conseil d'administration. 
+
+Il procède à l'attribution des bourses scolaires dans les conditions prévues par le décret n° 91-833 du 30 août 1991 relatif
+aux bourses scolaires au bénéfice d'enfants français résidant avec leur famille à l'étranger. 
+
+Il conclut les contrats et conventions sous réserve des dispositions de l'article D. 452-8. 
+
+Le directeur de l'agence définit les attributions des chefs d'établissement. Il peut déléguer aux chefs des établissements en
+gestion directe ou à ceux des établissements principaux des groupements de gestion définis à l'article D. 452-1 tout ou
+partie de ses pouvoirs dans les domaines du recrutement et de la gestion des personnels, du fonctionnement des services, de
+la représentation de l'agence en justice et de la conclusion de conventions. 
+
+Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°91-833 du 30 août 1991 (V)
+	  - Code de l'éducation - art. D452-1 (V)
+	  - Code de l'éducation - art. D452-8 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Dispositions d'ordre financier et comptable.
+
+##### Sous-section 1 : Agence pour l'enseignement français à l'étranger.
+
+###### Article D452-12
+
+Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
+administratifs de l'Etat, l'Agence pour l'enseignement français à l'étranger est soumise au contrôle financier de l'Etat dans
+les conditions prévues par le décret n° 2005-54 du 27 janvier 2005 relatif au contrôle financier au sein des administrations
+de l'Etat. 
+
+Les modalités de ce contrôle sont fixées par arrêté du ministre chargé du budget et du ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 12 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2005-54 du 27 janvier 2005
+	  - Décret n°2005-757 du 4 juillet 2005
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
+
+
+###### Article D452-13
+
+Les opérations financières et comptables de l'Agence pour l'enseignement français à l'étranger sont effectuées conformément
+aux dispositions de l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963, des articles 14 à 25 du décret
+n° 53-1227 du 10 décembre 1953 relatif à la réglementation budgétaire applicable aux établissements publics à caractère
+administratif ainsi que des articles 1er à 62 et 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement
+général sur la comptabilité publique.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 du 10 décembre 1953 - art. 14 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 1 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-14
+
+Le directeur de l'Agence pour l'enseignement français à l'étranger nomme ordonnateurs secondaires les chefs des
+établissements en gestion directe et les chefs des établissements principaux des groupements de gestion définis à l'article
+D. 452-1.
+
+Il prépare et présente le budget de l'établissement public qui comporte l'ensemble des recettes et des dépenses des services
+centraux, des établissements en gestion directe et des groupements de gestion. 
+
+Au sein de ce budget, un tableau spécifique regroupe, par section et par nature, l'ensemble des budgets établis par les
+ordonnateurs secondaires des établissements en gestion directe et des groupements de gestion. 
+
+Le budget de l'agence comprend un compte de résultat prévisionnel et un tableau de financement abrégé prévisionnel. Les
+recettes et les dépenses y sont classées par nature selon le plan comptable de l'agence défini par le directeur de l'agence,
+approuvé par le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D452-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D452-19 (V)
+
+
+###### Article D452-15
+
+Les dépenses de l'Agence pour l'enseignement français à l'étranger comprennent notamment les frais de travaux d'aménagement,
+d'entretien et de grosses réparations afférents aux immeubles qui lui sont remis en dotation.
+
+Les redevances dues à raison des autorisations d'occupation temporaire des biens immobiliers remis en dotation à l'agence
+sont perçues par cette dernière.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 14-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-16
+
+L'agent comptable de l'Agence pour l'enseignement français à l'étranger est nommé par arrêté du ministre des affaires
+étrangères et du ministre chargé du budget.
+
+Des comptables secondaires sont nommés dans les établissements en gestion directe ou dans les établissements principaux des
+groupements, avec l'agrément de l'agent comptable de l'agence, par arrêté du ministre des affaires étrangères et du ministre
+chargé du budget. Plusieurs établissements en gestion directe peuvent être dotés du même comptable secondaire.
+
+A la fin de chaque exercice, l'agent comptable prépare le compte financier de l'agence pour l'exercice écoulé. Ce compte
+retrace en un document unique les recettes perçues et les dépenses effectuées par les services centraux de l'agence ainsi que
+par les établissements d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-17
+
+Des régies de recettes et d'avances peuvent être instituées dans les services centraux de l'Agence pour l'enseignement
+français à l'étranger, dans les établissements en gestion directe et au sein des groupements de gestion, dans les conditions
+prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes
+publics.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°92-681 du 20 juillet 1992 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-18
+
+L'Agence pour l'enseignement français à l'étranger exerce les droits et obligations de l'Etat pour les conventions en cours
+et contractées par lui, avant l'entrée en vigueur de la loi n° 90-588 du 6 juillet 1990 portant création de l'Agence pour
+l'enseignement français à l'étranger, pour remplir les missions mentionnées à l'article L. 452-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 20 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L452-2 (V)
+
+
+##### Sous-section 2 : Etablissements en gestion directe.
+
+###### Article D452-19
+
+Le chef d'établissement désigné ordonnateur secondaire dans les conditions prévues à l'article D. 452-14 élabore : 
+
+1° Le budget primitif de l'établissement ou du groupement d'établissements, avec le concours des chefs d'établissement du
+groupement et de l'agent comptable de l'établissement en gestion directe ; lorsqu'un groupement de gestion a été constitué,
+il est établi un seul budget pour l'ensemble des établissements en gestion directe intégrés au groupement ; 
+
+2° Les décisions modificatives du budget de l'établissement ou du groupement de gestion, avec le concours des personnes
+citées ci-dessus, dans les conditions suivantes : 
+
+a) Les décisions modificatives qui ne remettent pas en cause l'équilibre global du budget primitif de l'établissement
+d'enseignement ou qui ne provoquent pas de modification du résultat prévisionnel ou de la variation prévisionnelle du fonds
+de roulement net global, ni virements de crédit entre chapitres de personnel et autres chapitres de fonctionnement, sont
+prises par le chef d'établissement d'enseignement avant la clôture de l'exercice et transmises pour information au directeur
+de l'agence ; 
+
+b) Les autres décisions modificatives sont prises avant la clôture de l'exercice, par le directeur de l'agence. En cas
+d'urgence liée à la situation locale et reconnue comme telle par le directeur de l'agence, ces décisions modificatives sont
+prises par le chef d'établissement et sont immédiatement exécutoires. Elles sont transmises au directeur de l'agence dans un
+délai maximum de quinze jours et en tout état de cause avant la clôture de l'exercice. 
+
+Après notification, par le directeur de l'agence, des crédits prévisionnels de recettes et de dépenses de l'établissement ou
+du groupement de gestion, l'ordonnateur secondaire a seul qualité pour engager, liquider et mandater les dépenses ainsi que
+pour constater les droits et liquider les recettes de l'établissement ou du groupement de gestion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D452-14 (V)
+
+
+###### Article D452-20
+
+Les budgets primitifs de chaque établissement en gestion directe ou groupement de gestion et les budgets modificatifs sont
+établis en monnaie locale par le chef d'établissement ou du groupement pour chaque année civile. Ils sont transmis au
+directeur de l'Agence pour l'enseignement français à l'étranger avec l'avis du chef de poste diplomatique.
+
+A titre exceptionnel, le budget primitif et les budgets modificatifs peuvent être établis en euros sur proposition du chef
+d'établissement ou du groupement de gestion, avec l'accord du directeur et de l'agent comptable de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D452-21
+
+Le contrôle de la gestion des comptables secondaires des établissements en gestion directe est assuré par l'agent comptable
+principal de l'Agence pour l'enseignement français à l'étranger ou, pour son compte et à sa demande :
+
+1° Par les inspecteurs de l'inspection générale des affaires étrangères ;
+
+2° Par le trésorier-payeur général pour l'étranger et, le cas échéant, par les comptables du Trésor territorialement
+compétents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2003-1288 du 23 décembre 2003 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre III : Les établissements d'enseignement placés auprès des forces françaises stationnées en Allemagne.
+
+##### Section 1 : Dispositions générales.
+
+##### Sous-section 1 : Organisation générale.
+
+###### Article R453-1
+
+Les établissements d'enseignement français des premier et second degrés placés à la suite des forces françaises et de
+l'élément civil stationnés en Allemagne sont sous la responsabilité du ministre de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-2
+
+Ces établissements ont pour mission de scolariser les enfants des membres militaires et civils des forces françaises et de
+l'élément civil stationnés en Allemagne, en leur dispensant, au titre de leur formation initiale, un enseignement conforme
+aux objectifs, aux programmes et aux règles d'organisation pédagogique applicables, en France, aux écoles et établissements
+secondaires d'enseignement public et en les préparant aux examens et diplômes français correspondant aux formations assurées.
+
+Ils peuvent aussi accueillir, dans la limite des places disponibles, d'autres enfants français ou de nationalité étrangère,
+dont les parents ou responsables légaux résident en Allemagne.
+
+La liste de ces établissements est fixée par arrêté du ministre de la défense, du ministre chargé de l'éducation et du
+ministre chargé du budget, valable trois ans. Elle donne lieu à réexamen annuel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-3
+
+Les établissements mentionnés au présent chapitre dépendent du service de l'enseignement des forces françaises et de
+l'élément civil stationnés en Allemagne, placé sous l'autorité du général commandant ces forces.
+
+Le chef de service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne est nommé par arrêté
+du ministre de la défense sur proposition du ministre chargé de l'éducation. Il est recruté dans les corps de personnels de
+direction d'établissement d'enseignement ou de formation relevant du ministre chargé de l'éducation ou dans un corps de
+fonctionnaires de catégorie A de niveau équivalent. Ce fonctionnaire agit par délégation du général commandant des forces
+françaises et de l'élément civil stationnés en Allemagne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-4 (V)
+
+
+###### Article R453-4
+
+Dans la limite de la délégation mentionnée à l'article R. 453-3, le chef du service de l'enseignement des forces françaises
+et de l'élément civil stationnés en Allemagne a autorité sur tous les personnels du service et des établissements en
+dépendant et prend toutes mesures relatives à : 
+
+1° La création, l'implantation et la structure pédagogique des établissements d'enseignement ; 
+
+2° L'organisation et le fonctionnement de son service et des établissements d'enseignement ; 
+
+3° La répartition des moyens ; 
+
+4° L'installation, l'encadrement et l'administration des personnels. 
+
+Il lui incombe également de prendre toutes dispositions relatives à : 
+
+5° La scolarisation des élèves ; 
+
+6° La mise en œuvre de l'action éducative dans les établissements scolaires ; 
+
+7° L'organisation de la concertation avec les personnels et les parents d'élèves. 
+
+En vue de la concertation avec les personnels, une instance paritaire consultative locale est placée, par arrêté du ministre
+de la défense, auprès du chef du service de l'enseignement des forces françaises et de l'élément civil stationnés en
+Allemagne. Cette instance comprend, en nombre égal, des représentants de l'administration et des représentants des
+personnels. Les sièges des représentants des personnels sont répartis entre les organisations syndicales selon des modalités
+fixées par l'arrêté précité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R453-3 (V)
+
+
+###### Article R453-5
+
+Pour exercer les fonctions d'enseignement, d'éducation et de direction dans les établissements mentionnés au présent
+chapitre, il est fait appel à des fonctionnaires titulaires du ministère de l'éducation nationale, placés en position de
+détachement auprès du ministère de la défense. Ces détachements sont prononcés après avis d'une instance consultative
+paritaire centrale créée, auprès du ministre de la défense, par arrêté de ce ministre et du ministre chargé de l'éducation et
+comprenant des représentants de l'administration de ces deux ministères et des représentants des personnels de l'éducation
+nationale. Les sièges des représentants des personnels sont répartis entre les organisations syndicales des personnels du
+ministère de l'éducation nationale selon des modalités fixées par arrêté ministériel. La répartition des sièges des
+représentants de l'administration entre les deux ministères est fixée par le même arrêté.
+
+Pour exercer les fonctions administratives, techniques et de service, dans les établissements précités et à l'échelon central
+du service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne, il est fait appel à des
+agents du ministère de l'éducation nationale ou du ministère de la défense. Les fonctionnaires titulaires du ministère de
+l'éducation nationale sont placés en position de détachement auprès du ministère de la défense.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-6
+
+Dans les établissements mentionnés au présent chapitre, les enfants des membres militaires et civils des forces françaises et
+de l'élément civil stationnés en Allemagne sont accueillis dans les mêmes conditions financières que les enfants scolarisés
+en France dans les écoles et établissements de l'enseignement public relevant du ministère de l'éducation nationale.
+
+Les autres enfants le sont moyennant le versement de droits dont le montant est déterminé par le commandant des forces
+françaises et de l'élément civil stationnés en Allemagne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Organisation pédagogique.
+
+###### Article R453-7
+
+Dans les classes du premier degré, la scolarité est organisée par cycles, dans les conditions applicables en France dans
+l'enseignement public. Lorsque des parents, conformément au troisième alinéa de l'article D. 321-6, contestent la proposition
+de réduction ou d'allongement de la durée de scolarité de leur enfant émise par le directeur d'école, leur recours motivé est
+formé, par dérogation aux dispositions précitées, devant le chef du service de l'enseignement des forces françaises et de
+l'élément civil stationnés en Allemagne. Celui-ci statue définitivement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D321-6 (V)
+
+
+###### Article R453-8
+
+Dans les établissements du second degré, pour la réalisation du projet personnel de chaque élève, le chef d'établissement
+procède à la consultation des enseignants et facilite le dialogue entre l'élève, sa famille et l'équipe éducative.
+
+En fonction de ces consultations et des demandes d'orientation de la famille ou de l'élève majeur, le conseil de classe
+formule des propositions d'orientation dans le cadre des voies d'orientation réglementairement ouvertes, en France, aux
+élèves de l'enseignement public, ou une proposition de redoublement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-9
+
+Lorsque les propositions d'orientation ne sont pas conformes aux demandes, le chef d'établissement reçoit l'élève et ses
+parents ou l'élève majeur afin de les informer des propositions du conseil de classe et de recueillir leurs observations. Il
+prend ensuite les décisions d'orientation ou de redoublement, dont il informe l'équipe pédagogique et il les notifie aux
+parents de l'élève ou à l'élève majeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-10
+
+Les décisions d'orientation non conformes aux demandes sont motivées. Elles sont adressées aux parents de l'élève ou à
+l'élève majeur qui font savoir au chef d'établissement s'ils acceptent les décisions ou s'ils en font appel, dans un délai de
+huit jours à compter de la réception de la notification de ces décisions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-11
+
+Par dérogation à l'article D. 331-35, la commission d'appel est présidée par l'inspecteur d'académie, directeur des services
+départementaux de l'éducation nationale du Haut-Rhin ou son représentant, et comprend, en outre, un chef d'établissement,
+trois professeurs enseignant au niveau scolaire en cause, un conseiller principal d'éducation et un conseiller d'orientation-
+psychologue, exerçant tous dans des établissements d'enseignement du second degré implantés à la suite des forces françaises
+et de l'élément civil stationnés en Allemagne, ainsi que trois représentants des parents d'élèves. 
+
+Les membres de la commission d'appel sont nommés par le chef du service de l'enseignement des forces françaises et de
+l'élément civil stationnés en Allemagne, pour une durée d'un an renouvelable, sur proposition des associations en ce qui
+concerne les représentants des parents d'élèves. Trois représentants suppléants des parents d'élèves sont également désignés
+dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-35 (V)
+
+
+###### Article R453-12
+
+Les décisions relatives à la scolarité des élèves, notamment les décisions d'orientation, prises par les établissements
+d'enseignement placés à la suite des forces françaises et de l'élément civil stationnés en Allemagne s'appliquent en France
+dans les établissements d'enseignement publics et dans les établissements d'enseignement privés sous contrat, ainsi que dans
+les établissements scolaires français à l'étranger figurant sur la liste prévue à l'article R. 451-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R451-12 (V)
+
+
+###### Article R453-13
+
+La scolarité accomplie par les élèves dans les établissements d'enseignement placés à la suite des forces françaises et de
+l'élément civil stationnés en Allemagne est considérée, en vue de la poursuite de leurs études et de la délivrance des
+diplômes, comme effectuée en France dans un établissement d'enseignement public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-14
+
+Les enseignants exerçant dans les établissements d'enseignement placés à la suite des forces françaises et de l'élément civil
+stationnés en Allemagne sont responsables de l'ensemble des activités scolaires des élèves. Ils travaillent au sein d'équipes
+pédagogiques constituées des enseignants ayant en charge les mêmes classes ou groupes d'élèves ou intervenant dans le même
+champ disciplinaire. Ils apportent une aide au travail personnel des élèves et en assurent le suivi. Ils procèdent à
+l'évaluation des élèves et les conseillent dans le choix de leur projet d'orientation. Leur formation les prépare à
+l'ensemble de ces missions. Ils ont vocation à bénéficier d'actions de formation continue.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-15
+
+Dans chaque établissement d'enseignement du second degré, les modalités particulières de mise en œuvre des objectifs et
+programmes nationaux sont définies en concertation avec les membres de la communauté éducative. Elles peuvent être énoncées
+dans un projet d'établissement précisant les activités scolaires et périscolaires prévues à cette fin. Le chef du service de
+l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne est informé de ce projet, qui lui est
+transmis dès son adoption.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-16
+
+Les établissements d'enseignement placés à la suite des forces françaises et de l'élément civil stationnés en Allemagne et
+leurs personnels font l'objet, en matière pédagogique, d'évaluations effectuées par les corps d'inspection spécialisés du
+ministère de l'éducation nationale.
+
+En ce qui concerne l'enseignement du premier degré, ces évaluations incombent à un inspecteur de l'éducation nationale
+exerçant dans le département français le plus proche et désigné par le recteur d'académie, sur proposition de l'inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-586 du 5 mai 1995 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Dispositions relatives aux établissements du premier degré.
+
+###### Article 453-17
+
+Pour leur fonctionnement matériel et leur gestion financière, les établissements d'enseignement du premier degré placés à la
+suite des forces françaises et de l'élément civil stationnés en Allemagne relèvent directement de l'autorité du général
+commandant ces forces.
+
+Les recettes à percevoir au titre des droits versés pour les enfants autres que ceux des membres militaires et civils des
+forces françaises et de l'élément civil stationnés en Allemagne accueillis dans ces établissements sont affectées au budget
+du ministère de la défense au moyen de la procédure de rétablissement de crédit.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-18
+
+Chaque établissement est dirigé par un directeur d'école, recruté parmi les instituteurs ou professeurs des écoles déjà
+nommés en France sur un emploi de directeur d'école ou inscrits sur une liste départementale d'aptitude à cet emploi, établie
+conformément aux dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école. 
+
+Le directeur d'école arrête annuellement l'organisation du service d'enseignement, après avis du conseil des maîtres. Il
+préside le conseil des maîtres, dont la composition et les compétences sont celles définies, pour cette instance, par la
+réglementation applicable en France aux écoles maternelles et élémentaires de l'enseignement public. 
+
+Il préside également le conseil d'école doté des compétences prévues, pour cet organe, par la réglementation applicable en
+France aux écoles maternelles et élémentaires de l'enseignement public.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-122 du 24 février 1989 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-19
+
+Par dérogation aux dispositions de l'article D. 411-1, le conseil d'école comprend, outre le directeur d'école : 
+
+1° Les personnels enseignants exerçant dans l'école, y compris les remplaçants en fonction lors des réunions du conseil ; 
+
+2° Le commandant d'armes de la garnison ou son représentant ; 
+
+3° Un inspecteur de l'éducation nationale exerçant dans le département français le plus proche et désigné par le recteur
+d'académie, sur proposition de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ; 
+
+4° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par
+arrêté du ministre chargé de l'éducation pour l'élection, en France, des représentants des parents d'élèves aux conseils
+d'école des écoles primaires publiques. 
+
+Les autres personnels prévus à l'article D. 411-1 peuvent, le cas échéant, y siéger avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 3 al 1 à 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+
+
+###### Article R453-20
+
+Le conseil d'école est constitué pour une année et siège valablement jusqu'à l'intervention du renouvellement de ses membres.
+
+Il se réunit au moins une fois par trimestre, et obligatoirement, dans les quinze jours suivant la proclamation des résultats
+des élections, sur un ordre du jour adressé aux membres du conseil huit jours au moins avant la date des réunions. Il peut
+également être réuni à la demande du directeur d'école ou du représentant du général commandant les forces françaises et
+l'élément civil stationnés en Allemagne ou de la moitié de ses membres.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 3 al 7 et 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 3 : Dispositions relatives aux établissements du second degré.
+
+###### Article R453-21
+
+Les établissements d'enseignement du second degré placés à la suite des forces françaises et de l'élément civil stationnés en
+Allemagne exercent leur activité dans le domaine de la formation initiale et de la formation professionnelle tout au long de
+la vie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-22
+
+Les personnels des établissements d'enseignement du second degré bénéficient, dans les mêmes conditions que celles définies
+par les articles R. 92 à R. 104 du code du domaine de l'Etat et les textes pris pour leur application, sur décision du
+commandant des forces françaises et de l'élément civil stationnés en Allemagne, et après proposition du chef du service de
+l'enseignement, des mesures d'affectation de logements par nécessité absolue de service. 
+
+L'exonération des prestations et charges relatives à ces logements est accordée dans les limites fixées par les dispositions
+de la section 2 du chapitre VI du titre Ier du livre II de la partie réglementaire du présent code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 36 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du domaine de l'Etat - art. R92 (V)
+
+
+##### Sous-section 1 : Organisation administrative.
+
+###### Article R453-23
+
+Chaque établissement est administré par un chef d'établissement nommé par arrêté du ministre de la défense, sur proposition
+du ministre chargé de l'éducation. Le chef d'établissement a autorité sur les personnels en fonction dans l'établissement. Il
+fixe leur service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-24
+
+Dans chaque établissement siège un conseil d'établissement.
+
+Le chef d'établissement le saisit pour avis du projet de budget et du compte financier de l'établissement ainsi que des
+questions de fonctionnement et d'organisation pédagogique de l'établissement. Le conseil d'établissement est également
+consulté sur la fixation des tarifs du service annexe d'hébergement et sur les problèmes de prestations accessoires et de
+ventes de biens éventuelles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 6 al 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-25
+
+Le conseil d'établissement comprend :
+
+1° Dans les établissements accueillant plus de 500 élèves :
+
+a) Le chef d'établissement, président ;
+
+b) L'adjoint au chef d'établissement ;
+
+c) L'agent chargé d'assister le chef d'établissement dans la gestion matérielle et financière de l'établissement ;
+
+d) Le conseiller principal d'éducation le plus ancien ;
+
+e) Deux représentants des forces armées françaises et de l'élément civil stationnés en Allemagne, désignés par le général
+commandant ces forces ;
+
+f) Deux personnalités qualifiées désignées par le commandant des forces françaises et de l'élément civil stationnés en
+Allemagne ;
+
+g) Huit représentants élus des personnels de l'établissement, dont six au titre des personnels d'enseignement, d'éducation et
+de surveillance et deux au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+h) Quatre représentants élus des parents d'élèves et quatre représentants élus des élèves.
+
+2° Dans les établissements accueillant moins de 500 élèves :
+
+a) Le chef d'établissement, président ;
+
+b) L'agent chargé d'assister le chef d'établissement dans la gestion matérielle et financière de l'établissement ou l'agent
+comptable de l'établissement siège de l'agence comptable ;
+
+c) Le conseiller principal d'éducation, si l'établissement en est doté ;
+
+d) Un représentant des forces françaises et de l'élément civil stationnés en Allemagne, désigné par le commandant de ces
+forces ;
+
+e) Une personnalité qualifiée désignée par le commandant des forces françaises et de l'élément civil et stationnés en
+Allemagne dans les établissements non dotés de conseiller principal d'éducation ;
+
+f) Quatre représentants élus des personnels de l'établissement, dont trois au titre des personnels d'enseignement,
+d'éducation et de surveillance et un au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service ;
+
+g) Deux représentants élus des parents d'élèves et deux représentants élus des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 6 al 2 à 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-26
+
+L'élection des représentants des personnels, des élèves et des parents d'élèves au conseil d'établissement se déroule dans
+les conditions prévues aux articles D. 422-22, D. 422-23, D. 422-25, D. 422-26, D. 422-29 et D. 422-30.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 7 al 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-22 (V)
+	  - Code de l'éducation - art. D422-25 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+
+
+###### Article R453-27
+
+Le conseil d'établissement se réunit en séance ordinaire à l'initiative du chef d'établissement au moins une fois par
+trimestre scolaire. Il est, en outre, réuni en séance extraordinaire à la demande du commandant des forces françaises et de
+l'élément civil stationnés en Allemagne ou du chef d'établissement ou de la moitié au moins de ses membres, sur un ordre du
+jour précis.
+
+Le chef d'établissement fixe les dates et heures des séances ainsi que l'ordre du jour. Il envoie les convocations,
+accompagnées de l'ordre du jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit
+en cas d'urgence à un jour. Le conseil d'établissement ne peut siéger valablement que si le nombre des membres présents est
+égal à la majorité de ses membres. Si ce quorum n'est pas atteint, le conseil d'établissement est convoqué en vue d'une
+nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il siège alors
+valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 7 al 2 et 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 2 : Organisation financière.
+
+###### Article R453-28
+
+La gestion financière et comptable des établissements est soumise aux dispositions de la première partie du décret n° 62-1587
+du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'aux dispositions de l'article 60 de la
+loi n° 63-156 du 23 février 1963 de finances pour 1963.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 (V)
+	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-29
+
+Le budget des établissements comprend une section de fonctionnement et une section d'investissement.
+
+Les recettes à percevoir au titre des droits versés pour les enfants autres que ceux des membres militaires et civils des
+forces françaises et de l'élément civil stationnés en Allemagne, accueillis dans ces établissements, sont enregistrées dans
+la comptabilité et imputées sur le budget de chacun de ces établissements, arrêté par le chef du service de l'enseignement
+des forces françaises et de l'élément civil stationnés en Allemagne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-30
+
+Les recettes des établissements comprennent notamment :
+
+1° Les subventions de l'Etat ;
+
+2° Les subventions attribuées par l'Office franco-allemand pour la jeunesse et toute autre contribution accordée par les
+autorités locales françaises et de l'élément civil ou étrangères, une collectivité publique ou une organisation
+internationale ;
+
+3° Des ressources propres, à savoir :
+
+a) Les produits des dons et legs ;
+
+b) La taxe d'apprentissage ;
+
+c) Les recettes de pensions et de demi-pension, les recettes à percevoir au titre des droits de scolarité acquittés par les
+familles des élèves n'appartenant pas aux membres des forces françaises et de l'élément civil stationnés en Allemagne ;
+
+d) Les remboursements de trop-perçus ;
+
+e) La participation du service d'hébergement et des autres services annexes ;
+
+f) Les recettes diverses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-31
+
+Le commandant des forces françaises et de l'élément civil stationnés en Allemagne détermine le montant des droits acquittés
+par les familles des élèves n'appartenant pas aux membres des forces françaises et de l'élément civil stationnés en
+Allemagne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-32
+
+Les dépenses comprennent tous les frais de fonctionnement et d'entretien, qui ont notamment pour objet :
+
+1° Les activités éducatives et pédagogiques ;
+
+2° Le chauffage et l'éclairage ;
+
+3° L'entretien des matériels, des locaux et des véhicules ;
+
+4° Les charges générales ;
+
+5° Les aides aux élèves ;
+
+6° Les rémunérations de personnels recrutés, notamment par contrat de droit public, pour les besoins de la formation
+professionnelle tout au long de la vie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-33
+
+Le chef d'établissement prépare le budget. Après consultation du conseil d'établissement, il l'adresse pour approbation, sous
+couvert du chef du service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne, au
+commandant des forces françaises et de l'élément civil stationnés en Allemagne auquel il doit parvenir avant le 1er
+décembre. 
+
+Le budget est présenté sous la même forme que celui des établissements d'enseignement mentionnés à l'article D. 422-1.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 13 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-1 (V)
+
+
+###### Article R453-34
+
+Les décisions budgétaires modificatives de virement entre chapitres et de prélèvement sur le fonds de roulement sont prises
+dans les mêmes conditions que le budget. Le chef d'établissement porte au budget les augmentations de crédits provenant de
+ressources nouvelles non prévues initialement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-35
+
+Le chef d'établissement est ordonnateur des recettes et des dépenses de l'établissement.
+
+Il veille à la bonne conservation des biens, meubles et immeubles, confiés à sa garde. A ce titre, il est tenu de faire
+dresser et de faire tenir à jour les registres inventaires des objets mobiliers et immobiliers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-36
+
+La gestion financière de plusieurs établissements peut être regroupée par arrêté du ministre de la défense.
+
+Chaque établissement ou groupement d'établissements est pourvu d'un agent comptable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 16 (Ab)
+	  - Décret n°95-585 du 5 mai 1995 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-37
+
+L'agent comptable est nommé par arrêté du ministre de la défense et du ministre chargé du budget.
+
+Avant d'être installé dans son poste, il est astreint à la constitution de garanties et à la prestation de serment devant le
+commandant des forces françaises et de l'élément civil stationnés en Allemagne. Les modalités de fixation du cautionnement
+sont définies par arrêté du ministre de la défense et du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-38
+
+Lorsque l'agent comptable a suspendu le paiement des dépenses, conformément aux dispositions de l'article 37 du décret du 29
+décembre 1962 portant règlement général sur la comptabilité publique, l'ordonnateur peut, par écrit et sous sa
+responsabilité, le requérir de payer. L'agent comptable défère à la réquisition, sauf dans les cas prévus à l'article 160 du
+même décret, et rend compte au comptable du Trésor auprès de l'ambassade de France en Allemagne. 
+
+Des régies de recettes et d'avances peuvent être instituées dans les établissements conformément au décret n° 92-681 du 20
+juillet 1992. Les régisseurs de recettes et d'avances sont nommés par le commandant des forces françaises et de l'élément
+civil stationnés en Allemagne avec l'agrément de l'agent comptable de l'établissement ou, dans le cas d'un groupement
+comptable, avec l'agrément de l'agent comptable de l'établissement siège du groupement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 37 (V)
+	  - Décret n°92-681 du 20 juillet 1992 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-39
+
+A la fin de chaque exercice, l'agent comptable établit le compte financier de l'établissement. Il y annexe toutes les pièces
+justificatives originales.
+
+Le compte financier, arrêté au 31 décembre de chaque année, est visé par le chef d'établissement qui certifie que le montant
+des ordres de dépenses et de recettes est conforme à ses écritures.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 20 (Ab)
+	  - Décret n°95-585 du 5 mai 1995 - art. 21 al 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-40
+
+Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le compte financier est transmis, sous couvert du chef
+du service de l'enseignement, au commandant des forces françaises et de l'élément civil stationnés en Allemagne.
+
+Il est adressé par l'agent comptable avant l'expiration du sixième mois suivant la clôture de l'exercice au comptable du
+Trésor auprès de l'ambassade de France en Allemagne, afin d'être soumis au contrôle juridictionnel de la Cour des comptes.
+
+Le comptable du Trésor auprès de l'ambassade de France en Allemagne est compétent pour arrêter les comptes de chaque
+établissement dès lors que le montant des recettes ordinaires de l'exercice, y compris les subventions, est inférieur à 3
+millions d'euros. Dans le cas contraire, il met le compte des établissements en état d'examen et les transmet, pour jugement,
+à la Cour des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 21 al 2 à 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-41
+
+Faute de présentation dans le délai prescrit, le ministre de la défense propose au ministre chargé du budget la désignation
+d'office d'un agent chargé de la reddition des comptes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-42
+
+La comptabilité des établissements d'enseignement du second degré placés à la suite des forces françaises et de l'élément
+civil stationnés en Allemagne est tenue conformément au plan comptable mentionné à l'article D. 422-52.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-52 (V)
+
+
+###### Article R453-43
+
+La gestion financière des établissements est soumise au contrôle du comptable du Trésor auprès de l'ambassade de France en
+Allemagne. Ce contrôle porte sur la régularité des opérations budgétaires et comptables, notamment sur la tenue de la
+comptabilité, la disponibilité des crédits et la justification des recettes et des dépenses effectuées.
+
+A tout instant, le comptable du Trésor auprès de l'ambassade de France en Allemagne peut procéder ou faire procéder aux
+vérifications qu'il estime nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 24 (Ab)
+	  - Décret n°95-585 du 5 mai 1995 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-44
+
+Lors de la cessation de fonctions de l'agent comptable sortant ou de la prise de fonctions de l'agent comptable entrant, il
+est procédé à un arrêté des écritures comptables.
+
+A cette occasion, le comptable du Trésor auprès de l'ambassade de France en Allemagne, en présence du commandant des forces
+françaises et de l'élément civil stationnés en Allemagne ou de son représentant, vérifie l'existence matérielle des fonds
+disponibles en caisse et se fait présenter les livres comptables, le relevé arrêté à la même date du compte bancaire ou
+postal de l'établissement ainsi que le compte financier de l'exercice précédent.
+
+Le procès-verbal de ces opérations, accompagné des opérations sur la régularité de la gestion financière, est adressé au
+commandant des forces françaises et de l'élément civil stationnés en Allemagne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Sous-section 3 : Service d'hébergement.
+
+###### Article R453-45
+
+Un service d'hébergement peut être créé dans un établissement d'enseignement du second degré. Ce service accueille des élèves
+internes et demi-pensionnaires. Le service d'hébergement d'un établissement peut également accueillir les élèves d'un autre
+établissement.
+
+Le conseil d'établissement est consulté sur l'organisation de ce service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 27 (Ab)
+	  - Décret n°95-585 du 5 mai 1995 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-46
+
+Les dépenses de fonctionnement du service annexe d'hébergement sont supportées par les familles et l'Etat et, le cas échéant,
+par les personnes mentionnées à l'article R. 453-49.
+
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion et d'éducation du service
+d'hébergement, des personnels soignants, ouvriers et de service, sauf les charges résultant de l'emploi des maîtres
+d'internat au pair.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-47 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R453-49 (V)
+
+
+###### Article R453-47
+
+Le chef d'établissement, après consultation du conseil d'établissement, fixe les tarifs d'hébergement. 
+
+Ces tarifs comprennent, à l'exclusion des charges mentionnées au deuxième alinéa de l'article R. 453-46, le coût direct des
+prestations et une participation aux charges générales dans la limite des taux prévus par arrêté du ministre chargé de
+l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 30 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R453-46 (V)
+
+
+###### Article R453-48
+
+Les frais d'hébergement sont payables d'avance selon des modalités fixées par le chef d'établissement, après consultation du
+conseil d'établissement. Le remboursement des frais peut être accordé par le chef d'établissement sur la demande des familles
+dans les conditions suivantes :
+
+1° De plein droit, lorsque l'hébergement n'est pas assuré, lorsqu'un élève est décédé ou renvoyé définitivement par mesure
+disciplinaire, ou lorsqu'il est absent aux repas pendant plusieurs jours consécutifs pour la pratique d'un culte ;
+
+2° Sur justifications présentées par les familles, lorsqu'un élève est absent pendant plusieurs jours consécutifs.
+
+En cas de défaut de paiement des frais scolaires, le chef d'établissement peut prononcer l'exclusion de l'élève du service
+d'hébergement. Toutefois, dans les établissements dans lesquels cette mesure pourrait entraîner l'exclusion complète de
+l'élève et, notamment, dans les établissements qui reçoivent des pensionnaires, la décision est prise par le commandant des
+forces françaises et de l'élément civil stationnés en Allemagne sur rapport du chef d'établissement, après avis du conseil
+d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 31 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R453-49
+
+Sont admis au service de restauration comme commensaux de droit les personnels suivants :
+
+1° Les maîtres d'internat, les surveillants d'externat à service complet ou partiel, les assistants étrangers et les
+infirmiers et infirmières ;
+
+2° Les personnels de service, ouvriers et de laboratoire de catégorie C de la fonction publique.
+
+Peuvent être admis, à titre d'hôtes permanents ou de passage, sur décision du chef d'établissement prise après avis du
+conseil d'établissement, tous les autres personnels des établissements scolaires.
+
+Dans les mêmes conditions, l'admission peut être étendue, dès lors que les capacités d'hébergement le permettent, à d'autres
+élèves, à d'autres personnels relevant du ministère de la défense et à des personnes étrangères au service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 32 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R453-46 (V)
+	  - Code de l'éducation - art. R453-50 (V)
+
+
+###### Article R453-50
+
+Le chef d'établissement, après consultation du conseil d'établissement, fixe, par référence aux tarifs de restauration des
+élèves, le tarif des repas des différentes catégories d'hôtes admis au service annexe de restauration et énumérés à l'article
+R. 453-49.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 33 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R453-49 (V)
+
+
+###### Article R453-51
+
+Les recettes et les dépenses du service d'hébergement font l'objet d'une comptabilisation séparée au sein d'un service
+spécial.
+
+L'utilisation des réserves de ce service spécial fait l'objet de décisions budgétaires modificatives, après avis du conseil
+d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-585 du 5 mai 1995 - art. 35 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre IV : Les établissements d'enseignement français en Principauté d'Andorre.
+
+###### Article D454-1
+
+Les dispositions des articles D. 411-1 à D. 411-9 et D. 422-2 à D. 422-58 s'appliquent aux établissements d'enseignement
+français en Principauté d'Andorre, sous réserve des dispositions particulières prévues par le présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. D422-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D454-26 (V)
+
+
+##### Section 1 : Dispositions relatives aux établissements d'enseignement du premier degré.
+
+###### Article D454-2
+
+Le conseil d'école prévu à l'article 14 de la convention entre le Gouvernement de la République française et le Gouvernement
+de la Principauté d'Andorre dans le domaine de l'enseignement, signée à Andorre-la-Vieille le 24 septembre 2003, est composé
+des membres suivants : 
+
+1° Le directeur de l'école, président ; 
+
+2° Un représentant du Gouvernement andorran ; 
+
+3° Un représentant du conseil municipal de la paroisse intéressée ; 
+
+4° Tous les enseignants exerçant effectivement dans l'école à la date des réunions du conseil, y compris les enseignants de
+la langue catalane ; 
+
+5° Un des enseignants du réseau d'aides spécialisées intervenant dans l'école, choisi par le conseil des maîtres de
+l'école ; 
+
+6° Les représentants des parents d'élèves, en nombre égal à celui des classes de l'école, élus selon des modalités ci-après
+définies ; ces représentants constituent au sein du conseil d'école le comité des parents ; 
+
+7° Le conseiller pédagogique. 
+
+Le délégué à l'enseignement, prévu par la Convention du 24 septembre 2003, assiste de droit aux réunions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2006-31 du 5 janvier 2006, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D454-6 (V)
+
+
+###### Article D454-3
+
+Les représentants des parents d'élèves sont élus, pour la durée d'une année, au scrutin de liste, à la représentation
+proportionnelle au plus fort reste. En cas d'égalité des restes, le siège à pourvoir est attribué à la liste qui a obtenu le
+plus grand nombre de suffrages et, en cas d'égalité du nombre de suffrages, au candidat le plus âgé.
+
+Le vote est personnel et secret.
+
+Les votes par correspondance sont autorisés.
+
+Des suppléants sont élus dans les mêmes conditions que les titulaires, et en nombre au plus égal à ces derniers. A cet effet,
+chaque liste comporte les noms des candidats titulaires et les noms des candidats suppléants. La même personne ne peut
+figurer à la fois sur la liste des titulaires et des suppléants.
+
+A la fin de l'année scolaire ou au début de l'année scolaire suivante, le conseil d'école désigne en son sein une commission
+composée du directeur d'école, président, d'un instituteur, de deux parents d'élèves, du conseiller pédagogique et d'un
+représentant de la paroisse intéressée. Cette commission est chargée d'assurer l'organisation des élections et de veiller à
+leur bon déroulement ; elles ont lieu entre la cinquième et la septième semaine après la rentrée à une date fixée par le
+délégué à l'enseignement.
+
+Cette commission, constituée en bureau des élections présidé par le directeur d'école, établit les listes électorales, reçoit
+les bulletins de vote par correspondance sous double enveloppe, organise le dépouillement public et en publie les résultats.
+
+En cas d'impossibilité de constituer cette commission ou en cas de désaccord au sein de celle-ci sur les modalités
+d'organisation du scrutin, constaté par le délégué à l'enseignement, les opérations décrites ci-dessus incombent au directeur
+d'école, qui veille à l'application de la réglementation en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-4
+
+Les parents d'élèves ou, le cas échéant, celui des parents qui a l'exercice de l'autorité parentale ou la personne à laquelle
+les enfants ont été confiés sont électeurs et éligibles, à raison d'un seul suffrage par famille. Dans le cas où l'autorité
+est exercée conjointement, le droit de vote est attribué, sauf accord écrit contraire, à celui des parents chez lequel les
+enfants ont leur résidence.
+
+Les familles nourricières d'enfants placés sous la garde judiciaire d'organismes sociaux bénéficient également d'un suffrage
+non cumulatif avec celui dont ils disposeraient déjà au titre de parents d'élèves inscrits dans l'école.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-5
+
+Tout électeur est éligible ou rééligible à raison d'une candidature par famille, sauf s'il a fait l'objet d'une condamnation
+pour crime ou délit contraire à la probité et aux bonnes mœurs, ou s'il a été privé par jugement de tout ou partie de ses
+droits civils, civiques et de famille.
+
+Les contestations relatives à l'éligibilité des candidats sont portées par le président du bureau des élections devant le
+délégué à l'enseignement. Elles ne sont pas suspensives des opérations électorales.
+
+Le directeur de l'école, les enseignants qui y sont effectivement affectés ou qui y exercent effectivement, les enseignants
+de la langue catalane, les personnels chargés des fonctions de psychologue scolaire et de rééducateur, le médecin chargé du
+contrôle médical scolaire, l'assistante sociale, l'infirmière scolaire ainsi que les personnels non enseignants des écoles
+maternelles exerçant à l'école pour tout ou partie de leur service ne sont pas éligibles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D454-8 (V)
+
+
+###### Article D454-6
+
+Dans le cas où aucun représentant des parents n'a été élu, ou si leur nombre est inférieur à celui prévu à l'article D.
+454-2, et dans un délai de dix jours après la proclamation des résultats, le délégué à l'enseignement procède publiquement,
+par tirage au sort, aux désignations nécessaires parmi les parents d'élèves volontaires. 
+
+Le conseil d'école est réputé valablement constitué, même si aucun représentant des parents d'élèves n'a pu être élu ou
+désigné.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-2 (V)
+
+
+###### Article D454-7
+
+Les contestations sur la validité des opérations électorales sont portées, dans un délai de cinq jours à compter de la
+proclamation des résultats, devant le délégué à l'enseignement ; celui-ci statue dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-8
+
+En cas d'empêchement d'un représentant de parents d'élèves titulaire, celui-ci est remplacé par un suppléant élu sur la même
+liste. 
+
+Il en est de même lorsque le représentant titulaire perd la qualité au titre de laquelle il a été élu ou que son
+inéligibilité est établie en application de l'article D. 454-5. 
+
+Les suppléants peuvent assister aux séances du conseil d'école. Ils n'ont voix délibérative qu'en l'absence des titulaires
+qu'ils remplacent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-5 (V)
+
+
+###### Article D454-9
+
+Le conseil d'école, sur proposition du directeur de l'école :
+
+1° Vote le règlement intérieur de l'école ;
+
+2° Donne tous avis et présente toutes suggestions sur le fonctionnement de l'école et sur toutes les questions intéressant la
+vie de l'école, dans le cadre de l'élaboration du projet d'école à laquelle il est associé, notamment sur :
+
+a) Les actions pédagogiques qui sont entreprises pour réaliser les objectifs du service public d'enseignement ;
+
+b) L'utilisation des moyens alloués à l'école ;
+
+c) Les conditions de bonne intégration d'enfants handicapés ;
+
+d) Les activités périscolaires ;
+
+e) La restauration scolaire ;
+
+f) L'hygiène scolaire ;
+
+g) La protection et la sécurité des enfants dans le cadre scolaire et périscolaire ;
+
+3° Arrête sur proposition des équipes pédagogiques la partie pédagogique du projet d'école ;
+
+4° Adopte, en fonction de ces éléments, le projet d'école ;
+
+5° Donne son accord pour l'organisation d'activités complémentaires éducatives, sportives et culturelles ;
+
+6° Est informé, par la direction de l'éducation du ministère chargé de l'éducation du Gouvernement d'Andorre, sur
+l'utilisation des locaux scolaires en dehors des heures d'ouverture de l'école.
+
+En outre, une information doit être donnée au conseil d'école sur :
+
+a) Les principes de choix de manuels scolaires ou de matériels pédagogiques divers ;
+
+b) L'organisation des aides spécialisées.
+
+En fin d'année, le directeur de l'école établit, à l'intention des membres du conseil d'école, un bilan sur toutes les
+questions dont a eu à connaître le conseil d'école, notamment sur la réalisation du projet d'école, et sur toutes les suites
+qui ont été données aux avis qu'il a formulés.
+
+Le conseil d'école est informé des conditions dans lesquelles les maîtres organisent les rencontres avec les parents de leurs
+élèves, et notamment la réunion de rentrée.
+
+Le conseil d'école établit son règlement intérieur qui détermine notamment les modalités de ses délibérations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-10
+
+A l'issue de chaque séance du conseil d'école, un procès-verbal de la réunion est dressé par son président, signé par celui-
+ci et contresigné par le secrétaire de séance et consigné dans un registre spécial conservé à l'école. Deux exemplaires du
+procès-verbal sont adressés au délégué à l'enseignement et un exemplaire est adressé au maire de la paroisse intéressée. Un
+exemplaire du procès-verbal est affiché en un lieu accessible aux parents d'élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Dispositions relatives aux établissements d'enseignement du second degré.
+
+###### Article D454-11
+
+Le lycée Comte de Foix est dirigé par un chef d'établissement nommé par le ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-12
+
+Le chef d'établissement est l'organe exécutif de l'établissement. Il exerce les compétences suivantes : 
+
+1° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+2° Il a autorité sur l'ensemble des personnels affectés ou mis à la disposition de l'établissement. Il fixe le service des
+personnels dans le respect du statut de ces derniers ; 
+
+3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline et le conseil des délégués des
+élèves ; 
+
+4° Il est ordonnateur des recettes et des dépenses de l'établissement ; 
+
+5° Il prépare les travaux du conseil d'administration, et notamment dans la limite des ressources dont dispose
+l'établissement, le projet de budget ; 
+
+6° Il exécute les délibérations du conseil d'administration, et notamment le budget adopté par le conseil d'administration ; 
+
+7° Il soumet au conseil d'administration les mesures à prendre dans les domaines prévus à l'article D. 422-2 et exécute les
+décisions adoptées par le conseil ; 
+
+8° Il conclut tout contrat ou convention au nom de l'établissement avec l'autorisation du conseil d'administration ; 
+
+9° Il veille au bon déroulement des enseignements, de l'information, de l'orientation et du contrôle des connaissances des
+élèves ; 
+
+10° Il prend toutes dispositions, en liaison avec les autorités compétentes, pour assurer la sécurité des personnes et des
+biens, l'hygiène et la salubrité de l'établissement ; 
+
+11° Il est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de
+la communauté scolaire et assure l'application du règlement intérieur ; 
+
+12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves,
+il prononce seul les sanctions mentionnées à l'article 12 du décret n° 95-592 du 6 mai 1995 relatif à l'organisation et au
+fonctionnement des établissements d'enseignement français en Principauté d'Andorre, sans préjudice de l'application des
+sanctions prévues par le règlement intérieur. 
+
+Le chef d'établissement recherche avec l'équipe éducative, dans la mesure du possible avant la mise en œuvre d'une procédure
+disciplinaire, toute mesure utile de nature éducative. 
+
+Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le délégué à l'enseignement et le
+recteur de l'académie de Montpellier.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 12 (V)
+	  - Code de l'éducation - art. D422-2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 12 al 1 à 13 (1ère phrase, en partie), 14 et 15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-13
+
+Le conseil d'administration du lycée Comte de Foix, prévu à l'article 14 de la convention entre le Gouvernement de la
+République française et le Gouvernement de la Principauté d'Andorre dans le domaine de l'enseignement, signée à Andorre-la-
+Vieille le 24 septembre 2003, comprend les membres suivants : 
+
+1° Le chef d'établissement, président ; 
+
+2° Les deux adjoints au chef d'établissement ; 
+
+3° Le gestionnaire de l'établissement ; 
+
+4° Le conseiller principal d'éducation le plus ancien ; 
+
+5° Trois représentants des autorités andorranes désignées par celles-ci ; 
+
+6° Une personnalité qualifiée désignée par le délégué à l'enseignement sur proposition du chef d'établissement et une
+personnalité qualifiée désignée par les autorités andorranes ; 
+
+7° Dix représentants élus des personnels de l'établissement, dont : 
+
+a) Sept représentants au titre des personnels d'enseignement, d'éducation et de surveillance, dont au moins deux de
+nationalité andorrane ; 
+
+b) Trois représentants au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service, dont
+au moins un personnel administratif ; 
+
+8° Cinq représentants élus des parents d'élèves ; 
+
+9° Cinq représentants élus des élèves, dont deux pour le lycée, un pour le lycée professionnel, deux pour le collège.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 13 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2006-31 du 5 janvier 2006, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D454-19 (V)
+	  - Code de l'éducation - art. D454-22 (V)
+	  - Code de l'éducation - art. D454-24 (V)
+
+
+###### Article D454-14
+
+Le recteur de l'académie de Montpellier et le délégué à l'enseignement assistent de droit aux réunions du conseil
+d'administration. Le président du conseil d'administration peut inviter aux séances du conseil, à titre consultatif, toute
+personne dont la présence paraîtrait utile.
+
+Les séances du conseil d'administration ne sont pas publiques.
+
+En cas de partage des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-15
+
+En qualité d'organe délibérant de l'établissement, le conseil d'administration, sur le rapport du chef d'établissement,
+exerce les attributions suivantes :
+
+1° Il fixe les principes de mise en œuvre de l'autonomie pédagogique et éducative dont dispose l'établissement et, en
+particulier, les règles d'organisation de l'établissement ;
+
+2° Il adopte le projet d'établissement. Le conseil d'administration statue sur proposition des équipes pédagogiques pour ce
+qui concerne la partie pédagogique du projet d'établissement ;
+
+3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement, qui rend compte notamment de la
+mise en œuvre du projet d'établissement, des objectifs à atteindre et des résultats obtenus ;
+
+4° Il adopte le budget et le compte financier de l'établissement ;
+
+5° Il adopte le règlement intérieur de l'établissement ;
+
+6° Il donne son accord sur :
+
+a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
+
+b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
+
+c) La passation des conventions dont l'établissement est signataire ;
+
+d) Le programme annuel des actions de formation continue ;
+
+7° Il délibère sur :
+
+a) Toute question dont il a à connaître ressortissant à sa compétence, ainsi que celles ayant trait à l'information des
+membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ;
+
+b) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales de leur participation
+à la vie scolaire ;
+
+c) Les questions relatives à l'hygiène, à la santé et à la sécurité ; à cet effet, le conseil d'administration peut décider
+la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour
+proposer les mesures à prendre en ce domaine au sein de l'établissement ;
+
+8° Il peut définir, dans le cadre du projet d'établissement, toutes actions particulières propres à assurer une meilleure
+utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ;
+
+9° Il autorise l'acceptation des dons et legs, l'acquisition des dons et legs, l'acquisition ou l'aliénation des biens ;
+
+10° Il autorise le chef d'établissement à ester ou défendre en justice ;
+
+11° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de
+l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation professionnelle
+continue des adultes. Dans le cas où cet organe comprendrait des personnalités représentant le monde économique, il sera fait
+appel à parité à des représentants des organisations représentatives des employeurs et des salariés ;
+
+12° Il adopte son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D454-17 (V)
+
+
+###### Article D454-16
+
+Le conseil d'administration exerce, sur saisine du chef d'établissement, les attributions suivantes :
+
+1° Il donne son avis sur les mesures annuelles de créations et de suppressions de sections, d'options et de formations
+complémentaires d'initiative locale dans l'établissement ;
+
+2° Les principes de choix des manuels scolaires, des logiciels et des outils pédagogiques.
+
+Il peut être consulté par le chef d'établissement sur les questions ayant trait au fonctionnement administratif général de
+l'établissement.
+
+Le conseil d'administration peut, à son initiative, adopter tous vœux sur les questions intéressant la vie de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-17
+
+Les avis émis et les décisions prises en application des articles D. 454-15 et D. 454-16 le sont sur la base de votes
+personnels. Le vote secret est de droit si un membre du conseil le demande ; en cas de partage des voix, celle du président
+du conseil d'administration est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-15 (V)
+
+
+###### Article D454-18
+
+Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes du conseil
+d'administration sont exécutoires quinze jours après leur transmission au délégué à l'enseignement et au recteur de
+l'académie de Montpellier. Dans ce délai, le recteur, après avis du délégué à l'enseignement, peut prononcer l'annulation des
+actes du conseil d'administration relatifs au contenu ou à l'organisation de l'action éducative lorsque les actes sont
+contraires aux lois et règlements ou de nature à porter atteinte au fonctionnement du service public de l'enseignement. La
+décision motivée du recteur est communiquée sans délai au conseil d'administration.
+
+Dans le délai prévu à l'alinéa précédent, le recteur peut demander au conseil d'administration une seconde délibération des
+actes relatifs à la passation des conventions, et notamment des marchés, ainsi que des actes relatifs au fonctionnement de
+l'établissement et qui n'ont pas trait au contenu ou à l'organisation de l'action éducative.
+
+Les transmissions au délégué à l'enseignement et au recteur sont faites par le chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-19
+
+Les représentants des personnels et des parents d'élèves sont élus au scrutin de liste à la représentation proportionnelle au
+plus fort reste. Pour l'élection des représentants des personnels titulaires ou non titulaires, les électeurs sont répartis
+en deux collèges. 
+
+Le premier collège comprend les personnels titulaires ou non titulaires exerçant des fonctions d'enseignement, de direction,
+d'éducation, de surveillance ou de documentation. Le second collège comprend les personnels titulaires ou non titulaires
+d'administration, de santé scolaire, techniques, ouvriers, de service et de laboratoire. 
+
+Les personnels titulaires exerçant à temps complet ou partiel sont électeurs ; ils sont aussi éligibles lorsqu'ils n'ont pas
+la qualité de membre de droit déterminée aux 1° à 4° de l'article D. 454-13. 
+
+Les personnels non titulaires ne sont électeurs que s'ils sont employés par l'établissement pour une durée égale au moins à
+cent cinquante heures annuelles. Ils ne sont éligibles que s'ils sont nommés au moins pour l'année scolaire. 
+
+Les personnels remplaçants en fonction au lycée Comte de Foix au moment des élections votent dans l'établissement à condition
+d'y être affectés pour une durée supérieure à trente jours. 
+
+Les parents d'élèves ou, le cas échéant, celui des parents qui a l'exercice de l'autorité parentale ou la personne à laquelle
+les enfants ont été confiés sont électeurs et éligibles à raison d'un suffrage par famille. Dans le cas où l'autorité
+parentale est assurée conjointement, le droit de vote est attribué, sauf accord écrit contraire, à celui des parents chez
+lequel les enfants ont leur résidence habituelle. 
+
+Les familles nourricières d'enfants placés sous la garde judiciaire d'organismes sociaux bénéficient également d'un suffrage
+non cumulatif avec celui dont elles disposeraient déjà au titre de parents d'élèves inscrits dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-13 (V)
+
+
+###### Article D454-20
+
+L'élection des représentants des élèves se fait à deux degrés. Deux délégués d'élèves sont élus au scrutin uninominal à deux
+tours dans chaque classe. Tous les élèves sont électeurs et éligibles.
+
+L'ensemble des élèves internes est assimilé à une classe pour l'élection de ces représentants.
+
+Les délégués d'élèves élisent, selon les mêmes modalités, en leur sein, les représentants des élèves au conseil
+d'administration. Pour le collège, seuls sont éligibles les élèves de cycle d'orientation.
+
+Les délégués des élèves peuvent recueillir les avis et les propositions des élèves et les exprimer auprès du chef
+d'établissement et du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 20 (Ab)
+	  - Décret n°95-592 du 6 mai 1995 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-682 du 24 juillet 2013 - art. 5 (V)
+
+
+###### Article D454-21
+
+Les mandats des membres élus du conseil d'administration expirent le jour de la première réunion du conseil qui suit leur
+renouvellement.
+
+Un membre élu ne peut siéger au conseil d'administration qu'au titre d'une seule catégorie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 22 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-22
+
+Le chef d'établissement assure l'organisation et veille au bon déroulement des élections. L'élection des représentants des
+personnels, celle des représentants des parents d'élèves et celle des élèves comme délégués de classe ont lieu au plus tard
+avant la fin de la septième semaine de l'année scolaire. 
+
+Le chef d'établissement dresse, pour chacun des collèges définis aux 7°,8° et 9° de l'article D. 454-13, la liste électorale
+vingt jours avant l'élection. Les déclarations de candidature signées par les candidats lui sont remises dix jours francs
+avant l'ouverture du scrutin. 
+
+Ces différents documents sont affichés dans un lieu facilement accessible aux personnels et aux parents. 
+
+Pour l'élection des représentants des personnels et des parents d'élèves, les listes comportent au plus un nombre égal au
+double du nombre des sièges à pourvoir. Ce nombre ne peut être inférieur à deux noms. Les candidats sont inscrits sans la
+mention de la qualité de titulaires et de suppléants. Les électeurs votent pour une liste sans panachage ni radiation. Les
+élus sont désignés selon l'ordre de présentation de la liste. Il est désigné au maximum autant de suppléants que de
+titulaires. En cas d'empêchement provisoire de membres titulaires, il est fait appel aux suppléants dans l'ordre de la
+liste. 
+
+Si un candidat se désiste moins de huit jours avant l'ouverture du scrutin, il ne peut être remplacé. 
+
+Lorsque le scrutin est uninominal, le nom de chaque candidat est accompagné de celui de son suppléant. 
+
+Le matériel de vote est envoyé aux électeurs six jours au moins avant la date du scrutin. Le vote par correspondance est
+admis. Les votes sont personnels et secrets. 
+
+Le chef d'établissement fixe la date du scrutin et les heures d'ouverture du bureau de vote sans que celles-ci puissent être
+inférieures à quatre heures consécutives pour les parents d'élèves et à huit heures consécutives pour les personnels. Il
+reçoit pour le vote par correspondance les bulletins sous double enveloppe, organise le dépouillement public et en publie les
+résultats. 
+
+Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
+la proclamation des résultats devant le délégué à l'enseignement qui en informe le recteur de l'académie de Montpellier. Le
+délégué à l'enseignement statue dans un délai de huit jours. En l'absence de réponse dans ce délai, la demande est réputée
+rejetée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 23 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-13 (V)
+
+
+###### Article D454-23
+
+Les représentants des autorités andorranes sont désignés par le Gouvernement andorran. Pour chaque représentant titulaire, un
+représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au conseil d'administration en cas d'empêchement
+du représentant titulaire.
+
+Les personnalités qualifiées siégeant au conseil d'administration sont désignées pour une durée de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 24 (Ab)
+	  - Décret n°95-592 du 6 mai 1995 - art. 25 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-24
+
+Lorsqu'un membre élu du conseil d'administration perd la qualité au titre de laquelle il a été désigné ou quand une vacance
+survient par décès, mutation, démission ou empêchement définitif constaté par le chef d'établissement, il est remplacé, selon
+le cas, par son suppléant ou par le premier suppléant dans l'ordre de la liste, pour la durée du mandat restant à courir. 
+
+Lorsqu'un représentant titulaire des autorités andorranes perd la qualité en vertu de laquelle il a été désigné, ou en cas de
+décès, de démission ou d'empêchement définitif de l'intéressé, il est procédé à une nouvelle désignation du représentant
+titulaire ainsi que du représentant suppléant. 
+
+En cas de décès, de démission ou d'empêchement définitif constaté par le chef d'établissement d'une personnalité qualifiée,
+une nouvelle personnalité qualifiée est désignée, pour la durée du mandat restant à courir, dans les conditions fixées à
+l'article D. 454-13.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 26 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-13 (V)
+
+
+###### Article D454-25
+
+Nul ne peut être membre du conseil d'administration ou d'une instance de l'établissement s'il a fait l'objet d'une
+condamnation pour un crime ou un délit, ou s'il a été privé par jugement de tout ou partie des droits civils, civiques et de
+famille.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 27 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-26
+
+Le conseil d'administration se réunit en séance ordinaire à l'initiative du chef d'établissement deux fois par an. Il est en
+outre réuni en séance extraordinaire à la demande du recteur de l'académie de Montpellier ou du délégué à l'enseignement, du
+chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour déterminé. 
+
+Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence. 
+
+Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents en début de séance est égal à la
+majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
+d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il délibère alors
+valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois jours. 
+
+L'ordre du jour est adopté en début de séance ; toute question inscrite à l'ordre du jour et ayant trait au domaine
+d'autonomie pédagogique et éducative de l'établissement défini par les dispositions générales rendues applicables
+conformément à l'article D. 454-1 doit faire l'objet d'une instruction préalable de la commission permanente, dont les
+conclusions sont communiquées aux membres du conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 28 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D454-1 (V)
+
+
+###### Article D454-27
+
+La commission permanente comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° Les deux adjoints au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation le plus ancien ;
+
+5° Un représentant des autorités andorranes ;
+
+6° Six représentants élus des personnels de l'établissement, dont quatre au titre des personnels d'enseignement, d'éducation,
+de surveillance ou de documentation et deux au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers
+et de service ou de laboratoire ;
+
+7° Six représentants élus des parents d'élèves et des élèves, dont trois représentants des parents d'élèves et trois
+représentants des élèves.
+
+Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus, au
+scrutin proportionnel au plus fort reste, en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives. Le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service, et les représentants des élèves sont élus au scrutin uninominal à un tour en leur sein par les membres du conseil
+d'administration appartenant à leurs catégories respectives. Le représentant des autorités andorranes est désigné par le
+Gouvernement andorran.
+
+Des représentants suppléants des personnels, des parents et des élèves sont élus dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 29 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-28
+
+La commission permanente est le conseil de discipline de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 30 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D454-29
+
+L'organisation financière du lycée Comte de Foix est la même que celle fixée conformément aux articles D. 422-45 à D. 422-53
+sous réserve des stipulations de l'article 8 de la convention entre le Gouvernement de la République française et le
+Gouvernement de la Principauté d'Andorre dans le domaine de l'enseignement, signée à Andorre-la-Vieille le 24 septembre 2003.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 31 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2006-31 du 5 janvier 2006, v. init.
+	  - Code de l'éducation - art. D422-45 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre V : Les écoles européennes.
+
+###### Article D455-1
+
+Le statut des écoles européennes est fixé par la convention faite à Luxembourg le 21 juin 1994 et publiée en annexe au décret
+n° 2004-1168 du 26 octobre 2004.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-1168 du 26 octobre 2004, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D455-2
+
+Le règlement du baccalauréat européen qui sanctionne le cycle complet d'études secondaires dans les écoles européennes est
+fixé par l'accord signé à Luxembourg le 11 avril 1984 et publié en annexe au décret n° 89-213 du 10 avril 1989.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-213 du 10 avril 1989, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+### Titre VI : Les établissements pour l'enseignement des professions artistiques et sportives.
+
+#### Chapitre Ier : Les établissements  d'enseignement artistique.
+
+##### Section 1 : Les établissements d'enseignement public.
+
+###### Article R461-1
+
+Les établissements d'enseignement public de la musique, de la danse et de l'art dramatique peuvent être classés par arrêté du
+ministre chargé de la culture en trois catégories :
+
+1° Conservatoires à rayonnement régional ;
+
+2° Conservatoires à rayonnement départemental ;
+
+3° Conservatoires à rayonnement communal ou intercommunal.
+
+Le classement prend en compte, notamment, la nature et le niveau des enseignements dispensés, les qualifications du personnel
+enseignant et la participation de l'établissement à l'action éducative et culturelle locale.
+
+Un arrêté du ministre chargé de la culture précise les critères du classement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-2
+
+La demande de classement, de renouvellement du classement ou de changement de catégorie d'un établissement d'enseignement
+public de la musique, de la danse et de l'art dramatique est adressée au préfet de région par la collectivité territoriale ou
+le groupement de collectivités responsable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-3
+
+Le ministre chargé de la culture fixe par arrêté la composition du dossier de demande et les conditions de son dépôt.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-4
+
+Le ministre chargé de la culture notifie, trois mois au plus après le dépôt d'un dossier complet, sa décision motivée :
+
+1° D'accueillir la demande ;
+
+2° De diligenter une mission d'inspection chargée de poursuivre l'instruction de la demande ;
+
+3° De refuser la demande.
+
+A l'expiration du délai mentionné au premier alinéa, l'absence de réponse vaut décision de refus.
+
+Lorsque le ministre chargé de la culture diligente une inspection, il dispose d'un délai supplémentaire de neuf mois pour
+notifier sa décision. A l'expiration de ce délai, l'absence de réponse vaut décision de refus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-5
+
+Le classement est accordé pour une durée de sept ans à compter de la notification, par le ministre chargé de la culture, de
+la décision de classement ou de renouvellement du classement à la collectivité territoriale ou au groupement de collectivités
+responsable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-748 du 14 août 2013 - art. 1 (V)
+	  - Code de l'éducation - art. R461-7 (V)
+
+
+###### Article R461-6
+
+Lorsqu'un établissement ne répond plus aux conditions qui ont motivé son classement dans une catégorie, le ministre chargé de
+la culture diligente une inspection. Le ministre met en demeure la collectivité territoriale ou le groupement de
+collectivités responsable de prendre les mesures nécessaires afin que soient à nouveau remplies les conditions du classement.
+
+A l'issue du délai fixé dans la mise en demeure, si les mesures indiquées n'ont pas été prises, le ministre décide le
+changement de catégorie ou la radiation du classement de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 6 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-7
+
+La collectivité territoriale ou le groupement de collectivités responsable peut demander le renouvellement anticipé du
+classement, avant la fin de la première période de sept ans prévue à l'article R. 461-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°95-592 du 6 mai 1995 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R461-5 (V)
+
+
+##### Section 2 : Les établissements d'enseignement privés.
+
+###### Article R461-8
+
+La reconnaissance définie à l'article L. 361-2 ne peut être accordée qu'aux établissements dont la durée d'existence, à la
+date du dépôt de la demande, est au moins égale à la durée d'études la plus longue conduisant aux titres et diplômes qu'ils
+délivrent. En outre, la durée d'existence de l'établissement ne peut, à cette même date, être inférieure à trois ans. 
+
+La durée minimale de la scolarité accomplie dans l'établissement ne peut être inférieure à deux ans.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L361-2 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R461-12 (Ab)
+	  - Code de l'éducation - art. R461-13 (V)
+	  - Code de l'éducation - art. R461-16 (V)
+
+
+###### Article R461-9
+
+La reconnaissance est subordonnée à l'existence d'un personnel qualifié en nombre suffisant pour la discipline enseignée. Les
+enseignants, permanents ou occasionnels, sont titulaires des diplômes correspondant à la discipline qu'ils enseignent ou
+justifient d'une compétence professionnelle confirmée dans la discipline enseignée.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R461-16 (V)
+
+
+###### Article R461-10
+
+Les locaux et équipements sont adaptés aux enseignements délivrés dans l'établissement et aux effectifs des élèves ou
+étudiants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-11
+
+Les ressources financières de l'établissement garantissent un fonctionnement continu conforme aux objectifs pédagogiques
+déclarés par l'établissement et qui lui permettent d'accomplir sa mission éducative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-12
+
+La reconnaissance de l'établissement est décidée après avis d'une des commissions prévues à l'article R. 461-14, qui se
+prononce au vu d'un rapport d'inspection portant sur le respect des dispositions des articles R. 461-8 à R. 461-11.
+
+**Nota:**
+
+Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
+reconnaissance de l'enseignement du cinéma et de l'expression audiovisuelle).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 6 sauf ecqc le ministre chargé de la culture (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-633 du 6 juin 2009 - art. (V)
+	  - Code de l'éducation - art. R461-13 (V)
+	  - Code de l'éducation - art. R461-16 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-738 du 1er juillet 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R461-14
+	  - Code de l'éducation - art. R461-8
+
+
+###### Article R461-13
+
+Le ministre chargé de la culture prend la décision de reconnaissance mentionnée à l'article R. 461-12.
+
+**Nota:**
+
+Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
+reconnaissance de l'enseignement du cinéma et de l'expression audiovisuelle).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 6 uniquement ecqc le ministre chargé de la culture (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R461-12 (V)
+
+
+###### Article R461-14
+
+Il est créé une commission de reconnaissance pour chacune des disciplines artistiques suivantes :
+
+1° Enseignement de la musique ;
+
+2° Enseignement de la danse ;
+
+3° Enseignement des arts plastiques, de la photographie, des arts appliqués et des métiers d'art ;
+
+4° Enseignement de l'art dramatique, des arts du cirque et des arts du spectacle ;
+
+5° Enseignement relatif au patrimoine ;
+
+6° Enseignement du cinéma et de l'expression audiovisuelle.
+
+La composition et les modalités de fonctionnement de chaque commission, qui devra comprendre des représentants de l'Etat et
+des personnalités qualifiées, sont fixées par arrêté du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R461-12 (Ab)
+
+
+###### Article R461-15
+
+La reconnaissance est accordée pour une durée de cinq ans ; elle est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R461-16
+
+Lorsque le ministre chargé de la culture constate des manquements sérieux aux conditions définies au deuxième alinéa de
+l'article R. 461-8 et aux articles R. 461-9 à R. 461-11, il peut mettre en demeure l'établissement de prendre toutes les
+mesures de mise en conformité dans un délai fixé en fonction de la nature de ces mesures. En l'absence de mise en conformité
+de l'établissement au terme de ce délai, il prononce le retrait de la reconnaissance, après avoir recueilli l'avis de la
+commission mentionnée à l'article R. 461-12.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R461-12 (V)
+	  - Code de l'éducation - art. R461-8 (V)
+	  - Code de l'éducation - art. R461-9 (V)
+
+
+###### Article R461-17
+
+Les agents désignés par le ministre chargé de la culture peuvent se faire communiquer à tout moment toutes les pièces
+nécessaires à l'exercice du contrôle de l'application des conditions fixées à la présente section. Ils sont chargés de
+l'inspection sur place des établissements et de leur personnel enseignant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°88-605 du 6 mai 1988 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre II : Les établissements d'enseignement  de la danse.
+
+##### Section 1 : Conditions d'exploitation d'une salle de danse à des fins d'enseignement.
+
+###### Article R462-1
+
+Dans les salles de danse exploitées à des fins d'enseignement, l'aire d'évolution des danseurs est recouverte d'un matériau
+lisse, souple, résistant et posé de manière homogène la rendant peu glissante. Elle ne repose pas directement sur un sol dur
+tel que le béton ou le carrelage.
+
+Lorsque l'aire d'évolution est constituée d'un parquet, les éléments utilisés sont produits à partir de bois ayant une
+structure et une cohésion de nature à éviter la formation d'échardes ou les ruptures.
+
+Pendant le cours de danse, l'aire d'évolution et l'espace des salles sont libres de tout obstacle constituant une menace pour
+la sécurité des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 23 décembre 2008 (V)
+	  - Arrêté du 20 juillet 2015 - art. 26 (V)
+	  - Code de l'éducation - art. R462-7 (V)
+
+
+###### Article R462-2
+
+Les exploitants se dotent d'une trousse de secours destinée à apporter les premiers soins en cas d'accident et d'un moyen de
+communication permettant d'alerter rapidement les services de secours.
+
+Un tableau d'organisation des secours est affiché dans le local en un endroit accessible aux enseignants et aux usagers. Il
+comporte les adresses et numéros de téléphone des services et organismes auxquels il est fait appel en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R462-3
+
+Les exploitants des établissements dans lesquels est dispensé un enseignement de la danse sont tenus dans un délai de huit
+jours d'informer le préfet du département de tout accident survenu dans leur établissement ayant nécessité une
+hospitalisation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R462-4
+
+Les salles de danse comportent au moins un cabinet d'aisance et une douche. Lorsque les usagers admis simultanément sont plus
+de vingt, ces équipements hygiéniques et sanitaires sont augmentés d'une unité par vingtaine d'usagers supplémentaires ou
+fraction de ce nombre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R462-5
+
+Une copie du récépissé de la déclaration prévue par l'article L. 462-1 est affichée dans un endroit accessible aux
+enseignants et aux usagers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L462-1 (V)
+
+
+###### Article R462-6
+
+La décision administrative relative à la dispense de l'obtention du diplôme de professeur de danse prévue à l'article L.
+362-4 est prise par le préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L362-4 (V)
+
+
+##### Section 2 : Dispositions pénales.
+
+###### Article R462-7
+
+Est puni de l'amende prévue pour les contraventions de la cinquième classe le fait d'ouvrir ou de faire fonctionner un
+établissement dans lequel est dispensé un enseignement de la danse sans s'acquitter des obligations prévues aux articles L.
+462-1, R. 462-1 à R. 462-4 et R. 362-1 et R. 362-2, relatives à la déclaration, à l'hygiène, à la sécurité, au contrôle
+médical, à l'âge d'admission des élèves et à l'assurance ou de maintenir en activité un établissement dans lequel est
+dispensé un enseignement de la danse frappé d'une décision d'interdiction en application de l'article L. 462-5.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L462-1 (V)
+	  - Code de l'éducation - art. L462-5 (V)
+	  - Code de l'éducation - art. R362-1 (V)
+	  - Code de l'éducation - art. R362-2 (V)
+	  - Code de l'éducation - art. R462-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R462-8 (V)
+	  - Code de l'éducation - art. R462-9 (V)
+
+
+###### Article R462-8
+
+Est puni de la peine mentionnée à l'article R. 462-7 le fait pour le chef d'établissement de confier l'enseignement de la
+danse à une personne n'ayant pas obtenu le diplôme de professeur de danse mentionné à l'article L. 362-1 ou son équivalence
+ou n'ayant pas été régulièrement dispensée de ce diplôme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L362-1 (V)
+	  - Code de l'éducation - art. R462-7 (V)
+
+
+###### Article R462-9
+
+Est puni de la peine mentionnée à l'article R. 462-7 le fait pour toute personne d'assurer un enseignement de la danse contre
+rétribution sans avoir obtenu le diplôme de professeur de danse ou son équivalence ou sans avoir été régulièrement dispensée
+de ce diplôme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-193 du 27 février 1992 - art. 9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R462-7 (V)
+
+
+#### Chapitre III : Les établissements de formation  aux professions des activités physiques et sportives.
+
+###### Article R463-1
+
+Les règles relatives aux établissements de formation aux professions des activités physiques et sportives sont fixées aux
+sections 1 et 3 du chapitre II du titre Ier du livre Ier, à la section 1 du chapitre Ier du titre Ier du livre II et à la
+section 1 du chapitre II du titre II du livre III de la partie réglementaire du code du sport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code du sport. (V)
+
+
+### Titre VII : Dispositions communes.
+
+#### Chapitre Ier : Publicité et démarchage.
+
+##### Section 1 : Déclaration de dénomination.
+
+###### Article R471-1
+
+La déclaration de dénomination qui incombe à tout organisme d'enseignement privé, par application des dispositions de
+l'article L. 471-2, est adressée au recteur de l'académie où se trouve le siège de l'organisme. 
+
+Toute modification ultérieure à la dénomination est préalablement déclarée au recteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L471-2 (V)
+
+
+##### Section 2 : Publicité.
+
+###### Article R471-2
+
+Le dépôt préalable à toute publicité faite par les organismes ou établissements d'enseignement, auquel il est procédé en
+application des dispositions de l'article L. 471-3, est effectué par leur représentant légal, en triple exemplaire, auprès du
+recteur de l'académie dans laquelle est situé le siège de l'organisme ou de l'établissement ; il en est délivré récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L471-3 (V)
+
+
+###### Article R471-3
+
+Les documents déposés indiquent tous les éléments de la publicité, sous toutes leurs formes, ainsi que tous les moyens de
+diffusion utilisés, notamment la liste complète des organes de presse destinés à servir de support.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R471-4
+
+La publicité écrite, utilisant des supports qui excèdent les dimensions définies par arrêté du ministre chargé de
+l'éducation, est déposée sous forme de reproductions photographiques, dont les dimensions sont fixées par ledit arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R471-5
+
+Les établissements privés d'enseignement sur place ne peuvent procéder au dépôt de toute publicité qu'après l'expiration du
+délai dont disposent les autorités compétentes pour faire opposition à la déclaration de leur ouverture conformément aux
+dispositions des articles L. 441-1 à L. 441-4, L. 441-5 à L. 441-9, L. 441-10 à L. 441-13 et L. 731-1 à L. 731-11. 
+
+Les organismes privés d'enseignement à distance ne peuvent procéder au dépôt de toute publicité qu'après la date à laquelle
+ils peuvent légalement exercer leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-1 (V)
+	  - Code de l'éducation - art. L441-10 (V)
+	  - Code de l'éducation - art. L441-5 (V)
+	  - Code de l'éducation - art. L731-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R471-7 (V)
+
+
+###### Article R471-6
+
+Lorsque sont confondus sous la même dénomination un établissement dispensant un enseignement sur place et un organisme
+dispensant un enseignement à distance, chaque forme d'enseignement fait l'objet d'une publicité distincte qui ne peut en
+aucune manière faire référence au caractère, aux qualités, aux succès ou à la notoriété de l'autre forme d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R471-7
+
+Sans préjudice des peines plus graves prévues par l'article L. 471-5, est puni de l'amende prévue pour les contraventions de
+la cinquième classe le fait, pour toute personne, d'enfreindre les dispositions des articles R. 471-5 et R. 471-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L471-5 (V)
+	  - Code de l'éducation - art. R471-5 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R732-2 (V)
+
+
+#### Chapitre II : Dispositions pénales.
+
+###### Article R472-1
+
+Les règles relatives à la contravention d'intrusion dans un établissement scolaire sont fixées par les dispositions de
+l'article R. 645-12 du code pénal, ci-après reproduites : 
+
+"Art. R. 645-12. ― Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en
+vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de
+l'amende prévue pour les contraventions de la cinquième classe. 
+
+Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires
+suivantes : 
+
+1° La confiscation de la chose qui a servi à commettre l'infraction ou de la chose qui en est le produit ; 
+
+2° Le travail d'intérêt général pour une durée de 20 à 120 heures. 
+
+La récidive de la contravention prévue au présent article est réprimée conformément à l'article 132-11."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 132-11 (V)
+	  - Code pénal - art. R645-12 (V)
+
+	**Anciens textes**:
+
+	  - Code pénal - art. R645-12 (V)
+
+
+### Titre VIII : Dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+#### Chapitre unique.
+
+###### Article R481-1
+
+Les dispositions réglementaires particulières régissant l'enseignement dans les départements du Haut-Rhin, du Bas-Rhin et de
+la Moselle, prises en application des dispositions mentionnées à l'article L. 481-1, y demeurent en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L481-1 (V)
+
+
+##### Section 1 : Aménagement du statut scolaire local en vigueur dans les établissements du premier degré.
+
+###### Article D481-2
+
+La durée hebdomadaire de la scolarité des élèves dans les écoles élémentaires des départements du Haut-Rhin, du Bas-Rhin et
+de la Moselle est fixée à 26 heures et comprend obligatoirement une heure d'enseignement religieux.
+
+Pour les trois dernières années de l'école élémentaire, l'horaire peut être porté par décision du recteur de l'académie à 27
+heures, comprenant deux heures d'enseignement religieux, lorsque sont remplies les conditions nécessaires en ce qui concerne
+les effectifs et les enseignants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-763 du 3 septembre 1974 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D481-3
+
+L'enseignement religieux est assuré normalement par les personnels enseignants du premier degré qui se déclarent prêts à le
+donner ou, à défaut, par les ministres des cultes ou par des personnes qualifiées proposées par les autorités religieuses
+agréés par le recteur de l'académie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-763 du 3 septembre 1974 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D481-4 (V)
+
+
+###### Article D481-4
+
+Les heures d'enseignement religieux assurées par les personnels enseignants du premier degré au-delà du temps de service
+hebdomadaire défini aux articles 1er et 2 du décret n° 91-41 du 14 janvier 1991 relatif au service hebdomadaire des
+enseignants du premier degré, ou par les personnes désignées à l'article D. 481-3, sont rétribuées par une indemnité horaire
+dont le taux est fixé par arrêté du ministre chargé de l'éducation et des ministres chargés du budget et de la fonction
+publique. Ce taux est indexé sur la valeur du point indiciaire de la fonction publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-763 du 3 septembre 1974 - art. 3 (Ab)
+
+	**Cite**:
+
+	  - Décret n°91-41 du 14 janvier 1991, v. init.
+	  - Code de l'éducation - art. D481-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D481-5
+
+Les parents qui le désirent peuvent faire dispenser leur enfant de l'enseignement religieux, dans les conditions prévues à
+l'article D. 481-6.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°74-763 du 3 septembre 1974 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D481-6 (V)
+
+
+###### Article D481-6
+
+Les enfants dispensés de l'enseignement religieux réglementaire par la déclaration écrite ou verbale et contresignée, faite
+au directeur d'école, par leur représentant légal reçoivent, aux lieu et place de l'enseignement religieux, un complément
+d'enseignement moral.
+
+Le registre d'appel reçoit, par les soins du directeur d'école, la mention de l'origine et de la date des lettres ou
+déclarations par lesquelles les représentants légaux des enfants dispensent ceux-ci de l'enseignement religieux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D481-5 (V)
+
+
+##### Section 2 : Dispositions diverses.
+
+###### Article R481-7
+
+Pour l'accomplissement exclusif des missions qui leur sont attribuées par l'article L. 121-1 et les articles R. 421-2 et D.
+422-2, et conformément à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, les
+établissements publics d'enseignement des départements du Haut-Rhin, du Bas-Rhin et de la Moselle sont autorisés à collecter,
+conserver et traiter les informations nominatives relatives à l'organisation de l'enseignement religieux dispensé dans ces
+établissements qui, directement ou indirectement, font apparaître les opinions religieuses.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 (V)
+	  - Code de l'éducation - art. D422-2 (V)
+	  - Code de l'éducation - art. L121-1 (V)
+	  - Code de l'éducation - art. R421-2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°95-1045 du 22 septembre 1995 - art. 1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R481-8
+
+Les règles relatives aux institutions et au personnel des centres de formation d'apprentis ou de sections d'apprentissage, au
+contrôle de leur activité et de leur fonctionnement administratif et financier sont fixées par les articles du code du
+travail mentionnés aux articles R. 431-1 à R. 431-5. 
+
+Le contrôle pédagogique de la formation donnée aux apprentis est assuré par le service académique de l'inspection de
+l'apprentissage, dans les conditions fixées par l'article R. 241-23.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R241-23 (V)
+	  - Code de l'éducation - art. R431-1 (V)
+
+
+### Titre IX : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie.
+
+#### Chapitre Ier : Dispositions applicables dans les îles Wallis et Futuna.
+
+##### Section 1 : Les écoles.
+
+###### Article D491-1
+
+Les articles D. 411-1 à D. 411-8 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations mentionnées aux
+articles D. 491-2 à D. 491-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. D491-2 (V)
+
+
+###### Article D491-2
+
+Pour son application à Wallis et Futuna, l'article D. 411-1 est ainsi rédigé : 
+
+« Dans chaque école, le conseil d'école est composé des membres suivants : 
+
+1° Le directeur de l'école, président ; 
+
+2° Les maîtres de l'école et les maîtres remplaçants exerçant dans l'école au moment des réunions du conseil ; 
+
+3° Un des maîtres du réseau d'aides spécialisées intervenant dans l'école choisi par le conseil des maîtres de l'école ; 
+
+4° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par
+arrêté du ministre chargé de l'éducation. Ces représentants constituent au sein du conseil d'école le comité des parents
+prévu par l'article L. 411-1. 
+
+L'inspecteur de l'éducation nationale de la circonscription assiste de droit aux réunions. 
+
+Le conseil d'école est constitué pour une année et siège valablement jusqu'à l'intervention du renouvellement de ses
+membres. 
+
+Le conseil d'école se réunit au moins une fois par trimestre, et obligatoirement dans les quinze jours suivant la
+proclamation des résultats des élections, sur un ordre du jour adressé au moins huit jours avant la date des réunions aux
+membres du conseil. En outre, il peut également être réuni à la demande du directeur de l'école ou de la moitié de ses
+membres. 
+
+Assistent avec voix consultative aux séances du conseil d'école pour les affaires les intéressant : 
+
+1° Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les
+médecins chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires et les agents spécialisés des écoles
+maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions d'intégration d'enfants
+handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à s'associer aux travaux du
+conseil ; 
+
+2° Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les
+locaux scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales et
+les représentants des activités périscolaires pour les questions relatives à leurs activités en relation avec la vie de
+l'école. 
+
+Le président, après avis du conseil, peut inviter une ou plusieurs personnes dont la consultation est jugée utile en fonction
+de l'ordre du jour. 
+
+Les suppléants des représentants des parents d'élèves peuvent assister aux séances du conseil d'école. »
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-1 (V)
+
+
+###### Article D491-3
+
+Pour l'application à Wallis et Futuna de l'article D. 411-2, les quatorzième (6°) et quinzième (7°) alinéas sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-2 (V)
+
+
+###### Article D491-4
+
+Pour l'application à Wallis et Futuna des articles D. 411-3, R. 411-5 et D. 411-8, les mots :  (de) l'inspecteur d'académie,
+directeur des services départementaux de l'éducation nationale » et les mots :  des autorités académiques » sont remplacés
+par les mots :  du (le) vice-recteur ». 
+
+Pour l'application de l'article D. 411-3, l'avis de la commission administrative paritaire départementale unique des
+instituteurs et professeurs des écoles est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-3 (V)
+	  - Code de l'éducation - art. D411-8 (V)
+	  - Code de l'éducation - art. R411-5 (V)
+
+
+###### Article D491-5
+
+Pour l'application à Wallis et Futuna des articles D. 411-4 et D. 411-7, les mots : "chargé de la circonscription
+d'enseignement du premier degré" sont supprimés. 
+
+Pour l'application de l'article D. 411-4, les mots : "et un exemplaire est adressé au maire." sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-4 (V)
+	  - Code de l'éducation - art. D411-7 (V)
+
+
+###### Article D491-6
+
+Pour l'application à Wallis et Futuna des articles R. 411-5 et D. 411-6, les mots : "chaque (du) département" sont remplacés
+par les mots : "(de) la collectivité". 
+
+Pour l'application de l'article R. 411-5, l'avis du conseil départemental de l'éducation nationale est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-6 (V)
+	  - Code de l'éducation - art. R411-5 (V)
+
+
+###### Article D491-7
+
+Pour l'application à Wallis et Futuna de l'article D. 411-7, le membre de phrase : ", conformément aux dispositions du décret
+n° 89-122 du 24 février 1989 relatif aux directeurs d'école" est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-122 du 24 février 1989 (V)
+	  - Code de l'éducation - art. D411-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Les collèges et les lycées.
+
+###### Article D491-8
+
+Le chapitre II du titre II du présent livre est applicable aux collèges et aux lycées de Wallis et Futuna, à l'exception des
+articles D. 422-4, D. 422-12 à D. 422-14, du 3° de l'article D. 422-17, de l'article D. 422-27, du deuxième alinéa de
+l'article D. 422-29, des articles D. 422-32, 
+D. 422-39, D. 422-55, du deuxième alinéa de l'article D. 422-56, de l'article D. 422-58 et des articles D. 422-61 à D.
+422-66, sous réserve des adaptations et des dispositions particulières figurant aux articles D. 491-9 à D. 491-15.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 1 al 2 ecqc Wallis et Futuna (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-12 (V)
+	  - Code de l'éducation - art. D422-17 (V)
+	  - Code de l'éducation - art. D422-27 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+	  - Code de l'éducation - art. D422-32 (V)
+	  - Code de l'éducation - art. D422-39 (V)
+	  - Code de l'éducation - art. D422-4 (V)
+	  - Code de l'éducation - art. D422-55 (V)
+	  - Code de l'éducation - art. D422-56 (V)
+	  - Code de l'éducation - art. D422-58 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+	  - Code de l'éducation - art. D491-9 (V)
+
+
+###### Article D491-9
+
+Pour l'application des dispositions de la présente section aux collèges et aux lycées de Wallis et Futuna, les mots :
+« autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur des
+îles Wallis et Futuna », les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès
+du vice-recteur » et les mots : « représentant de l'Etat dans le département » par les mots : « l'administrateur supérieur du
+territoire ou son représentant ».
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-14 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-8 (V)
+
+
+###### Article D491-10
+
+Le conseil d'administration des collèges et des lycées des îles Wallis et Futuna comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, à défaut, pour les collèges, un personnel de l'administration désigné par le vice-
+recteur, sur proposition du chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ou, à défaut, pour les collèges, l'agent comptable ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien ou, à défaut, pour les collèges, un
+représentant des surveillants ;
+
+5° Le chef des travaux dans les lycées et le coordonnateur du centre d'enseignement technique adapté au développement ou, le
+cas échéant, le directeur adjoint chargé de la section d'enseignement général et professionnel adapté dans les collèges ;
+
+6° Un représentant de l'assemblée territoriale et un représentant des chefs traditionnels dans l'aire coutumière où est
+implanté l'établissement ;
+
+7° Deux personnalités locales choisies par le vice-recteur pour leur compétence dans le domaine social, économique et
+culturel, une pour les collèges de moins de six cents élèves ;
+
+8° Une personnalité qualifiée lorsque les membres de l'administration de l'établissement désignés en raison de leur fonction
+sont en nombre égal à cinq et deux personnes qualifiées lorsque ce nombre est inférieur à cinq. Les personnalités qualifiées
+sont désignées par le vice-recteur, sur proposition du chef d'établissement ;
+
+9° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service. Ce nombre est
+ramené à huit pour les collèges accueillant moins de six cents élèves et ne comportant ni un centre d'enseignement technique
+adapté au développement, ni une section d'enseignement général et professionnel adapté, dont six au titre des personnels
+d'enseignement et d'éducation et deux au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service ;
+
+10° Dix représentants des parents d'élèves et des élèves, dont sept représentants élus des parents d'élèves et trois
+représentants élus des élèves pour les collèges, dont cinq représentants élus des parents d'élèves et cinq représentants élus
+des élèves pour les lycées, dont un au moins représentant les élèves des classes postbaccalauréat si elles existent. Ce
+nombre est ramené à huit pour les collèges accueillant moins de six cents élèves et ne comportant ni un centre d'enseignement
+technique adapté au développement, ni une section d'enseignement général et professionnel adapté, dont six représentants élus
+des parents d'élèves et deux représentants élus des élèves.
+
+Pour la désignation de représentants des organisations syndicales de salariés et d'employeurs, la représentativité au plan
+territorial des organisations syndicales est prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-15 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D491-11
+
+Le représentant de l'assemblée territoriale et le représentant des chefs traditionnels dans l'aire coutumière dans laquelle
+est implanté l'établissement sont désignés respectivement en son sein par l'assemblée territoriale et par les chefs
+traditionnels dans l'aire coutumière en cause. Il est procédé à une nouvelle désignation à la suite de chaque renouvellement
+partiel ou total de l'assemblée délibérante de la collectivité.
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-16 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D491-12
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article D. 491-11 perd la qualité en vertu de laquelle
+il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif de la
+collectivité intéressée, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant
+suppléant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-17 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D491-12 (V)
+
+
+###### Article D491-13
+
+La commission permanente des collèges et des lycées des îles Wallis et Futuna comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ou, à défaut, pour les collèges, un personnel de l'administration désigné par le vice-
+recteur, sur proposition du chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ou, à défaut, pour les collèges, l'agent comptable ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien, ou, à défaut, pour les collèges, un
+représentant des surveillants ;
+
+5° Le chef des travaux dans les lycées et le coordonnateur du centre d'enseignement technique adapté au développement ou, le
+cas échéant, le directeur adjoint chargé de la section d'enseignement général et professionnel adapté dans les collèges ;
+
+6° Cinq représentants élus des personnels, dont quatre au titre des personnels d'enseignement, de direction, d'éducation, de
+surveillance ou de documentation et un au titre des personnels administratifs ou d'intendance, sociaux et de santé,
+techniques, ouvriers et de service ou de laboratoire ;
+
+7° Cinq représentants des parents d'élèves et des élèves, dont quatre représentants élus des parents d'élèves et un
+représentant élu des élèves dans les collèges et trois représentants élus des parents d'élèves et deux représentants élus des
+élèves dans les lycées ;
+
+8° Un représentant des chefs traditionnels dans l'aire coutumière, siège de l'établissement.
+
+Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus, au
+scrutin proportionnel au plus fort reste, en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives.
+
+Le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service et le représentant des
+élèves sont élus au scrutin uninominal à un tour en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives. Le représentant des chefs traditionnels dans l'aire coutumière, siège de l'établissement, est désigné
+par les chefs traditionnels dans l'aire coutumière concernée.
+
+Pour chaque membre élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-18 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D491-14
+
+Les règles relatives au conseil de discipline des collèges et des lycées des îles Wallis et Futuna sont fixées par l'article
+55-19 du décret n° 86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements
+d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses
+applicables aux établissements d'enseignement de second degré municipaux et départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-19 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D491-15
+
+Les dépenses de fonctionnement du service annexe d'hébergement sont entièrement supportées par les familles et par l'Etat.
+
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion, d'éducation et de surveillance du
+service d'hébergement, ainsi que des personnels soignants, ouvriers et de service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-20 ecqc Wallis et Futuna (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre II : Dispositions applicables à Mayotte.
+
+##### Section 1 : Les écoles.
+
+###### Article D492-1
+
+Les articles D. 411-1 à D. 411-8 sont applicables à Mayotte sous réserve des adaptations mentionnées aux articles D. 492-2 à
+D. 492-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. D492-2 (V)
+
+
+###### Article D492-2
+
+Pour son application à Mayotte, l'article D. 411-1 est ainsi rédigé : 
+
+" Dans chaque école, le conseil d'école est composé des membres suivants : 
+
+1° Le directeur de l'école, président ; 
+
+2° Le maire ou son représentant et un conseiller municipal désigné par le conseil municipal ; 
+
+3° Les maîtres de l'école et les maîtres remplaçants exerçant dans l'école au moment des réunions du conseil ; 
+
+4° Un des maîtres du réseau d'aides spécialisées intervenant dans l'école choisi par le conseil des maîtres de l'école ; 
+
+5° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par
+arrêté du ministre chargé de l'éducation. Ces représentants constituent au sein du conseil d'école le comité des parents
+prévu par l'article L. 411-1. 
+
+L'inspecteur de l'éducation nationale de la circonscription assiste de droit aux réunions. 
+
+Le conseil d'école est constitué pour une année et siège valablement jusqu'à l'intervention du renouvellement de ses
+membres. 
+
+Le conseil d'école se réunit au moins une fois par trimestre, et obligatoirement dans les quinze jours suivant la
+proclamation des résultats des élections, sur un ordre du jour adressé au moins huit jours avant la date des réunions aux
+membres du conseil. En outre, il peut également être réuni à la demande du directeur de l'école, du maire ou de la moitié de
+ses membres. 
+
+Assistent avec voix consultative aux séances du conseil d'école pour les affaires les intéressant : 
+
+Les personnels du réseau d'aides spécialisées non mentionnées au sixième alinéa du présent article ainsi que les médecins
+chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires, les assistants de service social et les agents
+spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions
+d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à
+s'associer aux travaux du conseil ; 
+
+Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les locaux
+scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales et les
+représentants des activités périscolaires pour les questions relatives à leurs activités en relation avec la vie de l'école. 
+
+Le président, après avis du conseil, peut inviter une ou plusieurs personnes dont la consultation est jugée utile en fonction
+de l'ordre du jour. 
+
+Les suppléants des représentants des parents d'élèves peuvent assister aux séances du conseil d'école. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. L411-1 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D492-1 (V)
+
+
+###### Article D492-3
+
+Pour l'application à Mayotte de l'article D. 411-2, les quatorzième (6°) et quinzième (7°) alinéas sont supprimés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-2 (V)
+
+
+###### Article D492-4
+
+Pour l'application à Mayotte des articles D. 411-3, R. 411-5 et D. 411-8, les mots : « (de) l'inspecteur d'académie,
+directeur des services départementaux de l'éducation nationale » et les mots : « des autorités académiques » sont remplacés
+par les mots : « du (le) vice-recteur ».
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-3 (V)
+	  - Code de l'éducation - art. R411-5 (V)
+
+
+###### Article D492-5
+
+Pour l'application à Mayotte des articles R. 411-5 et D. 411-6, les mots : "chaque (du) département" sont remplacés par les
+mots : "(de) la collectivité départementale". 
+
+Pour l'application de l'article R. 411-5, l'avis du conseil départemental de l'éducation nationale est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D411-6 (V)
+	  - Code de l'éducation - art. R411-5 (V)
+
+
+###### Article D492-6
+
+Pour l'application à Mayotte de l'article D. 411-7, le membre de phrase : ", conformément aux dispositions du décret n°
+89-122 du 24 février 1989 relatif aux directeurs d'école" est supprimé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°89-122 du 24 février 1989 (V)
+	  - Code de l'éducation - art. D411-7 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Les collèges et les lycées.
+
+###### Article D492-7
+
+Le chapitre II du titre II du présent livre est applicable aux collèges et aux lycées de Mayotte, à l'exception des articles
+D. 422-4, D. 422-12 à D. 422-14, du 3° de l'article D. 422-17, de l'article D. 422-27, du deuxième alinéa de l'article D.
+422-29, des articles D. 422-32, D. 422-39, D. 422-55, du deuxième alinéa de l'article D. 422-56, de l'article D. 422-58 et
+des articles D. 422-61 à D. 422-66, sous réserve des adaptations et des dispositions particulières figurant aux articles D.
+492-8 à D. 492-14.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 1 al 2 ecqc Mayotte (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-12 (V)
+	  - Code de l'éducation - art. D422-17 (V)
+	  - Code de l'éducation - art. D422-27 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+	  - Code de l'éducation - art. D422-32 (V)
+	  - Code de l'éducation - art. D422-39 (V)
+	  - Code de l'éducation - art. D422-4 (V)
+	  - Code de l'éducation - art. D422-55 (V)
+	  - Code de l'éducation - art. D422-56 (V)
+	  - Code de l'éducation - art. D422-58 (V)
+	  - Code de l'éducation - art. D422-61 (V)
+	  - Code de l'éducation - art. D492-8 (V)
+
+
+###### Article D492-8
+
+Pour l'application aux collèges et aux lycées de Mayotte des dispositions de la présente section, les mots : « autorité
+académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur de Mayotte »,
+les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur » et les
+mots : « représentant de l'Etat dans le département » par les mots : « le préfet ou son représentant ».
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D492-7 (V)
+
+
+###### Article D492-9
+
+Le conseil d'administration des collèges et des lycées de Mayotte comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien dans le poste ;
+
+5° Le chef des travaux dans les lycées et le directeur adjoint chargé de la section d'enseignement général et professionnel
+adapté dans les collèges ;
+
+6° Deux représentants du conseil général, un pour les collèges de moins de six cents élèves ;
+
+7° Deux représentants de la commune siège de l'établissement ;
+
+8° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
+désignés en raison de leurs fonctions sont en nombre inférieur à cinq ou à quatre dans les collèges accueillant moins de six
+cents élèves. Les personnalités qualifiées sont désignées par le vice-recteur, sur proposition du chef d'établissement ;
+
+9° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service. Ce nombre est
+ramené à huit pour les collèges accueillant moins de six cents élèves et ne comportant pas de section d'enseignement général
+et professionnel adapté, dont six au titre des personnels d'enseignement et d'éducation et deux au titre des personnels
+administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+10° Dix représentants des parents d'élèves et des élèves, dont cinq représentants élus des parents d'élèves et cinq
+représentants élus des élèves, dont un au moins représentant les élèves des classes postbaccalauréat si elles existent. Ce
+nombre est ramené à huit pour les collèges accueillant moins de six cents élèves et ne comportant pas de section
+d'enseignement général et professionnel adapté, dont six représentants élus des parents d'élèves et deux au titre des
+représentants élus des élèves.
+
+Pour la désignation de représentants des organisations syndicales de salariés et d'employeurs, la représentativité au plan
+territorial des organisations syndicales est prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D492-10
+
+Les représentants du conseil général et les représentants de la commune siège sont désignés respectivement en son sein par
+l'assemblée délibérante de la collectivité départementale et par la commune en cause. Il est procédé à une nouvelle
+désignation à la suite de chaque renouvellement partiel ou total de l'assemblée délibérante de la collectivité.
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D492-11 (V)
+
+
+###### Article D492-11
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article D. 492-10 perd la qualité en vertu de laquelle
+il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif de la
+collectivité intéressée, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant
+suppléant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D492-10 (V)
+
+
+###### Article D492-12
+
+La commission permanente des collèges et des lycées de Mayotte comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien dans le poste ;
+
+5° Un représentant de la commune siège de l'établissement ;
+
+6° Cinq représentants élus des personnels, dont quatre au titre des personnels d'enseignement, de direction, d'éducation, de
+surveillance ou de documentation et un au titre des personnels administratifs ou d'intendance, sociaux et de santé,
+techniques, ouvriers et de service ;
+
+7° Cinq représentants élus des parents d'élèves et des élèves, dont quatre représentants élus des parents d'élèves et un
+représentant élu des élèves dans les collèges et trois représentants élus des parents d'élèves et deux représentants élus des
+élèves dans les lycées.
+
+Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus, au
+scrutin proportionnel au plus fort reste, en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives. Le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service et le représentant des élèves sont élus, au scrutin uninominal à un tour, en leur sein par les membres du conseil
+d'administration appartenant à leurs catégories respectives. Le représentant de la commune siège de l'établissement est
+désigné par la collectivité intéressée parmi ses représentants.
+
+Pour chaque membre élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D492-13
+
+Les règles relatives au conseil de discipline des collèges et des lycées de Mayotte sont fixées par l'article 55-6 du décret
+n° 86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements d'enseignement dont la
+responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses applicables aux établissements
+d'enseignement de second degré municipaux et départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D492-14
+
+Les dépenses de fonctionnement du service annexe d'hébergement sont entièrement supportées par les familles et par l'Etat.
+
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion, d'éducation et de surveillance du
+service d'hébergement ainsi que des personnels soignants, ouvriers et de service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-20 ecqc Mayotte  (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre III : Dispositions applicables en Polynésie française.
+
+##### Section unique : Les établissements d'enseignement privés.
+
+###### Article R493-1
+
+Jusqu'à l'adoption par les autorités compétentes de la Polynésie française et l'entrée en vigueur des dispositions
+réglementaires applicables aux établissements d'enseignement privés de la collectivité, ces établissements demeurent régis
+par les dispositions du décret n° 74-464 du 17 mai 1974 fixant les conditions d'application au territoire de la Polynésie
+française, en ce qui concerne l'enseignement du premier degré, de la loi n° 59-1557 du 31 décembre 1959 modifiée sur les
+rapports entre l'Etat et les établissements d'enseignement privés et du décret n° 75-614 du 2 juillet 1975 fixant les
+conditions d'application au territoire de la Polynésie française, en ce qui concerne l'enseignement du second degré, des
+dispositions de la loi n° 59-1557 du 31 décembre 1959 modifiée sur les rapports entre l'Etat et les établissements
+d'enseignement privés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°59-1557 du 31 décembre 1959 (Ab)
+	  - Décret n°74-464 du 17 mai 1974 (V)
+	  - Décret n°75-614 du 2 juillet 1975 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+#### Chapitre IV : Dispositions applicables en Nouvelle-Calédonie.
+
+##### Section 1 : Les collèges et les lycées.
+
+###### Article D494-1
+
+Le chapitre II du titre II du présent livre est applicable aux collèges et aux lycées de Nouvelle-Calédonie, à l'exception
+des articles D. 422-4, 
+D. 422-12 à D. 422-14, du 3° de l'article D. 422-17, de l'article D. 422-27, du deuxième alinéa de l'article D. 422-29, des
+articles D. 422-32, D. 422-39, D. 422-55, du deuxième alinéa de l'article D. 422-56, de l'article D. 422-58 et des articles
+R. 422-60 à D. 422-66, sous réserve des adaptations et des dispositions particulières figurant aux articles D. 494-2 à D.
+494-9.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 1 al 2 ecqc la Nouvelle Calédonie (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-12 (V)
+	  - Code de l'éducation - art. D422-17 (V)
+	  - Code de l'éducation - art. D422-27 (V)
+	  - Code de l'éducation - art. D422-29 (V)
+	  - Code de l'éducation - art. D422-32 (V)
+	  - Code de l'éducation - art. D422-39 (V)
+	  - Code de l'éducation - art. D422-4 (V)
+	  - Code de l'éducation - art. D422-55 (V)
+	  - Code de l'éducation - art. D422-56 (V)
+	  - Code de l'éducation - art. D422-58 (V)
+	  - Code de l'éducation - art. D494-2 (V)
+	  - Code de l'éducation - art. R422-60 (V)
+
+
+###### Article D494-2
+
+Pour l'application aux collèges et aux lycées de Nouvelle-Calédonie des dispositions de la présente section, les mots :
+« autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur de
+la Nouvelle-Calédonie », les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès
+du vice-recteur » et les mots : « représentant de l'Etat dans le département » par les mots : « le haut-commissaire de la
+République ou son représentant ».
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-7 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D494-1 (V)
+
+
+###### Article D494-3
+
+Le conseil d'administration des collèges et des lycées de Nouvelle-Calédonie comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien ;
+
+5° Le chef des travaux dans les lycées et le directeur adjoint chargé de la section d'enseignement général et professionnel
+adapté dans les collèges ;
+
+6° Un représentant du gouvernement de la Nouvelle-Calédonie ;
+
+7° Deux représentants de l'assemblée de province dans laquelle l'établissement est implanté ;
+
+8° Un représentant de la commune siège de l'établissement ;
+
+9° Une personnalité qualifiée lorsque les membres de l'administration de l'établissement désignés en raison de leur fonction
+sont en nombre égal à cinq et deux personnes qualifiées lorsque ce nombre est inférieur à cinq. Les personnalités qualifiées
+sont désignées par le vice-recteur, sur proposition du chef d'établissement ;
+
+10° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+11° Dix représentants des parents d'élèves et des élèves, dont cinq représentants élus des parents d'élèves et cinq
+représentants élus des élèves dont un au moins représentant les élèves des classes postbaccalauréat si elles existent.
+
+Pour la désignation de représentants des organisations syndicales de salariés et d'employeurs, la représentativité au plan
+territorial des organisations syndicales est prise en compte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-8 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D494-4
+
+Dans les collèges de Nouvelle-Calédonie accueillant moins de six cents élèves et ne comportant pas une section d'enseignement
+général et professionnel adapté, la composition du conseil d'administration est ainsi fixée :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller d'éducation le plus ancien ;
+
+5° Un représentant du gouvernement de la Nouvelle-Calédonie ;
+
+6° Un représentant de l'assemblée de province dans laquelle l'établissement est implanté ;
+
+7° Un représentant de la commune siège de l'établissement ;
+
+8° Une personnalité qualifiée ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
+désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées par le
+vice-recteur, sur proposition du chef d'établissement ;
+
+9° Huit représentants élus des personnels, dont six au titre des personnels d'enseignement et d'éducation et deux au titre
+des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+
+10° Huit représentants des parents d'élèves et des élèves, dont six représentants élus des parents d'élèves et deux
+représentants élus des élèves.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-9 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D494-5
+
+Les représentants de l'assemblée de province dans laquelle l'établissement est implanté et le représentant de la commune
+siège sont désignés respectivement en leur sein par l'assemblée de la province et par la commune en cause. Il est procédé à
+une nouvelle désignation à la suite de chaque renouvellement de l'assemblée délibérante de la collectivité.
+
+Le gouvernement de la Nouvelle-Calédonie désigne son représentant.
+
+Pour chaque représentant titulaire, un représentant suppléant est désigné dans les mêmes conditions. Celui-ci siège au
+conseil d'administration en cas d'empêchement du représentant titulaire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-10 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D494-6 (V)
+
+
+###### Article D494-6
+
+Lorsqu'un représentant titulaire de l'une des collectivités visées à l'article D. 494-5 perd la qualité en vertu de laquelle
+il a été désigné, ou en cas de décès, de démission ou d'empêchement définitif de l'intéressé constaté par l'exécutif de la
+collectivité concernée, il est procédé à une nouvelle désignation du représentant titulaire ainsi que du représentant
+suppléant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D494-5 (V)
+
+
+###### Article D494-7
+
+La commission permanente des collèges et des lycées de Nouvelle-Calédonie comprend les membres suivants :
+
+1° Le chef d'établissement, président ;
+
+2° L'adjoint au chef d'établissement ;
+
+3° Le gestionnaire de l'établissement ;
+
+4° Le conseiller principal d'éducation ou le conseiller d'éducation le plus ancien ;
+
+5° Le chef des travaux dans les lycées ou, le cas échéant, le directeur adjoint chargé de la section d'enseignement général
+et professionnel adapté dans les collèges ;
+
+6° Cinq représentants élus des personnels, dont quatre au titre des personnels d'enseignement, de direction, d'éducation, de
+surveillance ou de documentation et un au titre des personnels administratifs ou d'intendance, sociaux et de santé,
+techniques, ouvriers et de service ou de laboratoire ;
+
+7° Cinq représentants des parents d'élèves et des élèves, dont quatre représentants élus des parents d'élèves et un
+représentant élu des élèves dans les collèges et trois représentants élus des parents d'élèves et deux représentants élus des
+élèves dans les lycées ;
+
+8° Un représentant de la commune siège de l'établissement.
+
+Les représentants des personnels d'enseignement et d'éducation et les représentants des parents d'élèves sont élus, au
+scrutin proportionnel au plus fort reste, en leur sein par les membres du conseil d'administration appartenant à leurs
+catégories respectives. Le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de
+service et le représentant des élèves sont élus, au scrutin uninominal à un tour, en leur sein par les membres du conseil
+d'administration appartenant à leurs catégories respectives. Le représentant de la commune siège de l'établissement est
+désigné par la collectivité intéressée parmi ses représentants.
+
+Pour chaque membre élu de la commission permanente, un suppléant est élu dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-12 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D494-8
+
+Les règles relatives au conseil de discipline des collèges et des lycées de Nouvelle-Calédonie sont fixées par l'article
+55-13 du décret n° 86-164 du 31 janvier 1986 portant organisation administrative et financière des établissements
+d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat et portant dispositions diverses
+applicables aux établissements d'enseignement de second degré municipaux et départementaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-13 (V)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article D494-9
+
+Les dépenses de fonctionnement du service annexe d'hébergement sont entièrement supportées par les familles et par l'Etat.
+
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion, d'éducation et de surveillance du
+service d'hébergement ainsi que des personnels soignants, ouvriers et de service.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-164 du 31 janvier 1986 - art. 55-20 ecqc la Nouvelle Calédonie (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+##### Section 2 : Les établissements d'enseignement privés.
+
+###### Article R494-10
+
+Le chapitre II du titre IV du présent livre, à l'exception des articles R. 442-1, D. 442-2 à D. 442-6, R. 442-14, D. 442-22,
+R. 442-43, R. 442-45, R. 442-46, R. 442-49, R. 442-63 à R. 442-79, est applicable aux établissements d'enseignement privés de
+la Nouvelle-Calédonie dans les conditions précisées aux articles suivants. 
+
+Pour l'application à ces établissements des dispositions de l'article R. 442-33, les deuxième et troisième alinéas de cet
+article sont remplacés par les dispositions suivantes : 
+
+"Les classes des établissements faisant l'objet de la demande de contrat doivent répondre à un besoin scolaire reconnu,
+apprécié conformément aux dispositions de l'article L. 442-5. "
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-860 du 9 août 1978 - art. 1 al 1 et 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D442-2 (V)
+	  - Code de l'éducation - art. D442-22 (V)
+	  - Code de l'éducation - art. L442-5 (V)
+	  - Code de l'éducation - art. R442-1 (V)
+	  - Code de l'éducation - art. R442-14 (V)
+	  - Code de l'éducation - art. R442-33 (V)
+	  - Code de l'éducation - art. R442-43 (V)
+	  - Code de l'éducation - art. R442-45 (V)
+	  - Code de l'éducation - art. R442-49 (V)
+	  - Code de l'éducation - art. R442-63 (V)
+
+
+###### Article R494-11
+
+Pour l'application aux établissements d'enseignement privés de Nouvelle-Calédonie des dispositions de la présente section,
+les mots : "préfet", "préfet de département", "préfet de région", "représentant de l'Etat dans le département" sont remplacés
+par les mots : "le haut-commissaire de la République", le mot : "département" par le mot : "province" et le mot : "région"
+par le mot : "Nouvelle-Calédonie".
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-860 du 9 août 1978 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R494-12
+
+Pour l'application aux établissements d'enseignement privés de Nouvelle-Calédonie des dispositions de la présente section,
+les mots : « autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-
+recteur de la Nouvelle-Calédonie » et les mots : « services académiques » par les mots : « services du vice-rectorat ».
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-860 du 9 août 1978 - art. 3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R494-13
+
+Les compétences attribuées aux commissions académiques de concertation sont exercées, en Nouvelle-Calédonie, par un comité de
+conciliation composé de cinq membres choisis parmi les personnes qualifiées par le haut-commissaire de la République.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-860 du 9 août 1978 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R494-14
+
+Peuvent passer avec l'Etat, dans les conditions prévues aux articles R. 442-59 à R. 442-61, un contrat simple d'une durée de
+trois ans au moins les établissements d'enseignement privés du premier degré ouverts depuis cinq ans au moins à la date
+d'entrée en vigueur du contrat. Toutefois, ce délai peut être ramené à un an, sur décision du haut-commissaire de la
+République, prise après avis d'une commission mixte comprenant : 
+
+1° Trois représentants des établissements d'enseignement privés, désignés par le haut-commissaire de la République ; 
+
+2° Trois représentants de l'enseignement public, désignés par le haut-commissaire de la République, sur proposition du vice-
+recteur ; 
+
+3° Le vice-recteur, membre de droit de cette commission. 
+
+Le haut-commissaire en est président. 
+
+Les établissements disposent, pour les classes faisant l'objet du contrat, des locaux et des installations appropriés aux
+exigences de la salubrité et justifient, en raison de circonstances particulières, d'effectifs scolaires estimés suffisants
+par le haut-commissaire qui prend sa décision après avis de la commission mentionnée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°78-860 du 9 août 1978 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Créé par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 12 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R442-59 (V)
 
 
