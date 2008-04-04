@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-03-19
+Version Consolidée au 2008-04-05
 
 # Partie législative
 
@@ -40726,29 +40726,33 @@ supérieur pris après avis du Conseil national de l'enseignement supérieur et 
 ###### Article R232-23
 
 Le Conseil national de l'enseignement supérieur et de la recherche statuant en matière disciplinaire se compose de quatorze
-conseillers titulaires et quatorze conseillers suppléants répartis de la façon suivante :
+conseillers titulaires et quatorze conseillers suppléants répartis de la façon suivante : 
 
 1° Cinq conseillers titulaires et cinq conseillers suppléants élus parmi les professeurs des universités ou personnels
-assimilés en application de l'article 5 du décret n° 87-31 du 20 janvier 1987 relatif au Conseil national des universités
-pour les disciplines médicales et odontologiques ou de l'article 6 du décret n° 92-70 du 16 janvier 1992 relatif au Conseil
-national des universités ;
+assimilés en application de l'article 5 du décret n° 87-31 du 20 janvier 1987 relatif au         Conseil national des
+universités pour les disciplines médicales, odontologiques et pharmaceutiques ou de l'article 6 du décret n° 92-70 du 16
+janvier 1992 relatif au Conseil national des universités ; 
 
 2° Cinq conseillers titulaires et cinq conseillers suppléants élus parmi les maîtres de conférences ou maîtres-assistants ou
 chefs de travaux ou personnels assimilés en application de l'article 5 du décret du 20 janvier 1987 précité ou de l'article 6
-du décret du 16 janvier 1992 précité et parmi les assistants de l'enseignement supérieur ;
+du décret du 16 janvier 1992 précité et parmi les assistants de l'enseignement supérieur ; 
 
 3° Quatre conseillers titulaires et quatre conseillers suppléants élus parmi les représentants des étudiants.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°87-31 du 20 janvier 1987 - art. 5 (M)
+	  - Décret n°92-70 du 16 janvier 1992 - art. 6 (M)
+
 	**Anciens textes**:
 
-	  - Décret n°90-1011 1990-11-14 art. 1
 	  - Décret n°90-1011 du 14 novembre 1990 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2008-308 du 2 avril 2008 - art. 61
 
 	**Cité par**:
 
@@ -55072,8 +55076,6 @@ d'information sur les multimédias pour l'enseignement supérieur.
 
 	  - Décret n°2014-1631 du 26 décembre 2014 - art. 15
 
-
-##### Paragraphe 5 : Le Centre de liaison de l'enseignement et des moyens d'information.
 
 ##### Paragraphe 5 : Le            Centre de liaison de l'enseignement et des médias d'information .
 
