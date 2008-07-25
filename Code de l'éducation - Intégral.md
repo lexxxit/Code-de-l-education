@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-06-01
+Version Consolidée au 2008-07-26
 
 # Partie législative
 
@@ -2288,9 +2288,10 @@ L'enseignement supérieur est libre.
 ###### Article L161-1
 
 Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
-l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
-121-1 à L. 121-4, L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L.
-141-2, L. 141-4, L. 141-5-1, L. 141-6, L. 151-1, L. 151-3 et L. 151-6. 
+l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, L. 112-4, le premier alinéa de l'article L. 113-1, les
+articles L. 121-1 à L. 121-4, 
+L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4,
+L. 141-5-1, L. 141-6, L. 151-1, L. 151-3 et L. 151-6. 
 
 Les dispositions de l'article L. 131-1 sont applicables à compter du 1er janvier 2001.
 
@@ -2300,17 +2301,36 @@ Les dispositions de l'article L. 131-1 sont applicables à compter du 1er janvie
 
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 54 () JORF 24 avril 2005
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-1 (V)
+	  - Code de l'éducation - art. L111-2 (V)
+	  - Code de l'éducation - art. L112-2 (V)
+	  - Code de l'éducation - art. L112-4 (V)
+	  - Code de l'éducation - art. L113-1 (V)
+	  - Code de l'éducation - art. L121-1 (V)
+	  - Code de l'éducation - art. L122-1 (T)
+	  - Code de l'éducation - art. L122-1-1 (V)
+	  - Code de l'éducation - art. L122-5 (V)
+	  - Code de l'éducation - art. L123-1 (V)
+	  - Code de l'éducation - art. L131-1 (V)
+	  - Code de l'éducation - art. L131-1-1 (V)
+	  - Code de l'éducation - art. L131-2 (V)
+	  - Code de l'éducation - art. L131-4 (V)
+	  - Code de l'éducation - art. L132-1 (V)
+	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
+	  - Code de l'éducation - art. L141-6 (V)
+	  - Code de l'éducation - art. L151-1 (V)
+	  - Code de l'éducation - art. L151-3 (V)
+	  - Code de l'éducation - art. L151-6 (V)
 
 
 ###### Article L161-2
@@ -7609,30 +7629,30 @@ l'extension des locaux ".
 ###### Article L261-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à
-L. 232-7, L. 233-1, L. 236-1, L. 241-1 à L. 241-4 et L. 242-1.
-
-**Nota:**
-
-Loi 2006-450 art. 44 II : les modifications induites par l'article 44 II de la présente loi entrent en vigueur à compter de
-l'entrée en vigueur de l'article 11 c'est-à-dire à la date d'installation du conseil de l'Agence d'évaluation de la recherche
-et de l'enseignement supérieur mentionnée à l'article L114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.
+L. 232-7, L. 233-1, L. 233-2, L. 236-1, L. 23-10-1, L. 241-1 à L. 241-4 et L. 242-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-10 (V)
+	  - Code de l'éducation - art. L23-10-1 (V)
+	  - Code de l'éducation - art. L230-1 (V)
+	  - Code de l'éducation - art. L231-1 (V)
+	  - Code de l'éducation - art. L232-1 (V)
+	  - Code de l'éducation - art. L233-1 (V)
+	  - Code de l'éducation - art. L236-1 (V)
+	  - Code de l'éducation - art. L241-1 (V)
+	  - Code de l'éducation - art. L242-1 (V)
 
 
 ###### Article L261-2
@@ -7787,26 +7807,31 @@ nationale et de la recherche ;
 ###### Article L263-1
 
 Sont applicables en Polynésie française les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 233-2, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
+232-7, L. 233-1, L. 233-2, L. 236-1, L. 23-10-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-10 (V)
+	  - Code de l'éducation - art. L23-10-1 (V)
+	  - Code de l'éducation - art. L230-1 (V)
+	  - Code de l'éducation - art. L231-1 (V)
+	  - Code de l'éducation - art. L232-1 (V)
+	  - Code de l'éducation - art. L233-1 (V)
+	  - Code de l'éducation - art. L236-1 (V)
+	  - Code de l'éducation - art. L241-1 (V)
+	  - Code de l'éducation - art. L242-1 (V)
 
 
 ###### Article L263-2
@@ -7840,27 +7865,32 @@ nationale et de la recherche ;
 
 ###### Article L264-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 230-1 à L. 230-3, L. 231-1 à L. 231-13, L. 232-1 à L.
-232-7, L. 233-1, L. 233-2, L. 236-1, L. 241-1 à L. 241-4, et L. 242-1.
+Sont applicables en Nouvelle-Calédonie les articles L. 216-10, L. 230-1 à L. 230-3, 
+L. 231-1 à L. 231-13, L. 232-1 à L. 232-7, L. 233-1, L. 233-2, L. 236-1, L. 23-10-1, L. 241-1 à L. 241-4, et L. 242-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-10
+	  - Code de l'éducation - art. L23-10-1
+	  - Code de l'éducation - art. L230-1
+	  - Code de l'éducation - art. L231-1 (V)
+	  - Code de l'éducation - art. L232-1 (V)
+	  - Code de l'éducation - art. L233-1 (V)
+	  - Code de l'éducation - art. L236-1 (V)
+	  - Code de l'éducation - art. L241-1 (V)
+	  - Code de l'éducation - art. L242-1 (V)
 
 
 ###### Article L264-2
@@ -20782,25 +20812,42 @@ conformément aux dispositions des articles L. 451-1 et L. 451-2 du code de l'ac
 
 ###### Article L681-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L.
-613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L.
-631-1, L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 611-5, L. 612-1 à L.
+612-7, L. 613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L.
+625-1, L. 631-1, L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+
+L'obligation de préinscription prévue à l'article L. 612-3 n'est pas opposable aux candidats qui ont suivi l'enseignement du
+second degré dans les îles Wallis et Futuna et qui souhaitent s'inscrire dans un établissement public d'enseignement
+supérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1934-07-10 art. 17
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 58 () JORF 24 avril 2005
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L611-1 (V)
+	  - Code de l'éducation - art. L612-1 (V)
+	  - Code de l'éducation - art. L612-3 (V)
+	  - Code de l'éducation - art. L613-1 (V)
+	  - Code de l'éducation - art. L614-1 (V)
+	  - Code de l'éducation - art. L614-3 (V)
+	  - Code de l'éducation - art. L622-1 (V)
+	  - Code de l'éducation - art. L623-1 (V)
+	  - Code de l'éducation - art. L624-1 (V)
+	  - Code de l'éducation - art. L625-1 (V)
+	  - Code de l'éducation - art. L631-1 (V)
+	  - Code de l'éducation - art. L632-1 (V)
+	  - Code de l'éducation - art. L633-2 (V)
+	  - Code de l'éducation - art. L641-1 (V)
+	  - Code de l'éducation - art. L642-1 (V)
+	  - Code de l'éducation - art. L671-2 (V)
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.
@@ -20821,25 +20868,38 @@ au recteur d'académie.
 
 ###### Article L683-1
 
-Sont applicables en Polynésie française les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
-L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1,
-L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables en Polynésie française les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à L. 632-10,
+L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1934-07-10 art. 17
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 73 () JORF 24 avril 2005
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L611-1
+	  - Code de l'éducation - art. L612-1 (V)
+	  - Code de l'éducation - art. L613-1 (V)
+	  - Code de l'éducation - art. L614-1 (V)
+	  - Code de l'éducation - art. L614-3
+	  - Code de l'éducation - art. L622-1 (V)
+	  - Code de l'éducation - art. L623-1 (V)
+	  - Code de l'éducation - art. L624-1 (V)
+	  - Code de l'éducation - art. L625-1 (V)
+	  - Code de l'éducation - art. L631-1 (V)
+	  - Code de l'éducation - art. L632-1 (V)
+	  - Code de l'éducation - art. L632-12 (V)
+	  - Code de l'éducation - art. L633-2 (V)
+	  - Code de l'éducation - art. L641-1 (V)
+	  - Code de l'éducation - art. L642-1 (V)
+	  - Code de l'éducation - art. L671-2
 
 
 ###### Article L683-2
@@ -20908,25 +20968,39 @@ chargés de la santé, de l'enseignement supérieur et de l'outre-mer.
 
 ###### Article L684-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 612-1 à L. 612-7, L. 613-1 à
-L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1,
-L. 632-1 à L. 632-10, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+Sont applicables en Nouvelle-Calédonie les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à L. 632-10,
+L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, 
+L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°1934-07-10 art. 17
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 81 () JORF 24 avril 2005
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L611-1
+	  - Code de l'éducation - art. L612-1
+	  - Code de l'éducation - art. L613-1
+	  - Code de l'éducation - art. L614-1
+	  - Code de l'éducation - art. L614-3
+	  - Code de l'éducation - art. L622-1
+	  - Code de l'éducation - art. L623-1
+	  - Code de l'éducation - art. L624-1
+	  - Code de l'éducation - art. L625-1
+	  - Code de l'éducation - art. L631-1
+	  - Code de l'éducation - art. L632-1
+	  - Code de l'éducation - art. L632-12
+	  - Code de l'éducation - art. L633-2
+	  - Code de l'éducation - art. L641-1
+	  - Code de l'éducation - art. L642-1
+	  - Code de l'éducation - art. L671-2
 
 
 ###### Article L684-2
@@ -26426,26 +26500,40 @@ code.
 
 ###### Article L771-1
 
-Sont applicables dans les îles Wallis et Futuna les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-4, L.
-712-5 à L. 712-7, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L.
-718-1, L. 719-1 à L. 719-11, L. 721-1, L. 741-1, L. 762-1 et L. 762-2.
+Sont applicables dans les îles Wallis et Futuna les articles L. 711-1, L. 711-2, 
+L. 711-4 à L. 711-9, L. 712-1 à L. 712-4, L. 712-5 à L. 712-10, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2,
+L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L. 719-1 à L. 719-14, L. 721-1, L731-14, L. 741-1, L. 762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 59 () JORF 24 avril 2005
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-1 (V)
+	  - Code de l'éducation - art. L711-4 (V)
+	  - Code de l'éducation - art. L712-1 (V)
+	  - Code de l'éducation - art. L712-5 (V)
+	  - Code de l'éducation - art. L713-1 (V)
+	  - Code de l'éducation - art. L713-3 (V)
+	  - Code de l'éducation - art. L713-9 (V)
+	  - Code de l'éducation - art. L714-1 (V)
+	  - Code de l'éducation - art. L715-1 (V)
+	  - Code de l'éducation - art. L716-1 (V)
+	  - Code de l'éducation - art. L717-1 (V)
+	  - Code de l'éducation - art. L718-1 (V)
+	  - Code de l'éducation - art. L719-1 (V)
+	  - Code de l'éducation - art. L721-1 (V)
+	  - Code de l'éducation - art. L731-14 (V)
+	  - Code de l'éducation - art. L741-1 (V)
+	  - Code de l'éducation - art. L762-1 (V)
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.
@@ -26487,54 +26575,70 @@ L. 722-16 ne sont pas applicables à Mayotte.
 
 ###### Article L773-1
 
-Sont applicables en Polynésie française les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-7, L. 713-1,
-L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L. 719-1 à L. 719-11, L.
-721-1, L. 741-1, L. 762-1 et L. 762-2.
+Sont applicables en Polynésie française les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-9, L. 712-1 à L. 712-10, L. 713-1,
+L. 713-3, L. 713-4, 
+L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L. 719-1 à L. 719-14, L. 721-1, L. 741-1, L.
+762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 74 () JORF 24 avril 2005
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-1 (V)
+	  - Code de l'éducation - art. L711-4 (V)
+	  - Code de l'éducation - art. L712-1 (V)
+	  - Code de l'éducation - art. L713-1 (V)
+	  - Code de l'éducation - art. L713-3 (V)
+	  - Code de l'éducation - art. L713-9 (V)
+	  - Code de l'éducation - art. L714-1 (V)
+	  - Code de l'éducation - art. L715-1 (V)
+	  - Code de l'éducation - art. L716-1 (V)
+	  - Code de l'éducation - art. L717-1 (V)
+	  - Code de l'éducation - art. L718-1 (V)
+	  - Code de l'éducation - art. L719-1 (V)
+	  - Code de l'éducation - art. L721-1 (V)
+	  - Code de l'éducation - art. L741-1 (V)
+	  - Code de l'éducation - art. L762-1 (V)
 
 
 ###### Article L773-2
 
-L'université de Polynésie française est administrée par un conseil d'administration, assisté d'un conseil scientifique.
+L'université de Polynésie française est administrée par un conseil d'administration, assisté d'un conseil scientifique. La
+deuxième phrase du premier alinéa de l'article L. 719-1 n'est pas applicable aux représentants des enseignants-chercheurs et
+personnels assimilés. 
 
 Le conseil d'administration exerce les compétences dévolues aux conseils institués par les articles L. 712-3 et L. 712-6. Il
-comprend au plus trente membres répartis dans les conditions fixées à l'article L. 712-3. Le haut-commissaire et le vice-
-recteur de la Polynésie française assistent aux séances du conseil d'administration. Le représentant du ministre chargé de
-l'outre-mer peut y assister en tant que de besoin.
+comprend au plus trente membres répartis dans les conditions fixées à l'article L. 712-3. Le vice-président étudiant prévu à
+l'article L. 712-6 est élu par le conseil d'administration en son sein. Le haut-commissaire et le vice-recteur de la
+Polynésie française assistent aux séances du conseil d'administration. Le représentant du ministre chargé de l'outre-mer peut
+y assister en tant que de besoin. 
 
 Le conseil scientifique, qui exerce les compétences prévues à l'article L. 712-5, comprend de vingt à trente membres ainsi
-répartis :
+répartis : 
 
 1° De 60 à 70 % de représentants des personnels. Le nombre de sièges est attribué pour la moitié au moins aux professeurs et
-aux personnels qui sont habilités à diriger des recherches ;
+aux personnels qui sont habilités à diriger des recherches ; 
 
-2° De 10 à 20 % de représentants des étudiants de troisième cycle ;
+2° De 10 à 20 % de représentants des doctorants inscrits en formation initiale ou continue ; 
 
-3° De 20 à 30 % de personnalités extérieures.
+3° De 20 à 30 % de personnalités extérieures. 
 
 Les conseils des composantes de l'université prévus aux articles L. 713-3 et L. 713-9 comprennent au plus vingt membres
-répartis dans les conditions fixées par ces articles.
+répartis dans les conditions fixées par ces articles. 
 
 Au sein des différents conseils de l'établissement peuvent siéger, au titre des personnalités désignées par ces conseils à
 titre personnel, des représentants de la Polynésie française, des activités économiques, des organismes et institutions
 scientifiques et culturels ainsi que des enseignants des établissements d'enseignement supérieur et de recherche de la zone
-Pacifique Sud.
+Pacifique Sud. 
 
 Les catégories de personnalités extérieures appelées à siéger dans les conseils ainsi que le nombre de sièges qui leur sont
 attribués sont déterminés par les statuts. Toutefois, dans les conseils d'administration siègent trois représentants de la
@@ -26547,10 +26651,9 @@ disposant d'au moins un représentant.
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 72 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
 
 	**Cité par**:
 
@@ -26559,14 +26662,24 @@ disposant d'au moins un représentant.
 	  - Code de l'éducation - art. D773-14 (V)
 	  - Code de l'éducation - art. L773-4 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-3
+	  - Code de l'éducation - art. L712-5
+	  - Code de l'éducation - art. L712-6
+	  - Code de l'éducation - art. L713-3
+	  - Code de l'éducation - art. L713-9
+	  - Code de l'éducation - art. L719-1
+
 
 ###### Article L773-3
 
-Pour l'application de l'article L. 719-4 à la Polynésie française, les mots : " régions " et " départements " sont remplacés
-par le mot : " territoire ".
+Pour l'application de l'article L. 712-3 à la Polynésie française, les mots : " du conseil régional " sont remplacés par les
+mots : " de l'assemblée ". Pour l'application de l'article L. 719-4 à la Polynésie française, les mots : " régions " et "
+départements " sont remplacés par le mot : " territoire ". 
 
 Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues par le présent livre au recteur d'académie,
-chancelier des universités.
+chancelier des universités. 
 
 Les références à des dispositions législatives ne s'appliquant pas en Polynésie française sont remplacées par les références
 aux dispositions, ayant le même objet, qui y sont applicables.
@@ -26577,15 +26690,19 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 73 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D263-11 (V)
 	  - Code de l'éducation - art. L773-3-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-3
+	  - Code de l'éducation - art. L719-4
 
 
 ###### Article L773-4
@@ -26614,54 +26731,69 @@ la complémentarité entre ses laboratoires et l'ensemble des organismes de rech
 
 ###### Article L774-1
 
-Sont applicables en Nouvelle-Calédonie les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-8, L. 712-1 à L. 712-4, L. 712-5 à
-L. 712-7, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3, L. 716-1, L. 717-1, L. 718-1, L.
-719-1 à L. 719-11, L. 721-1, L. 741-1, L. 762-1 et L. 762-2.
+Sont applicables en Nouvelle-Calédonie les articles L. 711-1, L. 711-2, L. 711-4 à L. 711-9, 
+L. 712-1 à L. 712-4, L. 712-5 à L. 712-10, L. 713-1, L. 713-3, L. 713-4, L. 713-9, L. 714-1, L. 714-2, L. 715-1 à L. 715-3,
+L. 716-1, L. 717-1, L. 718-1, L. 719-1 à L. 719-14, L. 721-1, L. 741-1, L. 762-1 et L. 762-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 82 () JORF 24 avril 2005
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-1
+	  - Code de l'éducation - art. L711-4
+	  - Code de l'éducation - art. L712-1
+	  - Code de l'éducation - art. L713-1 (V)
+	  - Code de l'éducation - art. L713-4 (V)
+	  - Code de l'éducation - art. L713-9 (V)
+	  - Code de l'éducation - art. L714-1 (V)
+	  - Code de l'éducation - art. L715-1 (V)
+	  - Code de l'éducation - art. L716-1 (V)
+	  - Code de l'éducation - art. L717-1 (V)
+	  - Code de l'éducation - art. L718-1 (V)
+	  - Code de l'éducation - art. L719-1 (V)
+	  - Code de l'éducation - art. L721-1
+	  - Code de l'éducation - art. L741-1
+	  - Code de l'éducation - art. L762-1
 
 
 ###### Article L774-2
 
-L'université de Nouvelle-Calédonie est administrée par un conseil d'administration, assisté d'un conseil scientifique.
+L'université de Nouvelle-Calédonie est administrée par un conseil d'administration, assisté d'un conseil scientifique. La
+deuxième phrase du premier alinéa de l'article L. 719-1 n'est pas applicable aux représentants des enseignants-chercheurs et
+personnels assimilés. 
 
 Le conseil d'administration exerce les compétences dévolues aux conseils institués par les articles L. 712-3 et L. 712-6. Il
-comprend au plus trente membres répartis dans les conditions fixées à l'article L. 712-3. Le haut-commissaire et le vice-
-recteur de Nouvelle-Calédonie assistent aux séances du conseil d'administration. Le représentant du ministre chargé de
-l'outre-mer peut y assister en tant que de besoin.
+comprend au plus trente membres répartis dans les conditions fixées à l'article L. 712-3. Le vice-président étudiant prévu à
+l'article L. 712-6 est élu par le conseil d'administration en son sein. Le haut-commissaire et le vice-recteur de Nouvelle-
+Calédonie assistent aux séances du conseil d'administration. Le représentant du ministre chargé de l'outre-mer peut y
+assister en tant que de besoin. 
 
 Le conseil scientifique, qui exerce les compétences prévues à l'article L. 712-5, comprend de vingt à trente membres ainsi
-répartis :
+répartis : 
 
 1° De 60 à 70 % de représentants des personnels. Le nombre de sièges est attribué pour la moitié au moins aux professeurs et
-aux personnels qui sont habilités à diriger des recherches ;
+aux personnels qui sont habilités à diriger des recherches ; 
 
-2° De 10 à 20 % de représentants des étudiants de troisième cycle ;
+2° De 10 à 20 % de représentants des doctorants inscrits en formation initiale ou continue ; 
 
-3° De 20 à 30 % de personnalités extérieures.
+3° De 20 à 30 % de personnalités extérieures. 
 
 Les conseils des composantes de l'université prévus aux articles L. 713-3 et L. 713-9 comprennent au plus vingt membres
-répartis dans les conditions fixées par ces articles.
+répartis dans les conditions fixées par ces articles. 
 
 Au sein des différents conseils de l'établissement peuvent siéger, au titre des personnalités désignées par ces conseils à
 titre personnel, des représentants de la Nouvelle-Calédonie, des activités économiques, des organismes et institutions
 scientifiques et culturels ainsi que des enseignants des établissements d'enseignement supérieur et de recherche de la zone
-Pacifique Sud.
+Pacifique Sud. 
 
 Les catégories de personnalités extérieures appelées à siéger dans les conseils ainsi que le nombre de sièges qui leur sont
 attribués sont déterminés par les statuts. Toutefois, dans les conseils d'administration siègent trois représentants de la
@@ -26674,10 +26806,9 @@ disposant d'au moins un représentant.
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 72 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
 
 	**Cité par**:
 
@@ -26685,14 +26816,24 @@ disposant d'au moins un représentant.
 	  - Code de l'éducation - art. D774-14 (V)
 	  - Code de l'éducation - art. L774-4 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-3
+	  - Code de l'éducation - art. L712-5
+	  - Code de l'éducation - art. L712-6
+	  - Code de l'éducation - art. L713-3
+	  - Code de l'éducation - art. L713-9
+	  - Code de l'éducation - art. L719-1
+
 
 ###### Article L774-3
 
-Pour l'application de l'article L. 719-4 à la Nouvelle-Calédonie, les mots : " régions " et " départements " sont remplacés
-par les mots : " de la Nouvelle-Calédonie, des provinces ".
+Pour l'application de l'article L. 712-3 à la Nouvelle-Calédonie, les mots : " du conseil régional " sont remplacés par les
+mots : " du congrès ". Pour l'application de l'article L. 719-4 à la Nouvelle-Calédonie, les mots : " régions " et "
+départements " sont remplacés par les mots : " de la Nouvelle-Calédonie, des provinces ". 
 
 Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues par le présent livre au recteur d'académie,
-chancelier des universités.
+chancelier des universités. 
 
 Les références à des dispositions législatives ne s'appliquant pas en Nouvelle-Calédonie sont remplacées par les références
 aux dispositions, ayant le même objet, qui y sont applicables.
@@ -26703,15 +26844,19 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 73 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D264-11 (V)
 	  - Code de l'éducation - art. L774-3-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L712-3
+	  - Code de l'éducation - art. L719-4
 
 
 ###### Article L774-4
@@ -31051,25 +31196,38 @@ temps partiel.
 ###### Article L971-1
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L.
-912-1-3, L. 912-2, L. 913-1, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L.
-952-14 à L. 952-20, L. 953-1 à L. 953-4, L. 953-6.
+912-1-3, L. 912-2, L. 913-1, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, 
+L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L. 952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6, L.
+953-7 et L. 954-1 à L. 954-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 60 () JORF 24 avril 2005
+	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L911-1 (V)
+	  - Code de l'éducation - art. L912-1 (V)
+	  - Code de l'éducation - art. L912-2 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+	  - Code de l'éducation - art. L931-1 (V)
+	  - Code de l'éducation - art. L932-1 (V)
+	  - Code de l'éducation - art. L932-3 (V)
+	  - Code de l'éducation - art. L941-1 (V)
+	  - Code de l'éducation - art. L951-1 (V)
+	  - Code de l'éducation - art. L952-1 (V)
+	  - Code de l'éducation - art. L952-14 (V)
+	  - Code de l'éducation - art. L952-24 (V)
+	  - Code de l'éducation - art. L953-1 (V)
+	  - Code de l'éducation - art. L953-6 (V)
+	  - Code de l'éducation - art. L954-1 (V)
 
 
 ###### Article L971-2
@@ -31191,27 +31349,40 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L973-1
 
 Sont applicables en Polynésie française les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
-912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1, L.
-952-2 à L. 952-6, L. 952-7 à L. 952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
+952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7, 
+L. 954-1 à L. 954-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L911-1 (V)
+	  - Code de l'éducation - art. L912-1 (V)
+	  - Code de l'éducation - art. L912-2 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+	  - Code de l'éducation - art. L914-1 (V)
+	  - Code de l'éducation - art. L931-1 (V)
+	  - Code de l'éducation - art. L932-1 (V)
+	  - Code de l'éducation - art. L932-3 (V)
+	  - Code de l'éducation - art. L941-1 (V)
+	  - Code de l'éducation - art. L951-1 (V)
+	  - Code de l'éducation - art. L952-1 (V)
+	  - Code de l'éducation - art. L952-14 (V)
+	  - Code de l'éducation - art. L952-24 (V)
+	  - Code de l'éducation - art. L953-1 (V)
+	  - Code de l'éducation - art. L953-6 (V)
+	  - Code de l'éducation - art. L954-1 (V)
 
 
 ###### Article L973-2
@@ -31264,27 +31435,39 @@ aux dispositions, ayant le même objet, qui y sont applicables.
 ###### Article L974-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 911-1 à L. 911-5, L. 912-1, L. 912-1-1, L. 912-1-2, L. 912-1-3, L.
-912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1, L.
-952-2 à L. 952-6, L. 952-7 à L. 952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7.
+912-2, L. 913-1, L. 914-1, L. 914-2, L. 931-1, L. 932-1, L. 932-3 à L. 932-6, L. 941-1, L. 951-1 à L. 951-4, L. 952-1 à L.
+952-12, L. 952-14 à L. 952-20, L. 952-24, L. 953-1 à L. 953-4, L. 953-6 et L. 953-7, L. 954-1 à L. 954-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 42 (V)
+	  - Ordonnance n°2008-727 du 24 juillet 2008 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L911-1 (V)
+	  - Code de l'éducation - art. L912-1 (V)
+	  - Code de l'éducation - art. L912-2 (V)
+	  - Code de l'éducation - art. L913-1 (V)
+	  - Code de l'éducation - art. L914-1 (V)
+	  - Code de l'éducation - art. L931-1 (V)
+	  - Code de l'éducation - art. L932-1 (V)
+	  - Code de l'éducation - art. L932-3 (V)
+	  - Code de l'éducation - art. L941-1 (V)
+	  - Code de l'éducation - art. L951-1 (V)
+	  - Code de l'éducation - art. L952-1 (V)
+	  - Code de l'éducation - art. L952-14 (V)
+	  - Code de l'éducation - art. L952-24 (V)
+	  - Code de l'éducation - art. L953-1 (V)
+	  - Code de l'éducation - art. L953-6 (V)
+	  - Code de l'éducation - art. L954-1 (V)
 
 
 ###### Article L974-2
