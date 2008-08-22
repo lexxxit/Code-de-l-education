@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-08-22
+Version Consolidée au 2008-08-23
 
 # Partie législative
 
@@ -1352,7 +1352,7 @@ d'indépendance et de sérénité indispensables à la réflexion et à la créa
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
-#### Titre III : L'obligation et la gratuité scolaires
+#### Titre III : L'obligation scolaire, la gratuité et l'accueil des élèves des écoles maternelles et élémentaires
 
 ##### Chapitre Ier : L'obligation scolaire.
 
@@ -1938,12 +1938,6 @@ d'enseignement public du second degré.
 	  - Code de l'éducation - art. L163-1 (V)
 	  - Code de l'éducation - art. L164-1 (V)
 
-
-#### Titre III : L'obligation scolaire, la gratuité et l'accueil des élèves des écoles maternelles et élémentaires
-
-##### Chapitre Ier : L'obligation scolaire.
-
-##### Chapitre II : La gratuité de l'enseignement scolaire public.
 
 ##### Chapitre III : L'accueil des élèves des écoles maternelles et élémentaires
 
@@ -85159,6 +85153,23 @@ les sommes dues sont proportionnelles à la durée du service restant à accompl
 	**Créé par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+
+
+###### Article R425-22
+
+Les décisions de mise en recouvrement des frais de trousseau et de pension sont prises par le ministre de la défense. 
+
+Le ministre peut déléguer sa compétence aux commandants des lycées de la défense, dans des conditions fixées par arrêté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-803 du 20 août 2008 - art. 6
+
+	**Cité par**:
+
+	  - Décret n°2016-26 du 18 janvier 2016 (V)
 
 
 #### Chapitre VI : Le Centre national d'enseignement à distance.
