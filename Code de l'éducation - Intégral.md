@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-09-01
+Version Consolidée au 2008-09-02
 
 # Partie législative
 
@@ -84919,22 +84919,20 @@ fonctionnaires, au titre de l'aide à la famille ;
 
 2° Une préparation aux concours d'officiers des armées et des formations rattachées, au titre de l'aide au recrutement.
 
-Ils comprennent des classes de l'enseignement du second degré et des classes préparatoires aux écoles de formation
-d'officiers des armées et des formations rattachées dont la liste est fixée par arrêté du ministre de la défense.
+Ils comprennent : 
+
+a) Au titre de l'aide à la famille, des classes de l'enseignement du second degré ; 
+
+b) Au titre de l'aide au recrutement, des classes préparatoires aux écoles de formation d'officiers des armées et des
+formations rattachées ainsi que, le cas échéant, des classes préparatoires aux études supérieures. 
+
+La liste de ces classes est fixée par arrêté du ministre de la défense.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-246 du 1 mars 2006 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-803 du 20 août 2008 - art. 1
 
 	**Cité par**:
 
@@ -85218,23 +85216,16 @@ Les décisions d'admission mentionnées à l'article R. 425-11 sont prises par l
 
 ###### Article R425-13
 
-Les conditions dans lesquelles se poursuit la scolarité de l'élève sont arrêtées par le conseil de classe et peuvent, à
-l'initiative de l'intéressé ou de son représentant légal, si l'élève est mineur, faire l'objet d'un appel selon des modalités
-fixées par arrêté du ministre de la défense.
+Les conditions dans lesquelles se poursuit la scolarité de l'élève sont arrêtées par le commandant du lycée de la défense,
+sur proposition du conseil de classe, et peuvent, à l'initiative de l'intéressé ou de son représentant légal si l'élève est
+mineur, faire l'objet d'un appel selon des modalités fixées par arrêté conjoint des ministres chargés de l'éducation et de la
+défense.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-246 du 1 mars 2006 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-803 du 20 août 2008 - art. 2
 
 
 ##### Section 3 : Droits et obligations des élèves.
@@ -85243,9 +85234,14 @@ fixées par arrêté du ministre de la défense.
 
 Les élèves sont tenus de se présenter aux examens et concours qui sanctionnent l'enseignement reçu.
 
-Les élèves des classes préparatoires admis au titre de l'aide au recrutement sont tenus de se présenter au concours militaire
-correspondant à leur classe particulière de préparation. Ils peuvent, en outre, se présenter à d'autres concours d'admission
-dans les écoles de formation d'officiers des armées et des formations rattachées du ministère de la défense.
+Lorsqu'ils y ont été autorisés par le chef d'établissement, les élèves des classes préparatoires aux études supérieures admis
+au titre de l'aide au recrutement sont tenus de continuer leur scolarité au sein des classes préparatoires aux grandes écoles
+de l'un des lycées de la défense.
+
+Les élèves des classes préparatoires aux grandes écoles admis au titre de l'aide au recrutement sont tenus de se présenter au
+concours militaire correspondant à leur classe particulière de préparation. Ils peuvent, en outre, se présenter à d'autres
+concours d'admission dans les écoles de formation d'officiers des armées et des formations rattachées du ministère de la
+défense.
 
 Ils peuvent également être autorisés par le commandant du lycée de la défense à se présenter, à titre individuel et à leurs
 frais, à un ou plusieurs concours d'admission ne relevant pas du ministère de la défense :
@@ -85258,17 +85254,9 @@ d'accès aux écoles de formation d'officiers des armées et des formations ratt
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-246 du 1 mars 2006 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-803 du 20 août 2008 - art. 3
 
 
 ###### Article R425-15
@@ -85345,22 +85333,14 @@ fixé chaque année par arrêté du ministre de la défense.
 
 ###### Article R425-18
 
-Les familles de militaires et agents du ministère de la défense dont la situation le justifie peuvent, après avis du
-commandant du lycée, bénéficier de remises totales ou partielles du montant des frais de trousseau et de pension.
+Les familles dont la situation le justifie peuvent, après avis du commandant du lycée, bénéficier de remises totales ou
+partielles du montant des frais de trousseau et de pension.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-246 du 1 mars 2006 - art. 16 al 2 sauf ecqc le ministre de la défense (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-803 du 20 août 2008 - art. 4
 
 	**Cité par**:
 
@@ -85425,7 +85405,7 @@ peut néanmoins, à titre onéreux, terminer l'année scolaire en cours.
 
 ###### Article R425-21
 
-L'exonération prévue à l'article R. 425-20devient définitive lorsque : 
+L'exonération prévue à l'article R. 425-20 devient définitive lorsque : 
 
 1° Dans un délai de six ans à compter du 1er octobre de l'année d'obtention du baccalauréat : 
 
@@ -85437,26 +85417,26 @@ l'école pour inaptitude physique définitive, soit exclu de l'école pour insuf
 2° Dans un délai maximal d'un an après son départ du lycée de la défense, l'intéressé entre au service de l'État pour une
 durée minimale de trois années, en particulier au titre d'un contrat d'engagement dans les armées ou les formations
 rattachées. Toutefois, en cas de cessation de ce service avant trois ans pour toute autre cause que l'inaptitude physique,
-les sommes dues sont proportionnelles à la durée du service restant à accomplir pour parfaire les trois années.
+les sommes dues sont proportionnelles à la durée du service restant à accomplir pour parfaire les trois années. 
+
+3° L'intéressé, ayant suivi une scolarité dans une classe préparatoire aux études supérieures n'est pas admis, par décision
+du commandant du lycée de la défense prise sur proposition du conseil de classe et justifiée par l'insuffisance de ses
+résultats, à poursuivre sa scolarité dans une classe préparatoire aux grandes écoles d'un lycée de la défense.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-246 du 1 mars 2006 - art. 18 (Ab)
 
 	**Cité par**:
 
 	  - Arrêté du 21 mars 2006 - art. ANNEXE III (VD)
 	  - Code de l'éducation - art. R425-22 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
+	  - Décret n°2008-803 du 20 août 2008 - art. 5
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Code de l'éducation - art. R425-20 (V)
 
 
 ###### Article R425-22
@@ -94680,25 +94660,22 @@ la Moselle, prises en application des dispositions mentionnées à l'article L. 
 ###### Article D481-2
 
 La durée hebdomadaire de la scolarité des élèves dans les écoles élémentaires des départements du Haut-Rhin, du Bas-Rhin et
-de la Moselle est fixée à 26 heures et comprend obligatoirement une heure d'enseignement religieux.
+de la Moselle est fixée à vingt-quatre heures et comprend obligatoirement une heure d'enseignement religieux. 
 
-Pour les trois dernières années de l'école élémentaire, l'horaire peut être porté par décision du recteur de l'académie à 27
-heures, comprenant deux heures d'enseignement religieux, lorsque sont remplies les conditions nécessaires en ce qui concerne
-les effectifs et les enseignants.
+Pour les trois dernières années de l'école élémentaire,                l'horaire peut être porté par décision du recteur de
+l'académie à vingt-cinq heures, comprenant deux heures d'enseignement religieux, lorsque sont remplies les conditions
+nécessaires en ce qui concerne les effectifs et les enseignants.
+
+**Nota:**
+
+Décret 2008-751 du 29 juillet 2008 art. 2 : Ces dispositions sont applicables à compter de la rentrée de l'année scolaire
+2008-2009.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°74-763 du 3 septembre 1974 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-751 du 29 juillet 2008 - art. 1
 
 
 ###### Article D481-3
