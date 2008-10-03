@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-09-02
+Version Consolidée au 2008-10-04
 
 # Partie législative
 
@@ -61096,57 +61096,57 @@ La délivrance du baccalauréat général résulte de la délibération du jury 
 
 ###### Article D334-21
 
-Les membres des jurys mentionnés à l'article D. 334-20 sont désignés par le recteur.
+Les membres des jurys mentionnés à l'article D. 334-20 sont désignés par le recteur. 
 
 Les jurys sont présidés par un professeur des universités ou un maître de conférences nommé par le recteur sur proposition
-des présidents d'université.
+des présidents d'université. 
 
 Les présidents de jurys peuvent être assistés ou suppléés par des présidents adjoints choisis par le recteur parmi les
 professeurs agrégés ou, à défaut, parmi les professeurs certifiés de l'enseignement du second degré exerçant dans un
-établissement d'enseignement public.
+établissement d'enseignement public. 
 
-Pour la composition des jurys du baccalauréat, il peut être fait appel aux personnels appartenant aux catégories suivantes :
+Pour la composition des jurys du baccalauréat, il peut être fait appel aux personnels appartenant aux catégories suivantes : 
 
 1° Professeur des universités, maître de conférences ou autre enseignant-chercheur, membre du personnel enseignant des autres
-établissements publics d'enseignement supérieur, en activité ou à la retraite ;
+établissements publics d'enseignement supérieur, en activité ou à la retraite ; 
 
-2° Inspecteur d'académie-inspecteur pédagogique régional ;
+2° Inspecteur d'académie-inspecteur pédagogique régional ; 
 
 3° Professeur de l'enseignement public du second degré exerçant ou ayant exercé dans les classes de seconde, première et
 terminales des lycées d'enseignement général et technologique et des lycées d'enseignement général et technologique
-agricoles ;
+agricoles ; 
 
 4° Professeur agrégé, certifié, adjoint d'enseignement, affecté dans les établissements d'enseignement privés sous contrat
 d'association, maître contractuel des établissements d'enseignement privés sous contrat d'association qui bénéficie d'un
 contrat définitif, exerçant ou ayant exercé dans les classes de seconde, première et terminales des voies de formation
-générales et technologiques.
+générales et technologiques. 
 
 Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints pour participer, avec les membres des jurys, à
 l'évaluation ou à la correction de certaines épreuves. Les examinateurs et correcteurs adjoints peuvent, le cas échéant,
 participer aux délibérations des jurys avec voix consultative pour l'attribution de notes se rapportant aux épreuves qu'ils
-ont évaluées ou corrigées.
+ont évaluées ou corrigées. 
 
 Dans les sections comportant des enseignements artistiques spécialisés où interviennent des professionnels de façon continue,
-ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat.
+ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat. 
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un
 président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second
-degré peut être désigné.
+degré peut être désigné. 
 
 Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats
-binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers.
+binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent constituer plus
+de la moitié des membres du jury, ni exercer la fonction de président ou président adjoint.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-1092 1993-09-15 art. 17, 1ère phrase
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 17 (Ab)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (Ab)
+	  - Décret n°93-1092 du 15 septembre 1993 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2008-1012 du 1er octobre 2008 - art. 1
 
 	**Cité par**:
 
@@ -61160,7 +61160,7 @@ binationaux, le recteur peut désigner des personnels d'inspection ou d'enseigne
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D334-20 (V)
+	  - Code de l'éducation - art. D334-20
 
 
 ###### Article D334-22
@@ -61183,6 +61183,55 @@ grade de bachelier confère les mêmes droits.
 	**Cite**:
 
 	  - Code de l'éducation - art. D334-11 (V)
+
+
+##### Section 3 : Dispositions particulières aux baccalauréats binationaux. 
+
+
+###### Article D334-23
+
+La délivrance du baccalauréat général est accompagnée, dans le cadre d'un baccalauréat binational, de la remise du diplôme de
+fin d'études secondaires d'un Etat étranger ou d'une certification particulière, délivrée par un Etat ou par un organisme
+public ou privé étrangers, et reconnue dans le pays concerné pour l'accès à l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1012 du 1er octobre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 31 mai 2010 - art. 2 (V)
+	  - Arrêté du 14 décembre 2011 - art. 2 (V)
+	  - Code de l'éducation - art. D334-24 (V)
+	  - Code de l'éducation - art. D421-143-1 (V)
+
+
+###### Article D334-24
+
+Le baccalauréat binational est créé par arrêté du ministre chargé de l'éducation, à la suite d'un accord passé avec le
+partenaire étranger. Cet arrêté précise les éventuelles dérogations aux articles D. 334-4, D. 334-5, 
+D. 334-18 et D. 334-19 du code. Elles peuvent porter sur la liste, la nature, la durée et le coefficient des épreuves, sur la
+composition du second groupe d'épreuves, sur les contenus pédagogiques sur lesquels portent les épreuves, sur la liste des
+épreuves qui doivent être subies par anticipation, sur l'autorité procédant à la sélection des sujets des épreuves écrites et
+sur l'existence et l'organisation de la session de remplacement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1012 du 1er octobre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-18
+	  - Code de l'éducation - art. D334-4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-135 (V)
+	  - Code de l'éducation - art. D421-143-1 (V)
 
 
 #### Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.
@@ -80453,14 +80502,14 @@ les classes considérées, sous réserve des aménagements nécessaires à la r�
 Dans les écoles, ces aménagements peuvent porter sur l'ensemble des disciplines à la condition que les horaires minimaux de
 chaque domaine d'enseignement soient respectés. 
 
-Dans les collèges, ces aménagements portent sur les programmes d'histoire, de géographie et d'éducation civique assurés
-partiellement en français et partiellement en langue étrangère. Un enseignement complémentaire de lettres étrangères
-s'ajoute, à raison de quatre heures par semaine, aux horaires normaux d'enseignement. 
+Dans les collèges, ces aménagements portent sur une discipline non linguistique dont l'enseignement est assuré partiellement
+en français et partiellement en langue étrangère. Un enseignement complémentaire de lettres étrangères s'ajoute, à raison de
+quatre heures par semaine, aux horaires normaux d'enseignement. 
 
 Dans les lycées, ces aménagements portent sur les programmes d'une ou deux disciplines non linguistiques dont les
-enseignements sont assurés partiellement ou en totalité en langue étrangère. La ou les disciplines concernées et les
-modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont fixées par arrêté du ministre
-chargé de l'éducation, après concertation avec le pays partenaire. 
+enseignements sont assurés partiellement ou en totalité en langue étrangère. Dans les collèges et les lycées, la ou les
+disciplines concernées et les modalités de leur enseignement (horaire, quotité horaire enseignée en langue étrangère) sont
+fixées par arrêté du ministre chargé de l'éducation, après concertation avec le pays partenaire. 
 
 Un enseignement complémentaire de lettres étrangères d'une durée d'au moins quatre heures par semaine s'ajoute aux horaires
 normaux d'enseignement, sous réserve d'aménagements à prévoir dans les lycées professionnels. 
@@ -80470,17 +80519,9 @@ la mise à niveau en français des élèves étrangers et en langues étrangère
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°81-594 du 11 mai 1981 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-1012 du 1er octobre 2008 - art. 3
 
 	**Cite**:
 
@@ -80494,35 +80535,30 @@ national du brevet. Une attestation de scolarité effectuée dans la section com
 acquises dans la langue de la section, appréciés au regard du cadre commun de référence pour les langues prévu à l'article D.
 312-16, est délivrée aux élèves qui en font la demande, s'ils quittent le collège avant la fin de leur scolarité. 
 
-Ils sont pris en compte pour le baccalauréat de l'enseignement du second degré conformément aux dispositions du chapitre IV,
-des sections 1 à 3 du chapitre VI et de la section 3 du chapitre VII du titre III du livre III, soit sous la forme d'une
-option internationale dont les épreuves sont fixées par arrêté du ministre chargé de l'éducation, soit sous la forme d'un
-baccalauréat binational, en fonction des accords conclus avec les pays partenaires. Cette prise en compte peut se faire dans
-le cadre de modalités dérogatoires prévues au dernier alinéa de l'article D. 334-6 et aux articles D. 334-8, D. 334-10, D.
-334-14 et D. 334-19, précisées par arrêté du ministre.
+En fonction des accords conclus avec les pays partenaires, les enseignements spécifiques dispensés dans les sections
+internationales sont pris en compte pour le baccalauréat général soit sous la forme d'une option internationale, soit sous la
+forme d'un baccalauréat binational. 
+
+Pour l'option internationale du baccalauréat, ces enseignements spécifiques peuvent être pris en compte dans le cadre de
+modalités dérogatoires prévues au dernier alinéa de l'article D. 334-6 et aux articles D. 334-8, D. 334-10, D. 334-14 et D.
+334-19, précisées par arrêté du ministre. Les épreuves du baccalauréat option internationale sont fixées par arrêté du
+ministre chargé de l'éducation. 
+
+Les épreuves du baccalauréat binational sont arrêtées conformément aux dispositions des articles D. 334-24 et D. 334-25 du
+code.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°81-594 du 11 mai 1981 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2008-1012 du 1er octobre 2008 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D312-16 (V)
-	  - Code de l'éducation - art. D334-10 (V)
-	  - Code de l'éducation - art. D334-14 (V)
-	  - Code de l'éducation - art. D334-19 (V)
-	  - Code de l'éducation - art. D334-6 (V)
-	  - Code de l'éducation - art. D334-8 (V)
+	  - Code de l'éducation - art. D312-16
+	  - Code de l'éducation - art. D334-19
+	  - Code de l'éducation - art. D334-24
+	  - Code de l'éducation - art. D334-8
 
 
 ###### Article D421-136
