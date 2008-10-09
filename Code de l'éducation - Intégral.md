@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-10-04
+Version Consolidée au 2008-10-10
 
 # Partie législative
 
@@ -35732,6 +35732,42 @@ dramatique dont la responsabilité et la charge incombent entièrement à l'Etat
 	**Cite**:
 
 	  - Code de l'éducation - art. L216-2 (V)
+
+
+###### Article D211-13-1
+
+En application de l'article L. 216-3, les établissements d'enseignement public des arts plastiques dont la responsabilité et
+la charge incombent entièrement à l'Etat sont les suivants : 
+
+Ecole nationale supérieure des arts décoratifs ; 
+
+Ecole nationale supérieure des beaux-arts ; 
+
+Ecole nationale supérieure de création industrielle ; 
+
+Ecole nationale supérieure de la photographie (Arles) ; 
+
+Ecole nationale supérieure d'art de Bourges ; 
+
+Ecole nationale supérieure d'art de Cergy ; 
+
+Ecole nationale supérieure d'art de Dijon ; 
+
+Ecole nationale supérieure d'art de Limoges-Aubusson ; 
+
+Ecole nationale supérieure d'art de Nancy ; 
+
+Villa Arson (Nice).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1027 du 7 octobre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L216-3
 
 
 ##### Section 4 : Liste des dépenses pédagogiques à la charge de l'Etat.
