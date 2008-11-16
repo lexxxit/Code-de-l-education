@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-10-10
+Version Consolidée au 2008-11-17
 
 # Partie législative
 
@@ -40596,30 +40596,26 @@ Les décisions du conseil statuant en matière disciplinaire ou contentieuse son
 
 ###### Article R231-26
 
-Les décisions sont signées par le président et le secrétaire.
+Les décisions sont prononcées en séance publique ; elles sont signées par le président et le secrétaire.
 
 La décision est notifiée au ministre et aux parties à l'instance. Copie de la décision est adressée au recteur d'académie.
 Les décisions en matière contentieuse et en matière disciplinaire sont publiées au Bulletin officiel du ministère de
-l'éducation nationale.
-
-Toutefois, en matière disciplinaire, mention n'est faite au Bulletin du nom des parties que dans le cas où la peine prononcée
-est l'interdiction absolue d'enseigner ou de diriger.
+l'éducation nationale. En matière disciplinaire, elles le sont sous forme anonyme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-468 1990-06-07 art. 25 alinéa 2, article 26
 	  - Décret n°90-468 du 7 juin 1990 - art. 25 (Ab)
 	  - Décret n°90-468 du 7 juin 1990 - art. 26 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2007-1346 du 12 septembre 2007 - art. 3 () JORF 14 septembre 2007
+	  - Décret n°2008-1183 du 14 novembre 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-856 du 13 juillet 2015 - art. 1
 
 
 ##### Sous-section 2 : Relèvement des exclusions, déchéances et incapacités.
@@ -40775,18 +40771,19 @@ déchéances qui avaient pu en résulter.
 
 ###### Article R231-33
 
-La décision du Conseil supérieur de l'éducation est notifiée par les soins du ministre à l'intéressé et, si le relèvement est
-accordé, elle est insérée au Bulletin officiel du ministère de l'éducation nationale.
+La décision du Conseil supérieur de l'éducation est prononcée en séance publique ; elle est notifiée par les soins du
+ministre à l'intéressé et, si le relèvement est accordé, elle est insérée au Bulletin officiel du ministère de l'éducation
+nationale sous forme anonyme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1909-02-24 art. 7
+	  - Décret n°2008-1183 du 14 novembre 2008 - art. 2
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2015-856 du 13 juillet 2015 - art. 1
 
 
 #### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche
@@ -42057,28 +42054,17 @@ tutelle.
 
 ###### Article R232-42
 
-Les décisions sont publiées au Bulletin officiel du ministère de l'éducation nationale. Toutefois, il n'est fait mention de
-l'identité de la personne sanctionnée et, s'il s'agit d'un usager, de sa date de naissance que lorsque la sanction prononcée
-est la révocation, l'interdiction définitive ou temporaire d'exercer toutes fonctions d'enseignement ou de recherche ou
-certaines d'entre elles dans tout établissement public d'enseignement supérieur, l'exclusion définitive ou temporaire de tout
-établissement public d'enseignement supérieur ou l'une des sanctions mentionnées aux 2°, 3° et 4° de l'article 41 du décret
-n° 92-657 du 13 juillet 1992 cité à l'article R. 232-33.
+Les décisions sont publiées au Bulletin officiel du ministère de l'éducation nationale sous forme anonyme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-1011 1990-11-14 art. 16, alinéa 5
 	  - Décret n°90-1011 du 14 novembre 1990 - art. 16 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°92-657 1992-07-13 art. 41
-	  - Code de l'éducation - art. R232-33 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2008-1183 du 14 novembre 2008 - art. 3
 
 
 ###### Article R232-43
@@ -42211,18 +42197,17 @@ président de la section disciplinaire du conseil d'administration de l'établis
 l'avis avait été sollicité.
 
 Les décisions portant relèvement d'exclusions, déchéances et incapacités sont publiées au Bulletin officiel du ministère de
-l'éducation nationale.
+l'éducation nationale sous forme anonyme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-1011 1990-11-14 art. 21
 	  - Décret n°90-1011 du 14 novembre 1990 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2008-1183 du 14 novembre 2008 - art. 4
 
 
 #### Chapitre III : La Conférence des chefs d'établissements publics à caractère scientifique, culturel et professionnel
