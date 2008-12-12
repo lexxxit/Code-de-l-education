@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-11-23
+Version Consolidée au 2008-12-13
 
 # Partie législative
 
@@ -366,7 +366,7 @@ jugeraient utile.
 	  - Code de l'action sociale et des familles - art. L241-6 (V)
 
 
-###### Article L112-2-2
+###### Article L112-3
 
 Dans l'éducation et le parcours scolaire des jeunes sourds, la liberté de choix entre une communication bilingue, langue des
 signes et langue française, et une communication en langue française est de droit. Un décret en Conseil d'Etat fixe, d'une
@@ -376,46 +376,18 @@ choix.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
-
-	**Cité par**:
-
-	  - Décret n°2006-509 du 3 mai 2006 - art. 1 (Ab)
-	  - Code de l'éducation - art. R112-3 (V)
-	  - Code de l'éducation - art. R351-21 (V)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. L112-3 (V)
-
-
-###### Article L112-3
-
-L'éducation spéciale associe des actions pédagogiques, psychologiques, sociales, médicales et paramédicales ; elle est
-assurée soit dans des établissements ordinaires, soit dans des établissements ou par des services spécialisés. L'éducation
-spéciale peut être entreprise avant et poursuivie après l'âge de la scolarité obligatoire.
-
-**Liens relatifs à cet article**
-
 	**Anciens textes**:
 
 	  - Loi n°75-534 du 30 juin 1975 - art. 4 (Ab)
+	  - Code de l'éducation - art. L112-2-2 (T)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+
+	**Modifié par**:
+
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -905,69 +877,37 @@ acquises.
 
 ###### Article L122-6
 
-Comme il est dit à l'article L. 115-1 du code du travail, dont les dispositions sont reproduites à l'article L. 337-4 du
-présent code, l'apprentissage est une forme d'éducation alternée, qui concourt aux objectifs éducatifs de la nation.
+Comme il est dit aux articles L. 6211-1 et L. 6211-2 du code du travail, l'apprentissage est une forme d'éducation alternée,
+qui concourt aux objectifs éducatifs de la nation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L337-4 (V)
-	  - Code du travail - art. L115-1 (Ab)
+	  - Code du travail - art. L6211-1 (V)
 
 
 ###### Article L122-7
 
-Les missions et les objectifs de la formation professionnelle continue dans le cadre de l'éducation permanente sont fixés par
-les dispositions de l'article L. 900-1 du code du travail, ci-après reproduites : 
-
-" Art.L. 900-1.-La formation professionnelle tout au long de la vie constitue une obligation nationale. Elle comporte une
-formation initiale et des formations ultérieures destinées aux adultes et aux jeunes déjà engagés dans la vie active ou qui
-s'y engagent. Ces formations ultérieures constituent la formation professionnelle continue. 
-
-La formation professionnelle continue a pour objet de favoriser l'insertion ou la réinsertion professionnelle des
-travailleurs, de permettre leur maintien dans l'emploi, de favoriser le développement de leurs compétences et l'accès aux
-différents niveaux de la qualification professionnelle, de contribuer au développement économique et culturel et à leur
-promotion sociale. 
-
-Elle vise également à permettre le retour à l'emploi des personnes qui ont interrompu leur activité professionnelle pour
-s'occuper de leurs enfants ou de leur conjoint ou ascendants en situation de dépendance.
-
-L'Etat, les collectivités locales, les établissements publics, les établissements d'enseignement publics et privés, les
-associations, les organisations professionnelles, syndicales et familiales, ainsi que les entreprises, concourent à
-l'assurer. 
-
-Toute personne engagée dans la vie active est en droit de faire valider les acquis de son expérience, notamment
-professionnelle, en vue de l'acquisition d'un diplôme, d'un titre à finalité professionnelle ou d'un certificat de
-qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une branche professionnelle,
-enregistrés dans le répertoire national des certifications professionnelles visé à l'article L. 335-6 du code de l'éducation.
-Lorsque la personne en cause est salariée, elle peut bénéficier d'un congé pour validation des acquis de l'expérience dans
-les conditions de durée prévues à l'article L. 931-22 et selon les modalités fixées aux articles L. 931-23, L. 931-25 et L.
-931-26 ainsi qu'aux premier et deuxième alinéas de l'article L. 931-24. Les conditions d'application de ces dispositions sont
-fixées par décret en Conseil d'Etat. "
+Les missions et les objectifs de la formation professionnelle tout au long de la vie sont fixés par les dispositions des
+articles L. 6111-1, L. 6111-2, L. 6311-1, L. 6411-1 et L. 6422-1 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2004-391 du 4 mai 2004 - art. 2 () JORF 5 mai 2004
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L335-6 (V)
-	  - Code du travail - art. L900-1 (Ab)
-	  - Code du travail - art. L931-22 (Ab)
-	  - Code du travail - art. L931-26 (Ab)
+	  - Code du travail - art. L6111-1 (V)
+	  - Code du travail - art. L6311-1 (V)
+	  - Code du travail - art. L6411-1 (V)
+	  - Code du travail - art. L6422-1 (V)
 
 
 ##### Chapitre III : Objectifs et missions de l'enseignement supérieur.
@@ -1290,12 +1230,18 @@ au débat des idées, au progrès de la recherche et à la rencontre des culture
 étudiants étrangers. Il soutient le développement des établissements français à l'étranger. Il concourt au développement de
 centres de formation et de recherche dans les pays qui le souhaitent. Les programmes de coopération qu'il met en oeuvre
 permettent notamment aux personnels français et étrangers d'acquérir une formation aux technologies nouvelles et à la
-pratique de la recherche scientifique.
+pratique de la recherche scientifique. 
 
 Dans le cadre défini par les pouvoirs publics, les établissements qui participent à ce service public passent des accords
 avec des institutions étrangères ou internationales, notamment avec les institutions d'enseignement supérieur des différents
-Etats et nouent des liens particuliers avec celles des Etats membres des Communautés européennes et avec les établissements
-étrangers qui assurent leurs enseignements partiellement ou entièrement en langue française.
+Etats et nouent des liens particuliers avec celles des Etats membres  de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen et avec les établissements étrangers qui assurent leurs enseignements partiellement
+ou entièrement en langue française.
+
+**Nota:**
+
+Ordonnance n° 2008-1304 du 11 décembre 2008 JORF du 12 décembre 2008 art. 2 : Les modifications induites par la présente
+ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -1303,10 +1249,9 @@ Etats et nouent des liens particuliers avec celles des Etats membres des Communa
 
 	  - Loi n°84-52 du 26 janvier 1984 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -4934,7 +4879,7 @@ l'expérience et contribue à assurer l'assistance aux candidats à la validatio
 
 Elle organise des actions destinées à répondre aux besoins d'apprentissage et de formation en favorisant un accès équilibré
 des femmes et des hommes aux différentes filières de formation. Elle veille en particulier à organiser des formations
-permettant d'acquérir une des qualifications mentionnées à l'article L. 900-3 du code du travail. 
+permettant d'acquérir une des qualifications mentionnées à l'article L. 6314-1 du code du travail. 
 
 Elle assure l'accueil en formation de la population résidant sur son territoire, ou dans une autre région si la formation
 désirée n'y est pas accessible. Dans ce dernier cas, une convention fixe les conditions de prise en charge de la formation
@@ -4944,13 +4889,7 @@ par les régions concernées.
 
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 82
 	  - Loi n°83-8 du 7 janvier 1983 - art. 82 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Cité par**:
 
@@ -4970,11 +4909,11 @@ par les régions concernées.
 
 	**Modifié par**:
 
-	  - Loi n°2006-340 du 23 mars 2006 - art. 27 () JORF 24 mars 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L900-3 (Ab)
+	  - Code du travail - art. L6314-1
 
 
 ###### Article L214-12-1
@@ -5010,7 +4949,7 @@ Il comporte des actions de formation et d'information destinées à favoriser le
 Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience. 
 
 Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales
-d'employeurs et de salariés représentatives à l'échelon national ainsi que l'institution mentionnée à l'article L. 311-7. 
+d'employeurs et de salariés représentatives à l'échelon national ainsi que l'institution mentionnée à l'article  L. 5312-1. 
 
 Il est approuvé par le conseil régional après consultation des conseils généraux, du conseil économique et social régional,
 des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture au niveau régional, du conseil
@@ -5062,8 +5001,8 @@ contrats d'objectifs.
 
 L'Etat, la région ou la collectivité territoriale de Corse, les chambres consulaires, une ou plusieurs organisations
 représentatives d'employeurs et de salariés peuvent également conclure des contrats d'objectifs et de moyens visant au
-développement de l'apprentissage conformément aux articles L. 6211-3, D6211-1 et D. 6211-2 du code du travail . Ces contrats
-peuvent prendre la forme d'une annexe aux contrats visés à l'alinéa précédent. 
+développement de l'apprentissage conformément à l'article L. 6211-3 du code du travail. Ces contrats peuvent prendre la forme
+d'une annexe aux contrats visés à l'alinéa précédent. 
 
 VI.-Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement un
 programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional de
@@ -5083,7 +5022,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -5134,10 +5073,9 @@ autres organismes de formation concernés.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1 (V)
-	  - Code rural - art. L811-1 (V)
-	  - Code rural - art. L814-2 (V)
-	  - Code du travail - art. L118-1 (Ab)
+	  - Code de l'éducation - art. L214-1
+	  - Code rural - art. L811-1
+	  - Code rural - art. L814-2
 	  - Code du travail - art. L311-7
 
 
@@ -7154,107 +7092,19 @@ d'élèves représentées au Conseil supérieur de l'éducation.
 
 ###### Article L237-1
 
-Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 910-1 et L.
-910-2 du code du travail, ci-après reproduites : 
-
-" Art.L. 910-1.-Il est créé un Conseil national de la formation professionnelle tout au long de la vie : ce conseil est
-chargé de favoriser, au plan national, la concertation entre les acteurs pour la conception des politiques de formation
-professionnelle et le suivi de leur mise en oeuvre, en liaison avec les comités de coordination régionaux de l'emploi et de
-la formation professionnelle. Il est chargé d'évaluer les politiques régionales d'apprentissage et de formation
-professionnelle tout au long de la vie. Il donne son avis sur la législation et la réglementation applicables en matière de
-formation professionnelle tout au long de la vie et d'apprentissage. 
-
-Il établit tous les ans un rapport sur l'utilisation des ressources financières soit collectées, soit affectées à la
-formation professionnelle tout au long de la vie ainsi qu'à l'apprentissage. Il assure ainsi un contrôle régulier de l'emploi
-de ces fonds. Il établit tous les trois ans un rapport d'évaluation des politiques régionales d'apprentissage et de formation
-tout au long de la vie. Ces rapports sont transmis au Parlement, aux conseils régionaux et aux comités de coordination
-régionaux de l'emploi et de la formation professionnelle. 
-
-Il est composé de représentants élus des conseils régionaux, de représentants de l'Etat et du Parlement et de représentants
-des organisations professionnelles et syndicales intéressées. Il comprend en outre, des personnes qualifiées en matière de
-formation professionnelle. 
-
-Les conditions de nomination des membres du conseil et l'exercice de ses missions, notamment de contrôle, ainsi que ses
-modalités de fonctionnement et de compte rendu de son activité, sont fixées par décret. 
-
-Sont institués des comités de coordination régionaux de l'emploi et de la formation professionnelle. 
-
-Dans chacune des régions d'outre-mer, le comité de coordination régional de l'emploi et de la formation professionnelle
-exerce l'ensemble des attributions dévolues au comité de coordination régional. 
-
-Le comité de coordination régional a pour mission de favoriser la concertation entre les divers acteurs afin d'assurer une
-meilleure coordination des politiques de formation professionnelle et d'emploi. Il est notamment chargé des fonctions de
-diagnostic, d'étude, de suivi et d'évaluation de ces politiques. 
-
-Il est composé de représentants :
-
-- de l'Etat dans la région ;
-
-- des assemblées régionales ;
-
-- des organisations syndicales de salariés et d'employeurs ainsi que des chambres régionales d'agriculture, de commerce et
-d'industrie et de métiers. 
-
-Il se dote des commissions nécessaires à son fonctionnement, notamment en matière d'information, d'orientation, de validation
-des acquis de l'expérience, de formation des demandeurs d'emploi et de formation en alternance, ainsi que d'un secrétariat
-permanent. 
-
-Le comité de coordination régional de l'emploi et de la formation professionnelle est présidé conjointement par le préfet de
-région et le président du conseil régional. 
-
-Les conditions d'organisation et de fonctionnement du comité sont établies par le préfet de région et le président du conseil
-régional qui fixent conjointement l'ordre du jour de ses réunions. 
-
-Le comité de coordination régional est informé chaque année, par les services compétents de l'Etat, du montant des sommes
-collectées au titre de la taxe d'apprentissage et de la contribution au financement des formations professionnelles en
-alternance, auprès des entreprises de la région, ainsi que de leurs affectations. Les organismes habilités à collecter dans
-la région des versements donnant lieu à exonération de la taxe d'apprentissage en application de l'article L. 118-2-4
-présentent chaque année au comité un rapport sur l'affectation des sommes ainsi collectées. 
-
-Dans la collectivité locale de Saint-Pierre-et-Miquelon, le comité de coordination de l'emploi et de la formation
-professionnelle exerce l'ensemble des attributions dévolues au comité de coordination régional de l'emploi et de la formation
-professionnelle. 
-
-Dans des conditions définies par décret, les comités de coordination régionaux de l'emploi et de la formation professionnelle
-sont consultés sur les programmes et les moyens mis en oeuvre dans chaque région par l'institution mentionnée à l'article L.
-311-7 du code du travail et par l'Association nationale pour la formation professionnelle des adultes. 
-
-Chaque comité régional est informé notamment des contrats de progrès quinquennaux conclus entre l'Etat et ces deux organismes
-et est consulté sur les projets de conventions tripartites à conclure entre l'Etat, la région et chacun de ces organismes en
-vue de l'adaptation de ces contrats de progrès à la situation particulière de la région. Il est consulté sur les projets
-d'investissement et les moyens d'intervention dont disposeront les services régionaux des mêmes organismes. En Corse, la
-collectivité territoriale de Corse est substituée à la région. Le comité de coordination régional de l'emploi et de la
-formation professionnelle est consulté sur les projets d'investissement et les moyens d'intervention dont disposent les
-services régionaux de l'institution mentionnée à l'article L. 311-7 du code du travail et de l'Association nationale pour la
-formation professionnelle des adultes, y compris pour cette dernière sur les programmes prévus à l'article L. 4424-34 du code
-général des collectivités territoriales. 
-
-Dans les régions d'outre-mer, les conventions tripartites mentionnées à l'alinéa précédent précisent les conditions dans
-lesquelles l'Association nationale pour la formation professionnelle des adultes apporte un concours technique aux
-interventions des associations régionales pour la formation professionnelle des adultes. 
-
-Les modalités d'organisation et de fonctionnement des comités mentionnés aux alinéas précédents sont déterminées par décret.
-" 
-
-" Art.L. 910-2.-(article abrogé).
-
-**Nota:**
-
-La date d'entrée en vigueur de l'ordonnance 2004-637 2004-07-01 a été modifiée par l'ordonnance 2005-727 2005-06-30 art. 3.
+Les institutions de la formation professionnelle sont organisées conformément aux dispositions des articles L. 6123-1 et L.
+6123-2 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-126 du 13 février 2008 - art. 14
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4424-34 (M)
-	  - Code de l'éducation L118-2-4
-	  - Code du travail - art. L311-7 (Ab)
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. L910-2 (M)
+	  - Code du travail - art. L6123-1 (V)
+	  - Code du travail - art. L6123-2 (V)
 
 
 ##### Chapitre VIII : Les instances consultatives en matière d'enseignement agricole
@@ -7808,49 +7658,18 @@ dans chaque académie.
 
 ###### Article L241-9
 
-L'inspection de l'apprentissage est organisée dans les conditions fixées par les dispositions de l'article L. 119-1 du code
-du travail, ci-après reproduites :
-
-" Art. L. 119-1. - L'inspection de l'apprentissage est assurée par des fonctionnaires des corps d'inspection à compétence
-pédagogique ou, dans le cas de l'enseignement supérieur, par des enseignants-chercheurs. Pour l'apprentissage agricole, elle
-est assurée par les inspecteurs de l'enseignement agricole ou, à défaut, par des fonctionnaires chargés d'inspection. Ces
-fonctionnaires sont commissionnés par le ministre chargé de l'éducation nationale ou par le ministre chargé de l'agriculture.
-Pour le secteur de la jeunesse et des sports, l'inspection de l'apprentissage est assurée par des inspecteurs de la jeunesse
-et des sports, commissionnés à cet effet par leur ministre.
-
-L'inspection de l'apprentissage peut être exercée conjointement, en tant que de besoin, par d'autres fonctionnaires,
-commissionnés en raison de leurs compétences techniques, qui relèvent de ministères exerçant une tutelle sur les
-établissements concernés.
-
-Un décret en Conseil d'Etat fixe les conditions spécifiques dans lesquelles les missions sont exercées, notamment en matière
-de contrôle de la formation dispensée aux apprentis, tant dans les centres de formation d'apprentis que sur les lieux de
-travail.
-
-Les inspecteurs de l'apprentissage relevant du ministère de l'éducation nationale en fonctions à la date de promulgation de
-la loi n° 87-572 du 23 juillet 1987 modifiant le titre Ier du livre Ier du code du travail et relative à l'apprentissage sont
-intégrés, à leur demande, dans le corps des inspecteurs de l'enseignement technique.
-
-Un décret fixe les conditions de cette intégration.
-
-Les inspecteurs du travail et de la main-d'oeuvre et les autres fonctionnaires dans la compétence desquels entre le contrôle
-de l'application de la législation du travail et des lois sociales sont chargés, concurremment avec les officiers de police
-judiciaire, de constater les infractions aux dispositions du présent titre et des textes pris pour son exécution. "
+L'inspection de l'apprentissage est organisée dans les conditions fixées par les dispositions de l'article L. 6251-1 du code
+du travail.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°87-572 1987-07-23
-	  - Code du travail - art. L119-1 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-841 du 26 juillet 2005 - art. 27 () JORF 27 juillet 2005
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L6251-1 (V)
 
 
 ###### Article L241-10
@@ -9104,34 +8923,31 @@ d'autres intervenants extérieurs.
 ###### Article L313-1
 
 Le droit au conseil en orientation et à l'information sur les enseignements, sur l'obtention d'une qualification
-professionnelle sanctionnée dans les conditions définies à l'article L. 115-1 du code du travail, sur les professions ainsi
+professionnelle sanctionnée dans les conditions définies à l'article L. 6211-1 du code du travail, sur les professions ainsi
 que sur les débouchés et les perspectives professionnels fait partie du droit à l'éducation.
 
 L'orientation et les formations proposées aux élèves tiennent compte de leurs aspirations, de leurs aptitudes et des
-perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement du territoire.
+perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement du territoire. 
 
 Dans ce cadre, les élèves élaborent leur projet d'orientation scolaire et professionnelle avec l'aide des parents, des
 enseignants, des personnels d'orientation et des autres professionnels compétents. Les administrations concernées, les
 collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent.
 
+**Nota:**
+
+Ordonnance n° 2008-1304 du 11 décembre 2008 JORF du 12 décembre 2008 art. 2 : Les modifications induites par la présente
+ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 du 10 juillet 1989 - art. 1, v. init.
-	  - Loi n°89-486 du 10 juillet 1989 - art. 8 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 1 (Ab)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 8 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 21 () JORF 24 avril 2005
-	  - Loi n°2005-380 du 23 avril 2005 - art. 23 () JORF 24 avril 2005
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -9145,7 +8961,7 @@ collectivités territoriales, les organisations professionnelles, les entreprise
 
 	**Cite**:
 
-	  - Code du travail - art. L115-1 (M)
+	  - Code du travail - art. L6211-1
 
 
 ###### Article L313-2
@@ -9608,50 +9424,39 @@ Elles sont obligatoires dans les enseignements conduisant à un diplôme technol
 ###### Article L331-5
 
 Les conditions dans lesquelles les élèves peuvent effectuer des périodes de formation en alternance dans les entreprises sont
-fixées par les dispositions de l'article L. 211-1 du code du travail, ci-après reproduites :
+fixées par les dispositions des articles L. 4153-1, L. 4153-2 et L. 4153-3 du code du travail, ci-après reproduites : 
 
-"Art. L. 211-1. - I. - Sous réserve des dispositions de la deuxième phrase de l'article L. 117-3, les mineurs de moins de
-seize ans ne peuvent être admis ou employés dans les établissements et professions mentionnés au premier alinéa de l'article
-L. 200-1 que dans les cas suivants :
+Art. L. 4153-1.-Il est interdit d'employer des travailleurs de moins de seize ans, sauf s'il s'agit : 
 
-1° Les élèves de l'enseignement général peuvent faire des visites d'information organisées par leurs enseignants ou, durant
-les deux dernières années de leur scolarité obligatoire, suivre des séquences d'observation selon des modalités déterminées
-par décret ;
+1° De mineurs de quinze ans et plus titulaires d'un contrat d'apprentissage, dans les conditions prévues à l'article L.
+6222-1 ; 
 
-2° Les élèves qui suivent un enseignement alterné ou un enseignement professionnel peuvent accomplir, durant les deux
-dernières années de leur scolarité obligatoire, des stages d'initiation, d'application ou des périodes de formation en milieu
-professionnel selon des modalités déterminées par décret.
+2° D'élèves de l'enseignement général lorsqu'ils font des visites d'information organisées par leurs enseignants ou, durant
+les deux dernières années de leur scolarité obligatoire, lorsqu'ils suivent des séquences d'observation et selon des
+modalités déterminées par décret ; 
 
-Dans tous les cas mentionnés ci-dessus, une convention est passée entre l'établissement d'enseignement dont relève l'élève et
-l'entreprise. Aucune convention ne peut être conclue avec une entreprise aux fins d'admettre ou d'employer un élève dans un
-établissement où il a été établi par les services de contrôle que les conditions de travail sont de nature à porter atteinte
-à la sécurité, à la santé ou à l'intégrité physique ou morale des personnes qui y sont présentes.
+3° D'élèves qui suivent un enseignement alterné ou un enseignement professionnel durant les deux dernières années de leur
+scolarité obligatoire, lorsqu'ils accomplissent des stages d'initiation, d'application ou des périodes de formation en milieu
+professionnel selon des modalités déterminées par décret. 
 
-Ces dispositions ne font pas obstacle à ce que ces mineurs, lorsqu'ils ont plus de quatorze ans, se livrent à des travaux
-adaptés à leur âge pendant leurs vacances scolaires, à condition que leur soit assuré un repos effectif d'une durée au moins
-égale à la moitié de chaque période de congés. Les employeurs sont tenus d'adresser une déclaration préalable à l'inspecteur
-du travail qui dispose d'un délai de huit jours pour s'y opposer.
+Art. L. 4153-2.-Dans les cas prévus aux 2° et 3° de l'article L. 4153-1, une convention est passée entre l'établissement
+d'enseignement dont relèvent l'élève et l'entreprise. 
 
-Les modalités d'application de l'alinéa précédent, notamment la nature des travaux, la durée de la période pendant laquelle
-ils peuvent être faits, les conditions dans lesquelles l'inspecteur du travail peut s'y opposer, ainsi que, en tant que de
-besoin, les conditions particulières dans lesquelles est assurée la couverture en matière de sécurité sociale des jeunes gens
-concernés par ledit alinéa, sont déterminées par décret.
+Aucune convention ne peut être conclue avec une entreprise pour l'admission ou l'emploi d'un élève dans un établissement
+lorsque les services de contrôle ont établi que les conditions de travail sont de nature à porter atteinte à la sécurité, à
+la santé ou à l'intégrité physique ou morale des personnes qui y sont présentes. 
 
-II. - Les dispositions prévues au I ci-dessus ne sont pas applicables dans les établissements mentionnés au deuxième alinéa
-de l'article L. 200-1, sous réserve qu'il s'agisse de travaux occasionnels ou de courte durée, qui ne puissent être
-considérés comme étant nuisibles, préjudiciables ou dangereux. Un décret en Conseil d'Etat fixe la liste des travaux
-considérés comme étant nuisibles, préjudiciables ou dangereux".
+Art. L. 4153-3.-Les dispositions de l'article L. 4153-1 ne font pas obstacle à ce que les mineurs de plus de quatorze ans
+soient autorisés pendant leurs vacances scolaires à exercer des travaux adaptés à leur âge, à condition de leur assurer un
+repos effectif d'une durée au moins égale à la moitié de chaque période de congés. 
+
+Les modalités d'application de ces dispositions sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance 2001-174 2001-02-22 art. 1 JORF 24 février 2001
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -9660,8 +9465,8 @@ considérés comme étant nuisibles, préjudiciables ou dangereux".
 
 	**Cite**:
 
-	  - Code de l'éducation L117-3, L200-1
-	  - Code du travail - art. L211-1 (M)
+	  - Code du travail - art. L4153-1 (V)
+	  - Code du travail - art. L6222-1 (V)
 
 
 ##### Section 3 : La pratique sportive de haut niveau.
@@ -11029,7 +10834,8 @@ acquises et peut prendre la forme d'unités capitalisables.
 
 Les établissements ou sections d'enseignement technologique et professionnel dispensant une formation à temps plein ont la
 responsabilité d'assurer, en liaison avec les milieux professionnels, l'apprentissage et la formation professionnelle
-continue selon les dispositions des livres Ier et IX du code du travail.
+continue selon les dispositions des livres II des première, deuxième et troisième parties ainsi que de la sixième partie du
+code du travail.
 
 **Liens relatifs à cet article**
 
@@ -11037,10 +10843,9 @@ continue selon les dispositions des livres Ier et IX du code du travail.
 
 	  - Loi n°71-577 du 16 juillet 1971 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 ###### Article L335-13
@@ -11167,9 +10972,9 @@ cas de récidive.
 
 Un certificat qualifié " crédit d'enseignement " peut être attribué aux titulaires des titres et diplômes d'enseignement
 technologique et professionnel en vue de leur donner la possibilité de reprendre des études d'un niveau supérieur, en
-bénéficiant des dispositions prévues par l'article L. 900-2 du code du travail pour l'organisation de la formation
-professionnelle continue dans le cadre de l'éducation permanente, en ce qui concerne les stages dits de " promotion
-professionnelle ".
+bénéficiant des dispositions prévues par les articles L. 6313-4, L. 6313-10 et L. 6313-11 du même code pour l'organisation de
+la formation professionnelle continue dans le cadre de l'éducation permanente, en ce qui concerne les stages dits de "
+promotion professionnelle ".
 
 **Liens relatifs à cet article**
 
@@ -11177,14 +10982,14 @@ professionnelle ".
 
 	  - Loi n°71-577 du 16 juillet 1971 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L900-2 (M)
+	  - Code du travail - art. L6313-10
+	  - Code du travail - art. L6313-4
 
 
 ##### Chapitre VI : Dispositions propres aux formations technologiques.
@@ -11324,32 +11129,32 @@ les professions.
 ###### Article L337-3
 
 Les élèves ayant atteint l'âge de quatorze ans peuvent être admis, sur leur demande et celle de leurs représentants légaux, à
-suivre une formation alternée, dénommée "formation d'apprenti junior", visant à l'obtention, par la voie de l'apprentissage,
-d'une qualification professionnelle dans les conditions prévues au titre Ier du livre Ier du code du travail. Cette formation
-comprend un parcours d'initiation aux métiers effectué sous statut scolaire dans un lycée professionnel ou un centre de
-formation d'apprentis, puis une formation en apprentissage.
+suivre une formation alternée, dénommée " formation d'apprenti junior ", visant à l'obtention, par la voie de
+l'apprentissage, d'une qualification professionnelle dans les conditions prévues au livre II de la sixième partie législative
+du code du travail. Cette formation comprend un parcours d'initiation aux métiers effectué sous statut scolaire dans un lycée
+professionnel ou un centre de formation d'apprentis, puis une formation en apprentissage. 
 
 Une fois l'admission à la formation acquise, l'équipe pédagogique élabore, en association avec l'élève et ses représentants
 légaux, un projet pédagogique personnalisé. Un tuteur, désigné au sein de l'équipe pédagogique, est chargé de son suivi. Il
 accompagne l'apprenti junior tout au long de sa formation, y compris lors des périodes en entreprise, en liaison avec le
-tuteur en entreprise ou le maître d'apprentissage.
+tuteur en entreprise ou le maître d'apprentissage. 
 
 Les élèves suivant une formation d'apprenti junior peuvent, à tout moment, après avis de l'équipe pédagogique et avec
 l'accord de leurs représentants légaux et jusqu'à la fin de la scolarité obligatoire mentionnée à l'article L. 131-1, mettre
 fin à cette formation et reprendre leur scolarité dans un collège, y compris leur collège d'origine, ou un établissement
-d'enseignement agricole ou maritime. A l'issue de la première période de formation, ils peuvent également demander à
+d'enseignement agricole ou maritime.A l'issue de la première période de formation, ils peuvent également demander à
 poursuivre le parcours d'initiation aux métiers si leur projet professionnel n'est pas suffisamment abouti pour leur
-permettre de signer un contrat d'apprentissage.
+permettre de signer un contrat d'apprentissage. 
 
 Le parcours d'initiation aux métiers comporte des enseignements généraux, des enseignements technologiques et pratiques et
-des stages en milieu professionnel, et ce dans plusieurs entreprises. L'ensemble de ces activités concourt à l'acquisition du
+des stages en milieu professionnel, et ce dans plusieurs entreprises.L'ensemble de ces activités concourt à l'acquisition du
 socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 et permet à l'élève de découvrir plusieurs
-métiers et de préparer son choix.
+métiers et de préparer son choix. 
 
 Les stages en milieu professionnel se déroulent dans les conditions prévues à l'article L. 331-5. Lorsque leur durée excède
 une durée minimale fixée par décret, ils donnent lieu au versement, par les entreprises au sein desquelles ils sont
 effectués, d'une gratification dont le montant est fixé par décret. Cette gratification, d'ordre financier, n'a pas le
-caractère d'un salaire au sens de l'article L. 140-2 du code du travail.
+caractère d'un salaire au sens de l'article L. 3221-3 du code du travail.
 
 L'élève stagiaire en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat
 d'apprentissage à partir de l'âge de quinze ans, à la condition qu'il soit jugé apte à poursuivre l'acquisition, par la voie
@@ -11358,7 +11163,7 @@ d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un t
 répertoire national des certifications professionnelles.
 
 L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est
-inscrite au plan régional de développement des formations professionnelles mentionné à l'article L. 214-13.
+inscrite au plan régional de développement des formations professionnelles mentionné à l'article L. 214-13. 
 
 Les dépenses de transport scolaire spécifiquement liées à la formation de l'apprenti junior sous statut scolaire donnent lieu
 à une compensation au département par l'Etat, dans des conditions fixées par décret.
@@ -11367,17 +11172,11 @@ Les dépenses de transport scolaire spécifiquement liées à la formation de l'
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 7 ter
 	  - Loi n°89-486 du 10 juillet 1989 - art. 7 ter (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 2 () JORF 2 avril 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11399,112 +11198,25 @@ Les dépenses de transport scolaire spécifiquement liées à la formation de l'
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L122-1-1 (V)
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L214-13 (M)
-	  - Code de l'éducation - art. L331-5 (M)
-	  - Code du travail - art. L140-2 (M)
+	  - Code de l'éducation - art. L122-1-1
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L214-13
+	  - Code de l'éducation - art. L331-5
+	  - Code du travail - art. L3221-3
 
 
 ###### Article L337-4
 
-L'apprentissage est organisé conformément aux dispositions des articles L. 115-1 et L. 115-2 du code du travail, ci-après
-reproduites :
-
-"Art. L. 115-1 - L'apprentissage concourt aux objectifs éducatifs de la nation.
-
-L'apprentissage est une forme d'éducation alternée. Il a pour but de donner à des jeunes travailleurs ayant satisfait à
-l'obligation scolaire une formation générale, théorique et pratique, en vue de l'obtention d'une qualification
-professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au répertoire nationale des
-certifications professionnelles, dans les conditions prévues à l'article L. 335-6 du code de l'éducation.
-
-L'apprentissage fait l'objet d'un contrat conclu entre un apprenti ou son représentant légal et un employeur. Il associe une
-formation dans une ou plusieurs entreprises, fondée sur l'exercice d'une ou plusieurs activités professionnelles en relation
-directe avec la qualification objet du contrat et, sous réserve des dispositions de l'article L. 116-1-1, des enseignements
-dispensés pendant le temps de travail dans un centre de formation d'apprentis. Le contenu des relations conventionnelles qui
-lient l'employeur et la ou les entreprises d'un Etat membre de la Communauté économique européenne susceptibles d'accueillir
-temporairement l'apprenti est fixé par le décret mentionné à l'article L. 119-4.
-
-Les enseignements mentionnés à l'alinéa précédent peuvent être également dispensés dans un établissement d'enseignement
-public ou privé sous contrat ou dans des établissements de formation et de recherche relevant d'autres ministères :
-
-1° Soit au sein d'une section d'apprentissage créée dans les conditions prévues par une convention, dont le contenu est fixé
-par décret, conclue entre cet établissement, toute personne morale visée au premier alinéa de l'article L. 116-2 et la
-région ;
-
-2° Soit au sein d'une unité de formation par apprentissage créée dans le cadre d'une convention dont le contenu est fixé par
-décret entre cet établissement et un centre de formation d'apprentis créé par convention selon les dispositions de l'article
-L. 116-2, notamment entre une région et une association constituée au niveau régional par une organisation professionnelle ou
-interprofessionnelle, une chambre régionale de métiers, une chambre régionale d'agriculture ou un groupement d'entreprises en
-vue de développer les formations en apprentissage. La création de cette association est subordonnée à un avis favorable
-motivé du comité de coordination régional de l'emploi et de la formation professionnelle.
-
-Les conventions mentionnées aux cinquième et sixième alinéas sont passées avec les établissements en application du plan
-régional de développement des formations professionnelles des jeunes mentionné à l'article L. 214-13 du code de l'éducation.
-
-Les dispositions du chapitre VI ci-dessous sont applicables à ces établissements à l'exception des articles L. 116-7 et L.
-116-8. Les articles L. 116-5 et L. 116-6 ne sont pas applicables aux personnels de l'Etat concourant à l'apprentissage dans
-ces établissements."
-
-"Art. L. 115-2 - La durée du contrat d'apprentissage est au moins égale à celle du cycle de formation qui fait l'objet du
-contrat. Elle peut varier, sous réserve des dispositions de l'article L. 117-9, entre un et trois ans ; elle est fixée dans
-les conditions prévues par le décret mentionné à l'article L. 119-4, en fonction du type de profession et du niveau de
-qualification préparés.
-
-Cette durée peut être adaptée pour tenir compte du niveau initial de compétence de l'apprenti. Elle est alors fixée par les
-cocontractants en fonction de l'évaluation des compétences et après autorisation du service de l'inspection de
-l'apprentissage compétent mentionné à l'article L. 119-1. Cette autorisation est réputée acquise lorsque le contrat
-d'apprentissage est conclu dans le cadre de la formation mentionnée à l'article L. 337-3 du code de l'éducation. Dans le cas
-de l'enseignement supérieur, l'autorisation du service de l'inspection de l'apprentissage est facultative si un avis
-favorable a été émis par le président d'université ou le chef d'établissement d'enseignement supérieur.
-
-L'évaluation des compétences mentionnée à l'alinéa précédent est obligatoire et préalable à la signature du contrat lorsque
-la date du début de l'apprentissage se situe en dehors de la période mentionnée à l'article L. 117-13.
-
-Par dérogation aux dispositions du premier alinéa, la durée du contrat peut varier entre six mois et un an lorsque la
-formation a pour objet l'acquisition d'un diplôme ou d'un titre :
-
-a) De même niveau et en rapport avec un premier diplôme ou titre obtenu dans le cadre d'un précédent contrat
-d'apprentissage ;
-
-b) De niveau inférieur à un diplôme ou titre déjà obtenu ;
-
-c) Dont une partie a été obtenue par la validation des acquis de l'expérience ;
-
-d) Dont la préparation a été commencée sous un autre statut.
-
-Dans ces cas, le nombre d'heures de formation dispensées dans les centres de formation d'apprentis ne peut être inférieur à
-celui prévu au premier alinéa de l'article L. 116-3 calculé au prorata de la durée du contrat.
-
-La durée du contrat peut être portée à quatre ans lorsque la qualité de travailleur handicapé est reconnue à l'apprenti dans
-les conditions prévues à l'article L. 323-10.
-
-Les modalités de prise en compte de la durée prévue au deuxième alinéa dans les conventions visées à l'article L. 116-2 sont
-arrêtées, après avis du comité de coordination régional de l'emploi et de la formation professionnelle, par le conseil
-régional lorsque celui-ci est signataire de la convention.
-
-En cas d'obtention du diplôme ou du titre de l'enseignement technologique préparé, le contrat peut prendre fin, à
-l'initiative du salarié, avant le terme fixé initialement, à la condition d'en avoir informé l'employeur par écrit au minimum
-deux mois auparavant.
-
-Tout jeune travailleur peut souscrire des contrats d'apprentissage successifs pour préparer des diplômes ou titres
-sanctionnant des qualifications différentes.
-
-Lorsque l'apprenti a déjà conclu deux contrats successifs de même niveau, il doit obtenir l'autorisation du directeur du
-dernier centre de formation d'apprentis qu'il a fréquenté pour conclure un troisième contrat d'apprentissage du même niveau.
-
-Il n'est exigé aucune condition de délai entre deux contrats."
+L'apprentissage est organisé conformément aux dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L.
+6222-7, L. 6222-8, L. 6222-9, L. 6222-10, 
+L. 6222-14, L. 6222-15, L. 6222-19, L. 6232-6, 
+L. 6232-8, L. 6232-9 et L. 6232-10 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 3 () JORF 2 avril 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -11512,15 +11224,14 @@ Il n'est exigé aucune condition de délai entre deux contrats."
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L337-3 (M)
-	  - Code du travail - art. L115-1 (M)
-	  - Code du travail - art. L115-2 (M)
-	  - Code du travail - art. L116-2 (M)
-	  - Code du travail - art. L116-3 (M)
-	  - Code du travail - art. L117-13 (M)
-	  - Code du travail - art. L117-9 (M)
-	  - Code du travail - art. L119-4 (M)
-	  - Code du travail - art. L323-10 (M)
+	  - Code du travail - art. L6211-1 (V)
+	  - Code du travail - art. L6211-5 (V)
+	  - Code du travail - art. L6221-1 (V)
+	  - Code du travail - art. L6222-14 (V)
+	  - Code du travail - art. L6222-19 (V)
+	  - Code du travail - art. L6222-7 (V)
+	  - Code du travail - art. L6232-6 (V)
+	  - Code du travail - art. L6232-8 (V)
 
 
 #### Titre IV : L'enseignement agricole et maritime
@@ -11871,9 +11582,10 @@ Ces assistants d'éducation bénéficient d'une formation spécifique leur perme
 
 L'Etat participe à la formation professionnelle et à l'apprentissage des jeunes handicapés :
 
-1° Soit en passant les conventions prévues par le titre II du livre IX du code du travail relatif à la formation
-professionnelle continue dans le cadre de l'éducation permanente et par le chapitre VI du titre Ier du livre Ier du code du
-travail relatif aux centres de formation d'apprentis ;
+1° Soit en passant les conventions prévues par les chapitres Ier à III du titre V du livre III de la sixième partie
+législative du code du travail relatif aux organismes de formation professionnelle continue et par le titre III et la section
+1 du chapitre II du titre V du livre II de la sixième partie législative du code du travail relatif aux centres de formation
+d'apprentis et sections d'apprentissage ;
 
 2° Soit en attribuant des aides spéciales au titre de leurs dépenses complémentaires de fonctionnement aux établissements
 spécialisés reconnus par le ministre chargé de l'agriculture.
@@ -11882,7 +11594,6 @@ spécialisés reconnus par le ministre chargé de l'agriculture.
 
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 5
 	  - Loi n°75-534 du 30 juin 1975 - art. 5 (Ab)
 
 	**Cité par**:
@@ -11893,10 +11604,9 @@ spécialisés reconnus par le ministre chargé de l'agriculture.
 	  - Code de la sécurité sociale. - art. L160-8 (V)
 	  - Code de la sécurité sociale. - art. L321-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 #### Titre VI : Les enseignements préparant aux professions artistiques et sportives
@@ -13123,26 +12833,20 @@ Les établissements ainsi que, pour les écoles primaires, les communes qui en o
 convention pour développer les missions de formation de ces établissements et écoles et pour mettre en commun, dans le
 respect de leurs compétences, leurs ressources humaines et matérielles.
 
-Les personnes recrutées par les établissements publics locaux d'enseignement dans le cadre d'un des contrats prévus à la
-section 1 du chapitre II du titre II du livre III du code du travail peuvent exercer leurs fonctions dans l'établissement qui
-les a recrutées, dans un ou plusieurs autres établissements ainsi que, compte tenu des besoins, dans une ou plusieurs écoles.
-Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement.
+Les personnes recrutées par les établissements publics locaux d'enseignement dans le cadre d'un des contrats prévus aux
+titres Ier à III du livre Ier de la cinquième partie législative du code du travail peuvent exercer leurs fonctions dans
+l'établissement qui les a recrutées, dans un ou plusieurs autres établissements ainsi que, compte tenu des besoins, dans une
+ou plusieurs écoles. Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 18 bis
 	  - Loi n°89-486 du 10 juillet 1989 - art. 18 bis (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2006-636 du 1 juin 2006 - art. 2 () JORF 2 juin 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -14259,117 +13963,24 @@ l'organisme professionnel.
 
 ###### Article L431-1
 
-Les centres de formation d'apprentis sont régis par les dispositions des articles L. 116-1 à L. 116-4, L. 116-7 et L. 116-8
-du code du travail, ci-après reproduites :
-
-Art. L. 116-1. - Les centres de formation d'apprentis dispensent aux jeunes travailleurs sous contrat d'apprentissage une
-formation générale. Celle-ci est associée à une formation technologique et pratique qui doit compléter la formation reçue en
-entreprise et s'articule avec elle.
-
-Ils doivent, parmi leurs missions, développer l'aptitude à tirer profit d'actions ultérieures de formation professionnelle ou
-à poursuivre des études par les voies de l'apprentissage, de l'enseignement professionnel ou technologique ou par toute autre
-voie.
-
-Art. L. 116-1-1. - Par dérogation aux dispositions de l'article L. 116-1 :
-
-Un centre de formation d'apprentis et une entreprise habilitée par l'inspection de l'apprentissage dans des conditions fixées
-par décret peuvent conclure une convention selon laquelle l'entreprise assure une partie des formations technologiques et
-pratiques normalement dispensées par le centre de formation d'apprentis ;
-
-Un centre de formation d'apprentis peut conclure, avec un ou plusieurs établissements d'enseignement publics ou privés sous
-contrat, ou des établissements d'enseignement technique ou professionnel reconnus ou agréés par l'Etat, ou des établissements
-habilités à délivrer un titre d'ingénieur diplômé, ou des établissements de formation et de recherche relevant de ministères
-autres que celui chargé de l'éducation nationale, une convention aux termes de laquelle ces établissements assurent tout ou
-partie des enseignements normalement dispensés par le centre de formation d'apprentis et mettent à disposition des
-équipements pédagogiques ou d'hébergement.
-
-Dans les cas visés aux alinéas ci-dessus, les centres de formation d'apprentis conservent la responsabilité administrative et
-pédagogique des enseignements dispensés.
-
-Art. L. 116-2. - La création des centres de formation d'apprentis fait l'objet de conventions conclues avec l'Etat, dans le
-cas des centres à recrutement national, ou conclues avec la région, dans tous les autres cas, par les organismes de formation
-gérés paritairement par les organisations professionnelles d'employeurs et les syndicats de salariés, les collectivités
-locales, les établissements publics, les chambres de commerce et d'industrie, les chambres des métiers, les chambres
-d'agriculture, les établissements d'enseignement privés sous contrat, les organisations professionnelles ou
-interprofessionnelles représentatives d'employeurs, les associations, les entreprises ou leurs groupements, ou toute autre
-personne physique ou morale.
-
-La demande de convention doit donner lieu à une décision dans un délai de six mois à compter du dépôt de la demande. En cas
-de réponse négative ou de dénonciation de la convention, la décision doit être motivée. Lorsque les conventions sont passées
-par l'Etat, la décision est prise après avis, émis dans des conditions définies par décret, du Conseil national de la
-formation professionnelle tout au long de la vie. Lorsque les conventions sont passées par la région, la décision est prise
-après avis du comité de coordination régional de l'emploi et de la formation professionnelle. Les mêmes procédures sont
-applicables en cas de dénonciation.
-
-Les avis du Conseil national de la formation professionnelle tout au long de la vie ou du comité de coordination régional de
-l'emploi et de la formation professionnelle portent notamment sur les garanties de tous ordres présentées par le projet et
-sur son intérêt eu égard aux besoins de la formation professionnelle dans la zone d'action considérée.
-
-Les conventions créant les centres de formation d'apprentis à recrutement national doivent être conformes à une convention
-type arrêtée conjointement par les ministres intéressés. Les conventions créant les autres centres doivent être conformes à
-une convention type établie par la région, sous réserve des clauses à caractère obligatoire fixées par le décret prévu à
-l'article L. 119-4. Les conventions types sont définies après avis, selon le cas, du Conseil national ou du comité régional
-mentionnés au deuxième alinéa ci-dessus. Les conventions créant les sections d'apprentissage mentionnées à l'article L. 115-1
-doivent être conformes à une convention type établie par la région, sous réserve des clauses à caractère obligatoire fixées
-par le décret prévu à l'article L. 119-4.
-
-Les conventions créant les centres de formation d'apprentis prévoient l'institution d'un conseil de perfectionnement dont la
-composition, le rôle et les attributions sont fixés par le décret prévu à l'article L. 119-4.
-
-Art. L. 116-3. - La durée de la formation dispensée dans les centres de formation d'apprentis est fixée par la convention
-prévue à l'article L. 116-2, sans pouvoir être inférieure à 400 heures par an en moyenne sur les années d'application du
-contrat. Elle tient compte des exigences propres à chaque niveau de qualification et des orientations prévues par les
-conventions ou les accords de branches nationaux ou régionaux visés à l'article L. 133-6 après avis, émis dans les conditions
-définies par décret, du Conseil national de la formation professionnelle tout au long de la vie.
-
-Pour les apprentis dont l'apprentissage a été prolongé en application des dispositions de l'article L. 117-9, l'horaire
-minimum est fixé par la convention prévue à l'article L. 116-2, sans pouvoir être inférieur à 240 heures par an en cas de
-prolongation de l'apprentissage pour une durée d'une année, ce minimum pouvant être réduit à due proportion dans l'hypothèse
-d'une prolongation d'une durée inférieure.
-
-Art. L. 116-4. - Les centres de formation d'apprentis sont soumis au contrôle pédagogique de l'Etat et au contrôle technique
-et financier de l'Etat pour les centres à recrutement national, de la région pour les autres centres.
-
-Si ces contrôles révèlent des insuffisances graves ou des manquements aux obligations résultant du présent code et des textes
-pris pour son application, ou de la convention, celle-ci peut être dénoncée par l'Etat ou la région après mise en demeure non
-suivie d'effet. Dans le cadre de ces contrôles, il est procédé à l'évaluation de l'application du premier alinéa de l'article
-L. 122-45 à l'occasion du recrutement des apprentis.
-
-Cette dénonciation entraîne la fermeture du centre. L'Etat ou la région peut imposer à l'organisme gestionnaire l'achèvement
-des formations en cours dans les conditions fixées par le décret prévu à l'article L. 119-4 ci-après.
-
-Le cas échéant, l'Etat ou la région peut désigner un administrateur provisoire chargé d'assurer, pour le compte de
-l'organisme gestionnaire, l'achèvement des formations en cours.
-
-Art. L. 116-7. - Il est interdit, sous les peines prévues à l'article L. 441-13 du code de l'éducation de donner le nom de
-centre de formation d'apprentis à un établissement qui ne fait pas l'objet d'une convention répondant aux règles posées par
-le présent chapitre.
-
-Est puni des mêmes peines, quiconque exerce des fonctions de direction, d'enseignement ou de formation dans un centre de
-formation d'apprentis, alors qu'il est sous le coup d'une des mesures de suspension ou d'interdiction prévues à l'article
-précédent.
-
-Art. L. 116-8. - Sous réserve de ce qui est dit à l'article précédent, les centres de formation d'apprentis ne sont pas
-soumis aux dispositions du titre IV du Livre IV du code de l'éducation.
+Les centres de formation d'apprentis sont régis par les dispositions des articles L. 6231-1 à L. 6231-4, L. 6232-1 à L.
+6232-5, L. 6232-7, L. 6232-11, L. 6233-8, L. 6233-9, L. 6234-1, L. 6234-2 et L. 6252-1 à L. 6252-3 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 5 () JORF 2 avril 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L441-13 (M)
-	  - Code de l'éducation L116-1, L910-1, L119-4, L115-1, L116-2, L133-6, L117-9, L441-13
-	  - Code du travail - art. L116-7 (AbD)
-	  - Code du travail - art. L116-8 (AbD)
-	  - Code du travail L116-1 à L116-4, L116-7, L116-8
+	  - Code du travail - art. L6231-1 (V)
+	  - Code du travail - art. L6232-1 (V)
+	  - Code du travail - art. L6232-11 (V)
+	  - Code du travail - art. L6232-7 (V)
+	  - Code du travail - art. L6233-8 (V)
+	  - Code du travail - art. L6234-1 (V)
+	  - Code du travail - art. L6252-1 (V)
 
 
 #### Titre IV : Les établissements d'enseignement privés
@@ -15014,7 +14625,7 @@ Les établissements d'enseignement privés peuvent demander à être intégrés 
 
 Les établissements d'enseignement privés du premier et du second degré peuvent demander à passer avec l'Etat un contrat
 d'association à l'enseignement public, s'ils répondent à un besoin scolaire reconnu qui doit être apprécié en fonction des
-principes énoncés aux articles L. 141-2, L. 151-1 et L. 442-1.
+principes énoncés aux articles L. 141-2, L. 151-1 et L. 442-1. 
 
 Le contrat d'association peut porter sur une partie ou sur la totalité des classes de l'établissement. Dans les classes
 faisant l'objet du contrat, l'enseignement est dispensé selon les règles et programmes de l'enseignement public. Il est
@@ -15022,19 +14633,20 @@ confié, en accord avec la direction de l'établissement, soit à des maîtres d
 à l'Etat par contrat. Ces derniers, en leur qualité d'agent public, ne sont pas, au titre des fonctions pour lesquelles ils
 sont employés et rémunérés par l'Etat, liés par un contrat de travail à l'établissement au sein duquel l'enseignement leur
 est confié, dans le cadre de l'organisation arrêtée par le chef d'établissement, dans le respect du caractère propre de
-l'établissement et de la liberté de conscience des maîtres.
+l'établissement et de la liberté de conscience des maîtres. 
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent
-sont, pour l'application des articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en compte dans le
-calcul des effectifs de l'établissement, tel que prévu à l'article L. 620-10 du même code. Ils sont électeurs et éligibles
-pour les élections des délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail
-et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les
-rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que
-prévu à l'article L. 434-8 du même code, et la détermination du rapport entre la contribution aux institutions sociales et le
-montant global des salaires, mentionné à l'article L. 432-9 du même code.
+sont, pour l'application des articles L. 2141-11, L. 2312-8, L. 2322-6, L. 4611-1 à L. 4611-4 et L. 4611-6 du code du
+travail, pris en compte dans le calcul des effectifs de l'établissement, tel que prévu à l'article L. 1111-2 du même code.
+Ils sont électeurs et éligibles pour les élections des délégués du personnel et les élections au comité d'hygiène, de
+sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions
+prévues par le code du travail. Les rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de
+la masse salariale brute, tel que prévu aux articles L. 2325-12 et L. 2325-43 du même code, et la détermination du rapport
+entre la contribution aux institutions sociales et le montant global des salaires, mentionné à l'article L. 2323-86 du même
+code. 
 
 Les dépenses de fonctionnement des classes sous contrat sont prises en charge dans les mêmes conditions que celles des
-classes correspondantes de l'enseignement public.
+classes correspondantes de l'enseignement public. 
 
 Les établissements organisent librement toutes les activités extérieures au secteur sous contrat.
 
@@ -15043,15 +14655,6 @@ Les établissements organisent librement toutes les activités extérieures au s
 	**Anciens textes**:
 
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-5 du 5 janvier 2005 - art. 1 () JORF 6 janvier 2005 en vigueur le  1er septembre 2005
 
 	**Cité par**:
 
@@ -15066,7 +14669,6 @@ Les établissements organisent librement toutes les activités extérieures au s
 	  - Code de l'éducation - art. D314-11 (V)
 	  - Code de l'éducation - art. D314-19 (V)
 	  - Code de l'éducation - art. D331-46 (V)
-	  - Code de l'éducation - art. L442-1 (V)
 	  - Code de l'éducation - art. L442-13 (V)
 	  - Code de l'éducation - art. L442-13-1 (V)
 	  - Code de l'éducation - art. L442-14 (V)
@@ -15090,17 +14692,24 @@ Les établissements organisent librement toutes les activités extérieures au s
 	  - Code du travail applicable à Mayotte. - art. L322-63 (VD)
 	  - Code général des impôts, CGI. - art. 231 ter (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+
 	**Cite**:
 
 	  - Code de l'éducation - art. L141-2 (V)
 	  - Code de l'éducation - art. L151-1 (V)
-	  - Code du travail - art. L236-1 (M)
-	  - Code du travail - art. L412-5 (M)
-	  - Code du travail - art. L421-2 (M)
-	  - Code du travail - art. L431-2 (M)
-	  - Code du travail - art. L432-9 (T)
-	  - Code du travail - art. L434-8 (T)
-	  - Code du travail - art. L620-10 (Ab)
+	  - Code de l'éducation - art. L442-1 (V)
+	  - Code du travail - art. L1111-2 (V)
+	  - Code du travail - art. L2141-11 (V)
+	  - Code du travail - art. L2312-8 (V)
+	  - Code du travail - art. L2322-6 (V)
+	  - Code du travail - art. L2323-86 (V)
+	  - Code du travail - art. L2325-12 (V)
+	  - Code du travail - art. L2325-43 (V)
+	  - Code du travail - art. L4611-1 (V)
+	  - Code du travail - art. L4611-6 (V)
 
 
 ###### Article L442-6
@@ -15772,31 +15381,18 @@ l'agriculture. "
 
 ###### Article L443-1
 
-Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-6 du code de
+Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-5 du code de
 commerce sont soumises au régime des établissements visés à l'article L. 443-2.
-
-**Nota:**
-
-La référence à l'article L. 711-6 du code de commerce doit s'entendre depuis l'intervention de la loi n° 2005-882 du 2 août
-2005, dont l'article 62 a apporté diverses dispositions au code de commerce, comme une référence à l'article L. 711-5 du code
-de commerce dans sa version aujourd'hui en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de commerce. - art. L711-6 (M)
-	  - Code de l'éducation - art. L443-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'enseignement technique - art. 67 (Ab)
-	  - Loi n°1919-07-25 art. 10
+	  - Code de commerce - art. L443-2
 
 	**Cité par**:
 
@@ -16202,8 +15798,8 @@ d'enseigner ainsi que la fermeture de l'établissement.
 
 ###### Article L444-11
 
-Les organismes d'enseignement à distance privés peuvent bénéficier des conventions prévues à l'article L. 920-1 du code du
-travail dans les conditions fixées par le comité interministériel institué par l'article L. 910-1 de ce code.
+Les organismes d'enseignement à distance privés peuvent bénéficier des conventions prévues aux articles L. 6353-1 et L.
+6353-2 du code du travail. 
 
 Ils peuvent également bénéficier de subventions de collectivités territoriales ou d'établissements publics dans le cas où ils
 ont conclu des conventions du type de celles visées à l'alinéa précédent.
@@ -16215,15 +15811,13 @@ ont conclu des conventions du type de celles visées à l'alinéa précédent.
 	  - Loi n°71-556 du 12 juillet 1971 - art. 17 (Ab)
 	  - Loi n°71-556 du 12 juillet 1971 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L910-1 (M)
-	  - Code du travail - art. L920-1 (M)
+	  - Code du travail - art. L6353-1
 
 
 ##### Chapitre V : Les organismes de soutien scolaire
@@ -16257,6 +15851,19 @@ l'article 223-15-2 du code pénal.
 
 	  - Code pénal - art. 131-26 (V)
 	  - Code pénal - art. 223-15-2 (V)
+
+
+###### Article L445-2
+
+Des groupements d'intérêt public peuvent être créés pour apporter, en particulier par la création de dispositifs de réussite
+éducative, un soutien éducatif, culturel, social et sanitaire aux enfants relevant de l'enseignement du premier et du second
+degré.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 5
 
 
 #### Titre V : Les établissements français d'enseignement à l'étranger
@@ -17443,8 +17050,8 @@ développement de la sensibilité artistique.
 Pour chaque enfant à charge inscrit dans un collège public, un collège privé ayant passé avec l'Etat l'un des contrats prévus
 aux articles L. 442-5 et L. 442-12 du présent code ou dans un collège privé habilité à recevoir des boursiers nationaux, une
 bourse nationale de collège est attribuée aux familles dont les ressources ne dépassent pas un plafond variable selon le
-nombre d'enfants à charge et revalorisé comme le salaire minimum de croissance prévu par l'article L. 141-4 du code du
-travail.
+nombre d'enfants à charge et revalorisé comme le salaire minimum de croissance prévu par aux articles L. 3231-6 et L. 3231-7
+du code du travail. 
 
 Le montant de la bourse, qui varie en fonction des ressources de la famille, est fixé en pourcentage de la base mensuelle de
 calcul des prestations familiales mentionnée à l'article L. 551-1 du code de la sécurité sociale.
@@ -17453,13 +17060,11 @@ calcul des prestations familiales mentionnée à l'article L. 551-1 du code de l
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 10 bis
 	  - Loi n°89-486 du 10 juillet 1989 - art. 10 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -17470,10 +17075,10 @@ calcul des prestations familiales mentionnée à l'article L. 551-1 du code de l
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (M)
-	  - Code du travail - art. L141-4 (M)
-	  - Code de la sécurité sociale. - art. L551-1 (M)
+	  - Code de l'éducation - art. L442-12
+	  - Code de l'éducation - art. L442-5
+	  - Code du travail - art. L3231-6
+	  - Code de la sécurité sociale. - art. L551-1
 
 
 ###### Article L531-2
@@ -18212,26 +17817,13 @@ universitaires. Les statuts de ces unions et fédérations sont approuvés par d
 ###### Article L552-4
 
 Les associations sportives scolaires et les fédérations sportives scolaires sont soumises aux dispositions du code du sport
-et, en outre, par les dispositions du présent chapitre.
+et, en outre, aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°84-610 1984-07-16
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
 	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 art. 4 6° JORF 25 mai 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 #### Titre VI : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
@@ -19189,14 +18781,18 @@ Un décret en Conseil d'Etat fixe les conditions d'application de l'article L. 6
 
 ###### Article L613-5
 
-Les études, les expériences professionnelles, les acquis personnels peuvent être validés par un jury, dans des conditions
-définies par décret, en vue de l'accès aux différents niveaux de l'enseignement supérieur.
+Les études, les expériences professionnelles, les acquis personnels peuvent être validés, dans des conditions définies par
+décret, en vue de l'accès aux différents niveaux de l'enseignement supérieur.
+
+**Nota:**
+
+Ordonnance n° 2008-1304 du 11 décembre 2008 JORF du 12 décembre 2008 art. 2 : Les modifications induites par la présente
+ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 du 26 janvier 1984 - art. 5 (M)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 5 (Ab)
 
 	**Cité par**:
@@ -19218,14 +18814,9 @@ définies par décret, en vue de l'accès aux différents niveaux de l'enseignem
 	  - Code de l'éducation - art. L613-6 (M)
 	  - Code du sport. - art. R211-1-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 ###### Article L613-6
@@ -26396,21 +25987,14 @@ d'architecture relevant du ministre chargé de l'architecture après avis des co
 
 ###### Article L753-1
 
-Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-6 du code de
+Les écoles créées et administrées par les chambres de commerce et d'industrie en vertu de l'article L. 711-5 du code de
 commerce sont soumises au régime des établissements visés à l'article L. 443-2.
-
-**Nota:**
-
-La référence à l'article L. 711-6 du code de commerce doit s'entendre depuis l'intervention de la loi n° 2005-882 du 2 août
-2005, dont l'article 62 a apporté diverses dispositions au code de commerce, comme une référence à l'article L. 711-5 du code
-de commerce dans sa version aujourd'hui en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -26424,13 +26008,7 @@ de commerce dans sa version aujourd'hui en vigueur.
 
 	**Cite**:
 
-	  - Code de commerce. - art. L711-6 (M)
-	  - Code de l'éducation - art. L443-2 (V)
-
-	**Anciens textes**:
-
-	  - Code de l'enseignement technique - art. 67 (Ab)
-	  - Loi n°1919-07-25 art. 10
+	  - Code de l'éducation - art. L443-2
 
 
 ##### Chapitre V : Les écoles supérieures militaires.
@@ -28349,23 +27927,14 @@ universitaires mentionnées à l'article L. 552-3.
 
 ###### Article L841-4
 
-Les associations et fédérations sportives universitaires sont soumises aux dispositions du code du sport et, en outre, par
-les dispositions du présent chapitre.
+Les associations et fédérations sportives universitaires sont soumises aux dispositions du code du sport et, en outre, aux
+dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°84-610 1984-07-16
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 art. 4 8° JORF 25 mai 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 #### Titre V : Dispositions applicables dans les îles Wallis et Futuna, à Mayotte, en Polynésie française et en Nouvelle-Calédonie
@@ -28650,14 +28219,14 @@ leur concours aux enseignements artistiques dans des conditions fixées par déc
 Les établissements publics locaux d'enseignement peuvent confier, par des contrats à durée limitée et non renouvelables, la
 charge d'activités éducatives à des demandeurs d'emploi qui justifient d'un diplôme ou d'une expérience suffisante ; ces
 contrats, dénommés " contrats d'association à l'école ", sont des contrats de droit public ; ils sont conclus en priorité
-avec des personnes qui ont exercé des fonctions éducatives dans les écoles ou établissements d'enseignement.
+avec des personnes qui ont exercé des fonctions éducatives dans les écoles ou établissements d'enseignement. 
 
 La rémunération de ces activités est assurée par l'Etat ; elle peut être cumulée intégralement avec le revenu de remplacement
-prévu à l'article L. 351-2 du code du travail.
+prévu à l'article L. 5421-2 du code du travail. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article. Il précise notamment le type
 d'activités éducatives confiées aux titulaires des contrats et les conditions dans lesquelles les titulaires des contrats
-peuvent renoncer à l'exécution de ceux-ci.
+peuvent renoncer à l'exécution de ceux-ci. 
 
 Les dispositions du présent article s'appliquent aux formations, établissements et personnels relevant du ministre de
 l'agriculture, dans le respect des principes définis aux chapitres Ier et III du titre Ier du livre VIII du code rural.
@@ -28666,18 +28235,15 @@ l'agriculture, dans le respect des principes définis aux chapitres Ier et III d
 
 	**Anciens textes**:
 
-	  - Code rural L810-2
-	  - Loi n°95-836 1995-07-13 art. 4
 	  - Loi - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L351-2 (M)
+	  - Code du travail - art. L5421-2
 
 
 ###### Article L911-8
@@ -29241,27 +28807,28 @@ d'enseignement technique privé.
 Des assistants d'éducation peuvent être recrutés par les établissements d'enseignement mentionnés au chapitre II du titre Ier
 et au titre II du livre IV pour exercer des fonctions d'assistance à l'équipe éducative, fonctions en lien avec le projet
 d'établissement, notamment pour l'encadrement et la surveillance des élèves et l'aide à l'accueil et à l'intégration
-scolaires des élèves handicapés, y compris en dehors du temps scolaire.
+scolaires des élèves handicapés, y compris en dehors du temps scolaire. 
 
 Les assistants d'éducation qui remplissent des missions d'aide à l'accueil et à l'intégration scolaires des élèves handicapés
 bénéficient d'une formation spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en collaboration avec les
-associations d'aide aux familles d'enfants handicapés. A l'issue de leur contrat, les assistants d'éducation peuvent demander
-à faire valider l'expérience acquise dans les conditions définies par les articles L. 900-1 et L. 934-1 du code du travail.
+associations d'aide aux familles d'enfants handicapés.A l'issue de leur contrat, les assistants d'éducation peuvent demander
+à faire valider l'expérience acquise dans les conditions définies par les articles L. 2323-33, L. 6111-1, L. 6311-1, L.
+6411-1 et L. 6422-1 du code du travail. 
 
 Les assistants d'éducation peuvent exercer leurs fonctions dans l'établissement qui les a recrutés, dans un ou plusieurs
 autres établissements ainsi que, compte tenu des besoins appréciés par l'autorité administrative, dans une ou plusieurs
-écoles. Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement.
+écoles. Dans ce dernier cas, les directeurs d'école peuvent participer à la procédure de recrutement. 
 
 Les assistants d'éducation sont recrutés par des contrats d'une durée maximale de trois ans, renouvelables dans la limite
-d'une période d'engagement totale de six ans.
+d'une période d'engagement totale de six ans. 
 
-Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers.
+Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers. 
 
 Par dérogation au premier alinéa, des assistants d'éducation peuvent être recrutés par l'Etat pour exercer des fonctions
 d'aide à l'accueil et à l'intégration des élèves handicapés dans les conditions prévues à l'article L. 351-3, ainsi que pour
 exercer des fonctions d'accompagnement auprès des étudiants handicapés inscrits dans les établissements d'enseignement
 supérieur mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été reconnue
-nécessaire par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles.
+nécessaire par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles. 
 
 Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique paritaire
 ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de
@@ -29298,20 +28865,17 @@ loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à l
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 7
-	  - Code du travail - art. L900-1 (M)
-	  - Code du travail - art. L934-1 (T)
-	  - Code du travail - art. L970-1 (M)
-	  - Code de l'action sociale et des familles - art. L146-9 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 7
+	  - Code du travail - art. L2323-33
+	  - Code du travail - art. L6111-1
+	  - Code du travail - art. L6311-1
+	  - Code du travail - art. L6411-1
+	  - Code du travail - art. L6422-1
+	  - Code du travail - art. L970-1
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 20 () JORF 12 février 2005
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 
 ###### Article L916-2
@@ -29760,55 +29324,18 @@ autorisés à les compléter rétroactivement s'il y a lieu.
 
 ###### Article L936-1
 
-Les personnels des centres de formation d'apprentis sont régis par les dispositions des articles L. 116-5 et L. 116-6 du code
-du travail, ci-après reproduites :
-
-" Art. L. 116-5. - Les membres du personnel de direction, d'enseignement et d'encadrement des centres de formation
-d'apprentis devront posséder des qualifications définies selon des règles fixées par le décret prévu à l'article L. 119-4.
-Les personnels dispensant des enseignements techniques et pratiques sont tenus, dans des conditions et selon des modalités
-définies par décret, d'effectuer périodiquement des stages pratiques en entreprise.
-
-Les personnels mentionnés à l'alinéa ci-dessus, déjà en fonction dans les cours professionnels ou organismes de formation
-d'apprentis publics ou privés existants, qui ne satisferont pas aux règles définies ci-dessus mais aux qualifications exigées
-avant le 1er juillet 1972 seront admis à exercer leurs fonctions dans les centres de formation issus des cours
-professionnels. Ce droit leur sera conféré par le comité de coordination régional de l'emploi et de la formation
-profesionnelle, sous réserve, le cas échéant, d'avoir à accomplir un stage de recyclage et de perfectionnement pédagogique
-organisé sous le contrôle des ministères compétents.
-
-Des fonctionnaires et spécialement ceux des corps de l'enseignement public peuvent être détachés à temps plein dans des
-centres de formation d'apprentis. "
-
-" Art. L. 116-6. - En cas de faute ou d'insuffisance professionnelle, ces personnels sont passibles de sanctions prononcées
-par les organismes responsables des centres.
-
-Ils peuvent en outre être déférés par les autorités chargées d'exercer le contrôle technique et pédagogique de ces centres au
-comité de coordination régional de l'emploi et de la formation professionnelles qui peut prononcer contre eux, sous réserve
-d'appel devant le conseil supérieur de l'éducation, le blâme, la suspension à temps, l'interdiction d'exercer des fonctions
-dans les centres de formation d'apprentis.
-
-La procédure visée à l'alinéa précédent n'est applicable ni aux agents fonctionnaires de l'Etat, ni aux agents titulaires des
-collectivités territoriales, ni aux établissements publics. "
-
-**Nota:**
-
-La date d'entrée en vigueur de l'ordonnance n° 2004-637 a été modifiée par l'ordonnance n° 2005-727, art. 3.
+Les personnels des centres de formation d'apprentis sont régis par les dispositions des articles L. 6233-3 à L. 6233-7 du
+code du travail.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 19 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
+	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation L119-4
-	  - Code du travail - art. L116-5 (M)
-	  - Code du travail - art. L116-6 (AbD)
+	  - Code du travail - art. L6233-7 (V)
 
 
 #### Titre IV : Les personnels d'inspection et de direction
