@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2008-12-13
+Version Consolidée au 2008-12-21
 
 # Partie législative
 
@@ -47418,21 +47418,17 @@ décret n° 2006-1334 du 3 novembre 2006.
 
 ###### Article D251-1
 
-Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce toutes les attributions des inspecteurs d'académie des
-départements métropolitains.
+Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce les attributions dévolues aux inspecteurs d'académie,
+directeurs des services départementaux de l'éducation nationale.
 
-En outre, lui sont déléguées les compétences conférées en métropole aux recteurs en ce qui concerne les matières définies au
-présent chapitre.
+Les fonctions de chef du service de l'éducation de Saint-Pierre-et-Miquelon sont assurées par un fonctionnaire titulaire de
+catégorie A nommé par arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°78-514 1978-03-31 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
 
 	**Cité par**:
 
@@ -47441,144 +47437,22 @@ présent chapitre.
 
 ###### Article D251-2
 
-Les compétences rectorales qui ne sont pas déléguées au chef du service en vertu du présent chapitre sont exercées par le
-recteur de l'académie de Caen, dont il relève.
+Les compétences dévolues aux recteurs d'académie sont exercées par le recteur de l'académie de Caen, qui peut déléguer sa
+signature au chef du service de l'éducation.
 
 Le conseil académique de l'académie de Caen connaît des affaires intéressant la collectivité territoriale de Saint-Pierre-et-
 Miquelon et entrant dans sa compétence.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°78-514 1978-03-31 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 8 avril 2011 - art. 14 (VD)
 	  - Arrêté du 1er décembre 2011 - art. 14 (V)
-
-
-###### Article D251-3
-
-Délégation de pouvoir est donnée au chef du service de l'éducation en matière de nomination des maîtres auxiliaires, des
-maîtres d'internat et des surveillants d'externat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-514 1978-03-31 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
-
-
-###### Article D251-4
-
-Les attributions conférées aux recteurs pour l'application des dispositions statutaires régissant les instituteurs et les
-professeurs des écoles sont exercées à Saint-Pierre-et-Miquelon par le chef du service de l'éducation.
-
-Celui-ci arrête les listes d'aptitude aux fonctions de directeur d'école élémentaire ou maternelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-514 1978-03-31 art. 4, alinéas 1 et 2
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
-
-
-###### Article D251-5
-
-Les commissions chargées d'établir les listes d'aptitude aux emplois de directeur sont instituées auprès du chef du service
-de l'éducation de Saint-Pierre-et-Miquelon.
-
-Elles sont composées ainsi qu'il suit :
-
-1° Le chef du service, ou son représentant ;
-
-2° Un fonctionnaire de catégorie A relevant du ministère de l'éducation ;
-
-3° Un directeur d'école titulaire d'un emploi de direction de la catégorie correspondante.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-514 1978-03-31 art. 4, alinéas 3 à 7
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
-
-
-###### Article D251-6
-
-Délégation de pouvoir est donnée au chef du service de l'éducation à l'effet de prendre dans les matières énumérées ci-
-dessous les mesures relatives à l'organisation et au fonctionnement des établissements d'enseignement, à la vie scolaire et à
-l'aide de l'Etat aux élèves :
-
-1° Ouverture et fermeture des écoles et classes maternelles, écoles et classes élémentaires et implantation des emplois
-d'instituteur et de professeur des écoles mis à la disposition de la collectivité territoriale ;
-
-2° Approbation dans le cadre des crédits de subventions répartis entre les académies au titre de l'aide aux familles pour
-assurer la fréquentation scolaire obligatoire des propositions présentées par la collectivité territoriale en vue de
-l'attribution de bourses de demi-pension ou de pension complète à des parents d'élèves de l'enseignement élémentaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-514 1978-03-31 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
-
-
-###### Article D251-7
-
-Les attributions exercées par le recteur en matière d'ouverture et de contrôle des établissements d'enseignement privés et
-d'enseignement à distance et en matière de discipline des maîtres sont déléguées au chef du service de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-514 1978-03-31 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
 
 
 ###### Article D251-8
@@ -48619,6 +48493,36 @@ sont celles applicables à la commune dont relève la caisse.
 	**Codifié par**:
 
 	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+
+
+### Titre VII  : Dispositions relatives aux collectivités territoriales de Saint-Barthélemy et de Saint-  Martin.
+
+#### Chapitre unique : Dispositions relatives à l'organisation de l'administration des services de l'éducation nationale.
+
+###### Article D271-1
+
+A Saint-Barthélemy et à Saint-Martin, les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux
+recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont exercées par le
+recteur de l'académie de la Guadeloupe. Il est assisté par un adjoint, chef du service de l'éducation de Saint-Barthélemy et
+Saint-Martin, auquel il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1363 du 18 décembre 2008 - art. 2
+
+
+###### Article D271-2
+
+Les fonctions de chef du service de l'éducation de Saint-Barthélemy et Saint-Martin sont exercées par un fonctionnaire de
+catégorie A nommé par arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de l'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1363 du 18 décembre 2008 - art. 2
 
 
 ## Livre III : L'organisation des enseignements scolaires.
