@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-02-12
 
 # Partie législative
 
@@ -66409,22 +66409,27 @@ semaines.
 ###### Article D337-66
 
 Aucune durée de formation n'est exigée pour les candidats qui, en application de l'article R. 335-9, bénéficient d'unités
-obtenues au titre de la validation des acquis de l'expérience et souhaitent présenter la ou les épreuves complémentaires.
+obtenues au titre de la validation des acquis de l'expérience et souhaitent se présenter à l'épreuve ou aux épreuves
+correspondant à l'évaluation complémentaire prévue à cet article.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009  art. 23 : les présentes  dispositions sont applicables à compter de la session
+d'examen 2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 1995-05-09 art. 15 bis
 	  - Décret n°95-663 du 9 mai 1995 - art. 15 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 9
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R335-9 (V)
+	  - Code de l'éducation - art. R335-9
 
 
 ##### Sous-section 3 : Conditions de délivrance.
@@ -66505,14 +66510,19 @@ conditions fixées par les articles R. 335-5 à R. 335-11.
 
 ###### Article D337-68
 
-L'examen conduisant à la délivrance du diplôme du baccalauréat professionnel peut prendre deux formes :
+L'examen conduisant à la délivrance du diplôme du baccalauréat professionnel peut prendre deux formes : 
 
 1° Une forme globale dans laquelle le candidat présente l'ensemble des unités constitutives du diplôme au cours d'une même
-session, sous réserve des dispositions du quatrième alinéa de l'article D. 337-78 ;
+session, sous réserve des dispositions du sixième alinéa de l'article D. 337-78; 
 
 2° Une forme progressive dans laquelle le candidat choisit de ne présenter que certaines unités constitutives du diplôme au
 cours d'une même session. Dans ce cas, le règlement particulier du diplôme peut prévoir un ordre de présentation ou
 d'obtention des unités.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
@@ -66520,9 +66530,9 @@ d'obtention des unités.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 10
 
 	**Cité par**:
 
@@ -66531,27 +66541,39 @@ d'obtention des unités.
 
 ###### Article D337-69
 
-L'examen du baccalauréat professionnel est constitué de sept épreuves obligatoires. Il est organisé soit par combinaison
-entre épreuves ponctuelles et épreuves évaluées par contrôle en cours de formation, dans les conditions fixées aux articles
-D. 337-74 à D. 337-76, soit uniquement en épreuves ponctuelles dans les conditions fixées à l'article D. 337-77. Il prend en
-compte la formation en milieu professionnel.
+L'examen du baccalauréat professionnel comporte : 
 
-L'obtention d'une note supérieure ou égale à 10 sur 20 à une épreuve de l'examen donne lieu à la délivrance d'une ou
-plusieurs unités. Les notes et unités correspondantes sont valables cinq ans à compter de leur date d'obtention. Elles
-peuvent donner lieu à délivrance par le recteur d'attestations de réussite valables pour cette durée.
+1° Sept épreuves obligatoires et, le cas échéant, une épreuve facultative. A chaque épreuve correspondent une ou plusieurs
+unités constitutives. L'examen est organisé soit par combinaison entre épreuves ponctuelles et épreuves évaluées par contrôle
+en cours de formation, dans les conditions fixées aux articles D. 337-74 à D. 337-76, soit uniquement en épreuves ponctuelles
+dans les conditions fixées à l'article D. 337-77. Il prend en compte la formation en milieu professionnel. 
+
+Les notes égales ou supérieures à 10 sur 20 obtenues aux épreuves ou unités constitutives sont valables cinq ans à compter de
+leur date d'obtention. Elles peuvent donner lieu à délivrance par le recteur d'attestations de réussite valables pour cette
+durée. 
 
 Tout candidat peut présenter, à titre facultatif, une unité choisie parmi celles proposées, le cas échéant, par le règlement
 d'examen. Le bénéfice des points supérieurs à 10 sur 20 obtenus à l'épreuve validant cette unité peut être conservé pendant 5
-ans.
+ans. 
 
 Les unités constitutives du diplôme acquises au titre de la validation des acquis de l'expérience, dans les conditions
-prévues par l'article R. 335-9, sont valables 5 ans à compter de leur obtention.
+prévues par l'article R. 335-9, sont valables 5 ans à compter de leur obtention. 
+
+2° Une épreuve de contrôle organisée pour certains candidats dans les conditions prévues aux articles D. 337-78 et D. 337-79.
+Cette épreuve orale qui porte sur des connaissances et compétences générales et professionnelles est définie par arrêté du
+ministre chargé de l'éducation, par arrêté du ministre chargé de l'agriculture pour les baccalauréats mentionnés au deuxième
+alinéa de l'article D. 337-53 ou par arrêté du ministre chargé de la mer pour les baccalauréats mentionnés au troisième
+alinéa du même article.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 18 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 18 (Ab)
 
 	**Cité par**:
@@ -66599,14 +66621,14 @@ prévues par l'article R. 335-9, sont valables 5 ans à compter de leur obtentio
 	  - Code de l'éducation - art. D337-93 (V)
 	  - Code de l'éducation - art. D337-94 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 11
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R335-9 (V)
-	  - Code de l'éducation D337-74 à D337-76, D337-77, R335-9
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. R335-9
 
 
 ###### Article D337-70
@@ -66726,29 +66748,36 @@ totalité des épreuves ou unités du diplôme.
 
 ###### Article D337-74
 
-Les candidats préparant le baccalauréat professionnel par la voie scolaire dans un établissement public ou privé sous
-contrat, ou par la voie de la formation professionnelle continue dans un établissement public, ou bien par la voie de
-l'apprentissage dans un centre de formation d'apprentis ou une section d'apprentissage habilités par le recteur, passent
-l'examen en au moins trois épreuves évaluées par contrôle en cours de formation et en au moins une épreuve ponctuelle,
-conformément aux dispositions de l'article D. 337-82. Lorsque l'évaluation a lieu par épreuve ponctuelle, elle peut, pour
-partie, prendre en compte les résultats des travaux réalisés au cours de la formation, dans les conditions fixées par le
-règlement particulier du diplôme.
+Pour les candidats préparant le baccalauréat professionnel par la voie scolaire dans un établissement public ou privé sous
+contrat, ou par la voie de la formation professionnelle continue dans un établissement public autre que ceux mentionnés à
+l'alinéa suivant, ou bien par la voie de l'apprentissage dans un centre de formation d'apprentis ou une section
+d'apprentissage habilités par le recteur, trois au moins des épreuves obligatoires prévues au 1° de l'article D. 337-69 sont
+évaluées par contrôle en cours de formation et au moins une épreuve sous forme ponctuelle, conformément aux dispositions de
+l'article D. 337-82. Lorsque l'évaluation a lieu par épreuve ponctuelle, elle peut, pour partie, prendre en compte les
+résultats des travaux réalisés au cours de la formation, dans les conditions fixées par le règlement particulier du diplôme. 
 
 Les candidats préparant le diplôme par la voie de la formation professionnelle continue dans un établissement public habilité
-peuvent être évalués, pour l'ensemble des épreuves ou unités de l'examen, par contrôle en cours de formation. La demande
-d'habilitation de l'établissement précise s'il s'agit d'une évaluation par contrôle en cours de formation donnant lieu ou non
-à notation.
+à pratiquer intégralement le contrôle en cours de formation peuvent être évalués, pour l'ensemble des épreuves ou unités
+prévues au 1° de l'article D. 337-69, par contrôle en cours de formation. 
+
+Les conditions d'habilitation des centres de formation d'apprentis ou des sections d'apprentissage prévus au premier alinéa
+du présent article et celles d'habilitation des établissements publics mentionnés au deuxième alinéa sont fixées par arrêté
+du ministre chargé de l'éducation.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 1995-05-09 art. 23 alinéas 1 et 2
 	  - Décret n°95-663 du 9 mai 1995 - art. 23 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 12
 
 	**Cité par**:
 
@@ -66762,41 +66791,42 @@ d'habilitation de l'établissement précise s'il s'agit d'une évaluation par co
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-82 (V)
+	  - Code de l'éducation - art. D337-82
 
 
 ###### Article D337-76
 
-Les dispositions de l'article D. 337-71 s'appliquent aux candidats préparant par la voie de la formation professionnelle
-continue, dans des établissements privés habilités par le directeur régional de l'agriculture et de la forêt, les
-baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53.
+Les dispositions du premier alinéa de l'article D. 337-74 s'appliquent aux candidats préparant par la voie de la formation
+professionnelle continue, dans des établissements privés habilités par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt, les spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D.
+337-53. 
 
 Les conditions relatives à l'octroi et au retrait de l'habilitation des établissements à pratiquer le contrôle en cours de
-formation prévu par le présent article sont précisées par arrêté du ministre chargé de l'éducation.
+formation prévu par le présent article sont précisées par arrêté du ministre chargé de l'agriculture. 
 
 Pour les candidats préparant les spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D.
 337-53, les modalités de mise en oeuvre du contrôle en cours de formation sont précisées par un arrêté du ministre chargé de
-l'agriculture.
+l'agriculture. 
 
 Pour les candidats préparant les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D.
 337-53, les modalités de mise en oeuvre du contrôle en cours de formation sont précisées par un arrêté du ministre chargé de
-la marine marchande.
+la mer.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-663 1995-05-09 art. 23, alinéas 4 à 7
-	  - Décret n°95-663 du 9 mai 1995 - art. 23 (M)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 13
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
-	  - Code de l'éducation - art. D337-71 (V)
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. D337-74
 
 	**Cité par**:
 
@@ -66813,8 +66843,13 @@ Les candidats ayant préparé le baccalauréat professionnel par la voie scolair
 la voie de la formation professionnelle continue dans un établissement privé, ou par la voie de l'apprentissage dans un
 centre de formation d'apprentis ou une section d'apprentissage non habilités, les candidats ayant suivi une préparation par
 la voie de l'enseignement à distance, quel que soit leur statut, ainsi que les candidats qui se présentent au titre de leur
-expérience professionnelle en application du 2° de l'article D. 337-70, présentent l'examen intégralement sous forme
-d'épreuves ponctuelles.
+expérience professionnelle en application du 2° de l'article D. 337-70, passent l'ensemble des épreuves prévues au 1° de
+l'article D. 337-69 intégralement sous forme d'épreuves ponctuelles.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
@@ -66822,9 +66857,9 @@ d'épreuves ponctuelles.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 24 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 14
 
 	**Cité par**:
 
@@ -66832,35 +66867,52 @@ d'épreuves ponctuelles.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-70 (V)
+	  - Code de l'éducation - art. D337-70
 
 
 ###### Article D337-78
 
-Les candidats ayant préparé le baccalauréat professionnel par la voie scolaire ou par la voie de l'apprentissage présentent
-obligatoirement l'examen sous la forme globale, à l'issue de leur formation, sauf dérogation qui peut être accordée par le
-recteur pour les candidats relevant des dispositions du deuxième alinéa de l'article D. 337-58, de l'article D. 337-59 ou du
-deuxième alinéa de l'article D. 337-60.
+Les candidats ayant préparé le baccalauréat professionnel par la voie scolaire ou par la voie de l'apprentissage passent
+obligatoirement, à l'issue de leur formation, les épreuves prévues au 1° de l'article D. 337-69 sous la forme globale définie
+à l'article D. 337-68, sauf dérogation qui peut être accordée par le recteur pour les candidats relevant des dispositions de
+l'article D. 337-58 ou du troisième alinéa de l'article D. 337-60.
 
-Le diplôme est délivré aux candidats qui ont obtenu une moyenne générale supérieure ou égale à 10 sur 20 à l'ensemble des
-évaluations affectées de leur coefficient.
+Les points excédant 10 sur 20 obtenus à l'épreuve facultative sont pris en compte pour le calcul de la moyenne générale. 
 
-Les points excédant 10 obtenus à l'épreuve facultative sont pris en compte pour le calcul de la moyenne générale en vue de
-l'attribution du diplôme et d'une mention telle que définie au premier alinéa de l'article D. 337-86.
+Les candidats qui ont obtenu une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble des épreuves prévues au 1° de
+l'article D. 337-69 affectées de leur coefficient sont déclarés admis, après délibération du jury. 
+
+Les candidats dont la moyenne générale est inférieure à 8 sont déclarés ajournés. Ceux qui ont obtenu une moyenne générale au
+moins égale à 8 et inférieure à 10 sur 20 ainsi qu'une note au moins égale à 10 sur 20 à l'épreuve d'évaluation de la
+pratique professionnelle définie pour chaque spécialité de baccalauréat professionnel sont autorisés à se présenter à
+l'épreuve de contrôle prévue au 2° de l'article D. 337-69. 
+
+Peuvent également se présenter à l'épreuve de contrôle les candidats ayant obtenu une moyenne générale au moins égale à 8 et
+inférieure à 10 et qui bénéficient d'une dispense de l'ensemble des unités correspondant à l'épreuve d'évaluation de la
+pratique professionnelle, obtenue au titre des articles D. 337-71 et D. 337-72. 
+
+Les candidats qui ont obtenu une note au moins égale à 10 sur 20 à l'issue de l'épreuve de contrôle sont déclarés admis,
+après délibération du jury. Cette note est la moyenne entre la note obtenue à cette épreuve et la note moyenne obtenue aux
+épreuves prévues au 1° de l'article D. 337-69. 
 
 Les candidats ajournés à l'examen sont tenus, lorsqu'ils tentent à nouveau d'obtenir le diplôme considéré au titre de la voie
 scolaire ou de l'apprentissage, de le représenter sous la forme globale. Dans ce cas, ils conservent, à leur demande et dans
-les conditions précisées à l'article D. 337-69, le bénéfice des notes obtenues lorsqu'elles sont supérieures ou égales à 10
-sur 20 et présentent alors l'ensemble des unités non détenues.
+les conditions précisées à l'article D. 337-69, le bénéfice des notes obtenues aux épreuves ou unités prévues au 1° de
+l'article D. 337-69 lorsqu'elles sont supérieures ou égales à 10 sur 20 et présentent alors l'ensemble des unités non
+détenues. 
 
 Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau
 présentées.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 25 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 25 (Ab)
 
 	**Cité par**:
@@ -66926,16 +66978,16 @@ présentées.
 	  - Code de l'éducation - art. D337-81 (V)
 	  - Code de l'éducation - art. D337-94 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 15
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-58 (V)
-	  - Code de l'éducation - art. D337-59 (V)
-	  - Code de l'éducation - art. D337-60 (V)
-	  - Code de l'éducation - art. D337-86 (V)
+	  - Code de l'éducation - art. D337-58 (VT)
+	  - Code de l'éducation - art. D337-59
+	  - Code de l'éducation - art. D337-60 (VT)
+	  - Code de l'éducation - art. D337-71
 
 
 ###### Article D337-79
@@ -66944,33 +66996,42 @@ Les candidats ayant préparé le baccalauréat professionnel par la voie de la f
 présentent au titre de leur expérience professionnelle conformément aux dispositions du 2° de l'article D. 337-70 et les
 candidats ayant suivi une préparation par la voie de l'enseignement à distance, quel que soit leur statut, optent pour la
 forme d'examen globale ou progressive au moment de leur inscription à l'examen. Le choix de l'une ou l'autre de ces modalités
-est définitif.
+est définitif. 
 
 Les candidats ayant opté pour la forme globale relèvent des modalités de délivrance du diplôme définies à l'article D.
-337-78.
+337-78. 
 
 Les candidats ayant opté pour la forme progressive relèvent des modalités de délivrance du diplôme précisées aux alinéas
-suivants.
+suivants. 
 
 Les notes supérieures ou égales à 10 sur 20 sont, à la demande des candidats et dans les conditions précisées à l'article D.
-337-69, conservées en vue des sessions ultérieures.
+337-69, conservées en vue des sessions ultérieures. 
 
 Les notes inférieures à 10 sur 20 peuvent, à chaque session et au choix des candidats, soit être conservées et reportées dans
 la limite de cinq ans à compter de leur obtention, soit donner lieu à une nouvelle évaluation. Dans ce dernier cas, c'est la
-dernière note obtenue qui est prise en compte.
+dernière note obtenue qui est prise en compte. 
 
 Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau
-présentées.
+présentées, les points excédant 10, obtenus à l'épreuve facultative, étant pris en compte dans ce calcul. 
 
-Les points excédant 10, obtenus à l'épreuve facultative, sont pris en compte pour le calcul de la moyenne générale en vue de
-l'obtention du diplôme et de l'attribution d'une mention telle que définie au premier alinéa de l'article D. 337-86.
+Les candidats dont la moyenne générale, établie à l'issue de la dernière unité donnant droit à la délivrance du diplôme, est
+inférieure à 8 sont déclarés ajournés. Ceux qui ont obtenu une moyenne générale au moins égale à 8 et inférieure à 10 sur 20
+et une note au moins égale à 10 sur 20 à l'épreuve d'évaluation de la pratique professionnelle sont autorisés à se présenter
+à l'épreuve de contrôle prévue au 2° de l'article D. 337-69. 
+
+Sont déclarés admis, après délibération du jury, les candidats qui ont obtenu une note au moins égale à 10 sur 20 à l'issue
+de l'épreuve de contrôle. Cette note est la moyenne entre la note obtenue à cette épreuve et la note moyenne obtenue à
+l'issue de la dernière unité donnant droit à la délivrance du diplôme.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 1995-05-09 art. 26, alinéas 1 à 7
-	  - Décret n°95-663 du 9 mai 1995 - art. 26 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 26 (Ab)
 
 	**Cité par**:
@@ -66997,36 +67058,33 @@ l'obtention du diplôme et de l'attribution d'une mention telle que définie au 
 	  - Arrêté du 7 avril 2017 - art. 6 (V)
 	  - Code de l'éducation - art. D337-71 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 16
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-69 (V)
-	  - Code de l'éducation - art. D337-70 (V)
-	  - Code de l'éducation - art. D337-78 (V)
-	  - Code de l'éducation - art. D337-86 (V)
+	  - Code de l'éducation - art. D337-69
+	  - Code de l'éducation - art. D337-70
+	  - Code de l'éducation - art. D337-78
 
 
 ###### Article D337-80
 
 Le baccalauréat professionnel est délivré aux candidats qui ont présenté l'ensemble des unités constitutives du diplôme, à
 l'exception de celles dont ils ont été dispensés dans les conditions fixées aux articles D. 337-71 et D. 337-72, et qui ont
-obtenu une moyenne générale supérieure ou égale à 10 sur 20 à l'ensemble des évaluations affectées de leur coefficient.
+obtenu une moyenne générale supérieure ou égale à 10 sur 20 à l'ensemble des évaluations affectées de leur coefficient ou à
+l'issue de l'épreuve de contrôle prévue au 2° de l'article D. 337-69.
 
-Lorsque les évaluations par contrôle en cours de formation ne donnent pas lieu à notation pour les candidats mentionnés au
-deuxième alinéa de l'article D. 337-74, le baccalauréat professionnel est délivré à ceux qui ont présenté l'ensemble des
-unités constitutives du diplôme, à l'exception de celles dont ils ont été dispensés dans les conditions fixées aux articles
-D. 337-71 et D. 337-72 et que le jury a déclaré admis après avoir, compte tenu du règlement particulier du diplôme, apprécié
-globalement les résultats obtenus aux différentes unités.
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 1995-05-09 art. 26, alinéas 8 et 9
-	  - Décret n°95-663 du 9 mai 1995 - art. 26 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 26 (Ab)
 
 	**Cité par**:
@@ -67035,15 +67093,14 @@ globalement les résultats obtenus aux différentes unités.
 	  - Arrêté du 19 août 2005 - art. 7 (VT)
 	  - Code de l'éducation - art. D337-81 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 17
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-71 (V)
-	  - Code de l'éducation - art. D337-72 (V)
-	  - Code de l'éducation - art. D337-74 (V)
+	  - Code de l'éducation - art. D337-69
+	  - Code de l'éducation - art. D337-72
 
 
 ###### Article D337-81
@@ -67217,20 +67274,29 @@ de points est valable 5 ans.
 
 ###### Article D337-87
 
-Les candidats ajournés au baccalauréat professionnel reçoivent, s'ils ont obtenu pour l'ensemble des épreuves une moyenne
-générale au moins égale à 8 sur 20, un certificat de fin d'études professionnelles secondaires. Ce certificat est délivré par
-le recteur de l'académie dans laquelle a été présenté l'examen suivant des modalités fixées par arrêté.
+Les candidats ajournés au baccalauréat professionnel reçoivent, s'ils ont obtenu pour l'ensemble des épreuves mentionnées au
+1° de l'article D. 337-69 une moyenne générale au moins égale à 8 sur 20, un certificat de fin d'études professionnelles
+secondaires. Ce certificat est délivré par le recteur de l'académie dans laquelle a été présenté l'examen suivant des
+modalités fixées par arrêté.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 33 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 33 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 19
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-69
 
 	**Cité par**:
 
@@ -67325,13 +67391,18 @@ professionnel.
 
 ###### Article D337-91
 
-Les sujets des épreuves sont choisis par le ministre chargé de l'éducation ou, par délégation de celui-ci, par les recteurs.
+Les sujets des épreuves sont choisis par le ministre chargé de l'éducation ou, par délégation de celui-ci, par les recteurs. 
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, les sujets des épreuves sont
-choisis par le ministre chargé de l'agriculture.
+choisis par le ministre chargé de l'agriculture. 
 
 Pour les baccalauréats professionnels mentionnés au troisième alinéa de l'article D. 337-53, les sujets des épreuves sont
-choisis par le ministre chargé de la marine marchande.
+choisis par le ministre chargé de la mer.
+
+**Nota:**
+
+Décret n° 2009-145 du 10 février 2009 art. 23 : les présentes dispositions sont applicables à compter de la session d'examen
+2009.
 
 **Liens relatifs à cet article**
 
@@ -67339,13 +67410,13 @@ choisis par le ministre chargé de la marine marchande.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 37 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 20
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
+	  - Code de l'éducation - art. D337-53
 
 
 ###### Article D337-92
