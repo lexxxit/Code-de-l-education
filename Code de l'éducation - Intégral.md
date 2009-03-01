@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-02-12
+Version Consolidée au 2009-03-02
 
 # Partie législative
 
@@ -85096,29 +85096,26 @@ l'enseignement supérieur.
 ###### Article R426-2
 
 Le Centre national d'enseignement à distance dispense un enseignement et des formations à distance dans le cadre de la
-formation initiale et de la formation professionnelle tout au long de la vie.
+formation initiale et de la formation professionnelle tout au long de la vie. 
 
 Cet enseignement et ces formations sont assurés à tous les niveaux de l'enseignement scolaire et de l'enseignement supérieur
 dans le cadre de formations complètes ou particulières. En matière d'enseignement supérieur, le centre exerce ses missions en
-coopération avec les universités et les autres établissements d'enseignement supérieur.
+coopération avec les universités et les autres établissements d'enseignement supérieur. 
 
 Le centre favorise le développement, notamment à l'étranger, de cet enseignement et de ces formations ainsi que des
 techniques d'enseignement et de formation à distance. Il participe à la coopération européenne et internationale en la
-matière.
+matière. 
+
+Le Centre national d'enseignement à distance assure, pour le compte de l'Etat, le service public de l'enseignement à
+distance.A ce titre, il dispense un service d'enseignement à destination des élèves, notamment ceux qui relèvent de
+l'instruction obligatoire, ayant vocation à être accueillis dans un des établissements mentionnés aux articles L. 132-1 et L.
+132-2 et ne pouvant être scolarisés totalement ou partiellement dans un de ces établissements.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-602 du 25 avril 2002 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2009-238 du 27 février 2009 - art. 2
 
 	**Cité par**:
 
@@ -85126,6 +85123,39 @@ matière.
 	  - Arrêté du 13 janvier 2017 - art. 2
 	  - Code de l'éducation - art. R426-2-1 (VD)
 	  - Code de l'éducation - art. R426-20 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L132-1
+
+
+###### Article R426-2-1
+
+La décision d'inscription des élèves mentionnés au quatrième alinéa de l'article R. 426-2 est prise par le directeur général
+du centre au vu d'un dossier défini par arrêté du ministre chargé de l'éducation nationale et, en ce qui concerne les élèves
+relevant de l'instruction obligatoire, sur avis favorable de l'inspecteur d'académie, directeur des services départementaux
+de l'éducation nationale du département de résidence de l'élève. 
+
+Le recours administratif contre la décision de refus d'inscription s'exerce auprès du ministre chargé de l'éducation
+nationale. 
+
+Sauf en ce qui concerne les élèves relevant de l'instruction obligatoire, l'inscription peut donner lieu au paiement de
+droits. Ceux-ci ne peuvent excéder le coût résultant des charges spécifiques à l'enseignement à distance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-238 du 27 février 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 27 juillet 2009 - art. 1 (VD)
+	  - Code de l'éducation - art. R426-8 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R426-2
 
 
 ###### Article R426-3
@@ -85322,7 +85352,7 @@ délégation.
 ###### Article R426-8
 
 Les délibérations du conseil d'administration du Centre national d'enseignement à distance autres que celles mentionnées aux
-3°,4°,8° et 11° de l'article R. 426-7 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce
+3°, 4°, 8° et 11° de l'article R. 426-7 sont exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce
 délai, quinze jours après leur réception par les ministres chargés de l'éducation et de l'enseignement supérieur si l'un
 d'eux n'y a pas fait opposition dans ce délai. 
 
@@ -85334,26 +85364,20 @@ expresse des ministres chargés de l'éducation, de l'enseignement supérieur et
 
 Les délibérations portant sur le budget ou ses modifications ainsi que sur le compte financier sont approuvées par les mêmes
 ministres dans les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'État.
+certaines décisions financières des établissements publics de l'État. Il en est de même pour les délibérations portant sur
+les droits d'inscription mentionnés au troisième alinéa de l'article R. 426-2-1.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-	  - Code de l'éducation - art. R426-7 (V)
+	  - Décret n°99-575 du 8 juillet 1999
+	  - Code de l'éducation - art. R426-2-1
+	  - Code de l'éducation - art. R426-7
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-602 du 25 avril 2002 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2009-238 du 27 février 2009 - art. 4
 
 
 ###### Article R426-9
@@ -85698,21 +85722,18 @@ d'équipement et, d'une manière générale, toutes les dépenses nécessaires a
 ###### Article R426-20
 
 Le Centre national d'enseignement à distance met en place une comptabilité analytique qui distingue les activités
-commerciales des autres activités.
+commerciales des autres activités notamment celles qui sont organisées en application du quatrième alinéa de l'article R.
+426-2.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-602 du 25 avril 2002 - art. 19 (Ab)
+	  - Décret n°2009-238 du 27 février 2009 - art. 5
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Code de l'éducation - art. R426-2
 
 
 ###### Article R426-21
