@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-03-02
+Version Consolidée au 2009-04-05
 
 # Partie législative
 
@@ -72132,22 +72132,22 @@ présent code, le plus proche de son domicile. Cette école ou cet établissemen
 Le parcours de formation de l'élève s'effectue en priorité en milieu scolaire ordinaire, dans son établissement scolaire de
 référence ou, le cas échéant, dans une autre école ou un autre des établissements scolaires mentionnés au premier alinéa de
 l'article L. 351-1 du présent code où l'élève est inscrit si son projet personnalisé de scolarisation, mentionné à l'article
-D. 351-5 du présent code, rend nécessaire le recours à un dispositif adapté.
+D. 351-5 du présent code, rend nécessaire le recours à un dispositif adapté. 
 
 L'élève reste inscrit dans son établissement scolaire de référence s'il est contraint d'interrompre momentanément sa
 scolarité en raison de son état de santé et de recevoir un enseignement à domicile, en ayant recours, si besoin, à des
-modalités aménagées d'enseignement à distance.
+modalités aménagées d'enseignement à distance. 
 
 Il reste également inscrit dans son établissement scolaire de référence lorsqu'il est accueilli dans l'un des établissements
-mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou dans l'un des établissements
-mentionnés au livre Ier de la sixième partie du code de la santé publique.
+ou des services mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou dans l'un des
+établissements mentionnés au livre Ier de la sixième partie du code de la santé publique. 
 
 Sa scolarité peut alors s'effectuer, soit dans l'unité d'enseignement, définie à l'article D. 351-17 du présent code, de
 l'établissement dans lequel il est accueilli, soit à temps partagés dans cette unité d'enseignement et dans son établissement
 scolaire de référence, soit à temps partagés dans cette unité d'enseignement et dans l'une des écoles ou l'un des
 établissements scolaires avec lesquels l'établissement d'accueil met en oeuvre une coopération dans les conditions prévues
 par la convention mentionnée à l'article D. 351-18 du présent code. Dans ce dernier cas, l'élève peut être inscrit dans cette
-école ou cet établissement scolaire.
+école ou cet établissement scolaire. 
 
 Dans tous les cas, les modalités de déroulement de sa scolarité sont précisées dans son projet personnalisé de scolarisation
 ou dans son projet d'accueil individualisé, défini à l'article D. 351-9 du présent code. Ce projet définit, le cas échéant,
@@ -72157,20 +72157,19 @@ les conditions du retour de l'élève dans son établissement scolaire de réfé
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 1, alinéas 2 à 6
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-378 du 2 avril 2009 - art. 9
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D351-17 (V)
+	  - Code de l'éducation - art. D351-17
 	  - Code de l'éducation - art. D351-18 (V)
-	  - Code de l'éducation - art. D351-9 (V)
-	  - Code de l'éducation - art. L351-1 (M)
-	  - Code de l'action sociale et des familles - art. L312-1 (M)
+	  - Code de l'éducation - art. D351-9
+	  - Code de l'éducation - art. L351-1
+	  - Code de l'action sociale et des familles - art. L312-1
 
 	**Cité par**:
 
@@ -72412,25 +72411,30 @@ articles 226-13 et 226-14 du code pénal.
 
 ###### Article D351-12
 
-Un enseignant titulaire du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la
+Un enseignant titulaire de la fonction publique de l'Etat ou, dans l'enseignement privé sous contrat, un enseignant agréé ou
+contractuel détenteur du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la
 scolarisation des élèves en situation de handicap ou du certificat complémentaire pour les enseignements adaptés et la
-scolarisation des élèves en situation de handicap exerce les fonctions de référent auprès de chacun des élèves handicapés du
-département afin d'assurer, sur l'ensemble du parcours de formation, la permanence des relations avec l'élève, ses parents ou
-son représentant légal, s'il est mineur.
+scolarisation des élèves en situation de handicap ou de l'un des diplômes délivrés par le ministère chargé des personnes
+handicapées, à savoir le certificat d'aptitude au professorat de l'enseignement des jeunes sourds régi par les dispositions
+du décret n° 86-1151 du 27 octobre 1986, le certificat d'aptitude à l'enseignement général, à l'enseignement technique ou à
+l'enseignement musical des aveugles et des déficients visuels, et le certificat d'aptitude aux fonctions de professeur
+d'enseignement technique aux déficients auditifs, régis par les dispositions des arrêtés du 15 décembre 1976 et des arrêtés
+modifiant celles-ci, exerce les fonctions de référent auprès de chacun des élèves handicapés du département afin d'assurer,
+sur l'ensemble du parcours de formation, la permanence des relations avec l'élève, ses parents ou son représentant légal,
+s'il est mineur. 
 
 Cet enseignant est chargé de réunir l'équipe de suivi de la scolarisation pour chacun des élèves handicapés dont il est le
 référent. Il favorise la continuité et la cohérence de la mise en oeuvre du projet personnalisé de scolarisation.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°86-1151 du 27 octobre 1986
+
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 9
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -72440,6 +72444,10 @@ référent. Il favorise la continuité et la cohérence de la mise en oeuvre du 
 	  - Décret n°2017-965 du 10 mai 2017 - art. 3 (V)
 	  - Code de l'action sociale et des familles - art. D312-10-16 (V)
 	  - Code de l'éducation - art. D351-10 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-378 du 2 avril 2009 - art. 8
 
 
 ###### Article D351-13
@@ -72607,25 +72615,39 @@ une école ou un établissement scolaire.
 
 La création d'une unité d'enseignement est prévue dans le cadre d'une convention signée entre les représentants de
 l'organisme gestionnaire et l'Etat représenté conjointement par le préfet de département et l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale.
+directeur des services départementaux de l'éducation nationale. 
 
 Cette unité met en oeuvre tout dispositif d'enseignement concourant à la réalisation du projet personnalisé de scolarisation,
 au service du parcours de formation de l'élève. Le projet pédagogique de l'unité d'enseignement constitue un volet du projet
 de l'établissement. La convention précise notamment les caractéristiques de la population de jeunes accueillis,
 l'organisation de l'unité d'enseignement, le nombre et la qualification des enseignants qui y exercent, les modalités de
 coopération avec les écoles ou les établissements scolaires mentionnés au premier alinéa de l'article L. 351-1, le rôle du
-directeur et du responsable pédagogique ainsi que les locaux scolaires.
+directeur et du responsable pédagogique ainsi que les locaux scolaires. 
+
+Dans le cadre de cette convention, le directeur de l'établissement ou du service médico-social est responsable de la mise en
+œuvre des modalités de fonctionnement de l'unité d'enseignement. 
+
+Lorsque l'unité est organisée pour tout ou partie dans un établissement scolaire, cette mise en œuvre est menée conjointement
+avec les responsables des établissements scolaires concernés, qui agissent par délégation de l'inspecteur d'académie ou du
+directeur régional de l'agriculture et de la pêche.
+
+L'unité d'enseignement est organisée selon les modalités suivantes : 
+
+1° Soit dans les locaux d'un établissement scolaire ; 
+
+2° Soit dans les locaux d'un établissement ou d'un service médico-social ; 
+
+3° Soit dans les locaux des deux établissements ou services.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 15
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-378 du 2 avril 2009 - art. 10
 
 	**Cité par**:
 
@@ -72636,7 +72658,7 @@ directeur et du responsable pédagogique ainsi que les locaux scolaires.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L351-1 (M)
+	  - Code de l'éducation - art. L351-1
 
 
 ###### Article D351-19
