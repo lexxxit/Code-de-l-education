@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-16
 
 # Partie législative
 
@@ -7998,6 +7998,27 @@ nationale et de la recherche ;
 	**Cite**:
 
 	  - Code de l'éducation - art. L241-4 (V)
+
+
+###### Article L264-4
+
+Les dépenses de fonctionnement des classes de l'enseignement du premier degré sous contrat d'association, prévues à l'article
+L. 442-5, s'appliquent notamment : 
+
+1° Aux fournitures scolaires ; 
+
+2° A l'entretien des bâtiments et à leurs dépendances ; 
+
+3° A l'ensemble des dépenses de fonctionnement de ces locaux, en particulier l'eau, l'électricité, et à la rémunération des
+personnels de service s'il y a lieu ; 
+
+4° A l'acquisition et à l'entretien du mobilier scolaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 11
 
 
 ## Deuxième partie : Les enseignements scolaires
@@ -16624,7 +16645,8 @@ L. 442-5, L. 442-12, L. 442-15, L. 442-18 et L. 442-20.
 ###### Article L494-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 421-6 à L. 421-7, L. 421-9, L. 421-10, L. 423-1 à L. 423-3, L. 442-1,
-le premier alinéa de l'article L. 442-2, les articles L. 442-4, L. 442-5, L. 442-12, L. 442-15, L. 442-18 et L. 442-20.
+le premier alinéa de l'article L. 442-2,             les articles L. 442-4, L. 442-5, L. 442-8, à l'exception de son 2°, L.
+442-12, L. 442-15, L. 442-18 et L. 442-20.
 
 L'article L. 401-1 n'est applicable en Nouvelle-Calédonie qu'en tant qu'il concerne les établissements d'enseignement publics
 du second degré.
@@ -16633,35 +16655,28 @@ du second degré.
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 80 () JORF 24 avril 2005
+	  - Ordonnance n°2009-537 du 14 mai 2009 - art. 11
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L401-1 (V)
-	  - Code de l'éducation - art. L421-10 (M)
-	  - Code de l'éducation - art. L421-9 (V)
-	  - Code de l'éducation - art. L442-1 (V)
-	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-15 (V)
-	  - Code de l'éducation - art. L442-18 (M)
-	  - Code de l'éducation - art. L442-2 (M)
-	  - Code de l'éducation - art. L442-20 (M)
-	  - Code de l'éducation - art. L442-4 (V)
-	  - Code de l'éducation - art. L442-5 (M)
-	  - Code de l'éducation L421-6 à L421-7, L421-9, L421-10, L423-1 à L423-3, L442-1, L442-2, L442-4, L442-5, L442-12, L442-15, L442-18, L442-20, L401-1
+	  - Code de l'éducation
+	  - Code de l'éducation - art. L401-1
+	  - Code de l'éducation - art. L421-10
+	  - Code de l'éducation - art. L421-9
+	  - Code de l'éducation - art. L442-1
+	  - Code de l'éducation - art. L442-12
+	  - Code de l'éducation - art. L442-15
+	  - Code de l'éducation - art. L442-18
+	  - Code de l'éducation - art. L442-2
+	  - Code de l'éducation - art. L442-20
+	  - Code de l'éducation - art. L442-4
+	  - Code de l'éducation - art. L442-5
 
 
 ### Livre V : La vie scolaire
