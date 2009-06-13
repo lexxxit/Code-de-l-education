@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-06-09
+Version Consolidée au 2009-06-14
 
 # Partie législative
 
@@ -8368,28 +8368,26 @@ Une éducation artistique est dispensée dans les écoles maternelles et les cla
 
 Des enseignements artistiques obligatoires sont dispensés dans les écoles élémentaires et les collèges et dans les classes
 correspondantes des établissements d'éducation spéciale, des lycées professionnels maritimes et des établissements
-d'enseignement agricole visés à l'article L. 811-8 du code rural.
+d'enseignement agricole visés à l'article L. 811-8 du code rural. 
 
 Ces enseignements comportent au moins un enseignement de la musique et un enseignement des arts plastiques. Ils ont pour
-objet une initiation à l'histoire des arts et aux pratiques artistiques.
+objet une initiation à l'histoire des arts et aux pratiques artistiques. 
 
 Des enseignements artistiques portant sur des disciplines non visées à l'alinéa précédent peuvent être institués, à titre
-facultatif, dans les écoles élémentaires et les collèges.
+facultatif, dans les écoles élémentaires et les collèges. 
+
+Dans le cadre de ces enseignements, les élèves reçoivent une information sur les dangers du téléchargement et de la mise à
+disposition illicites d'œuvres ou d'objets protégés par un droit d'auteur ou un droit voisin pour la création artistique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L811-8
 
 	**Anciens textes**:
 
 	  - Loi n°88-20 du 6 janvier 1988 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2009-669 du 12 juin 2009 - art. 15
 
 	**Cité par**:
 
@@ -8469,21 +8467,32 @@ fonctionnement.
 
 Tous les élèves sont initiés à la technologie et à l'usage de l'informatique.
 
+Dans ce cadre, notamment à l'occasion de la préparation du brevet informatique et internet des collégiens, ils reçoivent de
+la part d'enseignants préalablement sensibilisés sur le sujet une information sur les risques liés aux usages des services de
+communication au public en ligne, sur les dangers du téléchargement et de la mise à disposition illicites d'œuvres ou
+d'objets protégés par un droit d'auteur ou un droit voisin pour la création artistique, ainsi que sur les sanctions encourues
+en cas [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-580 DC du
+10 juin 2009] de délit de contrefaçon. Cette information porte également sur l'existence d'une offre légale d'œuvres ou
+d'objets protégés par un droit d'auteur ou un droit voisin sur les services de communication au public en ligne.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°85-1371 du 23 décembre 1985 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2009-669 du 12 juin 2009 - art. 16
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. L371-1 (V)
 	  - Code de l'éducation - art. L442-20 (V)
+
+	**Cite**:
+
+	  - décision du Conseil constitutionnel n°2009-580
 
 
 ##### Section 3 bis : L'enseignement de la langue des signes.
@@ -61314,63 +61323,6 @@ sur les travaux de la commission.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-##### Section 3 : Les commissions professionnelles consultatives.
-
-###### Article D335-34
-
-Chaque commission professionnelle consultative comprend :
-
-1° Des représentants, en nombre égal, des employeurs et des salariés proposés par les organisations syndicales les plus
-représentatives ;
-
-2° Des représentants des pouvoirs publics désignés par les ministres intéressés dont, en tout état de cause, un représentant
-du ministre chargé du travail et de l'emploi et un représentant de chacun des ministres compétents en raison de la nature des
-formations dont la commission a à connaître ainsi qu'un représentant du Centre d'études et de recherches sur les
-qualifications ;
-
-3° Des personnalités qualifiées appartenant soit au secteur public, soit au secteur privé, choisies en raison de leurs
-activités professionnelles ou de leurs travaux, parmi lesquelles des représentants des personnels enseignants ainsi que des
-représentants des chambres de commerce et d'industrie, des chambres de métiers et de l'artisanat ou des chambres
-d'agriculture.
-
-Chaque commission peut instituer, pour l'examen de certains problèmes, des sous-commissions ou des groupes de travail,
-permanents ou temporaires, auxquels elle peut appeler, en sus de ceux de ses membres qui auront été désignés pour en faire
-partie, toute personne dont la présence paraîtrait utile.
-
-Lorsque les questions à traiter relèvent de plusieurs branches d'activités professionnelles définies à l'article D. 335-33,
-il peut être constitué un groupe de travail interprofessionnel.
-
-Les groupes de travail interprofessionnels peuvent recevoir des commissions consultatives professionnelles délégation pour
-soumettre directement au ministre des propositions ou avis sur les questions dont l'étude leur est confiée. En tout état de
-cause, il est rendu compte de leurs travaux à chacune des commissions professionnelles consultatives concernées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-607 1972-07-04 art. 1, alinéas 3 et 9
-	  - Décret n°72-607 du 4 juillet 1972 - art. 1 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 28 décembre 1972 - art. 1 (V)
-	  - Arrêté du 2 juillet 1973 - art. 1 (V)
-	  - Arrêté du 22 novembre 1990 - art. 1 (Ab)
-	  - Arrêté du 22 novembre 1990 - art. 5 (Ab)
-	  - Arrêté du 15 mai 2007 - art. 3 (VT)
-	  - Arrêté du 9 février 2017 (V)
-	  - Arrêté du 19 mars 1973 - art. 1 (Ab)
-	  - Arrêté du 19 mars 1973 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D335-33 (V)
 
 
 ##### Section 4 : Les conseillers de l'enseignement technologique.
