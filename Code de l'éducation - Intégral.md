@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-06-14
+Version Consolidée au 2009-06-18
 
 # Partie législative
 
@@ -59568,33 +59568,34 @@ conditions fixées par arrêté du ministre chargé de l'éducation.
 
 ###### Article D334-8
 
-La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers. L'absence non justifiée à
-une épreuve que le candidat doit subir est sanctionnée par la note zéro.
+La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers.L'absence non justifiée à
+une épreuve que le candidat doit subir est sanctionnée par la note zéro. 
 
 La note de chaque épreuve obligatoire est multipliée par son coefficient. Un arrêté du ministre chargé de l'éducation peut
 prévoir, pour certaines épreuves obligatoires, que seuls les points excédant 10 sur 20 sont retenus et multipliés par un
-coefficient.
+coefficient. 
 
 En ce qui concerne les épreuves facultatives, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un
 coefficient fixé par arrêté du ministre chargé de l'éducation. Les points entrent en ligne de compte pour l'admission à
-l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
+l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe. 
 
 La note moyenne de chaque candidat est calculée en divisant la somme des points obtenus par le total des coefficients
-attribués.
+attribués. 
 
 Après délibération du jury à l'issue du premier groupe d'épreuves, les candidats ayant obtenu une note moyenne égale ou
 supérieure à 10 sont déclarés admis par le jury. Les candidats dont la note moyenne est inférieure à 8 sont déclarés
 ajournés. Ceux qui ont obtenu une note moyenne au moins égale à 8 et inférieure à 10 sont autorisés à se présenter au second
-groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation.
+groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation. 
 
 Après délibération du jury à l'issue du second groupe d'épreuves, sont déclarés admis les candidats dont la note moyenne pour
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
-d'épreuves ne peuvent obtenir une mention.
+d'épreuves ne peuvent obtenir une mention. 
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
-candidat.
+pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
+conditions fixées par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -59607,20 +59608,15 @@ candidat.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 7 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-978 du 1 août 2006 - art. 2 () JORF 4 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'action sociale et des familles - art. L114 (V)
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ###### Article D334-9
@@ -59755,10 +59751,11 @@ chargée de l'organisation de l'examen, selon des modalités fixées par arrêt�
 ###### Article D334-13
 
 Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, ainsi que
-les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports peuvent
-conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la
-première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au
-présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
+les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports et les
+candidats scolarisés à l'école de danse de l'Opéra national de Paris peuvent conserver, après un échec à l'examen sur leur
+demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la première session à
+laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le
+bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues à ces épreuves. Ils ne subissent alors que les autres
 épreuves.
 
 Les dispositions du premier alinéa ne s'appliquent qu'aux candidats qui se présentent dans la même série que celle où ils ont
@@ -59778,17 +59775,11 @@ dispositions du premier alinéa du présent article.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1092 1993-09-15 art. 11, alinéas 2 à 6
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 11 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-978 du 1 août 2006 - art. 4 () JORF 4 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 3
 
 	**Cité par**:
 
@@ -59802,11 +59793,11 @@ dispositions du premier alinéa du présent article.
 
 Les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant
-la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues. Ils ne subissent alors que
-les autres épreuves.
+la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues à ces épreuves. Ils ne
+subissent alors que les autres épreuves. 
 
 Les dispositions des deuxième et troisième alinéas de l'article D. 334-13 s'appliquent aux candidats mentionnés au premier
-alinéa du présent article.
+alinéa du présent article. 
 
 Pour ces candidats, à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et
 des notes obtenues aux épreuves nouvellement subies.
@@ -59815,17 +59806,11 @@ des notes obtenues aux épreuves nouvellement subies.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1092 1993-09-15 art. 11, alinéas 7 à 9
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 11 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Modifié par**:
 
-	  - Décret n°2006-978 du 1 août 2006 - art. 5 () JORF 4 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 4
 
 	**Cité par**:
 
@@ -59835,8 +59820,8 @@ des notes obtenues aux épreuves nouvellement subies.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D334-13 (M)
-	  - Code de l'action sociale et des familles - art. L114 (V)
+	  - Code de l'éducation - art. D334-13
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ##### Section 2 : Organisation de l'examen.
@@ -61972,38 +61957,35 @@ chargé de l'agriculture.
 ###### Article D336-8
 
 La valeur de chacune des épreuves du baccalauréat technologique est exprimée par une note variant de 0 à 20, en points
-entiers. L'absence non justifiée à une épreuve obligatoire est sanctionnée par la note zéro.
+entiers.L'absence non justifiée à une épreuve obligatoire est sanctionnée par la note zéro. 
 
-La note de chaque épreuve obligatoire est multipliée par son coefficient.
+La note de chaque épreuve obligatoire est multipliée par son coefficient. 
 
 En ce qui concerne les épreuves facultatives, ne sont retenus que les points excédant 10. Les points entrent en ligne de
 compte pour l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à
-l'issue du premier groupe.
+l'issue du premier groupe. 
 
 La note moyenne de chaque candidat est calculée en divisant la somme des points obtenus par le total des coefficients
-attribués.
+attribués. 
 
 Après délibération du jury à l'issue du premier groupe d'épreuves, les candidats ayant obtenu une note moyenne égale ou
 supérieure à 10 sont déclarés admis par le jury. Les candidats dont la note moyenne est inférieure à 8 sont déclarés
 ajournés. Ceux qui ont obtenu une note moyenne au moins égale à 8 et inférieure à 10 sont autorisés à se présenter au second
 groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté
-du ministre chargé de l'agriculture.
+du ministre chargé de l'agriculture. 
 
 Après délibération du jury à l'issue du second groupe d'épreuves, sont déclarés admis les candidats dont la note moyenne pour
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
-d'épreuves ne peuvent obtenir une mention.
+d'épreuves ne peuvent obtenir une mention. 
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
-candidat.
+pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
+conditions fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de
+l'agriculture.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°93-1093 1993-09-15 art. 7
-	  - Décret n°93-1093 du 15 septembre 1993 - art. 7 (Ab)
 
 	**Cité par**:
 
@@ -62014,17 +61996,17 @@ candidat.
 	  - Arrêté du 15 juillet 2013 - art. 4-1 (VD)
 	  - Code de l'éducation - art. D336-11 (VD)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'action sociale et des familles - art. L114 (V)
+	  - Décret n°93-1093 du 15 septembre 1993 - art. 7 (Ab)
 
 	**Modifié par**:
 
-	  - Décret n°2006-08-21 art. 2, art. 4 JORF 22 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 2
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ###### Article D336-9
@@ -62163,10 +62145,11 @@ selon des modalités définies par arrêté du ministre chargé de l'agriculture
 ###### Article D336-13
 
 Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi ainsi que
-les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports peuvent
-conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la
-première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au
-présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres
+les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports et les
+candidats scolarisés à l'école de danse de l'Opéra national de Paris peuvent conserver, après un échec à l'examen sur leur
+demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la première session à
+laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le
+bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues à ces épreuves. Ils ne subissent alors que les autres
 épreuves.
 
 Les dispositions du premier alinéa du présent article ne s'appliquent qu'aux candidats qui se présentent dans la même série
@@ -62186,12 +62169,7 @@ dispositions du premier alinéa.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 11, alinéas 2 à 6
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -62206,18 +62184,18 @@ dispositions du premier alinéa.
 
 	**Modifié par**:
 
-	  - Décret n°2006-08-21 art. 6 JORF 22 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 3
 
 
 ###### Article D336-14
 
 Les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant
-la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues. Ils ne subissent alors que
-les autres épreuves.
+la première session à laquelle ils se sont présentés, le bénéfice des notes qu'ils ont obtenues à ces épreuves. Ils ne
+subissent alors que les autres épreuves. 
 
 Les dispositions des deuxième et troisième alinéas de l'article D. 336-13 s'appliquent aux candidats mentionnés au premier
-alinéa du présent article.
+alinéa du présent article. 
 
 Pour ces candidats, à chaque session, le calcul de la moyenne pour l'admission s'effectue sur la base des notes conservées et
 des notes obtenues aux épreuves nouvellement subies.
@@ -62226,7 +62204,6 @@ des notes obtenues aux épreuves nouvellement subies.
 
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 11, alinéas 7 à 9 (partie)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 11 (Ab)
 
 	**Cité par**:
@@ -62236,18 +62213,14 @@ des notes obtenues aux épreuves nouvellement subies.
 	  - Code de l'éducation - art. D336-4 (M)
 	  - Code de l'éducation - art. D336-43 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D336-13 (M)
-	  - Code de l'action sociale et des familles - art. L114 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2006-08-21 art. 7 JORF 22 août 2006
+	  - Code de l'éducation - art. D336-13
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ##### Sous-section 2 : Organisation de l'examen.
@@ -62626,60 +62599,56 @@ conditions fixées par arrêté du ministre chargé de l'éducation.
 
 ###### Article D336-28
 
-La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20 en points entiers. L'absence à une épreuve
-obligatoire est sanctionnée par la note zéro.
+La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20 en points entiers.L'absence à une épreuve
+obligatoire est sanctionnée par la note zéro. 
 
 La note de chaque épreuve obligatoire est multipliée par le coefficient fixé par l'arrêté prévu à l'article D. 336-24.
 
 A l'issue des épreuves du premier groupe, les candidats ayant obtenu une note moyenne égale ou supérieure à 10 pour
-l'ensemble des épreuves sont déclarés définitivement admis par le jury.
+l'ensemble des épreuves sont déclarés définitivement admis par le jury. 
 
 Les candidats qui ont obtenu une note moyenne égale ou supérieure à 8 sont autorisés à subir les épreuves de contrôle du
-second groupe.
+second groupe. 
 
 Pour chacune des deux disciplines faisant l'objet des épreuves de contrôle du second groupe, est retenue la meilleure des
 deux notes obtenues à l'épreuve du premier groupe ou à celle du second groupe.
 
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats ayant obtenu une note moyenne égale ou supérieure
-à 10 pour l'ensemble des deux groupes d'épreuves.
+à 10 pour l'ensemble des deux groupes d'épreuves. 
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des
 lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par
-l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
+l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal. 
 
 En ce qui concerne l'épreuve facultative, ne sont retenus que les points excédant 10. Ces points entrent en ligne de compte
 pour l'admission à l'issue du premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à l'issue du
-premier groupe d'épreuves.
+premier groupe d'épreuves. 
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
-candidat.
+pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
+conditions fixées par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 7
 	  - Décret n°90-822 du 10 septembre 1990 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
 	  - Arrêté du 3 avril 2009 (V)
 
-	**Cite**:
-
-	  - Code de l'éducation - art. D336-24 (V)
-	  - Code de l'éducation - art. L331-1 (M)
-	  - Code de l'action sociale et des familles - art. L114 (V)
-
 	**Modifié par**:
 
-	  - Décret n°2006-08-21 art. 4 JORF 22 août 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D336-24
+	  - Code de l'éducation - art. L331-1
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ###### Article D336-29
@@ -63029,64 +62998,57 @@ La liste des centres et les modalités d'inscription sont arrêtées par les rec
 ###### Article D336-40
 
 L'examen du baccalauréat technologique " techniques de la musique et de la danse " comporte des épreuves obligatoires et,
-éventuellement, des épreuves facultatives.
+éventuellement, des épreuves facultatives. 
 
-Les épreuves obligatoires comprennent au premier groupe d'épreuves :
+Les épreuves obligatoires comprennent au premier groupe d'épreuves : 
 
-1° D'une part, des épreuves d'enseignement général et une épreuve d'éducation physique et sportive ;
+1° D'une part, des épreuves d'enseignement général et une épreuve d'éducation physique et sportive ; 
 
-2° D'autre part, des épreuves à caractère professionnel pouvant comporter une ou plusieurs épreuves pratiques.
+2° D'autre part, des épreuves à caractère professionnel pouvant comporter une ou plusieurs épreuves pratiques. 
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des
 lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par
 l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
 
 A l'issue des épreuves du premier groupe, les candidats ayant obtenu une note moyenne égale ou supérieure à 10 pour
-l'ensemble des épreuves sont déclarés définitivement admis par le jury.
+l'ensemble des épreuves sont déclarés définitivement admis par le jury. 
 
-Les candidats ayant obtenu une note moyenne au moins égale à 8 sont admis à subir les épreuves du second groupe.
+Les candidats ayant obtenu une note moyenne au moins égale à 8 sont admis à subir les épreuves du second groupe. 
 
-Les épreuves du second groupe comprennent, outre d'éventuelles épreuves obligatoires, des épreuves de contrôle :
+Les épreuves du second groupe comprennent, outre d'éventuelles épreuves obligatoires, des épreuves de contrôle : 
 
 1° Une ou deux épreuves orales d'enseignement général choisies parmi les épreuves portant sur les disciplines ayant fait
-l'objet d'épreuves du premier groupe ;
+l'objet d'épreuves du premier groupe ; 
 
 2° Une ou plusieurs épreuves portant sur des disciplines figurant au premier groupe parmi les épreuves à caractère
 professionnel. Ces épreuves sont soit orales, soit orales et pratiques.
 
 A l'issue des épreuves du premier groupe, les candidats admis à subir les épreuves de contrôle du deuxième groupe font
 connaître, sur le vu des notes obtenues aux épreuves du premier groupe, les disciplines sur lesquelles ils désirent faire
-porter leurs épreuves de contrôle.
+porter leurs épreuves de contrôle. 
 
 Les notes obtenues à ces épreuves de contrôle se substituent aux notes des épreuves correspondantes du premier groupe si
 elles leur sont supérieures.
 
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats dont la note moyenne pour l'ensemble des deux
-groupes d'épreuves est au moins égale à 10 sur 20.
+groupes d'épreuves est au moins égale à 10 sur 20. 
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
-candidat.
+pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
+conditions fixées par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-08-21 art. 4 JORF 22 août 2006
-
-	**Anciens textes**:
-
-	  - Décret n°68-1008 1968-11-20 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-380 du 3 avril 2009 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L331-1 (M)
-	  - Code de l'action sociale et des familles - art. L114 (V)
+	  - Code de l'éducation - art. L331-1
+	  - Code de l'action sociale et des familles - art. L114
 
 
 ###### Article D336-41
