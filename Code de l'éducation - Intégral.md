@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-06-25
+Version Consolidée au 2009-07-01
 
 # Partie législative
 
@@ -5120,12 +5120,12 @@ des stagiaires évoluent de façon à compenser intégralement les charges résu
 fixées pour ces rémunérations. Un décret en Conseil d'Etat fixe les modalités d'application du présent alinéa ; 
 
 Les crédits mentionnés à l'alinéa précédent sont diminués en 2005, 2006 et à compter de 2007 d'un montant de respectivement
-197, 92 millions d'euros, 395, 84 millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque année
-selon le taux d'évolution de la dotation globale de fonctionnement. 
+197, 2 millions d'euros, 395, 84 millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque année selon
+le taux d'évolution de la dotation globale de fonctionnement. 
 
 2° Les crédits transférés par l'Etat dont le montant est égal aux versements au Trésor public effectués l'année précédente en
-application des articles L. 920-9 et L. 951-9 du code du travail, et dont la répartition obéit aux mêmes critères que ceux
-mentionnés au 1° ci-dessus ; 
+application des articles L. 920-9 et L. 951-9 du code du travail (1), et dont la répartition obéit aux mêmes critères que
+ceux mentionnés au 1° ci-dessus ; 
 
 3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement attribuées ; 
 
@@ -5134,36 +5134,27 @@ mentionnés au 1° ci-dessus ;
 5° Le produit de la contribution au développement de l'apprentissage prévue à l'article 1599 quinquies A du code général des
 impôts. 
 
-Chaque région ainsi que la collectivité territoriale de Corse reçoit une part du produit de cette contribution ; cette part
-représente une fraction du taux de cette contribution appliquée à l'assiette nationale ; cette fraction est elle-même
-calculée au prorata de la part de dotation, supprimée dans les conditions prévues au 1° ci-dessus, que chaque région ainsi
-que la collectivité territoriale de Corse a perçue en 2004. La répartition entre les régions et la collectivité territoriale
-de Corse du produit de la contribution ainsi calculé est fixée par arrêté conjoint du ministre de l'intérieur et des
-ministres chargés du travail et du budget.
+Chaque région, ainsi que la collectivité territoriale de Corse et la collectivité départementale de Mayotte, reçoit une part
+du produit de cette contribution. Cette part représente une fraction du taux de cette contribution appliquée à l'assiette
+nationale. Pour les régions et la collectivité territoriale de Corse, cette fraction est elle-même calculée au prorata de la
+part de dotation, supprimée dans les conditions prévues au 1° ci-dessus, que chaque région ainsi que la collectivité
+territoriale de Corse a perçue en 2004. Pour la collectivité départementale de Mayotte, cette part est calculée au prorata de
+la dotation générale de décentralisation perçue en 2008 au titre du premier transfert de compétences à cette collectivité au
+titre de l'apprentissage. La répartition entre les régions, la collectivité territoriale de Corse et la collectivité
+départementale de Mayotte du produit de la contribution ainsi calculé est fixée par arrêté conjoint du ministre de
+l'intérieur et des ministres chargés du travail et du budget. 
 
 Les crédits prévus aux 1° et 2° du présent article ne sont pas inclus dans la dotation générale de décentralisation visée à
 l'article L. 1614-4. 
 
-Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1
-".
+Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1."
+
+**Nota:**
+
+(1) : Les articles L. 920-9 et L. 951-9 de l'ancien code du travail ont été renumérotés L. 6354-1, L. 6354-2, L. 6331-13, L.
+6331-28, L. 6331-31 et L. 6331-33 du nouveau code du travail.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 8 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 37 (V) JORF 31 décembre 2004
-
-	**Cite**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1599 A (Ab)
-	  - Code général des collectivités territoriales - art. L1614-1 (V)
-	  - Code du travail - art. L920-9 (T)
-	  - Code du travail - art. L951-9 (Ab)
 
 	**Liens**:
 
@@ -7819,6 +7810,106 @@ dispositions de l'article L. 2572-61 du code général des collectivités territ
 
 ###### Article L262-3
 
+A Mayotte, le schéma prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale, des
+lycées professionnels maritimes et des établissements d'enseignement agricole est établi par le représentant de l'Etat, après
+avis du conseil général.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L262-2-1 (V)
+	  - Code de l'éducation - art. L262-4 (VD)
+
+
+###### Article L262-4
+
+Les articles L. 214-12 à L. 214-16 sont applicables à Mayotte sous réserve des dispositions des articles LO 6114-1 et LO
+6161-9 du code général des collectivités territoriales et des adaptations suivantes : 
+
+1° Les compétences dévolues à la région, au conseil régional et à son président sont respectivement attribuées à la
+collectivité départementale de Mayotte, à son conseil général et à son président ; 
+
+2° Les compétences dévolues au représentant de l'Etat dans la région sont attribuées au représentant de l'Etat à Mayotte ; 
+
+3° Le mot : " régional " et le mot : " régionale " sont respectivement remplacés par le mot : " mahorais " et le mot : "
+mahoraise " ; 
+
+4° Au troisième alinéa de l'article L. 214-12, les mots : " à l'article L. 6314-1 du code du travail " sont remplacés par les
+mots : " à l'article L. 711-1-2 du code du travail applicable à Mayotte " ; 
+
+5° A l'article L. 214-13 : 
+
+a) Au quatrième alinéa du I, les mots : " à l'échelon national ainsi que les organismes mentionnés à l'article L. 5312-1 du
+code du travail " sont remplacés par les mots : " à Mayotte ainsi que l'organisme mentionné à l'article L. 327-7 du code du
+travail applicable à Mayotte " ; 
+
+b) Le cinquième alinéa du I est ainsi rédigé : 
+
+Il est approuvé par le conseil général après consultation des chambres consulaires de Mayotte, du conseil de l'éducation
+nationale de Mayotte et du comité de coordination de l'emploi et de la formation professionnelle de Mayotte ; 
+
+c) Au sixième alinéa du I, la référence à : " l'article L. 214-1 " est remplacée par la référence à : " l'article L. 262-3
+" ; 
+
+d) Le troisième alinéa du IV est supprimé ; 
+
+e) Au premier alinéa du V, les mots : " L'Etat, une ou plusieurs régions, " sont remplacés par les mots : " L'Etat, la
+collectivité départementale de Mayotte, " et les mots : " mentionnée à l'article L. 311-7 du code du travail " sont remplacés
+par les mots : " mentionnée à l'article L. 326 du code du travail applicable à Mayotte " ; 
+
+f) Au quatrième alinéa du V, les mots : " à l'article L. 6211-3 du code du travail " sont remplacés par les mots : " à
+l'article L. 115-1 du code du travail applicable à Mayotte " ; 
+
+g) Au deuxième alinéa du VI, les mots : " Les départements " sont supprimés ; 
+
+6° L'article L. 214-15 est ainsi rédigé : 
+
+" Art.L. 214-15.-Le fonds mahorais de l'apprentissage et de la formation professionnelle continue est régi par les
+dispositions de l'article L. 6173-9 du code général des collectivités territoriales. " ; 
+
+7° A l'article L. 214-16, les mots : " à l'article 7 de la loi d'orientation n° 92-125 du 6 février 1992 relative à
+l'administration territoriale de la République " sont remplacés par les mots : " par l'article LO 6154-2 du code général des
+collectivités territoriales "
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-125 du 6 février 1992 (V)
+	  - Code général des collectivités territoriales - art. L6173-9 (V)
+	  - Code général des collectivités territoriales - art. LO6114-1
+	  - Code général des collectivités territoriales - art. LO6161-9
+	  - Code de l'éducation - art. L214-1 (V)
+	  - Code de l'éducation - art. L214-12 (V)
+	  - Code de l'éducation - art. L214-13
+	  - Code de l'éducation - art. L214-15 (V)
+	  - Code de l'éducation - art. L214-16 (V)
+	  - Code de l'éducation - art. L262-3
+	  - Code du travail - art. L311-7 (Ab)
+	  - Code du travail - art. L5312-1 (V)
+	  - Code du travail - art. L6211-3 (V)
+	  - Code du travail - art. L6314-1 (V)
+	  - Code du travail applicable à Mayotte. - art. L115-1
+	  - Code du travail applicable à Mayotte. - art. L326
+	  - Code du travail applicable à Mayotte. - art. L327-7
+	  - Code du travail applicable à Mayotte. - art. L711-1-2 (V)
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 3
+
+	**Cité par**:
+
+	  - Code du travail applicable à Mayotte. - art. L711-4-3 (V)
+
+
+###### Article L262-5
+
 Pour son application à Mayotte, le I de l'article L. 241-4 est ainsi rédigé : 
 
 " L'inspection des établissements d'enseignement du premier et du second degré publics ou privés est exercée : 
@@ -7834,27 +7925,17 @@ nationale et de la recherche ;
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - TRANSFERE: Ordonnance n°2009-664 du 11 juin 2009 - art. 3
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 3
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L241-4 (V)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de l'éducation - art. L262-2-1 (V)
-	  - Code de l'éducation - art. L262-4 (VD)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. L262-5 (VD)
+	  - Code de l'éducation - art. L262-3 (VT)
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -12046,6 +12127,21 @@ L'article L. 312-10 n'est pas applicable à Mayotte.
 	**Cite**:
 
 	  - Code de l'éducation - art. L312-10
+
+
+###### Article L372-1-1
+
+Les articles L. 335-5 et L. 335-6 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L335-5
 
 
 ###### Article L372-2
@@ -20702,6 +20798,21 @@ au recteur d'académie.
 	**Modifié par**:
 
 	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
+
+
+###### Article L682-2
+
+Les articles L. 613-3 à L. 613-6 sont applicables à Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2009-664 du 11 juin 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L613-3 (V)
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -35061,37 +35172,39 @@ peut être accordée qu'après avis favorable de l'inspecteur d'académie du dé
 ###### Article D211-12
 
 En application de l'article L. 211-4, la liste des établissements d'enseignement dont la responsabilité et la charge
-incombent entièrement à l'Etat est fixée ainsi qu'il suit :
+incombent entièrement à l'Etat est fixée ainsi qu'il suit : 
 
-1° Pour les établissements relevant du ministère de l'agriculture :
+1° Pour les établissements relevant du ministère de l'agriculture : 
 
-a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
+a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ; 
 
-b) (Abrogé) ;
+b) (Abrogé) ; 
 
-c) (Abrogé).
+c) (Abrogé). 
 
-2° Pour les établissements relevant du ministère de l'éducation nationale :
+2° Pour les établissements relevant du ministère de l'éducation nationale : 
 
-a) (supprimé) ;
+a) (supprimé) ; 
 
-b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ;
+b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ; 
 
-c) Collège et lycée d'Etat à sections internationales de Ferney-Voltaire (Ain) ;
+c) Collège et lycée d'Etat à sections internationales de Ferney-Voltaire (Ain) ; 
 
-d) Lycée d'Etat franco-allemand de Buc (Yvelines) ;
+d) Lycée d'Etat franco-allemand de Buc (Yvelines) ; 
 
-e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
+e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ; 
 
-f) Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ;
+f) Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ; 
 
-g) Foyer des lycéennes de Paris ;
+g) Foyer des lycéennes de Paris ; 
 
-h) Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ;
+h) Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ; 
 
-i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
+i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ; 
 
-j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
+j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ; 
+
+k) Lycée-collège d'Etat de Sourdun.
 
 **Liens relatifs à cet article**
 
@@ -35108,7 +35221,7 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon.
 
 	**Modifié par**:
 
-	  - Décret n°2007-1855 du 26 décembre 2007 - art. 4
+	  - Décret n°2009-772 du 23 juin 2009 - art. 9
 
 	**Cite**:
 
