@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-07-23
+Version Consolidée au 2009-07-23 00:00:01 +0200
 
 # Partie législative
 
@@ -19504,10 +19504,9 @@ sous le contrôle des universités.
 
 Quelle que soit la discipline d'internat, les internes sont soumis aux mêmes dispositions statutaires et perçoivent la même
 rémunération. Ils exercent des fonctions rémunérées hospitalières ou extra-hospitalières, soit dans les centres hospitaliers
-universitaires, soit dans des établissements hospitaliers, y compris militaires ou privés participant au service public, liés
-à ces centres par convention, soit dans des organismes agréés extra-hospitaliers ou des laboratoires agréés de recherche,
-soit sous forme de stage auprès de praticiens, de centres de santé ou de structures de soins alternatives à l'hospitalisation
-agréés.
+universitaires, soit dans des établissements hospitaliers, y compris militaires ou privés    , liés à ces centres par
+convention, soit dans des organismes agréés extra-hospitaliers ou des laboratoires agréés de recherche, soit sous forme de
+stage auprès de praticiens, de centres de santé ou de structures de soins alternatives à l'hospitalisation agréés.
 
 **Liens relatifs à cet article**
 
@@ -19529,7 +19528,7 @@ agréés.
 
 	**Modifié par**:
 
-	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
+	  - Ordonnance n°2010-177 du 23 février 2010 - art. 3
 
 
 ###### Article L632-6
