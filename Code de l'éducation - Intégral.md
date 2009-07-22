@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-07-01
+Version Consolidée au 2009-07-23
 
 # Partie législative
 
@@ -19361,29 +19361,6 @@ femme peuvent postuler aux diplômes français d'Etat correspondants.
 	  - Code de la santé publique - art. L358 (Ab)
 
 
-###### Article L631-3
-
-La formation initiale et continue de tous les professionnels de santé ainsi que des professionnels du secteur médico-social
-comprend un enseignement spécifique dédié aux effets de l'alcool sur le foetus. Cet enseignement doit avoir pour objectif de
-favoriser la prévention par l'information ainsi que le diagnostic et l'orientation des femmes concernées et des enfants
-atteints vers les services médicaux et médico-sociaux spécialisés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2004-806 du 9 août 2004 - art. 50 () JORF 11 août 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
-
-
 ##### Chapitre II : Les études médicales.
 
 ###### Article L632-1
@@ -19427,60 +19404,38 @@ la santé. En ce qui concerne la recherche, ces arrêtés sont également signé
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L6142-2 (V)
 
 
-###### Article L632-1-1
-
-Ainsi qu'il est prévu à l'article L. 231-1 du code du sport, le deuxième cycle des études médicales contient une formation
-initiale nécessaire à la pratique des examens médico-sportifs.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Ordonnance 2006-596 2006-05-23 art. 4 7° JORF 25 mai 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
-
-	**Cite**:
-
-	  - Code du sport. - art. L231-1
-
-
 ###### Article L632-2
 
-Le troisième cycle des études médicales est ouvert à tous les étudiants ayant validé le deuxième cycle des études médicales.
+Le troisième cycle des études médicales est ouvert à tous les étudiants ayant validé le deuxième cycle des études médicales. 
 
-Pour l'accomplissement de ce cycle d'études, le choix des disciplines et du centre hospitalier universitaire de rattachement
-est subordonné au rang de classement aux épreuves de l'internat. Les élèves médecins des écoles du service de santé des
-armées exercent ce choix au sein d'une liste fixée par arrêté interministériel.
+Un arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé détermine pour une période de cinq
+ans le nombre d'internes à former par spécialité, en particulier celle de médecine générale, et par subdivision territoriale,
+compte tenu de la situation de la démographie médicale dans les différentes spécialités concernées et de son évolution au
+regard des besoins de prise en charge spécialisée. 
 
-Des décrets en Conseil d'Etat déterminent les modalités des épreuves, l'organisation du troisième cycle des études médicales,
-la durée des formations nécessaires durant ce cycle et ultérieurement pour obtenir, selon les disciplines, une qualification
-et les modalités selon lesquelles les internes, quelle que soit la discipline choisie, peuvent, dans les limites compatibles
-avec l'évolution des techniques et de la démographie médicales, changer d'orientation et acquérir une formation par la
-recherche.
+Un arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé détermine les modalités en
+fonction desquelles tout étudiant qui présente le concours d'entrée en deuxième année d'études de médecine est informé de
+l'objectif de la collectivité nationale de rééquilibrage de la densité médicale sur le territoire et des mesures permettant
+d'y concourir. 
+
+Un arrêté du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé détermine le nombre de postes
+d'interne offerts chaque année par discipline ou spécialité et par centre hospitalier universitaire. Le choix effectué par
+chaque étudiant est subordonné au rang de classement aux épreuves classantes nationales. 
+
+Les élèves médecins des écoles du service de santé des armées exercent leur choix au sein d'une liste établie, en fonction
+des besoins des armées, par arrêté du ministre de la défense et des ministres chargés de l'enseignement supérieur et de la
+santé. Un décret en Conseil d'Etat fixe les conditions dans lesquelles les postes d'interne sont attribués à ces élèves. 
+
+Des décrets en Conseil d'Etat déterminent les subdivisions territoriales mentionnées au deuxième alinéa, les modalités des
+épreuves d'accès au troisième cycle, de choix d'une spécialité par les internes, d'établissement de la liste des services
+formateurs, d'organisation du troisième cycle des études médicales, de changement d'orientation ainsi que la durée des
+formations nécessaires durant ce cycle, et ultérieurement, pour obtenir selon les spécialités une qualification.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-978 du 12 novembre 1968 - art. 46 (M)
 	  - Loi n°68-978 du 12 novembre 1968 - art. 46 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -19509,29 +19464,9 @@ recherche.
 	  - Code du travail - art. R4623-27 (V)
 	  - Code rural - art. R717-52-6 (V)
 
-
-###### Article L632-3
-
-Le troisième cycle des études médicales comprend une formation spécialisée en médecine du sport.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 36 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L682-1 (V)
 
 
 ###### Article L632-4
@@ -19565,39 +19500,20 @@ n'obtiennent pas mention de la qualification correspondante.
 ###### Article L632-5
 
 Au cours du troisième cycle des études médicales, les internes reçoivent une formation théorique et pratique à temps plein
-sous le contrôle des universités.
+sous le contrôle des universités. 
 
 Quelle que soit la discipline d'internat, les internes sont soumis aux mêmes dispositions statutaires et perçoivent la même
 rémunération. Ils exercent des fonctions rémunérées hospitalières ou extra-hospitalières, soit dans les centres hospitaliers
 universitaires, soit dans des établissements hospitaliers, y compris militaires ou privés participant au service public, liés
 à ces centres par convention, soit dans des organismes agréés extra-hospitaliers ou des laboratoires agréés de recherche,
-soit sous forme de stage auprès de praticiens agréés.
-
-Les internes de médecine générale exercent leurs fonctions durant un semestre dans un centre hospitalier universitaire et
-pendant un autre semestre auprès de praticiens généralistes agréés. Les internes autres que ceux de médecine générale
-exercent leurs fonctions durant au moins deux semestres dans les hôpitaux autres qu'un centre hospitalier universitaire, sauf
-si le nombre de services dûment accrédités comme services formateurs ne le permet pas. Les modalités d'application des
-dispositions du présent article sont fixées par un décret tenant notamment compte des exigences de formation de chaque
-spécialité.
-
-Les internes de l'option de psychiatrie exercent leurs fonctions en psychiatrie pendant au moins un semestre dans un centre
-hospitalier universitaire.
+soit sous forme de stage auprès de praticiens, de centres de santé ou de structures de soins alternatives à l'hospitalisation
+agréés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-978 du 12 novembre 1968 - art. 51 (M)
 	  - Loi n°68-978 du 12 novembre 1968 - art. 51 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -19611,89 +19527,105 @@ hospitalier universitaire.
 	  - Code du travail - art. R4623-44 (Ab)
 	  - Code rural et de la pêche maritime - art. R717-52-5 (VD)
 
-
-###### Article L632-9
-
-Des enseignements dans le domaine de la santé publique sont dispensés à tous les étudiants en médecine et ouverts aux divers
-professionnels impliqués dans ce domaine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°68-978 du 12 novembre 1968 - art. 55 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
-###### Article L632-10
+###### Article L632-6
 
-Les ministres chargés respectivement de l'enseignement supérieur et de la santé déterminent chaque année le nombre de postes
-d'internes en médecine de telle façon que tous les étudiants ayant validé le deuxième cycle des études médicales puissent
-entreprendre un troisième cycle, et en fixent la répartition selon des modalités prévues par décret en Conseil d'Etat.
+Chaque année, un arrêté du ministre chargé de la santé et du ministre chargé de la sécurité sociale détermine le nombre
+d'étudiants qui, admis à poursuivre des études médicales à l'issue de la première année du premier cycle ou ultérieurement au
+cours de ces études, peuvent signer avec le centre national de gestion des praticiens hospitaliers et des personnels de
+direction de la fonction publique hospitalière un contrat d'engagement de service public. 
 
-La liste des services et des départements formateurs et la répartition des postes d'internes dans les services et
-départements sont arrêtés par le représentant de l'Etat dans la région. Un décret en Conseil d'Etat fixe les conditions
-d'attribution des postes d'internes aux élèves médecins des écoles du service de santé des armées.
+Ce contrat ouvre droit, en sus des rémunérations auxquelles les étudiants et internes peuvent prétendre du fait de leur
+formation, à une allocation mensuelle versée par le centre national de gestion jusqu'à la fin de leurs études médicales. En
+contrepartie de cette allocation, les étudiants s'engagent à exercer leurs fonctions à titre libéral ou salarié, à compter de
+la fin de leur formation, dans les lieux d'exercice mentionnés au quatrième alinéa. La durée de leur engagement est égale à
+celle pendant laquelle l'allocation leur a été versée et ne peut être inférieure à deux ans. Pendant la durée de cet
+engagement, qui n'équivaut pas à une première installation à titre libéral, ceux qui exercent leurs fonctions à titre libéral
+pratiquent les tarifs fixés par la convention mentionnée aux articles L. 162-5 et L. 162-14-1 du code de la sécurité sociale.
+
+A l'issue des épreuves mentionnées à l'article L. 632-2 du présent code, les étudiants ayant signé un contrat d'engagement de
+service public choisissent un poste d'interne sur une liste établie chaque année par arrêté du ministre chargé de la santé et
+du ministre chargé de l'enseignement supérieur, en fonction de la situation de la démographie médicale dans les différentes
+spécialités sur les territoires visés à l'alinéa précédent. 
+
+Au cours de la dernière année de leurs études, les internes ayant signé un contrat d'engagement de service public choisissent
+leur futur lieu d'exercice sur une liste, établie par le centre national de gestion sur proposition des agences régionales de
+santé, de lieux d'exercice où le schéma visé à l'article L. 1434-7 du code de la santé publique indique que l'offre médicale
+est insuffisante ou la continuité de l'accès aux soins est menacée, en priorité les zones de revitalisation rurale visées à
+l'article 1465 A du code général des impôts et les zones urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115
+du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Le directeur général de l'agence
+régionale de santé dans le ressort duquel ils exercent leurs fonctions peut, à leur demande, à tout moment, changer le lieu
+de leur exercice. Le directeur général du centre national de gestion peut, à leur demande, à tout moment, et après avis du
+directeur général de l'agence régionale de santé dans le ressort duquel ils exercent leurs fonctions, leur proposer un lieu
+d'exercice dans une zone dépendant d'une autre agence régionale de santé. 
+
+Les médecins ayant signé un contrat d'engagement de service public avec le centre national de gestion peuvent se dégager de
+leur obligation d'exercice prévue au deuxième alinéa du présent article, moyennant le paiement d'une indemnité dont le
+montant égale les sommes perçues au titre de ce contrat ainsi qu'une fraction des frais d'études engagés. Les modalités de
+remboursement et de calcul de cette somme sont fixées par un arrêté conjoint des ministres chargés de la santé et de la
+sécurité sociale. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
 **Nota:**
 
-La date d'entrée en vigueur de l'ordonnance 2004-637 a été modifiée par l'ordonnance 2005-727 du 30 juin 2005, art. 3.
+Conformément aux dispositions de l'article 46 II de la loi n° 2009-879 du 21 juillet 2009 le présent article est applicable à
+l'issue de l'année universitaire 2009-2010.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-978 du 12 novembre 1968 - art. 56 (Ab)
-	  - Loi n°68-978 du 12 novembre 1968 - art. 57 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°90-97 du 25 janvier 1990 - art. 1 (Ab)
-	  - Code du travail - art. R4623-44 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Ordonnance 2004-637 2004-07-01 art. 26 I, II JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-	  - Ordonnance n°2004-637 du 1 juillet 2004 - art. 26 () JORF 2 juillet 2004 en vigueur le 1er juillet 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
-
-
-###### Article L632-11
-
-La formation initiale et continue des professionnels de santé à la prise en charge de la douleur des patients et aux soins
-palliatifs est assurée par les centres hospitaliers et universitaires ainsi qu'il est dit à l'article L. 1112-4 du code de la
-santé publique.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
+	  - Loi n°68-978 du 12 novembre 1968 - art. 52 (Ab)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L1112-4
+	  - Loi n°95-115 du 4 février 1995 (V)
+	  - Code général des impôts, CGI. - art. 1465 (V)
+	  - Code de l'éducation - art. L632-2 (V)
+	  - Code de la sécurité sociale. - art. L162-14-1 (V)
+	  - Code de la sécurité sociale. - art. L162-5 (VT)
+
+	**Cité par**:
+
+	  - Décret n°2004-67 du 16 janvier 2004 - art. 6 (Ab)
+	  - Décret n°2007-704 du 4 mai 2007 - art. 2 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 1 (Ab)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 10 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 2 (Ab)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 4 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 4-1 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 5 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 6 (V)
+	  - Décret n°2010-735 du 29 juin 2010 - art. 8 (V)
+	  - Arrêté du 27 juillet 2010 - art. Annexe (V)
+	  - Arrêté du 4 février 2011 - art. 11 (V)
+	  - Arrêté du 4 février 2011 - art. 12 (V)
+	  - Arrêté du 24 juin 2011 - art. 1 (V)
+	  - Arrêté du 8 décembre 2011 - art. (V)
+	  - Arrêté du 3 décembre 2013 (V)
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 158 (V)
+	  - Arrêté du 12 avril 2017 - art. 8 (V)
+	  - Décret n°2017-632 du 25 avril 2017 - art. 4 (V)
+	  - Décret n°2017-703 du 2 mai 2017 - art. 3
+	  - Code de l'éducation - art. R632-21 (V)
+	  - Code de l'éducation - art. R632-6 (V)
+	  - Code de l'éducation - art. R632-66 (V)
+	  - Code de l'éducation - art. R632-67 (V)
+	  - Code de l'éducation - art. R632-8 (V)
+	  - Code de l'éducation - art. R632-80 (VD)
+	  - Code de l'éducation - art. R632-81 (VD)
+	  - Code de la santé publique - art. L1434-7 (V)
+	  - Code de la santé publique - art. R1435-9-50 (V)
+	  - Code de la sécurité sociale. - art. L136-5 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 46 (V)
 
 
 ###### Article L632-12
@@ -19701,9 +19633,8 @@ santé publique.
 Des décrets en Conseil d'Etat déterminent :
 
 1° Les conditions dans lesquelles les ressortissants des Etats membres de la Communauté européenne, de la principauté
-d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen autres que la France, titulaires d'un diplôme de
-fin de deuxième cycle des études médicales ou d'un titre équivalent, peuvent accéder à un troisième cycle de médecine
-générale ou spécialisée ;
+d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen, titulaires d'un diplôme de fin de deuxième cycle
+des études médicales ou d'un titre équivalent, peuvent accéder au troisième cycle des études médicales :
 
 2° Les modalités selon lesquelles les médecins ressortissants des Etats membres de la Communauté européenne, de la
 principauté d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen, ayant exercé pendant au moins trois
@@ -19714,23 +19645,17 @@ formation initiale ; les compétences acquises sont prises en compte pour la dur
 la Communauté européenne, de la principauté d'Andorre ou des Etats parties à l'accord sur l'Espace économique européen ;
 
 4° Les conditions dans lesquelles les personnes autorisées à exercer la médecine en France peuvent obtenir la qualification
-de spécialiste.
+de spécialiste ;
+
+5° Les conditions dans lesquelles l'expérience acquise au cours de l'exercice professionnel peut être validée, en tout ou
+partie, en vue de l'obtention d'un diplôme de formation médicale spécialisé, dans une limite compatible avec les besoins de
+soins de la population et après une durée minimum d'exercice de la spécialité correspondant à la formation initiale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-978 du 12 novembre 1968 - art. 58 (M)
 	  - Loi n°68-978 du 12 novembre 1968 - art. 58 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 60 () JORF 18 janvier 2002
 
 	**Cité par**:
 
@@ -19745,6 +19670,11 @@ de spécialiste.
 	  - Code de l'éducation - art. R632-75 (VD)
 	  - Code de la santé publique - art. L4111-1-2 (V)
 	  - Code de la santé publique - art. R4111-15 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 45
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
 ###### Article L632-13
@@ -20031,30 +19961,33 @@ dans les centres hospitaliers régionaux et dans les autres centres hospitaliers
 
 ###### Article L634-1
 
-Le troisième cycle long des études odontologiques, dénommé internat en odontologie, a une durée de trois ans et est
-accessible par concours national aux étudiants ayant obtenu la validation du deuxième cycle des études odontologiques. Après
-validation de ce troisième cycle et soutenance d'une thèse, les internes obtiennent en plus du diplôme d'Etat de docteur en
-chirurgie dentaire une attestation d'études approfondies en chirurgie dentaire.
+Le troisième cycle long des études odontologiques, dénommé internat en odontologie, est accessible par concours national aux
+étudiants ayant obtenu la validation du deuxième cycle des études odontologiques. 
 
-Le titre d'ancien interne ne peut être utilisé que par les docteurs en chirurgie dentaire qui ont obtenu l'attestation
-mentionnée à l'alinéa précédent.
+Les étudiants nommés à l'issue du concours en qualité d'interne en odontologie peuvent accéder à des formations qualifiantes
+de troisième cycle dont la liste est fixée par les ministres chargés de l'enseignement supérieur et de la santé. Le choix de
+la formation et du centre hospitalier universitaire de rattachement est subordonné au rang de classement aux épreuves de
+l'internat. 
 
-Des décrets en Conseil d'Etat déterminent les modalités du concours de l'internat, le contenu des formations, le statut des
-internes en odontologie et les conditions dans lesquelles, au cours des études qui conduisent au diplôme d'Etat de docteur en
-chirurgie dentaire, les étudiants accomplissent des stages de formation et participent aux fonctions hospitalières dans les
-structures définies au chapitre 6 du titre IV du livre Ier de la partie VI du code de la santé publique, sous la
-responsabilité des chefs de ces structures. Ils fixent également les modalités selon lesquelles il est te nu compte de la
-formation spécialisée, de l'expérience professionnelle, de la formation complémentaire et de la formation continue en art
-dentaire dont justifie un ressortissant d'un Etat membre de la Communauté européenne lorsqu'il souhaite obtenir un diplôme,
-certificat ou autre titre de praticien spécialiste en art dentaire qui n'est pas délivré dans son Etat d'origine ou de
-provenance.
+Après validation de ce troisième cycle et soutenance d'une thèse, les internes obtiennent en plus du diplôme d'Etat de
+docteur en chirurgie dentaire un diplôme mentionnant la qualification obtenue. 
+
+Le titre d'ancien interne ne peut être utilisé que par des personnes justifiant du diplôme d'Etat de docteur en chirurgie
+dentaire et du diplôme sanctionnant l'une des formations de troisième cycle prévues au précédent alinéa. 
+
+Des décrets en Conseil d'Etat déterminent les modalités du concours de l'internat, le statut des internes en odontologie et
+les conditions dans lesquelles, au cours des études qui conduisent au diplôme d'Etat de docteur en chirurgie dentaire, les
+étudiants accomplissent des stages de formation et participent aux fonctions hospitalières dans les structures définies au
+chapitre 6 du titre IV du livre Ier de la partie VI du code de la santé publique, sous la responsabilité des chefs de ces
+structures. Ils fixent également les modalités selon lesquelles il est tenu compte de la formation spécialisée, de
+l'expérience professionnelle, de la formation complémentaire et de la formation continue en art dentaire dont justifie un
+ressortissant d'un Etat membre de la Communauté européenne lorsqu'il souhaite obtenir un diplôme, certificat ou autre titre
+de praticien spécialiste en art dentaire qui n'est pas délivré dans son Etat d'origine ou de provenance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°68-978 du 12 novembre 1968 - art. 1 (M)
-	  - Loi n°68-978 du 12 novembre 1968 - art. 58 (M)
 	  - Loi n°68-978 du 12 novembre 1968 - art. 1 (Ab)
 	  - Loi n°68-978 du 12 novembre 1968 - art. 58 (Ab)
 
@@ -20068,14 +20001,9 @@ provenance.
 	  - Code de l'éducation - art. R631-17 (V)
 	  - Code de la santé publique - art. R6153-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance n°2004-1174 du 4 novembre 2004 - art. 8 () JORF 5 novembre 2004
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
 
 
 ##### Chapitre V : Les autres formations de santé.
@@ -21044,15 +20972,16 @@ membres en exercice, le regroupement au sein d'un nouvel établissement ou d'un 
 est approuvé par décret. 
 
 Les activités de formation, de recherche et de documentation des établissements font l'objet de contrats pluriannuels
-d'établissement dans le cadre de la carte des formations supérieures définie à l'article L. 614-3. Ces contrats prévoient les
-conditions dans lesquelles les personnels titulaires et contractuels de l'établissement sont évalués, conformément aux
-dispositions de l'article L. 114-3-1 du code de la recherche relatives à l'Agence d'évaluation de la recherche et de
-l'enseignement supérieur, ainsi que, le cas échéant, les modalités de la participation de l'établissement à un pôle de
-recherche et d'enseignement supérieur. Ils fixent en outre certaines obligations des établissements et prévoient les moyens
-et emplois correspondants pouvant être mis à leur disposition par l'Etat.L'attribution de ces moyens s'effectue annuellement
-dans les limites prévues par la loi de finances. Les établissements rendent compte périodiquement de l'exécution de leurs
-engagements ; leurs rapports sont soumis à l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à
-l'article L. 114-3-1 du code de la recherche. 
+d'établissement dans le cadre de la carte des formations supérieures définie à l'article L. 614-3. S'agissant des composantes
+médicales de l'université, ces contrats prennent en compte les éléments figurant dans la convention prévue à l'article L.
+713-4 passée avec le centre hospitalier régional. Ces contrats prévoient les conditions dans lesquelles les personnels
+titulaires et contractuels de l'établissement sont évalués, conformément aux dispositions de l'article L. 114-3-1 du code de
+la recherche relatives à l'Agence d'évaluation de la recherche et de l'enseignement supérieur, ainsi que, le cas échéant, les
+modalités de la participation de l'établissement à un pôle de recherche et d'enseignement supérieur. Ils fixent en outre
+certaines obligations des établissements et prévoient les moyens et emplois correspondants pouvant être mis à leur
+disposition par l'Etat. L'attribution de ces moyens s'effectue annuellement dans les limites prévues par la loi de finances.
+Les établissements rendent compte périodiquement de l'exécution de leurs engagements ; leurs rapports sont soumis à l'Agence
+d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L. 114-3-1 du code de la recherche. 
 
 Ils mettent en place un outil de contrôle de gestion et d'aide à la décision de nature à leur permettre d'assumer l'ensemble
 de leurs missions, compétences et responsabilités ainsi que d'assurer le suivi des contrats pluriannuels d'établissement. 
@@ -21064,7 +20993,8 @@ de services à titre onéreux, exploiter des brevets et licences et commercialis
 créer à cette fin des services d'activités industrielles et commerciales, dans les conditions prévues à l'article L. 123-5.
 Ils peuvent prendre des participations, participer à des groupements et créer des filiales dans des conditions fixées par
 décret en Conseil d'Etat. Ils peuvent recourir à l'arbitrage en cas de litiges nés de l'exécution de contrats passés avec des
-organismes étrangers. Ils peuvent transiger au sens de l'article 2044 du code civil, dans des conditions définies par décret.
+organismes étrangers. Ils peuvent transiger au sens de l'article 2044 du code civil, dans des conditions définies par
+décret. 
 
 L'État tient compte des résultats de l'évaluation réalisée par l'Agence d'évaluation de la recherche et de l'enseignement
 supérieur, en particulier des résultats obtenus en application des dispositions de l'article L. 114-3-2 du code de la
@@ -21075,7 +21005,6 @@ pluriannuels susmentionnés.
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 20
 	  - Loi n°84-52 du 26 janvier 1984 - art. 20 (Ab)
 
 	**Cité par**:
@@ -21157,24 +21086,17 @@ pluriannuels susmentionnés.
 	  - Code de la santé publique - art. R6142-42 (V)
 	  - Code général des impôts, CGI. - art. 1464 H (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 17 () JORF 11 août 2007
-	  - Loi n°2007-1199 du 10 août 2007 - art. 2 () JORF 11 août 2007
-	  - Loi n°2007-1199 du 10 août 2007 - art. 27 () JORF 11 août 2007
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 32
 
 	**Cite**:
 
-	  - Code de la propriété intellectuelle - art. L614-3 (V)
-	  - Code civil - art. 2044 (V)
 	  - Code de la recherche - art. L114-3-1 (V)
 	  - Code de la recherche - art. L114-3-2 (V)
 	  - Code de l'éducation - art. L123-5 (V)
+	  - Code de l'éducation - art. L614-3 (V)
+	  - Code de l'éducation - art. L713-4 (V)
 	  - Code de l'éducation - art. L715-2 (V)
 
 
@@ -30480,19 +30402,17 @@ moitié nommés à parts égales par les mêmes ministres.
 
 Des décrets en Conseil d'Etat déterminent les modalités d'application de la présente section, et notamment le statut et les
 conditions de rémunération du personnel médical et scientifique enseignant et hospitalier des centres hospitaliers et
-universitaires.
+universitaires. Le régime indemnitaire applicable à ces personnels est fixé par décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 8 (M)
 	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 19
 
 	**Cité par**:
 
