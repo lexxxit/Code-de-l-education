@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2009-09-01
 
 # Partie législative
 
@@ -57442,16 +57442,14 @@ réserve que soient assurés les aménagements pédagogiques adéquats. Ils ne p
 l'accord de la famille ou de l'élève majeur et sont autorisés par le chef d'établissement après consultation des conseils des
 classes d'origine et d'accueil.
 
-Pour les voies d'orientation correspondant aux enseignements technologiques et professionnels, les demandes d'orientation
-peuvent porter sur une ou plusieurs spécialités professionnelles. Les propositions d'orientation et les décisions
-d'orientation peuvent inclure à titre d'incitation un ou plusieurs champs professionnels définis par rapport aux quarante-
-sept groupes de la nomenclature des niveaux de formation, conformément à l'annexe de l'arrêté mentionné au premier alinéa.
+Pour la voie d'orientation correspondant aux enseignements professionnels, les demandes d'orientation peuvent porter sur un
+ou plusieurs champs et spécialités professionnels. De même, les propositions d'orientation et les décisions d'orientation
+peuvent inclure à titre de conseil un ou plusieurs champs et spécialités professionnels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 14
 	  - Décret n°90-484 du 14 juin 1990 - art. 14 (Ab)
 
 	**Cité par**:
@@ -57464,9 +57462,9 @@ sept groupes de la nomenclature des niveaux de formation, conformément à l'ann
 	  - Code de l'éducation - art. D331-54 (VD)
 	  - Code de l'éducation - art. R451-5 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 2
 
 
 ###### Article D331-37
@@ -57492,33 +57490,25 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 
 ###### Article D331-38
 
-A l'intérieur d'une voie d'orientation, le choix des enseignements optionnels ou des spécialités incombe aux parents de
-l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de
-classe. L'affectation de l'élève à l'issue d'un cycle dans la voie d'orientation du cycle supérieur est réalisée en fonction
-des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
+Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe. 
 
-L'affectation est de la compétence de l'inspecteur d'académie, pour les formations implantées dans le département. Il est
-assisté d'une commission dont la composition et le fonctionnement sont définis par arrêté du ministre chargé de l'éducation.
+L'affectation est de la compétence de l'inspecteur d'académie, sous l'autorité du recteur, pour les formations implantées
+dans le département.L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est
+réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
 
 Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève
 l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
-
-**Nota:**
-
-Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
-préparatoire à l'affectation).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 16
 	  - Décret n°90-484 du 14 juin 1990 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 3
 
 	**Cité par**:
 
@@ -57580,23 +57570,27 @@ rencontres et d'échanges entre enseignants et élèves des cycles concernés.
 ###### Article D331-41
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous la seule réserve des dispositions réglementaires relatives aux procédures disciplinaires.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité effectués en application des
+dispositions de l'article D. 331-38 ou de décisions à caractère disciplinaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 19
 	  - Décret n°90-484 du 14 juin 1990 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 4
 
 	**Cité par**:
 
 	  - Arrêté du 27 janvier 2010 - art. 9 (V)
 	  - Arrêté du 27 mai 2010 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-38
 
 
 ###### Article D331-42
@@ -57604,22 +57598,20 @@ sous la seule réserve des dispositions réglementaires relatives aux procédure
 Tout élève ayant échoué à l'examen du baccalauréat, du brevet de technicien, du brevet de technicien supérieur, du certificat
 d'aptitude professionnelle ou du brevet d'études professionnelles se voit offrir le droit d'une nouvelle préparation de cet
 examen, le cas échéant, selon des modalités adaptées au niveau des connaissances qu'il a acquises dans les matières
-d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées d'enseignement général et
-technologique, ce droit s'exerce dans la limite des places demeurées vacantes après l'admission des élèves issus de la classe
-précédente de l'établissement scolaire et peut entraîner un changement d'établissement après qu'ont été explorées toutes les
-possibilités d'un maintien sur place de l'élève. Le changement éventuel d'établissement scolaire relève de la compétence de
-l'inspecteur d'académie.
+d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées      , ce droit s'exerce dans la
+limite des places demeurées vacantes après l'admission des élèves issus de la classe précédente de l'établissement scolaire
+et peut entraîner un changement d'établissement après qu'ont été explorées toutes les possibilités d'un maintien sur place de
+l'élève. Le changement éventuel d'établissement scolaire relève de la compétence de l'inspecteur d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 20
 	  - Décret n°90-484 du 14 juin 1990 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 5
 
 	**Cité par**:
 
@@ -58077,35 +58069,28 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 
 ###### Article D331-59
 
-A l'intérieur d'une voie d'orientation, le choix des enseignements optionnels ou des spécialités incombe aux parents de
-l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de la
-classe réuni sous la présidence du chef d'établissement.
+Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de la classe réuni
+sous la présidence du chef d'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°91-372 1991-04-16 art. 13
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 6
 
 
 ###### Article D331-60
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous la seule réserve des procédures disciplinaires.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou des décisions à caractère
+disciplinaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°91-372 1991-04-16 art. 14
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 7
 
 
 ###### Article D331-61
@@ -58113,19 +58098,15 @@ sous la seule réserve des procédures disciplinaires.
 Tout élève ayant échoué à l'examen du baccalauréat, du brevet de technicien, du brevet de technicien supérieur, du certificat
 d'aptitude professionnelle ou du brevet d'études professionnelles se voit offrir le droit d'une nouvelle préparation de cet
 examen, le cas échéant, selon des modalités adaptées au niveau des connaissances qu'il a acquises dans les matières
-d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées d'enseignement général et
-technologique privés sous contrat, ce droit s'exerce dans la limite des places demeurées vacantes après l'admission des
-élèves issus de la classe précédente de l'établissement scolaire.
+d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées      privés sous contrat, ce droit
+s'exerce dans la limite des places demeurées vacantes après l'admission des élèves issus de la classe précédente de
+l'établissement scolaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°91-372 1991-04-16 art. 15
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 5
 
 
 #### Chapitre II : Les enseignements dispensés dans les collèges.
@@ -58958,9 +58939,8 @@ Trois voies de formation sont organisées dans les lycées :
 technicien qui porte mention d'une spécialité technique. Ces diplômes attestent que leurs titulaires sont aptes à exercer une
 activité de technicien ;
 
-3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle selon des modalités
-d'organisation et de durée diversifiées dans des conditions fixées par arrêté du ministre chargé de l'éducation, du brevet
-d'études professionnelles et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle.
+3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle, du brevet d'études
+professionnelles et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle. 
 
 Les voies générale et technologique se composent :
 
@@ -58970,28 +58950,29 @@ régime spécifique ;
 b) D'un cycle terminal constitué par les classes de première et terminale de la voie générale et les classes de première et
 terminale de la voie technologique.
 
-La voie professionnelle permet d'accéder à trois types de diplômes : le certificat d'aptitude professionnelle préparé selon
-des modalités d'organisation et de durée fixées par arrêté du ministre chargé de l'éducation, le brevet d'études
-professionnelles préparé en deux années, le baccalauréat professionnel préparé en deux années.
+La voie professionnelle comprend : 
 
-Le cycle de deux ans conduisant au brevet d'études professionnelles constitue le cycle de détermination de la voie
-professionnelle. Il en va de même du certificat d'aptitude professionnelle lorsqu'il est préparé en deux années.
+a) Un cycle de deux ans conduisant à un des diplômes de niveau V dont la liste est fixée par arrêté du ministre chargé de
+l'éducation ; 
 
-Le titulaire d'un diplôme obtenu à l'issue du cycle de détermination de la voie professionnelle a la possibilité d'accéder au
-cycle terminal de la voie technologique, selon des modalités adaptées, ou au cycle terminal de la voie professionnelle
-conformément aux dispositions fixées par le ministre chargé de l'éducation.
+b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de
+seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle
+peut être rattachée, dans les conditions définies par arrêté du ministre chargé de l'éducation, à un des champs
+professionnels définis par arrêté du ministre chargé de l'éducation. Au cours de ce cycle, les élèves se présentent aux
+épreuves d'un brevet d'études professionnelles ou d'un certificat d'aptitude professionnelle dans les conditions prévues par
+arrêté du ministre chargé de l'éducation. 
 
-Le cycle de deux années conduisant au baccalauréat professionnel constitue le cycle terminal de la voie professionnelle.
+Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et
+professionnelle ainsi qu'entre les cycles de la voie professionnelle. 
+
+Des dispositifs d'aide et d'accompagnement sont mis en place pour les élèves qui en ont besoin, sur proposition de l'équipe
+pédagogique de la classe.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -59007,6 +58988,10 @@ Le cycle de deux années conduisant au baccalauréat professionnel constitue le 
 	  - Code de l'éducation - art. D333-11 (V)
 	  - Code de l'éducation - art. D337-56 (V)
 	  - Code de l'éducation - art. R451-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-148 du 10 février 2009 - art. 8
 
 
 ###### Article D333-3
@@ -59097,8 +59082,8 @@ l'éducation.
 
 ###### Article D333-7
 
-Les lycées professionnels organisent des formations secondaires conduisant aux diplômes nationaux du certificat d'aptitude
-professionnelle, du brevet d'études professionnelles, du brevet de technicien ou du baccalauréat professionnel.
+Les lycées professionnels organisent des formations conduisant à des diplômes nationaux professionnels inscrits au répertoire
+national des certifications professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -59106,17 +59091,15 @@ professionnelle, du brevet d'études professionnelles, du brevet de technicien o
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 9
 
 
 ###### Article D333-8
 
-Les lycées organisant une formation professionnelle conduisant aux diplômes du brevet d'études professionnelles et du
-certificat d'aptitude professionnelle peuvent comporter des classes au niveau de la troisième et de la quatrième année des
-collèges comme il est prévu à l'article L. 332-3. L'accès en est ouvert aux élèves entrant en troisième comme en quatrième
-année.
+Les lycées organisant une formation professionnelle conduisant à des diplômes nationaux professionnels peuvent comporter des
+classes au niveau de la troisième et de la quatrième année des collèges comme il est prévu à l'article L. 332-3. 
 
 La scolarité est organisée suivant les dispositions des articles D. 332-3, D. 332-4 et D. 332-5.
 
@@ -59126,16 +59109,14 @@ La scolarité est organisée suivant les dispositions des articles D. 332-3, D. 
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 10
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D332-3 (V)
-	  - Code de l'éducation - art. D332-4 (V)
-	  - Code de l'éducation - art. D332-5 (V)
-	  - Code de l'éducation - art. L332-3 (V)
+	  - Code de l'éducation - art. D332-3
+	  - Code de l'éducation - art. L332-3
 
 
 ###### Article D333-9
@@ -59308,23 +59289,8 @@ académique habilitée par lui à cet effet.
 
 ###### Article D333-16
 
-La formation sanctionnée par le diplôme national du brevet de technicien prépare les élèves à l'exercice d'une activité
-professionnelle du niveau de technicien. Elle associe des enseignements généraux et une formation technologique spécialisée
-qui peut comporter un ou plusieurs stages professionnels.
-
-La formation sanctionnée par le diplôme national du brevet d'études professionnelles prépare les élèves à l'exercice d'une
-activité professionnelle du niveau d'ouvrier qualifié ou d'employé qualifié. Elle met son titulaire en mesure d'exercer à son
-niveau de qualification une des activités relevant d'un secteur professionnel ou une fonction commune à plusieurs secteurs
-professionnels et de faire face aux adaptations techniques ultérieures ou à une éventuelle reconversion d'activités.
-
-La formation sanctionnée par le diplôme national du certificat d'aptitude professionnelle prépare les élèves à l'exercice
-d'une activité professionnelle du niveau d'ouvrier qualifié ou d'employé qualifié. Elle met son titulaire en mesure d'exercer
-un métier déterminé, d'en suivre l'évolution et de recevoir ultérieurement avec profit des formations d'adaptation à de
-nouvelles activités.
-
-L'organisation des formations conduisant au brevet d'études professionnelles ou au certificat d'aptitude professionnelle est
-diversifiée en tant que de besoin pour tenir compte de la formation générale et technologique reçue antérieurement par les
-élèves.
+L'organisation des formations conduisant aux diplômes professionnels est diversifiée en tant que de besoin pour tenir compte
+des acquis des élèves dans la formation générale, technologique et professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -59332,9 +59298,9 @@ diversifiée en tant que de besoin pour tenir compte de la formation générale 
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 11
 
 	**Cité par**:
 
@@ -59344,9 +59310,9 @@ diversifiée en tant que de besoin pour tenir compte de la formation générale 
 
 ###### Article D333-17
 
-Les formations secondaires des lycées préparant les élèves à l'exercice d'une activité professionnelle permettent la prise en
-compte dans les conventions collectives prévues au code du travail des diplômes les sanctionnant, au niveau de qualification
-professionnelle mentionné pour chacun d'eux à l'article D. 333-16.
+Les formations des lycées préparant les élèves à l'exercice d'une activité professionnelle permettent la prise en compte dans
+les conventions collectives prévues au code du travail des diplômes les sanctionnant, au niveau de qualification
+professionnelle prévu par les dispositions réglementaires qui les régissent.
 
 **Liens relatifs à cet article**
 
@@ -59354,25 +59320,23 @@ professionnelle mentionné pour chacun d'eux à l'article D. 333-16.
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D333-16 (V)
+	  - Décret n°2009-148 du 10 février 2009 - art. 11
 
 
 ###### Article D333-18
 
-Sur demande de la famille ou de l'élève s'il est majeur et sur proposition du conseil de classe de l'établissement fréquenté,
+Sur demande de la famille ou de l'élève s'il est majeur et après avis du conseil de classe de l'établissement fréquenté,
 l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, peut autoriser un titulaire du
-brevet d'études professionnelles ou du certificat d'aptitude professionnelle à poursuivre des études dans un lycée pour y
-postuler soit le brevet de technicien, soit le baccalauréat de l'enseignement secondaire.
+brevet d'études professionnelles ou du certificat d'aptitude professionnelle à poursuivre des études en lycée conduisant soit
+au brevet de technicien, soit au baccalauréat général ou technologique. Dans les mêmes conditions, un élève parvenu au terme
+d'une seconde ou d'une première professionnelle peut être autorisé à poursuivre des études conduisant à un baccalauréat
+général ou technologique. 
 
-L'élève est accueilli en troisième année de formation correspondant au diplôme postulé ci-dessus, soit directement, soit
-après une période d'adaptation dont la durée et les conditions sont fixées par arrêté du ministre chargé de l'éducation en
-fonction de la nature et de la spécialité du diplôme acquis et du diplôme postulé.
+L'élève est accueilli en deuxième ou troisième année de formation soit directement, soit après une période d'adaptation dont
+la durée et les conditions sont fixées par arrêté du ministre chargé de l'éducation en fonction de la nature et de la
+spécialité du diplôme acquis et du diplôme préparé.
 
 **Liens relatifs à cet article**
 
@@ -59380,15 +59344,32 @@ fonction de la nature et de la spécialité du diplôme acquis et du diplôme po
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-148 du 10 février 2009 - art. 11
 
 	**Cité par**:
 
 	  - Arrêté du 27 mai 2010 - art. 1 (V)
 	  - Arrêté du 21 février 2013 - art. 1 (V)
 	  - Arrêté du 11 mars 2015 - art. 1 (V)
+
+
+###### Article D333-18-1
+
+Sur demande de la famille ou de l'élève s'il est majeur et après avis de l'équipe pédagogique de la classe de l'établissement
+d'accueil, le recteur peut autoriser les élèves ayant accompli la scolarité complète d'une classe de seconde ou de première
+dans un lycée d'enseignement général ou technologique à intégrer une classe de seconde ou de première professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-148 du 10 février 2009 - art. 12
+
+	**Cité par**:
+
+	  - Arrêté du 27 janvier 2010 - art. 9 (V)
 
 
 #### Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.
@@ -63607,24 +63588,27 @@ Il est classé au niveau V de la nomenclature interministérielle des niveaux de
 ###### Article D337-2
 
 Chaque spécialité du certificat d'aptitude professionnelle est définie par un arrêté du ministre chargé de l'éducation, après
-avis de la ou des commissions professionnelles consultatives compétentes.
+avis de la ou des commissions professionnelles consultatives compétentes. 
 
 Cet arrêté détermine les activités auxquelles se réfère le certificat d'aptitude professionnelle, les connaissances et
-compétences générales et professionnelles requises pour son obtention et un règlement d'examen.
+compétences générales et professionnelles requises pour son obtention et un règlement d'examen. 
 
 Il organise le diplôme en unités et peut prévoir que des unités constitutives du diplôme sont soit communes à plusieurs
-spécialités du certificat d'aptitude professionnelle, soit équivalentes à des unités d'autres spécialités.
+spécialités du certificat d'aptitude professionnelle, soit équivalentes à des unités d'autres spécialités. 
+
+Des spécialités relevant de la formation professionnelle maritime, au sens de l'article R. 342-1, sont créées par arrêté du
+ministre chargé de l'éducation et du ministre chargé de la mer, après avis des commissions professionnelles consultatives
+compétentes et du comité spécialisé de la formation professionnelle maritime.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 2
 	  - Décret n°2002-463 du 4 avril 2002 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-147 du 10 février 2009 - art. 1
 
 	**Cité par**:
 
@@ -63632,6 +63616,10 @@ spécialités du certificat d'aptitude professionnelle, soit équivalentes à de
 	  - Code de l'éducation - art. D337-25-1 (M)
 	  - Code de l'éducation - art. D337-4 (V)
 	  - Code de l'éducation - art. D337-8 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R342-1
 
 
 ###### Article D337-3
@@ -63669,7 +63657,8 @@ des spécialités par un arrêté du ministre chargé de l'éducation.
 Toutefois, pour les candidats mentionnés à l'article D. 337-18, bénéficiant d'une décision de positionnement, prise par le
 recteur après avis de l'équipe pédagogique, cette durée peut être diminuée dans les conditions fixées par l'arrêté prévu à
 l'article D. 337-2. Pour les candidats préparant l'examen par la voie scolaire, la durée de cette période ne peut être
-inférieure à huit semaines.
+inférieure à huit semaines. Pour les candidats admis dans le cycle de trois ans conduisant au baccalauréat professionnel, la
+durée de cette période ne peut être inférieure à huit semaines.
 
 **Liens relatifs à cet article**
 
@@ -63679,7 +63668,7 @@ inférieure à huit semaines.
 
 	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+	  - Décret n°2009-147 du 10 février 2009 - art. 2
 
 	**Cité par**:
 
@@ -63720,36 +63709,54 @@ acquis de l'expérience en application de l'article L. 335-5.
 
 La formation préparant à l'examen du certificat d'aptitude professionnelle peut être suivie par la voie scolaire dans un
 établissement public local d'enseignement ou dans un établissement d'enseignement technique privé, par l'apprentissage défini
-au titre Ier du livre Ier du code du travail, dans le cadre de la formation professionnelle continue définie au livre IX du
-même code, ou par la voie de l'enseignement à distance.
+au livre II de la sixième partie du code du travail, dans le cadre de la formation professionnelle continue définie au livre
+III de la sixième partie du même code, ou par la voie de l'enseignement à distance.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 6
 	  - Décret n°2002-463 du 4 avril 2002 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-147 du 10 février 2009 - art. 3
 
 
 ###### Article D337-7
 
-Les candidats mineurs au 31 décembre de l'année civile de l'examen du certificat d'aptitude professionnelle doivent justifier
-avoir suivi la formation conduisant à celui-ci pour s'y présenter.
+Peuvent se présenter au certificat d'aptitude professionnelle : 
+
+1° Les candidats majeurs ou mineurs : 
+
+a) Sous statut scolaire dans un établissement public local d'enseignement ou dans un établissement privé sous contrat qui ont
+suivi le cycle conduisant au diplôme ; 
+
+b) Sous statut scolaire dans un établissement public local d'enseignement ou dans un établissement privé sous contrat qui
+sont engagés dans le cycle conduisant à un baccalauréat professionnel correspondant à la spécialité du diplôme postulé ou
+relevant du même champ professionnel ; 
+
+c) Qui ont préparé le diplôme par la voie de l'apprentissage ; 
+
+d) Qui sont en formation en vue de préparer un baccalauréat professionnel par la voie de l'apprentissage et qui demandent à
+passer la spécialité du certificat d'aptitude professionnelle prévue par arrêté du ministre chargé de l'éducation
+nationale ; 
+
+e) Qui justifient avoir suivi une préparation par la voie de la formation professionnelle continue définie au livre III de la
+sixième partie du code du travail ou une préparation dans un établissement privé hors contrat ou par la voie de
+l'enseignement à distance ; 
+
+2° Les candidats majeurs ne justifiant pas avoir suivi une formation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 7
 	  - Décret n°2002-463 du 4 avril 2002 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-147 du 10 février 2009 - art. 4
 
 	**Cité par**:
 
@@ -63783,21 +63790,19 @@ Les épreuves de l'examen peuvent être passées au cours d'une seule session ou
 
 ###### Article D337-9
 
-Les candidats ayant préparé le certificat d'aptitude professionnelle par la voie scolaire ou l'apprentissage, dans un centre
-de formation d'apprentis ou une section d'apprentissage sont tenus, à l'issue de la formation, de passer l'ensemble des
-épreuves au cours d'une seule session, sauf dérogation individuelle accordée par le recteur dans des conditions fixées par le
-ministre chargé de l'éducation.
+Les candidats sous statut scolaire ou d'apprenti sont tenus, à l'issue de la formation, de passer l'ensemble des épreuves au
+cours d'une seule session, sauf dérogation individuelle accordée par le recteur dans des conditions fixées par le ministre
+chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 9
 	  - Décret n°2002-463 du 4 avril 2002 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-147 du 10 février 2009 - art. 5
 
 	**Cité par**:
 
@@ -63871,16 +63876,18 @@ continue ou d'enseignement à distance.
 ###### Article D337-11
 
 Quatre au moins des épreuves obligatoires mentionnées à l'article D. 337-3 sont évaluées par contrôle en cours de formation
-pour les candidats ayant préparé le diplôme du certificat d'aptitude professionnelle : 
+pour les candidats : 
 
-1° Par la voie scolaire, dans des établissements d'enseignement public ou des établissements d'enseignement privés sous
-contrat ; 
+1° Mentionnés aux a et b du 1° de l'article D. 337-7 ; 
 
-2° Par l'apprentissage, dans des centres de formation d'apprentis ou des sections d'apprentissage habilités dans les
-conditions mentionnées au 3° de l'article D. 337-14 ; 
+2° Mentionnés au d du 1° de l'article D. 377-7, en formation dans un centre de formation d'apprentis ou une section
+d'apprentissage habilités ; 
 
-3° Ou dans le cadre de la formation professionnelle continue dans un établissement d'enseignement public autre que ceux
-mentionnés à l'article D. 337-12. 
+3° Ou qui ont préparé le diplôme par l'apprentissage, dans des centres de formation d'apprentis ou des sections
+d'apprentissage habilités dans les conditions mentionnées au 3° de l'article D. 337-14 ; 
+
+4° Ou qui ont préparé le diplôme dans le cadre de la formation professionnelle continue dans un établissement d'enseignement
+public autre que ceux mentionnés à l'article D. 337-12. 
 
 Les autres épreuves sont évaluées par un contrôle en cours de formation ou par un contrôle terminal.
 
@@ -63892,12 +63899,13 @@ Les autres épreuves sont évaluées par un contrôle en cours de formation ou p
 
 	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. 4
+	  - Décret n°2009-147 du 10 février 2009 - art. 6
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D337-12
 	  - Code de l'éducation - art. D337-3
+	  - Code de l'éducation - art. D337-7
 
 	**Cité par**:
 
@@ -64310,13 +64318,37 @@ spécialités du certificat d'aptitude professionnelle avant leur mise en confor
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
+###### Article D337-25-1
+
+Dans les spécialités mentionnées au quatrième alinéa de l'article D. 337-2, le ministre chargé de la mer et le directeur
+régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui
+concerne les articles D. 337-4, 
+D. 337-9, D. 337-16 et D. 337-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-147 du 10 février 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-16
+	  - Code de l'éducation - art. D337-2
+	  - Code de l'éducation - art. D337-4
+	  - Code de l'éducation - art. D337-9
+
+
 ##### Section 2 : Le brevet d'études professionnelles
 
 ##### Sous-section 1 : Dispositions générales.
 
 ###### Article D337-26
 
-Les brevets d'études professionnelles sont des diplômes nationaux qui attestent d'une qualification professionnelle.
+Le brevet d'études professionnelles est un diplôme national qui atteste d'une qualification professionnelle. 
+
+Il est enregistré dans le répertoire national des certifications professionnelles et classé au niveau V de la nomenclature
+interministérielle des niveaux de formation.
 
 **Liens relatifs à cet article**
 
@@ -64324,9 +64356,9 @@ Les brevets d'études professionnelles sont des diplômes nationaux qui attesten
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 2
 
 	**Cité par**:
 
@@ -64336,10 +64368,17 @@ Les brevets d'études professionnelles sont des diplômes nationaux qui attesten
 
 ###### Article D337-27
 
-Chaque brevet d'études professionnelles sanctionne la reconnaissance de compétences et de connaissances professionnelles,
-technologiques et générales, suffisantes pour exercer une ou plusieurs activités relevant d'un secteur professionnel ou une
-fonction commune à plusieurs secteurs professionnels, ainsi que pour s'adapter à l'évolution des techniques et des méthodes
-de travail. Il permet également la poursuite d'études techniques ou professionnelles.
+Chaque spécialité du brevet d'études professionnelles est définie par un arrêté du ministre chargé de l'éducation, après avis
+de la ou des commissions professionnelles consultatives compétentes. 
+
+Cet arrêté détermine les activités auxquelles se réfère le brevet d'études professionnelles, les connaissances et compétences
+générales et professionnelles requises pour son obtention et un règlement d'examen. Il organise le diplôme en unités,
+générales et professionnelles, chacune constituée d'un ensemble cohérent de compétences et de connaissances au regard de la
+finalité du diplôme. 
+
+Des spécialités relevant de la formation professionnelle maritime, au sens de l'article R. 342-1, sont créées par arrêté du
+ministre chargé de l'éducation et du ministre chargé de la mer, après avis des commissions professionnelles consultatives
+compétentes et du comité spécialisé de la formation professionnelle maritime.
 
 **Liens relatifs à cet article**
 
@@ -64347,9 +64386,9 @@ de travail. Il permet également la poursuite d'études techniques ou profession
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 2
 
 	**Cité par**:
 
@@ -64359,13 +64398,22 @@ de travail. Il permet également la poursuite d'études techniques ou profession
 	  - Code de l'éducation - art. D337-49 (VD)
 	  - Code de l'éducation - art. D337-50-1 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. R342-1
+
 
 ###### Article D337-28
 
-Les brevets d'études professionnelles régis par la présente section sont créés par arrêté du ministre chargé de l'éducation,
-après avis des commissions professionnelles consultatives compétentes instituées par les articles D. 335-33 à D. 335-37. Cet
-arrêté établit le règlement particulier du diplôme et décrit, pour chaque brevet d'études professionnelles, les compétences
-professionnelles, technologiques et générales requises pour son obtention.
+Dans des conditions fixées par un arrêté du ministre chargé de l'éducation, les candidats titulaires de certains titres ou
+diplômes peuvent être dispensés de l'obtention d'une ou plusieurs unités du diplôme présenté. 
+
+Dans les mêmes conditions, les candidats justifiant de l'obtention de certaines unités ou du bénéfice de certaines épreuves
+d'un diplôme préparé antérieurement peuvent, dans la limite de leur validité, être dispensés de l'obtention d'une ou
+plusieurs unités constitutives du diplôme présenté. 
+
+Les dispenses accordées au titre des alinéas précédents peuvent porter sur la totalité des unités permettant l'obtention du
+diplôme.
 
 **Liens relatifs à cet article**
 
@@ -64374,35 +64422,41 @@ professionnelles, technologiques et générales requises pour son obtention.
 	  - Décret n°87-851 du 19 octobre 1987 - art. 3 (Ab)
 	  - Décret n°87-851 du 19 octobre 1987 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-36 (V)
 	  - Code de l'éducation - art. D337-50-1 (V)
 
-	**Cite**:
-
-	  - Code de l'éducation D335-33 à D335-37
-
 
 ##### Sous-section 2 : Conditions de candidature.
 
 ###### Article D337-29
 
-Les candidats mineurs au 31 décembre de la session de l'examen ne peuvent postuler au brevet d'études professionnelles que
-s'ils justifient en avoir suivi la préparation :
+Peuvent se présenter au brevet d'études professionnelles : 
 
-1° Soit par la voie scolaire, dans un lycée professionnel ou dans une école privée d'enseignement technique, telle que
-définie aux articles L. 441-10 à L. 441-13 et L. 443-2 à L. 443-4 du code de l'éducation ;
+1° Les candidats majeurs ou mineurs : 
 
-2° Soit par la voie de l'apprentissage définie au titre Ier du livre Ier du code du travail ;
+a) Sous statut scolaire dans un établissement public local d'enseignement ou dans un établissement privé sous contrat qui
+sont engagés dans le cycle conduisant à un baccalauréat professionnel correspondant à la spécialité du diplôme postulé ou
+relevant du même champ professionnel ; 
 
-3° Soit par la voie de la formation professionnelle continue définie au livre IX du code du travail ;
+b) Qui sont engagés dans le cycle conduisant au baccalauréat professionnel dans le cadre de l'enseignement à distance ou dans
+un établissement privé hors contrat ; 
 
-4° Soit par la voie de l'enseignement à distance.
+c) En formation en vue de préparer un baccalauréat professionnel par la voie de l'apprentissage définie au livre II de la
+sixième partie du code du travail ; 
+
+d) Qui justifient avoir suivi une préparation par la voie de la formation professionnelle continue définie au livre III de la
+sixième partie du code du travail ; 
+
+2° les candidats majeurs ne justifiant pas avoir suivi une formation. 
+
+A chaque session, les candidats ne peuvent s'inscrire qu'en vue de l'obtention d'une seule spécialité de brevet d'études
+professionnelles.
 
 **Liens relatifs à cet article**
 
@@ -64417,29 +64471,25 @@ définie aux articles L. 441-10 à L. 441-13 et L. 443-2 à L. 443-4 du code de 
 	  - Code de l'éducation - art. D337-38 (VD)
 	  - Code de l'éducation - art. D337-39 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation L441-10 à L441-13, L443-2 à L443-4
+	  - Code de l'éducation
 
 
 ##### Sous-section 3 : Conditions de délivrance.
 
 ###### Article D337-30
 
-Le brevet d'études professionnelles est délivré au vu des résultats obtenus à un examen sanctionnant l'évaluation des
-capacités des candidats.
+Le brevet d'études professionnelles est obtenu par le succès à un examen ou, en tout ou en partie, par la validation des
+acquis de l'expérience en application de l'article L. 335-5 du code de l'éducation. 
 
-Pour les candidats sous statut scolaire ou apprentis ou relevant de la formation professionnelle continue, l'examen se
-déroule sous la forme d'une combinaison d'épreuves ponctuelles terminales et d'un contrôle en cours de formation dans des
-conditions fixées à l'article D. 337-33.
-
-Pour les candidats postulant le brevet d'études professionnelles par la voie de la formation professionnelle continue, la
-part du contrôle en cours de formation peut être étendue selon des dispositions particulières arrêtées par le ministre chargé
-de l'éducation.
+Les candidats sous statut scolaire doivent passer l'ensemble des épreuves au cours d'une seule session. Les autres candidats
+peuvent choisir, au moment de leur inscription, de présenter l'ensemble des épreuves au cours d'une seule session ou de les
+répartir sur plusieurs sessions. Ce choix est définitif.
 
 **Liens relatifs à cet article**
 
@@ -64480,27 +64530,24 @@ de l'éducation.
 	  - Arrêté du 22 juin 2016 - art. 4 (V)
 	  - Arrêté du 22 juin 2016 - art. 5 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-33 (V)
+	  - Code de l'éducation - art. L335-5
 
 
 ###### Article D337-32
 
-Pour les candidats au brevet d'études professionnelles ayant suivi une préparation à l'examen par la voie de l'enseignement à
-distance, ainsi que pour les candidats majeurs ne justifiant pas d'une préparation au diplôme telle que définie à l'article
-D. 337-29 ou ayant suivi la préparation dans un établissement privé hors contrat, l'examen se déroule sous forme d'épreuves
-ponctuelles terminales.
+Le règlement particulier de chaque brevet d'études professionnelles fixe la liste des unités, le coefficient correspondant à
+chaque unité et les modalités d'examen.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°87-851 1987-10-19 art. 6, alinéa 5
 	  - Décret n°87-851 du 19 octobre 1987 - art. 6 (Ab)
 
 	**Cité par**:
@@ -64511,30 +64558,17 @@ ponctuelles terminales.
 	  - Code de l'éducation - art. D373-2 (MMN)
 	  - Code de l'éducation - art. D374-3 (VT)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D337-29 (V)
+	  - Décret n°2009-146 du 10 février 2009 - art. 3
 
 
 ###### Article D337-33
 
-L'examen comporte au maximum huit épreuves obligatoires organisées en une seule série.
+L'examen comporte cinq unités obligatoires. A chaque unité constitutive du diplôme correspond une épreuve. 
 
 Les conditions de dispense de l'épreuve obligatoire d'éducation physique et sportive sont fixées par le ministre chargé de
 l'éducation.
-
-Les candidats peuvent en outre se présenter à une épreuve facultative choisie sur une liste limitée à trois dont l'une porte
-sur une langue vivante.
-
-Des arrêtés du ministre chargé de l'éducation fixent les modalités de notation des épreuves ponctuelles terminales, de
-l'évaluation par contrôle en cours de formation ou par contrôle continu.
-
-L'examen par contrôle en cours de formation ou contrôle continu est exclusif de l'examen par épreuves ponctuelles terminales
-au titre d'une même session.
 
 **Liens relatifs à cet article**
 
@@ -64552,20 +64586,16 @@ au titre d'une même session.
 	  - Code de l'éducation - art. D337-39 (V)
 	  - Code de l'éducation - art. D337-50-1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 4
 
 
 ###### Article D337-34
 
-Dans des conditions fixées par le ministre chargé de l'éducation, une période de formation en entreprise est introduite dans
-la préparation au diplôme du brevet d'études professionnelles et fait l'objet d'une évaluation à l'examen pour les candidats
-issus des établissements d'enseignement publics, d'enseignement privés sous contrat ou sous statut d'apprentis.
-
-A titre dérogatoire, compte tenu de la spécificité de certains secteurs professionnels, un stage en milieu professionnel peut
-se substituer à la période de formation en entreprise selon des modalités définies par arrêté du ministre chargé de
-l'éducation.
+Dans des conditions fixées par le ministre chargé de l'éducation, une période de formation en entreprise fait l'objet d'une
+évaluation à l'examen pour les candidats issus des établissements d'enseignement publics et d'enseignement privés sous
+contrat.
 
 **Liens relatifs à cet article**
 
@@ -64578,23 +64608,15 @@ l'éducation.
 	  - Arrêté du 14 janvier 1993 - art. 1 (V)
 	  - Décret n°2009-692 du 15 juin 2009 - art. 1 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 5
 
 
 ###### Article D337-35
 
-Le diplôme du brevet d'études professionnelles est délivré aux candidats ayant obtenu la moyenne pour l'ensemble des domaines
-et, en outre, pour l'ensemble des matières constitutives du domaine correspondant aux compétences professionnelles requises.
-
-Un candidat ayant fourni un livret scolaire ne peut être ajourné sans que le jury ait examiné ce livret.
-
-Lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui être délivré.
-
-Toutefois, en cas d'absence justifiée, la note zéro lui est attribuée pour chaque épreuve manquée et le diplôme peut être
-délivré si les conditions prévues au premier alinéa du présent article sont remplies. Dans le cas où le diplôme n'a pu lui
-être délivré, le candidat se présente à des épreuves de remplacement, dans les conditions fixées à l'article D. 337-43.
+Des arrêtés du ministre chargé de l'éducation fixent les modalités de notation des épreuves ponctuelles terminales et les
+modalités de mise en œuvre du contrôle en cours de formation.
 
 **Liens relatifs à cet article**
 
@@ -64607,24 +64629,23 @@ délivré si les conditions prévues au premier alinéa du présent article sont
 	  - Arrêté du 14 janvier 1993 - art. 2 (V)
 	  - Arrêté du 20 septembre 1993 - art. 6 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 5
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-43 (V)
+	  - Code de l'éducation - art. D337-43
 
 
 ###### Article D337-36
 
-Un candidat qui n'a pas obtenu le diplôme du brevet d'études professionnelles conserve durant cinq années le bénéfice de ses
-notes égales ou supérieures à la moyenne.
+Le brevet d'études professionnelles est délivré par le recteur aux candidats qui ont présenté l'ensemble des épreuves, à
+l'exception de celles dont ils ont été, le cas échéant, dispensés dans les conditions fixées aux articles D. 337-28 et D.
+337-33 et qui ont obtenu une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble des unités du diplôme affectées de
+leur coefficient. 
 
-Il se voit reconnaître l'unité capitalisable correspondante dans des conditions fixées par le ministre chargé de l'éducation.
-
-Pour les domaines dans lesquels il n'a pas obtenu la moyenne, le jury décide, dans des conditions fixées par le ministre de
-chargé de l'éducation, de l'attribution d'attestations déterminant le niveau des connaissances et des compétences acquises.
+Un candidat ne peut être ajourné sans que le jury ait examiné son livret scolaire.
 
 **Liens relatifs à cet article**
 
@@ -64632,25 +64653,25 @@ chargé de l'éducation, de l'attribution d'attestations déterminant le niveau 
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 5
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-28 (V)
+	  - Code de l'éducation - art. D337-33 (V)
 
 
 ###### Article D337-37
 
-Le règlement particulier de chaque brevet d'études professionnelles fixe :
+Quel que soit le mode d'évaluation, lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui
+être délivré. 
 
-1° La liste des matières en précisant celles qui font l'objet d'un examen obligatoire ou facultatif, les modalités d'examen
-et les coefficients correspondants, les notes éliminatoires ;
-
-2° Les matières pour lesquelles l'examen est commun à ce diplôme et à un autre brevet d'études professionnelles ou à un
-certificat d'aptitude professionnelle ;
-
-3° Les conditions dans lesquelles les candidats au brevet d'études professionnelles peuvent postuler à l'attribution
-simultanée de ce brevet d'études professionnelles et d'un certificat d'aptitude professionnelle ;
-
-4° Les dispenses d'épreuves qui peuvent être accordées aux titulaires de diplômes de l'enseignement technologique.
+Toutefois, en cas d'absence justifiée, la note zéro lui est attribuée pour chaque épreuve manquée et le diplôme peut être
+délivré si le candidat a obtenu une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble des épreuves du diplôme
+affectées de leur coefficient. Dans le cas où le diplôme n'a pas pu lui être délivré, le candidat se présente à des épreuves
+de remplacement, dans les conditions fixées à l'article D. 337-44.
 
 **Liens relatifs à cet article**
 
@@ -64666,9 +64687,51 @@ simultanée de ce brevet d'études professionnelles et d'un certificat d'aptitud
 	  - Arrêté du 28 mars 2011 - art. 4 (V)
 	  - Code de l'éducation - art. D337-44 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 5
+
+
+###### Article D337-37-1
+
+Les candidats qui n'ont pas obtenu le diplôme conservent, à leur demande, durant cinq années à compter de leur date
+d'obtention, les notes égales ou supérieures à 10 sur 20 obtenues ou le bénéfice d'unités acquises au titre de la validation
+des acquis de l'expérience. 
+
+Dans la limite de ces cinq ans, les candidats peuvent choisir, à chaque session, soit de conserver les notes obtenues ou le
+bénéfice d'unités constitutives d'un diplôme acquises au titre de la validation des acquis de l'expérience, soit de passer à
+nouveau l'épreuve. Dans ce second cas, la dernière note obtenue est seule prise en compte. 
+
+Tout renoncement aux notes de l'examen ou à la validation des acquis de l'expérience est définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-146 du 10 février 2009 - art. 5
+
+	**Cité par**:
+
+	  - Arrêté du 31 juillet 2009 - art. 5 (V)
+	  - Arrêté du 27 juillet 2009 - art. 5 (V)
+	  - Arrêté du 27 juillet 2009 - art. 5 (VT)
+	  - Arrêté du 29 juillet 2009 - art. 5 (V)
+	  - Arrêté du 30 juillet 2009 - art. 5 (V)
+	  - Arrêté du 24 juillet 2009 - art. 5 (V)
+	  - Arrêté du 28 juillet 2009 - art. 5 (V)
+	  - Arrêté du 28 juillet 2009 - art. 6 (V)
+	  - Arrêté du 22 décembre 2009 - art. 5 (V)
+	  - Arrêté du 18 février 2010 - art. 5 (V)
+	  - Arrêté du 22 décembre 2009 - art. 5 (Ab)
+	  - Arrêté du 21 juin 2010 - art. 5 (V)
+	  - Arrêté du 29 juin 2010 - art. 5 (V)
+	  - Arrêté du 18 août 2011 - art. 5 (V)
+	  - Arrêté du 16 juillet 2012 - art. 6 (V)
+	  - Arrêté du 19 février 2013 - art. 6 (V)
+	  - Arrêté du 23 juin 2014 - art. 6 (V)
+	  - Arrêté du 24 octobre 2014 - art. 6 (V)
+	  - Arrêté du 9 octobre 2015 - art. 5 (V)
+	  - Arrêté du 22 juin 2016 - art. 6 (V)
 
 
 ###### Article R337-31
@@ -64705,15 +64768,16 @@ acquise si, dans un délai de trois mois, aucune décision de refus n'a été no
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-##### Sous-section 4 : Unités capitalisables.
+##### Sous-section 4 : Evaluation.    
 
 ###### Article D337-38
 
-Lorsque le règlement particulier le prévoit, le brevet d'études professionnelles peut être obtenu, sauf pour les candidats
-ayant suivi la préparation par la voie scolaire ou par celle de l'apprentissage, par unités capitalisables destinées à
-contrôler le niveau des compétences acquises dans chacune des matières.
+Pour les candidats mentionnés au a du 1° de l'article D. 337-29, quatre au moins des épreuves prévues à l'article D. 337-33
+sont évaluées par contrôle en cours de formation. 
 
-Le règlement fixe la liste et la nature de ces unités ainsi que les modalités de leur acquisition.
+Les candidats mentionnés au c du 1° de l'article D. 337-29 qui suivent leur formation dans un centre de formation d'apprentis
+ou une section d'apprentissage habilitée à mettre en œuvre le contrôle en cours de formation peuvent se présenter aux
+épreuves du brevet d'études professionnelles selon les mêmes modalités que les candidats mentionnés à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -64721,9 +64785,14 @@ Le règlement fixe la liste et la nature de ces unités ainsi que les modalités
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-29
+	  - Code de l'éducation - art. D337-33 (V)
 
 	**Cité par**:
 
@@ -64732,9 +64801,8 @@ Le règlement fixe la liste et la nature de ces unités ainsi que les modalités
 
 ###### Article D337-39
 
-Chaque unité capitalisable fait l'objet d'une évaluation distincte, soit par épreuves ponctuelles terminales, soit par
-contrôle en cours de formation, soit, conformément aux dispositions du quatrième alinéa de l'article D. 337-33, par contrôle
-continu.
+Les candidats ayant préparé l'examen par la voie de la formation professionnelle continue dans un établissement public sont
+évalués comme les candidats mentionnés au a du 1° de l'article D. 337-29.
 
 **Liens relatifs à cet article**
 
@@ -64742,22 +64810,19 @@ continu.
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-33 (V)
+	  - Code de l'éducation - art. D337-29
 
 
 ###### Article D337-40
 
-L'obtention d'une unité capitalisable donne lieu à la délivrance d'une attestation.
-
-La durée de validité de chaque unité est de cinq années.
-
-L'acquisition de la totalité des unités donne lieu à la délivrance du diplôme.
+Pour les candidats autres que ceux relevant des articles D. 337-38 et D. 337-39, l'examen a lieu en totalité sous forme
+d'épreuves ponctuelles terminales.
 
 **Liens relatifs à cet article**
 
@@ -64765,29 +64830,13 @@ L'acquisition de la totalité des unités donne lieu à la délivrance du diplô
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 14 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-###### Article D337-41
-
-En vue de la préparation d'un autre diplôme, tout titulaire d'un brevet d'études professionnelles est réputé avoir acquis la
-totalité des unités correspondant au diplôme obtenu, quelle qu'ait été la forme de l'examen subi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°87-851 du 19 octobre 1987 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2009-146 du 10 février 2009 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-38
 
 
 ##### Sous-section 5 : Organisation des examens.
@@ -64816,13 +64865,15 @@ peuvent l'être dans un cadre interacadémique, sous l'autorité des recteurs in
 
 Pour chaque session d'examen du brevet d'études professionnelles, les sujets et le calendrier des épreuves et des réunions
 des jurys sont fixés par le recteur ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation, par
-délégation du recteur.
+délégation du recteur. 
 
-Sur autorisation du recteur, les épreuves de remplacement, à l'exception de l'épreuve d'éducation physique et sportive et de
-l'épreuve facultative, sont organisées pour les candidats mentionnés au quatrième alinéa de l'article D. 337-35, au sein
-d'une académie ou d'un groupement d'académies.
+Les inspecteurs de l'éducation nationale chargés de l'enseignement technique veillent à l'organisation des examens et à leur
+bon déroulement. 
 
-L'inspecteur de l'enseignement technique est chargé de veiller à l'organisation des examens et à leur bon déroulement.
+Pour chaque session d'examen des spécialités relevant de la formation professionnelle maritime mentionnées au troisième
+alinéa de l'article D. 337-27, le ministre chargé de la mer fixe, sur proposition de l'inspecteur général de l'enseignement
+maritime, le calendrier des épreuves. Les sujets des épreuves sont choisis par l'inspecteur général de l'enseignement
+maritime parmi les propositions contrôlées et mises en conformité par une commission d'enseignants.
 
 **Liens relatifs à cet article**
 
@@ -64830,9 +64881,13 @@ L'inspecteur de l'enseignement technique est chargé de veiller à l'organisatio
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-27
 
 	**Cité par**:
 
@@ -64841,20 +64896,19 @@ L'inspecteur de l'enseignement technique est chargé de veiller à l'organisatio
 
 ###### Article D337-44
 
-Des arrêtés du ministre chargé de l'éducation précisent les conditions de mise en oeuvre du contrôle en cours de formation
-dans les établissements d'enseignement publics, les établissements d'enseignement privés sous contrat et les centres de
-formation d'apprentis habilités par le recteur de l'académie.
+Sur autorisation du recteur, les épreuves de remplacement, à l'exception de l'épreuve d'éducation physique et sportive, sont
+organisées pour les candidats mentionnés au deuxième alinéa de l'article D. 337-37 au sein d'une académie ou d'un groupement
+d'académies.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°87-851 1987-10-19 art. 18, alinéa 1
 	  - Décret n°87-851 du 19 octobre 1987 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 8
 
 	**Cité par**:
 
@@ -64891,7 +64945,10 @@ délai de trois mois, aucune décision de refus ne leur a été notifiée par le
 ###### Article D337-46
 
 Le brevet d'études professionnelles est attribué après délibération du jury. Pour chaque session, les jurys sont constitués
-dans un cadre départemental, interdépartemental, académique ou interacadémique, par décision du ou des recteurs concernés.
+dans un cadre départemental, interdépartemental, académique ou interacadémique, par décision du ou des recteurs concernés. 
+
+Pour les spécialités relevant de la formation professionnelle maritime mentionnées au dernier alinéa de l'article D. 337-27,
+le jury est constitué dans un cadre national par arrêté du ministre chargé de la mer.
 
 **Liens relatifs à cet article**
 
@@ -64899,9 +64956,13 @@ dans un cadre départemental, interdépartemental, académique ou interacadémiq
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 9
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-27 (V)
 
 	**Cité par**:
 
@@ -64914,9 +64975,7 @@ dans un cadre départemental, interdépartemental, académique ou interacadémiq
 ###### Article D337-47
 
 Un jury peut être commun à plusieurs brevets d'études professionnelles ou à des brevets d'études professionnelles et des
-certificats d'aptitude professionnelle. La délivrance simultanée d'un brevet d'études professionnelles et d'un certificat
-d'aptitude professionnelle, lorsque les règlements particuliers des diplômes le permettent, est subordonnée à la constitution
-d'un jury commun.
+certificats d'aptitude professionnelle.
 
 **Liens relatifs à cet article**
 
@@ -64924,24 +64983,27 @@ d'un jury commun.
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 10
 
 
 ###### Article D337-48
 
-Le jury du brevet d'études professionnelles est composé à parité :
+Le jury du brevet d'études professionnelles est composé à parité : 
 
 1° De professeurs des établissements d'enseignement publics et privés ainsi que, le cas échéant, d'enseignants des centres de
-formation d'apprentis ;
+formation d'apprentis ; 
 
 2° De personnalités qualifiées de la profession choisies en nombre égal parmi les employeurs et les salariés après
-consultation des organisations représentatives.
+consultation des organisations représentatives. 
 
 Le jury est présidé par un conseiller de l'enseignement technologique. Un vice-président est désigné parmi les membres du
 jury enseignant dans des établissements d'enseignement publics pour suppléer le président en cas d'indisponibilité de ce
-dernier.
+dernier. 
+
+Pour les spécialités relevant de la formation professionnelle maritime mentionnées au dernier alinéa de l'article D. 337-27,
+le jury est présidé par un professeur de l'enseignement maritime.
 
 **Liens relatifs à cet article**
 
@@ -64949,16 +65011,25 @@ dernier.
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 11
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-27
 
 
 ###### Article D337-49
 
 Les membres des jurys du brevet d'études professionnelles, leurs présidents et leurs vice-présidents sont nommés par les
 recteurs ou par les inspecteurs d'académie, directeurs des services départementaux de l'éducation, par délégation des
-recteurs.
+recteurs. 
+
+Pour chaque session d'examen des spécialités de brevet d'études professionnelles relevant de la formation professionnelle
+maritime mentionnées au dernier alinéa de l'article D. 337-27, les membres des jurys sont nommés par arrêté du ministre
+chargé de la mer, sur proposition de l'inspecteur général de l'enseignement maritime en ce qui concerne les membres
+enseignants.
 
 **Liens relatifs à cet article**
 
@@ -64966,14 +65037,18 @@ recteurs.
 
 	  - Décret n°87-851 du 19 octobre 1987 - art. 22 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-146 du 10 février 2009 - art. 12
 
 	**Cité par**:
 
 	  - Arrêté du 11 mai 2015 - art. 5 (V)
 	  - Arrêté du 11 mai 2015 - art. 7 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-27
 
 
 ###### Article D337-50
@@ -64994,6 +65069,32 @@ matérielle, il apporte les rectifications nécessaires, après avis du préside
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-50-1 (V)
+
+
+###### Article D337-50-1
+
+Pour les spécialités mentionnées au dernier alinéa de l'article D. 337-27, le ministre chargé de la mer et le directeur
+régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui
+concerne les articles D. 337-28, D. 337-33, D. 337-34, D. 337-35, D. 337-36, D. 337-42, D. 337-44 et D. 337-50.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-146 du 10 février 2009 - art. 13
+
+	**Cité par**:
+
+	  - Arrêté du 11 juillet 2016 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-27
+	  - Code de l'éducation - art. D337-28
+	  - Code de l'éducation - art. D337-33
+	  - Code de l'éducation - art. D337-42
+	  - Code de l'éducation - art. D337-44
+	  - Code de l'éducation - art. D337-50
 
 
 ##### Section 3 : Le baccalauréat professionnel
@@ -65069,27 +65170,27 @@ référentiel de certification peut comporter des unités dans la limite de troi
 
 ###### Article D337-53
 
-Les baccalauréats professionnels sont créés par arrêté du ministre chargé de l'éducation, après avis des commissions
-professionnelles consultatives compétentes.
+Les spécialités de baccalauréat professionnel sont créées par arrêté du ministre chargé de l'éducation, après avis des
+commissions professionnelles consultatives compétentes. 
 
-Des baccalauréats professionnels sont créés par arrêté du ministre chargé de l'éducation et du ministre chargé de
-l'agriculture, après avis de la commission professionnelle consultative " Métiers de l'agriculture, de l'agro-industrie et de
-l'espace rural ". Ils sont préparés essentiellement dans les établissements relevant du ministre chargé de l'agriculture et,
-le cas échéant, du ministre chargé de l'éducation, sur la base du référentiel professionnel, caractéristique de chaque
-baccalauréat professionnel.
+Des spécialités de baccalauréat professionnel sont créées par arrêté du ministre chargé de l'éducation et du ministre chargé
+de l'agriculture, après avis de la commission professionnelle consultative "Métiers de l'agriculture, de la transformation,
+des services et de l'aménagement des espaces”. Elles sont préparées essentiellement dans les établissements relevant du
+ministre chargé de l'agriculture et, le cas échéant, du ministre chargé de l'éducation, sur la base du référentiel
+professionnel, caractéristique de chaque spécialité de baccalauréat professionnel. 
 
 Des spécialités du baccalauréat professionnel relevant des domaines professionnels maritimes sont créées par arrêté du
-ministre chargé de l'éducation et du ministre chargé de la marine marchande, après avis des commissions professionnelles
-consultatives compétentes et du comité spécialisé de la formation professionnelle maritime.
+ministre chargé de l'éducation et du ministre chargé de la mer, après avis des commissions professionnelles consultatives
+compétentes et du comité spécialisé de la formation professionnelle maritime. 
 
-Pour chaque baccalauréat professionnel, l'arrêté portant création établit le référentiel des activités professionnelles, le
-référentiel de certification ainsi que le règlement particulier qui fixe les conditions de délivrance de ce diplôme.
+Pour chaque spécialité de baccalauréat professionnel, l'arrêté portant création établit le référentiel des activités
+professionnelles, le référentiel de certification ainsi que le règlement particulier qui fixe les conditions de délivrance de
+ce diplôme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 3 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 3 (Ab)
 
 	**Cité par**:
@@ -65115,9 +65216,9 @@ référentiel de certification ainsi que le règlement particulier qui fixe les 
 	  - Code de l'éducation - art. D337-93 (V)
 	  - Code de l'éducation - art. D337-94 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 2
 
 
 ###### Article D337-54
@@ -65150,22 +65251,22 @@ par arrêté du ministre chargé de l'éducation.
 
 ###### Article D337-55
 
-Le baccalauréat professionnel est préparé :
+Le baccalauréat professionnel est préparé : 
 
 1° Soit par la voie scolaire dans les lycées, essentiellement les lycées professionnels, les lycées professionnels agricoles,
-ou dans les écoles ou établissements d'enseignement technique privés mentionnés au chapitre III du titre IV du Livre IV du
-code de l'éducation et par l'article L. 813-1 du code rural, ou dans les établissements scolaires maritimes mentionnés à
-l'article R. 342-2 ainsi que dans les établissements relevant des départements ministériels dont la liste est fixée par
-arrêté du ministre chargé de l'éducation ;
+ou les établissements publics mentionnés à l'article L. 811-1 du code rural, ou dans les écoles ou établissements
+d'enseignement technique privés mentionnés au chapitre III du titre IV du Livre IV du code de l'éducation et par l'article L.
+813-1 du code rural, ou dans les établissements scolaires maritimes mentionnés à l'article R. 342-2 ainsi que dans les
+établissements relevant des départements ministériels dont la liste est fixée par arrêté du ministre chargé de l'éducation ; 
 
-2° Soit par la voie de l'apprentissage définie au livre Ier du code du travail ;
+2° Soit par la voie de l'apprentissage définie au livre II de la sixième partie du code du travail ; 
 
-3° Soit par la voie de la formation professionnelle continue définie au livre IX du code du travail.
+3° Soit par la voie de la formation professionnelle continue définie au livre III de la sixième partie du code du travail. 
 
 Le baccalauréat professionnel peut également être préparé dans des établissements d'enseignement à distance, dans des
 conditions fixées par arrêté du ministre chargé de l'éducation, par arrêté du ministre chargé de l'agriculture pour les
-baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53 ou par arrêté du ministre chargé de la
-marine marchande pour les baccalauréats professionnels mentionnés au troisième alinéa de l'article D. 337-53.
+spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53 ou par arrêté du ministre
+chargé de la mer pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53.
 
 **Liens relatifs à cet article**
 
@@ -65173,9 +65274,9 @@ marine marchande pour les baccalauréats professionnels mentionnés au troisièm
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 3
 
 	**Cité par**:
 
@@ -65183,37 +65284,37 @@ marine marchande pour les baccalauréats professionnels mentionnés au troisièm
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
-	  - Code de l'éducation - art. R342-2 (V)
-	  - Code rural L813-1
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. R342-2
+	  - Code rural - art. L811-1
+	  - Code rural - art. L813-1
 
 
 ###### Article D337-56
 
-L'admission dans le cycle d'études conduisant au baccalauréat professionnel dans les établissements publics d'enseignement
-est prononcée, dans des conditions fixées par arrêté du ministre chargé de l'éducation, par le recteur ou, par délégation,
-par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur demande de la famille ou de
-l'élève, s'il est majeur, et sur proposition du conseil de classe de l'établissement d'origine du candidat.
+L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant au baccalauréat professionnel
+s'effectuent, pour les candidats inscrits dans un établissement public local d'enseignement, dans les conditions fixées par
+les articles D. 331-23 et suivants et, pour les candidats inscrits dans un établissement privé sous contrat, dans les
+conditions fixées par les articles D. 331-46 et suivants.L'organisation et la durée de ce cycle sont définies à l'article D.
+333-2.
 
-Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, l'admission dans le cycle
-d'études conduisant au baccalauréat professionnel dans les établissements publics d'enseignement est prononcée, dans des
-conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture, par le directeur
-régional de l'agriculture et de la forêt.
+L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant aux spécialités de baccalauréat
+professionnel mentionnées au deuxième alinéa de l'article D. 337-53 s'effectuent dans les conditions fixées par les articles
+D. 341-1 et suivants.L'organisation et la durée de ce cycle sont définies aux articles D. 810-5 et R. 811-145 du code rural. 
 
 Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans
-le cycle d'études est prononcée, dans des conditions fixées par arrêté du ministre chargé de l'éducation et du ministre
-chargé de la marine marchande, par le directeur régional des affaires maritimes.
+le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la
+mer, par le directeur régional des affaires maritimes.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 6 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 4
 
 	**Cité par**:
 
@@ -65225,35 +65326,24 @@ chargé de la marine marchande, par le directeur régional des affaires maritime
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
+	  - Code de l'éducation - art. D331-23
+	  - Code de l'éducation - art. D331-46
+	  - Code de l'éducation - art. D333-2
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. D341-1
+	  - Code rural - art. R*811-145
 
 
 ###### Article D337-57
 
-La préparation du baccalauréat professionnel par la voie scolaire ou par la voie de l'apprentissage est ouverte aux candidats
-titulaires :
+Sont admis, en cours de cycle, en classe de première professionnelle dans les établissements mentionnés à l'article D.
+337-56, sur demande de la famille ou de l'élève, s'il est majeur, et après avis du conseil de classe de l'établissement
+d'origine, les candidats titulaires d'un diplôme de niveau V obtenu à la session précédant l'inscription, dans une spécialité
+en cohérence avec celle du baccalauréat professionnel préparé.
 
-1° Soit du brevet d'études professionnelles ou du brevet d'études professionnelles agricoles, relevant d'un ou des secteurs
-professionnels en rapport avec la finalité du diplôme postulé ;
-
-2° Soit du certificat d'aptitude professionnelle ou du certificat d'aptitude professionnelle agricole, relevant d'un ou des
-secteurs professionnels en rapport avec la finalité du diplôme postulé.
-
-Sur décision du recteur prise après avis de l'équipe pédagogique, peuvent également être admis :
-
-1° Les candidats titulaires du brevet d'études professionnelles, du brevet d'études professionnelles agricoles, du certificat
-d'aptitude professionnelle ou du certificat d'aptitude professionnelle agricole autres que ceux mentionnés aux deuxième et
-troisième alinéas ;
-
-2° Les candidats ayant accompli au moins la scolarité complète d'une classe de première ;
-
-3° Les candidats titulaires d'un diplôme ou titre homologué classés au niveau V de la nomenclature interministérielle des
-niveaux de formation ;
-
-4° Les candidats ayant interrompu leurs études et souhaitant reprendre leur formation s'ils justifient de deux années
-d'activité professionnelle ;
-
-5° Les candidats ayant accompli une formation à l'étranger.
+L'affectation est prononcée, selon les cas, par l'inspecteur d'académie, dans les conditions fixées par l'article D. 331-38,
+ou par le directeur régional de l'alimentation, de l'agriculture et de la forêt, dans les conditions fixées par l'article D.
+341-16.
 
 **Liens relatifs à cet article**
 
@@ -65268,32 +65358,36 @@ d'activité professionnelle ;
 	  - Code de l'éducation - art. D337-59 (V)
 	  - Code de l'éducation - art. D337-94 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-38
+	  - Code de l'éducation - art. D337-56
+	  - Code de l'éducation - art. D341-16
 
 
 ###### Article D337-58
 
-La formation dispensée au titre de la préparation du baccalauréat professionnel par la voie scolaire est organisée en un
-cycle d'études au sens des articles L. 311-1 et L. 333-1, d'une durée de deux ans, pour les candidats mentionnés aux deuxième
-et troisième alinéas de l'article D. 337-57.
+Sur décision du recteur prise après avis de l'équipe pédagogique de la classe de l'établissement d'accueil, peuvent également
+être admis en formation sous statut scolaire des candidats qui ne relèvent pas des articles D. 337-56 et D. 337-57. 
 
-Pour les candidats mentionnés aux quatrième à neuvième alinéas de l'article D. 337-57, la durée de formation requise est
-soumise à une décision de positionnement prise dans les conditions fixées aux articles D. 337-62 et D. 337-63. Cette décision
-peut avoir pour effet de réduire ou d'allonger la durée de deux ans du cycle. Cependant, pour les candidats justifiant de
-certains titres, diplômes ou études, cette durée de formation peut être fixée par arrêté du ministre chargé de l'éducation.
+Pour ces candidats, la durée de formation requise est soumise à une décision de positionnement prise dans les conditions
+fixées aux articles D. 337-62 et D. 337-63. Cette décision peut avoir pour effet de réduire ou d'allonger la durée du cycle.
+Cependant, pour les candidats justifiant de certains titres, diplômes ou études, cette durée de formation peut être fixée par
+arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 8 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 4
 
 	**Cité par**:
 
@@ -65308,21 +65402,15 @@ certains titres, diplômes ou études, cette durée de formation peut être fix�
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-57 (V)
-	  - Code de l'éducation - art. D337-62 (V)
-	  - Code de l'éducation - art. D337-63 (V)
-	  - Code de l'éducation - art. L311-1 (V)
-	  - Code de l'éducation - art. L333-1 (V)
+	  - Code de l'éducation - art. D337-56
+	  - Code de l'éducation - art. D337-62
 
 
 ###### Article D337-59
 
-La durée de formation peut être réduite pour les candidats mentionnés aux deuxième et troisième alinéas de l'article D.
-337-57, à leur demande, par une décision de positionnement s'ils justifient, en plus des conditions de titres, diplômes ou
-formations exigées, d'études ou d'activités professionnelles, ou bien de dispenses d'épreuves ou d'unités constitutives du
-diplôme, dans les conditions fixées aux articles D. 337-62 et D. 337-63. Cette décision de positionnement ne peut toutefois
-avoir pour effet de ramener la durée de la formation à moins de 750 heures, compte non tenu des périodes de formation en
-milieu professionnel.
+Tout jeune inscrit dans le cycle conduisant au baccalauréat professionnel en application du premier alinéa de l'article D.
+337-56 se présente, au cours de ce cycle, à un brevet d'études professionnelles ou un certificat d'aptitude professionnelle
+dans les conditions fixées par arrêté du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -65330,9 +65418,9 @@ milieu professionnel.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 4
 
 	**Cité par**:
 
@@ -65353,52 +65441,54 @@ milieu professionnel.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-57 (V)
-	  - Code de l'éducation - art. D337-62 (V)
-	  - Code de l'éducation - art. D337-63 (V)
+	  - Code de l'éducation - art. D337-56
 
 
 ###### Article D337-60
 
+Pour les jeunes préparant le baccalauréat professionnel par la voie de l'apprentissage, la durée du contrat est fixée en
+application de l'article R. 6222-7 (2°) du code du travail. 
+
 La durée de la formation nécessaire à la préparation du baccalauréat professionnel par la voie de l'apprentissage dispensée
-en centre de formation d'apprentis ou section d'apprentissage est au moins égale à 1 350 heures.
+en centre de formation d'apprentis ou section d'apprentissage est au moins égale à 1 850 heures. 
 
-Cette durée peut être réduite ou allongée dans les conditions prévues par le code du travail, sur décision du recteur, du
-directeur régional de l'agriculture et de la forêt ou du directeur régional des affaires maritimes, chacun pour ce qui le
-concerne.
-
-En cas de réduction de la durée du contrat d'apprentissage à un an, cette durée de formation ne peut être inférieure à 750
-heures.
+En cas de réduction de la durée du contrat d'apprentissage à deux ans ou à un an dans les conditions fixées par le code du
+travail, cette durée de formation ne peut être inférieure, respectivement, à 1 350 heures ou à 675 heures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 10 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 5
 
 	**Cité par**:
 
 	  - Arrêté du 8 juillet 2009 (V)
 	  - Code de l'éducation - art. D337-78 (VD)
 
+	**Cite**:
+
+	  - Code du travail - art. R6222-7
+
 
 ###### Article D337-61
 
 La durée de la formation nécessaire à la préparation du baccalauréat professionnel par la voie de la formation
-professionnelle continue est égale, compte non tenu des périodes de formation en milieu professionnel, à :
+professionnelle continue est égale, compte non tenu des périodes de formation en milieu professionnel, à : 
 
-1° Au moins 600 heures, pour les candidats qui sont titulaires d'un diplôme ou titre homologué, classé au niveau IV de la
-nomenclature interministérielle des niveaux de formation, ou ayant accompli la scolarité complète y conduisant ;
+1° Au moins 600 heures, pour les candidats qui sont titulaires d'un diplôme ou titre enregistré dans le répertoire national
+des certifications professionnelles et classé au niveau IV de la nomenclature interministérielle des niveaux de formation, ou
+ayant accompli la scolarité complète y conduisant ; 
 
-2° Au moins 1 100 heures pour les candidats qui sont titulaires d'un diplôme ou titre homologué, classé au niveau V de la
-nomenclature interministérielle des niveaux de formation, ou ayant accompli la scolarité complète y conduisant ;
+2° Au moins 1 100 heures pour les candidats qui sont titulaires d'un diplôme ou titre enregistré dans le répertoire national
+des certifications professionnelles et classé au niveau V de la nomenclature interministérielle des niveaux de formation, ou
+ayant accompli la scolarité complète y conduisant ; 
 
-3° Au moins 1 500 heures dans les autres cas.
+3° Au moins 1 350 heures dans les autres cas. 
 
 Cependant, la durée de formation requise peut être réduite par une décision de positionnement conformément aux dispositions
 des articles D. 337-62 et D. 337-63, pour les candidats justifiant, en plus des conditions de titres, diplômes ou formations
@@ -65412,9 +65502,9 @@ article.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 6
 
 	**Cité par**:
 
@@ -65423,16 +65513,16 @@ article.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-62 (V)
-	  - Code de l'éducation - art. D337-63 (V)
+	  - Code de l'éducation - art. D337-62
 
 
 ###### Article D337-62
 
 La décision de positionnement fixe la durée de formation qui sera requise lors de l'inscription au diplôme. Elle est
-prononcée par le recteur ou par le directeur régional de l'agriculture et de la forêt ou le directeur régional des affaires
-maritimes pour les candidats relevant des deuxième et troisième alinéas de l'article D. 337-53, à la demande du candidat,
-après son admission dans un établissement et selon les modalités fixées par arrêté du ministre chargé de l'éducation.
+prononcée par le recteur ou par le directeur régional de l'alimentation, de l'agriculture et de la forêt ou le directeur
+régional des affaires maritimes pour les candidats relevant des deuxième et troisième alinéas de l'article D. 337-53, à la
+demande du candidat, après son admission dans un établissement et selon les modalités fixées par arrêté du ministre chargé de
+l'éducation. 
 
 Cette décision est prise au titre du baccalauréat professionnel que le candidat souhaite préparer et vaut jusqu'à l'obtention
 de ce diplôme.
@@ -65443,9 +65533,9 @@ de ce diplôme.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 7
 
 	**Cité par**:
 
@@ -65460,7 +65550,7 @@ de ce diplôme.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
+	  - Code de l'éducation - art. D337-53
 
 
 ###### Article D337-63
@@ -65493,15 +65583,16 @@ l'expérience.
 
 ###### Article D337-64
 
-La formation conduisant au baccalauréat professionnel se déroule pendant une durée de douze à vingt-quatre semaines en milieu
-professionnel sous la responsabilité du ministre chargé de l'éducation ou du ministre chargé de l'agriculture ou du ministre
-chargé de la marine marchande et sur la base d'une convention établie entre les établissements d'enseignement et les
-entreprises, dans des conditions fixées par les arrêtés mentionnés à l'article D. 337-53.
+La formation conduisant au baccalauréat professionnel se déroule en milieu professionnel pendant une durée fixée entre douze
+et vingt-six semaines par arrêté du ministre chargé de l'éducation ou du ministre chargé de l'agriculture ou du ministre
+chargé de la mer, sous la responsabilité respective de chacun de ces ministres et sur la base d'une convention établie entre
+les établissements d'enseignement et les entreprises, dans des conditions fixées par les arrêtés mentionnés à l'article D.
+337-53. 
 
 La durée de la formation en milieu professionnel peut toutefois être augmentée pour les élèves des établissements dispensant
 des formations selon un rythme approprié, au titre de l'article L. 813-9 du code rural, à condition que la formation en
-centre dure au moins 1 500 heures. Un arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture fixe
-les conditions d'application du présent alinéa.
+centre dure au moins 1 900 heures. Un arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture fixe
+les conditions d'application du présent alinéa. 
 
 Les élèves qui préparent le baccalauréat professionnel par la voie scolaire restent sous statut scolaire pendant leur
 formation en milieu professionnel.
@@ -65512,9 +65603,9 @@ formation en milieu professionnel.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 8
 
 	**Cité par**:
 
@@ -65524,8 +65615,8 @@ formation en milieu professionnel.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
-	  - Code rural L813-9
+	  - Code de l'éducation - art. D337-53
+	  - Code rural - art. L813-9
 
 
 ###### Article D337-65
@@ -66379,16 +66470,20 @@ mention de cet examen est portée au livret scolaire ou de formation sous la sig
 
 ###### Article D337-86
 
-Le diplôme du baccalauréat professionnel délivré au candidat porte les mentions :
+Le diplôme du baccalauréat professionnel délivré au candidat porte les mentions : 
 
-1° Assez bien, quand le candidat a obtenu une moyenne au moins égale à 12 et inférieure à 14 ;
+1° Assez bien, quand le candidat a obtenu une moyenne au moins égale à 12 et inférieure à 14 ; 
 
-2° Bien, quand le candidat a obtenu une moyenne au moins égale à 14 et inférieure à 16 ;
+2° Bien, quand le candidat a obtenu une moyenne au moins égale à 14 et inférieure à 16 ; 
 
-3° Très bien, quand le candidat a obtenu une moyenne égale ou supérieure à 16.
+3° Très bien, quand le candidat a obtenu une moyenne égale ou supérieure à 16. 
 
-Dans tous les baccalauréats professionnels, à l'issue d'une évaluation spécifique et dans les conditions fixées par un arrêté
-du ministre chargé de l'éducation, les diplômes délivrés aux candidats peuvent comporter l'indication " section européenne ".
+Les candidats qui ont été admis à l'issue de l'épreuve de contrôle prévue au 2° de l'article D. 337-69 ne peuvent obtenir une
+mention. 
+
+Pour toutes les spécialités de baccalauréat professionnel, à l'issue de l'évaluation spécifique définie par un arrêté du
+ministre chargé de l'éducation et dans les conditions fixées par cet arrêté, les diplômes délivrés aux candidats peuvent
+comporter l'indication " section européenne ”. 
 
 Le candidat, au moment de son inscription à l'examen, peut choisir de substituer l'évaluation spécifique à l'épreuve
 facultative de langue vivante. Dans ce cas, les points supérieurs à 10 sur 20 obtenus à l'évaluation spécifique sont pris en
@@ -66399,12 +66494,15 @@ de points est valable 5 ans.
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 32 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 32 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 18
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-69
 
 	**Cité par**:
 
@@ -66587,42 +66685,45 @@ l'exception de l'épreuve d'éducation physique et sportive et des épreuves fac
 ###### Article D337-93
 
 Le jury est nommé pour chaque session par arrêté du recteur pour chaque baccalauréat professionnel. Il est présidé par un
-enseignant-chercheur.
+enseignant-chercheur. 
 
 Le président du jury peut être assisté ou suppléé par des présidents adjoints choisis par le recteur parmi les professeurs
 agrégés et assimilés ou les membres de la profession intéressée ou parmi les professeurs du corps des professeurs de lycée
-professionnel et assimilés et les professeurs certifiés et assimilés.
+professionnel et assimilés et les professeurs certifiés et assimilés. 
 
-Il est composé :
+Il est composé : 
 
 1° De professeurs appartenant à l'enseignement public et, sauf impossibilité, au moins d'un professeur appartenant à
-l'enseignement privé sous contrat ou exerçant en centre de formation d'apprentis ou en section d'apprentissage ;
+l'enseignement privé sous contrat ou exerçant en centre de formation d'apprentis ou en section d'apprentissage ; 
 
 2° Et, pour un tiers au moins, de membres de la profession intéressée par le diplôme, choisis en nombre égal parmi les
-employeurs et les salariés.
+employeurs et les salariés. 
 
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou de plusieurs de ses membres, le jury peut néanmoins
-délibérer valablement.
+délibérer valablement. 
+
+Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints pour participer, avec les membres des jurys, à
+l'évaluation ou à la correction de certaines épreuves, notamment de l'épreuve de contrôle prévue au 2° de l'article D.
+337-69. Les examinateurs et correcteurs adjoints peuvent, le cas échéant, participer aux délibérations des jurys avec voix
+consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées. 
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, le jury est nommé par le
 directeur régional de l'agriculture et de la forêt. Il est présidé par un enseignant-chercheur. Les membres de ce jury
-peuvent être choisis parmi les enseignants des établissements d'enseignement relevant du ministre chargé de l'agriculture.
+peuvent être choisis parmi les enseignants des établissements d'enseignement relevant du ministre chargé de l'agriculture. 
 
-Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le jury est nommé par le directeur régional des
-affaires maritimes. Il est présidé par un enseignant-chercheur ou un professeur en chef ou général de l'enseignement
-maritime. Les membres de ce jury peuvent être choisis parmi les enseignants des établissements scolaires maritimes mentionnés
-à l'article R. 342-2.
+Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le jury est nommé par le ministre chargé de la
+mer. Il est présidé par un enseignant-chercheur ou un professeur en chef ou général de l'enseignement maritime. Les membres
+de ce jury peuvent être choisis parmi les enseignants des établissements scolaires maritimes mentionnés à l'article R. 342-2.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-663 du 9 mai 1995 - art. 39 (M)
 	  - Décret n°95-663 du 9 mai 1995 - art. 39 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 21
 
 	**Cité par**:
 
@@ -66634,25 +66735,27 @@ maritime. Les membres de ce jury peuvent être choisis parmi les enseignants des
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
-	  - Code de l'éducation - art. R342-2 (V)
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. D337-69
+	  - Code de l'éducation - art. R342-2
 
 
 ###### Article D337-94
 
-Le baccalauréat professionnel est délivré par le recteur.
+Le baccalauréat professionnel est délivré par le recteur. 
 
 Pour les spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53, le diplôme est
-délivré conjointement par le recteur d'académie et le directeur régional de l'agriculture et de la forêt. Pour ces
-spécialités, le ministre chargé de l'agriculture ou le directeur régional de l'agriculture et de la forêt sont substitués
-respectivement au ministre chargé de l'éducation et au recteur en ce qui concerne les articles D. 337-54, D. 337-57, D.
-337-58, D. 337-62, D. 337-69, D. 337-71, D. 337-72, D. 337-74, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.
+délivré conjointement par le recteur d'académie et le directeur régional de l'alimentation, de l'agriculture et de la forêt.
+Pour ces spécialités, le ministre chargé de l'agriculture ou le directeur régional de l'alimentation, de l'agriculture et de
+la forêt sont substitués respectivement au ministre chargé de l'éducation et au recteur en ce qui concerne les articles D.
+337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-69, D. 337-71, D. 337-74, D. 337-78, D. 337-83, D. 337-86, D.
+337-87, D. 337-89 et D. 337-92. 
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le diplôme est délivré conjointement par le
-recteur d'académie et le directeur régional des affaires maritimes. Pour ces spécialités, le ministre chargé de la marine
-marchande ou le directeur régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et
-au recteur en ce qui concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 337-62, D. 337-64, D. 337-69, D. 337-71, D.
-337-72, D. 337-74, D. 337-78, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.
+recteur d'académie et le directeur régional des affaires maritimes. Pour ces spécialités, le ministre chargé de la mer ou le
+directeur régional des affaires maritimes sont substitués respectivement au ministre chargé de l'éducation et au recteur en
+ce qui concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 337-59, D. 337-62, D. 337-64, D. 337-69, D. 337-71, D.
+337-74, D. 337-78, D. 337-83, D. 337-86, D. 337-87, D. 337-89 et D. 337-92.
 
 **Liens relatifs à cet article**
 
@@ -66660,27 +66763,18 @@ au recteur en ce qui concerne les articles D. 337-54, D. 337-57, D. 337-58, D. 3
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 40 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-145 du 10 février 2009 - art. 22
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-53 (V)
-	  - Code de l'éducation - art. D337-54 (V)
-	  - Code de l'éducation - art. D337-57 (V)
-	  - Code de l'éducation - art. D337-58 (V)
-	  - Code de l'éducation - art. D337-62 (V)
-	  - Code de l'éducation - art. D337-64 (V)
-	  - Code de l'éducation - art. D337-69 (V)
-	  - Code de l'éducation - art. D337-71 (V)
-	  - Code de l'éducation - art. D337-72 (V)
-	  - Code de l'éducation - art. D337-74 (V)
-	  - Code de l'éducation - art. D337-78 (V)
-	  - Code de l'éducation - art. D337-86 (V)
-	  - Code de l'éducation - art. D337-87 (V)
-	  - Code de l'éducation - art. D337-89 (V)
-	  - Code de l'éducation - art. D337-92 (V)
+	  - Code de l'éducation - art. D337-53
+	  - Code de l'éducation - art. D337-54
+	  - Code de l'éducation - art. D337-62
+	  - Code de l'éducation - art. D337-71
+	  - Code de l'éducation - art. D337-83
+	  - Code de l'éducation - art. D337-92
 
 
 ##### Section 4 : Le brevet professionnel
@@ -70082,26 +70176,25 @@ d'orientation définies par l'arrêté mentionné à l'article D. 341-14, ou de 
 ###### Article D341-10
 
 Les demandes d'orientation sont examinées par le conseil de classe qui prend en compte l'ensemble des informations réunies
-par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par le
-décret relatif aux établissements publics locaux d'enseignement et de formation professionnelle agricoles. Le conseil de
-classe émet des propositions d'orientation dans le cadre des voies d'orientation définies par l'arrêté mentionné à l'article
-D. 341-14, ou de redoublement.
+par ses membres sur chaque élève ainsi que les éléments fournis par l'équipe pédagogique dans les conditions précisées par
+les dispositions réglementaires du livre VIII du code rural relatives aux établissements publics locaux d'enseignement et de
+formation professionnelle agricoles. Le conseil de classe émet des propositions d'orientation dans le cadre des voies
+d'orientation définies par l'arrêté mentionné à l'article D. 341-14, ou de redoublement. 
 
 Lorsque les parents d'un élève ou un élève majeur manifestent leur intention d'interrompre les études en cours de cycle ou
 avant la présentation au diplôme de fin de cycle, le conseil de classe prend toutes dispositions pour les inciter à achever
 le cycle et, si besoin est, pour les informer sur les possibilités de formation, y compris le retour ultérieur en formation
-initiale. L'avis de l'élève mineur est recueilli.
+initiale.L'avis de l'élève mineur est recueilli.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 10
 	  - Décret n°92-920 du 7 septembre 1992 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 	**Cité par**:
 
@@ -70109,7 +70202,7 @@ initiale. L'avis de l'élève mineur est recueilli.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D341-14 (V)
+	  - Code de l'éducation - art. D341-14
 
 
 ###### Article D341-11
@@ -70200,17 +70293,14 @@ réserve que soient assurés les aménagements pédagogiques adéquats.
 Ils ne peuvent être suivis qu'à la demande ou avec l'accord de la famille ou de l'élève majeur et sont autorisés par le chef
 d'établissement après consultation des conseils des classes d'origine et d'accueil.
 
-Pour les voies d'orientation correspondant aux enseignements technologiques et professionnels agricoles, les demandes
-d'orientation peuvent porter sur une ou plusieurs spécialités professionnelles.
-
-Les propositions d'orientation et les décisions d'orientation peuvent inclure à titre d'incitation un ou plusieurs secteurs
-professionnels définis en annexe de l'arrêté mentionné au premier alinéa.
+Pour les voies d'orientation correspondant aux enseignements professionnels agricoles, les demandes d'orientation peuvent
+porter sur un ou plusieurs champs et spécialités professionnels. De même, les propositions d'orientation et les décisions
+d'orientation peuvent inclure à titre de conseil un ou plusieurs champs et spécialités professionnels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 14
 	  - Décret n°92-920 du 7 septembre 1992 - art. 14 (Ab)
 
 	**Cité par**:
@@ -70222,9 +70312,9 @@ professionnels définis en annexe de l'arrêté mentionné au premier alinéa.
 	  - Code de l'éducation - art. D341-30 (VD)
 	  - Code de l'éducation - art. D341-9 (VD)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 
 ###### Article D341-15
@@ -70250,10 +70340,10 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 
 ###### Article D341-16
 
-A l'intérieur d'une voie d'orientation, le choix des enseignements optionnels ou des spécialités incombe aux parents de
-l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de
-classe. L'affectation de l'élève à l'issue d'un cycle dans la voie d'orientation du cycle supérieur est réalisée en fonction
-des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
+Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
+L'affectation de l'élève à l'issue d'un cycle dans la voie d'orientation du cycle supérieur est réalisée en fonction des
+décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
 
 Le changement d'établissement en cours de cycle de formation est autorisé par le chef d'établissement d'accueil. L'élève est
 scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
@@ -70262,12 +70352,11 @@ scolarisé dans la même voie d'orientation et compte tenu de la formation déj�
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 16
 	  - Décret n°92-920 du 7 septembre 1992 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 	**Cité par**:
 
@@ -70319,19 +70408,20 @@ rencontres et d'échanges entre enseignants et élèves des cycles concernés.
 
 ###### Article D341-19
 
-Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous la seule réserve des dispositions réglementaires relatives aux procédures disciplinaires.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-16
+ou de décisions à caractère disciplinaire, tout élève admis dans un cycle de formation devra pouvoir parcourir la totalité de
+ce cycle dans un ou plusieurs établissements scolaires. Lorsqu'un changement d'établissement scolaire est nécessaire en cours
+de cycle, la famille ou l'élève majeur sont informés préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 19
 	  - Décret n°92-920 du 7 septembre 1992 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 
 ###### Article D341-20
@@ -70363,22 +70453,25 @@ forêt.
 ###### Article D341-21
 
 Le projet d'établissement comporte des dispositions relatives au dialogue et à l'information nécessaires ainsi qu'à
-l'orientation.
+l'orientation. 
 
 Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation ainsi
-que les résultats de l'orientation et de l'affectation figurent dans le rapport annuel prévu par le décret relatif aux
-établissements publics locaux d'enseignement et de formation professionnelle agricoles.
+que les résultats de l'orientation et de l'affectation figurent dans le rapport annuel prévu par l'article R. 811-23 du code
+rural.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 21
 	  - Décret n°92-920 du 7 septembre 1992 - art. 21 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. R*811-23
 
 
 ###### Article D341-22
@@ -70665,21 +70758,19 @@ Ils ne peuvent être suivis qu'à la demande ou avec l'accord de la famille ou d
 d'établissement après consultation des conseils des classes d'origine et d'accueil.
 
 Pour les voies d'orientation correspondant aux enseignements technologiques et professionnels agricoles, les demandes
-d'orientation peuvent porter sur une ou plusieurs spécialités professionnelles.
-
-Les propositions d'orientation et les décisions d'orientation peuvent inclure à titre d'incitation un ou plusieurs secteurs
-professionnels définis en annexe de l'arrêté mentionné au premier alinéa.
+d'orientation peuvent porter sur un ou plusieurs champs et spécialités professionnels. De même, les propositions
+d'orientation et les décisions d'orientation peuvent inclure à titre de conseil un ou plusieurs champs et spécialités
+professionnels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-921 1992-09-07 art. 12
 	  - Décret n°92-921 du 7 septembre 1992 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 	**Cité par**:
 
@@ -70709,20 +70800,19 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 
 ###### Article D341-36
 
-A l'intérieur d'une voie d'orientation, le choix des enseignements optionnels ou des spécialités incombe aux parents de
-l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de la
-classe réuni sous la présidence du chef d'établissement.
+Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de la classe réuni
+sous la présidence du chef d'établissement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-921 1992-09-07 art. 14
 	  - Décret n°92-921 du 7 septembre 1992 - art. 14 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
 
 	**Cité par**:
 
@@ -70732,23 +70822,26 @@ classe réuni sous la présidence du chef d'établissement.
 
 ###### Article D341-37
 
-Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous réserve des problèmes disciplinaires et dispositions prévues à l'article R. 813-44 du code rural.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-36
+ou de décisions à caractère disciplinaire et des dispositions prévues à l'article R. 813-44 du code rural, tout élève admis
+dans un cycle de formation devra pouvoir parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires.
+Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle, la famille ou l'élève majeur sont informés
+préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural R813-44
-
 	**Anciens textes**:
 
-	  - Décret n°92-921 1992-09-07 art. 15
 	  - Décret n°92-921 du 7 septembre 1992 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-224 du 24 février 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D341-36 (VT)
+	  - Code rural - art. R813-44 (V)
 
 
 ###### Article D341-38
@@ -71851,6 +71944,53 @@ chargé de l'agriculture et du ministre chargé des personnes handicapées.
 	  - Code de l'action sociale et des familles - art. D312-59-11 (V)
 	  - Code de l'action sociale et des familles - art. D312-69 (V)
 	  - Code de l'action sociale et des familles - art. D312-88 (V)
+
+
+##### Sous-section 4 : L'aide individuelle.
+
+###### Article D351-20-1
+
+I. - Les associations ou groupements d'associations qui ont conclu avec le ministère de l'éducation nationale une convention-
+cadre à l'effet d'assurer l'aide individuelle mentionnée à l'article L. 351-3 peuvent recruter les personnels dont la
+continuité de l'accompagnement a été reconnue comme nécessaire aux élèves handicapés en vertu du II et bénéficier à ce titre
+d'une subvention dans les conditions prévues au III. 
+
+II. - Les personnels employés par le ministère de l'éducation nationale ou par les établissements publics locaux
+d'enseignement assurant auprès d'élèves handicapés une aide individuelle peuvent, lorsque les dispositions législatives et
+réglementaires en vigueur ne permettent pas le renouvellement de leur contrat, demander à l'inspecteur d'académie, directeur
+des services départementaux de l'éducation nationale, leur inscription sur une liste départementale. 
+
+Celui-ci apprécie si la nature particulière du handicap de l'élève rend nécessaire la continuité de son accompagnement par
+l'agent concerné au regard, notamment, des compétences spécifiques que ce dernier a acquises pour la prise en charge de ce
+handicap.
+
+S'il conclut à la nécessité d'une telle continuité et si la famille de l'élève en est d'accord, l'inspecteur d'académie
+inscrit l'agent concerné sur la liste. 
+
+III. - Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste prévue au II, les associations et groupements
+d'associations employeurs concluent une convention avec l'inspecteur d'académie, directeur des services départementaux de
+l'éducation nationale, qui précise notamment le montant de la subvention attribuée par l'Etat au titre de l'accompagnement de
+l'élève handicapé. 
+
+Cette subvention est calculée sur la base de la rémunération brute antérieurement perçue par la personne recrutée,
+cotisations sociales à la charge de l'employeur et taxe sur les salaires comprises, majorée forfaitairement de 10 % au titre
+des coûts de gestion administrative et de formation. Elle tient compte, le cas échéant, des évolutions de la quotité horaire
+de l'aide individuelle déterminée par la commission des droits et de l'autonomie des personnes handicapées postérieurement au
+recrutement des intéressés. 
+
+IV. - Les modalités de mise en œuvre du présent article et, en particulier, les conditions d'instruction des demandes prévues
+au II ainsi que les éléments devant figurer dans les conventions mentionnées aux I et III sont définis conjointement par les
+ministres chargés de l'éducation nationale, du travail, de l'emploi et de la solidarité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-993 du 20 août 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-3
 
 
 ##### Section 3 : Dispositions particulières en faveur des jeunes sourds.
@@ -101469,6 +101609,36 @@ L'autorité académique est compétente pour conclure le contrat des maîtres ou
 	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
 
 
+###### Article R914-18
+
+Nul ne peut diriger un établissement d'enseignement privé ayant passé l'un des contrats prévus aux articles L. 442-5 et L.
+442-12 : 
+
+1° Dans le premier degré, s'il ne remplit les conditions exigées dans l'enseignement public pour être directeur d'école ; 
+
+2° Dans le second degré, s'il n'exerce dans les classes sous contrat en qualité de maître titulaire d'un contrat ou d'un
+agrément définitifs sur une échelle de rémunération de titulaire depuis cinq années au moins ou s'il ne possède le diplôme de
+licence ou un diplôme équivalent et s'il ne satisfait aux conditions mentionnées au 1° de l'article L. 441-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. 4 (V)
+	  - Code de l'éducation - art. R973-1 (V)
+	  - Code de l'éducation - art. R974-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-5 (V)
+	  - Code de l'éducation - art. L442-12 (V)
+	  - Code de l'éducation - art. L442-5 (V)
+
+
 ###### Article R914-19
 
 Jusqu'au 1er septembre de l'année précédant la première session du concours institué par les articles R. 914-20 et R. 914-28,
@@ -102403,6 +102573,27 @@ d'origine. La nouvelle période probatoire n'est pas prise en compte pour l'avan
 	  - Code de l'éducation - art. R914-24
 
 
+###### Article R914-43
+
+Les maîtres ayant obtenu un contrat provisoire pendant la période probatoire  bénéficient des dispositions du décret n°
+94-874 du 7 octobre  1994 fixant les dispositions communes applicables aux  stagiaires de l'Etat et de ses établissements
+publics, à l'exception des  dispositions de ce décret relatives au détachement et à la discipline.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°94-874 du 7 octobre 1994
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 7
+
+
 ##### Section 3 : Recrutement des enseignants  des classes sous contrat.
 
 ##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.
@@ -102993,6 +103184,23 @@ ont été admis.
 
 
 
+###### Article R914-78
+
+Les maîtres reçus aux différents concours du premier et du second degré sont  classés, après avis de la commission
+consultative mixte compétente, dans leur  échelle de rémunération dans les mêmes conditions que les enseignants reçus aux
+concours correspondants de l'enseignement public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. 5 (V)
+
+
 ###### Article R914-79
 
 Le maître dont le contrat est rompu pour exercer des fonctions soit de direction  dans les établissements sous contrat, soit
@@ -103006,6 +103214,38 @@ l'exercice des fonctions définies ci-dessus.
 	**Créé par**:
 
 	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+
+###### Article R914-80
+
+Le maître qui a pris un congé pour exercer des fonctions d'enseignement dans un établissement d'enseignement à l'étranger en
+application de l'article R. 914-105 peut bénéficier pour son classement, lorsqu'il retrouve un service d'enseignement en
+France, de la prise en compte de la durée des services accomplis antérieurement au congé et de l'intégralité des périodes de
+services d'enseignement effectués à l'étranger sous réserve que l'enseignement ait été dispensé en français et qu'il soit
+conforme aux programmes officiels français ou jugé utile au rayonnement culturel de la France. 
+
+Les demandes de prise en compte sont appréciées par référence à la liste des établissements scolaires français à l'étranger
+établie en application des dispositions de l'article R. 451-2. Toutefois, lorsque l'établissement dans lequel le maître a
+exercé à l'étranger ne figure pas sur cette liste, la prise en compte des services qu'il a effectués à l'étranger est alors
+subordonnée à la présentation d'un certificat attestant que l'enseignement a été dispensé dans les conditions exigées au
+premier alinéa. 
+
+Ce certificat est délivré par la représentation française à l'étranger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R451-2 (V)
+	  - Code de l'éducation - art. R914-105 (VD)
 
 
 ##### Paragraphe 2 : Reclassement pour motif médical.
@@ -103635,6 +103875,28 @@ la décision rendue par la juridiction saisie est devenue définitive.
 
 
 ##### Section 8 : Droits sociaux et congés.
+
+
+##### Sous-section 1 : Dispositions générales.
+
+
+
+###### Article R914-105
+
+Les maîtres contractuels ou agréés bénéficient du régime des congés de toute  nature, des disponibilités et des autorisations
+d'absence dans les mêmes  conditions que les maîtres titulaires de l'enseignement public.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. 5 (V)
+	  - Code de l'éducation - art. R914-68 (VD)
+	  - Code de l'éducation - art. R914-80 (VD)
 
 
 ##### Sous-section 2 : Cessation progressive d'activité.
