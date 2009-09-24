@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-09-02
+Version Consolidée au 2009-09-25
 
 # Partie législative
 
@@ -69324,24 +69324,29 @@ l'emploi.
 ###### Article D338-9
 
 Le diplôme professionnel " un des meilleurs ouvriers de France " est un diplôme d'Etat qui atteste l'acquisition d'une haute
-qualification dans l'exercice d'une activité professionnelle dans le domaine artisanal, commercial, de service ou industriel.
+qualification dans l'exercice d'une activité professionnelle dans le domaine artisanal, commercial, de service, industriel ou
+agricole. 
 
-Le diplôme est classé au niveau III de la nomenclature interministérielle des niveaux de formation.
+Le diplôme est classé au niveau III de la nomenclature interministérielle des niveaux de formation. 
 
-Il est délivré au titre d'une profession dénommée " classe ", rattachée à un groupe de métiers. Le nombre ainsi que la
-dénomination des groupes et des classes sont fixés par arrêté du ministre chargé de l'éducation.
+Il est délivré, à l'issue d'un examen dénommé "concours un des meilleurs ouvriers de France", au titre d'une profession
+dénommée "classe", rattachée à un groupe de métiers et, le cas échéant, au titre d'une option de cette classe. Le nombre
+ainsi que la dénomination des groupes, des classes et des options sont fixés par arrêté du ministre chargé de l'éducation, ou
+par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de l'agriculture lorsque des classes relevant du
+domaine agricole sont ouvertes au titre d'une session d'examen. 
 
 La délivrance du diplôme donne droit au port d'une médaille de bronze et émail attachée au cou par une cravate aux couleurs
-nationales.
+nationales. 
 
-Dans l'exercice de leur profession, seuls les titulaires du diplôme peuvent arborer un col aux couleurs nationales.
+Dans l'exercice de leur profession, seuls les titulaires du diplôme peuvent arborer un col aux couleurs nationales. 
 
-Les titulaires du diplôme portent le titre de " un des meilleurs ouvriers de France ".
+Les titulaires du diplôme portent le titre de " un des meilleurs ouvriers de France ". 
 
 Le titre de " un des meilleurs ouvriers de France " honoris causa peut être décerné, sur proposition du président du comité
-d'organisation des expositions du travail et du jury général, à des personnes qui méritent d'en être honorées pour les
-services éminents qu'elles ont rendus au comité d'organisation des expositions du travail ou aux meilleurs ouvriers de
-France. Il donne droit au port d'une médaille du même modèle et à la délivrance d'un diplôme.
+d'organisation du concours "un des meilleurs ouvriers de France" et des expositions du travail et du jury général, à des
+personnes qui méritent d'en être honorées pour les services éminents qu'elles ont rendus au comité d'organisation des
+expositions du travail ou aux meilleurs ouvriers de France. Il donne droit au port d'une médaille du même modèle et à la
+délivrance d'un diplôme. 
 
 Les oeuvres des diplômés font l'objet d'une exposition dénommée " exposition nationale du travail ".
 
@@ -69349,13 +69354,12 @@ Les oeuvres des diplômés font l'objet d'une exposition dénommée " exposition
 
 	**Anciens textes**:
 
-	  - Décret n°2001-599 2001-07-05 art. 1, alinéas 1 à 5, sauf en ce qui concerne le ministre chargé de l'éducation, et 6
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 1 (Ab)
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -69420,7 +69424,7 @@ sont décernés, le cas échéant, à l'équipe ou à certains de ses membres.
 ###### Article D338-12
 
 Aucun titulaire du diplôme " un des meilleurs ouvriers de France " ne peut poser à nouveau sa candidature au titre de la même
-classe de métier.
+classe de métier ou de la même option d'une même classe de métier.
 
 **Liens relatifs à cet article**
 
@@ -69428,14 +69432,14 @@ classe de métier.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 3
 
 
 ###### Article D338-13
 
-Les épreuves de l'examen du diplôme professionnel " un des meilleurs ouvriers de France " sont publiques, sauf décision du
+Les épreuves de l'examen conduisant au diplôme "un des meilleurs ouvriers de France" peuvent être publiques, sur décision du
 jury général.
 
 **Liens relatifs à cet article**
@@ -69444,16 +69448,15 @@ jury général.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 4
 
 
 ###### Article D338-14
 
-Par décision du ministre chargé de l'éducation, les épreuves du diplôme professionnel " un des meilleurs ouvriers de France "
-peuvent être organisées en deux groupes. Dans ce cas, seuls les candidats retenus à l'issue du premier groupe d'épreuves
-peuvent se présenter au deuxième groupe d'épreuves.
+Les épreuves de l'examen conduisant au diplôme "un des meilleurs ouvriers de France" sont organisées en deux groupes. Seuls
+les candidats retenus à l'issue du premier groupe d'épreuves peuvent se présenter au deuxième groupe d'épreuves.
 
 **Liens relatifs à cet article**
 
@@ -69461,9 +69464,9 @@ peuvent se présenter au deuxième groupe d'épreuves.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 5
 
 	**Cité par**:
 
@@ -69472,9 +69475,11 @@ peuvent se présenter au deuxième groupe d'épreuves.
 
 ###### Article D338-15
 
-Pour chaque classe définie à l'article D. 338-9, les sujets de l'examen sont établis par des commissions composées
-d'enseignants ou de professionnels, salariés ou employeurs, nommés par le ministre chargé de l'éducation, sur proposition du
-comité d'organisation des expositions du travail. Elles sont présidées par le président du jury de classe.
+Pour chaque classe ou option d'une même classe définie à l'article D. 338-9, les sujets de l'examen sont établis par des
+commissions composées d'enseignants, de formateurs ou de professionnels, salariés ou employeurs, en activité ou retraités.
+Les membres de ces commissions sont nommés par le ministre chargé de l'éducation, sur proposition du comité d'organisation du
+concours " un des meilleurs ouvriers de France " et des expositions du travail et, pour les classes relevant du domaine
+agricole, par le ministre chargé de l'agriculture. Elles sont présidées par le président du jury de classe.
 
 **Liens relatifs à cet article**
 
@@ -69482,28 +69487,29 @@ comité d'organisation des expositions du travail. Elles sont présidées par le
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D338-9 (V)
+	  - Code de l'éducation - art. D338-9
 
 
 ###### Article D338-16
 
-L'examen du diplôme professionnel " un des meilleurs ouvriers de France " comporte une ou plusieurs épreuves pratiques qui
-consistent en la réalisation d'une ou de plusieurs oeuvres, à partir d'un sujet imposé ou d'une ou de plusieurs oeuvres
-libres intégrant des contraintes techniques.
+L'examen du diplôme professionnel " un des meilleurs ouvriers de France " comporte, pour chaque groupe d'épreuves prévu à
+l'article D. 338-14, une ou plusieurs épreuves qui consistent en la réalisation d'une ou de plusieurs oeuvres, à partir d'un
+sujet imposé ou d'une ou de plusieurs oeuvres libres intégrant des contraintes techniques. 
 
-Selon les classes, il peut y avoir, en outre :
+Selon les classes ou options d'une même classe, il peut y avoir, en outre : 
 
-a) Soit une épreuve théorique ou technologique, écrite ou orale ;
+a) Soit une épreuve théorique, technologique ou pratique, écrite ou orale ; 
 
-b) Soit la réalisation d'un dossier.
+b) Soit la réalisation d'un dossier. 
 
-Pour chaque classe, un arrêté du ministre chargé de l'éducation fixe le nombre et la nature des épreuves.
+Pour chaque classe, un arrêté du ministre chargé de l'éducation ou, le cas échéant, du ministre chargé de l'éducation et du
+ministre chargé de l'agriculture fixe le nombre et la nature des épreuves.
 
 **Liens relatifs à cet article**
 
@@ -69511,15 +69517,21 @@ Pour chaque classe, un arrêté du ministre chargé de l'éducation fixe le nomb
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 7
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D338-14
 
 
 ###### Article D338-17
 
+Le ministre chargé de l'éducation fixe la date de chaque session d'examen. 
+
 La délibération du jury général de l'examen conduisant à la délivrance du diplôme " un des meilleurs ouvriers de France " est
-organisée au cours de la quatrième année qui suit l'exposition nationale du travail mentionnée à l'article D. 338-9.
+organisée à l'issue des épreuves finales et avant l'exposition nationale du travail mentionnée à l'article D. 338-9.
 
 **Liens relatifs à cet article**
 
@@ -69527,23 +69539,24 @@ organisée au cours de la quatrième année qui suit l'exposition nationale du t
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 8
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D338-9 (V)
+	  - Code de l'éducation - art. D338-9
 
 
 ###### Article D338-18
 
 L'organisation matérielle des examens du diplôme professionnel " un des meilleurs ouvriers de France " tant au niveau local
-que national ainsi que l'organisation des expositions nationales du travail sont assurées par le comité d'organisation des
-expositions du travail.
+que national ainsi que l'organisation des expositions nationales du travail sont assurées par le comité d'organisation du
+concours " un des meilleurs ouvriers de France et des expositions du travail. 
 
-Un arrêté du ministre chargé de l'éducation fixe les conditions de mise en oeuvre des articles D. 338-11 à D. 338-17 et du
-premier alinéa du présent article.
+Un arrêté du ministre chargé de l'éducation ou, le cas échéant, un arrêté du ministre chargé de l'éducation et du ministre
+chargé de l'agriculture fixe les conditions de mise en oeuvre des articles D. 338-11 à D. 338-17 et du premier alinéa du
+présent article.
 
 **Liens relatifs à cet article**
 
@@ -69551,23 +69564,30 @@ premier alinéa du présent article.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 9
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D338-11
 
 
 ##### Sous-section 3 : Les jurys.
 
 ###### Article D338-19
 
-Le jury de chaque classe est constitué d'enseignants ou de professionnels, employeurs et salariés, sans que le nombre de
-titulaires du diplôme " un des meilleurs ouvriers de France " puisse excéder la moitié de ses membres.
+Le jury de chaque classe est constitué d'enseignants, de formateurs et de professionnels, employeurs et salariés, en activité
+ou retraités, sans que le nombre de titulaires du diplôme "un des meilleurs ouvriers de France" puisse excéder la moitié de
+ses membres. Le jury est valablement constitué même si l'ensemble des catégories mentionnées au présent article n'est pas
+représenté.
 
-Il est présidé par un professionnel. Un vice-président est nommé, parmi les membres enseignants du jury ou, à défaut, parmi
-les professionnels.
+Il est présidé par un professionnel ou à défaut par un enseignant. Un ou plusieurs vice-présidents sont nommés parmi les
+membres enseignants du jury ou, à défaut, parmi les professionnels.
 
-Les membres des jurys de classe, le président et le vice-président sont nommés par le ministre chargé de l'éducation sur
-proposition du comité d'organisation des expositions du travail.
+Les membres des jurys de classe, le président et le ou les vice-présidents sont nommés par le ministre chargé de l'éducation
+sur proposition du comité d'organisation du concours "un des meilleurs ouvriers de France" et des expositions du travail et,
+pour les classes relevant du domaine agricole, par le ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
@@ -69575,18 +69595,24 @@ proposition du comité d'organisation des expositions du travail.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 10
 
 
 ###### Article D338-20
 
-Le jury général du diplôme professionnel " un des meilleurs ouvriers de France " est constitué d'enseignants, d'employeurs et
-de salariés. Il est présidé par un inspecteur général de l'éducation nationale. Un vice-président est désigné parmi les
-membres du jury représentant les professionnels.
+Le jury général de l'examen conduisant au diplôme professionnel "un des meilleurs ouvriers de France" est constitué
+d'enseignants, de formateurs et de professionnels, employeurs et salariés, en activité ou retraités. Ces membres sont nommés
+par le ministre chargé de l'éducation, le cas échéant sur proposition du ministre chargé de l'agriculture lorsque des classes
+relevant du domaine agricole sont ouvertes au titre d'une session. Le jury est valablement constitué même si l'ensemble des
+catégories mentionnées au présent article n'est pas représenté.
 
-Les membres du jury général, le président et le vice-président sont nommés par le ministre chargé de l'éducation.
+Il est présidé par un inspecteur général de l'éducation nationale. Deux vice-présidents sont désignés, l'un parmi les membres
+du jury représentant les professionnels, l'autre au sein du corps des inspecteurs généraux de l'éducation nationale ; lorsque
+des classes relevant du domaine agricole sont ouvertes au titre d'une session, un troisième vice-président est désigné sur
+proposition du ministre chargé de l'agriculture. Le président et les vice-présidents sont nommés par le ministre chargé de
+l'éducation.
 
 Le président du jury général est chargé de se prononcer sur toute difficulté relative au déroulement de l'examen.
 
@@ -69596,15 +69622,16 @@ Le président du jury général est chargé de se prononcer sur toute difficult�
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 11
 
 
 ###### Article D338-21
 
-Le jury de chaque classe fait connaître ses propositions au jury général, seul habilité à proposer au ministre chargé de
-l'éducation la liste des lauréats.
+Le jury de chaque classe délibère à l'issue du premier groupe et du second groupe d'épreuves. Après sa dernière délibération,
+il fait connaître ses propositions au jury général, seul habilité à proposer au ministre chargé de l'éducation la liste des
+lauréats.
 
 **Liens relatifs à cet article**
 
@@ -69612,9 +69639,9 @@ l'éducation la liste des lauréats.
 
 	  - Décret n°2001-599 du 5 juillet 2001 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2009-1145 du 22 septembre 2009 - art. 12
 
 
 ###### Article D338-22
