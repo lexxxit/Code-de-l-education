@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-09-25
+Version Consolidée au 2009-10-01
 
 # Partie législative
 
@@ -101428,151 +101428,6 @@ des classes sous contrat.
 
 ##### Sous-section 1 : Dispositions générales.
 
-###### Article R914-14
-
-Nul ne peut exercer en qualité de maître contractuel dans les établissements  sous contrat d'association ou de maître agréé
-dans les établissements sous  contrat simple :
-
-1° S'il n'est ressortissant de l'un des Etats  membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur
-l'Espace économique européen, sauf dérogation accordée dans les conditions  prévues par les dispositions applicables aux
-divers ordres d'enseignement  ;
-
-2° S'il ne jouit de ses droits civiques dans l'Etat dont il  est ressortissant ;
-
-3° S'il ne se trouve en position régulière  au regard des obligations de service national de l'Etat dont il est
-ressortissant ;
-
-4° S'il ne remplit les conditions d'aptitude  physique exigées du personnel enseignant de l'enseignement public ;
-
-5° Si, étant de nationalité française, les mentions portées au  bulletin n° 2 de son casier judiciaire sont incompatibles
-avec les fonctions  d'enseignement ou si, étant ressortissant d'un Etat autre que la France, il a  subi une condamnation
-incompatible avec les fonctions d'enseignement.
-
-Les intéressés peuvent toutefois être relevés de cette incapacité par  décision du ministre chargé de l'éducation, après avis
-du Conseil supérieur de  l'éducation délibérant en formation disciplinaire.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 3 mai 2010 - art. 2 (V)
-	  - Décret n°2012-1512 du 28 décembre 2012 - art. 5 (V)
-	  - Code de l'éducation - art. R914-113 (V)
-
-
-###### Article R914-15
-
-Les maîtres qui exercent dans les classes de l'enseignement du premier degré  doivent posséder soit le diplôme exigé pour
-l'accès définitif à l'échelle de  rémunération des instituteurs, soit le certificat d'aptitude au professorat des  écoles,
-obtenus à l'issue d'une scolarité suivie dans des conditions fixées par  arrêté du ministre chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R914-46 (V)
-	  - Code de l'éducation - art. R914-48 (V)
-	  - Code de l'éducation - art. R914-56 (V)
-
-
-###### Article R914-16
-
-Les maîtres qui exercent dans des classes du second degré doivent avoir subi avec succès les épreuves d'un des concours
-mentionnés aux articles R. 914-20, R. 914-23, R. 914-24 et R. 914-28 et avoir obtenu le certificat d'aptitude.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R914-20 (V)
-	  - Code de l'éducation - art. R914-23 (V)
-	  - Code de l'éducation - art. R914-28 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R914-77 (V)
-	  - Code de l'éducation - art. R914-78-1 (V)
-	  - Code de l'éducation - art. R973-1 (V)
-
-
-###### Article R914-17
-
-L'autorité académique est compétente pour conclure le contrat des maîtres ou  pour accorder l'agrément des maîtres des
-établissements d'enseignement privés  sous contrat.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-
-###### Article R914-18
-
-Nul ne peut diriger un établissement d'enseignement privé ayant passé l'un des contrats prévus aux articles L. 442-5 et L.
-442-12 : 
-
-1° Dans le premier degré, s'il ne remplit les conditions exigées dans l'enseignement public pour être directeur d'école ; 
-
-2° Dans le second degré, s'il n'exerce dans les classes sous contrat en qualité de maître titulaire d'un contrat ou d'un
-agrément définitifs sur une échelle de rémunération de titulaire depuis cinq années au moins ou s'il ne possède le diplôme de
-licence ou un diplôme équivalent et s'il ne satisfait aux conditions mentionnées au 1° de l'article L. 441-5.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. 4 (V)
-	  - Code de l'éducation - art. R973-1 (V)
-	  - Code de l'éducation - art. R974-1 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L441-5 (V)
-	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (V)
-
-
-###### Article R914-19
-
-Jusqu'au 1er septembre de l'année précédant la première session du concours institué par les articles R. 914-20 et R. 914-28,
-dans la section ou éventuellement l'option, les candidats justifiant de l'un des titres de capacité exigés des candidats aux
-concours externes correspondants de l'enseignement public peuvent bénéficier d'un contrat provisoire d'un an. Les maîtres
-ainsi recrutés sont classés en fonction de leurs titres et diplômes dans l'une des échelles de rémunération des maîtres
-auxiliaires dans les mêmes conditions que les maîtres auxiliaires de l'enseignement public. 
-
-Au cours de cette période d'un an, le maître est soumis à un contrôle d'aptitude pédagogique par inspection qui peut conclure
-soit à l'attribution d'un contrat définitif, soit au renouvellement du contrat provisoire, soit à l'inaptitude de
-l'intéressé.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R914-20 (V)
-	  - Code de l'éducation - art. R914-28 (V)
-
-
 ##### Sous-section 2 : Concours de recrutement de maîtres 
 de l'enseignement privé sous contrat.
 
@@ -101658,28 +101513,29 @@ les concours organisés à partir de la session 2011.
 
 ###### Article R914-22
 
-Le nombre de contrats offerts pour chaque concours, réparti par sections et,  éventuellement, par options, est fixé par
-arrêté du ministre chargé de  l'éducation.
+Le nombre de contrats offerts pour chaque concours, répartis par sections et, éventuellement, par options, est fixé par
+arrêté du ministre chargé de l'éducation. 
 
-Le nombre des inscriptions sur une liste  d'aptitude ne peut excéder :
+Les candidats admis à ces concours sont inscrits, dans la limite du nombre de contrats offerts pour chacun de ces concours,
+sur une liste d'aptitude, par ordre alphabétique. 
 
-1° 120 % du nombre de contrats  offerts pour chaque section ou éventuellement chaque option pour les concours  correspondant
-aux concours externes du certificat d'aptitude au professorat de  l'enseignement du second degré, du certificat d'aptitude au
-professorat de  l'enseignement technique et du certificat d'aptitude au professorat d'éducation  physique et sportive ;
+Le jury peut établir, pour les concours correspondant aux concours externes visés aux 1°, 2°, 3° et 4° de l'article R. 914-20
+une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut excéder 100 % des contrats offerts pour chaque section
+et éventuellement chaque option. 
 
-2° 200 % du nombre de contrats offerts  pour chaque section ou éventuellement chaque option pour le concours  correspondant
-au concours externe du certificat d'aptitude au professorat de  lycée professionnel.
-
-Les candidats admis au concours par le  jury sont inscrits, par section, ou éventuellement par option, sur une liste
-d'aptitude. Les inscriptions sur la liste d'aptitude sont prononcées par ordre  alphabétique.
-
-La validité d'une liste d'aptitude expire le 1er  octobre suivant la date de proclamation des résultats du concours.
+La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats, sous réserve des dispositions
+du troisième alinéa de l'article R. 914-32.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R914-20
+	  - Code de l'éducation - art. R914-32
 
 
 ###### Article R914-23
@@ -101928,19 +101784,19 @@ les concours organisés à partir de la session 2011.
 
 ###### Article R914-31
 
-Les candidats admis au concours par le jury sont inscrits, par section ou,  éventuellement, par option, sur une liste
-d'aptitude établie par ordre  alphabétique.
+Les candidats admis au concours par le jury sont inscrits, par section ou, éventuellement, par option, sur une liste
+d'aptitude établie par ordre alphabétique.
 
-Le nombre des inscriptions sur une liste  d'aptitude ne peut excéder 150 % du nombre de contrats offerts pour chaque  section
-ou, éventuellement, chaque option.
+Le jury peut établir une liste d'aptitude complémentaire, par ordre de mérite. Cette liste ne peut excéder 100 % du nombre de
+contrats offerts pour chaque section et éventuellement chaque option. 
 
-La validité d'une  liste d'aptitude expire le 1er octobre suivant la date de proclamation des  résultats du concours.
+La validité de ces listes expire le 1er novembre suivant la date de proclamation des résultats.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 4
 
 
 ##### Sous-section 3 : Nomination dans les établissements d'enseignement privés
@@ -101976,19 +101832,23 @@ la direction d'établissement, sont reconnues comme  fonctions d'enseignement da
 ###### Article R914-45
 
 Il est pourvu aux services vacants des classes sous contrat d'association, dans les conditions définies aux articles R.
-914-75 à R. 914-77, par la nomination de maîtres titulaires, de maîtres contractuels ou, pour suivre l'année de formation ou
-de stage, de lauréats de concours externe ou interne de l'enseignement privé ou bénéficiaires d'une mesure de résorption de
-l'emploi précaire ou, à défaut, de délégués nommés par le recteur. 
+914-75 à R. 914-77, par la nomination de maîtres titulaires, de maîtres contractuels ou, pour suivre l'année de stage, de
+lauréats de concours externe ou interne de l'enseignement privé ou bénéficiaires d'une mesure de résorption de l'emploi
+précaire ou, à défaut, de délégués nommés par le recteur. 
 
 Il ne peut être pourvu aux services qui cessent provisoirement d'être assurés que par la nomination d'un lauréat d'un
 concours externe ou interne de l'enseignement privé ou bénéficiaire d'une mesure de résorption de l'emploi précaire, pour
-effectuer l'année de formation ou de stage, ou, à défaut, d'un délégué nommé par le recteur.
+effectuer l'année de stage, ou, à défaut, d'un délégué nommé par le recteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+	**Modifié par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 8
 
 	**Cité par**:
 
@@ -102277,32 +102137,462 @@ d'absence.
 
 
 
-###### Article R914-32
+##### Section 3 : Recrutement des enseignants  des classes sous contrat.
 
-Les candidats inscrits sur une liste d'aptitude aux fonctions de maître à la  suite de leur admission au concours externe et
-au troisième concours  bénéficient, dans la limite du nombre de contrats offerts au concours et avec  l'accord du chef
-d'établissement d'enseignement privé sous contrat dans lequel  ils effectuent la partie pratique de leur formation, d'une
-année de  formation.
+##### Sous-section préliminaire : Dispositions générales
 
-L'année de formation correspond à la seconde année  de formation dispensée aux lauréats des concours de l'enseignement public
-dans  les instituts universitaires de formation des maîtres ou, pour les candidats  inscrits sur la liste d'aptitude des
-troisièmes concours, à celle dispensée aux  lauréats des troisièmes concours de l'enseignement public dans les instituts
-universitaires de formation des maîtres.
+###### Article R914-14
 
-Toutefois, les  personnels qui exerçaient avant le concours des fonctions de maître continuent à  assurer un service
-d'enseignement ou de documentation dans des conditions  analogues à celles applicables aux personnels correspondants de
-l'enseignement  public et bénéficient d'une formation adaptée.
+Nul ne peut exercer en qualité de maître contractuel dans les établissements  sous contrat d'association ou de maître agréé
+dans les établissements sous  contrat simple :
 
-Le contenu et  l'organisation de la formation dispensée avec le concours d'un institut  universitaire de formation des
-maîtres, ainsi que les charges auxquelles elle  donne lieu, font l'objet d'une convention entre le recteur, l'institut
-universitaire de formation des maîtres et les représentants des établissements  d'enseignement privés dans le respect du
-caractère propre de ces  établissements.
+1° S'il n'est ressortissant de l'un des Etats  membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen, sauf dérogation accordée dans les conditions  prévues par les dispositions applicables aux
+divers ordres d'enseignement  ;
+
+2° S'il ne jouit de ses droits civiques dans l'Etat dont il  est ressortissant ;
+
+3° S'il ne se trouve en position régulière  au regard des obligations de service national de l'Etat dont il est
+ressortissant ;
+
+4° S'il ne remplit les conditions d'aptitude  physique exigées du personnel enseignant de l'enseignement public ;
+
+5° Si, étant de nationalité française, les mentions portées au  bulletin n° 2 de son casier judiciaire sont incompatibles
+avec les fonctions  d'enseignement ou si, étant ressortissant d'un Etat autre que la France, il a  subi une condamnation
+incompatible avec les fonctions d'enseignement.
+
+Les intéressés peuvent toutefois être relevés de cette incapacité par  décision du ministre chargé de l'éducation, après avis
+du Conseil supérieur de  l'éducation délibérant en formation disciplinaire.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
 	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2010 - art. 2 (V)
+	  - Décret n°2012-1512 du 28 décembre 2012 - art. 5 (V)
+	  - Code de l'éducation - art. R914-113 (V)
+
+
+###### Article R914-15
+
+Les maîtres qui exercent dans les classes de l'enseignement du premier degré doivent posséder soit le diplôme exigé pour
+l'accès définitif à l'échelle de rémunération des instituteurs, soit le certificat d'aptitude au professorat des écoles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R914-46 (V)
+	  - Code de l'éducation - art. R914-48 (V)
+	  - Code de l'éducation - art. R914-56 (V)
+
+
+###### Article R914-16
+
+Les maîtres qui exercent dans des classes du second degré doivent avoir subi avec succès les épreuves d'un des concours
+mentionnés aux articles R. 914-20, R. 914-23, R. 914-24 et R. 914-28 et avoir obtenu le certificat d'aptitude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R914-20 (V)
+	  - Code de l'éducation - art. R914-23 (V)
+	  - Code de l'éducation - art. R914-28 (V)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R914-77 (V)
+	  - Code de l'éducation - art. R914-78-1 (V)
+	  - Code de l'éducation - art. R973-1 (V)
+
+
+###### Article R914-17
+
+L'autorité académique est compétente pour conclure le contrat des maîtres ou  pour accorder l'agrément des maîtres des
+établissements d'enseignement privés  sous contrat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+
+###### Article R914-18
+
+Nul ne peut diriger un établissement d'enseignement privé ayant passé l'un des contrats prévus aux articles L. 442-5 et L.
+442-12 : 
+
+1° Dans le premier degré, s'il ne remplit les conditions exigées dans l'enseignement public pour être directeur d'école ; 
+
+2° Dans le second degré, s'il n'exerce dans les classes sous contrat en qualité de maître titulaire d'un contrat ou d'un
+agrément définitifs sur une échelle de rémunération de titulaire depuis cinq années au moins ou s'il ne possède le diplôme de
+licence ou un diplôme équivalent et s'il ne satisfait aux conditions mentionnées au 1° de l'article L. 441-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cité par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. 4 (V)
+	  - Code de l'éducation - art. R973-1 (V)
+	  - Code de l'éducation - art. R974-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L441-5 (V)
+	  - Code de l'éducation - art. L442-12 (V)
+	  - Code de l'éducation - art. L442-5 (V)
+
+
+###### Article R914-19
+
+Jusqu'au 1er septembre de l'année précédant la première session du concours institué par les articles R. 914-20 et R. 914-28,
+dans la section ou éventuellement l'option, les candidats justifiant de l'un des titres de capacité exigés des candidats aux
+concours externes correspondants de l'enseignement public peuvent bénéficier d'un contrat provisoire d'un an. Les maîtres
+ainsi recrutés sont classés en fonction de leurs titres et diplômes dans l'une des échelles de rémunération des maîtres
+auxiliaires dans les mêmes conditions que les maîtres auxiliaires de l'enseignement public. 
+
+Au cours de cette période d'un an, le maître est soumis à un contrôle d'aptitude pédagogique par inspection qui peut conclure
+soit à l'attribution d'un contrat définitif, soit au renouvellement du contrat provisoire, soit à l'inaptitude de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R914-20 (V)
+	  - Code de l'éducation - art. R914-28 (V)
+
+
+##### Sous-section 1 : Concours de recrutement des maîtres de l'enseignement privé sous contrat dans le premier degré
+
+###### Article R914-19-1
+
+Les concours d'accès au certificat d'aptitude au professorat des écoles dans les classes du premier degré sous contrat
+correspondent aux concours d'accès au certificat d'aptitude au professorat des écoles dans l'enseignement public. Ils sont
+organisés dans des conditions fixées par arrêté du ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2010 - art. 1 (V)
+	  - Arrêté du 3 mai 2010 - art. 3 (V)
+	  - Arrêté du 3 mai 2010 - art. 7 (V)
+	  - Arrêté du 3 mai 2010 - art. 8 (V)
+
+
+###### Article R914-19-2
+
+I. ― Les concours d'accès au certificat d'aptitude au professorat des écoles correspondant aux concours externes et au
+troisième concours de l'enseignement public sont ouverts aux candidats remplissant les conditions d'inscription aux concours
+correspondants de l'enseignement public. 
+
+Les candidats ayant subi avec succès les épreuves de ces concours sont inscrits, dans la limite du nombre de contrats offerts
+pour chacun de ces concours, sur une liste d'aptitude, par ordre alphabétique. 
+
+Le jury peut établir, pour chacun de ces concours, une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut
+excéder 100 % des contrats offerts. 
+
+Pour les candidats reçus aux concours et qui remplissent les conditions de diplôme exigées dans l'enseignement public pour la
+nomination des lauréats du concours externe de l'enseignement public, la validité de ces listes expire le 1er novembre
+suivant la date de proclamation des résultats. 
+
+Pour les candidats inscrits sur la liste principale qui ne peuvent justifier de l'un des diplômes exigés pour la nomination
+des lauréats du concours externe dans l'enseignement public, le bénéfice de l'inscription sur la liste d'aptitude est reporté
+à la session de recrutement de l'année suivante.A cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le
+bénéfice de l'admission au concours. 
+
+II. ― Les candidats admis qui remplissent les conditions de diplôme bénéficient d'un contrat provisoire et accomplissent un
+stage d'une durée d'un an, avec l'accord du chef de l'établissement dans lequel ils sont affectés. Au cours de leur stage,
+les professeurs stagiaires bénéficient d'une formation dispensée, dans le cadre des conventions prévues à l'alinéa suivant,
+sous la forme d'actions organisées dans un établissement d'enseignement supérieur et d'un accompagnement. Les modalités du
+stage et les conditions de son évaluation par un jury sont arrêtées par le ministre chargé de l'éducation. 
+
+Le contenu et l'organisation de cette formation font l'objet d'une convention entre le recteur, les représentants des
+établissements d'enseignement supérieur intéressés et les représentants des établissements d'enseignement privés ayant passé
+un contrat avec l'Etat, dans le respect du caractère propre de ces établissements. 
+
+III. ― A l'issue du stage, les candidats se voient délivrer, sur proposition d'un jury, un contrat ou un agrément définitif
+par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale du département dans le ressort
+duquel le stage est réalisé. La délivrance du contrat ou de l'agrément définitif confère le certificat d'aptitude au
+professorat des écoles. 
+
+Les candidats qui n'obtiennent pas le certificat d'aptitude peuvent être autorisés, sur proposition du jury et par décision
+de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, à effectuer une nouvelle année de
+stage. Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, n'ont pas obtenu
+leur certificat d'aptitude au professorat des écoles sont, lorsqu'ils avaient la qualité de maître contractuel ou agréé,
+replacés dans leur échelle de rémunération antérieure. 
+
+La seconde année de stage effectuée en application des dispositions de l'alinéa précédent n'est pas prise en compte pour la
+détermination de l'ancienneté de service.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2010 - art. 10 (VD)
+	  - Arrêté du 3 mai 2010 - art. 4 (V)
+	  - Arrêté du 3 mai 2010 - art. 6 (VD)
+	  - Arrêté du 31 mai 2010 - art. 2 (V)
+	  - Arrêté du 11 juillet 2014 - art. 1 (V)
+	  - Arrêté du 11 juillet 2014 - art. 3 (V)
+	  - Arrêté du 22 décembre 2014 - art. 2 (V)
+	  - Code de l'éducation - art. R914-19-3 (V)
+	  - Code de l'éducation - art. R914-19-4 (V)
+
+
+###### Article R914-19-3
+
+I. ― Les concours d'accès au certificat d'aptitude au professorat des écoles correspondant aux seconds concours internes de
+recrutement de l'enseignement public du premier degré sont ouverts : 
+
+1° Aux maîtres contractuels ou agréés rémunérés sur une échelle autre que de titulaire et aux maîtres délégués justifiant, à
+la date de clôture des registres d'inscription, de trois ans de services effectifs en cette qualité et de l'un des titres ou
+diplômes requis pour se présenter aux seconds concours internes correspondants de l'enseignement public ; 
+
+2° A l'issue d'un cycle préparatoire d'un an, aux maîtres contractuels ou agréés rémunérés sur une échelle autre que de
+titulaire et aux maîtres délégués qui, au 1er septembre de l'année au titre de laquelle les concours sont organisés,
+justifient de la possession d'un diplôme d'études universitaires générales ou d'un titre ou diplôme au moins équivalent et
+qui ont exercé pendant trois ans dans des établissements d'enseignement privés sous contrat. 
+
+Le jury établit la liste des candidats admis et la liste complémentaire selon les mêmes modalités que dans l'enseignement
+public. 
+
+II. ― Les candidats admis accomplissent un stage d'une durée d'un an. Au cours de leur stage, ils bénéficient d'une formation
+dispensée, dans le cadre des conventions mentionnées à l'alinéa suivant, sous la forme d'actions organisées dans un
+établissement d'enseignement supérieur et d'un accompagnement. Les modalités du stage et les conditions de son évaluation par
+un jury sont arrêtées par le ministre chargé de l'éducation. 
+
+Le contenu et l'organisation de cette formation font l'objet d'une convention entre le recteur, les représentants des
+établissements d'enseignement supérieur concernés et les représentants des établissements d'enseignement privés ayant passé
+un contrat avec l'Etat, dans le respect du caractère propre de ces établissements. 
+
+III. ― A l'issue du stage, les candidats se voient délivrer le certificat d'aptitude au professorat des écoles dans les
+conditions fixées au III de l'article R. 914-19-2. 
+
+Les candidats qui n'obtiennent pas le certificat d'aptitude peuvent être autorisés à effectuer une nouvelle année de stage.
+Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, n'ont pas obtenu leur
+certificat d'aptitude au professorat des écoles sont, lorsqu'ils avaient la qualité de maître contractuel ou agréé, replacés
+dans leur échelle de rémunération antérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2010 - art. 10 (VD)
+	  - Arrêté du 3 mai 2010 - art. 5 (V)
+	  - Arrêté du 31 mai 2010 - art. 2 (V)
+	  - Arrêté du 19 octobre 2010 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R914-19-2
+
+
+###### Article R914-19-4
+
+Les candidats aux concours prévus aux articles R. 914-19-2 et R. 914-19-3 subissent les mêmes épreuves que les candidats des
+concours correspondants de recrutement des professeurs des écoles de l'enseignement public. 
+
+Les candidats subissent ces épreuves devant le jury des concours correspondants de l'enseignement public, auquel il est
+adjoint, pour ces candidats, des représentants des établissements privés associés à l'Etat par contrat et ayant les titres
+requis pour enseigner (1). 
+
+Le concours d'entrée au cycle préparatoire visé au 2° du I de l'article R. 914-19-3 est organisé dans les mêmes conditions
+que le cycle préparatoire correspondant de l'enseignement public.
+
+**Nota:**
+
+(1) Décret n° 2009-920 du 28 juillet 2009 article 14 : Le présent décret entre en vigueur au 1er octobre 2009, à
+l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R914-19-2
+
+
+###### Article R914-19-5
+
+Le nombre de contrats offerts aux concours externes et au troisième concours est fixé par arrêté du ministre chargé de
+l'éducation. 
+
+Le nombre de contrats offerts au second concours interne et, le cas échéant, au second concours interne spécial est fixé par
+le recteur, après consultation des représentants des établissements d'enseignement privés, en fonction du nombre de services
+vacants à la rentrée suivante. 
+
+Le nombre de contrats offerts au troisième concours ne peut être supérieur à 10 % du nombre total des postes offerts à
+l'ensemble des concours externes. 
+
+Dans chaque académie, les contrats offerts à l'une ou l'autre des voies de concours mentionnées au présent article, qui ne
+sont pas pourvus par la nomination de candidats de la voie correspondante, peuvent être attribués, par le recteur de
+l'académie, aux candidats des autres voies dans la limite de 25 % du nombre total des contrats offerts à l'ensemble des
+concours.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+
+###### Article R914-19-6
+
+Les maîtres ayant obtenu un contrat provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre 1994 fixant les
+dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception de celles
+relatives au détachement et à la discipline. 
+
+Pendant l'année de stage, les maîtres sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître au
+titre de laquelle ils ont concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils percevaient
+antérieurement, sans que cette disposition puisse avoir pour effet de leur assurer une rémunération supérieure à celle qui
+résultera de leur classement dans leur nouvelle échelle de rémunération.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°94-874 du 7 octobre 1994
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+
+###### Article R914-19-7
+
+Des premiers concours internes pour l'accès à titre définitif à l'échelle de rémunération de professeur des écoles sont
+ouverts aux maîtres contractuels ou agréés à titre définitif, rémunérés sur l'échelle de rémunération des instituteurs qui
+justifient de trois années de services effectifs en cette qualité au 1er septembre de l'année précédant le concours. 
+
+Le nombre de contrats offerts au premier concours interne et, le cas échéant, au premier concours interne spécial est
+déterminé par arrêté du ministre chargé de l'éducation. 
+
+Les candidats aux concours prévus au présent article subissent les mêmes épreuves que les candidats des concours
+correspondants de l'enseignement public. 
+
+Les candidats subissent ces épreuves devant le jury des concours correspondants de l'enseignement public, auquel il est
+adjoint, pour ces candidats, des représentants des établissements privés associés à l'Etat par contrat et ayant les titres
+requis pour enseigner (1). 
+
+Les candidats admis à ces concours bénéficient d'un contrat ou d'un agrément définitif et sont immédiatement classés dans
+l'échelle de rémunération des professeurs des écoles.
+
+**Nota:**
+
+Le présent décret entre en vigueur au 1er octobre 2009, à l'exclusion :
+
+1° Du 6° de l'article 4, ainsi que de l'article 10 ;
+
+2° De l'article 13 ;
+
+3° Des dispositions relatives à la composition des jurys telles qu'elles résultent de la modification apportée à la rédaction
+du deuxième alinéa de l'article R. 914-19-4, du quatrième alinéa de l'article R. 914-19-7, du troisième alinéa de l'article
+R. 914-21, du quatrième alinéa de l'article R. 914-24 et du quatrième alinéa de l'article R. 914-29, qui prennent effet pour
+les concours organisés à partir de la session 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+
+	**Cité par**:
+
+	  - Arrêté du 3 mai 2010 - art. 10 (VD)
+	  - Arrêté du 3 mai 2010 - art. 4 (V)
+	  - Arrêté du 3 mai 2010 - art. 6 (VD)
+
+
+##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.
+
+##### Paragraphe 1 : Concours externes.
+
+
+
+
+
+
+##### Paragraphe 2 : Concours internes.
+
+
+
+##### Paragraphe 3 : Troisième concours.
+
+
+
+##### Paragraphe 4 : Stage
+
+###### Article R914-32
+
+Les candidats admis qui remplissent la condition de diplôme exigée dans l'enseignement public pour la nomination des lauréats
+du concours externe accomplissent un stage d'une durée d'un an, avec l'accord du chef de l'établissement dans lequel ils sont
+affectés. Au cours de leur stage, ils bénéficient d'une formation dispensée, dans le cadre des conventions mentionnées à
+l'alinéa suivant, sous la forme d'actions organisées dans un établissement d'enseignement supérieur, d'un tutorat, ainsi que
+le cas échéant d'autres types d'actions d'accompagnement. Les modalités du stage et les conditions de son évaluation par un
+jury sont arrêtées par le ministre chargé de l'éducation. 
+
+Le contenu et l'organisation de la formation de l'année de stage font l'objet d'une convention entre le recteur, les
+représentants des établissements d'enseignement supérieur intéressés et les représentants des établissements d'enseignement
+privés ayant passé un contrat avec l'Etat, dans le respect du caractère propre de ces établissements. 
+
+Pour les candidats inscrits sur la liste principale qui ne peuvent justifier, lors de la session de recrutement suivant leur
+réussite au concours, de l'un des diplômes exigés pour la nomination des lauréats du concours externe dans l'enseignement
+public, le bénéfice de l'inscription sur la liste d'aptitude est reporté à la session de recrutement de l'année suivante.A
+cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le bénéfice de l'admission au concours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -102315,25 +102605,30 @@ caractère propre de ces  établissements.
 
 ###### Article R914-33
 
-L'année de formation prévue à l'article R. 914-32 donne lieu à un contrat provisoire signé par le recteur. 
+L'année de stage prévue à l'article R. 914-32 donne lieu à un contrat provisoire signé par le recteur. 
 
 Toutefois, les maîtres qui, à la date du concours, bénéficiaient d'un contrat continuent à être régis par ce contrat pendant
 une période probatoire d'un an. 
 
-Pendant la période de formation, les maîtres sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître
-au titre de laquelle ils ont concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils percevaient
+Pendant la période de stage, les maîtres sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître au
+titre de laquelle ils ont concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils percevaient
 antérieurement, sans que cette disposition puisse avoir pour effet de leur assurer une rémunération supérieure à celle qui
-résultera de leur classement dans leur nouvelle échelle de rémunération.
+résultera de leur classement dans leur nouvelle échelle de rémunération. 
+
+Les maîtres ayant obtenu un contrat provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre 1994 fixant les
+dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception de celles
+relatives au détachement et à la discipline.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-32 (V)
+	  - Décret n°94-874 du 7 octobre 1994
+	  - Code de l'éducation - art. R914-32
+
+	**Modifié par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -102343,17 +102638,15 @@ résultera de leur classement dans leur nouvelle échelle de rémunération.
 
 ###### Article R914-34
 
-A l'issue de l'année de formation, l'aptitude des candidats au professorat est  constatée par la délivrance du certificat
-d'aptitude aux fonctions  d'enseignement dans les établissements d'enseignement privés du second degré  sous contrat.
-
-Le jury académique se prononce sur l'aptitude  des candidats dans les mêmes conditions que celles fixées pour les candidats
-reçus aux concours de l'enseignement public.
+A l'issue du stage, les candidats se voient délivrer, sur proposition d'un jury, un contrat définitif par le recteur. La
+délivrance du contrat définitif confère le certificat d'aptitude aux fonctions d'enseignement dans les établissements
+d'enseignement privés du second degré sous contrat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -102363,18 +102656,22 @@ reçus aux concours de l'enseignement public.
 
 ###### Article R914-35
 
-Les candidats qui, à l'issue de l'année de formation, n'obtiennent pas le certificat d'aptitude aux fonctions d'enseignement
-dans les établissements d'enseignement privés du second degré sous contrat peuvent à titre exceptionnel être autorisés, sur
-proposition du jury et par décision du recteur, à suivre une nouvelle année de formation. A cette fin, le contrat provisoire
-et la période probatoire prévus aux deux premiers alinéas de l'article R. 914-33 sont renouvelés pour une durée d'un an.
+Les candidats qui, à l'issue de l'année de stage, n'obtiennent pas le certificat d'aptitude aux fonctions d'enseignement dans
+les établissements d'enseignement privés du second degré sous contrat peuvent à titre exceptionnel être autorisés, sur
+proposition du jury et par décision du recteur, à suivre une nouvelle année de stage. A cette fin, le contrat provisoire est
+renouvelé pour une durée d'un an. 
+
+Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, n'ont pas obtenu leur
+certificat d'aptitude aux fonctions d'enseignement dans les établissements d'enseignement privés du second degré sont,
+lorsqu'ils avaient la qualité de maître contractuel ou agréé, replacés dans leur échelle de rémunération antérieure. 
 
 L'année de renouvellement n'est pas prise en compte pour la détermination de l'ancienneté de service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
 
 	**Cité par**:
 
@@ -102383,7 +102680,7 @@ L'année de renouvellement n'est pas prise en compte pour la détermination de l
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-33 (V)
+	  - Code de l'éducation - art. R914-33
 
 
 ###### Article R914-36
@@ -102420,27 +102717,36 @@ l'article R. 914-28.
 	  - Code de l'éducation - art. R914-33
 
 
+##### Paragraphe 5 : Cycle préparatoire
+
 ###### Article R914-38
 
-Une formation préparatoire aux concours d'accès à l'échelle de rémunération des  professeurs certifiés peut être organisée
-dans les sections ou options  correspondant à celle du certificat d'aptitude au professorat de l'enseignement  technique,
-dont les modalités sont fixées par arrêté du ministre chargé de  l'éducation. Elle est assurée par un organisme de formation
-ayant conclu une  convention avec le ministre.
+Une formation préparatoire aux concours d'accès à l'échelle de rémunération des professeurs certifiés peut être organisée
+dans les sections ou options correspondant à celle du certificat d'aptitude au professorat de l'enseignement technique, dont
+les modalités sont fixées par arrêté du ministre chargé de l'éducation. Elle est assurée par un organisme de formation ayant
+conclu une convention avec le ministre.
 
-La durée de cette formation est  fixée à deux ans. Elle est réduite à un an pour les candidats justifiant, au  début de la
-formation, d'une licence ou d'un diplôme d'ingénieur délivré par  l'un des établissements publics à caractère scientifique,
-culturel et  professionnel ou l'une des écoles habilitées par la commission des titres  d'ingénieurs ou de titres, diplômes
-ou qualifications jugés au moins équivalents  par arrêté du ministre chargé de l'éducation.
+La durée de cette formation est fixée à deux ans. Elle est réduite à un an pour les candidats qui, à la date de clôture des
+registres d'inscription, remplissent les conditions de titres ou de diplômes des candidats au cycle préparatoire
+correspondant de l'enseignement public. 
 
-Les maîtres  ayant bénéficié de la formation préparatoire ne peuvent, à l'issue de celle-ci,  se présenter aux concours
-d'accès à l'échelle de rémunération des professeurs  certifiés que dans la section correspondant à celle du certificat
-d'aptitude au  professorat de l'enseignement technique qu'ils ont suivi durant leur  formation.
+Les maîtres ayant bénéficié de la formation préparatoire ne peuvent, à l'issue de celle-ci, se présenter aux concours d'accès
+à l'échelle de rémunération des professeurs certifiés que dans la section correspondant à celle du certificat d'aptitude au
+professorat de l'enseignement technique qu'ils ont suivi durant leur formation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - DEPLACE: Décret n°2009-920 du 28 juillet 2009 - art. 5
+
+	**Modifié par**:
+
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 6
+
+	**Abrogé par**:
+
+	  - Décret n°2013-767 du 23 août 2013 - art. 18
 
 	**Cité par**:
 
@@ -102448,67 +102754,6 @@ d'aptitude au  professorat de l'enseignement technique qu'ils ont suivi durant l
 	  - Code de l'éducation - art. R914-39 (Ab)
 	  - Code de l'éducation - art. R914-40 (Ab)
 
-
-##### Sous-section 4 : Stage probatoire.
-
-
-
-###### Article R914-42
-
-Les maîtres reçus à l'un des concours d'accès aux échelles de rémunération d'enseignement mentionnés à l'article R. 914-24
-accomplissent une période probatoire organisée selon les mêmes règles que la période de stage des enseignants admis à l'un
-des concours internes correspondants de l'enseignement public. 
-
-Au cours de cette période probatoire, le recteur se prononce sur l'aptitude des candidats à bénéficier d'un contrat définitif
-dans l'échelle de rémunération correspondant au concours auquel ils ont été admis, dans les mêmes conditions que les
-enseignants stagiaires de l'enseignement public. 
-
-Les maîtres dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés, par décision du recteur, à
-accomplir une nouvelle période probatoire d'une année scolaire, à l'issue de laquelle ils sont soit admis définitivement à
-l'échelle de rémunération correspondant au concours auquel ils ont été admis, soit replacés dans leur échelle de rémunération
-d'origine. La nouvelle période probatoire n'est pas prise en compte pour l'avancement d'échelon.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 7
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R914-24
-
-
-###### Article R914-43
-
-Les maîtres ayant obtenu un contrat provisoire pendant la période probatoire  bénéficient des dispositions du décret n°
-94-874 du 7 octobre  1994 fixant les dispositions communes applicables aux  stagiaires de l'Etat et de ses établissements
-publics, à l'exception des  dispositions de ce décret relatives au détachement et à la discipline.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°94-874 du 7 octobre 1994
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 7
-
-
-##### Section 3 : Recrutement des enseignants  des classes sous contrat.
-
-##### Sous-section 2 : Concours de recrutement de maîtres   de l'enseignement privé sous contrat dans le second degré.
-
-##### Paragraphe 5 : Cycle préparatoire
 
 ###### Article R914-39
 
@@ -102596,6 +102841,8 @@ article.
 
 	  - Décret n°2013-767 du 23 août 2013 - art. 18
 
+
+##### Sous-section 3 : Nomination dans les établissements d'enseignement privés
 
 ##### Section 4 : Notation, avancement, mouvement, classement.
 
@@ -103033,52 +103280,52 @@ cette  nomination.
 
 ###### Article R914-77
 
-L'autorité académique soumet les candidatures, accompagnées de l'avis des chefs  d'établissement ou, à défaut d'avis, de la
-justification qu'ils ont été informés  des candidatures par les intéressés, à la commission consultative mixte  compétente
-siégeant en formation spéciale. Lorsque l'avis sur les candidatures  est donné dans le cadre d'un accord sur l'emploi auquel
-l'établissement adhère,  le chef d'établissement en informe la commission consultative mixte.
+L'autorité académique soumet les candidatures, accompagnées de l'avis des chefs d'établissement ou, à défaut d'avis, de la
+justification qu'ils ont été informés des candidatures par les intéressés, à la commission consultative mixte compétente
+siégeant en formation spéciale. Lorsque l'avis sur les candidatures est donné dans le cadre d'un accord sur l'emploi auquel
+l'établissement adhère, le chef d'établissement en informe la commission consultative mixte.
 
 Sont présentées par ordre de priorité les candidatures :
 
-1° Des maîtres titulaires d'un contrat définitif dont le service a  été supprimé ou réduit à la suite de la résiliation
-totale ou partielle d'un  contrat d'association ;
+1° Des maîtres titulaires d'un contrat définitif dont le service a été supprimé ou réduit à la suite de la résiliation totale
+ou partielle d'un contrat d'association ;
 
-2° Des maîtres titulaires d'un contrat  définitif candidats à une mutation ;
+2° Des maîtres titulaires d'un contrat définitif candidats à une mutation ;
 
-3° Des maîtres lauréats  d'un concours externe de recrutement de l'enseignement privé ayant satisfait aux  obligations de
-leur année de formation ;
+3° Des maîtres lauréats d'un concours externe de recrutement de l'enseignement privé ayant satisfait aux obligations de leur
+année de stage ;
 
-4° Des maîtres  lauréats d'un concours interne de recrutement de l'enseignement privé ayant  satisfait aux obligations de
-leur année de stage ;
+4° Des maîtres lauréats d'un concours interne de recrutement de l'enseignement privé ayant satisfait aux obligations de leur
+année de stage ;
 
-5° Des  maîtres qui ont été admis définitivement à une échelle de rémunération à la  suite d'une mesure de résorption de
+5° Des maîtres qui ont été admis définitivement à une échelle de rémunération à la suite d'une mesure de résorption de
 l'emploi précaire.
 
-Au vu  de l'avis émis par la commission consultative mixte, l'autorité académique  notifie à chacun des chefs d'établissement
-la ou les candidatures qu'elle se  propose de retenir pour pourvoir à chacun des services vacants dans  l'établissement. En
-cas de pluralité de candidatures, celles-ci sont classées  par l'autorité académique par ordre de priorité conformément aux
-alinéas  précédents et, pour les candidatures de même ordre de priorité, par ordre  d'ancienneté.
+Au vu de l'avis émis par la commission consultative mixte, l'autorité académique notifie à chacun des chefs d'établissement
+la ou les candidatures qu'elle se propose de retenir pour pourvoir à chacun des services vacants dans l'établissement. En cas
+de pluralité de candidatures, celles-ci sont classées par l'autorité académique par ordre de priorité conformément aux
+alinéas précédents et, pour les candidatures de même ordre de priorité, par ordre d'ancienneté.
 
-Le chef d'établissement dispose d'un délai de  quinze jours pour faire connaître à l'autorité académique son accord ou son
+Le chef d'établissement dispose d'un délai de quinze jours pour faire connaître à l'autorité académique son accord ou son
 refus.
 
-A défaut de réponse dans ce délai, le chef  d'établissement est réputé avoir donné son accord à la candidature qui lui est
-soumise ou, s'il a été saisi de plusieurs candidatures pour le même service, à  la première de ces candidatures.
+A défaut de réponse dans ce délai, le chef d'établissement est réputé avoir donné son accord à la candidature qui lui est
+soumise ou, s'il a été saisi de plusieurs candidatures pour le même service, à la première de ces candidatures.
 
-La décision par laquelle le  chef d'établissement fait connaître à l'autorité académique son refus de la ou  des candidatures
-qui lui ont été soumises est motivée. Si le chef  d'établissement refuse sans motif légitime la ou les candidatures qui lui
-ont  été soumises, il ne peut être procédé à la nomination de maîtres délégués dans  la discipline concernée au sein de
+La décision par laquelle le chef d'établissement fait connaître à l'autorité académique son refus de la ou des candidatures
+qui lui ont été soumises est motivée. Si le chef d'établissement refuse sans motif légitime la ou les candidatures qui lui
+ont été soumises, il ne peut être procédé à la nomination de maîtres délégués dans la discipline concernée au sein de
 l'établissement.
 
-Les  maîtres mentionnés aux 3°, 4° et 5° qui, sans motif légitime, ne se portent  candidats à aucun service ou qui refusent
-le service qui leur est proposé  perdent le bénéfice de leur admission définitive à l'échelle de rémunération à  laquelle ils
-ont été admis.
+Les maîtres mentionnés aux 3°, 4° et 5° qui, sans motif légitime, ne se portent candidats à aucun service ou qui refusent le
+service qui leur est proposé perdent le bénéfice de leur admission définitive à l'échelle de rémunération à laquelle ils ont
+été admis.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2009-920 du 28 juillet 2009 - art. 9
 
 	**Cité par**:
 
