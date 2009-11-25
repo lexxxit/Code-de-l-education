@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-11-14
+Version Consolidée au 2009-11-26
 
 # Partie législative
 
@@ -4865,9 +4865,8 @@ Elle organise des actions destinées à répondre aux besoins d'apprentissage et
 des femmes et des hommes aux différentes filières de formation. Elle veille en particulier à organiser des formations
 permettant d'acquérir une des qualifications mentionnées à l'article L. 6314-1 du code du travail. 
 
-Elle assure l'accueil en formation de la population résidant sur son territoire, ou dans une autre région si la formation
-désirée n'y est pas accessible. Dans ce dernier cas, une convention fixe les conditions de prise en charge de la formation
-par les régions concernées.
+Elle assure l'accueil en formation de la population résidant sur son territoire, ou dans une autre région. Dans ce dernier
+cas, une convention fixe les conditions de prise en charge de la formation par les régions concernées.
 
 **Liens relatifs à cet article**
 
@@ -4893,7 +4892,7 @@ par les régions concernées.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 52
 
 	**Cite**:
 
@@ -4923,39 +4922,45 @@ professionnelle et d'apprentissage des Français établis hors de France.
 
 ###### Article L214-13
 
-I.-La région adopte le plan régional de développement des formations professionnelles et s'assure de sa mise en oeuvre. Ce
-plan a pour objet de définir une programmation à moyen terme des actions de formation professionnelle des jeunes et des
-adultes et de favoriser un développement cohérent de l'ensemble des filières de formation en favorisant un accès équilibré
-des femmes et des hommes à chacune de ces filières de formation. 
+I.-Le contrat de plan régional de développement des formations professionnelles a pour objet de définir une programmation à
+moyen terme des actions de formation professionnelle des jeunes et des adultes et d'assurer un développement cohérent de
+l'ensemble des filières de formation en favorisant un accès équilibré des femmes et des hommes à chacune de ces filières de
+formation. Il comporte des actions d'information et de formation destinées à favoriser leur insertion sociale. Il définit
+également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience. 
 
-Il comporte des actions de formation et d'information destinées à favoriser leur insertion sociale. 
+Ce contrat de plan détermine les objectifs communs aux différents acteurs sur le territoire régional, notamment en termes de
+filières de formation professionnelle initiale et continue, sur la base d'une analyse des besoins en termes d'emplois et de
+compétences par bassin d'emploi. Il porte sur l'ensemble du territoire régional et peut être décliné par bassin d'emploi. 
 
-Il définit également les priorités relatives à l'information, à l'orientation et à la validation des acquis de l'expérience. 
+Le contrat de plan régional est élaboré par la région au sein du comité de coordination régional de l'emploi et de la
+formation professionnelle sur la base des documents d'orientation présentés par le président du conseil régional, le
+représentant de l'Etat dans la région, l'autorité académique et les organisations d'employeurs et de salariés. Le comité
+procède à une concertation avec les collectivités territoriales concernées, l'institution mentionnée à l'article L. 5312-1 du
+code du travail et des représentants d'organismes de formation professionnelle, notamment l'Association nationale pour la
+formation professionnelle des adultes en sa qualité de membre du Conseil national de l'emploi. 
 
-Ce plan est élaboré en concertation avec l'Etat, les collectivités territoriales concernées et les organisations syndicales
-d'employeurs et de salariés représentatives à l'échelon national ainsi que l'institution mentionnée à l'article  L. 5312-1. 
+Le contrat de plan régional est signé par le président du conseil régional au nom de la région après consultation des
+départements et adoption par le conseil régional, par le représentant de l'Etat dans la région au nom de l'Etat et par
+l'autorité académique. Il engage les parties représentées au sein du comité de coordination régional de l'emploi et de la
+formation professionnelle. 
 
-Il est approuvé par le conseil régional après consultation des conseils généraux, du conseil économique et social régional,
-des chambres de commerce et d'industrie, des chambres de métiers et des chambres d'agriculture au niveau régional, du conseil
-académique de l'éducation nationale, du comité régional de l'enseignement agricole et du comité de coordination régional de
-l'emploi et de la formation professionnelle. 
+Le suivi et l'évaluation de ce contrat de plan sont assurés par le comité de coordination régional de l'emploi et de la
+formation professionnelle selon des modalités générales définies par le Conseil national de la formation professionnelle tout
+au long de la vie. 
 
-Il prend en compte les orientations et les priorités définies par les contrats d'objectifs conclus en application du V ainsi
-que, pour ce qui concerne les jeunes, les dispositions relatives à la formation professionnelle qui figurent au schéma
-prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale, des lycées professionnels
-maritimes et des établissements d'enseignement agricole prévu à l'article L. 214-1 du présent code et, pour sa partie
-agricole, au schéma prévisionnel national des formations de l'enseignement agricole prévu à l'article L. 814-2 du code rural.
+Le contrat de plan régional est établi après chaque renouvellement du conseil régional et prend effet le 1er juin de la
+première année civile suivant le début de la mandature. 
 
-II.-Le plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre l'ensemble
-des filières de formation des jeunes préparant l'accès à l'emploi et veille à assurer une représentation équilibrée des
-femmes et des hommes dans ces filières de formation professionnelle. Il inclut le cycle d'enseignement professionnel initial
-dispensé par les établissements d'enseignement artistique. 
+II.-Le contrat de plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre
+l'ensemble des filières de formation des jeunes préparant l'accès à l'emploi et veille à assurer une représentation
+équilibrée des femmes et des hommes dans ces filières de formation professionnelle. Il inclut le cycle d'enseignement
+professionnel initial dispensé par les établissements d'enseignement artistique. 
 
 Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations sociales et schéma régional des formations
 sanitaires. 
 
-III.-Le plan régional de développement des formations professionnelles, pour sa partie consacrée aux adultes, couvre
-l'ensemble des actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi. 
+III.-Le contrat de plan régional de développement des formations professionnelles, pour sa partie consacrée aux adultes,
+couvre l'ensemble des actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi. 
 
 IV.-Des conventions annuelles d'application précisent, pour l'Etat et la région, la programmation et les financements des
 actions. 
@@ -4969,10 +4974,13 @@ autorités académiques, prévoient et classent, par ordre prioritaire, en fonct
 fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en oeuvre par l'Etat et la région
 dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2 du présent code et de l'article
 L. 814-2 du code rural.A défaut d'accord, les autorités de l'Etat prennent, pour ce qui les concerne, les décisions
-nécessaires à la continuité du service public de l'éducation.
+nécessaires à la continuité du service public de l'éducation. S'agissant des demandeurs d'emploi, ces conventions,
+lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de l'institution mentionnée à l'article L.
+5312-1 du code du travail, sont également signées par cette institution. Elles précisent, en matière d'orientation et de
+formation professionnelles, les conditions de mise en œuvre de la convention prévue à l'article L. 5312-11 du même code.
 
 V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
-cas échéant, l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent conclure des contrats fixant des
+cas échéant, l'institution mentionnée à l'article L. 311-7 du code du travail peuvent conclure des contrats fixant des
 objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
 formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
 être annuels ou pluriannuels. 
@@ -4988,9 +4996,9 @@ représentatives d'employeurs et de salariés peuvent également conclure des co
 développement de l'apprentissage conformément à l'article L. 6211-3 du code du travail. Ces contrats peuvent prendre la forme
 d'une annexe aux contrats visés à l'alinéa précédent. 
 
-VI.-Dans le cadre de son plan régional de développement des formations professionnelles, chaque région arrête annuellement un
-programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de coordination régional de
-l'emploi et de la formation professionnelle. 
+VI.-Dans le cadre du contrat de plan régional de développement des formations professionnelles, chaque région arrête
+annuellement un programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de
+coordination régional de l'emploi et de la formation professionnelle. 
 
 Les départements, les communes ou groupements de communes qui ont arrêté un programme de formation sont associés, à leur
 demande, à l'élaboration du programme régional. 
@@ -5006,7 +5014,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
 
 	**Cité par**:
 
@@ -5057,19 +5065,24 @@ autres organismes de formation concernés.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1
 	  - Code rural - art. L811-1
+	  - Code rural - art. L813-1
 	  - Code rural - art. L814-2
-	  - Code du travail - art. L311-7
+	  - Code du travail - art. L5312-1
+	  - Code du travail - art. L5312-11
+	  - Code du travail - art. L6211-3
 
 
 ###### Article L214-14
 
-Les Ecoles de la deuxième chance proposent une formation à des personnes de dix-huit à vingt-cinq ans dépourvues de
+Les Ecoles de la deuxième chance proposent une formation à des personnes de seize à vingt-cinq ans dépourvues de
 qualification professionnelle ou de diplôme. Chacune d'entre elles bénéficie d'un parcours de formation personnalisé.
 
 Ces écoles délivrent une attestation de fin de formation indiquant le niveau de compétence acquis de manière à faciliter
 l'accès à l'emploi ou à une certification inscrite au répertoire national des certifications professionnelles.
+
+Le réseau des écoles de la deuxième chance tend à assurer une couverture complète et équilibrée du territoire national, en
+concertation avec les collectivités territoriales. 
 
 Un décret, pris après avis du Conseil national de la formation professionnelle tout au long de la vie, fixe les modalités
 d'application du présent article.
@@ -5099,7 +5112,7 @@ L'Etat et les régions apportent leur concours aux formations dispensées dans l
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 162 (V)
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 38
 
 
 ###### Article L214-15
@@ -5322,13 +5335,13 @@ principes d'organisation des enseignements artistiques, en vue d'améliorer l'of
 l'enseignement. Le département fixe au travers de ce schéma les conditions de sa participation au financement des
 établissements d'enseignement artistique au titre de l'enseignement initial. 
 
-La région organise et finance, dans le cadre du plan visé à l'article L. 214-13, le cycle d'enseignement professionnel
-initial.
+La région organise et finance, dans le cadre du contrat de plan visé à l'article L. 214-13, le cycle d'enseignement
+professionnel initial.
 
 L'Etat procède au classement des établissements en catégories correspondant à leurs missions et à leur rayonnement régional,
 départemental, intercommunal ou communal. Il définit les qualifications exigées du personnel enseignant de ces établissements
 et assure l'évaluation de leurs activités ainsi que de leur fonctionnement pédagogique. Il apporte une aide technique à
-l'élaboration du plan mentionné à l'article L. 214-13 et du schéma prévu au présent article. 
+l'élaboration du contrat de plan mentionné à l'article L. 214-13 et du schéma prévu au présent article. 
 
 Des décrets en Conseil d'Etat fixent les conditions d'application du présent article.
 
@@ -5336,22 +5349,16 @@ Des décrets en Conseil d'Etat fixent les conditions d'application du présent a
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 63
 	  - Loi n°83-663 du 22 juillet 1983 - art. 63 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Cite**:
 
-	  - Loi n°2004-809 du 13 août 2004 (V)
-	  - Code de l'éducation - art. L214-13 (V)
+	  - Loi n°2004-809 du 13 août 2004
+	  - Code de l'éducation - art. L214-13
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 101 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
 
 	**Cité par**:
 
@@ -5362,26 +5369,22 @@ Des décrets en Conseil d'Etat fixent les conditions d'application du présent a
 
 ###### Article L216-2-1
 
-L'Etat, au vu des plans prévus à l'article L. 214-13 et des schémas prévus à l'article L. 216-2, transfère par convention aux
-départements et aux régions les concours financiers qu'il accorde aux communes pour le fonctionnement des écoles nationales
-de musique, de danse et d'art dramatique et des conservatoires nationaux de région. Ces concours sont déterminés sur la base
-de la moyenne des dépenses de l'Etat à ce titre dans les départements et les régions sur les trois dernières années.
+L'Etat, au vu des contrats de plans prévus à l'article L. 214-13 et des schémas prévus à l'article L. 216-2, transfère par
+convention aux départements et aux régions les concours financiers qu'il accorde aux communes pour le fonctionnement des
+écoles nationales de musique, de danse et d'art dramatique et des conservatoires nationaux de région. Ces concours sont
+déterminés sur la base de la moyenne des dépenses de l'Etat à ce titre dans les départements et les régions sur les trois
+dernières années.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 101 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-13 (V)
-	  - Code de l'éducation - art. L216-2 (V)
+	  - Code de l'éducation - art. L214-13
+	  - Code de l'éducation - art. L216-2
 
 
 ###### Article L216-3
@@ -8917,12 +8920,13 @@ perspectives professionnelles liées aux besoins prévisibles de la société, d
 
 Dans ce cadre, les élèves élaborent leur projet d'orientation scolaire et professionnelle avec l'aide des parents, des
 enseignants, des personnels d'orientation et des autres professionnels compétents. Les administrations concernées, les
-collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent.
+collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent. 
 
-**Nota:**
-
-Ordonnance n° 2008-1304 du 11 décembre 2008 JORF du 12 décembre 2008 art. 2 : Les modifications induites par la présente
-ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
+Les conseillers d'orientation psychologues exerçant dans les établissements d'enseignement du second degré et les centres
+visés à l'article L. 313-4 sont recrutés dans des conditions définies par décret. Leur formation initiale leur assure une
+connaissance étendue des filières de formation, du monde économique, de l'entreprise, des dispositifs de qualification, des
+métiers et des compétences qui sont nécessaires à leur exercice. Ils sont tenus d'actualiser régulièrement leurs
+connaissances au cours de leur carrière.
 
 **Liens relatifs à cet article**
 
@@ -8933,7 +8937,12 @@ ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie français
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 5
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L313-4
+	  - Code du travail - art. L6211-1
 
 	**Cité par**:
 
@@ -8944,10 +8953,6 @@ ordonnance sont applicables dans îles Wallis et Futuna, en Polynésie français
 	  - Code de l'éducation - art. L442-20 (V)
 	  - Code de l'éducation - art. L451-1 (M)
 	  - Code de l'éducation - art. R451-1 (VD)
-
-	**Cite**:
-
-	  - Code du travail - art. L6211-1
 
 
 ###### Article L313-2
@@ -9058,26 +9063,57 @@ disposition des éducateurs, des parents, des étudiants et des élèves des ét
 nécessaire à ces derniers en vue de leur orientation scolaire et professionnelle.
 
 Il élabore et diffuse cette documentation en liaison avec les représentants des professions et des administrations
-intéressées. Avec l'accord du ministre chargé du travail, il peut participer à l'insertion professionnelle des étudiants et
-diplômés à leur sortie des établissements d'enseignement.
+intéressées. Il participe à l'insertion professionnelle des étudiants et diplômés à leur sortie des établissements
+d'enseignement.
 
 Le conseil d'administration de cet établissement public comprend notamment des représentants des familles, des parents
 d'élèves de l'enseignement public et de l'enseignement privé et des étudiants.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°54-389 1954-04-08 art. 1, art. 2, art. 3
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 4 (V)
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D313-14 (V)
+
+
+###### Article L313-7
+
+Afin d'apporter, sans délai et dans un cadre coordonné entre acteurs de la formation et de l'insertion sociale et
+professionnelle des jeunes, des solutions de formation, d'accompagnement ou d'accès à l'emploi aux jeunes sortant sans
+diplôme du système de formation initiale, chaque établissement d'enseignement du second degré, y compris les établissements
+privés ayant passé avec l'Etat l'un des contrats prévus par le présent code et ceux de l'enseignement agricole, et chaque
+centre de formation d'apprentis ou section d'apprentissage transmet, dans le respect de la législation relative à
+l'informatique et aux libertés, à des personnes et organismes désignés par le représentant de l'Etat dans le département
+ainsi qu'à la mission locale pour l'insertion professionnelle et sociale des jeunes visée à l'article L. 5314-1 du code du
+travail compétente ou, à défaut, à l'institution visée à l'article L. 5312-1 du même code les coordonnées de ses anciens
+élèves ou apprentis qui ne sont plus inscrits dans un cycle de formation et qui n'ont pas atteint un niveau de qualification
+fixé par voie réglementaire. 
+
+Dans chaque département, le dispositif défini au présent article est mis en œuvre et coordonné sous l'autorité du
+représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 36
+
+	**Cité par**:
+
+	  - Décret n°2015-59 du 26 janvier 2015 - art. 4 (V)
+	  - Décret n°2015-59 du 26 janvier 2015 - art. 5 (V)
+	  - Code de l'éducation - art. D313-59 (V)
+	  - Code de l'éducation - art. L313-8 (VD)
+	  - Code du travail - art. R6323-18 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L5312-1 (V)
+	  - Code du travail - art. L5314-1
 
 
 ##### Chapitre IV : La recherche et la documentation pédagogiques.
@@ -9985,6 +10021,10 @@ Peuvent être prises en compte, au titre de la validation, l'ensemble des compé
 l'exercice d'une activité salariée, non salariée, bénévole ou de volontariat, en rapport direct avec le contenu du diplôme ou
 du titre. La durée minimale d'activité requise ne peut être inférieure à trois ans.
 
+Peuvent également être prises en compte, au titre de la validation, l'ensemble des compétences professionnelles acquises en
+rapport direct avec le contenu du titre ou du diplôme par les conseillers municipaux, les conseillers généraux et les
+conseillers régionaux qui ont exercé leur fonction durant au moins une mandature complète.  
+
 La validation est effectuée par un jury dont la composition garantit une présence significative de représentants qualifiés
 des professions concernées.
 
@@ -9995,21 +10035,27 @@ Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'
 du candidat et, le cas échéant, d'une mise en situation professionnelle réelle ou reconstituée, lorsque cette procédure est
 prévue par l'autorité qui délivre la certification.
 
-Un décret en Conseil d'Etat détermine les conditions d'application des dispositions des troisième et quatrième alinéas,
+Un décret en Conseil d'Etat détermine les conditions d'application des dispositions des troisième et cinquième alinéas,
 notamment les règles selon lesquelles le jury est constitué. Cette composition concourt à une représentation équilibrée entre
 les femmes et les hommes. Il détermine également les conditions dans lesquelles il peut être dérogé aux dispositions du
 premier alinéa, pour des raisons tenant à la nature des diplômes ou titres en cause ou aux conditions d'exercice des
-professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au cinquième alinéa.
+professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au sixième alinéa.
 
 II. - Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements
 publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le
 préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s'appliquera aux élections organisées en mars 2015 à l'occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (M)
 	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (Ab)
 
 	**Cité par**:
@@ -10365,14 +10411,9 @@ préparer. Cette dispense doit se fonder sur les compétences professionnelles a
 	  - Code du travail applicable à Mayotte. - art. L322-52 (V)
 	  - Code du travail applicable à Mayotte. - art. L711-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2006-586 du 23 mai 2006 - art. 6 () JORF 25 mai 2006
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 20
 
 	**Liens**:
 
@@ -10381,30 +10422,46 @@ préparer. Cette dispense doit se fonder sur les compétences professionnelles a
 
 ###### Article L335-6
 
-I. - Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par
-arrêté des ministres compétents, après avis d'instances consultatives associant les organisations représentatives
-d'employeurs et de salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1,
-L. 641-4 et L. 641-5 du présent code et L. 811-2 et L. 813-2 du code rural.
+I.-Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par arrêté
+des ministres compétents, après avis d'instances consultatives associant les organisations représentatives d'employeurs et de
+salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L.
+641-5 du présent code et L. 811-2 et L. 813-2 du code rural. 
 
-II. - II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité
-professionnelle y sont classés par domaine d'activité et par niveau.
+II.-II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité
+professionnelle y sont classés par domaine d'activité et par niveau. 
 
-Les diplômes et titres à finalité professionnelle, ainsi que les certificats de qualification figurant sur une liste établie
-par la commission paritaire nationale de l'emploi d'une branche professionnelle, peuvent y être enregistrés à la demande des
-organismes les ayant créés et après avis de la Commission nationale de la certification professionnelle.
+Les diplômes et titres à finalité professionnelle peuvent y être enregistrés à la demande des organismes ou instances les
+ayant créés et après avis de la Commission nationale de la certification professionnelle. Ceux qui sont délivrés au nom de
+l'Etat et créés après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés
+y sont enregistrés de droit. Préalablement à leur élaboration, l'opportunité de leur création fait l'objet d'un avis public
+de cette commission dans un délai de trois mois. Passé ce délai, cet avis est réputé favorable. 
 
-Ceux qui sont délivrés au nom de l'Etat et créés après avis d'instances consultatives associant les organisations
-représentatives d'employeurs et de salariés sont enregistrés de droit dans ce répertoire.
+Les certificats de qualification professionnelle établis par une ou plusieurs commissions paritaires nationales de l'emploi
+peuvent également être enregistrés au répertoire national des certifications professionnelles, à la demande des organismes ou
+instances les ayant créés et après avis conforme de la Commission nationale de la certification professionnelle. 
 
 La Commission nationale de la certification professionnelle établit et actualise le répertoire national des certifications
-professionnelles. Elle veille au renouvellement et à l'adaptation des diplômes et titres à l'évolution des qualifications et
-de l'organisation du travail.
+professionnelles. Elle veille à la cohérence, à la complémentarité et au renouvellement des diplômes et des titres ainsi qu'à
+leur adaptation à l'évolution des qualifications et de l'organisation du travail. 
 
-Elle émet des recommandations à l'attention des institutions délivrant des diplômes, des titres à finalité professionnelle ou
-des certificats de qualification figurant sur une liste établie par la commission paritaire nationale de l'emploi d'une
-branche professionnelle ; en vue d'assurer l'information des particuliers et des entreprises, elle leur signale notamment les
-éventuelles correspondances totales ou partielles entre les certifications enregistrées dans le répertoire national, ainsi
-qu'entre ces dernières et d'autres certifications, notamment européennes.
+Les certifications et habilitations correspondant à des compétences transversales exercées en situation professionnelle
+peuvent être recensées dans un inventaire spécifique établi par la Commission nationale de la certification professionnelle. 
+
+Les personnes qui appartiennent aux promotions prises en compte dans le cadre de la procédure d'instruction pour
+enregistrement au répertoire national des certifications professionnelles visé au présent article ainsi que celles qui
+appartiennent à la promotion en cours et ayant obtenu la certification peuvent se prévaloir de l'inscription de cette
+certification au répertoire national des certifications professionnelles. 
+
+De même, les personnes qui ont suivi un cycle préparatoire à une certification en cours de validité au moment de leur entrée
+en formation peuvent, après obtention de la certification, se prévaloir de l'inscription de celle-ci au répertoire national
+des certifications professionnelles. 
+
+La Commission nationale de la certification professionnelle réalise l'évaluation publique qu'elle juge nécessaire de
+certificats de qualification professionnelle et émet des recommandations à l'attention des institutions délivrant des
+diplômes, des titres à finalité professionnelle ou des certificats de qualification figurant sur une liste établie par la
+commission paritaire nationale de l'emploi d'une branche professionnelle ; en vue d'assurer l'information des particuliers et
+des entreprises, elle leur signale notamment les éventuelles correspondances totales ou partielles entre les certifications
+enregistrées dans le répertoire national, ainsi qu'entre ces dernières et d'autres certifications, notamment européennes. 
 
 Un décret en Conseil d'Etat détermine les conditions d'enregistrement des diplômes et titres dans le répertoire national
 ainsi que la composition et les attributions de la commission.
@@ -10413,7 +10470,6 @@ ainsi que la composition et les attributions de la commission.
 
 	**Anciens textes**:
 
-	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (M)
 	  - Loi n°71-577 du 16 juillet 1971 - art. 8 (Ab)
 
 	**Cité par**:
@@ -10661,11 +10717,6 @@ ainsi que la composition et les attributions de la commission.
 	  - Code du travail applicable à Mayotte. - art. R322-52 (V)
 	  - Code rural et de la pêche maritime - art. D722-32 (VD)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2002-616 du 26 avril 2002
@@ -10680,16 +10731,15 @@ ainsi que la composition et les attributions de la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2005-545 du 26 mai 2005 - art. 1 () JORF 27 mai 2005
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 22 (V)
 
 	**Cite**:
 
-	  - Code rural L811-2, L813-2
-	  - Code de l'éducation - art. L331-1 (M)
-	  - Code de l'éducation - art. L335-14 (V)
-	  - Code de l'éducation - art. L613-1 (M)
-	  - Code de l'éducation - art. L641-4 (M)
-	  - Code de l'éducation - art. L641-5 (V)
+	  - Code de l'éducation - art. L331-1
+	  - Code de l'éducation - art. L335-14
+	  - Code de l'éducation - art. L613-1
+	  - Code de l'éducation - art. L641-4
+	  - Code rural - art. L811-2
 
 
 ###### Article L335-7
@@ -11149,7 +11199,7 @@ d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un t
 répertoire national des certifications professionnelles.
 
 L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est
-inscrite au plan régional de développement des formations professionnelles mentionné à l'article L. 214-13. 
+inscrite au contrat de plan régional de développement des formations professionnelles mentionné à l'article L. 214-13. 
 
 Les dépenses de transport scolaire spécifiquement liées à la formation de l'apprenti junior sous statut scolaire donnent lieu
 à une compensation au département par l'Etat, dans des conditions fixées par décret.
@@ -11162,7 +11212,11 @@ Les dépenses de transport scolaire spécifiquement liées à la formation de l'
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
+
+	**Abrogé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 56
 
 	**Cité par**:
 
@@ -11189,6 +11243,36 @@ Les dépenses de transport scolaire spécifiquement liées à la formation de l'
 	  - Code de l'éducation - art. L214-13
 	  - Code de l'éducation - art. L331-5
 	  - Code du travail - art. L3221-3
+
+
+###### Article L337-3-1
+
+Les centres de formation d'apprentis peuvent accueillir, pour une durée maximale d'un an, les élèves ayant atteint l'âge de
+quinze ans pour leur permettre de suivre, sous statut scolaire, une formation en alternance destinée à leur faire découvrir
+un environnement professionnel correspondant à un projet d'entrée en apprentissage.
+
+A tout moment, l'élève peut :
+
+― soit signer un contrat d'apprentissage, sous la réserve d'avoir atteint l'âge de seize ans ou d'avoir accompli la scolarité
+du premier cycle de l'enseignement secondaire, conformément à l'article L. 6222-1 du code du travail ;
+
+― soit reprendre sa scolarité dans un collège ou un lycée.
+
+Les stages en milieu professionnel sont organisés dans les conditions prévues au chapitre III du titre V du livre Ier de la
+quatrième partie du code du travail.
+
+Un décret détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 29
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D337-172 (V)
+	  - Code du travail - art. L6222-1 (M)
 
 
 ###### Article L337-4
@@ -18141,6 +18225,29 @@ de ceux-ci dans leur premier emploi.
 	  - Code de l'éducation - art. L683-2 (V)
 	  - Code de l'éducation - art. L684-2 (V)
 	  - Code de l'éducation - art. L781-3 (V)
+
+
+###### Article L611-6
+
+L'Etat peut passer des contrats pluriannuels avec des établissements d'enseignement supérieur afin de soutenir des
+dispositifs participant à la mission de service public de l'enseignement supérieur et présentant des caractéristiques
+innovantes en termes d'insertion professionnelle. Les résultats sont évalués par l'agence mentionnée à l'article L. 114-3-1
+du code de la recherche.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-1437 du 24 novembre 2009 - art. 40
+
+	**Cite**:
+
+	  - Code de la recherche - art. L114-3-1
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L681-1 (V)
+	  - Code de l'éducation - art. L684-1 (V)
 
 
 ##### Chapitre II : Déroulement des études supérieures.
