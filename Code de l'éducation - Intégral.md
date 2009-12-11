@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-12-10
+Version Consolidée au 2009-12-12
 
 # Partie législative
 
@@ -5120,7 +5120,7 @@ L'Etat et les régions apportent leur concours aux formations dispensées dans l
 Le fonds régional de l'apprentissage et de la formation professionnelle continue est régi par les dispositions de l'article
 L. 4332-1 du code général des collectivités territoriales ci-après reproduites : 
 
-" Art.L. 4332-1-Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure
+" Art. L. 4332-1-Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure
 prévue aux articles L. 1614-1, L. 1614-2 et L. 1614-3. Il est créé dans chaque région un fonds régional de l'apprentissage et
 de la formation professionnelle continue, qui est géré par le conseil régional. 
 
@@ -5132,20 +5132,23 @@ capacité d'accueil de l'appareil de formation existant. Au sein de ces crédits
 des stagiaires évoluent de façon à compenser intégralement les charges résultant de toute modification par l'Etat des normes
 fixées pour ces rémunérations. Un décret en Conseil d'Etat fixe les modalités d'application du présent alinéa ; 
 
-Les crédits mentionnés à l'alinéa précédent sont diminués en 2005, 2006 et à compter de 2007 d'un montant de respectivement
-197, 2 millions d'euros, 395, 84 millions d'euros et 593, 76 millions d'euros, en valeur 2005 et à indexer chaque année selon
-le taux d'évolution de la dotation globale de fonctionnement. 
+Les crédits mentionnés à l'alinéa précédent sont diminués en 2005,2006 et à compter de 2007 d'un montant de respectivement
+197,2 millions d'euros, 395,84 millions d'euros et 593,76 millions d'euros, en valeur 2005 et à indexer chaque année selon le
+taux d'évolution de la dotation globale de fonctionnement. 
 
 2° Les crédits transférés par l'Etat dont le montant est égal aux versements au Trésor public effectués l'année précédente en
-application des articles L. 920-9 et L. 951-9 du code du travail (1), et dont la répartition obéit aux mêmes critères que
-ceux mentionnés au 1° ci-dessus ; 
+application des articles L. 6354-2 et L. 6331-28 du code du travail, et dont la répartition obéit aux mêmes critères que ceux
+mentionnés au 1° ci-dessus ; 
 
 3° Le cas échéant, les autres ressources susceptibles de lui être régulièrement attribuées ; 
 
 4° Les crédits votés à cet effet par le conseil régional ; 
 
 5° Le produit de la contribution au développement de l'apprentissage prévue à l'article 1599 quinquies A du code général des
-impôts. 
+impôts ;
+
+6° Le montant des ressources fiscales attribuées aux régions mentionnées aux articles 41 et 140 de la loi n° 2013-1278 du 29
+décembre 2013 de finances pour 2014.  
 
 Chaque région, ainsi que la collectivité territoriale de Corse et la collectivité départementale de Mayotte, reçoit une part
 du produit de cette contribution. Cette part représente une fraction du taux de cette contribution appliquée à l'assiette
@@ -5160,7 +5163,8 @@ l'intérieur et des ministres chargés du travail et du budget.
 Les crédits prévus aux 1° et 2° du présent article ne sont pas inclus dans la dotation générale de décentralisation visée à
 l'article L. 1614-4. 
 
-Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1."
+Le montant total des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article L. 1614-1.
+"
 
 **Nota:**
 
@@ -5168,6 +5172,10 @@ Le montant total des crédits visés aux 1° et 2° du présent article évolue 
 6331-28, L. 6331-31 et L. 6331-33 du nouveau code du travail.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1614-1 (V)
 
 	**Liens**:
 
@@ -7095,30 +7103,37 @@ supérieur dépendant du ministre de l'agriculture. "
 La composition et les compétences des comités régionaux de l'enseignement agricole sont fixées par les dispositions de
 l'article L. 814-4 du code rural, ci-après reproduites : 
 
-" Art.L. 814-4.-Dans chaque région siège un comité régional de l'enseignement agricole composé de représentants des mêmes
-catégories que celles visées à l'article L. 814-1 du présent code et dans les mêmes proportions. Ce comité est saisi pour
-avis du projet de schéma prévisionnel régional des formations qui doit comporter une section relative à l'enseignement
-agricole. Son avis est transmis, d'une part, au conseil régional et, d'autre part, au conseil institué dans chaque académie
-en application de l'article L. 234-1 du code de l'éducation, lequel est également compétent en matière d'enseignement
-agricole public et émet un avis sur le projet régional de schéma prévisionnel des formations de l'enseignement agricole et
-sur les demandes d'ouverture des établissements privés. 
+" Art.L. 814-4.-Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire
+statue en appel et en dernier ressort sur les décisions prises par les instances disciplinaires des établissements
+d'enseignement supérieur relevant du ministre chargé de l'agriculture compétentes à l'égard des enseignants-chercheurs,
+enseignants et usagers de ces établissements. 
 
-Le comité régional de l'enseignement agricole est consulté sur le projet de plan régional de développement des formations
-professionnelles des jeunes prévu par l'article L. 214-13 du code de l'éducation et sur le projet régional de l'enseignement
-agricole. 
+Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire est également
+compétent pour examiner les demandes en relèvement des exclusions, déchéances et incapacités prononcées par les instances
+disciplinaires mentionnées au premier alinéa, dans les conditions prévues aux articles L. 231-11 à L. 231-13 du code de
+l'éducation. 
 
-Le schéma prévisionnel régional prévu à l'article L. 214-1 du code de l'éducation et le plan régional de développement des
-formations professionnelles des jeunes défini par l'article L. 214-13 du code de l'éducation prennent en compte les
-orientations et objectifs du schéma prévisionnel national des formations de l'enseignement agricole. 
+Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire statuant en
+matière disciplinaire comprend des représentants des enseignants-chercheurs, des enseignants et des représentants des
+usagers. Dans le cas où les usagers n'usent pas de leur droit de se faire représenter au sein de la formation compétente du
+Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire statuant en matière
+disciplinaire et dans le cas où, étant représentés, ils s'abstiennent d'y siéger, cette formation peut valablement délibérer
+en l'absence de leurs représentants. Le président du Conseil national de l'enseignement supérieur et de la recherche
+agricole, agroalimentaire et vétérinaire statuant en matière disciplinaire est un professeur de l'enseignement supérieur
+agricole, élu en leur sein par l'ensemble des enseignants-chercheurs membres de cette juridiction. 
 
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. "
+Lorsque le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire statuant
+en matière disciplinaire statue à l'égard d'enseignants-chercheurs ou d'enseignants, la formation compétente ne comprend que
+des enseignants-chercheurs et enseignants d'un rang égal ou supérieur à celui de la personne déférée devant elle. 
+
+La composition, les modalités et la durée de désignation des membres des formations compétentes à l'égard des enseignants-
+chercheurs, des enseignants et des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2009-1534 du 10 décembre 2009 - art. 1
 
 	**Cite**:
 
@@ -11354,10 +11369,11 @@ programmes et référentiels nationaux, qui en précisent respectivement le cont
 par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre chargé de l'éducation
 nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles. 
 
-Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du code du travail, les formations dispensées par
-l'enseignement général, technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées
-par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général,
-technologique et professionnel. " 
+Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
+6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général,
+technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées par des diplômes d'Etat ou
+des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général, technologique et
+professionnel. " 
 
 " Art.L. 813-1.-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou
 l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation. Ils
@@ -11439,16 +11455,9 @@ du même code.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 205 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 208 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 211 () JORF 24 février 2005
+	  - Ordonnance n°2009-1534 du 10 décembre 2009 - art. 1
 
 	**Cite**:
 
