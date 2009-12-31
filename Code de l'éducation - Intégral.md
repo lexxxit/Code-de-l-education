@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2009-12-16
+Version Consolidée au 2010-01-01
 
 # Partie législative
 
@@ -4140,7 +4140,7 @@ régions intéressées.
 La dotation départementale d'équipement des collèges est régie par les dispositions de l'article L. 3334-16 du code général
 des collectivités territoriales, ci-après reproduites : 
 
-" Art.L. 3334-16.-En 2008, le montant de la dotation départementale d'équipement des collèges est fixé à 328 666 225 euros. 
+" Art.L. 3334-16.- En 2008, le montant de la dotation départementale d'équipement des collèges est fixé à 328 666 225 euros. 
 
 Le montant alloué en 2008 à chaque département exerçant les compétences définies à l'article L. 213-2 du code de l'éducation
 est obtenu en appliquant un coefficient au montant total de la dotation départementale d'équipement des collèges fixé pour
@@ -4150,7 +4150,9 @@ crédits de paiement qui lui ont été versés de 1998 à 2007 et la moyenne act
 
 En 2009, le montant alloué à chaque département est égal à celui de 2008. 
 
-A compter de 2010, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année
+En 2010, le montant alloué à chaque département est égal à celui de 2009.
+
+A compter de 2011, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année
 précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au
 projet de loi de finances relatif à l'année de versement. 
 
@@ -4159,13 +4161,9 @@ trimestre de l'année en cours.
 
 La dotation est inscrite au budget de chaque département, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
-à l'extension et la construction des collèges ".
+à l'extension et la construction des collèges.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 44
 
 	**Liens**:
 
