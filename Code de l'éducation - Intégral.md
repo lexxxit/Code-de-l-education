@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-01-27
+Version Consolidée au 2010-01-29
 
 # Partie législative
 
@@ -58949,8 +58949,8 @@ Trois voies de formation sont organisées dans les lycées :
 1° La voie générale conduisant au diplôme national du baccalauréat général ;
 
 2° La voie technologique conduisant au diplôme national du baccalauréat technologique et au diplôme national du brevet de
-technicien qui porte mention d'une spécialité technique. Ces diplômes attestent que leurs titulaires sont aptes à exercer une
-activité de technicien ;
+technicien qui porte mention d'une spécialité technique. Le diplôme national du brevet de technicien atteste que ses
+titulaires sont aptes à exercer une activité de technicien ;
 
 3° La voie professionnelle conduisant à la délivrance du certificat d'aptitude professionnelle, du brevet d'études
 professionnelles et du baccalauréat professionnel. Ces diplômes portent mention d'une spécialité professionnelle. 
@@ -58978,8 +58978,25 @@ arrêté du ministre chargé de l'éducation.
 Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et
 professionnelle ainsi qu'entre les cycles de la voie professionnelle. 
 
-Des dispositifs d'aide et d'accompagnement sont mis en place pour les élèves qui en ont besoin, sur proposition de l'équipe
-pédagogique de la classe.
+Des dispositifs d'accompagnement personnalisé sont mis en place pour tous les élèves selon leurs besoins dans les classes de
+seconde, première et terminale préparant aux baccalauréats général, technologique et professionnel. Ils comprennent des
+activités de soutien, d'approfondissement, d'aide méthodologique et d'aide à l'orientation, pour favoriser la maîtrise
+progressive par l'élève de son parcours de formation et d'orientation. Ils prennent notamment la forme de travaux
+interdisciplinaires (1). 
+
+Un dispositif de tutorat est proposé à tous les élèves, pour les aider à construire leur parcours de formation et
+d'orientation (1).
+
+**Nota:**
+
+(1) Décret n° 2010-100 du 27 janvier 2010 article 22 : Les dispositions du 2° de l'article 11 entrent en vigueur :
+
+- à la rentrée scolaire 2010-2011 pour les élèves qui préparent un baccalauréat professionnel et les élèves des lycées
+d'enseignement général et technologique des classes de seconde. Il en va de même des dispositions du 3° du même article 11. 
+
+- à la rentrée scolaire 2011-2012 pour les élèves des lycées d'enseignement général et technologique des classes de première.
+
+- à la rentrée scolaire 2012-2013 pour les élèves des lycées d'enseignement général et technologique des classes terminales.
 
 **Liens relatifs à cet article**
 
@@ -59004,7 +59021,7 @@ pédagogique de la classe.
 
 	**Modifié par**:
 
-	  - Décret n°2009-148 du 10 février 2009 - art. 8
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 11
 
 
 ###### Article D333-3
@@ -61753,9 +61770,6 @@ janvier 2009.
 
 ###### Article D336-1
 
-Le baccalauréat technologique est un diplôme national qui sanctionne une formation technologique du second degré et atteste
-que ses titulaires sont aptes à exercer une activité de technicien.
-
 Le diplôme national du baccalauréat technologique est délivré au vu des résultats à un examen qui sanctionne la formation
 dispensée dans les classes de première et terminale préparant à ce diplôme.
 
@@ -61765,13 +61779,11 @@ La réussite à l'examen détermine la collation par l'Etat du grade universitai
 
 	**Anciens textes**:
 
-	  - Décret n°86-378 1986-03-07 art. 1, art. 3
-	  - Décret n°93-1093 1993-09-15 art. 1
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 12
 
 	**Cité par**:
 
@@ -74969,6 +74981,24 @@ l'article L. 422-2.
 
 ##### Section 1 :  Dispositions générales.
 
+###### Article D421-2-1
+
+Dans les lycées, les échanges linguistiques et culturels prévus à l'article L. 421-7 sont organisés en partenariat avec des
+établissements d'enseignement européens ou étrangers. Ces échanges peuvent se faire dans le cadre d'une mobilité d'élèves ou
+d'enseignants, individuelle ou collective, ou à distance, par des outils de communication adaptés. Ils sont mentionnés au
+projet d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-7
+
+
 ###### Article R421-2
 
 Les collèges, les lycées, les écoles régionales du premier degré et les établissements régionaux d'enseignement adapté
@@ -74976,8 +75006,8 @@ disposent, en matière pédagogique et éducative, d'une autonomie qui porte sur
 
 1° L'organisation de l'établissement en classes et en groupes d'élèves ainsi que les modalités de répartition des élèves ; 
 
-2° L'emploi des dotations en heures d'enseignement mises à la disposition de l'établissement dans le respect des obligations
-résultant des horaires réglementaires ; 
+2° L'emploi des dotations en heures d'enseignement et, dans les lycées, d'accompagnement personnalisé mises à la disposition
+de l'établissement dans le respect des obligations résultant des horaires réglementaires ;  
 
 3° L'organisation du temps scolaire et les modalités de la vie scolaire ; 
 
@@ -74998,21 +75028,13 @@ programmation pour la cohésion sociale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 2 (Ab)
-
 	**Cite**:
 
-	  - Loi n°2005-32 du 18 janvier 2005 - art. 128 (V)
+	  - Loi n°2005-32 du 18 janvier 2005 - art. 128
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 1
 
 	**Cité par**:
 
@@ -75222,8 +75244,8 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, le conseil de discipline et dans les lycées l'assemblée
-générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
+3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline et dans
+les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -75233,8 +75255,13 @@ l'établissement, le projet de budget ;
 
 6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ; 
 
-7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-2 et exécute les
-décisions adoptées par le conseil ; 
+7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article R. 421-2 après saisine pour
+instruction de la commission permanente en application de l'article R. 421-41 et exécute les décisions adoptées par le
+conseil. Dans l'hypothèse où la proposition relative à l'emploi des dotations en heures est rejetée par le conseil
+d'administration, la commission permanente procède à une nouvelle instruction avant qu'une nouvelle proposition soit soumise
+au vote du conseil d'administration. Le second vote du conseil doit intervenir dans un délai de dix jours suivant son premier
+vote. En cas de rejet de cette seconde proposition, le chef d'établissement en qualité de représentant de l'Etat arrête
+l'emploi des dotations en heures ; 
 
 8° Conclut tout contrat ou convention après avoir recueilli, sous réserve des dispositions de l'article R. 421-20,
 l'autorisation du conseil d'administration. 
@@ -75246,36 +75273,31 @@ dernier les documents y afférents ;
 9° Transmet les actes de l'établissement dans les conditions fixées aux articles L. 421-11 et L. 421-14, conformément aux
 dispositions des articles R. 421-54 et R. 421-55 ; 
 
-10° Organise les élections des instances énumérées au 3°, veille à leur bon déroulement et en proclame les résultats. 
+10° Organise les élections des instances énumérées au 3°, veille à leur bon déroulement et en proclame les résultats ; 
+
+11° Désigne les membres du conseil pédagogique, après consultation des équipes pédagogiques intéressées. 
 
 Lorsque l'établissement est associé, pour la mise en œuvre de ses missions de formation continue, à un groupement
 d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
 s'inscrivant dans le programme des actions de formation continue de son établissement, qui ont été signées par l'ordonnateur
-de l'établissement, dit « établissement support », auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+de l'établissement, dit établissement support, auquel a été confiée la gestion du groupement. Il soumet ces conventions à
 l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
 d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 8 al 2 à 14 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 3
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L421-11 (V)
-	  - Code de l'éducation - art. L421-14 (V)
-	  - Code de l'éducation - art. R421-2 (V)
-	  - Code de l'éducation - art. R421-20 (V)
-	  - Code de l'éducation - art. R421-54 (V)
+	  - Code de l'éducation - art. L421-11
+	  - Code de l'éducation - art. L421-14
+	  - Code de l'éducation - art. R421-2
+	  - Code de l'éducation - art. R421-20
+	  - Code de l'éducation - art. R421-41
+	  - Code de l'éducation - art. R421-54
 
 	**Cité par**:
 
@@ -75688,9 +75710,9 @@ domaines définis à l'article R. 421-2 et, en particulier, les règles d'organi
 2° Il adopte le projet d'établissement et approuve le contrat d'objectifs qui doit avoir été communiqué à la collectivité
 territoriale au moins un mois avant la réunion du conseil ; 
 
-3° Il établit chaque année un rapport sur le fonctionnement pédagogique de l'établissement et ses conditions matérielles de
-fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des expérimentations menées
-par l'établissement et du contrat d'objectifs ; 
+3° Il délibère chaque année sur le rapport relatif au fonctionnement pédagogique de l'établissement et à ses conditions
+matérielles de fonctionnement. Ce rapport rend compte notamment de la mise en œuvre du projet d'établissement, des
+expérimentations menées par l'établissement et du contrat d'objectifs ; 
 
 4° Il adopte : 
 
@@ -75751,17 +75773,9 @@ parité, à des représentants des organisations représentatives au plan dépar
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 16, alinéas 1 à 25 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 4
 
 	**Cité par**:
 
@@ -75773,8 +75787,8 @@ parité, à des représentants des organisations représentatives au plan dépar
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R421-2 (V)
-	  - Code de l'éducation - art. R421-60 (V)
+	  - Code de l'éducation - art. R421-2
+	  - Code de l'éducation - art. R421-60
 
 
 ###### Article R421-21
@@ -76470,7 +76484,7 @@ Pour chaque membre titulaire élu de la commission permanente, un suppléant est
 
 La commission permanente instruit les questions soumises à l'examen du conseil d'administration. Elle est saisie
 obligatoirement des questions qui relèvent des domaines définis à l'article R. 421-2. Elle veille à ce qu'il soit procédé à
-toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées. 
+toutes consultations utiles, et notamment à celles des équipes pédagogiques intéressées ainsi que du conseil pédagogique. 
 
 Elle peut recevoir délégation du conseil d'administration pour exercer certaines de ses compétences, dans les conditions
 prévues à l'article R. 421-22. Les décisions prises sur délégation sont transmises aux membres du conseil d'administration
@@ -76486,28 +76500,161 @@ permanente.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 28 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 5
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R421-2 (V)
-	  - Code de l'éducation - art. R421-22 (V)
-	  - Code de l'éducation - art. R421-25 (V)
-	  - Code de l'éducation - art. R421-35 (V)
+	  - Code de l'éducation - art. R421-2
+	  - Code de l'éducation - art. R421-22
+	  - Code de l'éducation - art. R421-25
+	  - Code de l'éducation - art. R421-35
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R421-9 (V)
+
+
+##### Sous-section 4 : Le conseil pédagogique
+
+##### Paragraphe 1 : Composition
+
+###### Article R421-41-1
+
+Le conseil pédagogique comprend les membres mentionnés au deuxième alinéa de l'article L. 421-5. Le nombre des professeurs
+s'ajoutant à ceux prévus par cette disposition est arrêté par le conseil d'administration. 
+
+Le chef d'établissement désigne, en début d'année scolaire, les membres du conseil pédagogique et les suppléants éventuels
+parmi les personnels volontaires, après consultation des équipes pédagogiques intéressées. Il en informe le conseil
+d'administration lors de la réunion qui suit cette désignation. Il porte la composition du conseil pédagogique à la
+connaissance de la communauté éducative par voie d'affichage. 
+
+En cas d'absence ou d'empêchement du chef d'établissement, le conseil pédagogique est présidé par son adjoint.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-5
+
+
+###### Article R421-41-2
+
+Le conseil pédagogique peut entendre toute personne dont la consultation est jugée utile en fonction des sujets traités et
+des caractéristiques de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+##### Paragraphe 2 : Compétences
+
+###### Article R421-41-3
+
+Pour l'exercice des compétences définies à l'article L. 421-5, le conseil pédagogique : 
+
+1° Est consulté sur :
+
+- la coordination des enseignements ;
+
+- l'organisation des enseignements en groupes de compétences ;
+
+- les dispositifs d'aide et de soutien aux élèves ;
+
+- la coordination relative à la notation et à l'évaluation des activités scolaires ;
+
+- les modalités générales d'accompagnement des changements d'orientation ;
+
+- les modalités des échanges linguistiques et culturels en partenariat avec les établissements d'enseignement européens et
+étrangers. 
+
+2° Formule des propositions quant aux modalités d'organisation de l'accompagnement personnalisé, que le chef d'établissement
+soumet ensuite au conseil d'administration. 
+
+3° Prépare en liaison avec les équipes pédagogiques :
+
+- la partie pédagogique du projet d'établissement, en vue de son adoption par le conseil d'administration ;
+
+- les propositions d'expérimentation pédagogique, dans les domaines définis par l'article L. 401-1 du code de l'éducation. 
+
+4° Assiste le chef d'établissement pour l'élaboration du rapport sur le fonctionnement pédagogique de l'établissement
+mentionné au 3° de l'article R. 421-20.
+
+5° Peut être saisi, pour avis, de toutes questions d'ordre pédagogique par le chef d'établissement, le conseil
+d'administration ou la commission permanente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 janvier 2010 - art. 4 (V)
+	  - Arrêté du 27 janvier 2010 - art. 7 (V)
+	  - Arrêté du 27 mai 2010 - art. 3 (V)
+	  - Arrêté du 11 mars 2015 - art. 3 (V)
+	  - Décret n°2015-1394 du 2 novembre 2015 - art. 1 (V)
+	  - Code de l'éducation - art. D332-4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L401-1
+	  - Code de l'éducation - art. L421-20
+	  - Code de l'éducation - art. L421-5
+
+
+##### Paragraphe 3 : Fonctionnement
+
+###### Article R421-41-4
+
+Le président fixe l'ordre du jour, les dates et heures des séances du conseil. Il convoque les membres du conseil pédagogique
+au moins huit jours avant la séance, ce délai pouvant être ramené à trois jours en cas d'urgence.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 janvier 2010 - art. 4 (V)
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+###### Article R421-41-5
+
+Le conseil pédagogique se réunit au moins trois fois par an et en tant que de besoin à l'initiative de son président ou à la
+demande de la majorité de ses membres. Il établit son règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+
+
+###### Article R421-41-6
+
+Le conseil pédagogique ne peut valablement siéger que si le nombre des membres présents, en début de séance, est égal à la
+majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil pédagogique est convoqué, au plus tôt
+le jour suivant celui de sa première convocation et au plus tard avant la tenue du conseil d'administration le plus proche,
+en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit le nombre des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
 
 
 ##### Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté.
@@ -76520,28 +76667,17 @@ Dans les lycées, l'ensemble des délégués des élèves est réuni en assembl�
 d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire. Le ou les
 adjoints du chef d'établissement et les conseillers principaux d'éducation assistent aux réunions.
 
-Au cours de sa première réunion, il est procédé à l'élection :
-
-1° Des représentants des délégués des élèves au conseil d'administration ;
-
-2° Des trois représentants des délégués des élèves au conseil des délégués pour la vie lycéenne.
+Au cours de sa première réunion, il est procédé à l'élection des représentants des délégués des élèves au conseil
+d'administration. 
 
 L'assemblée générale des délégués des élèves constitue un lieu d'échanges sur les questions relatives à la vie et au travail
 scolaires.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 29 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 7
 
 
 ##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.
@@ -76601,22 +76737,25 @@ toute personne dont la consultation est jugée utile.
 Le conseil des délégués pour la vie lycéenne exerce les attributions suivantes : 
 
 1° Il formule des propositions sur la formation des représentants des élèves et les conditions d'utilisation des fonds
-lycéens ;
+lycéens ; 
 
-2° Il est obligatoirement consulté :
+2° Il est obligatoirement consulté : 
 
-a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et
-sur l'élaboration du projet d'établissement et du règlement intérieur ; 
+a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire, sur
+l'élaboration du projet d'établissement et du règlement intérieur, ainsi que sur les questions de restauration et
+d'internat ; 
 
-b) Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à
-l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ; 
+b) Sur les modalités générales de l'organisation du travail personnel, de l'accompagnement personnalisé, des dispositifs
+d'accompagnement des changements d'orientation, du soutien et de l'aide aux élèves, des échanges linguistiques et culturels
+en partenariat avec les établissements d'enseignement européens et étrangers et sur l'information relative à l'orientation,
+aux études scolaires et universitaires et aux carrières professionnelles ; 
 
 c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des
-activités sportives, culturelles et périscolaires. 
+activités sportives, culturelles et périscolaires.
 
-Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont portés à la connaissance et, le cas échéant,
-inscrits à l'ordre du jour du conseil d'administration et peuvent faire l'objet d'un affichage conformément aux dispositions
-de l'article 8-1 du décret n° 85-924 du 30 août 1985 relatif aux établissements publics locaux d'enseignement.
+Le vice-président du conseil des délégués pour la vie lycéenne présente au conseil d'administration les avis et les
+propositions, ainsi que les comptes rendus de séance du conseil des délégués de la vie lycéenne, qui sont, le cas échéant,
+inscrits à l'ordre du jour et peuvent faire l'objet d'un affichage dans les conditions prévues à l'article R. 511-7.
 
 Le conseil des délégués pour la vie lycéenne se réunit, sur convocation du chef d'établissement, avant chaque séance
 ordinaire du conseil d'administration. Il est, en outre, réuni en séance extraordinaire, à la demande de la moitié de ses
@@ -76629,25 +76768,17 @@ au maximum. Le conseil délibère alors valablement quel que soit le nombre des 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 30-1 (Ab)
-
-	**Cite**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 8-1 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 9
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D421-162 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R511-7
 
 
 ###### Article R421-45
@@ -76655,27 +76786,18 @@ au maximum. Le conseil délibère alors valablement quel que soit le nombre des 
 Les élections de l'ensemble des représentants lycéens au conseil des délégués pour la vie lycéenne ont lieu au plus tard
 avant la fin de la septième semaine de l'année scolaire.
 
-Pour les sièges à pourvoir au suffrage direct, le chef d'établissement recueille les candidatures qui lui parviennent dix
-jours au moins avant la date du scrutin. Chaque candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont
-la scolarité se déroule en dehors de l'établissement peuvent voter par correspondance selon des modalités fixées par le
-règlement intérieur de l'établissement.
+Le chef d'établissement recueille les candidatures qui lui parviennent dix jours au moins avant la date du scrutin. Chaque
+candidature comporte le nom d'un titulaire et d'un suppléant. Les élèves dont la scolarité se déroule en dehors de
+l'établissement peuvent voter par correspondance selon des modalités fixées par le règlement intérieur de l'établissement. 
 
 Les contestations sur la validité des opérations électorales sont portées dans un délai de cinq jours ouvrables à compter de
 la proclamation des résultats devant le chef d'établissement, qui statue dans un délai de huit jours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 30-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-99 du 27 janvier 2010 - art. 10
 
 
 ##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.
@@ -76737,7 +76859,17 @@ conseil d'administration.
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
+##### Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté
+
+##### Paragraphe 1 : L'assemblée générale des délégués des élèves.
+
+##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.
+
+##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.
+
 ##### Sous-section 5 : Autres conseils compétents en matière de scolarité.
+
+##### Sous-section 6 : Autres conseils compétents en matière de scolarité
 
 ###### Article R421-48
 
@@ -76945,6 +77077,8 @@ et les parents d'un même groupe, d'une même classe ou d'un même niveau, en pa
 
 
 ##### Sous-section 6 : Relations avec les autorités de tutelle.
+
+##### Sous-section 7 : Relations avec les autorités de tutelle
 
 ###### Article R421-54
 
