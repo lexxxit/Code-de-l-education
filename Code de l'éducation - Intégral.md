@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-01-29
+Version Consolidée au 2010-02-10
 
 # Partie législative
 
@@ -508,23 +508,18 @@ la compréhension des situations concrètes qui y portent atteinte. Ils dispense
 ses méthodes aux évolutions économiques, sociales et culturelles du pays et de son environnement européen et international.
 Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. Les enseignements
 artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de tous les élèves. Dans
-l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants.
+l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants. Les écoles, les collèges et les
+lycées assurent une mission d'information sur les violences et une éducation à la sexualité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 du 10 juillet 1989 - art. 1, v. init.
 	  - Loi n°89-486 du 10 juillet 1989 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 12 1° JORF 7 mars 2007
+	  - Loi n°2010-121 du 8 février 2010 - art. 3
 
 	**Cité par**:
 
@@ -17663,24 +17658,15 @@ d'assurance obligatoire institué par l'article L. 751-1 du code rural.
 Les médecins, l'ensemble des personnels médicaux et paramédicaux, les travailleurs sociaux, les magistrats, les personnels
 enseignants, les personnels d'animation sportive, culturelle et de loisirs et les personnels de la police nationale, des
 polices municipales et de la gendarmerie nationale reçoivent une formation initiale et continue, en partie commune aux
-différentes professions et institutions, dans le domaine de la protection de l'enfance en danger. Cette formation est
+différentes professions et institutions, dans le domaine de la protection de l'enfance en danger. Cette formation comporte un
+module pluridisciplinaire relatif aux infractions sexuelles à l'encontre des mineurs et leurs effets. Cette formation est
 dispensée dans des conditions fixées par voie réglementaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°89-487 1989-07-10 art. 4
-	  - Loi n°89-487 du 10 juillet 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 25 () JORF 6 mars 2007
+	  - Loi n°2010-121 du 8 février 2010 - art. 3
 
 	**Cité par**:
 
@@ -17694,6 +17680,10 @@ dispensée dans des conditions fixées par voie réglementaire.
 	  - Code de l'éducation - art. L562-1 (Ab)
 	  - Code de l'éducation - art. L563-1 (V)
 	  - Code de l'éducation - art. L564-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°89-487 du 10 juillet 1989 - art. 4 (Ab)
 
 
 ###### Article L542-2
@@ -17738,18 +17728,17 @@ cas d'enfants maltraités.
 
 ###### Article L542-3
 
-Au moins une séance annuelle d'information et de sensibilisation sur l'enfance maltraitée est inscrite dans l'emploi du temps
-des élèves des écoles, des collèges et des lycées.
+Au moins une séance annuelle d'information et de sensibilisation sur l'enfance maltraitée, notamment sur les violences
+intrafamiliales à caractère sexuel, est inscrite dans l'emploi du temps des élèves des écoles, des collèges et des lycées. 
 
 Ces séances, organisées à l'initiative des chefs d'établissement, associent les familles et l'ensemble des personnels, ainsi
 que les services publics de l'Etat, les collectivités locales et les associations intéressées à la protection de l'enfance.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2010-121 du 8 février 2010 - art. 3
 
 	**Cité par**:
 
@@ -17763,10 +17752,6 @@ que les services publics de l'Etat, les collectivités locales et les associatio
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2325-7 (V)
-
-	**Anciens textes**:
-
-	  - Code de la santé publique - art. L198-2 (Ab)
 
 
 ###### Article L542-4
@@ -76657,7 +76642,7 @@ en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit
 	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
 
 
-##### Sous-section 4 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté.
+##### Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté
 
 ##### Paragraphe 1 : L'assemblée générale des délégués des élèves.
 
@@ -76858,16 +76843,6 @@ conseil d'administration.
 
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
-
-##### Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation  à la santé et à la citoyenneté
-
-##### Paragraphe 1 : L'assemblée générale des délégués des élèves.
-
-##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.
-
-##### Paragraphe 3 : Le comité d'éducation à la santé et à la citoyenneté.
-
-##### Sous-section 5 : Autres conseils compétents en matière de scolarité.
 
 ##### Sous-section 6 : Autres conseils compétents en matière de scolarité
 
@@ -77075,8 +77050,6 @@ et les parents d'un même groupe, d'une même classe ou d'un même niveau, en pa
 
 	  - Code de l'éducation - art. R412-3 (VD)
 
-
-##### Sous-section 6 : Relations avec les autorités de tutelle.
 
 ##### Sous-section 7 : Relations avec les autorités de tutelle
 
