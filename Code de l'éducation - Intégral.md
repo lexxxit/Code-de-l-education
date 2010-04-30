@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-04-12
+Version Consolidée au 2010-05-01
 
 # Partie législative
 
@@ -34097,11 +34097,12 @@ pénal. Il informe de cette saisine les personnes responsables de l'enfant.
 ###### Article R131-8
 
 Pour l'application aux élèves relevant de l'enseignement agricole du premier alinéa de l'article R. 131-7, la saisine de
-l'inspecteur d'académie est effectuée par l'intermédiaire, pour la métropole, du directeur régional de l'agriculture et de la
-forêt et, pour les départements d'outre-mer, du directeur de l'agriculture et de la forêt. Pour l'application des
-dispositions du deuxième alinéa de l'article R. 131-7 aux mêmes élèves, les personnes responsables sont convoquées par le
-directeur régional de l'agriculture et de la forêt pour la métropole et par le directeur de l'agriculture et de la forêt pour
-les départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature pédagogique ou éducative pour l'élève.
+l'inspecteur d'académie est effectuée par l'intermédiaire, pour la métropole, du         directeur régional de
+l'alimentation, de l'agriculture et de la forêt  et, pour les départements d'outre-mer, du directeur de l'agriculture et de
+la forêt. Pour l'application des dispositions du deuxième alinéa de l'article R. 131-7 aux mêmes élèves, les personnes
+responsables sont convoquées par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  pour la
+métropole et par le directeur de l'agriculture et de la forêt pour les départements d'outre-mer. Ceux-ci peuvent proposer des
+mesures de nature pédagogique ou éducative pour l'élève.
 
 **Liens relatifs à cet article**
 
@@ -34109,17 +34110,13 @@ les départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature p�
 
 	  - Décret n°66-104 du 18 février 1966 - art. 5-3 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2006-1104 du 1 septembre 2006 - art. 2 () JORF 2 septembre 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R131-7 (M)
+	  - Code de l'éducation - art. R131-7
 
 
 ###### Article R131-9
@@ -37211,19 +37208,20 @@ gestionnaires des centres de formation d'apprentis.
 
 Les contrats d'objectifs tiennent compte des orientations définies dans le cadre de la négociation de branche telle que
 prévue aux articles L. 6323-6 à L. 6323-8 du code du travail et des conventions et accords nationaux conclus entre l'Etat et
-les organisations professionnelles.
+les organisations professionnelles. 
 
 En l'absence de négociation de branche, la commission paritaire nationale de l'emploi est informée sur le contenu et la mise
-en oeuvre des contrats d'objectifs.
+en oeuvre des contrats d'objectifs. 
 
 Les commissions paritaires interprofessionnelles régionales de l'emploi peuvent être consultées et formuler des propositions
 en ce qui concerne la détermination de contrats d'objectifs intéressant des formations à caractère transversal et
-interprofessionnel.
+interprofessionnel. 
 
 Le comité de coordination régional de l'emploi et de la formation professionnelle, ainsi que le conseil académique de
 l'éducation nationale pour les questions relevant de la compétence du recteur, ou le comité régional de l'enseignement
-agricole pour les questions relevant de la compétence du directeur régional de l'agriculture et de la forêt, sont consultés
-lors de l'élaboration des contrats d'objectifs et tenus régulièrement informés de leur mise en oeuvre ainsi que du bilan.
+agricole pour les questions relevant de la compétence du directeur régional de l'alimentation, de l'agriculture et de la
+forêt, sont consultés lors de l'élaboration des contrats d'objectifs et tenus régulièrement informés de leur mise en oeuvre
+ainsi que du bilan.
 
 **Liens relatifs à cet article**
 
@@ -37233,7 +37231,11 @@ lors de l'élaboration des contrats d'objectifs et tenus régulièrement inform�
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L6323-6 (V)
 
 
 ###### Article D214-8
@@ -41933,12 +41935,12 @@ Dans les conseils de l'éducation nationale institués dans les académies, les 
 après : 
 
 1° En cas d'empêchement du préfet de région, le conseil est présidé par le recteur de l'académie ou, lorsque les questions
-examinées concernent l'enseignement agricole, par le directeur régional de l'agriculture et de la forêt. 
+examinées concernent l'enseignement agricole, par le directeur régional de l'alimentation, de l'agriculture et de la forêt. 
 
 2° En cas d'empêchement du président du conseil régional, le conseil est présidé par le conseiller régional délégué à cet
 effet par le président du conseil régional. 
 
-Les suppléants des présidents, ainsi que le    directeur interrégional de la mer, ont la qualité de vice-président. 
+Les suppléants des présidents, ainsi que le directeur interrégional de la mer, ont la qualité de vice-président. 
 
 Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne participent pas aux votes.
 
@@ -41946,7 +41948,7 @@ Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne
 
 Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
 effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
-(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -41956,7 +41958,7 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 
 	**Modifié par**:
 
-	  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cité par**:
 
@@ -42017,14 +42019,14 @@ dont un représentant des exploitants agricoles.
 
 ###### Article R234-3
 
-Les membres de ces conseils sont désignés dans les conditions suivantes :
+Les membres de ces conseils sont désignés dans les conditions suivantes : 
 
-1° Les conseillers régionaux sont désignés par le conseil régional.
+1° Les conseillers régionaux sont désignés par le conseil régional. 
 
 Les conseillers généraux sont désignés par le conseil général. La répartition des huit sièges attribués aux conseillers
 généraux est effectuée selon la procédure suivante : chaque département désigne un nombre de représentants égal au rapport,
 arrondi à l'unité inférieure, entre huit et le nombre de départements de l'académie. Le ou les sièges restant éventuellement
-à pourvoir sont attribués aux départements dans l'ordre décroissant de leur population.
+à pourvoir sont attribués aux départements dans l'ordre décroissant de leur population. 
 
 Les maires ou conseillers municipaux sont désignés par accord entre les associations départementales des maires ou, à défaut,
 élus par le collège des maires de l'ensemble des départements situés dans le ressort de l'académie à la représentation
@@ -42032,41 +42034,44 @@ proportionnelle à la plus forte moyenne sans adjonction ni suppression de noms 
 présentation. Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation. Le vote peut avoir
 lieu par correspondance. Le collège des maires est convoqué par le préfet. Lorsqu'il existe une ou plusieurs communautés
 urbaines dans l'académie, l'un des sièges réservés aux maires est occupé par un conseiller communautaire élu par le conseil
-de la communauté ou par les conseils des communautés réunis à cet effet.
+de la communauté ou par les conseils des communautés réunis à cet effet. 
 
 2° Les représentants des personnels sont nommés par le préfet de région. A cet effet, le recteur d'académie et le directeur
-régional de l'agriculture et de la forêt reçoivent les propositions des organisations syndicales représentatives dans
-l'académie pour les personnels relevant du ministère de l'éducation nationale et dans la région pour les personnels relevant
-du ministère de l'agriculture :
+régional de l'alimentation, de l'agriculture et de la forêt reçoivent les propositions des organisations syndicales
+représentatives dans l'académie pour les personnels relevant du ministère de l'éducation nationale et dans la région pour les
+personnels relevant du ministère de l'agriculture : 
 
 ils transmettent ces propositions au préfet de région. Les représentants des présidents d'université et directeurs
-d'établissements publics d'enseignement supérieur sont nommés par le préfet de région sur proposition du recteur.
+d'établissements publics d'enseignement supérieur sont nommés par le préfet de région sur proposition du recteur. 
 
 3° Les représentants des parents d'élèves sont nommés par le préfet de région : sept au titre des établissements scolaires
 relevant du ministère de l'éducation nationale et un au titre des établissements scolaires relevant du ministère de
-l'agriculture. Le recteur d'académie et le directeur régional de l'agriculture et de la forêt reçoivent à cet effet les
-propositions des associations représentatives des parents d'élèves pour ce qui concerne respectivement les établissements
-relevant du ministère de l'éducation nationale et les établissements d'enseignement et de formation agricole. Ils
-transmettent ces propositions au préfet de région. La représentativité des associations de parents d'élèves est appréciée en
-fonction des voix obtenues aux élections aux instances représentatives des établissements scolaires dans l'académie.
+l'agriculture. Le recteur d'académie et le directeur régional de l'alimentation, de l'agriculture et de la forêt reçoivent à
+cet effet les propositions des associations représentatives des parents d'élèves pour ce qui concerne respectivement les
+établissements relevant du ministère de l'éducation nationale et les établissements d'enseignement et de formation agricole.
+Ils transmettent ces propositions au préfet de région. La représentativité des associations de parents d'élèves est appréciée
+en fonction des voix obtenues aux élections aux instances représentatives des établissements scolaires dans l'académie. 
 
 Les représentants des étudiants sont nommés par le préfet de région. A cet effet, le recteur, chancelier des universités,
 reçoit les propositions des organisations représentatives des étudiants, qu'il transmet au préfet. La représentativité des
-organisations d'étudiants est appréciée dans les conditions prévues à l'article L. 811-3.
+organisations d'étudiants est appréciée dans les conditions prévues à l'article L. 811-3. 
 
 Les représentants des organisations syndicales de salariés et d'employeurs sont nommés par le préfet de région sur
 proposition des organisations syndicales représentatives dans la région.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 9 bis
 	  - Décret n°85-895 du 21 août 1985 - art. 9 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
@@ -42474,18 +42479,18 @@ académies de Paris, de Créteil et de Versailles, sous réserve des disposition
 
 Le conseil interacadémique d'Ile-de-France est présidé, selon que les questions soumises aux délibérations du conseil sont de
 la compétence de l'Etat ou de la région d'Ile-de-France, par le préfet de la région d'Ile-de-France ou le président du
-conseil régional.
+conseil régional. 
 
 En cas d'empêchement du préfet de région, le conseil est présidé par le recteur de l'académie de Paris, ou lorsque les
 questions soumises à délibération concernent exclusivement soit l'académie de Versailles, soit l'académie de Créteil, par le
 recteur de l'académie concernée. Lorsque les questions examinées concernent exclusivement l'enseignement agricole, le conseil
-est présidé, en cas d'empêchement du préfet de région, par le directeur régional de l'agriculture et de la forêt d'Ile-de-
-France.
+est présidé, en cas d'empêchement du préfet de région, par le         directeur régional de l'alimentation, de l'agriculture
+et de la forêt  d'Ile-de-France. 
 
 En cas d'empêchement du président du conseil régional, le conseil est présidé par le conseiller régional délégué à cet effet
-par celui-ci.
+par celui-ci. 
 
-Les suppléants des présidents ont la qualité de vice-président.
+Les suppléants des présidents ont la qualité de vice-président. 
 
 Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne participent pas aux votes.
 
@@ -42493,12 +42498,11 @@ Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne
 
 	**Anciens textes**:
 
-	  - Décret n°91-108 1991-01-25 art. 2
 	  - Décret n°91-108 du 25 janvier 1991 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article R234-18
@@ -42552,59 +42556,58 @@ d'employeurs, dont un représentant des exploitants agricoles.
 
 ###### Article R234-19
 
-Les membres du conseil interacadémique d'Ile-de-France sont désignés dans les conditions suivantes :
+Les membres du conseil interacadémique d'Ile-de-France sont désignés dans les conditions suivantes : 
 
-a) Les conseillers régionaux sont désignés par le conseil régional ;
+a) Les conseillers régionaux sont désignés par le conseil régional ; 
 
 b) Les conseillers généraux des départements autres que celui de Paris sont désignés par leur conseil général. Les
-conseillers de Paris sont désignés par le conseil de Paris ;
+conseillers de Paris sont désignés par le conseil de Paris ; 
 
 c) Les maires ou conseillers municipaux sont désignés par accord entre les associations départementales des maires ou, à
 défaut, élus par le collège des maires de l'ensemble des départements situés dans le ressort des trois académies dans les
-conditions fixées au troisième alinéa du 1° de l'article R. 234-3 ;
+conditions fixées au troisième alinéa du 1° de l'article R. 234-3 ; 
 
 d) Les représentants des personnels sont nommés par le préfet de la région d'Ile-de-France. A cet effet, le recteur de
 l'académie de Paris reçoit les propositions des organisations syndicales représentatives dans les académies de Paris, de
-Créteil et de Versailles. Il transmet ces propositions au préfet de la région. Le directeur régional de l'agriculture et de
-la forêt reçoit dans les mêmes conditions les propositions des organisations syndicales représentatives des personnels
-relevant du ministère de l'agriculture dans la région d'Ile-de-France et les transmet au préfet. Les représentants des
-présidents d'université et directeurs d'établissement public d'enseignement supérieur sont nommés par le préfet de la région
-sur proposition du recteur de l'académie de Paris ;
+Créteil et de Versailles. Il transmet ces propositions au préfet de la région. Le directeur régional de l'alimentation, de
+l'agriculture et de la forêt reçoit dans les mêmes conditions les propositions des organisations syndicales représentatives
+des personnels relevant du ministère de l'agriculture dans la région d'Ile-de-France et les transmet au préfet. Les
+représentants des présidents d'université et directeurs d'établissement public d'enseignement supérieur sont nommés par le
+préfet de la région sur proposition du recteur de l'académie de Paris ; 
 
 e) Les représentants des parents d'élèves sont nommés par le préfet de la région d'Ile-de-France : sept au titre des
 établissements scolaires relevant du ministère de l'éducation nationale et un au titre des établissements scolaires relevant
-du ministère de l'agriculture. A cet effet, le recteur de l'académie de Paris et le directeur régional de l'agriculture et de
-la forêt reçoivent les propositions des associations de parents d'élèves représentatives dans chacune des trois académies et
-dans la région d'Ile-de-France et les transmettent au préfet de région. La représentativité des associations de parents
-d'élèves est appréciée en fonction des voix obtenues aux élections aux instances représentatives des établissements
-d'enseignement agricole de la région d'd'Ile-de-France ;
+du ministère de l'agriculture. A cet effet, le recteur de l'académie de Paris et le directeur régional de l'alimentation, de
+l'agriculture et de la forêt reçoivent les propositions des associations de parents d'élèves représentatives dans chacune des
+trois académies et dans la région d'Ile-de-France et les transmettent au préfet de région. La représentativité des
+associations de parents d'élèves est appréciée en fonction des voix obtenues aux élections aux instances représentatives des
+établissements d'enseignement agricole de la région d'd'Ile-de-France ; 
 
 f) Les représentants des étudiants sont nommés par le préfet de la région d'Ile-de-France. A cet effet, le recteur,
 chancelier des universités de Paris, reçoit les propositions des organisations représentatives des étudiants dans les trois
-académies. La représentativité de ces organisations est appréciée dans les conditions prévues à l'article L. 811-3 ;
+académies. La représentativité de ces organisations est appréciée dans les conditions prévues à l'article L. 811-3 ; 
 
 g) Les représentants des organisations syndicales de salariés et d'employeurs sont nommés par le préfet de la région d'Ile-
 de-France sur proposition des organisations représentatives des salariés et des employeurs dans la région.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°91-108 1991-01-25 art. 4
 	  - Décret n°91-108 du 25 janvier 1991 - art. 4 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 17 juillet 2004 rectificatif JORF 24 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L811-3 (V)
-	  - Code de l'éducation - art. R234-3 (V)
+	  - Code de l'éducation - art. R234-3 (VT)
 
 
 ###### Article R234-20
@@ -44813,11 +44816,12 @@ bb) Un préfet, désigné par le ministre de l'intérieur ;
 bc) Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale, désigné par le ministre chargé
 de l'éducation ; 
 
-bd) Un directeur régional de l'agriculture et de la forêt, désigné par le ministre chargé de l'agriculture ; 
+bd) Un         directeur régional de l'alimentation, de l'agriculture et de la forêt , désigné par le ministre chargé de
+l'agriculture ; 
 
 be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ; 
 
-bf) Un    directeur interrégional de la mer, désigné par le ministre chargé de la mer. 
+bf) Un directeur interrégional de la mer, désigné par le ministre chargé de la mer. 
 
 2. Dix-huit représentants des collectivités territoriales : 
 
@@ -44832,13 +44836,13 @@ désignés par l'Association des maires de France.
 
 Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
 effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
-(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cité par**:
 
@@ -46301,122 +46305,168 @@ les enseignants en fonctions dans les classes postbaccalauréat.
 ###### Article R241-22
 
 Le service académique de l'inspection de l'apprentissage, placé sous l'autorité du recteur chancelier des universités, exerce
-ses missions conformément aux dispositions des articles R. 119-48 à R. 119-61 du code du travail ci-après reproduites :
+ses missions conformément aux dispositions des articles R. 6251-1 à R. 6251-19 du code du travail ci-après reproduites : 
 
-" Art. R. 119-48. - Il est institué dans chaque académie un service de l'inspection de l'apprentissage placé sous l'autorité
-du recteur, chancelier de l'université. Les conditions d'organisation de ce service sont fixées par le ministre chargé de
-l'éducation nationale.
+" Art. R. 6251-1.-Le service de l'inspection de l'apprentissage, institué dans chaque académie, est placé sous l'autorité du
+recteur. 
 
-" Pour l'apprentissage agricole, l'inspection est assurée par une mission régionale placée sous l'autorité du directeur
-régional de l'agriculture et de la forêt. L'organisation de cette mission et ses relations avec l'administration centrale
-sont déterminées par le ministre chargé de l'agriculture.
+Les conditions d'organisation de ce service sont fixées par le ministre chargé de l'éducation nationale. " 
 
-" Les fonctionnaires commissionnés relevant de ministères autres que ceux de l'éducation nationale et de l'agriculture,
-appelés à assurer des missions d'inspection en raison de leurs compétences techniques, exercent ces missions conjointement
-avec le service académique de l'inspection de l'apprentissage ou la direction régionale de l'agriculture et de la forêt.
+" Art. R. 6251-2.-L'inspection de l'apprentissage est assurée par des fonctionnaires des corps d'inspection à compétence
+pédagogique ou, dans le cas de l'enseignement supérieur, par des enseignants-chercheurs. Ces fonctionnaires sont
+commissionnés par les ministres chargés de l'éducation nationale et de l'enseignement supérieur. Le commissionnement de ces
+fonctionnaires est délégué au recteur. 
 
-" Le commissionnement des fonctionnaires relevant du ministère de l'éducation nationale est délégué au recteur, chancelier de
-l'université. Celui des fonctionnaires relevant du ministère chargé de l'agriculture est décidé par le ministre chargé de
-l'agriculture.
+Pour l'apprentissage agricole, elle est assurée par l'inspection de l'enseignement agricole et une mission régionale dont les
+inspecteurs de l'enseignement agricole ou, à défaut, les fonctionnaires chargés d'inspection sont commissionnés par le
+ministre chargé de l'agriculture. Cette mission est placée sous l'autorité du directeur régional de l'alimentation, de
+l'agriculture et de la forêt. 
 
-" Ces services apportent leur concours aux comités de coordination régionaux et départementaux de l'emploi et de la formation
-professionnelle ainsi qu'aux conseils régionaux, pour l'exercice de leurs attributions en matière d'apprentissage.
+L'organisation de la mission et ses relations avec l'administration centrale sont déterminées par le ministre chargé de
+l'agriculture. 
 
-" Art. R. 119-49. - Le service de l'inspection de l'apprentissage a pour mission :
+Pour le secteur de la jeunesse, des sports et de la vie associative, l'inspection de l'apprentissage est assurée par une
+mission régionale dont les inspecteurs de la jeunesse et des sports sont commissionnés à cet effet par le ministre chargé de
+la jeunesse et des sports, placée sous l'autorité du directeur régional de la jeunesse, des sports et de la cohésion sociale.
+L'organisation de la mission est déterminée par le ministre chargé de la jeunesse, des sports et de la vie associative. " 
 
-" L'inspection pédagogique des centres de formation d'apprentis et des sections d'apprentissage ;
+" Art. R. 6251-3.-L'inspection de l'apprentissage peut être exercée conjointement, en tant que de besoin, par d'autres
+fonctionnaires que ceux mentionnés à l'article R. 6251-2, commissionnés en raison de leurs compétences techniques et qui
+relèvent de ministères exerçant une tutelle sur les établissements concernés. " 
 
-" L'inspection administrative et financière desdits centres et desdites sections d'apprentissage ;
+Ces fonctionnaires exercent ces missions conjointement avec le service académique de l'inspection de l'apprentissage, la
+direction régionale de l'alimentation, de l'agriculture et de la forêt ou la direction régionale de la jeunesse, des sports
+et de la cohésion sociale. " 
 
-" Le contrôle de la formation donnée aux apprentis dans les entreprises ;
+" Art. R. 6251-4.-Le commissionnement peut être retiré par le ministre chargé de l'éducation nationale, le ministre chargé de
+l'agriculture ou le ministre chargé de la jeunesse, des sports et de la vie associative, après avis d'un conseil présidé,
+selon le cas, par le recteur ou le directeur régional compétent. 
 
-" Le contrôle de la délivrance du titre de maître d'apprentissage confirmé régi par les articles R. 117-21 à R. 117-26.
+Ce conseil est composé : 
 
-" Il peut en outre apporter, en accord avec les organismes gestionnaires, ses conseils aux centres de formation d'apprentis
-et aux sections d'apprentissage et son concours à la formation des personnels des centres et des sections d'apprentissage
-ainsi qu'à l'information et à la formation des maîtres d'apprentissage et des personnes qui contribuent à la formation des
-apprentis dans le cadre des dispositions des articles R. 116-14-1 et R. 117-5-1.
+1° De deux représentants de l'administration désignés par le préfet de région ; 
 
-" Art. R. 119-50. - Le service de l'inspection de l'apprentissage exerce ses missions en liaison avec les agents chargés du
-contrôle de l'application de la législation du travail et des lois sociales, ainsi qu'avec les agents compétents pour
-effectuer des inspections administratives et financières relevant des ministres ou des conseils régionaux au nom desquels ont
-été signées les conventions de création des centres de formation d'apprentis ou des sections d'apprentissage. Dans la mesure
-du possible, des inspections conjointes sont réalisées dans une même entreprise ou une même localité.
+2° De deux membres non fonctionnaires de la commission d'apprentissage du comité de coordination régional de l'emploi et de
+la formation professionnelle, désignés par cette dernière ; 
 
-" Art. R. 119-51. - Les rapports sont transmis à la commission départementale de l'emploi et de l'insertion, chaque fois
-qu'ils établissent un manquement aux dispositions du présent code relatives à l'apprentissage ; ils sont transmis au comité
-de coordination régional de l'emploi et de la formation professionnelle ainsi qu'au conseil régional lorsque le manquement
-met en cause la gestion ou le fonctionnement d'un centre de formation d'apprentis ou d'une section d'apprentissage.
+3° De deux représentants élus des inspecteurs commissionnés. " 
 
-" Lorsque les faits sont susceptibles de constituer une infraction pénale dont la constatation relève de l'inspecteur du
-travail ou de l'un des autres fonctionnaires chargés du contrôle de la législation du travail ou des lois sociales, le
-rapport est en outre communiqué sans délai à ce fonctionnaire.
+" Art. R. 6251-5.-Le service d'inspection de l'apprentissage apporte son concours aux comités de coordination régionaux et
+départementaux de l'emploi et de la formation professionnelle ainsi qu'aux conseils régionaux, pour l'exercice de leurs
+attributions en matière d'apprentissage. " 
 
-" Art. R. 119-52. - Les inspecteurs commissionnés ont accès à tous les locaux dépendant des centres de formation d'apprentis
-ou des sections d'apprentissage, ou utilisés par ces centres ou ces sections d'apprentissage. Ils peuvent exiger la
-communication de tous documents d'ordre administratif, comptable ou pédagogique, y compris, éventuellement, ceux concernant
-l'enseignement à distance. Ils sont notamment habilités à contrôler le montant et l'utilisation des fonds collectés par
-l'organisme gestionnaire au titre de la taxe d'apprentissage dans le cadre de l'article 4 du décret n° 72-283 du 12 avril
-1972 modifié.
+" Art. R. 6251-6.-Avant leur entrée en fonctions, les inspecteurs de l'apprentissage commissionnés prêtent le serment, devant
+le président du tribunal de grande instance, de ne pas divulguer à des personnes non qualifiées les faits ou les
+renseignements dont ils auraient connaissance à l'occasion de leurs missions d'inspection, et de ne pas révéler les secrets
+et procédés de fabrication dont ils pourraient prendre connaissance. " 
 
-" Art. R. 119-53. - Les inspecteurs commissionnés ont le droit d'entrer dans toutes les entreprises employant des apprentis
-ou participant à leur formation en application de l'article L. 115-1 et dans toutes celles qui ont déposé une demande
-d'habilitation au sens de l'article R. 116-14-1. L'employeur est tenu d'indiquer, sur leur demande, les tâches ou postes de
-travail qui sont ou seront confiés aux apprentis, de leur communiquer les documents en sa possession relatifs aux apprentis,
-de leur permettre de s'entretenir avec les apprentis et les personnes de l'entreprise responsables de leur formation.
-Lorsqu'il assure le logement des apprentis, l'employeur est tenu d'indiquer les conditions dans lesquelles est assuré ce
-logement.
+" Art. R. 6251-7.-L'inspection de l'apprentissage a pour mission : 
 
-" Art. R. 119-54. - Après chaque inspection d'un centre de formation d'apprentis ou d'une section d'apprentissage,
+1° L'inspection pédagogique des centres de formation d'apprentis et des sections d'apprentissage ; 
+
+2° L'inspection administrative et financière de ces centres et sections d'apprentissage ; 
+
+3° Le contrôle de la formation dispensée aux apprentis dans les entreprises ; 
+
+4° Le contrôle de la délivrance du titre de maître d'apprentissage confirmé régi par les articles R. 6223-25 à R. 6223-31. " 
+
+" Art. R. 6251-8.-L'inspection de l'apprentissage peut apporter, en accord avec les organismes gestionnaires : 
+
+1° Ses conseils aux centres de formation d'apprentis et aux sections d'apprentissage ; 
+
+2° Son concours à la formation des personnels des centres et des sections d'apprentissage ainsi qu'à l'information et à la
+formation des maîtres d'apprentissage et des personnes qui contribuent à la formation des apprentis dans le cadre des
+dispositions des articles R. 6223-10 à R. 6223-16 et R. 6233-62 à D. 6233-65. " 
+
+" Art. R. 6251-9.-L'inspection de l'apprentissage exerce ses missions en liaison avec les l'inspection du travail, ainsi
+qu'avec les agents compétents pour réaliser des inspections administratives et financières relevant des ministres ou des
+conseils régionaux au nom desquels ont été conclues les conventions de création des centres de formation d'apprentis ou des
+sections d'apprentissage. 
+
+Dans la mesure du possible, des inspections conjointes sont réalisées dans une même entreprise ou une même localité. " 
+
+" Art. R. 6251-10.-Les rapports sont transmis à la commission départementale de l'emploi et de l'insertion chaque fois qu'ils
+établissent un manquement aux dispositions du présent code relatives à l'apprentissage. Ils sont transmis au comité de
+coordination régional de l'emploi et de la formation professionnelle ainsi qu'au conseil régional lorsque le manquement met
+en cause la gestion ou le fonctionnement d'un centre de formation d'apprentis ou d'une section d'apprentissage. 
+
+Lorsque les faits sont susceptibles de constituer une infraction pénale dont la constatation relève de l'inspecteur du
+travail ou de l'un des autres fonctionnaires chargés du contrôle de la législation du travail, le rapport est en outre
+communiqué sans délai à ce fonctionnaire. " 
+
+" Art. R. 6251-11.-Les inspecteurs commissionnés ont accès à tous les locaux dépendant des centres de formation d'apprentis
+ou des sections d'apprentissage, ou utilisés par ces centres ou ces sections d'apprentissage. 
+
+Ils peuvent exiger la communication de tous documents d'ordre administratif, comptable ou pédagogique, y compris ceux
+concernant l'enseignement à distance. 
+
+Ils sont notamment habilités à contrôler le montant et l'utilisation des fonds collectés par l'organisme gestionnaire au
+titre de la taxe d'apprentissage dans le cadre de l'article R. 6241-7. " 
+
+" Art. R. 6251-12.-Les inspecteurs commissionnés ont le droit d'entrer dans toutes les entreprises employant des apprentis ou
+participant à leur formation et dans toutes celles qui ont déposé une demande d'habilitation au sens de l'article D. 6233-63.
+" 
+
+" Art. R. 6251-13.-L'employeur indique, sur la demande des inspecteurs commissionnés, les tâches ou postes de travail qui
+sont ou seront confiés aux apprentis, leur communique les documents en sa possession relatifs aux apprentis, leur permet de
+s'entretenir avec les apprentis et les personnes de l'entreprise responsables de leur formation. Lorsqu'il assure le logement
+des apprentis, l'employeur indique les conditions dans lesquelles est assuré ce logement. " 
+
+" Art. R. 6251-14.-Après chaque inspection d'un centre de formation d'apprentis ou d'une section d'apprentissage,
 l'inspecteur adresse un rapport au chef du service de l'inspection de l'apprentissage qui le communique au directeur du
 centre ou de la section d'apprentissage et à l'organisme gestionnaire ou, dans le cas d'une section d'apprentissage, au
 responsable de l'établissement d'enseignement ou de formation et de recherche, ainsi qu'à l'autorité cosignataire de la
-convention portant création du centre ou de la section d'apprentissage.
+convention portant création du centre ou de la section d'apprentissage. " 
 
-" Après chaque visite effectuée dans les entreprises, l'inspecteur adresse un compte rendu au chef de service de l'inspection
-de l'apprentissage qui le communique à l'employeur et au comité d'entreprise ou d'établissement s'il en existe un. "
+" Art. R. 6251-15.-Après chaque visite accomplie dans les entreprises, l'inspecteur adresse un compte rendu au chef de
+service de l'inspection de l'apprentissage qui le communique à l'employeur et au comité d'entreprise ou d'établissement s'il
+en existe un. " 
 
-" Art. R. 119-56. - Des rapports annuels sur l'activité des services d'inspection de l'apprentissage sont adressés au préfet
-de région ainsi qu'au président du conseil régional par le recteur et par le directeur régional de l'agriculture et de la
-forêt.
+" Art. R. 6251-16.-Des rapports annuels sur l'activité des services d'inspection de l'apprentissage sont adressés au préfet
+de région ainsi qu'au président du conseil régional par le recteur, par le directeur régional de l'alimentation, de
+l'agriculture et de la forêt ou par le directeur régional de la jeunesse, des sports et de la cohésion sociale. " 
 
-" Art. R. 119-57. - Il peut être fait appel à des experts désignés par le recteur ou le directeur régional de l'agriculture
-et de la forêt afin d'assister les personnels chargés de l'inspection de l'apprentissage pour les actes déterminés. Ces
-experts prêtent serment dans les conditions prévues à l'article R. 119-60.
+" Art. R. 6251-17.-Il peut être fait appel à des experts désignés par le recteur, le directeur régional de l'alimentation, de
+l'agriculture et de la forêt ou le directeur régional de la jeunesse, des sports et de la cohésion sociale afin d'assister
+les agents chargés de l'inspection de l'apprentissage pour des actes déterminés. " 
 
-" Ils sont rémunérés sur la base de vacations dont le taux et les conditions sont fixés par arrêté conjoint des ministres
-chargés de l'éducation nationale, de l'agriculture, de la fonction publique et du budget. "
+" Art. R. 6251-18.-Les experts prêtent serment dans les conditions prévues à l'article R. 6251-6. " 
 
-" Art. R. 119-60. - Avant leur entrée en fonctions, les inspecteurs de l'apprentissage commissionnés prêtent devant le
-président du tribunal de grande instance le serment de ne pas divulguer à des personnes non qualifiées les faits ou les
-renseignements dont ils auraient connaissance à l'occasion de leurs missions d'inspection, et de ne pas révéler les secrets
-de fabrication et en général les procédés de fabrication dont ils pourraient prendre connaissance.
-
-" Art. R. 119-61. - Les commissions peuvent être retirées par le ministre de l'éducation nationale ou par le ministre de
-l'agriculture après avis d'un conseil, présidé, selon le cas, par le recteur ou par le directeur régional de l'agriculture et
-de la forêt et composé de deux représentants de l'administration désignés par le préfet de région, de deux membres non
-fonctionnaires de la commission d'apprentissage du comité de coordination régional de l'emploi et de la formation
-professionnelle désignés par cette dernière et de deux représentants élus des inspecteurs commissionnés. "
+" Art. R. 6251-19.-Les experts sont rémunérés sur la base de vacations dont le taux et les conditions sont fixés par arrêté
+conjoint des ministres chargés de l'éducation nationale, de l'agriculture, de la jeunesse et des sports, de la fonction
+publique et du budget. "
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°72-283 du 12 avril 1972 - art. 4 (M)
-	  - Code de l'éducation R117-21 à R117-26, R116-14-1, R117-5-1, L115-1, R119-60
-	  - Code du travail R119-48 à R119-61
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2006-665 du 7 juin 2006 - art. 25 () JORF 8 juin 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R431-6 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-1 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-10 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-11 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-12 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-13 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-14 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-15 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-16 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-17 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-18 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-19 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-2 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-3 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-4 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-5 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-6 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-7 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-8 (V)
+	  - PILOTE_SUIVEUR: Code du travail - art. R6251-9 (V)
 
 
 ###### Article R241-23
@@ -50854,11 +50904,11 @@ technique présidé par le recteur de l'académie comprend :
 
 9° Le directeur régional du travail et de l'emploi ; 
 
-10° Le chef du centre régional de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ; 
+10° Le chef du centre régional de l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
 
 11° Le directeur régional de la jeunesse et des sports ; 
 
-12° Le directeur régional de l'agriculture et de la forêt ; 
+12° Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ; 
 
 13° Le directeur régional de France 3 ; 
 
@@ -50930,7 +50980,11 @@ l'institution prévue à l'article L. 5312-1 du code du travail. La création de
 
 	**Modifié par**:
 
-	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 14
 
 	**Cité par**:
 
@@ -62435,58 +62489,47 @@ degré peut être désigné.
 
 ###### Article D336-21
 
-Pour la série STAV, le ministre chargé de l'agriculture ou le directeur régional de l'agriculture et de la forêt sont
-substitués au ministre chargé de l'éducation ou au recteur en ce qui concerne les premier, deuxième et quatrième alinéas de
-l'article D. 336-15, les articles D. 336-17, D. 336-18 et D. 336-20.
+Pour la série STAV, le ministre chargé de l'agriculture ou le directeur régional de l'alimentation, de l'agriculture et de la
+forêt sont substitués au ministre chargé de l'éducation ou au recteur en ce qui concerne les premier, deuxième et quatrième
+alinéas de l'article D. 336-15, les articles D. 336-17, D. 336-18 et D. 336-20.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
-
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 18, 1ère phrase
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 17 (Ab)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D336-15 (V)
 	  - Code de l'éducation - art. D336-17 (V)
-	  - Code de l'éducation - art. D336-18 (V)
 	  - Code de l'éducation - art. D336-20 (V)
 
 
 ###### Article D336-22
 
-Le diplôme du baccalauréat technologique est délivré par le recteur de l'académie chargée de l'organisation de l'examen.
+Le diplôme du baccalauréat technologique est délivré par le recteur de l'académie chargée de l'organisation de l'examen. 
 
-Pour la série STAV, le diplôme est délivré conjointement par le recteur de l'académie et le directeur régional de
-l'agriculture et de la forêt.
+Pour la série STAV, le diplôme est délivré conjointement par le recteur de l'académie et le         directeur régional de
+l'alimentation, de l'agriculture et de la forêt . 
 
 Quelles que soient la série et éventuellement la mention portées sur le diplôme, le grade de bachelier confère les mêmes
 droits.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2006-08-21 art. 2 JORF 22 août 2006
-
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 19
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ##### Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie "
@@ -66740,8 +66783,9 @@ l'évaluation ou à la correction de certaines épreuves, notamment de l'épreuv
 consultative pour l'attribution de notes se rapportant aux épreuves qu'ils ont évaluées ou corrigées. 
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, le jury est nommé par le
-directeur régional de l'agriculture et de la forêt. Il est présidé par un enseignant-chercheur. Les membres de ce jury
-peuvent être choisis parmi les enseignants des établissements d'enseignement relevant du ministre chargé de l'agriculture. 
+directeur régional de l'alimentation, de l'agriculture et de la forêt . Il est présidé par un enseignant-chercheur. Les
+membres de ce jury peuvent être choisis parmi les enseignants des établissements d'enseignement relevant du ministre chargé
+de l'agriculture. 
 
 Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le jury est nommé par le ministre chargé de la
 mer. Il est présidé par un enseignant-chercheur ou un professeur en chef ou général de l'enseignement maritime. Les membres
@@ -66753,10 +66797,6 @@ de ce jury peuvent être choisis parmi les enseignants des établissements scola
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 39 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-145 du 10 février 2009 - art. 21
-
 	**Cité par**:
 
 	  - Arrêté du 23 janvier 2009 (Ab)
@@ -66764,6 +66804,10 @@ de ce jury peuvent être choisis parmi les enseignants des établissements scola
 	  - Arrêté du 10 mars 2014 - art. 5 (V)
 	  - Arrêté du 10 mars 2014 - art. 7 (V)
 	  - Code de l'éducation - art. D337-93-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
@@ -70333,32 +70377,31 @@ notification de ces décisions ainsi motivées.
 
 En cas d'appel, le chef d'établissement transmet à la commission d'appel les décisions motivées ainsi que tous éléments
 susceptibles d'éclairer cette instance. Les parents de l'élève ou l'élève majeur qui le demandent sont entendus par la
-commission. L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents.
+commission.L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents. 
 
-Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
+Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives. 
 
-La commission d'appel est présidée par le directeur régional de l'agriculture et de la forêt ou son représentant. Elle
-comprend des chefs d'établissement, des enseignants, des parents d'élèves, des délégués des élèves, des personnels
-d'éducation nommés par le directeur régional de l'agriculture et de la forêt et un représentant de l'inspection académique
-sur proposition du recteur.
+La commission d'appel est présidée par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou
+son représentant. Elle comprend des chefs d'établissement, des enseignants, des parents d'élèves, des délégués des élèves,
+des personnels d'éducation nommés par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  et un
+représentant de l'inspection académique sur proposition du recteur. 
 
 La composition et le fonctionnement de la commission d'appel sont précisés par arrêté du ministre chargé de l'agriculture et
 du ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-920 1992-09-07 art. 13
-	  - Décret n°92-920 du 7 septembre 1992 - art. 13 (Ab)
-
 	**Cité par**:
 
 	  - Arrêté du 7 septembre 1992 - art. 1 (V)
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°92-920 du 7 septembre 1992 - art. 13 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D341-14
@@ -70508,25 +70551,24 @@ de cycle, la famille ou l'élève majeur sont informés préalablement au début
 Tout élève ayant échoué à l'examen du brevet de technicien supérieur agricole, du brevet de technicien agricole, du
 baccalauréat, du brevet d'études professionnelles agricoles ou du certificat d'aptitude professionnelle agricole se voit
 offrir le droit d'une nouvelle préparation de cet examen, le cas échéant, selon des modalités adaptées au niveau des
-connaissances qu'il a acquises dans les matières d'enseignement correspondant aux épreuves de l'examen.
+connaissances qu'il a acquises dans les matières d'enseignement correspondant aux épreuves de l'examen. 
 
 Pour la classe terminale de chaque cycle, ce droit s'exerce dans la limite des places demeurées vacantes après l'admission
 des élèves issus de la classe précédente de l'établissement scolaire et peut entraîner un changement d'établissement après
-qu'ont été explorées toutes les possibilités d'un maintien sur place de l'élève.
+qu'ont été explorées toutes les possibilités d'un maintien sur place de l'élève. 
 
-Le changement éventuel d'établissement scolaire relève de la compétence du directeur régional de l'agriculture et de la
-forêt.
+Le changement éventuel d'établissement scolaire relève de la compétence du         directeur régional de l'alimentation, de
+l'agriculture et de la forêt.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 20
 	  - Décret n°92-920 du 7 septembre 1992 - art. 20 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D341-21
@@ -70556,19 +70598,18 @@ rural.
 ###### Article D341-22
 
 Les actions menées en matière d'information des élèves, les évolutions générales constatées dans les flux d'orientation et
-les résultats de l'affectation dans la région font l'objet d'un rapport annuel présenté par le directeur régional de
-l'agriculture et de la forêt au comité régional de l'enseignement agricole.
+les résultats de l'affectation dans la région font l'objet d'un rapport annuel présenté par le         directeur régional de
+l'alimentation, de l'agriculture et de la forêt  au comité régional de l'enseignement agricole.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 22
 	  - Décret n°92-920 du 7 septembre 1992 - art. 22 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ##### Sous-section 2 : L'orientation des élèves dans les établissements d'enseignement agricole privés sous contrat.
@@ -70806,23 +70847,22 @@ la commission les décisions d'orientation motivées ainsi que tous les élémen
 commission d'appel doit comprendre, pour les deux tiers au moins de ses membres, des chefs d'établissement, des professeurs,
 des représentants de parents d'élèves. Aucun membre de la commission ne doit siéger lorsque le dossier d'un de ses élèves ou
 de ses enfants est examiné. Les parents de l'élève ou l'élève majeur qui le demandent sont entendus par la commission.
-L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents.
+L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents. 
 
-Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
+Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives. 
 
-La composition et les règles de fonctionnement de la commission sont communiquées au directeur régional de l'agriculture et
-de la forêt.
+La composition et les règles de fonctionnement de la commission sont communiquées au         directeur régional de
+l'alimentation, de l'agriculture et de la forêt.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-921 1992-09-07 art. 11
 	  - Décret n°92-921 du 7 septembre 1992 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D341-34
@@ -71995,19 +72035,18 @@ L'unité d'enseignement est organisée selon les modalités suivantes :
 ###### Article D351-19
 
 Pour l'application de la présente section à l'enseignement agricole, les mots : " inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale " sont remplacés par les mots : " directeur régional de l'agriculture et de
-la forêt ".
+services départementaux de l'éducation nationale " sont remplacés par les mots : "         directeur régional de
+l'alimentation, de l'agriculture et de la forêt  ".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 16
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D351-20
@@ -72873,35 +72912,35 @@ l'article R. 212-6 du même code.
 ###### Article D371-3
 
 Les articles D. 311-5, D. 321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.
-334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D.  337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D.
-337-76 à D.  337-111 et D. 337-113 à D. 337-160 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations
-prévues aux 1° à 4° du présent article et aux articles D. 371-4 et D. 371-5 :
+334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D.
+337-76 à D. 337-111 et D. 337-113 à D. 337-160 sont applicables dans les îles Wallis et Futuna sous réserve des adaptations
+prévues aux 1° à 4° du présent article et aux articles D. 371-4 et D. 371-5 : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot : " vice-recteur " ;
+sont remplacés par le mot : " vice-recteur " ; 
 
-2° Le mot : " département " est remplacé par les mots :
+2° Le mot : " département " est remplacé par les mots : 
 
-" collectivité d'outre-mer " ;
+" collectivité d'outre-mer " ; 
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de
-l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
+mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
 ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D311-5 (V)
-	  - Code de l'éducation - art. D371-4 (V)
-	  - Code de l'éducation - art. D371-5 (V)
-	  - Code de l'éducation D311-5, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337-46 à D337-74, D337-76 à D337-111, D337-113 à D337-16
+	  - Code de l'éducation
+	  - Code de l'éducation - art. D311-5
+	  - Code de l'éducation - art. D371-4
+	  - Code de l'éducation - art. D371-5
 
 
 ###### Article D371-4
@@ -73096,45 +73135,41 @@ Les adaptations des programmes nationaux mentionnés à l'article L. 311-3 sont 
 ###### Article D372-3
 
 Les articles D. 311-5, D. 312-1, D. 312-4 à D. 312-6, D. 312-40 à D. 312-42, D. 312-43, D. 312-44, D. 312-47-1, D. 312-48, D.
-321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D.  334-22, D. 336-1 à D.
-336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D.  337-111 et
+321-1 à D. 321-16, D. 331-23 à D. 331-43, D. 332-1 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D. 336-1 à D.
+336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et
 D. 337-113 à D. 337-160 sont applicables à Mayotte sous réserve des adaptations prévues aux 1° à 4° du présent article et aux
-articles D. 372-4 et D. 372-5 :
+articles D. 372-4 et D. 372-5 : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot :
+sont remplacés par le mot : 
 
-" vice-recteur " ;
+" vice-recteur " ; 
 
-2° Le mot : " département " est remplacé par les mots :
+2° Le mot : " département " est remplacé par les mots : 
 
-" collectivité départementale " ;
+" collectivité départementale " ; 
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de
-l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
+mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
 ".
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
 	**Modifié par**:
 
-	  - Décret n°2007-429 du 25 mars 2007 - art. 4 (V) JORF 27 mars 2007
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D311-5 (V)
-	  - Code de l'éducation - art. D312-1 (V)
-	  - Code de l'éducation - art. D312-47-1 (V)
-	  - Code de l'éducation - art. D312-48 (V)
-	  - Code de l'éducation - art. D372-4 (V)
-	  - Code de l'éducation - art. D372-5 (V)
-	  - Code de l'éducation D311-5, D312-1, D312-4 à D312-6, D312-40 à D312-44, D312-47-1, D312-48, D321-1 à D321-16, D331-23 à D331-43, D332-1 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D3
+	  - Code de l'éducation
+	  - Code de l'éducation - art. D311-5
+	  - Code de l'éducation - art. D312-1
+	  - Code de l'éducation - art. D312-47-1
+	  - Code de l'éducation - art. D312-48
+	  - Code de l'éducation - art. D372-4
+	  - Code de l'éducation - art. D372-5
 
 
 ###### Article D372-4
@@ -73333,20 +73368,20 @@ Les adaptations des programmes nationaux mentionnés à l'article L. 311-3 sont 
 
 Les articles D. 332-16 à D. 332-29, D. 334-1 à D. 334-22, D. 336-1 à D. 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30,
 D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et D. 337-113 à D. 337-160 sont applicables en Polynésie
-française sous réserve des adaptations suivantes :
+française sous réserve des adaptations suivantes : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot : " vice-recteur " ;
+sont remplacés par le mot : " vice-recteur " ; 
 
-2° Le mot : " département " est remplacé par les mots :
+2° Le mot : " département " est remplacé par les mots : 
 
-" collectivité d'outre-mer " ;
+" collectivité d'outre-mer " ; 
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de
-l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
+mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
-" ;
+" ; 
 
 5° Dans les jurys mentionnés aux articles D. 334-21, D. 336-20 et D. 336-38, à défaut d'un président membre de l'enseignement
 supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
@@ -73355,24 +73390,20 @@ supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignemen
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 16, alinéa 9, en ce qui concerne la Polynésie française
 	  - Décret n°90-822 du 10 septembre 1990 - art. 16 (Ab)
-	  - Décret n°93-1093 1993-09-15 art. 16, alinéa 11, en ce qui concerne la Polynésie française
-	  - Décret n°93-1092 1993-09-15 art. 16, alinéa 11, en ce qui concerne la Polynésie française
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (Ab)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D334-21 (V)
-	  - Code de l'éducation - art. D336-20 (V)
-	  - Code de l'éducation - art. D336-38 (V)
-	  - Code de l'éducation D332-16 à D332-29, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337-46 à D337-74, D337-76 à D337-111, D337-113 à D337-160, D334-21, D336-20, D336-38
+	  - Code de l'éducation
+	  - Code de l'éducation - art. D334-21
+	  - Code de l'éducation - art. D336-20
+	  - Code de l'éducation - art. D336-38
 
 
 ###### Article D373-2-1
@@ -73619,22 +73650,22 @@ Les articles D. 321-18 à D. 321-27, D. 331-23 à D. 331-43, D. 331-46 à D. 331
 alinéas de l'article D. 332-7, les articles D. 332-8 à D. 332-29, D. 333-1 à D. 333-18, D. 334-1 à D. 334-22, D. 336-1 à D.
 336-58, D. 337-1 à D. 337-14, D. 337-16 à D. 337-30, D. 337-32 à D. 337-44, D. 337-46 à D. 337-74, D. 337-76 à D. 337-111 et
 D. 337-113 à D. 337-160 sont applicables en Nouvelle-Calédonie sous réserve des adaptations prévues aux 1° à 4° du présent
-article et aux articles D. 374-4 et D. 374-5 :
+article et aux articles D. 374-4 et D. 374-5 : 
 
 1° Les mots : " recteur " ou " recteur de l'académie " ou " directeur des services départementaux de l'éducation nationale "
-sont remplacés par le mot : " vice-recteur " ;
+sont remplacés par le mot : " vice-recteur " ; 
 
-2° Le mot : " département " est remplacé par le mot :
+2° Le mot : " département " est remplacé par le mot : 
 
-" Nouvelle-Calédonie " ;
+" Nouvelle-Calédonie " ; 
 
-3° Les mots : " directeur régional de l'agriculture et de la forêt " sont remplacés par les mots : " directeur de
-l'agriculture, de la forêt et de l'environnement " ;
+3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
+mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
-" ;
+" ; 
 
-5° Les références au code du travail sont remplacées par des références au doit du travail applicable localement ;
+5° Les références au code du travail sont remplacées par des références au doit du travail applicable localement ; 
 
 6° Les références au décret n° 85-924 du 30 août 1985 sont remplacées par des références au décret n° 86-164 du 31 janvier
 1986.
@@ -73643,16 +73674,16 @@ l'agriculture, de la forêt et de l'environnement " ;
 
 	**Cite**:
 
-	  - Décret n°85-924 1985-08-30
-	  - Décret n°86-164 1986-01-31
-	  - Code de l'éducation - art. D332-7 (V)
-	  - Code de l'éducation - art. D374-4 (V)
-	  - Code de l'éducation - art. D374-5 (V)
-	  - Code de l'éducation D321-18 à D321-27, D331-23 à D331-43, D331-46 à D331-61, D332-1 à D332-6, D332-7, D332-8 à D332-29, D333-1 à D333-18, D334-1 à D334-22, D336-1 à D336-58, D337-1 à D337-14, D337-16 à D337-30, D337-32 à D337-44, D337-46 à D337-74, D
+	  - Décret n°85-924 du 30 août 1985
+	  - Décret n°86-164 du 31 janvier 1986
+	  - Code de l'éducation
+	  - Code de l'éducation - art. D332-7
+	  - Code de l'éducation - art. D374-4
+	  - Code de l'éducation - art. D374-5
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D374-4
@@ -83085,25 +83116,17 @@ comptabilisation des ressources affectées.
 
 L'action des établissements publics locaux et nationaux d'enseignement et de formation professionnelle agricole et notamment
 celle, au sein de ces établissements, des centres de formation professionnelle et de promotion agricoles s'inscrivent dans le
-réseau d'offre de formation du ministère de l'agriculture.
+réseau d'offre de formation du ministère de l'agriculture. 
 
-Dans le cadre des orientations nationales, le directeur régional de l'agriculture et de la forêt définit une stratégie
-régionale de développement et favorise le développement de l'activité du réseau régional des établissements relevant de sa
-compétence dans une logique de cohérence et de solidarité entre ces établissements.
+Dans le cadre des orientations nationales, le         directeur régional de l'alimentation, de l'agriculture et de la forêt
+définit une stratégie régionale de développement et favorise le développement de l'activité du réseau régional des
+établissements relevant de sa compétence dans une logique de cohérence et de solidarité entre ces établissements.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°93-432 du 24 mars 1993 - art. 10 al 4 sauf GIP régis par le décret n°92-276 du 26 mars 1993 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ###### Article D423-17
@@ -83135,28 +83158,20 @@ publics d'enseignement relevant du ministère de l'éducation nationale en appli
 
 ###### Article D423-18
 
-Le recteur et le directeur régional de l'agriculture et de la forêt se concertent pour coordonner les stratégies de
-développement de la formation continue des adultes relevant de leur champ de compétences respectif.
+Le recteur et le         directeur régional de l'alimentation, de l'agriculture et de la forêt  se concertent pour coordonner
+les stratégies de développement de la formation continue des adultes relevant de leur champ de compétences respectif. 
 
 Ces stratégies se développent en cohérence avec la programmation régionale des interventions de l'Etat et le programme
-régional de formation professionnelle continue de la région. Le recteur et le directeur régional de l'agriculture et de la
-forêt apportent leur concours à la définition des programmes de formation décidés par l'Etat et les collectivités
-territoriales. Ils définissent les conditions dans lesquelles les réseaux qui relèvent de leur compétence participent à la
-mise en œuvre de ces programmes.
+régional de formation professionnelle continue de la région. Le recteur et le         directeur régional de l'alimentation,
+de l'agriculture et de la forêt  apportent leur concours à la définition des programmes de formation décidés par l'Etat et
+les collectivités territoriales. Ils définissent les conditions dans lesquelles les réseaux qui relèvent de leur compétence
+participent à la mise en œuvre de ces programmes.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°93-432 du 24 mars 1993 - art. 10 al 5 et 6 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
 
 ##### Sous-section 2 : Les groupements d'intérêt public pour la formation professionnelle continue et l'insertion professionnelle institués dans l'académie.
@@ -83542,68 +83557,61 @@ chargé de l'agriculture, fait mention :
 Les modifications ou la prorogation de la convention constitutive, ainsi que la dissolution du groupement avant le terme fixé
 par cette dernière, font l'objet d'une approbation et d'une publication dans les conditions fixées aux articles R. 423-29 et
 D. 423-30. Dans ce cas, le commissaire du Gouvernement et le membre du corps du contrôle général économique et financier
-transmettent leur avis motivé au recteur ou au directeur régional de l'agriculture et de la forêt. 
+transmettent leur avis motivé au recteur ou au         directeur régional de l'alimentation, de l'agriculture et de la
+forêt . 
 
 Toute demande de prorogation, accompagnée d'un dossier complet, doit être transmise quatre mois au moins avant la date
-d'expiration de la convention constitutive. A défaut, la demande transmise tardivement est regardée comme tendant à
+d'expiration de la convention constitutive.A défaut, la demande transmise tardivement est regardée comme tendant à
 l'approbation de la création d'un nouveau groupement d'intérêt public.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-1227 du 19 décembre 2001 - art. 4 (Ab)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D423-30 (V)
-	  - Code de l'éducation - art. R423-29 (V)
+	  - Code de l'éducation - art. D423-30
+	  - Code de l'éducation - art. R423-29
 
 
 ###### Article D423-32
 
-Le recteur d'académie ou le directeur régional de l'agriculture et de la forêt exerce la fonction de commissaire du
-Gouvernement auprès du groupement d'intérêt public. Il peut se faire représenter. Il assiste, avec voix consultative, aux
-séances de toutes les instances de délibération et d'administration du groupement.
+Le recteur d'académie ou le         directeur régional de l'alimentation, de l'agriculture et de la forêt  exerce la fonction
+de commissaire du Gouvernement auprès du groupement d'intérêt public. Il peut se faire représenter. Il assiste, avec voix
+consultative, aux séances de toutes les instances de délibération et d'administration du groupement. 
 
-Le commissaire du Gouvernement exerce les compétences suivantes :
+Le commissaire du Gouvernement exerce les compétences suivantes : 
 
-1° Il reçoit communication de tous les documents relatifs au groupement ;
+1° Il reçoit communication de tous les documents relatifs au groupement ; 
 
-2° Il dispose d'un droit de visite dans les locaux appartenant au groupement ou mis à sa disposition ;
+2° Il dispose d'un droit de visite dans les locaux appartenant au groupement ou mis à sa disposition ; 
 
-3° Il approuve le recrutement de personnel propre par le groupement ;
+3° Il approuve le recrutement de personnel propre par le groupement ; 
 
 4° Pour les décisions qui mettent en jeu l'existence ou le bon fonctionnement du groupement, il peut provoquer une nouvelle
 délibération dans un délai de quinze jours à compter de la date à laquelle le procès-verbal de la séance lui a été
-communiqué ;
+communiqué ; 
 
-5° Il informe les administrations dont relèvent les établissements publics participant au groupement ;
+5° Il informe les administrations dont relèvent les établissements publics participant au groupement ; 
 
 6° Il adresse chaque année au ministre chargé de l'éducation, au ministre chargé de l'enseignement supérieur ou au ministre
 chargé de l'agriculture et au ministre chargé du budget un rapport sur l'activité et la gestion du groupement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-1227 du 19 décembre 2001 - art. 5 (Ab)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article D423-33
@@ -83734,41 +83742,37 @@ académique ou au comité technique paritaire régional de l'enseignement agrico
 ###### Article R423-29
 
 La convention constitutive du groupement d'intérêt public et ses annexes sont transmises au recteur d'académie ou au
-directeur régional de l'agriculture et de la forêt pour les établissements relevant de leur compétence respective. Lorsque le
-groupement comprend des établissements relevant de plusieurs académies ou de plusieurs directions régionales de l'agriculture
-et de la forêt, le recteur d'académie ou le directeur régional de l'agriculture et de la forêt compétents sont ceux dont
-relève l'établissement siège du groupement.
+directeur régional de l'alimentation, de l'agriculture et de la forêt pour les établissements relevant de leur compétence
+respective. Lorsque le groupement comprend des établissements relevant de plusieurs académies ou de plusieurs
+directions régionales de l'alimentation, de l'agriculture et de la forêt, le recteur d'académie ou le directeur régional de
+l'alimentation, de l'agriculture et de la forêt compétents sont ceux dont relève l'établissement siège du groupement. 
 
-Le recteur ou le directeur régional de l'agriculture et de la forêt accuse réception de la convention et de ses annexes. En
-cas d'avis favorable de sa part, il transmet dans un délai de deux mois ces documents, le cas échéant avec les modifications
-demandées par lui, pour approbation, au préfet du département où se situe le siège du groupement.
+Le recteur ou le directeur régional de l'alimentation, de l'agriculture et de la forêt accuse réception de la convention et
+de ses annexes. En cas d'avis favorable de sa part, il transmet dans un délai de deux mois ces documents, le cas échéant avec
+les modifications demandées par lui, pour approbation, au préfet du département où se situe le siège du groupement. 
 
 Le préfet accuse réception de la convention constitutive et de ses annexes et recueille l'avis du trésorier-payeur général du
 département.
 
 A défaut d'approbation expresse, la décision du préfet est réputée favorable à l'expiration d'un délai de deux mois à compter
 de la date de réception de la convention constitutive et de ses annexes, à moins qu'il ne fasse connaître son opposition
-pendant ce délai.
+pendant ce délai. 
 
 Lorsque le préfet ou le trésorier-payeur général demande par écrit des informations ou documents complémentaires, le délai
-mentionné à l'alinéa précédent est suspendu jusqu'à la date de réception de ces informations ou documents.
+mentionné à l'alinéa précédent est suspendu jusqu'à la date de réception de ces informations ou documents. 
 
 La liste et le contenu des annexes de la convention sont fixés par arrêté du ministre chargé de l'éducation, du ministre
 chargé de l'enseignement supérieur, du ministre chargé du budget et du ministre chargé de l'agriculture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2001-1227 du 19 décembre 2001 - art. 2 (Ab)
+	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
 
-	**Codifié par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 	**Cité par**:
 
