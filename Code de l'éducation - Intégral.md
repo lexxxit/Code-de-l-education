@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -4410,27 +4410,24 @@ juillet 2005.
 Compte tenu des orientations nationales et après accord des conseils généraux pour les établissements relevant de leur
 compétence, le conseil régional adopte et transmet au représentant de l'Etat dans la région le schéma prévisionnel des
 formations des collèges, des lycées et des établissements d'éducation spéciale, des lycées professionnels maritimes et des
-établissements d'enseignement agricole mentionnés aux articles L. 811-8 et L. 813-1 du code rural.
+établissements d'enseignement agricole mentionnés aux articles L. 811-8 et L. 813-1 du code rural et de la pêche maritime.
 
 Le conseil régional associe les représentants désignés par les établissements d'enseignement privés sous contrat à
 l'élaboration du schéma prévisionnel des formations.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 13
 	  - Loi n°83-663 du 22 juillet 1983 - art. 13 (Ab)
-	  - Loi n°94-51 1994-01-21 art. 3
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 77 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -4559,8 +4556,8 @@ collectivité territoriales, sauf dans l'hypothèse où des conventions de mise 
 
 Le conseil régional établit, après accord de chacune des collectivités concernées par les projets situés sur leur territoire,
 le programme prévisionnel des investissements relatifs aux lycées, aux établissements d'éducation spéciale, aux lycées
-professionnels maritimes et aux établissements d'enseignement agricole visés à l'article L. 811-8 du code rural qui résulte
-du schéma prévisionnel mentionné à l'article L. 214-1 du présent code.
+professionnels maritimes et aux établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la
+pêche maritimequi résulte du schéma prévisionnel mentionné à l'article L. 214-1 du présent code.
 
 A ce titre, le conseil régional définit la localisation des établissements, leur capacité d'accueil et le mode d'hébergement
 des élèves.
@@ -4569,13 +4566,11 @@ des élèves.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 13
 	  - Loi n°83-663 du 22 juillet 1983 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -4727,7 +4722,7 @@ transfert est de droit, à sa demande, et ne donne lieu au versement d'aucun dro
 
 Les dispositions prévues aux articles L. 213-4, L. 213-5 et L. 213-6 du présent code sont applicables à la région pour les
 lycées, les établissements d'éducation spéciale, les lycées professionnels maritimes, ainsi que pour les établissements
-d'enseignement agricole visés à l'article L. 811-8 du code rural.
+d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -4735,10 +4730,9 @@ d'enseignement agricole visés à l'article L. 811-8 du code rural.
 
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -4767,10 +4761,10 @@ Conseil d'Etat.
 ###### Article L214-10
 
 Lorsque 10 % au moins des élèves d'un lycée, d'un établissement d'éducation spéciale, d'un lycée professionnel maritime ou
-d'un établissement agricole visé à l'article L. 811-8 du code rural, ou 5 % au moins si l'établissement est un lycée
-d'enseignement professionnel, résident dans une autre région que celle dont relève cet établissement, une participation aux
-charges de fonctionnement et de personnel peut être demandée à la région de résidence. Le montant de cette participation est
-fixé par convention entre les régions intéressées. 
+d'un établissement agricole visé à l'article L. 811-8 du code rural et de la pêche maritime, ou 5 % au moins si
+l'établissement est un lycée d'enseignement professionnel, résident dans une autre région que celle dont relève cet
+établissement, une participation aux charges de fonctionnement et de personnel peut être demandée à la région de résidence.
+Le montant de cette participation est fixé par convention entre les régions intéressées. 
 
 En cas de désaccord, les représentants de l'Etat dans les régions intéressées fixent conjointement les modalités de cette
 participation.
@@ -4779,17 +4773,11 @@ participation.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 24
 	  - Loi n°83-663 du 22 juillet 1983 - art. 24 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -4821,19 +4809,13 @@ l'année en cours.
 La dotation est inscrite au budget de chaque région, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
 à l'extension et à la construction des lycées, des établissements d'éducation spéciale, des écoles de formation maritime et
-aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural ".
+aquacole et des établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime".
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 44
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1614-4 (V)
-	  - Code de l'éducation - art. L211-2 (V)
-	  - Code rural - art. L811-8 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -4962,18 +4944,19 @@ Elles sont signées par le président du conseil régional, le représentant de 
 d'application, par les divers acteurs concernés. 
 
 Dans les établissements d'enseignement du second degré, les établissements relevant des articles L. 811-1 et L. 813-1 du code
-rural et les établissements relevant du ministère chargé des sports, ces conventions, qui sont également signées par les
-autorités académiques, prévoient et classent, par ordre prioritaire, en fonction des moyens disponibles, les ouvertures et
-fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en oeuvre par l'Etat et la région
-dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2 du présent code et de l'article
-L. 814-2 du code rural.A défaut d'accord, les autorités de l'Etat prennent, pour ce qui les concerne, les décisions
-nécessaires à la continuité du service public de l'éducation. S'agissant des demandeurs d'emploi, ces conventions,
-lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de l'institution mentionnée à l'article L.
-5312-1 du code du travail, sont également signées par cette institution. Elles précisent, en matière d'orientation et de
-formation professionnelles, les conditions de mise en œuvre de la convention prévue à l'article L. 5312-11 du même code.
+rural et de la pêche maritime et les établissements relevant du ministère chargé des sports, ces conventions, qui sont
+également signées par les autorités académiques, prévoient et classent, par ordre prioritaire, en fonction des moyens
+disponibles, les ouvertures et fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en
+oeuvre par l'Etat et la région dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2
+du présent code et de l'article L. 814-2 du code rural et de la pêche maritime.A défaut d'accord, les autorités de l'Etat
+prennent, pour ce qui les concerne, les décisions nécessaires à la continuité du service public de l'éducation. S'agissant
+des demandeurs d'emploi, ces conventions, lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de
+l'institution mentionnée à l'article L. 5312-1 du code du travail, sont également signées par cette institution. Elles
+précisent, en matière d'orientation et de formation professionnelles, les conditions de mise en œuvre de la convention prévue
+à l'article L. 5312-11 du même code.
 
 V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
-cas échéant, l'institution mentionnée à l'article L. 311-7 du code du travail peuvent conclure des contrats fixant des
+cas échéant, l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent conclure des contrats fixant des
 objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
 formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
 être annuels ou pluriannuels. 
@@ -5007,7 +4990,7 @@ autres organismes de formation concernés.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -5472,9 +5455,9 @@ en tenant compte des effectifs scolarisés et de l'utilisation des superficies d
 La collectivité territoriale propriétaire ou le groupement compétent au lieu et place de celle-ci, s'il le demande, se voit
 confier de plein droit par le département ou la région la responsabilité d'une opération de grosses réparations, d'extension,
 de reconstruction ou d'équipement d'un collège, d'un lycée, d'un établissement d'éducation spéciale, d'un établissement
-d'enseignement agricole visé à l'article L. 811-8 du code rural existant à la date du transfert de compétences. Cette
-opération doit avoir fait l'objet d'une décision préalable de financement du département ou de la région conformément aux
-dispositions des articles L. 213-1 et L. 214-1 du présent code. 
+d'enseignement agricole visé à l'article L. 811-8 du code rural et de la pêche maritime existant à la date du transfert de
+compétences. Cette opération doit avoir fait l'objet d'une décision préalable de financement du département ou de la région
+conformément aux dispositions des articles L. 213-1 et L. 214-1 du présent code. 
 
 Une convention entre la collectivité territoriale propriétaire ou le groupement et le département ou la région détermine les
 conditions, notamment financières, dans lesquelles est réalisée cette opération. Les sommes versées par la région ou le
@@ -5508,7 +5491,6 @@ la disposition du département ou de la région, selon le cas.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
 
 	**Cité par**:
@@ -5524,10 +5506,9 @@ la disposition du département ou de la région, selon le cas.
 	  - Code de l'éducation - art. R421-18 (V)
 	  - Code rural - art. R811-22 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -5540,10 +5521,10 @@ la disposition du département ou de la région, selon le cas.
 
 La commune siège ou le groupement compétent au lieu et place de celle-ci, s'il le demande, se voit confier de plein droit par
 le département ou la région la responsabilité de la construction et de l'équipement d'un collège, d'un lycée, d'un
-établissement d'éducation spéciale, d'un établissement d'enseignement agricole visé à l'article L. 811-8 du code rural
-réalisé postérieurement à la date du transfert de compétences. Ces opérations doivent avoir fait l'objet d'une décision
-préalable de financement du département ou de la région conformément aux dispositions des articles L. 213-1 et L. 214-1 du
-présent code. 
+établissement d'éducation spéciale, d'un établissement d'enseignement agricole visé à l'article L. 811-8 du code rural et de
+la pêche maritime réalisé postérieurement à la date du transfert de compétences. Ces opérations doivent avoir fait l'objet
+d'une décision préalable de financement du département ou de la région conformément aux dispositions des articles L. 213-1 et
+L. 214-1 du présent code. 
 
 Une convention entre la commune siège ou le groupement et le département ou la région détermine les conditions, notamment
 financières, dans lesquelles cette construction est réalisée. Les sommes versées par la région ou le département ne peuvent
@@ -5569,7 +5550,6 @@ siège ou au groupement compétent avec l'accord du département ou de la régio
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
 
 	**Cité par**:
@@ -5580,10 +5560,9 @@ siège ou au groupement compétent avec l'accord du département ou de la régio
 	  - Code de l'éducation - art. L212-13 (Ab)
 	  - Code de l'éducation - art. R216-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -6980,7 +6959,7 @@ Les institutions de la formation professionnelle sont organisées conformément 
 ###### Article L238-1
 
 La composition et les compétences du Conseil national de l'enseignement agricole sont fixées par les dispositions des
-articles L. 814-1 et L. 814-2 du code rural, ci-après reproduites : 
+articles L. 814-1 et L. 814-2 du code rural et de la pêche maritime, ci-après reproduites : 
 
 " Art.L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de
 soixante-quatre membres ainsi répartis : 
@@ -7035,23 +7014,13 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 75 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code rural - art. L814-1 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L814-2 (V)
-
 	**Cite**:
 
 	  - Code rural L814-1, L814-2
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.
@@ -7059,7 +7028,8 @@ Les modalités d'application du présent article sont fixées par décret en Con
 ###### Article L238-2
 
 La composition et les compétences du Conseil national de l'enseignement supérieur et de la recherche agricole,
-agroalimentaire et vétérinaire sont fixées par les dispositions de l'article L. 814-3 du code rural, ci-après reproduites : 
+agroalimentaire et vétérinaire sont fixées par les dispositions de l'article L. 814-3 du code rural et de la pêche maritime,
+ci-après reproduites : 
 
 " Art.L. 814-3.-Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire
 est placé auprès du ministre de l'agriculture. Il est consulté notamment sur les questions relatives aux missions des
@@ -7079,10 +7049,9 @@ supérieur dépendant du ministre de l'agriculture. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -7094,9 +7063,9 @@ supérieur dépendant du ministre de l'agriculture. "
 ###### Article L238-3
 
 La composition et les compétences des comités régionaux de l'enseignement agricole sont fixées par les dispositions de
-l'article L. 814-4 du code rural, ci-après reproduites : 
+l'article L. 814-4 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 814-4.-Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire
+" Art. L. 814-4.-Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire
 statue en appel et en dernier ressort sur les décisions prises par les instances disciplinaires des établissements
 d'enseignement supérieur relevant du ministre chargé de l'agriculture compétentes à l'égard des enseignants-chercheurs,
 enseignants et usagers de ces établissements. 
@@ -7122,16 +7091,19 @@ des enseignants-chercheurs et enseignants d'un rang égal ou supérieur à celui
 La composition, les modalités et la durée de désignation des membres des formations compétentes à l'égard des enseignants-
 chercheurs, des enseignants et des usagers et leur fonctionnement sont définies par décret en Conseil d'Etat
 
+. "
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1534 du 10 décembre 2009 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L214-1 (M)
 	  - Code de l'éducation - art. L214-13 (M)
+	  - Code de l'éducation - art. L231-11 (V)
 	  - Code de l'éducation - art. L234-1 (M)
 	  - Code de l'éducation L814-1, L234-1, L214-13, L214-1
 	  - Code rural L814-4
@@ -8460,7 +8432,7 @@ Une éducation artistique est dispensée dans les écoles maternelles et les cla
 
 Des enseignements artistiques obligatoires sont dispensés dans les écoles élémentaires et les collèges et dans les classes
 correspondantes des établissements d'éducation spéciale, des lycées professionnels maritimes et des établissements
-d'enseignement agricole visés à l'article L. 811-8 du code rural. 
+d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime. 
 
 Ces enseignements comportent au moins un enseignement de la musique et un enseignement des arts plastiques. Ils ont pour
 objet une initiation à l'histoire des arts et aux pratiques artistiques. 
@@ -8479,7 +8451,7 @@ disposition illicites d'œuvres ou d'objets protégés par un droit d'auteur ou 
 
 	**Modifié par**:
 
-	  - Loi n°2009-669 du 12 juin 2009 - art. 15
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -8491,8 +8463,8 @@ disposition illicites d'œuvres ou d'objets protégés par un droit d'auteur ou 
 ###### Article L312-7
 
 Dans les lycées et les classes correspondantes des établissements d'éducation spéciale, des lycées professionnels maritimes
-et des établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural, les enseignements artistiques
-sont assurés à titre obligatoire ou facultatif selon les formations suivies.
+et des établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime, les
+enseignements artistiques sont assurés à titre obligatoire ou facultatif selon les formations suivies.
 
 **Liens relatifs à cet article**
 
@@ -8500,10 +8472,9 @@ sont assurés à titre obligatoire ou facultatif selon les formations suivies.
 
 	  - Loi n°88-20 du 6 janvier 1988 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -8512,10 +8483,6 @@ sont assurés à titre obligatoire ou facultatif selon les formations suivies.
 	  - Code de l'éducation - art. L374-1 (V)
 	  - Code de l'éducation - art. L421-22 (V)
 	  - Code rural et de la pêche maritime - art. L811-8 (V)
-
-	**Cite**:
-
-	  - Code rural L811-8
 
 
 ###### Article L312-8
@@ -9375,23 +9342,22 @@ Les diplômes peuvent être obtenus sous forme d'unités de valeur capitalisable
 
 Les enseignements artistiques dispensés dans les collèges, dans les classes correspondantes des établissements d'éducation
 spéciale, des lycées professionnels maritimes, des établissements d'enseignement agricole visés à l'article L. 811-8 du code
-rural, dans les lycées d'enseignement général et technologique et les lycées professionnels sont sanctionnés dans les mêmes
-conditions que les enseignements dispensés dans les autres disciplines.
+rural et de la pêche maritime, dans les lycées d'enseignement général et technologique et les lycées professionnels sont
+sanctionnés dans les mêmes conditions que les enseignements dispensés dans les autres disciplines.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L811-8
 
 	**Anciens textes**:
 
 	  - Loi n°88-20 du 6 janvier 1988 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L811-8 (V)
 
 
 ###### Article L331-3
@@ -10433,7 +10399,7 @@ départementaux, y compris aux opérations préparatoires à ce scrutin (date in
 I.-Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par arrêté
 des ministres compétents, après avis d'instances consultatives associant les organisations représentatives d'employeurs et de
 salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L.
-641-5 du présent code et L. 811-2 et L. 813-2 du code rural. 
+641-5 du présent code et L. 811-2 et L. 813-2 du code rural et de la pêche maritime. 
 
 II.-II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité
 professionnelle y sont classés par domaine d'activité et par niveau. 
@@ -10739,7 +10705,7 @@ ainsi que la composition et les attributions de la commission.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 22 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -10747,7 +10713,8 @@ ainsi que la composition et les attributions de la commission.
 	  - Code de l'éducation - art. L335-14
 	  - Code de l'éducation - art. L613-1
 	  - Code de l'éducation - art. L641-4
-	  - Code rural - art. L811-2
+	  - Code rural - art. L811-2 (V)
+	  - Code rural - art. L813-2 (V)
 
 
 ###### Article L335-7
@@ -11319,7 +11286,7 @@ L. 6232-8, L. 6232-9 et L. 6232-10 du code du travail.
 ###### Article L341-1
 
 L'enseignement et la formation professionnelle agricoles sont organisés conformément aux dispositions des articles L. 811-1,
-L. 811-2, L. 813-1 et L. 813-2 du code rural, ci-après reproduites : 
+L. 811-2, L. 813-1 et L. 813-2 du code rural et de la pêche maritime, ci-après reproduites : 
 
 " Art.L. 811-1.-L'enseignement et la formation professionnelle agricoles publics ont pour objet d'assurer, en les associant,
 une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de
@@ -11362,7 +11329,7 @@ programmes et référentiels nationaux, qui en précisent respectivement le cont
 par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre chargé de l'éducation
 nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles. 
 
-Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
+Sous réserve des dispositions des articles  L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
 6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général,
 technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées par des diplômes d'Etat ou
 des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général, technologique et
@@ -11450,7 +11417,7 @@ du même code.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2009-1534 du 10 décembre 2009 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -11462,13 +11429,6 @@ du même code.
 	  - Code du travail - art. L980-1 (T)
 	  - Code rural L811-1, L811-2, L813-1, L813-2
 
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code rural - art. L811-1 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L811-2 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L813-1 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L813-2 (V)
-
 
 #### Titre V : Les enseignements pour les enfants et adolescents handicapés
 
@@ -11477,19 +11437,21 @@ du même code.
 ###### Article L351-1
 
 Les enfants et adolescents présentant un handicap ou un trouble de santé invalidant sont scolarisés dans les écoles
-maternelles et élémentaires et les établissements visés aux articles L. 213-2, L. 214-6, L. 422-1, L. 422-2 et L. 442-1 du
-présent code et aux articles L. 811-8 et L. 813-1 du code rural, si nécessaire au sein de dispositifs adaptés, lorsque ce
-mode de scolarisation répond aux besoins des élèves. Les parents sont étroitement associés à la décision d'orientation et
-peuvent se faire aider par une personne de leur choix. La décision est prise par la commission mentionnée à l'article L.
-146-9 du code de l'action sociale et des familles, en accord avec les parents ou le représentant légal. A défaut, les
-procédures de conciliation et de recours prévues aux articles L. 146-10 et L. 241-9 du même code s'appliquent. Dans tous les
-cas et lorsque leurs besoins le justifient, les élèves bénéficient des aides et accompagnements complémentaires nécessaires.
+maternelles et élémentaires et les établissements visés aux articles L. 213-2, 
+L. 214-6, 
+L. 422-1, L. 422-2 et L. 442-1 du présent code et aux articles L. 811-8 et L. 813-1 du code rural et de la pêche maritime, si
+nécessaire au sein de dispositifs adaptés, lorsque ce mode de scolarisation répond aux besoins des élèves. Les parents sont
+étroitement associés à la décision d'orientation et peuvent se faire aider par une personne de leur choix. La décision est
+prise par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles, en accord avec les
+parents ou le représentant légal. A défaut, les procédures de conciliation et de recours prévues aux articles L. 146-10 et L.
+241-9 du même code s'appliquent. Dans tous les cas et lorsque leurs besoins le justifient, les élèves bénéficient des aides
+et accompagnements complémentaires nécessaires. 
 
 L'enseignement est également assuré par des personnels qualifiés relevant du ministère chargé de l'éducation lorsque la
 situation de l'enfant ou de l'adolescent présentant un handicap ou un trouble de la santé invalidant nécessite un séjour dans
 un établissement de santé ou un établissement médico-social. Ces personnels sont soit des enseignants publics mis à la
 disposition de ces établissements dans des conditions prévues par décret, soit des maîtres de l'enseignement privé dans le
-cadre d'un contrat passé entre l'établissement et l'Etat dans les conditions prévues par le titre IV du livre IV.
+cadre d'un contrat passé entre l'établissement et l'Etat dans les conditions prévues par le titre IV du livre IV. 
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles les enseignants exerçant dans des établissements publics
 relevant du ministère chargé des personnes handicapées ou titulaires de diplômes délivrés par ce dernier assurent également
@@ -11497,9 +11459,21 @@ cet enseignement.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Code rural L811-8, L813-1
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
+	  - Code de l'éducation - art. L422-1 (V)
+	  - Code de l'éducation - art. L442-1 (V)
+	  - Code rural - art. L811-8 (V)
+	  - Code rural - art. L813-1 (V)
+	  - Code de l'action sociale et des familles - art. L146-10 (V)
+	  - Code de l'action sociale et des familles - art. L146-9 (V)
+	  - Code de l'action sociale et des familles - art. L241-9 (V)
+
 	**Anciens textes**:
 
-	  - Loi n°75-534 1975-06-30 art. 5
 	  - Loi n°75-534 du 30 juin 1975 - art. 5 (Ab)
 
 	**Cité par**:
@@ -11533,27 +11507,9 @@ cet enseignement.
 	  - Code de la sécurité sociale. - art. L321-1 (V)
 	  - Code de la sécurité sociale. - art. L541-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-102 2005-02-11 art. 21 I, II JORF 12 février 2005
-	  - Loi n°2005-102 du 11 février 2005 - art. 21 () JORF 12 février 2005
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L213-2 (M)
-	  - Code de l'éducation - art. L214-6 (M)
-	  - Code de l'éducation - art. L422-1 (M)
-	  - Code de l'éducation - art. L422-2 (M)
-	  - Code de l'éducation - art. L442-1 (V)
-	  - Code de l'action sociale et des familles - art. L146-10 (V)
-	  - Code de l'action sociale et des familles - art. L146-9 (V)
-	  - Code de l'action sociale et des familles - art. L241-9 (V)
-	  - Code rural L811-8, L813-1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article L351-2
@@ -13423,7 +13379,7 @@ droits des marins et de leurs familles à l'assurance de la caisse générale de
 ###### Article L421-22
 
 Les établissements d'enseignement et de formation professionnelle agricoles publics sont organisés conformément aux
-dispositions des articles L. 811-8 à L. 811-11 du code rural, ci-après reproduites : 
+dispositions des articles L. 811-8 à L. 811-11 du code rural et de la pêche maritime, ci-après reproduites : 
 
 " Art.L. 811-8.-Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit un
 lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole et regroupe plusieurs centres : 
@@ -13531,7 +13487,6 @@ du même code.
 
 	**Cite**:
 
-	  - Code rural L811-8 à L811-11
 	  - Loi n°99-574 1999-07-09
 	  - Loi n°2005-380 2005-04-23
 	  - Code général des collectivités territoriales L1321-1 à L1321-8
@@ -13547,25 +13502,11 @@ du même code.
 	  - Code de l'éducation - art. L811-1 (V)
 	  - Code de l'éducation - art. L811-2 (M)
 	  - Code de l'éducation L312-6, L312-7, L811-1, L214-1, L214-13, L811-2, L814-2, L421-5, L811-8, L421-1, L421-3, L211-4, L401-1
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Code rural L811-8 à L811-11
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 208 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 209 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 214 () JORF 24 février 2005
-	  - Loi n°2005-157 du 23 février 2005 - art. 70 () JORF 24 février 2005
-
-	**Liens**:
-
-	  - PILOTE_SUIVEUR: Code rural - art. L811-10 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L811-11 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L811-8 (V)
-	  - PILOTE_SUIVEUR: Code rural - art. L811-9 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ##### Section 6 : Dispositions diverses.
@@ -13638,24 +13579,23 @@ d'exercice de leurs compétences respectives.
 
 La dénomination ou le changement de dénomination des établissements publics locaux d'enseignement est de la compétence de la
 collectivité territoriale de rattachement. Dans le cas des lycées, établissements d'éducation spéciale, lycées professionnels
-maritimes, établissements d'enseignement agricole visés par l'article L. 811-8 du code rural et collèges, la collectivité
-recueille l'avis du maire de la commune d'implantation et du conseil d'administration de l'établissement.
+maritimes, établissements d'enseignement agricole visés par l'article L. 811-8 du code rural et de la pêche maritime et
+collèges, la collectivité recueille l'avis du maire de la commune d'implantation et du conseil d'administration de
+l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L811-8
-
 	**Anciens textes**:
 
-	  - Loi n°86-972 du 19 août 1986 - art. 15, v. init.
 	  - Loi n°86-972 du 19 août 1986 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code rural - art. L811-8 (V)
 
 
 ###### Article L421-25
@@ -15341,7 +15281,8 @@ L. 442-12, L. 442-15, L. 914-1 et L. 914-2.
 ###### Article L442-19
 
 Les dispositions des articles L. 442-8 à L. 442-11 et L. 442-13 ne sont pas applicables aux établissements d'enseignement
-agricole privés, qui sont régis par les dispositions du chapitre III du titre Ier du livre VIII du code rural.
+agricole privés, qui sont régis par les dispositions du chapitre III du titre Ier du livre VIII du code rural et de la pêche
+maritime.
 
 **Liens relatifs à cet article**
 
@@ -15349,15 +15290,14 @@ agricole privés, qui sont régis par les dispositions du chapitre III du titre 
 
 	  - Loi n°83-663 du 22 juillet 1983 - art. 27-9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L442-13 (V)
-	  - Code de l'éducation L442-8 à L442-11, L442-13
+	  - Code de l'éducation - art. L442-8 (V)
 
 
 ###### Article L442-20
@@ -15430,7 +15370,7 @@ dans le respect des dispositions du présent chapitre.
 ###### Article L442-21
 
 Les rapports entre l'Etat et les établissements d'enseignement agricole privés sont régis par les dispositions des articles
-L. 813-3 à L. 813-7 du code rural, ci-après reproduites : 
+L. 813-3 à L. 813-7 du code rural et de la pêche maritime, ci-après reproduites : 
 
 " Art.L. 813-3.-L'association ou l'organisme responsable d'un établissement d'enseignement agricole privé doit, lorsqu'il
 désire que cet établissement participe au service public et bénéficie à ce titre d'une aide financière de l'Etat, demander à
@@ -15478,10 +15418,9 @@ l'agriculture. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -17235,15 +17174,15 @@ des crédits ouverts par la loi de finances ne peut être attribuée.
 
 ###### Article L531-4
 
-Des bourses nationales bénéficient, en fonction des ressources de leur famille, aux élèves inscrits :
+Des bourses nationales bénéficient, en fonction des ressources de leur famille, aux élèves inscrits : 
 
 1° Dans les classes du second degré des lycées publics, des lycées privés ayant passé avec l'Etat l'un des contrats prévus
-aux articles L. 442-5 et L. 442-12 ou des lycées privés habilités à recevoir des boursiers nationaux ;
+aux articles L. 442-5 et L. 442-12 ou des lycées privés habilités à recevoir des boursiers nationaux ; 
 
 2° Dans un établissement régional d'enseignement adapté, sous réserve que soient déduites les aides accordées au titre des
-exonérations éventuelles de frais de pension et de demi-pension ;
+exonérations éventuelles de frais de pension et de demi-pension ; 
 
-3° Dans les établissements d'enseignement visés au livre VIII du code rural.
+3° Dans les établissements d'enseignement visés au livre VIII du code rural et de la pêche maritime. 
 
 Les modalités d'octroi des bourses et les conditions à remplir par les établissements qui reçoivent les boursiers nationaux
 sont déterminées par décret.
@@ -17252,14 +17191,11 @@ sont déterminées par décret.
 
 	**Anciens textes**:
 
-	  - Loi n°51-1115 du 21 septembre 1951 - art. 1 (M)
-	  - Loi n°89-486 1989-07-10 art. 10 bis
 	  - Loi n°89-486 du 10 juillet 1989 - art. 10 bis (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -17274,7 +17210,7 @@ sont déterminées par décret.
 	**Cite**:
 
 	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (M)
+	  - Code de l'éducation - art. L442-5 (V)
 
 
 ###### Article L531-5
@@ -17625,19 +17561,18 @@ de doctrine médicale sont pris après avis de l'académie nationale de médecin
 
 Les élèves bénéficient du régime d'assurance des accidents du travail dans les conditions prévues à l'article L. 412-8 du
 code de la sécurité sociale à l'exception de ceux de l'enseignement agricole, qui bénéficient du régime spécifique
-d'assurance obligatoire institué par l'article L. 751-1 du code rural.
+d'assurance obligatoire institué par l'article L. 751-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
+	  - Code rural - art. L751-1 (V)
 	  - Code de la sécurité sociale. - art. L412-8 (M)
-	  - Code rural L751-1
 
 
 ##### Chapitre II : La prévention des mauvais traitements.
@@ -20640,7 +20575,7 @@ faux et à l'usurpation de titres.
 ###### Article L671-1
 
 L'enseignement supérieur agricole et vétérinaire public est organisé conformément aux dispositions de l'article L. 812-1 du
-code rural, ci-après reproduites : 
+code rural et de la pêche maritime, ci-après reproduites : 
 
 " Art.L. 812-1.-L'enseignement supérieur agricole public a pour objet d'assurer la formation d'ingénieurs, de paysagistes, de
 cadres spécialisés, d'enseignants et de chercheurs ainsi que celle des vétérinaires. Il constitue une composante du service
@@ -20688,10 +20623,9 @@ intéressés. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -25857,40 +25791,40 @@ réserve des dérogations fixées par décret en Conseil d'Etat, compte tenu des
 ###### Article L751-1
 
 Les établissements d'enseignement supérieur agricole et vétérinaire publics sont organisés conformément aux dispositions des
-articles L. 812-2 à L. 812-5 du code rural, ci-après reproduites : 
+articles L. 812-2 à L. 812-5 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 812-2.-Les établissements d'enseignement supérieur agricole et vétérinaire, installés sur un domaine appartenant à
+" Art.L. 812-2. - Les établissements d'enseignement supérieur agricole et vétérinaire, installés sur un domaine appartenant à
 l'Etat ou mis à la disposition de l'Etat, jouissent de la personnalité civile et de l'autonomie financière et constituent des
 établissements publics nationaux sans préjudice de l'application à ces établissements des dispositions générales applicables
 à l'enseignement supérieur. " 
 
-" Art.L. 812-3.-Les établissements d'enseignement supérieur agricole publics sont créés par décret et dirigés par un
-directeur. 
+" Art.L. 812-3. - Les établissements d'enseignement supérieur agricole publics sont créés par décret et dirigés par un
+directeur.
 
 Lorsque ces établissements n'ont pas l'une des formes précisées par le code de l'éducation, ils respectent les dispositions
-suivantes. 
+suivantes.
 
 Ils sont administrés par un conseil d'administration où siègent des représentants de l'Etat, des collectivités territoriales,
 des enseignants-chercheurs et des autres enseignants, des étudiants et élèves, des personnels administratifs, techniques,
 ouvriers et de service et des professions et activités éducatives, économiques et de recherche présentant un lien avec les
-missions de l'établissement. 
+missions de l'établissement.
 
 Au sein de la représentation des enseignants-chercheurs et des autres enseignants qui constitue au moins 20 % du total des
 sièges du conseil d'administration, le nombre des professeurs et personnels de niveau équivalent doit être égal à celui des
-autres personnels. 
+autres personnels.
 
 Le conseil d'administration élit son président en son sein, parmi les personnes extérieures à l'établissement et n'assurant
-pas la représentation de l'Etat. 
+pas la représentation de l'Etat.
 
-Le conseil d'administration détermine les statuts et structures internes de l'établissement. 
+Le conseil d'administration détermine les statuts et structures internes de l'établissement.
 
 Sans préjudice des dispositions relatives au régime financier et comptable des établissements d'enseignement et de formation
 professionnelle agricoles, les délibérations du conseil d'administration sont exécutoires au plus tard dans le délai d'un
 mois suivant soit leur transmission au ministre de l'agriculture, soit leur transmission conjointe au ministre de
 l'agriculture et au ministre chargé de l'enseignement supérieur, sauf opposition notifiée par l'un ou l'autre de ces
-ministres. 
+ministres.
 
-Chaque établissement élabore et arrête un projet d'établissement. 
+Chaque établissement élabore et arrête un projet d'établissement.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. " 
 
@@ -25919,15 +25853,15 @@ Les modalités d'application du présent article sont déterminées par décret 
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Cité par**:
 
 	  - Arrêté du 24 décembre 2007 - art. 1 (V)
 	  - Code des juridictions financières - art. R111-1 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2009-1534 du 10 décembre 2009 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -25940,10 +25874,10 @@ Les modalités d'application du présent article sont déterminées par décret 
 ###### Article L751-2
 
 Les rapports entre l'Etat et les établissements d'enseignement supérieur privés relevant du ministre de l'agriculture sont
-régis par les dispositions de l'article L. 813-3 du code rural reproduites à l'article L. 442-21 du présent code et par les
-dispositions de l'article L. 813-10 du code rural, ci-après reproduites : 
+régis par les dispositions de l'article L. 813-3 du code rural et de la pêche maritime reproduites à l'article L. 442-21 du
+présent code et par les dispositions de l'article L. 813-10 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 813-10.-1° Peuvent, si leur organisme de gestion a souscrit avec l'Etat un contrat portant sur l'exécution des
+" Art. L. 813-10.-1° Peuvent, si leur organisme de gestion a souscrit avec l'Etat un contrat portant sur l'exécution des
 missions définies au présent paragraphe, concourir au service public dans le cadre des livres Ier, VI, VII et VIII du code de
 l'éducation et recevoir une aide de l'Etat les établissements d'enseignement supérieur privés relevant du ministre de
 l'agriculture qui : 
@@ -25966,14 +25900,15 @@ définies à l'article L. 812-1. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L442-21 (V)
+	  - Code rural et de la pêche maritime - art. L813-10 (M)
+	  - Code rural et de la pêche maritime - art. L813-3 (V)
 
 	**Liens**:
 
@@ -27831,19 +27766,18 @@ sociale. "
 
 Les étudiants bénéficient du régime d'assurance des accidents du travail dans les conditions prévues à l'article L. 412-8 du
 code de la sécurité sociale à l'exception de ceux de l'enseignement agricole, qui bénéficient du régime spécifique
-d'assurance obligatoire institué par l'article L. 751-1 du code rural.
+d'assurance obligatoire institué par l'article L. 751-1 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
+	  - Code rural et de la pêche maritime - art. L751-1 (M)
 	  - Code de la sécurité sociale. - art. L412-8 (M)
-	  - Code rural L751-1
 
 
 #### Titre IV : Les activités périuniversitaires, sportives et culturelles
@@ -28236,7 +28170,8 @@ d'activités éducatives confiées aux titulaires des contrats et les conditions
 peuvent renoncer à l'exécution de ceux-ci. 
 
 Les dispositions du présent article s'appliquent aux formations, établissements et personnels relevant du ministre de
-l'agriculture, dans le respect des principes définis aux chapitres Ier et III du titre Ier du livre VIII du code rural.
+l'agriculture, dans le respect des principes définis aux chapitres Ier et III du titre Ier du livre VIII du code rural et de
+la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -28246,7 +28181,7 @@ l'agriculture, dans le respect des principes définis aux chapitres Ier et III d
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -30972,8 +30907,8 @@ conseil d'administration.
 
 ###### Article L961-1
 
-Les personnels de l'enseignement agricole public relèvent des dispositions de l'article L. 811-4 du code rural, ci-après
-reproduites : 
+Les personnels de l'enseignement agricole public relèvent des dispositions de l'article L. 811-4 du code rural et de la pêche
+maritime, ci-après reproduites : 
 
 " Art.L. 811-4.-Les statuts des personnels des établissements visés à l'article L. 811-8 sont harmonisés, jusqu'à réalisation
 de la parité, avec ceux des corps homologues de l'enseignement général, technologique et professionnel, de telle sorte que
@@ -30983,10 +30918,9 @@ relevant de l'enseignement agricole. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
@@ -30995,11 +30929,11 @@ relevant de l'enseignement agricole. "
 
 ###### Article L961-2
 
-Les personnels de l'enseignement agricole privé relèvent des dispositions de l'article L. 813-7 du code rural, reproduites à
-l'article L. 442-21 du présent code, et des dispositions des articles L. 813-8 et L. 813-9 du code rural, ci-après
-reproduites : 
+Les personnels de l'enseignement agricole privé relèvent des dispositions de l'article L. 813-7 du code rural et de la pêche
+maritime, reproduites à l'article L. 442-21 du présent code, et des dispositions des articles L. 813-8 et L. 813-9 du code
+rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 813-8.-Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa de
+" Art. L. 813-8.-Dans les établissements dont les formations sont dispensées dans les conditions prévues au premier alinéa de
 l'article L. 811-5, l'association ou l'organisme responsable, et lié à l'Etat par contrat, désigne le chef d'établissement
 qui doit détenir les titres et présenter les qualifications comparables à ceux requis dans l'enseignement agricole public.
 Cette désignation est aussitôt notifiée à l'autorité administrative. Le chef d'établissement détient l'autorité au sein de
@@ -31014,14 +30948,14 @@ public, ils ne sont pas, au titre des fonctions pour lesquelles ils sont employ�
 contrat de travail à l'établissement au sein duquel l'enseignement leur est confié. 
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent
-sont, pour l'application des articles L. 4611-1 à L. 4611-6, L. 4523-11, L. 4523-14à L. 4523-17, L. 4524-1, R. 4523-4, R.
-4613-9, L. 2141-11, L. 2312-8 et L. 2322-6 du code du travail, pris en compte dans le calcul des effectifs de
-l'établissement, tel que prévu à l'article L. 1111-2 du même code. Ils sont électeurs et éligibles pour les élections des
-délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail et au comité
-d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les rémunérations
-versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que prévu aux
-articles L. 2325-12 et L. 2325-13 du même code, et la détermination du rapport entre la contribution aux institutions
-sociales et le montant global des salaires, mentionné à l'article L. 2323-9 du même code. 
+sont, pour l'application des articles L. 4523-11, L. 4523-14 à L. 4523-17, L. 4524-1, L. 4611-1 à L. 4611-6, R. 4523-4, L.
+2141-11, L. 2312-8 et L. 2322-6 du code du travail, pris en compte dans le calcul des effectifs de l'établissement, tel que
+prévu à l'article L. 1111-2 du même code. Ils sont électeurs et éligibles pour les élections des délégués du personnel et les
+élections au comité d'hygiène, de sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient de ces
+institutions dans les conditions prévues par le code du travail. Les rémunérations versées par l'Etat à ces personnels sont
+prises en compte pour le calcul de la masse salariale brute, tel que prévu aux articles L. 2325-12 et L. 2325-43 du même
+code, et la détermination du rapport entre la contribution aux institutions sociales et le montant global des salaires,
+mentionné à l'article L. 2323-86 du même code. 
 
 Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner priorité aux candidats qualifiés qui auraient
 perdu leur emploi par suite de la suppression totale ou partielle d'une filière dans l'établissement même ou dans un autre
@@ -31029,14 +30963,14 @@ perdu leur emploi par suite de la suppression totale ou partielle d'une filière
 de recrutement par concours et les garanties d'emploi dont les lauréats bénéficient. Une commission, dont la composition est
 fixée par décret, peut être saisie des différends concernant l'application du présent alinéa. 
 
-Le contrat type liant le personnel enseignant et de documentation à l'Etat est approuvé par décret en Conseil d'Etat.
+Le contrat type liant le personnel enseignant et de documentation à l'Etat est approuvé par décret en Conseil d'Etat. 
 
 L'association ou l'organisme intéressé reçoit une subvention de fonctionnement versée par élève et par an qui tient compte
 des conditions de scolarisation et qui est déterminée en fonction du coût moyen des charges de personnel non enseignant et
 des dépenses, autres que celles visées au deuxième alinéa du présent article, des formations correspondantes de
 l'enseignement agricole public. " 
 
-" Art.L. 813-9.-Pour les associations ou organismes, liés à l'Etat par un contrat, qui offrent des formations à temps plein
+" Art. L. 813-9.-Pour les associations ou organismes, liés à l'Etat par un contrat, qui offrent des formations à temps plein
 en conjuguant, selon un rythme approprié, les enseignements théoriques et pratiques dispensés d'une part dans l'établissement
 même et d'autre part dans le milieu agricole et rural, l'aide financière de l'Etat est calculée sur la base : 
 
@@ -31061,12 +30995,26 @@ de licenciement et l'exercice du droit syndical. "
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L813-8 (V)
 	  - PILOTE_SUIVEUR: Code rural - art. L813-9 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2141-11 (V)
+	  - Code du travail - art. L2312-8 (V)
+	  - Code du travail - art. L2322-6 (V)
+	  - Code du travail - art. L2323-86 (V)
+	  - Code du travail - art. L2325-12 (V)
+	  - Code du travail - art. L2325-43 (V)
+	  - Code du travail - art. L4523-11 (V)
+	  - Code du travail - art. L4523-14 (V)
+	  - Code du travail - art. L4524-1 (VT)
+	  - Code du travail - art. L4611-1 (V)
+	  - Code du travail - art. R4523-4 (V)
 
 
 ##### Chapitre II : Les personnels enseignants de l'architecture.
@@ -35192,54 +35140,47 @@ Les dépenses pédagogiques mentionnées aux articles L. 211-8, L. 213-2 et L. 2
 investissements, les dépenses relatives au premier équipement en matériel des établissements scolaires réalisées dans le
 cadre d'un programme d'intérêt national et correspondant à l'introduction de nouvelles technologies ou à la fourniture de
 matériels spécialisés indispensables à la rénovation des enseignements. Ces dépenses concernent l'acquisition des matériels
-suivants :
+suivants : 
 
-1° Pour les collèges, les lycées et les établissements d'éducation spéciale :
+1° Pour les collèges, les lycées et les établissements d'éducation spéciale : 
 
 a) Matériels informatiques, ainsi que leurs logiciels d'accompagnement, systèmes de développement, matériels périphériques,
-notamment audiovisuels ;
+notamment audiovisuels ; 
 
-b) Matériels de bureautique et de productique ;
+b) Matériels de bureautique et de productique ; 
 
-c) Equipements spécialisés en électronique du domaine de cette filière ;
+c) Equipements spécialisés en électronique du domaine de cette filière ; 
 
-d) Equipements technologiques de communication télématique ou audiovisuelle ;
+d) Equipements technologiques de communication télématique ou audiovisuelle ; 
 
-e) Equipement des ateliers pour l'enseignement de la technologie dans les collèges ;
+e) Equipement des ateliers pour l'enseignement de la technologie dans les collèges ; 
 
-f) Equipements spécialisés dans les technologies de pointe.
+f) Equipements spécialisés dans les technologies de pointe. 
 
-2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural :
+2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime : 
 
-a) Technologies nouvelles : informatique pédagogique ; matériel audiovisuel ;
+a) Technologies nouvelles : informatique pédagogique ; matériel audiovisuel ; 
 
-b) Equipements expérimentaux dans les exploitations et les ateliers technologiques.
+b) Equipements expérimentaux dans les exploitations et les ateliers technologiques. 
 
-3° Pour les lycées professionnels maritimes :
+3° Pour les lycées professionnels maritimes : 
 
 a) Matériels informatiques destinés à l'assistance, à l'enseignement ainsi que leurs logiciels d'accompagnement, systèmes de
-développement et matériels périphériques, notamment audiovisuels ;
+développement et matériels périphériques, notamment audiovisuels ; 
 
-b) Equipements et simulation destinés à la formation ;
+b) Equipements et simulation destinés à la formation ; 
 
 c) Equipements spécialisés dans les technologies de pointe.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L811-8
-	  - Code de l'éducation - art. L211-8 (M)
-	  - Code de l'éducation - art. L213-2 (M)
-	  - Code de l'éducation - art. L214-6 (M)
-
 	**Anciens textes**:
 
 	  - Décret n°85-269 du 25 février 1985 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -35247,36 +35188,43 @@ c) Equipements spécialisés dans les technologies de pointe.
 	  - Code de l'éducation - art. D211-16 (V)
 	  - Code de l'éducation - art. D216-2 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
+	  - Code rural et de la pêche maritime - art. L811-8 (M)
+
 
 ###### Article D211-15
 
 Les dépenses pédagogiques mentionnées aux articles L. 211-8, L. 213-2 et L. 214-6, restant à la charge de l'Etat, sont, en
-fonctionnement, les dépenses afférentes :
+fonctionnement, les dépenses afférentes : 
 
-1° Pour les collèges, les lycées, les établissements d'éducation spéciale et les lycées professionnels maritimes :
+1° Pour les collèges, les lycées, les établissements d'éducation spéciale et les lycées professionnels maritimes : 
 
 a) A la fourniture des manuels scolaires dans les collèges et les établissements d'éducation spéciale et des documents
 pédagogiques à usage collectif dans les lycées professionnels ainsi que pour les formations initiales des lycées
-professionnels maritimes, au titre de l'aide apportée aux familles ;
+professionnels maritimes, au titre de l'aide apportée aux familles ; 
 
-b) Aux projets d'action éducative ;
+b) Aux projets d'action éducative ; 
 
-c) A la recherche et à l'expérimentation pédagogiques ;
+c) A la recherche et à l'expérimentation pédagogiques ; 
 
 d) A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
 
-2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural :
+2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime : 
 
-a) A l'affectation de véhicules de transports en commun ;
+a) A l'affectation de véhicules de transports en commun ; 
 
 b) A la fourniture des manuels scolaires et de documentations pédagogiques à usage collectif au titre de l'aide apportée aux
-familles ;
+familles ; 
 
-c) A la fourniture de logiciels et de productions audiovisuelles destinés à la pédagogie ;
+c) A la fourniture de logiciels et de productions audiovisuelles destinés à la pédagogie ; 
 
-d) Aux projets d'établissement ou d'actions d'animation relevant d'un programme national ;
+d) Aux projets d'établissement ou d'actions d'animation relevant d'un programme national ; 
 
-e) A la recherche et à l'expérimentation pédagogiques ;
+e) A la recherche et à l'expérimentation pédagogiques ; 
 
 f) A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
 
@@ -35286,21 +35234,17 @@ f) A la maintenance des matériels acquis par l'Etat en application de l'article
 
 	  - Décret n°85-269 du 25 février 1985 - art. 2 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 17 juillet 2004 rectificatif JORF 24 juillet 2004
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D211-14 (V)
-	  - Code de l'éducation - art. L211-8 (M)
-	  - Code de l'éducation - art. L213-2 (M)
-	  - Code de l'éducation - art. L214-6 (M)
-	  - Code rural L811-8
+	  - Code de l'éducation - art. L211-8 (V)
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
+	  - Code rural et de la pêche maritime - art. L811-8 (M)
 
 
 ###### Article D211-16
@@ -36587,8 +36531,9 @@ les conditions de financement des services de transports scolaires concernés.
 
 Les frais de déplacement exposés par les élèves handicapés qui fréquentent un établissement d'enseignement général, agricole
 ou professionnel, public ou privé placé sous contrat, en application des articles L. 442-5 et L. 442-12 du présent code, ou
-reconnu aux termes du livre VIII du code rural, et qui ne peuvent utiliser les moyens de transport en commun en raison de la
-gravité de leur handicap, médicalement établie, sont pris en charge par le département du domicile des intéressés.
+reconnu aux termes du livre VIII du code rural et de la pêche maritime, et qui ne peuvent utiliser les moyens de transport en
+commun en raison de la gravité de leur handicap, médicalement établie, sont pris en charge par le département du domicile des
+intéressés.
 
 **Liens relatifs à cet article**
 
@@ -36596,14 +36541,26 @@ gravité de leur handicap, médicalement établie, sont pris en charge par le d�
 
 	  - Décret n°84-478 du 19 juin 1984 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (M)
+	  - Code de l'éducation - art. L442-12
+	  - Code de l'éducation - art. L442-5
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R213-14 (VT)
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. R3111-24 (V)
 
 
 ###### Article R213-14
@@ -36841,46 +36798,38 @@ par le décret n° 59-157 du 7 janvier 1959 modifié relatif à l'organisation d
 Dans la région d'Ile-de-France, les frais de déplacement exposés par les élèves handicapés ayant leur domicile dans la région
 et fréquentant un des établissements d'enseignement général, agricole ou professionnel, publics et privés sous contrat conclu
 en application des articles L. 442-5 et L. 442-12 du présent code, ou reconnus selon les dispositions des articles R. 813-1 à
-R. 813-35 du code rural et qui ne peuvent utiliser les moyens de transport en commun compte tenu de la gravité de leur
-handicap, médicalement établie, pour se rendre audit établissement et en revenir, sont remboursés par le Syndicat des
-transports d'Ile-de-France.
-
-**Nota:**
-
-Décret n° 2005-664 du 10 juin 2005 art. 27 : Les dispositions des articles D. 213-22 à D. 213-28 du code de l'éducation
-antérieurement en vigueur définissant les critères de remboursement et les conditions de versement des frais de transport
-individuel des élèves et étudiants handicapés vers les établissements scolaires ou universitaires rendus nécessaires du fait
-de leur handicap demeurent applicables jusqu'à l'entrée en vigueur de la délibération du syndicat des transports d'Ile-de-
-France fixant les conditions et les tarifs de remboursement et au plus tard dans un délai de six mois à compter de
-l'installation du conseil du syndicat dans sa composition résultant de l'article 1er du présent décret. 
-
-Il s'agit de la délibération n° 2006 / 0442 du 10 mai 2006.
+R. 813-35 du code rural et de la pêche maritime et qui ne peuvent utiliser les moyens de transport en commun compte tenu de
+la gravité de leur handicap, médicalement établie, pour se rendre audit établissement et en revenir, sont remboursés par le
+Syndicat des transports d'Ile-de-France.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°77-864 du 22 juillet 1977 - art. 1, v. init.
 	  - Décret n°77-864 du 22 juillet 1977 - art. 1 (Ab)
 	  - Décret n°84-478 du 19 juin 1984 - art. 5 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
 	**Modifié par**:
 
-	  - Décret n°2005-664 du 10 juin 2005 - art. 25 () JORF 11 juin 2005 en vigueur  le 10 mai 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-1550 du 17 novembre 2016 - art. 4
 
 	**Cité par**:
 
-	  - Code de l'éducation - art. D213-23 (M)
+	  - Code de l'éducation - art. D213-23 (VT)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (M)
-	  - Code rural R813-1 à R813-35
+	  - Code de l'éducation - art. L442-12
+	  - Code de l'éducation - art. L442-5
+	  - Code rural - art. R*813-1
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. D3111-33 (V)
 
 
 ###### Article D213-23
@@ -37428,8 +37377,8 @@ adultes, à ces opérations d'équipement en Corse sont intégrés dans la dotat
 
 La contribution que le département ou la région verse chaque année à la collectivité territoriale propriétaire d'un collège,
 d'un lycée, d'un établissement d'éducation spéciale, d'un établissement d'enseignement agricole mentionné à l'article L.
-811-8 du code rural ou au groupement de communes compétent en application du quatrième alinéa de l'article L. 216-5 du
-présent code est calculée dans les conditions suivantes :
+811-8 du code rural et de la pêche maritime ou au groupement de communes compétent en application du quatrième alinéa de
+l'article L. 216-5 du présent code est calculée dans les conditions suivantes : 
 
 1° La première année, cette contribution est au moins égale au montant total des dépenses supportées par le département ou la
 région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence pondéré, pour au moins un tiers,
@@ -37437,7 +37386,7 @@ par la part relative de l'établissement dans le montant total des dépenses sup
 département ou la région, pour au moins un tiers, par la part relative de l'établissement dans le nombre des élèves inscrits
 au 1er octobre de la même année dans l'ensemble des établissements relevant de la compétence du département ou de la région
 et pour le solde, par la part relative de l'établissement telle qu'elle résulte de la mise en oeuvre des critères arrêtés par
-la région ou le département en application de l'article L. 421-11.
+la région ou le département en application de l'article L. 421-11. 
 
 2° Les années ultérieures, cette contribution est au moins égale au montant total des dépenses supportées par le département
 ou la région au titre du fonctionnement de l'ensemble des établissements relevant de sa compétence, pondéré, pour au moins un
@@ -37447,7 +37396,7 @@ par le département ou la région au titre du fonctionnement de l'ensemble des �
 au moins un tiers, par la part relative de l'établissement dans le nombre des élèves inscrits au 1er octobre de la même année
 dans l'ensemble des établissements relevant désormais de la compétence du département ou de la région et, pour le solde, par
 la part relative de l'établissement telle qu'elle résulte de la mise en oeuvre des critères arrêtés par la région ou le
-département en application du g de l'article L. 421-11.
+département en application du g de l'article L. 421-11. 
 
 Pour l'application du présent article et dans les limites fixées par celui-ci, le conseil général ou le conseil régional fixe
 l'importance relative de chacune des trois parts mentionnées ci-dessus.
@@ -37458,15 +37407,15 @@ l'importance relative de chacune des trois parts mentionnées ci-dessus.
 
 	  - Décret n°85-887 du 12 août 1985 - art. 1 (Ab)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2008-263 du 14 mars 2008 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L216-5
-	  - Code de l'éducation - art. L421-11
-	  - Code rural L811-8
+	  - Code de l'éducation - art. L216-5 (V)
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code rural - art. L811-8 (V)
 
 
 ###### Article D216-2
@@ -37521,18 +37470,19 @@ sont fixées par la section 1 du chapitre Ier du titre VI du livre IV.
 
 Dans les établissements publics locaux d'enseignement relevant de leur compétence en application des articles L. 211-8, L.
 213-2, L. 214-6, L. 216-5 et L. 216-6 du présent code et dans les établissements publics locaux d'enseignement et de
-formation professionnelle agricoles relevant de la section 3 du chapitre Ier du titre Ier du livre VIII du code rural, la
-région, le département ou, le cas échéant, la commune ou le groupement de communes attribue les concessions de logement aux
-personnels de l'Etat exerçant certaines fonctions, dans les conditions fixées par la présente section. 
+formation professionnelle agricoles relevant de la section 3 du chapitre Ier du titre Ier du livre VIII du code rural et de
+la pêche maritime , la région, le département ou, le cas échéant, la commune ou le groupement de communes attribue les
+concessions de logement aux personnels de l'Etat exerçant certaines fonctions, dans les conditions fixées par la présente
+section. 
 
 Les concessions de logement sont attribuées par nécessité absolue ou utilité de service, dans les conditions fixées aux
 articles R. 92 à R. 103 du code du domaine de l'Etat et par la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -37559,14 +37509,14 @@ selon l'importance de l'établissement ;
 2° Les personnels de santé, dans les conditions définies à l'article R. 216-7 ; 
 
 3° Dans les établissements publics locaux d'enseignement et de formation professionnelle agricoles mentionnés à l'article L.
-815-1 du code rural, les personnels responsables d'une exploitation agricole et ceux chargés des élevages et des cultures,
-dans les conditions définies à l'article R. 216-8.
+815-1 du code rural et de la pêche maritime , les personnels responsables d'une exploitation agricole et ceux chargés des
+élevages et des cultures, dans les conditions définies à l'article R. 216-8.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -42230,46 +42180,42 @@ l'organisation et au fonctionnement du service public d'enseignement dans l'acad
 
 ###### Article R234-10
 
-Le conseil académique de l'éducation nationale est notamment consulté :
+Le conseil académique de l'éducation nationale est notamment consulté : 
 
 1° Au titre des compétences de l'Etat sur la structure pédagogique générale des lycées, des établissements d'éducation
 spéciale, des lycées professionnels maritimes et des établissements d'enseignement agricole visés à l'article L. 811-8 du
-code rural, la liste annuelle des opérations de construction ou d'extension des collèges, des lycées, des établissements
-d'éducation spéciale, des lycées professionnels maritimes et des établissements d'enseignement agricole visés à l'article L.
-811-8 du code rural, les modalités générales d'attribution des moyens en emplois et des dotations en crédits ou en nature au
-titre des dépenses pédagogiques, les orientations du programme académique de formation continue des adultes. S'agissant de
-l'enseignement supérieur, le conseil est consulté sur les aspects régionaux de la carte des formations supérieures et de la
-recherche prévue à l'article L. 614-3 du code de l'éducation.
+code rural et de la pêche maritime, la liste annuelle des opérations de construction ou d'extension des collèges, des lycées,
+des établissements d'éducation spéciale, des lycées professionnels maritimes et des établissements d'enseignement agricole
+visés à l'article L. 811-8 du code rural et de la pêche maritime, les modalités générales d'attribution des moyens en emplois
+et des dotations en crédits ou en nature au titre des dépenses pédagogiques, les orientations du programme académique de
+formation continue des adultes.S'agissant de l'enseignement supérieur, le conseil est consulté sur les aspects régionaux de
+la carte des formations supérieures et de la recherche prévue à l'article L. 614-3 du code de l'éducation. 
 
 2° Au titre des compétences de la région sur le schéma prévisionnel des formations des collèges, des lycées, des
 établissements d'éducation spéciale, des lycées professionnels maritimes et des établissements d'enseignement agricole visés
-à l'article L. 811-8 du code rural, qui comporte la section relative à l'enseignement agricole prévue à l'article L. 814-4 du
-code rural, le programme prévisionnel des investissements relatifs aux lycées, aux établissements d'éducation spéciale, aux
-lycées professionnels maritimes et aux établissements d'enseignement agricole visés à l'article L. 811-8 du code rural, ainsi
-que sur les modalités générales d'attribution des subventions allouées à ces établissements. Le conseil est également
-consulté sur le plan régional de développement des formations de l'enseignement supérieur, ainsi que sur les aspects
-universitaires des programmes pluriannuels d'intérêt régional en matière de recherche.
+à l'article L. 811-8 du code rural et de la pêche maritime, qui comporte la section relative à l'enseignement agricole prévue
+à l'article L. 814-4 du code rural et de la pêche maritime, le programme prévisionnel des investissements relatifs aux
+lycées, aux établissements d'éducation spéciale, aux lycées professionnels maritimes et aux établissements d'enseignement
+agricole visés à l'article L. 811-8 du code rural et de la pêche maritime, ainsi que sur les modalités générales
+d'attribution des subventions allouées à ces établissements. Le conseil est également consulté sur le plan régional de
+développement des formations de l'enseignement supérieur, ainsi que sur les aspects universitaires des programmes
+pluriannuels d'intérêt régional en matière de recherche.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L811-8, L814-4
-	  - Code de l'éducation - art. L614-3 (V)
-
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 13, alinéas 2 à 4
-	  - Décret n°85-895 du 21 août 1985 - art. 13 (M)
 	  - Décret n°85-895 du 21 août 1985 - art. 13 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 17 juillet 2004 rectificatif JORF 24 juillet 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code de l'éducation - art. L614-3 (V)
+	  - Code rural - art. L811-8 (V)
+	  - Code rural - art. L814-4 (V)
 
 	**Cité par**:
 
@@ -42734,19 +42680,19 @@ voeux qu'il juge utiles.
 
 ###### Article R234-24
 
-Le conseil de l'éducation nationale de Corse est notamment consulté :
+Le conseil de l'éducation nationale de Corse est notamment consulté : 
 
 1° Au titre des compétences de l'Etat sur les modalités générales d'attribution des dotations pour dépenses pédagogiques aux
 collèges, lycées, établissements d'enseignement professionnel, établissements d'éducation spéciale, lycées professionnels
-maritimes et établissements d'enseignement agricole visés à l'article L. 811-8 du code rural, les orientations du programme
-académique de formation continue des adultes ;
+maritimes et établissements d'enseignement agricole visés à l'article L. 811-8 du code rural et de la pêche maritime, les
+orientations du programme académique de formation continue des adultes ; 
 
 2° Au titre des compétences de la collectivité territoriale de Corse sur la carte scolaire des collèges, des lycées, des
 établissements d'enseignement professionnel, des établissements d'éducation spéciale et des centres d'information et
 d'orientation, des lycées professionnels maritimes et des établissements d'enseignement agricole visés à l'article L. 811-8
-du code rural, les modalités générales d'attribution des moyens en emplois et en crédits à ces établissements, la structure
-pédagogique générale des établissements mentionnés ci-dessus, ainsi que sur la détermination des activités éducatives
-complémentaires ;
+du code rural et de la pêche maritime, les modalités générales d'attribution des moyens en emplois et en crédits à ces
+établissements, la structure pédagogique générale des établissements mentionnés ci-dessus, ainsi que sur la détermination des
+activités éducatives complémentaires ; 
 
 3° S'agissant de l'enseignement supérieur, sur la convention prévue par l'article L. 4424-3 du code général des collectivités
 territoriales passée entre la collectivité territoriale, l'Etat et l'université de Corse. Le conseil est informé
@@ -42755,24 +42701,18 @@ universitaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L811-8
-	  - Code général des collectivités territoriales - art. L4424-3 (T)
-
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 21, alinéas 2 à 5
-	  - Décret n°85-895 du 21 août 1985 - art. 21 (M)
 	  - Décret n°85-895 du 21 août 1985 - art. 21 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 17 juillet 2004 rectificatif JORF 24 juillet 2004
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code général des collectivités territoriales - art. L4424-3 (T)
+	  - Code rural - art. L811-8 (V)
 
 
 ##### Sous-section 3 : Conseils de l'éducation nationale dans les académies d'outre-mer.
@@ -44654,7 +44594,7 @@ l'éducation, du ministre chargé de la fonction publique et du ministre chargé
 ###### Article R238-1
 
 Les règles relatives à la composition et au fonctionnement du Conseil national de l'enseignement agricole sont fixées par les
-dispositions des articles R. 814-1 à R. 814-9 du code rural.
+dispositions des articles R. 814-1 à R. 814-9 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -44662,13 +44602,13 @@ dispositions des articles R. 814-1 à R. 814-9 du code rural.
 
 	  - Arrêté du 31 juillet 2003 - art. Annexe (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural R814-1 à R814-9
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code rural - art. R814-1 (V)
 
 
 ##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agroalimentaire et vétérinaire.
@@ -44677,17 +44617,17 @@ dispositions des articles R. 814-1 à R. 814-9 du code rural.
 
 Les règles relatives aux attributions, à la composition et au fonctionnement du Conseil national de l'enseignement supérieur
 et de la recherche agricole, agroalimentaire et vétérinaire sont fixées par les dispositions des articles R. 814-10 à R.
-814-30 du code rural.
+814-30 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural R814-10 à R814-30
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code rural - art. R814-10 (V)
 
 
 ##### Section 3 : Les comités régionaux de l'enseignement agricole.
@@ -44695,17 +44635,17 @@ et de la recherche agricole, agroalimentaire et vétérinaire sont fixées par l
 ###### Article R238-3
 
 Les règles relatives à la composition et au fonctionnement des comités régionaux de l'enseignement agricole sont fixées par
-les dispositions des articles R. 814-33 à R. 814-40 du code rural.
+les dispositions des articles R. 814-33 à R. 814-40 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural R814-33 à R814-40
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code rural - art. R814-33 (V)
 
 
 ##### Section 4 : Les conseils de l'enseignement vétérinaire.
@@ -44713,17 +44653,17 @@ les dispositions des articles R. 814-33 à R. 814-40 du code rural.
 ###### Article R238-4
 
 Les règles relatives aux attributions, à la composition et au fonctionnement des conseils de l'enseignement vétérinaire sont
-fixées par les dispositions des articles R. 814-31 et R. 814-32 du code rural.
+fixées par les dispositions des articles R. 814-31 et R. 814-32 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural R814-31, R814-32
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Code rural - art. R814-31 (V)
 
 
 ##### Section 5 : Le comité de coordination.
@@ -45537,7 +45477,7 @@ des établissements d'enseignement est renouvelé pour une durée de cinq ans à
 
 L'Observatoire national de la sécurité et de l'accessibilité des établissements d'enseignement est compétent pour les
 établissements scolaires du premier et du second degré, publics et privés sous contrat, ainsi que pour les établissements
-publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code rural.
+publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -45548,7 +45488,7 @@ publics d'enseignement supérieur et ceux visés à l'article L. 813-10 du code 
 
 	**Modifié par**:
 
-	  - Décret n°2007-1722 du 6 décembre 2007 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -65314,17 +65254,18 @@ par arrêté du ministre chargé de l'éducation.
 
 ###### Article D337-55
 
-Le baccalauréat professionnel est préparé : 
+Le baccalauréat professionnel est préparé :
 
 1° Soit par la voie scolaire dans les lycées, essentiellement les lycées professionnels, les lycées professionnels agricoles,
-ou les établissements publics mentionnés à l'article L. 811-1 du code rural, ou dans les écoles ou établissements
-d'enseignement technique privés mentionnés au chapitre III du titre IV du Livre IV du code de l'éducation et par l'article L.
-813-1 du code rural, ou dans les établissements scolaires maritimes mentionnés à l'article R. 342-2 ainsi que dans les
-établissements relevant des départements ministériels dont la liste est fixée par arrêté du ministre chargé de l'éducation ; 
+ou les établissements publics mentionnés à l'article L. 811-1 du code rural et de la pêche maritime, ou dans les écoles ou
+établissements d'enseignement technique privés mentionnés au chapitre III du titre IV du Livre IV du code de l'éducation et
+par l'article L. 813-1 du code rural et de la pêche maritime, ou dans les établissements scolaires maritimes mentionnés à
+l'article R. 342-2 ainsi que dans les établissements relevant des départements ministériels dont la liste est fixée par
+arrêté du ministre chargé de l'éducation ;
 
-2° Soit par la voie de l'apprentissage définie au livre II de la sixième partie du code du travail ; 
+2° Soit par la voie de l'apprentissage définie au livre II de la sixième partie du code du travail ;
 
-3° Soit par la voie de la formation professionnelle continue définie au livre III de la sixième partie du code du travail. 
+3° Soit par la voie de la formation professionnelle continue définie au livre III de la sixième partie du code du travail.
 
 Le baccalauréat professionnel peut également être préparé dans des établissements d'enseignement à distance, dans des
 conditions fixées par arrêté du ministre chargé de l'éducation, par arrêté du ministre chargé de l'agriculture pour les
@@ -65339,7 +65280,7 @@ chargé de la mer pour les spécialités de baccalauréat professionnel mentionn
 
 	**Modifié par**:
 
-	  - Décret n°2009-145 du 10 février 2009 - art. 3
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -65358,22 +65299,23 @@ chargé de la mer pour les spécialités de baccalauréat professionnel mentionn
 L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant au baccalauréat professionnel
 s'effectuent, pour les candidats inscrits dans un établissement public local d'enseignement, dans les conditions fixées par
 les articles D. 331-23 et suivants et, pour les candidats inscrits dans un établissement privé sous contrat, dans les
-conditions fixées par les articles D. 331-46 et suivants.L'organisation et la durée de ce cycle sont définies à l'article D.
-333-2.
+conditions fixées par les articles D. 331-46 et suivants. L'organisation et la durée de ce cycle sont définies à l'article D.
+333-2. 
 
 L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant aux spécialités de baccalauréat
 professionnel mentionnées au deuxième alinéa de l'article D. 337-53 s'effectuent dans les conditions fixées par les articles
-D. 341-1 et suivants.L'organisation et la durée de ce cycle sont définies aux articles D. 810-5 et R. 811-145 du code rural. 
+D. 341-1 et suivants. L'organisation et la durée de ce cycle sont définies aux articles D. 810-5 et R. 811-145 du code rural
+et de la pêche maritime. 
 
 Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans
 le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la
-mer, par le    directeur interrégional de la mer.
+mer, par le directeur interrégional de la mer.
 
 **Nota:**
 
 Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
 effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
-(      les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
+(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
 
 **Liens relatifs à cet article**
 
@@ -65383,7 +65325,7 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 
 	**Modifié par**:
 
-	  - Décret n°2010-130 du 11 février 2010 - art. 6 (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -65400,7 +65342,8 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 	  - Code de l'éducation - art. D333-2
 	  - Code de l'éducation - art. D337-53
 	  - Code de l'éducation - art. D341-1
-	  - Code rural - art. R*811-145
+	  - Code rural - art. D810-5 (V)
+	  - Code rural - art. R811-145 (M)
 
 
 ###### Article D337-57
@@ -65665,9 +65608,9 @@ les établissements d'enseignement et les entreprises, dans des conditions fixé
 337-53. 
 
 La durée de la formation en milieu professionnel peut toutefois être augmentée pour les élèves des établissements dispensant
-des formations selon un rythme approprié, au titre de l'article L. 813-9 du code rural, à condition que la formation en
-centre dure au moins 1 900 heures. Un arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture fixe
-les conditions d'application du présent alinéa. 
+des formations selon un rythme approprié, au titre de l'article L. 813-9 du code rural et de la pêche maritime, à condition
+que la formation en centre dure au moins 1 900 heures. Un arrêté du ministre chargé de l'éducation et du ministre chargé de
+l'agriculture fixe les conditions d'application du présent alinéa.
 
 Les élèves qui préparent le baccalauréat professionnel par la voie scolaire restent sous statut scolaire pendant leur
 formation en milieu professionnel.
@@ -65678,15 +65621,15 @@ formation en milieu professionnel.
 
 	  - Décret n°95-663 du 9 mai 1995 - art. 14 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-145 du 10 février 2009 - art. 8
-
 	**Cité par**:
 
 	  - Décret n°2009-692 du 15 juin 2009 - art. 1 (V)
 	  - Arrêté du 13 avril 2015 - art. 1 (V)
 	  - Code de l'éducation - art. D337-94 (V)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -68855,15 +68798,15 @@ d'éventuelles difficultés liées à sa formation ou à sa vie personnelle.
 ###### Article D337-167
 
 Les stages en milieu professionnel effectués pendant le parcours d'initiation aux métiers sont des stages d'initiation tels
-que définis aux articles D. 331-11 et D. 331-12 du présent code, aux articles R. 715-1 et suivants du code rural, aux
-articles 111 et 114 du code du travail maritime ou par le décret n° 2006-534 du 10 mai 2006 relatif à la protection des
-jeunes âgés de moins de dix-huit ans embarqués sur les navires.
+que définis aux articles D. 331-11 et D. 331-12 du présent code, aux articles R. 715-1 et suivants du code rural et de la
+pêche maritime, aux articles 111 et 114 du code du travail maritime ou par le décret n° 2006-534 du 10 mai 2006 relatif à la
+protection des jeunes âgés de moins de dix-huit ans embarqués sur les navires. 
 
 Durant ces stages, l'apprenti junior est suivi par un tuteur. Le chef de l'entreprise où est effectué le stage peut assurer
 lui-même le tutorat ou désigner un tuteur parmi les salariés de l'entreprise, ayant au moins un an d'ancienneté dans celle-
-ci.
+ci. 
 
-Le nombre maximal d'apprentis juniors suivis par un même tuteur est fixé à deux.
+Le nombre maximal d'apprentis juniors suivis par un même tuteur est fixé à deux. 
 
 Lorsqu'un stage en milieu professionnel tel que défini à l'article L. 331-5 excède une durée de 20 jours de présence dans la
 même entreprise, y compris de manière discontinue, il donne lieu, à l'issue de cette période, au bénéfice de l'apprenti
@@ -68874,20 +68817,20 @@ d'activité, sans préjudice du remboursement éventuel par l'entreprise des fra
 
 	**Cite**:
 
-	  - Décret n°2006-534 2006-05-10
-	  - Code de l'éducation - art. D331-11 (V)
-	  - Code de l'éducation - art. D331-12 (V)
-	  - Code de l'éducation - art. L331-5 (M)
-	  - Code du travail 111, 114
-	  - Code rural R715-1
+	  - Décret n°2006-534 du 10 mai 2006
+	  - Code de l'éducation - art. D331-11
+	  - Code de l'éducation - art. L331-5
+	  - Code rural - art. R*715-1
+	  - Code du travail maritime - art. 111
+	  - Code du travail maritime - art. 114
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
 
 
 ###### Article D337-168
@@ -70578,7 +70521,7 @@ l'orientation.
 
 Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation ainsi
 que les résultats de l'orientation et de l'affectation figurent dans le rapport annuel prévu par l'article R. 811-23 du code
-rural.
+rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
@@ -70588,7 +70531,7 @@ rural.
 
 	**Modifié par**:
 
-	  - Décret n°2009-224 du 24 février 2009 - art. 1
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -71037,8 +70980,8 @@ Les dispositions des articles D. 332-16 à D. 332-22 sont étendues aux candidat
 
 Le diplôme national du brevet est délivré sur la base des notes obtenues à un examen et des résultats acquis en cours de
 formation aux candidats des établissements agricoles publics et privés ayant passé avec l'Etat les contrats prévus aux
-articles L. 813-1 et L. 813-3 du code rural, scolarisés dans des classes de troisième définies par arrêté ou ayant préparé le
-brevet par la voie de la formation continue.
+articles L. 813-1 et L. 813-3 du code rural et de la pêche maritime , scolarisés dans des classes de troisième définies par
+arrêté ou ayant préparé le brevet par la voie de la formation continue. 
 
 Est également prise en compte, pour l'attribution du diplôme national du brevet, une note de vie scolaire qui est la moyenne
 des notes de vie scolaire obtenues chaque trimestre de la classe de troisième.
@@ -71049,25 +70992,17 @@ Les dispositions du décret n° 2006-1031 du 21 août 2006 entrent en vigueur à
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L813-1, L813-3
-
-	**Anciens textes**:
-
-	  - Décret n°87-370 1987-06-04 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
 	**Modifié par**:
 
-	  - Décret n°2006-1031 du 21 août 2006 - art. 1 () JORF 22 août 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D341-43 (VD)
+
+	**Cite**:
+
+	  - Code rural L813-1, L813-3
 
 
 ###### Article D341-43
@@ -71165,13 +71100,14 @@ Les dispositions du décret n° 2006-1031 du 21 août 2006 entrent en vigueur à
 ###### Article R341-40
 
 Les règles relatives aux enseignements et à la formation professionnelle agricoles publics ainsi qu'aux diplômes les
-sanctionnant sont fixées au chapitre Ier du titre Ier du livre VIII de la partie réglementaire du code rural.
+sanctionnant sont fixées au chapitre Ier du titre Ier du livre VIII de la partie réglementaire du code rural et de la pêche
+maritime.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 #### Chapitre II : L'enseignement maritime.
@@ -82323,9 +82259,9 @@ remplacés par les mots : « le préfet ou son représentant ».
 
 Les règles relatives aux établissements publics nationaux d'enseignement et de formation professionnelle agricoles mentionnés
 à l'article D. 211-12 du code de l'éducation sont fixées par les dispositions de la section 4 du chapitre Ier du titre Ier du
-livre VIII de la partie réglementaire du code rural et par le décret n° 99-298 du 16 avril 1999 relatif à l'organisation
-administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à
-l'Etat.
+livre VIII de la partie réglementaire du code rural et de la pêche maritime  et par le décret n° 99-298 du 16 avril 1999
+relatif à l'organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge
+incombent entièrement à l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -82334,13 +82270,9 @@ l'Etat.
 	  - Décret n°99-298 du 16 avril 1999 (V)
 	  - Code de l'éducation - art. D211-12 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -85310,13 +85242,14 @@ code.
 
 ###### Article R431-7
 
-Les règles relatives aux centres de formation d'apprentis agricoles sont fixées par l'article R. 811-46 du code rural.
+Les règles relatives aux centres de formation d'apprentis agricoles sont fixées par l'article R. 811-46 du code rural et de
+la pêche maritime .
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -87842,17 +87775,13 @@ département, qui statue après avis de la commission de concertation compétent
 ###### Article R442-74
 
 Les règles relatives aux établissements d'enseignement agricoles privés sous contrat sont fixées par les dispositions du
-chapitre III du titre Ier du livre VIII de la partie réglementaire du code rural.
+chapitre III du titre Ier du livre VIII de la partie réglementaire du code rural et de la pêche maritime .
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008, v. init.
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -95230,13 +95159,13 @@ l'établissement conformément aux dispositions de l'article R. 425-15.
 ###### Article D511-5
 
 Les règles relatives aux droits et obligations des élèves des établissements publics locaux d'enseignement et de formation
-professionnelle agricoles sont fixées par les articles R. 811-77 à R. 811-83 du code rural.
+professionnelle agricoles sont fixées par les articles R. 811-77 à R. 811-83 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -99121,13 +99050,14 @@ Le montant annuel de la prime à l'internat est fixé par arrêté des ministres
 ###### Article D531-44
 
 Les règles relatives aux décisions d'attribution des bourses nationales mentionnées au 3° de l'article L. 531-4 du présent
-code aux élèves inscrits dans les établissements d'enseignement agricole sont fixées par l'article R. 810-4 du code rural.
+code aux élèves inscrits dans les établissements d'enseignement agricole sont fixées par l'article R. 810-4 du code rural et
+de la pêche maritime .
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -99623,14 +99553,14 @@ articles R. 412-4 et R. 444-7 du même code.
 ###### Article D541-9
 
 Les règles relatives à la protection contre les accidents du travail des élèves des établissements d'enseignement technique
-et de formation professionnelle agricoles mentionnés au 1° du II de l'article L. 751-1 du code rural sont fixées par les
-dispositions des articles D. 751-2 à D. 751-4 du même code.
+et de formation professionnelle agricoles mentionnés au 1° du II de l'article L. 751-1 du code rural et de la pêche maritime
+sont fixées par les dispositions des articles D. 751-2 à D. 751-4 du même code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -104030,10 +103960,10 @@ personnels enseignants et de documentation  des établissements d'enseignement p
 
 ###### Article R914-97
 
-L'assiette de la cotisation est constituée des éléments de rémunération perçus  de l'Etat par les personnels enseignants et
-de documentation mentionnés aux articles L. 914-1 du  code de l'éducation et L. 813-8 du code rural. Les rémunérations
-versées  par l'établissement dans lequel ces personnels exercent leurs fonctions  n'entrent pas dans l'assiette de la
-cotisation.
+L'assiette de la cotisation est constituée des éléments de rémunération perçus de l'Etat par les personnels enseignants et de
+documentation mentionnés aux articles L. 914-1 du code de l'éducation et L. 813-8 du code rural et de la pêche maritime. Les
+rémunérations versées par l'établissement dans lequel ces personnels exercent leurs fonctions n'entrent pas dans l'assiette
+de la cotisation.
 
 **Liens relatifs à cet article**
 
@@ -104042,14 +103972,14 @@ cotisation.
 	  - Arrêté du 28 juillet 2006 - art. 6 (V)
 	  - Code de l'éducation - art. R914-138 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
-	  - L. 813-8 du code rural
-	  - articles L. 914-1 du  code de l'éducation
+	  - Code de l'éducation - art. L914-1 (V)
+	  - Code rural - art. L813-8 (V)
 
 
 ###### Article R914-98
@@ -104790,9 +104720,9 @@ a) Services accomplis à temps partiel ;
 
 b) Services accomplis à temps incomplet lorsque, concomitamment, a été exercée, dans un établissement d'enseignement privé
 sous contrat avec l'Etat ou reconnu par celui-ci, une activité de direction ou, dans un centre de formation des personnels
-mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural, une activité de direction ou de formateur,
-sous réserve que ces activités aient donné lieu à validation au regard du régime général de la sécurité sociale ou de la
-mutualité sociale agricole. 
+mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural et de la pêche maritime, une activité de
+direction ou de formateur, sous réserve que ces activités aient donné lieu à validation au regard du régime général de la
+sécurité sociale ou de la mutualité sociale agricole. 
 
 2° Les périodes accomplies au titre du service national actif ; 
 
@@ -104802,20 +104732,20 @@ ont conclu une convention avec l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L914-1 (V)
+	  - Code rural - art. L813-8 (V)
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R914-106 (Ab)
 	  - Code de l'éducation - art. R914-121 (V)
 	  - Code de l'éducation - art. R914-124 (V)
-
-	**Cite**:
-
-	  - L. 813-8 du code rural
-	  - article L. 914-1 du code de l'éducation
 
 
 ###### Article R914-123
@@ -105374,10 +105304,11 @@ additionnel de retraite. La pension du régime additionnel de retraite est cessi
 
 ###### Article R914-141
 
-Les pensions servies sont revalorisées par arrêté des ministres chargés de  l'éducation, de l'agriculture, de la sécurité
-sociale et du budget, conformément  à l'évolution annuelle moyenne des prix hors tabac, sous réserve des  dispositions
-prévues à l'article 20 du décret n° 2005-1233 du 30 septembre 2005 relatif au régime additionnel de  retraite des personnels
-enseignants et de documentation mentionnés aux articles L. 914-1 du  code de l'éducation et L. 813-8 du code rural.
+Les pensions servies sont revalorisées par arrêté des ministres chargés de l'éducation, de l'agriculture, de la sécurité
+sociale et du budget, conformément à l'évolution annuelle moyenne des prix hors tabac, sous réserve des dispositions prévues
+à l'article 20 du décret n° 2005-1233 du 30 septembre 2005 relatif au régime additionnel de retraite des personnels
+enseignants et de documentation mentionnés aux articles L. 914-1 du code de l'éducation et L. 813-8 du code rural et de la
+pêche maritime .
 
 **Liens relatifs à cet article**
 
@@ -105387,9 +105318,9 @@ enseignants et de documentation mentionnés aux articles L. 914-1 du  code de l'
 	  - L. 813-8 du code rural
 	  - articles L. 914-1 du  code de l'éducation
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
