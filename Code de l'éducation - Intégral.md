@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-14
 
 # Partie législative
 
@@ -50085,6 +50085,27 @@ les collèges et les lycées de la République à une réflexion sur l'esclavage
 	**Cité par**:
 
 	  - Code de l'éducation - art. D372-3 (VD)
+
+
+###### Article D312-48-1
+
+Dans les lycées publics et privés sous contrat, d'enseignement général et technologique ou professionnel, les élèves
+bénéficient au cours de leur scolarité d'une information sur le service civique créé par la loi n° 2010-241 du 10 mars 2010.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-241 du 10 mars 2010
+
+	**Créé par**:
+
+	  - Décret n°2010-485 du 12 mai 2010 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D371-3 (MMN)
+	  - Code de l'éducation - art. D374-3 (VT)
 
 
 ##### Section 9 : L'éducation à la santé et à la sexualité.
