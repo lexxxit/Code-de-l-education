@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-14
+Version Consolidée au 2010-05-20
 
 # Partie législative
 
@@ -23497,6 +23497,12 @@ L'élection s'effectue, pour l'ensemble des représentants des personnels, des �
 formation continue, au scrutin de liste à un tour avec représentation proportionnelle au plus fort reste, possibilité de
 listes incomplètes et sans panachage.
 
+L'élection a lieu soit par dépôt d'un bulletin de vote en papier dans une urne, soit par voie électronique sécurisée dans le
+respect de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Cette dernière modalité
+peut s'appliquer à condition que, dans l'établissement, soient mis à la disposition des électeurs des ordinateurs dans des
+lieux dédiés aux opérations électorales. Les électeurs empêchés de voter personnellement sont admis à voter par procuration
+lorsque le vote par voie électronique n'a pas été mis en place.
+
 Pour les élections des représentants des enseignants-chercheurs et des personnels assimilés au conseil d'administration de
 l'université, une liste de professeurs des universités et des personnels assimilés et une liste de maîtres de conférences et
 des personnels assimilés peuvent s'associer autour d'un projet d'établissement. Chaque liste assure la représentation des
@@ -23511,25 +23517,20 @@ Pour les élections des représentants des étudiants et des personnes bénéfic
 la représentation d'au moins deux des grands secteurs de formation enseignés dans l'université concernée. Pour chaque
 représentant, un suppléant est élu dans les mêmes conditions que le titulaire ; il ne siège qu'en l'absence de ce dernier.
 
-Les électeurs empêchés de voter personnellement sont admis à voter par procuration. Le vote par correspondance n'est pas
-autorisé.
-
 Nul ne peut être élu à plus d'un conseil d'administration d'université.
 
 Nul ne peut être président de plus d'une université.
-
-**Nota:**
-
-Loi 2007-1199 du 10 août 2007 art. 45 : La dernière phrase du troisième alinéa de l'article 11 de la présente loi (phrase qui
-débute par " A l'exception du président,...) s'applique à compter de l'installation du nouveau conseil d'administration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°68-978 du 12 novembre 1968 - art. 14 (Ab)
-	  - Loi n°84-52 1984-01-26 art. 38
 	  - Loi n°84-52 du 26 janvier 1984 - art. 38 (Ab)
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
 
 	**Cité par**:
 
@@ -23585,19 +23586,10 @@ débute par " A l'exception du président,...) s'applique à compter de l'instal
 	  - Code de la défense. - art. R3411-3 (V)
 	  - Code du sport. - art. R211-1-1 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 11 () JORF 11 août 2007
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L711-7 (M)
-	  - Code de l'éducation - art. L712-2 (M)
+	  - Loi n°2010-500 du 18 mai 2010 - art. 1
+	  - Loi n°2010-500 du 18 mai 2010 - art. 2
 
 
 ###### Article L719-2
@@ -26934,16 +26926,16 @@ Ne sont pas applicables à l'université des Antilles et de la Guyane :
 2° A l'article L. 719-1 : 
 
 a) S'agissant des enseignants-chercheurs et personnels assimilés, enseignants et chercheurs en exercice dans l'université, la
-deuxième phrase du premier alinéa et les trois dernières phrases du quatrième alinéa ; 
+deuxième phrase du premier alinéa et les trois dernières phrases du cinquième alinéa ; 
 
 b) S'agissant de l'élection des représentants des étudiants et des personnes bénéficiant de la formation continue, la
-première phrase du cinquième alinéa.
+première phrase du sixième alinéa.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+	  - Loi n°2010-500 du 18 mai 2010 - art. 3
 
 	**Cite**:
 
