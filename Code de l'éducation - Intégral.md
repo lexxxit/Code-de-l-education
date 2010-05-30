@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-30
+Version Consolidée au 2010-05-31
 
 # Partie législative
 
@@ -101813,17 +101813,19 @@ des lauréats du concours externe dans l'enseignement public, le bénéfice de l
 à la session de recrutement de l'année suivante.A cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le
 bénéfice de l'admission au concours. 
 
-II. ― Les candidats admis qui remplissent les conditions de diplôme bénéficient d'un contrat provisoire et accomplissent un
-stage d'une durée d'un an, avec l'accord du chef de l'établissement dans lequel ils sont affectés. Au cours de leur stage,
-les professeurs stagiaires bénéficient d'une formation dispensée, dans le cadre des conventions prévues à l'alinéa suivant,
-sous la forme d'actions organisées dans un établissement d'enseignement supérieur et d'un accompagnement. Les modalités du
-stage et les conditions de son évaluation par un jury sont arrêtées par le ministre chargé de l'éducation. 
+II. ― Les candidats admis qui remplissent les conditions de diplôme et justifient des certificats exigés des candidats des
+concours correspondants de l'enseignement public bénéficient d'un contrat ou d'un agrément provisoire et effectuent un stage
+d'une durée d'un an, avec l'accord du chef de l'établissement dans lequel ils sont affectés ou recrutés. Au cours de leur
+stage, les professeurs stagiaires bénéficient d'une formation dispensée, dans le cadre des conventions prévues à l'alinéa
+suivant, sous la forme d'actions organisées dans un établissement d'enseignement supérieur et d'un accompagnement. Les
+modalités du stage et les conditions de son évaluation par un jury sont arrêtées par le ministre chargé de l'éducation. 
 
 Le contenu et l'organisation de cette formation font l'objet d'une convention entre le recteur, les représentants des
 établissements d'enseignement supérieur intéressés et les représentants des établissements d'enseignement privés ayant passé
 un contrat avec l'Etat, dans le respect du caractère propre de ces établissements. 
 
-III. ― A l'issue du stage, les candidats se voient délivrer, sur proposition d'un jury, un contrat ou un agrément définitif
+III. ― A l'issue du stage, les candidats admis qui justifient des certificats exigés des candidats des concours
+correspondants de l'enseignement public se voient délivrer, sur proposition d'un jury, un contrat ou un agrément définitif
 par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale du département dans le ressort
 duquel le stage est réalisé. La délivrance du contrat ou de l'agrément définitif confère le certificat d'aptitude au
 professorat des écoles. 
@@ -101839,10 +101841,6 @@ détermination de l'ancienneté de service.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 3 mai 2010 - art. 10 (VD)
@@ -101855,6 +101853,10 @@ détermination de l'ancienneté de service.
 	  - Code de l'éducation - art. R914-19-3 (V)
 	  - Code de l'éducation - art. R914-19-4 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-571 du 28 mai 2010 - art. 1
+
 
 ###### Article R914-19-3
 
@@ -101862,28 +101864,33 @@ I. ― Les concours d'accès au certificat d'aptitude au professorat des écoles
 recrutement de l'enseignement public du premier degré sont ouverts : 
 
 1° Aux maîtres contractuels ou agréés rémunérés sur une échelle autre que de titulaire et aux maîtres délégués justifiant, à
-la date de clôture des registres d'inscription, de trois ans de services effectifs en cette qualité et de l'un des titres ou
-diplômes requis pour se présenter aux seconds concours internes correspondants de l'enseignement public ; 
+la date retenue pour les concours correspondants de l'enseignement public, de trois ans de services effectifs en cette
+qualité et de l'un des titres ou diplômes requis pour se présenter aux seconds concours internes correspondants de
+l'enseignement public ; 
 
 2° A l'issue d'un cycle préparatoire d'un an, aux maîtres contractuels ou agréés rémunérés sur une échelle autre que de
 titulaire et aux maîtres délégués qui, au 1er septembre de l'année au titre de laquelle les concours sont organisés,
 justifient de la possession d'un diplôme d'études universitaires générales ou d'un titre ou diplôme au moins équivalent et
 qui ont exercé pendant trois ans dans des établissements d'enseignement privés sous contrat. 
 
+Les candidats admis doivent en outre justifier des qualifications en natation et secourisme exigées des candidats des
+concours correspondants de l'enseignement public. Ces conditions s'apprécient à la date retenue pour les concours
+correspondants de l'enseignement public. 
+
 Le jury établit la liste des candidats admis et la liste complémentaire selon les mêmes modalités que dans l'enseignement
 public. 
 
-II. ― Les candidats admis accomplissent un stage d'une durée d'un an. Au cours de leur stage, ils bénéficient d'une formation
-dispensée, dans le cadre des conventions mentionnées à l'alinéa suivant, sous la forme d'actions organisées dans un
-établissement d'enseignement supérieur et d'un accompagnement. Les modalités du stage et les conditions de son évaluation par
-un jury sont arrêtées par le ministre chargé de l'éducation. 
+II. ― Les candidats admis qui remplissent les conditions de diplôme bénéficient d'un contrat ou d'un agrément provisoire et
+effectuent un stage d'une durée d'un an. Les modalités du stage et les conditions de son évaluation par un jury sont arrêtées
+par le ministre chargé de l'éducation. 
 
 Le contenu et l'organisation de cette formation font l'objet d'une convention entre le recteur, les représentants des
 établissements d'enseignement supérieur concernés et les représentants des établissements d'enseignement privés ayant passé
 un contrat avec l'Etat, dans le respect du caractère propre de ces établissements. 
 
-III. ― A l'issue du stage, les candidats se voient délivrer le certificat d'aptitude au professorat des écoles dans les
-conditions fixées au III de l'article R. 914-19-2. 
+III. ― A l'issue du stage, les candidats admis qui justifient des certificats exigés des candidats des concours
+correspondants de l'enseignement public se voient délivrer le certificat d'aptitude au professorat des écoles dans les
+conditions fixées au III de l'article R. 914-19-2.
 
 Les candidats qui n'obtiennent pas le certificat d'aptitude peuvent être autorisés à effectuer une nouvelle année de stage.
 Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, n'ont pas obtenu leur
@@ -101892,16 +101899,16 @@ dans leur échelle de rémunération antérieure.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 3 mai 2010 - art. 10 (VD)
 	  - Arrêté du 3 mai 2010 - art. 5 (V)
 	  - Arrêté du 31 mai 2010 - art. 2 (V)
 	  - Arrêté du 19 octobre 2010 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-571 du 28 mai 2010 - art. 2
 
 	**Cite**:
 
@@ -101971,9 +101978,9 @@ concours.
 
 ###### Article R914-19-6
 
-Les maîtres ayant obtenu un contrat provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre 1994 fixant les
-dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception de celles
-relatives au détachement et à la discipline. 
+Les maîtres ayant obtenu un contrat ou un agrément provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre
+1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception de
+celles relatives au détachement et à la discipline. 
 
 Pendant l'année de stage, les maîtres sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître au
 titre de laquelle ils ont concouru. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils percevaient
@@ -101986,9 +101993,9 @@ résultera de leur classement dans leur nouvelle échelle de rémunération.
 
 	  - Décret n°94-874 du 7 octobre 1994
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 3
+	  - Décret n°2010-571 du 28 mai 2010 - art. 3
 
 
 ###### Article R914-19-7
@@ -102322,7 +102329,7 @@ d'agent public ou de maître agréé.
 Au titre d'une même session, un candidat ne peut s'inscrire dans une même section au troisième concours pour l'accès à une
 liste d'aptitude et au troisième concours correspondant de l'enseignement public.
 
-Les conditions fixées s'apprécient à la date de clôture des registres d'inscription aux concours.
+Les conditions fixées s'apprécient à la date retenue pour les concours correspondants de l'enseignement public.
 
 Les candidats aux troisièmes concours pour l'accès à une liste d'aptitude subissent les mêmes épreuves que les candidats des
 concours correspondants de l'enseignement public. Ils subissent ces épreuves devant le jury des concours correspondants de
@@ -102350,7 +102357,7 @@ les concours organisés à partir de la session 2011.
 
 	**Modifié par**:
 
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 4
+	  - Décret n°2010-571 du 28 mai 2010 - art. 4
 
 
 ###### Article R914-30
@@ -102409,12 +102416,12 @@ La validité de ces listes expire le 1er novembre suivant la date de proclamatio
 
 ###### Article R914-32
 
-Les candidats admis qui remplissent la condition de diplôme exigée dans l'enseignement public pour la nomination des lauréats
-du concours externe accomplissent un stage d'une durée d'un an, avec l'accord du chef de l'établissement dans lequel ils sont
-affectés. Au cours de leur stage, ils bénéficient d'une formation dispensée, dans le cadre des conventions mentionnées à
-l'alinéa suivant, sous la forme d'actions organisées dans un établissement d'enseignement supérieur, d'un tutorat, ainsi que
-le cas échéant d'autres types d'actions d'accompagnement. Les modalités du stage et les conditions de son évaluation par un
-jury sont arrêtées par le ministre chargé de l'éducation. 
+Les candidats admis qui remplissent les conditions de diplômes et de certificats exigées des candidats des concours
+correspondants de l'enseignement public accomplissent un stage d'une durée d'un an, avec l'accord du chef de l'établissement
+dans lequel ils sont nommés. Au cours de leur stage, ils bénéficient d'une formation dispensée, dans le cadre des conventions
+mentionnées à l'alinéa suivant, sous la forme d'actions organisées dans un établissement d'enseignement supérieur, d'un
+tutorat, ainsi que le cas échéant d'autres types d'actions d'accompagnement. Les modalités du stage et les conditions de son
+évaluation par un jury sont arrêtées par le ministre chargé de l'éducation. 
 
 Le contenu et l'organisation de la formation de l'année de stage font l'objet d'une convention entre le recteur, les
 représentants des établissements d'enseignement supérieur intéressés et les représentants des établissements d'enseignement
@@ -102429,7 +102436,7 @@ cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le bén�
 
 	**Modifié par**:
 
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
+	  - Décret n°2010-571 du 28 mai 2010 - art. 5
 
 	**Cité par**:
 
@@ -102475,15 +102482,16 @@ relatives au détachement et à la discipline.
 
 ###### Article R914-34
 
-A l'issue du stage, les candidats se voient délivrer, sur proposition d'un jury, un contrat définitif par le recteur. La
-délivrance du contrat définitif confère le certificat d'aptitude aux fonctions d'enseignement dans les établissements
-d'enseignement privés du second degré sous contrat.
+A l'issue du stage, les candidats admis qui justifient des certificats exigés des candidats des concours correspondants de
+l'enseignement public se voient délivrer, sur proposition d'un jury, un contrat définitif par le recteur. La délivrance du
+contrat définitif confère le certificat d'aptitude aux fonctions d'enseignement dans les établissements d'enseignement privés
+du second degré sous contrat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 5
+	  - Décret n°2010-571 du 28 mai 2010 - art. 6
 
 	**Cité par**:
 
