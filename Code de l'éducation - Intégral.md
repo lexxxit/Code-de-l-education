@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-05-31
+Version Consolidée au 2010-06-05
 
 # Partie législative
 
@@ -59719,18 +59719,18 @@ examen est portée au livret scolaire sous la signature du président du jury.
 ###### Article D334-11
 
 Les diplômes délivrés aux candidats admis à l'issue des épreuves, sous réserve des dispositions du sixième alinéa de
-l'article D. 334-8 et de l'article D. 334-14, portent les mentions :
+l'article D. 334-8 et de l'article D. 334-14, portent les mentions : 
 
-1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ;
+1° Assez bien, quand le candidat a obtenu une note moyenne au moins égale à 12 et inférieure à 14 ; 
 
-2° Bien, quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ;
+2° Bien, quand le candidat a obtenu une note moyenne au moins égale à 14 et inférieure à 16 ; 
 
-3° Très bien, quand le candidat a obtenu une note moyenne au moins égale à 16.
+3° Très bien, quand le candidat a obtenu une note moyenne au moins égale à 16. 
 
 En application de modalités fixées par arrêté du ministre chargé de l'éducation, dans toutes les séries du baccalauréat, les
-diplômes délivrés aux candidats peuvent comporter l'indication :
+diplômes délivrés aux candidats peuvent comporter l'indication : 
 
-" section européenne " ou " section de langue orientale ".
+" section européenne " ou " section de langue orientale " ou " option internationale ".
 
 **Liens relatifs à cet article**
 
@@ -59738,13 +59738,9 @@ diplômes délivrés aux candidats peuvent comporter l'indication :
 
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 10 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
 	**Modifié par**:
 
-	  - Décret n°2006-978 du 1 août 2006 - art. 3 () JORF 4 août 2006
+	  - Décret n°2010-592 du 2 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -59755,8 +59751,8 @@ diplômes délivrés aux candidats peuvent comporter l'indication :
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D334-14 (M)
-	  - Code de l'éducation - art. D334-8 (M)
+	  - Code de l'éducation - art. D334-14
+	  - Code de l'éducation - art. D334-8
 
 
 ###### Article D334-12
@@ -60114,15 +60110,19 @@ grade de bachelier confère les mêmes droits.
 
 ###### Article D334-23
 
-La délivrance du baccalauréat général est accompagnée, dans le cadre d'un baccalauréat binational, de la remise du diplôme de
-fin d'études secondaires d'un Etat étranger ou d'une certification particulière, délivrée par un Etat ou par un organisme
-public ou privé étrangers, et reconnue dans le pays concerné pour l'accès à l'enseignement supérieur.
+En application d'accords passés avec un partenaire étranger, un examen unique permet la délivrance simultanée du baccalauréat
+général ou technologique et d'un diplôme de fin d'études secondaires d'un Etat étranger ou d'une certification particulière,
+délivrée par un Etat ou par un organisme public ou privé étranger, et reconnue dans le pays concerné pour l'accès à
+l'enseignement supérieur.
+
+Dans le cadre d'une telle délivrance simultanée, le diplôme du baccalauréat est délivré aux élèves scolarisés dans un
+établissement d'enseignement étranger par les recteurs désignés par le ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1012 du 1er octobre 2008 - art. 2
+	  - Décret n°2010-592 du 2 juin 2010 - art. 2
 
 	**Cité par**:
 
@@ -60134,8 +60134,9 @@ public ou privé étrangers, et reconnue dans le pays concerné pour l'accès à
 
 ###### Article D334-24
 
-Le baccalauréat binational est créé par arrêté du ministre chargé de l'éducation, à la suite d'un accord passé avec le
-partenaire étranger. Cet arrêté précise les éventuelles dérogations aux articles D. 334-4, D. 334-5, 
+L'examen permettant la délivrance simultanée prévue à l'article D. 334-23 est créé par arrêté du ministre chargé de
+l'éducation, dans le cadre de l'accord passé avec le partenaire étranger. Cet arrêté précise les éventuelles dérogations aux
+articles D. 334-4, D. 334-5, 
 D. 334-18 et D. 334-19 du code. Elles peuvent porter sur la liste, la nature, la durée et le coefficient des épreuves, sur la
 composition du second groupe d'épreuves, sur les contenus pédagogiques sur lesquels portent les épreuves, sur la liste des
 épreuves qui doivent être subies par anticipation, sur l'autorité procédant à la sélection des sujets des épreuves écrites et
@@ -60143,13 +60144,14 @@ sur l'existence et l'organisation de la session de remplacement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1012 du 1er octobre 2008 - art. 2
+	  - Décret n°2010-592 du 2 juin 2010 - art. 3
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D334-18
+	  - Code de l'éducation - art. D334-23
 	  - Code de l'éducation - art. D334-4
 
 	**Cité par**:
@@ -79416,29 +79418,27 @@ acquises dans la langue de la section, appréciés au regard du cadre commun de 
 312-16, est délivrée aux élèves qui en font la demande, s'ils quittent le collège avant la fin de leur scolarité. 
 
 En fonction des accords conclus avec les pays partenaires, les enseignements spécifiques dispensés dans les sections
-internationales sont pris en compte pour le baccalauréat général soit sous la forme d'une option internationale, soit sous la
-forme d'un baccalauréat binational. 
+internationales sont pris en compte pour le baccalauréat général sous la forme d'une option internationale. 
 
 Pour l'option internationale du baccalauréat, ces enseignements spécifiques peuvent être pris en compte dans le cadre de
 modalités dérogatoires prévues au dernier alinéa de l'article D. 334-6 et aux articles D. 334-8, D. 334-10, D. 334-14 et D.
 334-19, précisées par arrêté du ministre. Les épreuves du baccalauréat option internationale sont fixées par arrêté du
-ministre chargé de l'éducation. 
-
-Les épreuves du baccalauréat binational sont arrêtées conformément aux dispositions des articles D. 334-24 et D. 334-25 du
-code.
+ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2008-1012 du 1er octobre 2008 - art. 4
+	  - Décret n°2010-592 du 2 juin 2010 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D312-16
-	  - Code de l'éducation - art. D334-19
-	  - Code de l'éducation - art. D334-24
-	  - Code de l'éducation - art. D334-8
+	  - Code de l'éducation - art. D312-16 (V)
+	  - Code de l'éducation - art. D334-10 (V)
+	  - Code de l'éducation - art. D334-14 (V)
+	  - Code de l'éducation - art. D334-19 (V)
+	  - Code de l'éducation - art. D334-6 (VT)
+	  - Code de l'éducation - art. D334-8 (V)
 
 
 ###### Article D421-136
@@ -79695,6 +79695,99 @@ ou de lycée de l'académie.
 
 	  - Arrêté du 2 juin 2010 - art. 7 (Ab)
 	  - Arrêté du 2 juin 2010 - art. 7 (VD)
+
+
+##### Sous-section 2 : Les sections binationales
+
+
+
+###### Article D421-143-1
+
+Des sections binationales peuvent être créées dans les lycées par arrêté du ministre chargé de l'éducation. 
+
+Conformément aux accords conclus avec les pays partenaires, les enseignements spécifiques dispensés dans ces sections sont
+pris en compte pour la délivrance simultanée du baccalauréat et d'un diplôme de fin d'études secondaires étranger, prévue à
+l'article D. 334-23.L'examen subi par les candidats en vue de cette délivrance simultanée est arrêté conformément à l'article
+D. 334-24.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-592 du 2 juin 2010 - art. 5
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-23
+	  - Code de l'éducation - art. D334-24
+
+
+###### Article D421-143-2
+
+La formation dispensée dans les sections binationales a pour objet l'acquisition et l'approfondissement de l'aptitude à la
+communication dans la langue de la section, ainsi que l'acquisition et l'approfondissement de la connaissance de la
+civilisation du pays partenaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-592 du 2 juin 2010 - art. 5
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D421-143-4 (V)
+
+
+###### Article D421-143-3
+
+L'admission des élèves dans les sections binationales est prononcée, dans les conditions fixées par le ministre chargé de
+l'éducation, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du
+chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-592 du 2 juin 2010 - art. 5
+
+	**Cité par**:
+
+	  - Arrêté du 8 juillet 2016 - art. 8 (V)
+
+
+###### Article D421-143-4
+
+Dans les sections binationales, les enseignements sont dispensés conformément aux horaires et programmes en vigueur dans les
+classes considérées, sous réserve des aménagements nécessaires à la réalisation des objectifs définis à l'article D.
+421-143-2. 
+
+La ou les disciplines qui font l'objet d'un aménagement, leurs programmes ainsi que les modalités de leur enseignement
+(horaire, quotité horaire enseignée en langue étrangère) sont fixés par arrêté du ministre chargé de l'éducation, après
+concertation avec le pays partenaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-592 du 2 juin 2010 - art. 5
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D421-143-2
+
+
+###### Article D421-143-5
+
+Les dispositions relatives à l'organisation générale des établissements, à l'orientation des élèves et au déroulement de la
+scolarité s'appliquent aux sections binationales. L'organisation des emplois du temps de l'ensemble des classes de
+l'établissement permet de regrouper les élèves de ces sections pour les enseignements qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-592 du 2 juin 2010 - art. 5
 
 
 ##### Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
@@ -80098,6 +80191,12 @@ fait la demande.
 
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
+
+##### Sous-section 3 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
+
+##### Paragraphe 1 : Rôle de l'inspection du travail.
+
+##### Paragraphe 2 : La commission d'hygiène et de sécurité.
 
 #### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.
 
