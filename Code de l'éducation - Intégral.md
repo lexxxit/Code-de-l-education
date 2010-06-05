@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-06-05
+Version Consolidée au 2010-06-06
 
 # Partie législative
 
@@ -24330,21 +24330,17 @@ d'administration de l'établissement.
 
 ###### Article L719-14
 
-L'Etat peut transférer aux établissements publics à caractère scientifique, culturel et professionnel qui en font la demande
-la pleine propriété des biens mobiliers et immobiliers appartenant à l'Etat qui leur sont affectés ou sont mis à leur
-disposition. Ce transfert s'effectue à titre gratuit. Il s'accompagne, le cas échéant, d'une convention visant à la mise en
-sécurité du patrimoine, après expertise contradictoire. Il ne donne lieu ni à un versement de salaires ou honoraires au
-profit de l'Etat ni à aucune indemnité ou perception de droits ou de taxes au profit de l'Etat. Les biens qui sont utilisés
-par l'établissement pour l'accomplissement de ses missions de service public peuvent faire l'objet d'un contrat conférant des
-droits réels à un tiers, sous réserve de l'accord préalable de l'autorité administrative compétente et de clauses permettant
-d'assurer la continuité du service public.
+L'Etat et l'Etablissement public de Paris-Saclay peuvent transférer aux établissements publics à caractère scientifique,
+culturel et professionnel qui en font la demande la pleine propriété des biens mobiliers et immobiliers appartenant à l'Etat
+ou à l'Etablissement public de Paris-Saclay qui leur sont affectés ou sont mis à leur disposition. Ce transfert s'effectue à
+titre gratuit. Il s'accompagne, le cas échéant, d'une convention visant à la mise en sécurité du patrimoine, après expertise
+contradictoire. Il ne donne lieu ni à un versement de salaires ou honoraires au profit de l'Etat ni à aucune indemnité ou
+perception de droits ou de taxes au profit de l'Etat. Les biens qui sont utilisés par l'établissement pour l'accomplissement
+de ses missions de service public peuvent faire l'objet d'un contrat conférant des droits réels à un tiers, sous réserve de
+l'accord préalable de l'autorité administrative compétente et de clauses permettant d'assurer la continuité du service
+public.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 	**Cité par**:
 
@@ -24361,9 +24357,9 @@ d'assurer la continuité du service public.
 	  - Code de l'éducation - art. R719-207 (V)
 	  - Code général des impôts, CGI. - art. 1040 bis (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 32 () JORF 11 août 2007
+	  - Loi n°2010-597 du 3 juin 2010 - art. 32 (V)
 
 
 #### Titre II : Etablissements de formation des maîtres
@@ -79790,7 +79786,7 @@ l'établissement permet de regrouper les élèves de ces sections pour les ensei
 	  - Décret n°2010-592 du 2 juin 2010 - art. 5
 
 
-##### Sous-section 2 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
+##### Sous-section 3 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
 
 ##### Paragraphe 1 : Rôle de l'inspection du travail.
 
@@ -80191,12 +80187,6 @@ fait la demande.
 
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
-
-##### Sous-section 3 : Dispositions relatives aux établissements publics  dispensant un enseignement technique ou professionnel.
-
-##### Paragraphe 1 : Rôle de l'inspection du travail.
-
-##### Paragraphe 2 : La commission d'hygiène et de sécurité.
 
 #### Chapitre II : Organisation et fonctionnement des collèges et des lycées ne constituant pas des établissements publics locaux d'enseignement.
 
