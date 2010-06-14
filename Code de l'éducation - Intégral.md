@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-06-06
+Version Consolidée au 2010-06-15
 
 # Partie législative
 
@@ -58814,33 +58814,30 @@ départementaux de l'éducation nationale.
 
 ###### Article D332-26
 
-Le jury du certificat de formation générale est nommé par l'inspecteur d'académie mentionné à l'article D. 332-25. Il est
-présidé par cet inspecteur d'académie ou son représentant.
+Le jury du certificat de formation générale est nommé par               le recteur d'académie. Il est présidé par cet
+inspecteur d'académie ou son représentant. 
 
-Il comprend :
+Il comprend : 
 
 1° Dans la proportion des deux tiers des membres des personnels enseignants de l'Etat, chefs d'établissement et enseignants,
-intervenant en particulier comme formateurs d'adultes ;
+intervenant en particulier comme formateurs d'adultes ; 
 
 2° Deux représentants des organismes professionnels, un employeur et un salarié, désignés par le comité départemental de
-l'emploi.
+l'emploi. 
 
 Il peut comprendre également des représentants des ministères intéressés par les stages de formation alternée, notamment un
 représentant de chacun des ministères chargés de l'emploi et de la formation professionnelle.
 
+**Nota:**
+
+Décret 2010-784 du 8 juillet 2010 art. 6 : Le présent décret entre en vigueur à compter de la session du mois de juin 2011 du
+certificat de formation générale.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°83-569 1983-06-29 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D332-25 (V)
+	  - Décret n°2010-784 du 8 juillet 2010 - art. 4
 
 
 ###### Article D332-27
