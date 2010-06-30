@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-06-30
+Version Consolidée au 2010-07-01
 
 # Partie législative
 
@@ -8761,16 +8761,19 @@ Outre les enseignements concourant aux objectifs définis à l'article L. 131-1-
 à tous les stades de la scolarité, une formation aux valeurs de la République, à la connaissance et au respect des droits de
 l'enfant consacrés par la loi ou par un engagement international et à la compréhension des situations concrètes qui y portent
 atteinte. Dans ce cadre est donnée une information sur le rôle des organisations non gouvernementales oeuvrant pour la
-protection de l'enfant.
+protection de l'enfant. 
 
 Lors de la présentation de la liste des fournitures scolaires, les élèves reçoivent une information sur la nécessité d'éviter
 l'achat de produits fabriqués par des enfants dans des conditions contraires aux conventions internationalement reconnues.
 
 L'enseignement d'éducation civique comporte également, à l'école primaire et au collège, une formation consacrée à la
-connaissance et au respect des problèmes des personnes handicapées et à leur intégration dans la société.
+connaissance et au respect des problèmes des personnes handicapées et à leur intégration dans la société. 
 
 Les établissements scolaires s'associent avec les centres accueillant des personnes handicapées afin de favoriser les
 échanges et les rencontres avec les élèves.
+
+L'enseignement d'éducation civique sensibilise également les élèves de collège et de lycée au service civique prévu au titre
+Ier bis du livre Ier du code du service national.
 
 **Liens relatifs à cet article**
 
@@ -8779,15 +8782,9 @@ Les établissements scolaires s'associent avec les centres accueillant des perso
 	  - Loi n°99-478 du 9 juin 1999 - art. 3 (Ab)
 	  - Loi n°99-478 du 9 juin 1999 - art. 4 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 18 () JORF 24 avril 2005
-	  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
+	  - Loi n°2010-241 du 10 mars 2010 - art. 9
 
 	**Cité par**:
 
@@ -9088,6 +9085,32 @@ représentant de l'Etat.
 
 	  - Code du travail - art. L5312-1 (V)
 	  - Code du travail - art. L5314-1
+
+
+###### Article L313-8
+
+Le service public de l'orientation tout au long de la vie et tous les organismes qui y participent s'organisent au plan
+régional et local pour permettre à tout jeune âgé de seize à dix-huit ans sorti sans diplôme du système de formation initiale
+et sans emploi de se réinscrire dans un parcours de formation, d'accompagnement ou d'exercer une activité d'intérêt général
+lui permettant de préparer son entrée dans la vie active. 
+
+Pour l'application de cette obligation, le jeune est reçu conjointement avec son représentant légal par l'un ou l'autre des
+organismes visés au premier alinéa, dans les trois mois qui suivent le signalement par son établissement d'origine dans les
+conditions mentionnées à l'article L. 313-7, pour bénéficier d'un entretien de réorientation. 
+
+Cet entretien, assuré dans le cadre de la coordination mentionnée à l'article L. 313-7, vise à proposer au jeune et à son
+représentant légal des solutions de reprise d'études, d'entrée en formation, d'exercice d'une activité d'intérêt général ou
+d'accompagnement personnalisé vers l'emploi ou la création d'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 7
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L313-7 (V)
 
 
 ##### Chapitre IV : La recherche et la documentation pédagogiques.
@@ -18163,6 +18186,18 @@ du code de la recherche.
 
 	  - Code de l'éducation - art. L681-1 (V)
 	  - Code de l'éducation - art. L684-1 (V)
+
+
+###### Article L611-7
+
+Les établissements dispensant des formations sanctionnées par un diplôme d'études supérieures informent les étudiants de
+l'existence du service civique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-241 du 10 mars 2010 - art. 10
 
 
 ##### Chapitre II : Déroulement des études supérieures.
