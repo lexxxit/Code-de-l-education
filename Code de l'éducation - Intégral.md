@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-01
+Version Consolidée au 2010-07-03
 
 # Partie législative
 
@@ -92987,106 +92987,21 @@ déclarés par l'établissement et qui lui permettent d'accomplir sa mission éd
 	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 
-###### Article R461-12
-
-La reconnaissance de l'établissement est décidée après avis d'une des commissions prévues à l'article R. 461-14, qui se
-prononce au vu d'un rapport d'inspection portant sur le respect des dispositions des articles R. 461-8 à R. 461-11.
-
-**Nota:**
-
-Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission de
-reconnaissance de l'enseignement du cinéma et de l'expression audiovisuelle).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-605 du 6 mai 1988 - art. 6 sauf ecqc le ministre chargé de la culture (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Décret n°2009-633 du 6 juin 2009 - art. (V)
-	  - Code de l'éducation - art. R461-13 (V)
-	  - Code de l'éducation - art. R461-16 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2010-738 du 1er juillet 2010 - art. 1
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R461-14
-	  - Code de l'éducation - art. R461-8
-
-
 ###### Article R461-13
 
-Le ministre chargé de la culture prend la décision de reconnaissance mentionnée à l'article R. 461-12.
-
-**Nota:**
-
-Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-reconnaissance de l'enseignement du cinéma et de l'expression audiovisuelle).
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°88-605 du 6 mai 1988 - art. 6 uniquement ecqc le ministre chargé de la culture (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R461-12 (V)
-
-
-###### Article R461-14
-
-Il est créé une commission de reconnaissance pour chacune des disciplines artistiques suivantes :
-
-1° à 5° (Abrogés) ;
-
-6° Enseignement du cinéma et de l'expression audiovisuelle.
-
-La composition et les modalités de fonctionnement de chaque commission, qui devra comprendre des représentants de l'Etat et
-des personnalités qualifiées, sont fixées par arrêté du ministre chargé de la culture.
-
-**Nota:**
-
-Décret n° 2009-633 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-reconnaissance de l'enseignement du cinéma et de l'expression audiovisuelle).
+Le ministre chargé de la culture prend la décision de reconnaissance mentionnée à l'article L. 361-2 au vu d'un rapport
+d'inspection portant sur le respect des dispositions des articles R. 461-8 à R. 461-11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 17 (V), art. 18 (V)
+	  - Décret n°2010-738 du 1er juillet 2010 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Décret n°2010-738 du 1er juillet 2010 - art. 1
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R461-12 (Ab)
+	  - Code de l'éducation - art. L361-2
+	  - Code de l'éducation - art. R461-8
 
 
 ###### Article R461-15
@@ -93113,28 +93028,18 @@ La reconnaissance est accordée pour une durée de cinq ans ; elle est renouvela
 Lorsque le ministre chargé de la culture constate des manquements sérieux aux conditions définies au deuxième alinéa de
 l'article R. 461-8 et aux articles R. 461-9 à R. 461-11, il peut mettre en demeure l'établissement de prendre toutes les
 mesures de mise en conformité dans un délai fixé en fonction de la nature de ces mesures. En l'absence de mise en conformité
-de l'établissement au terme de ce délai, il prononce le retrait de la reconnaissance, après avoir recueilli l'avis de la
-commission mentionnée à l'article R. 461-12.
+de l'établissement au terme de ce délai, il prononce le retrait de la reconnaissance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°88-605 du 6 mai 1988 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-738 du 1er juillet 2010 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R461-12 (V)
-	  - Code de l'éducation - art. R461-8 (V)
-	  - Code de l'éducation - art. R461-9 (V)
+	  - Code de l'éducation - art. R461-8
+	  - Code de l'éducation - art. R461-9
 
 
 ###### Article R461-17
