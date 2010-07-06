@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-03
+Version Consolidée au 2010-07-07
 
 # Partie législative
 
@@ -21703,7 +21703,7 @@ du mandat de son prédécesseur restant à courir.
 Ses fonctions sont incompatibles avec celles de directeur d'unité de formation et de recherche, d'école ou d'institut et
 celles de chef de tout établissement public à caractère scientifique, culturel et professionnel. 
 
-Le président assure la direction de l'université. A ce titre : 
+Le président assure la direction de l'université.A ce titre : 
 
 1° Il préside le conseil d'administration, prépare et exécute ses délibérations. Il prépare et met en oeuvre le contrat
 pluriannuel d'établissement. Il préside également le conseil scientifique et le conseil des études et de la vie
@@ -21727,7 +21727,8 @@ Il affecte dans les différents services de l'université les personnels adminis
 Conseil d'Etat ; 
 
 7° Il est responsable de la sécurité dans l'enceinte de son établissement et assure le suivi des recommandations du comité
-d'hygiène et de sécurité permettant d'assurer la sécurité des personnels et des usagers accueillis dans les locaux ; 
+d'hygiène, de sécurité et des conditions de travail permettant d'assurer la sécurité des personnels et des usagers accueillis
+dans les locaux ; 
 
 8° Il exerce, au nom de l'université, les compétences de gestion et d'administration qui ne sont pas attribuées à une autre
 autorité par la loi ou le règlement ; 
@@ -21747,13 +21748,15 @@ respectifs.
 **Nota:**
 
 Loi 2007-1199 du 10 août 2007 art. 45 : L'article 6 de la présente loi s'applique à compter de l'installation du nouveau
-conseil d'administration.
+conseil d'administration. 
+
+Dans sa décision n° 2010-20/21 QPC du 6 août 2010 (NOR : CSCX1021260S), le Conseil constitutionnel a déclaré, sous la réserve
+énoncée au considérant 16, le deuxième alinéa du 4° de l'article L. 712-2 du code de l'éducation conforme à la Constitution.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 27
 	  - Loi n°84-52 du 26 janvier 1984 - art. 27 (Ab)
 
 	**Cité par**:
@@ -21806,24 +21809,14 @@ conseil d'administration.
 	  - Code de la santé publique - art. L6142-7 (M)
 	  - Code du sport. - art. R211-9 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 4 () JORF 11 août 2007
-	  - Loi n°2007-1199 du 10 août 2007 - art. 6 () JORF 11 août 2007
+	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L713-1 (M)
-	  - Code de l'éducation - art. L714-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+	  - Code de l'éducation - art. L713-1
+	  - Code de l'éducation - art. L714-1
 
 
 ###### Article L712-3
@@ -26931,16 +26924,15 @@ implantée l'université.
 
 ###### Article L781-5
 
-Sans préjudice des compétences du comité technique paritaire prévu par l'article L. 951-1-1, un comité technique paritaire
-spécial est institué, par le président de l'université, dans chacune des régions d'outre-mer où est implantée l'université ;
-il est chargé de connaître des questions d'organisation et de fonctionnement des sites de l'université implantés dans cette
-région.
+Sans préjudice des compétences du  comité technique prévu par l'article L. 951-1-1, un  comité technique spécial est
+institué, par le président de l'université, dans chacune des régions d'outre-mer où est implantée l'université ; il est
+chargé de connaître des questions d'organisation et de fonctionnement des sites de l'université implantés dans cette région.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-97 du 31 janvier 2008 - art. 1
+	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
 
 	**Cite**:
 
@@ -28794,12 +28786,12 @@ exercer des fonctions d'accompagnement auprès des étudiants handicapés inscri
 supérieur mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été reconnue
 nécessaire par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles. 
 
-Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique paritaire
-ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de
-travail des assistants d'éducation, en particulier pour ceux qui sont astreints à un service de nuit. Il précise également
-les droits reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la
-mesure justifiée par la nature de leurs missions, aux dispositions générales prises pour l'application de l'article 7 de la
-loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Les conditions d'application du présent article sont fixées par décret pris après avis du  comité technique ministériel du
+ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de travail des
+assistants d'éducation, en particulier pour ceux qui sont astreints à un service de nuit. Il précise également les droits
+reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la mesure
+justifiée par la nature de leurs missions, aux dispositions générales prises pour l'application de l'article 7 de la loi n°
+84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -28839,7 +28831,7 @@ loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à l
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1304 du 11 décembre 2008 - art. 1
+	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
 
 
 ###### Article L916-2
@@ -29377,27 +29369,18 @@ leur est assurée dans l'exercice de leurs activités.
 
 ###### Article L951-1-1
 
-Un comité technique paritaire est créé dans chaque établissement public à caractère scientifique, culturel et professionnel
-par délibération du conseil d'administration. Outre les compétences qui lui sont conférées en application de l'article 15 de
-la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, il est
-consulté sur la politique de gestion des ressources humaines de l'établissement. Un bilan de la politique sociale de
-l'établissement lui est présenté chaque année.
+Un  comité technique est créé dans chaque établissement public à caractère scientifique, culturel et professionnel par
+délibération du conseil d'administration. Outre les compétences qui lui sont conférées en application de l'article 15 de la
+loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, il est consulté
+sur la politique de gestion des ressources humaines de l'établissement. Un bilan de la politique sociale de l'établissement
+lui est présenté chaque année.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 15
-	  - Loi n°84-16 du 11 janvier 1984 - art. 15 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2007-1199 du 10 août 2007 - art. 16 () JORF 11 août 2007
+	  - Loi n°84-16 du 11 janvier 1984
+	  - Loi n°84-16 du 11 janvier 1984 - art. 15
 
 	**Cité par**:
 
@@ -29418,6 +29401,10 @@ l'établissement lui est présenté chaque année.
 	  - Code de l'éducation - art. L712-3 (V)
 	  - Code de l'éducation - art. L712-6-1 (V)
 	  - Code de l'éducation - art. L781-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
 
 
 ###### Article L951-2
