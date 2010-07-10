@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-07
+Version Consolidée au 2010-07-11
 
 # Partie législative
 
@@ -8855,6 +8855,21 @@ de santé scolaire ainsi que d'autres intervenants extérieurs.
 	**Créé par**:
 
 	  - Loi n°2004-806 du 9 août 2004 - art. 49 () JORF 11 août 2004
+
+
+###### Article L312-17-1
+
+Une information consacrée à l'égalité entre les hommes et les femmes, à la lutte contre les préjugés sexistes et à la lutte
+contre les violences faites aux femmes et les violences commises au sein du couple est dispensée à tous les stades de la
+scolarité. Les établissements scolaires, y compris les établissements français d'enseignement scolaire à l'étranger, peuvent
+s'associer à cette fin avec des associations de défense des droits des femmes et promouvant l'égalité entre les hommes et les
+femmes et des personnels concourant à la prévention et à la répression de ces violences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 23
 
 
 ##### Section 10 : Prévention et information sur les toxicomanies.
@@ -24413,12 +24428,9 @@ recherche en éducation.
 
 Ils organisent des formations de préparation professionnelle en faveur des étudiants.
 
-**Nota:**
-
-Loi 2006-450 art. 49 : les modifications induites par l'article 11 de la présente loi entrent en vigueur à la date
-d'installation du conseil de l'Agence d'évaluation de la recherche et de l'enseignement supérieur mentionnée à l'article L.
-114-3-1 du code de la recherche et au plus tard le 31 décembre 2006.L'Agence d'évaluation de la recherche et de
-l'enseignement supérieur a été installée le 21 mars 2007.
+Les formations mentionnées aux trois alinéas précédents comportent des actions de sensibilisation à la lutte contre les
+discriminations, aux enjeux de l'égalité entre les femmes et les hommes, aux violences faites aux femmes et aux violences
+commises au sein du couple.
 
 **Liens relatifs à cet article**
 
@@ -24454,18 +24466,13 @@ l'enseignement supérieur a été installée le 21 mars 2007.
 	  - Code rural - art. L812-11 (V)
 	  - Code rural - art. L812-7 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - loi n°2006-450 du 18 avril 2006 - art. 11 () JORF 19 avril 2006 en vigueur le 31 décembre 2006
+	  - Loi n°2010-769 du 9 juillet 2010 - art. 23
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L713-9 (M)
+	  - Code de l'éducation - art. L713-9
 
 
 ###### Article L721-2
