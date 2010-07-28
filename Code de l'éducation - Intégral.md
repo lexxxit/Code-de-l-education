@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-15
+Version Consolidée au 2010-07-29
 
 # Partie législative
 
@@ -6960,7 +6960,7 @@ Les institutions de la formation professionnelle sont organisées conformément 
 La composition et les compétences du Conseil national de l'enseignement agricole sont fixées par les dispositions des
 articles L. 814-1 et L. 814-2 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de
+" Art. L. 814-1.-Le Conseil national de l'enseignement agricole est présidé par le ministre de l'agriculture et composé de
 soixante-quatre membres ainsi répartis : 
 
 1° a) Huit représentants de l'Etat ; 
@@ -6994,16 +6994,17 @@ supérieur de l'éducation.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat. " 
 
-" Art.L. 814-2.-Le Conseil national de l'enseignement agricole peut être saisi pour avis de toute question de son ressort par
-un quart de ses membres ou par le Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou de décret
-concernant l'enseignement agricole. 
+" Art. L. 814-2.-Le Conseil national de l'enseignement agricole peut être saisi pour avis de toute question de son ressort
+par un quart de ses membres ou par le Gouvernement. Il donne obligatoirement son avis sur tout avant-projet de loi ou de
+décret concernant l'enseignement agricole. 
 
 Il est saisi pour avis du rapport d'évaluation mentionné à l'article L. 211-1 du code de l'éducation. 
 
 Il donne un avis sur le projet de schéma prévisionnel national des formations de l'enseignement agricole. Ce schéma, qui
 tient compte des besoins de formation exprimés par les régions, est arrêté pour une période de cinq années par le ministre de
 l'agriculture. La conduite du dispositif national de l'enseignement général, technologique et professionnel et de la
-formation professionnelle agricoles est assurée par l'Etat sur le fondement de ce schéma. 
+formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires est assurée par l'Etat
+sur le fondement de ce schéma. 
 
 En cas de modifications substantielles, au cours de la période de validité du schéma, des bases qui ont servi à son
 établissement, ce schéma peut faire l'objet de modifications partielles sur proposition du Conseil national de l'enseignement
@@ -7013,13 +7014,18 @@ Les modalités d'application du présent article sont fixées par décret en Con
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L814-1, L814-2
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 9
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L211-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L814-1
+	  - PILOTE_SUIVEUR: Code rural - art. L814-2
 
 
 ##### Section 2 : Le Conseil national de l'enseignement supérieur et de la recherche agricole, agro-alimentaire et vétérinaire.
@@ -11325,13 +11331,71 @@ L. 6232-8, L. 6232-9 et L. 6232-10 du code du travail.
 L'enseignement et la formation professionnelle agricoles sont organisés conformément aux dispositions des articles L. 811-1,
 L. 811-2, L. 813-1 et L. 813-2 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 811-1.-L'enseignement et la formation professionnelle agricoles publics ont pour objet d'assurer, en les associant,
-une formation générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de
-l'aquaculture, de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres métiers
-concourant au développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace agricole,
-rural et forestier, de la gestion de l'eau et de l'environnement. Ils contribuent au développement personnel des élèves,
-étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de leurs qualifications et à leur insertion
-professionnelle et sociale. 
+" Art.L. 811-1.-L'enseignement et la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la
+nature et des territoires ont pour objet d'assurer, en les associant, une formation générale et une formation technologique
+et professionnelle dans les métiers de l'agriculture, de la forêt, de l'aquaculture, de la transformation et de la
+commercialisation des produits agricoles ainsi que dans d'autres métiers concourant au développement de ceux-ci, notamment
+dans les domaines des services et de l'aménagement de l'espace agricole, rural et forestier, de la gestion de l'eau et de
+l'environnement. Ils contribuent à l'éducation au développement durable et à la mise en œuvre de ses principes. Ils
+contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de
+leurs qualifications et à leur insertion professionnelle et sociale.
+
+Ils remplissent les missions suivantes :
+
+1° Ils assurent une formation générale, technologique et professionnelle initiale et continue ;
+
+2° Ils participent à l'animation et au développement des territoires ;
+
+3° Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et professionnelle
+des adultes ;
+
+4° Ils contribuent aux activités de développement, d'expérimentation et d'innovation agricoles et agroalimentaires ;
+
+5° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves,
+apprentis, étudiants, stagiaires et enseignants.
+
+L'enseignement et la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la nature et des
+territoires sont organisés dans le cadre de l'éducation permanente, selon les voies de la formation initiale et de la
+formation continue. Ils constituent une composante du service public d'éducation et de formation. Ils relèvent du ministre de
+l'agriculture. Ils sont dispensés dans le respect des principes de laïcité, de liberté de conscience et d'égal accès de tous
+au service public." 
+
+" Art.L. 811-2.-L'enseignement et la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la
+nature et des territoires assurent des formations qui peuvent s'étendre de la classe de quatrième du collège à l'enseignement
+supérieur inclus. Ces formations sont organisées de façon à faciliter les poursuites d'études, les changements d'orientation
+et le passage entre les formations sous contrats de travail de type particulier et celles sous statut scolaire. A cet effet,
+sont créées des classes préparatoires et des classes d'adaptation ainsi qu'un service d'orientation commun à l'enseignement
+général, technologique et professionnel et à l'enseignement et la formation professionnelle aux métiers de l'agriculture, de
+la forêt, de la nature et des territoires. Les élèves, étudiants, apprentis et stagiaires disposent de l'ensemble des
+informations de nature à leur permettre l'élaboration d'un projet d'orientation. Ils bénéficient notamment d'une information
+sur l'évolution de la demande de qualification, les professions et les formations qui y préparent. 
+
+Les formations assurées par l'enseignement et la formation professionnelle publics aux métiers de l'agriculture, de la forêt,
+de la nature et des territoires sont dispensées suivant des programmes et référentiels nationaux, qui en précisent
+respectivement le contenu et les objectifs et qui sont arrêtés soit par le ministre de l'agriculture, soit conjointement par
+le ministre de l'agriculture et le ministre chargé de l'éducation nationale, soit par le ministre chargé de l'éducation
+nationale. Ces formations sont organisées en cycles. 
+
+Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
+6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général,
+technologique et professionnel et la formation professionnelle publics aux métiers de l'agriculture, de la forêt, de la
+nature et des territoires sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux
+diplômes de même niveau de l'enseignement général, technologique et professionnel. " 
+
+" Art.L. 813-1.-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou
+l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation. Ils
+relèvent du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect des principes de liberté de
+conscience, d'égal accès de tous à l'éducation et de liberté de l'enseignement, qui implique notamment qu'un tel
+établissement puisse, à ces conditions, naître d'une initiative privée.
+
+L'enseignement et la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires
+dispensés par les établissements mentionnés au premier alinéa ont pour objet d'assurer, en les associant, une formation
+générale et une formation technologique et professionnelle dans les métiers de l'agriculture, de la forêt, de l'aquaculture,
+de la transformation et de la commercialisation des produits agricoles ainsi que dans d'autres métiers concourant au
+développement de ceux-ci, notamment dans les domaines des services et de l'aménagement de l'espace agricole, rural,
+forestier, de la gestion de l'eau et de l'environnement. Ils contribuent à l'éducation au développement durable et à la mise
+en œuvre de ses principes. Ils contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à
+l'élévation et à l'adaptation de leur qualification et à leur insertion professionnelle et sociale. 
 
 Ils remplissent les missions suivantes : 
 
@@ -11342,67 +11406,15 @@ Ils remplissent les missions suivantes :
 3° Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et professionnelle
 des adultes ; 
 
-4° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ; 
+4° Ils contribuent aux activités de développement, d'expérimentation et d'innovation agricoles et agroalimentaires ; 
 
 5° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves,
 apprentis, étudiants, stagiaires et enseignants.
 
-L'enseignement et la formation professionnelle agricoles publics sont organisés dans le cadre de l'éducation permanente,
-selon les voies de la formation initiale et de la formation continue. Ils constituent une composante du service public
-d'éducation et de formation. Ils relèvent du ministre de l'agriculture. Ils sont dispensés dans le respect des principes de
-laïcité, de liberté de conscience et d'égal accès de tous au service public. " 
-
-" Art.L. 811-2.-L'enseignement et la formation professionnelle agricoles publics assurent des formations qui peuvent
-s'étendre de la classe de quatrième du collège à l'enseignement supérieur inclus. Ces formations sont organisées de façon à
-faciliter les poursuites d'études, les changements d'orientation et le passage entre les formations sous contrats de travail
-de type particulier et celles sous statut scolaire.A cet effet, sont créées des classes préparatoires et des classes
-d'adaptation ainsi qu'un service d'orientation commun à l'enseignement général, technologique et professionnel et à
-l'enseignement et la formation professionnelle agricoles. Les élèves, étudiants, apprentis et stagiaires disposent de
-l'ensemble des informations de nature à leur permettre l'élaboration d'un projet d'orientation. Ils bénéficient notamment
-d'une information sur l'évolution de la demande de qualification, les professions et les formations qui y préparent. 
-
-Les formations assurées par l'enseignement et la formation professionnelle agricoles publics sont dispensées suivant des
-programmes et référentiels nationaux, qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés soit
-par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre chargé de l'éducation
-nationale, soit par le ministre chargé de l'éducation nationale. Ces formations sont organisées en cycles. 
-
-Sous réserve des dispositions des articles  L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
-6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général,
-technologique et professionnel et la formation professionnelle agricoles publics sont sanctionnées par des diplômes d'Etat ou
-des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général, technologique et
-professionnel. " 
-
-" Art.L. 813-1.-Les établissements d'enseignement et de formation professionnelle agricoles privés dont l'association ou
-l'organisme responsable a passé un contrat avec l'Etat participent au service public d'éducation et de formation. Ils
-relèvent du ministre de l'agriculture. Leurs enseignements sont dispensés dans le respect des principes de liberté de
-conscience, d'égal accès de tous à l'éducation et de liberté de l'enseignement, qui implique notamment qu'un tel
-établissement puisse, à ces conditions, naître d'une initiative privée.
-
-L'enseignement et la formation professionnelle agricoles dispensés par les associations ou organismes mentionnés au premier
-alinéa ont pour objet d'assurer, en les associant, une formation générale et une formation technologique et professionnelle
-dans les métiers de l'agriculture, de la forêt, de l'aquaculture, de la transformation et de la commercialisation des
-produits agricoles ainsi que dans d'autres métiers concourant au développement de ceux-ci, notamment dans les domaines des
-services et de l'aménagement de l'espace agricole, rural, forestier, de la gestion de l'eau et de l'environnement. Ils
-contribuent au développement personnel des élèves, étudiants, apprentis et stagiaires, à l'élévation et à l'adaptation de
-leur qualification et à leur insertion professionnelle et sociale. 
-
-Ils remplissent les missions suivantes : 
-
-1° Ils assurent une formation générale, technologique et professionnelle initiale ou continue ; 
-
-2° Ils participent à l'animation et au développement des territoires ; 
-
-2° bis Ils contribuent à l'insertion scolaire, sociale et professionnelle des jeunes et à l'insertion sociale et
-professionnelle des adultes ; 
-
-3° Ils contribuent aux activités de développement, d'expérimentation et de recherche appliquée ; 
-
-4° Ils participent à des actions de coopération internationale, notamment en favorisant les échanges et l'accueil d'élèves,
-apprentis, stagiaires et enseignants.
-
-L'enseignement et la formation professionnelle agricoles privés sont organisés dans le cadre de l'éducation permanente, selon
-les voies de la formation initiale et de la formation continue, sans que dans ce dernier cas leur mise en oeuvre relève du
-contrat prévu au premier alinéa du présent article. " 
+L'enseignement et la formation professionnelle privés aux métiers de l'agriculture, de la forêt, de la nature et des
+territoires sont organisés dans le cadre de l'éducation permanente, selon les voies de la formation initiale et de la
+formation continue, sans que dans ce dernier cas leur mise en oeuvre relève du contrat prévu au premier alinéa du présent
+article. " 
 
 " Art.L. 813-2.-Les formations de l'enseignement agricole privé peuvent s'étendre de la classe de quatrième du collège
 jusqu'à la dernière année de formation de techniciens supérieurs. Ces formations sont organisées de façon à faciliter les
@@ -11411,60 +11423,60 @@ particulier et celles sous statut scolaire. Les élèves, étudiants, apprentis 
 informations de nature à leur permettre l'élaboration d'un projet d'orientation. Ils bénéficient notamment d'une information
 sur l'évolution de la demande de qualification, les professions et les formations qui y préparent. 
 
-Les formations assurées par l'enseignement et la formation professionnelle agricoles privés sont dispensées suivant des
-programmes et référentiels nationaux, qui en précisent respectivement le contenu et les objectifs et qui sont arrêtés soit
-par le ministre de l'agriculture, soit conjointement par le ministre de l'agriculture et le ministre de l'éducation
-nationale, soit par le ministre de l'éducation nationale. Ces formations sont organisées en cycles. Là où le besoin existe,
-des actions permettant la connaissance et la diffusion des langues et cultures régionales sont organisées dans les
-établissements. 
+Les formations assurées par l'enseignement et la formation professionnelle privés aux métiers de l'agriculture, de la forêt,
+de la nature et des territoires sont dispensées suivant des programmes et référentiels nationaux, qui en précisent
+respectivement le contenu et les objectifs et qui sont arrêtés soit par le ministre de l'agriculture, soit conjointement par
+le ministre de l'agriculture et le ministre de l'éducation nationale, soit par le ministre de l'éducation nationale. Ces
+formations sont organisées en cycles. Là où le besoin existe, des actions permettant la connaissance et la diffusion des
+langues et cultures régionales sont organisées dans les établissements. 
 
 Des enseignements artistiques sont assurés à titre obligatoire ou facultatif dans les établissements mentionnés au présent
 article. 
 
-Sous réserve des dispositions des articles L. 115-1, L. 900-2 et L. 980-1 du code du travail, les formations dispensées par
-l'enseignement général, technologique et professionnel et la formation professionnelle agricoles privés sont sanctionnées par
-des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de même niveau de l'enseignement général,
-technologique et professionnel. 
+Sous réserve des dispositions des articles L. 6211-1, L. 6211-2, L. 6211-5, L. 6221-1, L. 6232-6, L. 6232-8 à L. 6232-10, L.
+6313-1 à L. 6313-11, L. 6324-5 et L. 6325-2 du code du travail, les formations dispensées par l'enseignement général,
+technologique et professionnel et la formation professionnelle privés aux métiers de l'agriculture, de la forêt, de la nature
+et des territoires sont sanctionnées par des diplômes d'Etat ou des diplômes nationaux reconnus équivalents aux diplômes de
+même niveau de l'enseignement général, technologique et professionnel. 
 
-Chaque établissement privé d'enseignement et de formation professionnelle agricoles établit un projet d'établissement qui
-définit les modalités particulières de sa contribution à la mise en oeuvre des missions de l'enseignement et de la formation
-professionnelle agricoles mentionnées à l'article L. 813-1. Le projet d'établissement est établi dans le respect du schéma
-prévisionnel national des formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma prévisionnel
-régional des formations mentionné à l'article L. 214-1 du code de l'éducation, du plan régional de développement des
-formations professionnelles mentionné à l'article L. 214-13 du même code et des programmes et référentiels nationaux
-mentionnés à l'article L. 811-2 du présent code. Il est défini en cohérence avec le projet régional de l'enseignement
-agricole mentionné à l'article L. 814-4 du présent code. Il définit les modalités de la participation de l'établissement au
-développement des territoires dans lesquels celui-ci s'insère. 
+Chaque établissement privé d'enseignement et de formation professionnelle aux métiers de l'agriculture, de la forêt, de la
+nature et des territoires établit un projet d'établissement qui définit les modalités particulières de sa contribution à la
+mise en oeuvre des missions de l'enseignement et de la formation professionnelle agricoles mentionnées à l'article L. 813-1.
+Le projet d'établissement est établi dans le respect du schéma prévisionnel national des formations de l'enseignement
+agricole mentionné à l'article L. 814-2, du schéma prévisionnel régional des formations mentionné à l'article L. 214-1 du
+code de l'éducation, du contrat de plan régional de développement des formations professionnelles mentionné à l'article L.
+214-13 du même code et des programmes et référentiels nationaux mentionnés à l'article L. 811-2 du présent code. Il est
+défini en cohérence avec le projet régional de l'enseignement agricole mentionné à l'article L. 814-5 du présent code. Il
+définit les modalités de la participation de l'établissement au développement des territoires dans lesquels celui-ci
+s'insère. 
+
+Sous réserve de l'autorisation préalable de l'autorité académique, la partie pédagogique du projet d'établissement peut
+prévoir la réalisation d'expérimentations, d'une durée maximale de cinq ans, portant sur l'enseignement et son organisation
+et l'organisation pédagogique de la classe ou de l'établissement. Ces expérimentations font l'objet d'une évaluation
+annuelle. 
 
 Le projet d'établissement est élaboré sous la responsabilité du chef d'établissement. Il est adopté par le conseil
-d'administration de l'association ou organisme responsable de l'établissement dans les conditions prévues par l'article L.
-421-5 du code de l'éducation pour une durée de trois à cinq ans. 
+d'administration de l'association ou organisme responsable de l'établissement pour une durée de trois à cinq ans. 
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans des conditions fixées par le ministre de
 l'agriculture. 
 
-Les dispositions de l'article L. 811-3 sont applicables aux établissements d'enseignement agricoles privés sous contrat. "
-
-**Nota:**
-
-La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L. 401-1
-du même code.
+Les dispositions de l'article L. 811-3 sont applicables aux établissements d'enseignement agricole privé sous contrat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 9
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L421-5 (M)
-	  - Code de l'éducation - art. L811-2 (M)
-	  - Code de l'éducation - art. L811-3 (V)
-	  - Code du travail - art. L115-1 (M)
-	  - Code du travail - art. L900-2 (M)
-	  - Code du travail - art. L980-1 (T)
-	  - Code rural L811-1, L811-2, L813-1, L813-2
+	  - Code de l'éducation - art. L421-5
+	  - Code rural - art. L811-1
+	  - Code rural - art. L811-2
+	  - Code rural - art. L811-3
+	  - Code rural - art. L813-1
+	  - Code rural - art. L813-2
 
 
 #### Titre V : Les enseignements pour les enfants et adolescents handicapés
@@ -13418,10 +13430,14 @@ droits des marins et de leurs familles à l'assurance de la caisse générale de
 Les établissements d'enseignement et de formation professionnelle agricoles publics sont organisés conformément aux
 dispositions des articles L. 811-8 à L. 811-11 du code rural et de la pêche maritime, ci-après reproduites : 
 
-" Art.L. 811-8.-Tout établissement public local d'enseignement et de formation professionnelle agricole a pour siège, soit un
-lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole et regroupe plusieurs centres : 
+" Art.L. 811-8.-I.-Tout établissement public local d'enseignement et de formation professionnelle agricole assure une
+formation générale, technologique et professionnelle initiale et peut dispenser une formation continue, dans les métiers
+énoncés à l'article L. 811-1.
 
-1° Un ou plusieurs lycées d'enseignement général et technologique agricole ou lycées professionnels agricoles ; 
+A ce titre, il regroupe plusieurs centres : 
+
+1° Un ou plusieurs lycées d'enseignement général et technologique agricole, lycées professionnels agricoles ou lycées
+d'enseignement général, technologique et professionnel agricole ; 
 
 2° Un ou plusieurs centres de formation professionnelle et de promotion agricoles ou centres de formation d'apprentis qui
 dispensent les formations mentionnées au présent chapitre ; 
@@ -13430,13 +13446,13 @@ dispensent les formations mentionnées au présent chapitre ;
 formation aux réalités pratiques, techniques et économiques, et qui contribuent à la démonstration, à l'expérimentation et à
 la diffusion des techniques nouvelles. 
 
+Il a pour siège soit un lycée d'enseignement général et technologique agricole, soit un lycée professionnel agricole, soit un
+lycée d'enseignement général, technologique et professionnel agricole et dispose d'un centre relevant de chacune des
+catégories mentionnées aux 2° et 3°. 
+
 Les personnels, autres que le directeur, recrutés pour exercer leurs fonctions dans les ateliers technologiques ou
 exploitations agricoles mentionnés au 3° sont des salariés de droit privé qui sont régis par les dispositions du livre VII du
 présent code ou par celles du code du travail. 
-
-Dans un délai de cinq ans à compter de la promulgation de la loi n° 99-574 du 9 juillet 1999 d'orientation agricole, les
-lycées d'enseignement général et technologique agricoles et les lycées professionnels agricoles prennent la forme de lycées
-d'enseignement général, technologique et professionnel agricoles. 
 
 Ces établissements sont dotés de la personnalité civile et de l'autonomie administrative et financière. Ils peuvent être
 implantés sur plusieurs sites si la nature ou l'importance des activités le justifie. 
@@ -13446,36 +13462,27 @@ Chaque centre de formation dispose de l'autonomie pédagogique et éducative.
 En application des articles L. 312-6 et L. 312-7 du code de l'éducation, des enseignements artistiques sont dispensés, à
 titre obligatoire ou facultatif, dans les établissements publics d'enseignement mentionnés au présent article. 
 
-Chaque établissement public local d'enseignement et de formation professionnelle agricoles établit un projet d'établissement
-qui définit les modalités particulières de sa contribution à la mise en oeuvre des missions de l'enseignement et de la
-formation professionnelle agricoles publics mentionnés à l'article L. 811-1. Le projet d'établissement est établi dans le
-respect du schéma prévisionnel national des formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma
-prévisionnel régional des formations mentionné à l'article L. 214-1 du code de l'éducation, du plan régional de développement
-des formations professionnelles mentionné à l'article L. 214-13 du même code et des programmes et référentiels nationaux
-mentionnés à l'article L. 811-2 du présent code. Il est défini en cohérence avec le projet régional de l'enseignement
-agricole mentionné à l'article L. 814-4 du présent code. Il définit les modalités de la participation de l'établissement au
-développement des territoires dans lesquels celui-ci s'insère. 
+II.-Chaque établissement public local d'enseignement et de formation professionnelle publics aux métiers de l'agriculture, de
+la forêt, de la nature et des territoires établit un projet d'établissement qui définit les modalités particulières de sa
+contribution à la mise en oeuvre des missions de l'enseignement et de la formation professionnelle agricoles publics
+mentionnées à l'article L. 811-1. Le projet d'établissement est établi dans le respect du schéma prévisionnel national des
+formations de l'enseignement agricole mentionné à l'article L. 814-2, du schéma prévisionnel régional des formations
+mentionné à l'article L. 214-1 du code de l'éducation, du contrat de plan régional de développement des formations
+professionnelles mentionné à l'article L. 214-13 du même code et des programmes et référentiels nationaux mentionnés à
+l'article L. 811-2 du présent code. Il est défini en cohérence avec le projet régional de l'enseignement agricole mentionné à
+l'article L. 814-5 du présent code. Il définit les modalités de la participation de l'établissement au développement des
+territoires dans lesquels celui-ci s'insère. 
 
-Le projet d'établissement est élaboré et adopté sous la responsabilité du chef d'établissement. Il est adopté par le conseil
-d'administration de l'établissement dans les conditions prévues par l'article L. 421-5 du code de l'éducation pour une durée
-de trois à cinq ans. 
+Sous réserve de l'autorisation préalable de l'autorité académique, la partie pédagogique du projet d'établissement peut
+prévoir la réalisation d'expérimentations, d'une durée maximale de cinq ans, portant sur l'enseignement et son organisation
+et l'organisation pédagogique de la classe ou de l'établissement. Ces expérimentations sont préparées par le conseil de
+l'éducation et de la formation prévu à l'article L. 811-9-1. Elles font l'objet d'une évaluation annuelle. 
+
+Le projet d'établissement est élaboré sous la responsabilité du chef d'établissement. Il est adopté par le conseil
+d'administration de l'établissement pour une durée de trois à cinq ans. 
 
 La mise en oeuvre du projet d'établissement fait l'objet d'une évaluation dans des conditions fixées par le ministre de
-l'agriculture. 
-
-Les établissements d'enseignement et de formation professionnelle agricole relevant des communautés urbaines de Lille et de
-Dunkerque ainsi que du syndicat intercommunal de gestion du lycée d'enseignement professionnel et horticole de Raismes sont
-transformés en établissements publics locaux d'enseignement et de formation professionnelle agricole. 
-
-Leur transfert à la région Nord-Pas-de-Calais n'intervient, sauf convention contraire entre la région et l'établissement
-public de coopération intercommunale concerné, qu'une fois qu'a été constaté le strict respect de l'ensemble des normes de
-sécurité s'appliquant aux bâtiments et aux équipements. 
-
-Les dispositions des articles L. 1321-1 à L. 1321-8 du code général des collectivités territoriales s'appliquent à ce
-transfert de compétence. 
-
-La région prend en charge la rétribution des personnels ouvriers et de service qui exercent leur fonction dans les
-établissements transformés conformément aux dispositions du présent article. 
+l'agriculture.
 
 " Art.L. 811-9.-Les établissements publics locaux mentionnés à l'article précédent sont administrés par un conseil
 d'administration composé de trente membres. 
@@ -13515,35 +13522,21 @@ cas, le ministre chargé de l'agriculture ou le directeur régional de l'agricul
 l'article L. 211-4 du code de l'éducation installées sur un domaine appartenant à l'Etat ou mis à la disposition de l'Etat
 jouissent de la personnalité civile et de l'autonomie financière et constituent des établissements publics nationaux. "
 
-**Nota:**
-
-La loi 2005-380 a transféré les dispositions édictées par l'article L. 421-5 du code de l'éducation sous l'article L. 401-1
-du même code.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°99-574 1999-07-09
-	  - Loi n°2005-380 2005-04-23
-	  - Code général des collectivités territoriales L1321-1 à L1321-8
-	  - Code de l'éducation - art. L211-4 (V)
-	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-13 (M)
-	  - Code de l'éducation - art. L312-6 (V)
-	  - Code de l'éducation - art. L312-7 (V)
-	  - Code de l'éducation - art. L401-1 (V)
-	  - Code de l'éducation - art. L421-1 (V)
-	  - Code de l'éducation - art. L421-3 (V)
-	  - Code de l'éducation - art. L421-5 (M)
-	  - Code de l'éducation - art. L811-1 (V)
-	  - Code de l'éducation - art. L811-2 (M)
-	  - Code de l'éducation L312-6, L312-7, L811-1, L214-1, L214-13, L811-2, L814-2, L421-5, L811-8, L421-1, L421-3, L211-4, L401-1
-	  - Code rural L811-8 à L811-11
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Loi n°2010-874 du 27 juillet 2010 - art. 9
+
+	**Cite**:
+
+	  - Code rural - art. L811-10
+	  - Code rural - art. L811-8
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code rural - art. L811-11
+	  - PILOTE_SUIVEUR: Code rural - art. L811-9
 
 
 ##### Section 6 : Dispositions diverses.
