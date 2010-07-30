@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-07-29
+Version Consolidée au 2010-07-31
 
 # Partie législative
 
@@ -38346,19 +38346,19 @@ signature données par le précédent recteur sont maintenues jusqu'à la nomina
 
 Nul ne peut être nommé recteur s'il n'est habilité à diriger des recherches.
 
-Toutefois, dans la limite de 10 % de l'effectif budgétaire des emplois, peuvent être nommées recteurs des personnalités
-qualifiées en matière d'enseignement ou de recherche, titulaires du doctorat et justifiant d'une expérience professionnelle
-de dix ans au moins dans le domaine de la formation.
+Toutefois, dans la limite de 20 % de l'effectif des emplois correspondants, peuvent être nommées recteurs :
+
+1° Des personnes ayant exercé les fonctions de secrétaire général de ministère ou de directeur d'administration centrale
+pendant au moins trois ans ;
+
+2° Des personnes titulaires du doctorat et justifiant d'une expérience professionnelle de dix ans au moins dans le domaine de
+l'enseignement, de la formation ou de la recherche.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°1854-08-22 art. 16
-
-	**Codifié par**:
-
-	  - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
+	  - Décret n°2010-889 du 29 juillet 2010 - art. 1
 
 	**Cité par**:
 
@@ -40332,9 +40332,10 @@ cas d'empêchement temporaire, elles peuvent se faire remplacer par un suppléan
 
 Elles comprennent en outre : 
 
-1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du Conseil économique
-et social, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée conformément aux dispositions
-prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions. 
+1° Trois personnalités choisies respectivement parmi les membres de l'Assemblée nationale, du Sénat et du   Conseil
+économique, social et environnemental, à raison d'une pour chacune de ces assemblées et sur leur proposition exprimée
+conformément aux dispositions prévues par leur règlement. Pour chacune d'elles, un suppléant est désigné dans les mêmes
+conditions. 
 
 2° Deux personnalités choisies respectivement : 
 
@@ -40354,7 +40355,7 @@ Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
 
 	**Modifié par**:
 
-	  - Décret n°2008-846 du 25 août 2008 - art. 4
+	  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
 
 	**Cite**:
 
@@ -52628,55 +52629,55 @@ secrétaire général et administré par un conseil d'administration assisté d'
 
 ###### Article D314-31
 
-Le conseil d'administration de l'Institut national de recherche pédagogique comprend trente-deux membres, soit :
+Le conseil d'administration de l'Institut national de recherche pédagogique comprend trente-deux membres, soit : 
 
-1° Huit représentants de l'Etat :
+1° Huit représentants de l'Etat : 
 
-a) Deux représentants du ministre chargé de l'éducation ;
+a) Deux représentants du ministre chargé de l'éducation ; 
 
-b) Un représentant du ministre chargé de l'enseignement supérieur ;
+b) Un représentant du ministre chargé de l'enseignement supérieur ; 
 
-c) Un représentant du ministre chargé de la recherche ;
+c) Un représentant du ministre chargé de la recherche ; 
 
-d) Un représentant du ministre chargé du budget ;
+d) Un représentant du ministre chargé du budget ; 
 
-e) Un représentant du ministre chargé de la formation professionnelle ;
+e) Un représentant du ministre chargé de la formation professionnelle ; 
 
-f) Un recteur d'académie, désigné par le ministre chargé de l'éducation ;
+f) Un recteur d'académie, désigné par le ministre chargé de l'éducation ; 
 
-g) Un directeur d'institut universitaire de formation des maîtres, désigné par le ministre chargé de l'éducation ;
+g) Un directeur d'institut universitaire de formation des maîtres, désigné par le ministre chargé de l'éducation ; 
 
-2° Deux membres de droit :
+2° Deux membres de droit : 
 
-a) Le directeur général du Centre national de la recherche scientifique ;
+a) Le directeur général du Centre national de la recherche scientifique ; 
 
-b) Le doyen de l'inspection générale de l'éducation nationale ;
+b) Le doyen de l'inspection générale de l'éducation nationale ; 
 
-3° Un membre du Conseil économique et social désigné par celui-ci ;
+3° Un membre du   Conseil économique, social et environnemental désigné par celui-ci ; 
 
-4° Deux représentants des parents d'élèves, désignés par les deux fédérations de parents d'élèves les plus représentatives ;
+4° Deux représentants des parents d'élèves, désignés par les deux fédérations de parents d'élèves les plus représentatives ; 
 
-5° Un membre du Conseil national de la vie lycéenne, désigné par celui-ci ;
+5° Un membre du Conseil national de la vie lycéenne, désigné par celui-ci ; 
 
 6° Six personnalités désignées d'un commun accord par les ministres chargés de l'éducation, de l'enseignement supérieur et de
 la recherche en raison de leurs compétences dans les domaines de l'éducation, de la formation et de la recherche, dont deux
 exercent leurs fonctions dans un organisme étranger et dont un représente les mouvements pédagogiques et d'éducation
-populaire ;
+populaire ; 
 
-7° Dix membres élus parmi les personnels affectés, mis à disposition ou détachés dans l'établissement :
+7° Dix membres élus parmi les personnels affectés, mis à disposition ou détachés dans l'établissement : 
 
 a) Deux représentants des professeurs des universités et personnels assimilés au sens des dispositions de l'article 6 du
-décret n° 92-70 du 16 janvier 1992 relatif au Conseil national des universités ;
+décret n° 92-70 du 16 janvier 1992 relatif au Conseil national des universités ; 
 
-b) Deux représentants des maîtres de conférences et personnels assimilés au sens des mêmes dispositions ;
+b) Deux représentants des maîtres de conférences et personnels assimilés au sens des mêmes dispositions ; 
 
-c) Deux représentants des enseignants des premier et second degrés ;
+c) Deux représentants des enseignants des premier et second degrés ; 
 
-d) Deux représentants des ingénieurs d'études et de recherche ;
+d) Deux représentants des ingénieurs d'études et de recherche ; 
 
-e) Deux représentants des personnels administratifs, techniques, ouvriers et de service ;
+e) Deux représentants des personnels administratifs, techniques, ouvriers et de service ; 
 
-8° Deux représentants des personnels associés à l'établissement, élus par leurs pairs.
+8° Deux représentants des personnels associés à l'établissement, élus par leurs pairs. 
 
 Pour chacun des membres prévus au présent article, à l'exception de ceux qui sont mentionnés aux 2° et 6°, un suppléant est
 désigné, dans les mêmes conditions que le titulaire, afin de le remplacer en cas d'empêchement.
@@ -52685,16 +52686,19 @@ désigné, dans les mêmes conditions que le titulaire, afin de le remplacer en 
 
 	**Cite**:
 
-	  - Décret n°92-70 1992-01-16 art. 6
+	  - Décret n°92-70 du 16 janvier 1992
 
 	**Anciens textes**:
 
-	  - Décret n°93-288 1993-03-05 art. 6
 	  - Décret n°93-288 du 5 mars 1993 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-886 du 29 juillet 2010 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1649 du 28 décembre 2010 - art. 4
 
 	**Cité par**:
 
@@ -84781,8 +84785,8 @@ prépondérante.
 
 ###### Article R426-10
 
-Le directeur général est un recteur d'académie. Il assure la direction du Centre national d'enseignement à distance. A ce
-titre : 
+Le directeur général du Centre national d'enseignement à distance est nommé par décret pris sur proposition des ministres
+chargés de l'éducation et de l'enseignement supérieur.A ce titre : 
 
 1° Il conduit la politique générale de l'établissement dans le cadre des orientations définies par le conseil
 d'administration ; 
@@ -84799,7 +84803,7 @@ d'administration ;
 emplois pour lesquels aucune autre autorité n'a pouvoir de nomination et recrute les personnels contractuels. Il a autorité
 sur l'ensemble du personnel de l'établissement et l'affecte dans les différents services ; 
 
-7° Il conclut les conventions et marchés, sous réserve des dispositions de l'article R. 426-7. 
+7° Il conclut les conventions et marchés, sous réserve des ispositions de l'article R. 426-7. 
 
 Le directeur général est assisté d'un secrétaire général nommé sur sa proposition par les ministres chargés de l'éducation et
 de l'enseignement supérieur. Il peut également se faire assister de directeurs adjoints qu'il nomme. Il peut nommer des
@@ -84815,22 +84819,13 @@ dépenses de personnels et les chapitres des dépenses de matériel.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2002-602 du 25 avril 2002 - art. 10 (Ab)
-	  - Décret n°2005-1312 du 21 octobre 2005 - art. 2 al 1 et 3, ecqc le CNED (V)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2010-889 du 29 juillet 2010 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R426-7 (V)
+	  - Code de l'éducation - art. R426-7
 
 
 ###### Article R426-11
