@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-09-02
+Version Consolidée au 2010-09-19
 
 # Partie législative
 
@@ -90122,9 +90122,9 @@ sont perçues par cette dernière.
 L'agent comptable de l'Agence pour l'enseignement français à l'étranger est nommé par arrêté du ministre des affaires
 étrangères et du ministre chargé du budget.
 
-Des comptables secondaires sont nommés dans les établissements en gestion directe ou dans les établissements principaux des
-groupements, avec l'agrément de l'agent comptable de l'agence, par arrêté du ministre des affaires étrangères et du ministre
-chargé du budget. Plusieurs établissements en gestion directe peuvent être dotés du même comptable secondaire.
+Des agents comptables secondaires sont nommés dans les établissements en gestion directe ou dans les établissements
+principaux des groupements, avec l'agrément de l'agent comptable de l'agence, par décision du directeur de l'agence.
+Plusieurs établissements en gestion directe peuvent être dotés du même agent comptable secondaire.
 
 A la fin de chaque exercice, l'agent comptable prépare le compte financier de l'agence pour l'exercice écoulé. Ce compte
 retrace en un document unique les recettes perçues et les dépenses effectuées par les services centraux de l'agence ainsi que
@@ -90132,17 +90132,9 @@ par les établissements d'enseignement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2003-1288 du 23 décembre 2003 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret du 16 septembre 2010 - art. 1
 
 
 ###### Article D452-17
