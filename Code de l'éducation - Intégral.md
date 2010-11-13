@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-11-12
+Version Consolidée au 2010-11-14
 
 # Partie législative
 
@@ -37160,10 +37160,10 @@ Le préfet de région agissant en concertation avec les autorités de l'Etat com
 générale des établissements d'enseignement, le président du conseil régional, un ou plusieurs représentants des organisations
 professionnelles d'employeurs peuvent conclure des contrats d'objectifs. Ces contrats pluriannuels fixent des objectifs de
 développement de l'apprentissage et de l'enseignement professionnel ou technologique par alternance, coordonnés avec les
-autres voies de formation et d'enseignement professionnels.
+autres voies de formation et d'enseignement professionnels. 
 
-Les chambres de commerce et d'industrie, les chambres de métiers et de l'artisanat et les chambres d'agriculture peuvent être
-associées aux contrats d'objectifs.
+Les chambres de commerce et d'industrie, les       chambres de métiers et de l'artisanat de région et les chambres
+d'agriculture peuvent être associées aux contrats d'objectifs. 
 
 Le schéma prévisionnel des formations prévu à l'article L. 214-1 et le schéma prévisionnel de l'apprentissage prévu à
 l'article L. 214-13, paragraphe II, tiennent compte des orientations générales définies par les contrats d'objectifs.
@@ -37172,21 +37172,20 @@ l'article L. 214-13, paragraphe II, tiennent compte des orientations générales
 
 	**Anciens textes**:
 
-	  - Décret n°93-51 1993-01-14 art. 1
 	  - Décret n°93-51 du 14 janvier 1993 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Modifié par**:
 
-	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1 (M)
-	  - Code de l'éducation - art. L214-13 (M)
+	  - Code de l'éducation - art. L214-1
+	  - Code de l'éducation - art. L214-13
 
 
 ###### Article D214-6
@@ -44251,32 +44250,32 @@ ou un représentant des chambres d'agriculture. "
 
 Pour les départements d'outre-mer la composition de la section spécialisée du comité départemental de l'emploi prévue à
 l'article L. 237-2 (1) du présent code est fixée par les dispositions de l'article D. 910-20 du code du travail ci-après
-reproduites :
+reproduites : 
 
-" Art. D. 910-20. - Il est institué une section spécialisée prévue au deuxième alinéa de l'article L. 237-2 du code de
-l'éducation.
+" Art. D. 910-20.-Il est institué une section spécialisée prévue au deuxième alinéa de l'article L. 237-2 du code de
+l'éducation. 
 
 " La section spécialisée exerce, au nom du comité de coordination régional de l'emploi et de la formation professionnelle,
 les attributions disciplinaires conférées à celui-ci par les lois en vigueur, notamment l'article L. 914-6 et le premier
 alinéa de l'article L. 234-2 du code de l'éducation. Elle a, dans ce cas, le caractère d'une juridiction administrative et
-statue à charge d'appel devant le Conseil supérieur de l'éducation.
+statue à charge d'appel devant le Conseil supérieur de l'éducation. 
 
 " Cette section spécialisée est placée sous la présidence de l'inspecteur chargé de l'enseignement technique, en résidence
-dans le département.
+dans le département. 
 
-" Elle comprend, outre le président, dix-sept membres, désignés par le préfet de région :
+" Elle comprend, outre le président, dix-sept membres, désignés par le préfet de région : 
 
-" 1° Cinq représentants de l'administration ;
+" 1° Cinq représentants de l'administration ; 
 
-" 2° Six représentants des enseignements publics et privés ;
+" 2° Six représentants des enseignements publics et privés ; 
 
-" 3° Trois représentants des organisations syndicales de salariés les plus représentatives dans la région ;
+" 3° Trois représentants des organisations syndicales de salariés les plus représentatives dans la région ; 
 
-" 4° Deux représentants des organisations syndicales d'employeurs représentatives de la région.
+" 4° Deux représentants des organisations syndicales d'employeurs représentatives de la région. 
 
 " La représentation des employeurs est complétée, selon la nature de l'activité de l'établissement dont relèvent les
-personnels en cause, par un représentant de la ou des chambres de métiers et de l'artisanat ou par un représentant de la ou
-des chambres de commerce et d'industrie ou par un représentant de la ou des chambres d'agriculture. "
+personnels en cause, par un représentant de la ou des chambres de métiers et de l'artisanat de région ou par un représentant
+de la ou des chambres de commerce et d'industrie ou par un représentant de la ou des chambres d'agriculture. "
 
 **Nota:**
 
@@ -44287,18 +44286,26 @@ des chambres de commerce et d'industrie ou par un représentant de la ou des cha
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Modifié par**:
 
-	  - Décret n°2004-1164 du 2 novembre 2004 - art. 1 () JORF 4 novembre 2004
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-652 du 10 juin 2015 - art. 11
+	  - Décret n°2015-856 du 13 juillet 2015 - art. 10
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L234-2 (M)
-	  - Code de l'éducation - art. L237-2 (M)
-	  - Code de l'éducation - art. L914-6 (M)
-	  - Code du travail - art. D910-20 (Ab)
+	  - Code de l'éducation - art. L234-2
+	  - Code de l'éducation - art. L237-2
+	  - Code du travail - art. D910-20
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code du travail - art. D910-20
 
 
 ###### Article R237-10
@@ -50628,7 +50635,7 @@ p) Le chef du service des droits des femmes et de l'égalité au ministère char
 
 3° Un représentant des chambres de commerce et d'industrie ; 
 
-4° Un représentant des chambres de métiers et de l'artisanat ; 
+4° Un représentant des       chambres de métiers et de l'artisanat de région ; 
 
 5° Six représentants d'organisations syndicales de salariés représentatives ; 
 
@@ -50675,7 +50682,7 @@ de l'égalité" sont remplacés par les mots : "directeur général de la cohés
 
 	**Modifié par**:
 
-	  - Décret n°2010-95 du 25 janvier 2010 - art. 6 (V)
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cité par**:
 
@@ -51402,7 +51409,7 @@ Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditio
 
 a) Le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ; 
 
-b) Le directeur général de l'     institution mentionnée à l'article L. 5312-1 du code du travail  ou son représentant ; 
+b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ; 
 
 c) Le directeur général du Centre d'analyse stratégique ou son représentant ; 
 
@@ -51419,7 +51426,7 @@ a) Deux sur proposition des organisations professionnelles d'employeurs les plus
 
 b) Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ; 
 
-c) Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat ; 
+c) Un sur proposition de l'Assemblée permanente des       chambres de métiers et de l'artisanat de région ; 
 
 d) Cinq sur proposition des organisations syndicales de salariés représentatives ; 
 
@@ -51464,7 +51471,7 @@ l'institution prévue à l'article L. 5312-1 du code du travail. La création de
 
 	**Modifié par**:
 
-	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cité par**:
 
@@ -61130,79 +61137,79 @@ S'ils ont fait l'objet d'une homologation antérieurement au 22 février 2004, l
 ###### Article R335-24
 
 La Commission nationale de la certification professionnelle est placée auprès du ministre chargé de la formation
-professionnelle. Elle comprend, outre son président :
+professionnelle. Elle comprend, outre son président : 
 
-1° Un représentant de chacun des ministres chargés :
+1° Un représentant de chacun des ministres chargés : 
 
-a) Des affaires sociales et de la santé ;
+a) Des affaires sociales et de la santé ; 
 
-b) De l'agriculture ;
+b) De l'agriculture ; 
 
-c) De la culture ;
+c) De la culture ; 
 
-d) De la défense ;
+d) De la défense ; 
 
-e) De l'industrie ;
+e) De l'industrie ; 
 
-f) Des petites et moyennes entreprises, du commerce et de l'artisanat ;
+f) Des petites et moyennes entreprises, du commerce et de l'artisanat ; 
 
-g) De l'éducation ;
+g) De l'éducation ; 
 
-h) De l'enseignement professionnel ;
+h) De l'enseignement professionnel ; 
 
-i) De l'enseignement supérieur ;
+i) De l'enseignement supérieur ; 
 
-j) De l'environnement ;
+j) De l'environnement ; 
 
-k) De l'équipement, des transports et du logement ;
+k) De l'équipement, des transports et du logement ; 
 
-l) De la fonction publique ;
+l) De la fonction publique ; 
 
-m) De la formation professionnelle ;
+m) De la formation professionnelle ; 
 
-n) De la jeunesse et des sports ;
+n) De la jeunesse et des sports ; 
 
-o) Du tourisme ;
+o) Du tourisme ; 
 
-p) Du travail et de l'emploi ;
+p) Du travail et de l'emploi ; 
 
-2° Cinq représentants des organisations des employeurs les plus représentatives au niveau national ;
+2° Cinq représentants des organisations des employeurs les plus représentatives au niveau national ; 
 
-3° Cinq représentants des organisations des salariés les plus représentatives au niveau national ;
+3° Cinq représentants des organisations des salariés les plus représentatives au niveau national ; 
 
 4° Trois représentants élus des assemblées permanentes des chambres d'agriculture, des chambres françaises de commerce et
-d'industrie et des chambres de métiers et de l'artisanat ;
+d'industrie et des       chambres de métiers et de l'artisanat de région ; 
 
-5° Trois représentants élus des régions, désignés sur proposition de l'Association des régions de France.
+5° Trois représentants élus des régions, désignés sur proposition de l'Association des régions de France. 
 
-Participent également aux travaux de la commission en tant que personnalités qualifiées, avec voix consultative :
+Participent également aux travaux de la commission en tant que personnalités qualifiées, avec voix consultative : 
 
-1° Un rapporteur général et deux rapporteurs adjoints ;
+1° Un rapporteur général et deux rapporteurs adjoints ; 
 
-2° Deux personnalités désignées sur proposition d'organisations intéressées à la formation professionnelle ;
+2° Deux personnalités désignées sur proposition d'organisations intéressées à la formation professionnelle ; 
 
-3° Deux représentants du Conseil national de la jeunesse ;
+3° Deux représentants du Conseil national de la jeunesse ; 
 
-4° Le directeur du Centre d'études et de recherches sur les qualifications ;
+4° Le directeur du Centre d'études et de recherches sur les qualifications ; 
 
-5° Le directeur du Centre pour le développement de l'information sur la formation permanente (Centre-INFFO) ;
+5° Le directeur du Centre pour le développement de l'information sur la formation permanente (Centre-INFFO) ; 
 
-6° Le directeur de l'Office national d'information sur les enseignements et les professions ;
+6° Le directeur de l'Office national d'information sur les enseignements et les professions ; 
 
-7° Le président du Haut Comité éducation-économie-emploi ;
+7° Le président du Haut Comité éducation-économie-emploi ; 
 
-8° Un représentant du Comité consultatif de l'économie sociale ;
+8° Un représentant du Comité consultatif de l'économie sociale ; 
 
-9° Un représentant de l'Union des confédérations de l'industrie et des employeurs d'Europe ;
+9° Un représentant de l'Union des confédérations de l'industrie et des employeurs d'Europe ; 
 
-10° Un représentant de la Confédération européenne des syndicats ;
+10° Un représentant de la Confédération européenne des syndicats ; 
 
-11° Le président du Conseil national de la formation professionnelle tout au long de la vie.
+11° Le président du Conseil national de la formation professionnelle tout au long de la vie. 
 
-Chacun des membres de la commission dispose d'un suppléant.
+Chacun des membres de la commission dispose d'un suppléant. 
 
 Toute personne dont l'audition apparaîtrait de nature à éclairer les débats peut être invitée par le président à participer
-aux réunions.
+aux réunions. 
 
 En cas d'empêchement du président, la commission est alternativement présidée par un vice-président désigné par les
 organisations d'employeurs les plus représentatives au niveau national et par un vice-président désigné par les organisations
@@ -61212,16 +61219,15 @@ de salariés les plus représentatives au niveau national.
 
 	**Anciens textes**:
 
-	  - Décret n°2002-617 du 26 avril 2002 - art. 1, v. init.
 	  - Décret n°2002-617 du 26 avril 2002 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-466 du 28 mars 2007 - art. 2 () JORF 30 mars 2007
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
 
 	**Cité par**:
 
@@ -61441,6 +61447,66 @@ sur les travaux de la commission.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+
+##### Section 3 : Le label "campus des métiers et des qualifications".
+
+###### Article D335-34
+
+Chaque commission professionnelle consultative comprend : 
+
+1° Des représentants, en nombre égal, des employeurs et des salariés proposés par les organisations syndicales les plus
+représentatives ; 
+
+2° Des représentants des pouvoirs publics désignés par les ministres intéressés dont, en tout état de cause, un représentant
+du ministre chargé du travail et de l'emploi et un représentant de chacun des ministres compétents en raison de la nature des
+formations dont la commission a à connaître ainsi qu'un représentant du Centre d'études et de recherches sur les
+qualifications ; 
+
+3° Des personnalités qualifiées appartenant soit au secteur public, soit au secteur privé, choisies en raison de leurs
+activités professionnelles ou de leurs travaux, parmi lesquelles des représentants des personnels enseignants ainsi que des
+représentants des chambres de commerce et d'industrie, des       chambres de métiers et de l'artisanat de région ou des
+chambres d'agriculture. 
+
+Chaque commission peut instituer, pour l'examen de certains problèmes, des sous-commissions ou des groupes de travail,
+permanents ou temporaires, auxquels elle peut appeler, en sus de ceux de ses membres qui auront été désignés pour en faire
+partie, toute personne dont la présence paraîtrait utile. 
+
+Lorsque les questions à traiter relèvent de plusieurs branches d'activités professionnelles définies à l'article D. 335-33,
+il peut être constitué un groupe de travail interprofessionnel. 
+
+Les groupes de travail interprofessionnels peuvent recevoir des commissions consultatives professionnelles délégation pour
+soumettre directement au ministre des propositions ou avis sur les questions dont l'étude leur est confiée. En tout état de
+cause, il est rendu compte de leurs travaux à chacune des commissions professionnelles consultatives concernées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°72-607 du 4 juillet 1972 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 28 décembre 1972 - art. 1 (V)
+	  - Arrêté du 2 juillet 1973 - art. 1 (V)
+	  - Arrêté du 22 novembre 1990 - art. 1 (Ab)
+	  - Arrêté du 22 novembre 1990 - art. 5 (Ab)
+	  - Arrêté du 15 mai 2007 - art. 3 (VT)
+	  - Arrêté du 9 février 2017 (V)
+	  - Arrêté du 19 mars 1973 - art. 1 (Ab)
+	  - Arrêté du 19 mars 1973 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2010-1356 du 11 novembre 2010 - art. 25 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D335-33
 
 
 ##### Section 4 : Les conseillers de l'enseignement technologique.
