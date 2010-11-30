@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-11-14
+Version Consolidée au 2010-12-01
 
 # Partie législative
 
@@ -4208,40 +4208,15 @@ l'article 28 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du 
 
 ###### Article L213-11
 
-Les transports scolaires sont des services réguliers publics, au sens de l'article 29 de la loi n° 82-1153 du 30 décembre
-1982 d'orientation des transports intérieurs. 
-
-Le département a la responsabilité de l'organisation et du fonctionnement de ces transports. Il consulte à leur sujet le
-conseil départemental de l'éducation nationale. Un décret en Conseil d'Etat fixe les règles techniques auxquelles doivent
-répondre les transports scolaires. 
-
-Le département est consulté par l'autorité compétente de l'Etat, dans des conditions fixées par décret, avant toute décision
-susceptible d'entraîner une modification substantielle des besoins en matière de transport scolaire.
-
-A l'intérieur des périmètres de transports urbains existant au 1er septembre 1984, cette responsabilité est exercée par
-l'autorité compétente pour l'organisation des transports urbains. 
-
-En cas de création ou de modification ultérieures d'un périmètre de transports urbains incluant le transport scolaire, une
-convention est passée entre l'autorité compétente pour l'organisation des transports urbains et le département. Cette
-convention fixe les conditions de financement des services de transports scolaires dans ce nouveau périmètre. 
-
-Un décret en Conseil d'Etat détermine les procédures d'arbitrage par le représentant de l'Etat dans le département en cas de
-litige. En ce qui concerne les modalités financières du transfert, l'arbitrage du représentant de l'Etat dans le département
-prend en compte le montant des dépenses effectuées par le département au titre des compétences transférées à l'autorité
-compétente pour l'organisation des transports urbains au cours de l'année scolaire précédant le transfert, de sorte que soit
-assurée la compensation intégrale des moyens nécessaires à l'exercice de la compétence transférée. 
-
-Le transfert des ressources équivalentes aux dépenses supportées par l'Etat au titre des bourses de fréquentation scolaire,
-au titre du financement des frais de premier établissement des services de transport réservés aux élèves, des frais de
-transport des élèves et étudiants gravement handicapés, des élèves des écoles maternelles en zone rurale et des élèves des
-zones de montagne s'effectue dans les conditions prévues par le code général des collectivités territoriales.
+L'organisation des transports scolaires en dehors de la région Ile-de-France est régie par les dispositions des articles L.
+3111-7 à L. 3111-10 du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Loi n°82-1153 du 30 décembre 1982 - art. 27 (VT)
-	  - Loi n°82-1153 du 30 décembre 1982 - art. 29 (V)
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 29 (VT)
 	  - Décret n°2017-879 du 9 mai 2017 - art. 1
 	  - Décret n°2017-879 du 9 mai 2017 - art. 4
 	  - Code de l'action sociale et des familles - art. R146-42 (V)
@@ -4255,55 +4230,53 @@ zones de montagne s'effectue dans les conditions prévues par le code général 
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 29
 	  - Loi n°83-663 du 22 juillet 1983 - art. 29 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 28 () JORF 6 janvier 2006
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-991 du 7 août 2015 - art. 15 (V)
 
 	**Nouveaux textes**:
 
-	  - Code des transports - art. L3111-7 (V)
-	  - Code des transports - art. L3111-8 (V)
+	  - Code de l'éducation - art. L214-18, v. 0.1 (VD)
+
+	**Cite**:
+
+	  - Code des transports - art. L3111-7 (VD)
 
 
 ###### Article L213-12
 
-S'ils n'ont pas décidé de les prendre en charge eux-mêmes, le conseil général ou l'autorité compétente pour l'organisation
-des transports urbains peuvent confier par convention tout ou partie de l'organisation des transports scolaires à des
-communes, établissements publics de coopération intercommunale, syndicats mixtes, établissements d'enseignement, associations
-de parents d'élèves et associations familiales. L'autorité compétente pour l'organisation des transports urbains peut
-également confier, par convention, tout ou partie de l'organisation des transports scolaires au département.
-
-Si aucune convention confiant l'organisation des transports scolaires à l'une des personnes morales qui en détenaient la
-responsabilité au 1er septembre 1984 n'est intervenue avant le 1er septembre 1988, la responsabilité de l'organisation et du
-fonctionnement de ces transports est exercée de plein droit, selon les cas, par le département ou par l'autorité compétente
-pour l'organisation des transports urbains.
-
-Les modalités des conventions passées avec les entreprises, et notamment les conditions de dénonciation, sont déterminées par
-décret en Conseil d'Etat.
+L'organisation des transports scolaires dans la région Ile-de-France est régie par les dispositions des articles L. 3111-14 à
+L. 3111-16 du code des transports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 30
 	  - Loi n°83-663 du 22 juillet 1983 - art. 30 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 du 13 août 2004 - art. 88 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2015-991 du 7 août 2015 - art. 15 (V)
 
 	**Cité par**:
 
@@ -4311,112 +4284,14 @@ décret en Conseil d'Etat.
 	  - Code de l'éducation - art. R213-5 (VT)
 	  - Code de l'éducation - art. R213-9 (VT)
 
-
-###### Article L213-12-1
-
-La région et le département peuvent participer au financement des frais de transport individuel des élèves vers les
-établissements scolaires dont ils ont la charge.
-
-Une convention avec le conseil général ou l'autorité compétente pour l'organisation des transports scolaires prévoit les
-conditions de participation de la région ou du département au financement de ces transports scolaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 du 14 avril 2003
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 88 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
-
 	**Nouveaux textes**:
 
-	  - Code des transports - art. L3111-10 (V)
-
-
-###### Article L213-13
-
-Les articles L. 213-11 et L. 213-12 ne s'appliquent pas dans la région d'Ile-de-France, conformément aux dispositions de
-l'ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile-de-France.
-
-**Nota:**
-
-Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
-après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
-précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
-juillet 2005.
-
-**Liens relatifs à cet article**
+	  - Code de l'éducation - art. L214-19, v. 0.1 (VD)
+	  - Code des transports - art. L3111-9 (V)
 
 	**Cite**:
 
-	  - Ordonnance n°59-151 du 7 janvier 1959
-	  - Code de l'éducation - art. L231-11
-
-	**Anciens textes**:
-
-	  - Loi n°83-663 1983-07-22 art. 31
-	  - Loi n°83-663 du 22 juillet 1983 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
-
-
-###### Article L213-14
-
-Dans la région d'Ile-de-France, les frais de transport individuel des élèves handicapés vers les établissements scolaires
-rendus nécessaires du fait de leur handicap sont supportés par le Syndicat des transports d'Ile-de-France.
-
-**Nota:**
-
-Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
-après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
-précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
-juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°83-663 1983-07-22 art. 2
-	  - Loi n°83-663 du 22 juillet 1983 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 du 14 avril 2003
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Code de l'action sociale et des familles - art. R146-42 (V)
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L3111-16 (V)
+	  - Code des transports - art. L3111-14
 
 
 ##### Chapitre IV : Les compétences des régions
@@ -27384,52 +27259,6 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-
-###### Article L821-5
-
-Dans la région d'Ile-de-France, les frais de transport individuel des étudiants handicapés vers les établissements
-universitaires rendus nécessaires du fait de leur handicap sont supportés par le Syndicat des transports d'Ile-de-France.
-
-**Nota:**
-
-Loi n° 2004-809 du 13 août 2004 art. 42 : Les dispositions des articles 38 à 41 entrent en vigueur au plus tard six mois
-après la publication du décret en Conseil d'Etat prévu au VII de l'article 1er de l'ordonnance n° 59-151 du 7 janvier 1959
-précitée et au plus tard le 1er juillet 2005. Il s'agit du décret n° 2005-664 du 10 juin 2005 qui entre en vigueur le 1er
-juillet 2005.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°59-151 du 7 janvier 1959 - art. 1
-	  - Loi n°2004-809 du 13 août 2004
-
-	**Anciens textes**:
-
-	  - Loi n°75-534 du 30 juin 1975 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 41 () JORF 17 août 2004 en vigueur le 1er juillet 2005
-
-	**Cité par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 41 (V)
-	  - Code de l'action sociale et des familles - art. L242-11 (M)
-	  - Code de l'action sociale et des familles - art. R146-42 (V)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L3111-16 (V)
 
 
 ##### Chapitre II : Les oeuvres universitaires.
