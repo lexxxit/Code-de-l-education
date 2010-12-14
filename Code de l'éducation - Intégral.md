@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2010-12-15
 
 # Partie législative
 
@@ -24096,14 +24096,18 @@ que les mesures exceptionnelles prises en cas de déséquilibre.
 Les établissements publics à caractère scientifique, culturel et professionnel peuvent conclure des conventions de
 coopération soit entre eux, soit avec d'autres établissements publics ou privés.
 
-Un établissement d'enseignement supérieur public ou privé peut être rattaché à un ou plusieurs établissements publics à
-caractère scientifique, culturel et professionnel, par décret, sur sa demande et sur proposition du ou des établissements
-auxquels ce rattachement est demandé, après avis du Conseil national de l'enseignement supérieur et de la recherche.
+Un établissement ou un organisme public ou privé concourant aux missions du service public de l'enseignement supérieur ou de
+la recherche peut être rattaché à un ou plusieurs établissements publics à caractère scientifique, culturel et professionnel,
+par décret, sur sa demande et sur proposition du ou des établissements auxquels ce rattachement est demandé, après avis du
+Conseil national de l'enseignement supérieur et de la recherche.
 
-Un établissement d'enseignement supérieur public ou privé peut être intégré à un établissement public scientifique, culturel
-et professionnel, dans les conditions fixées au deuxième alinéa.
+Un établissement ou un organisme public ou privé concourant aux missions du service public de l'enseignement supérieur ou de
+la recherche peut être intégré à un établissement public scientifique, culturel et professionnel, dans les conditions fixées
+au deuxième alinéa.
 
 En cas de rattachement, les établissements conservent leur personnalité morale et leur autonomie financière.
+
+Le présent article est applicable en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -24125,13 +24129,20 @@ En cas de rattachement, les établissements conservent leur personnalité morale
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 43
 	  - Loi n°84-52 du 26 janvier 1984 - art. 43 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2010-1536 du 13 décembre 2010 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 65
 
 
 ###### Article L719-11
@@ -24243,6 +24254,10 @@ ces fondations partenariales a fixé son siège. Le recteur assure également la
 fondations partenariales bénéficient de plein droit de toutes les prérogatives reconnues aux fondations universitaires créées
 en application de l'article L. 719-12 du présent code. 
 
+Les fondations partenariales peuvent recevoir, en vue de la réalisation d'une œuvre d'intérêt général et à but non lucratif
+se rattachant à leurs missions, l'affectation irrévocable de biens, droits ou ressources, sans que soit créée à cet effet une
+personne morale nouvelle. Cette affectation peut être dénommée fondation. 
+
 En cas de dissolution de la fondation partenariale, les ressources non employées et la dotation, si celle-ci a été constituée
 et n'a pas fait l'objet de l'affectation prévue à l'article 19-6 de la loi n° 87-571 du 23 juillet 1987 précitée, sont
 attribuées par le liquidateur à l'une ou à plusieurs de la ou des fondations universitaires ou partenariales créées par
@@ -24263,9 +24278,9 @@ d'administration de l'établissement.
 	**Cite**:
 
 	  - Loi n°87-571 du 23 juillet 1987
-	  - Loi n°87-571 du 23 juillet 1987 - art. 19-1 (V)
-	  - Loi n°87-571 du 23 juillet 1987 - art. 19-6 (V)
-	  - Loi n°87-571 du 23 juillet 1987 - art. 19-8 (V)
+	  - Loi n°87-571 du 23 juillet 1987 - art. 19-1
+	  - Loi n°87-571 du 23 juillet 1987 - art. 19-6
+	  - Loi n°87-571 du 23 juillet 1987 - art. 19-8
 	  - Code de l'éducation - art. L123-3
 	  - Code de l'éducation - art. L719-12
 
@@ -24285,7 +24300,7 @@ d'administration de l'établissement.
 
 	**Modifié par**:
 
-	  - Loi n°2008-776 du 4 août 2008 - art. 139
+	  - Loi n°2010-1536 du 13 décembre 2010 - art. 4 (V)
 
 
 ###### Article L719-14
@@ -26275,13 +26290,20 @@ l'établissement a son siège.
 
 ###### Article L762-2
 
-Les établissements publics d'enseignement supérieur peuvent se voir confier, par l'Etat, la maîtrise d'ouvrage de
-constructions universitaires.
+Les établissements publics d'enseignement supérieur dont, notamment, les établissements publics de coopération scientifique,
+peuvent se voir confier, par l'Etat, la maîtrise d'ouvrage de constructions universitaires.
 
 A l'égard de ces locaux comme de ceux qui leur sont affectés ou qui sont mis à leur disposition par l'Etat, les
 établissements d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur ou du ministre de
 l'agriculture exercent les droits et obligations du propriétaire, à l'exception du droit de disposition et d'affectation des
 biens.
+
+Ils sont toutefois compétents pour conclure sur les biens visés à l'alinéa précédent des contrats conférant des droits réels
+à un tiers, sous réserve de l'accord préalable de l'autorité administrative compétente et de clauses permettant d'assurer la
+continuité du service public lorsque les biens concernés sont nécessaires à l'accomplissement de ce service.
+
+Ils fixent les conditions financières des titres d'occupation du domaine qu'ils délivrent, après avis de l'autorité
+administrative de l'Etat compétente.
 
 **Liens relatifs à cet article**
 
@@ -26291,8 +26313,12 @@ biens.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2010-1536 du 13 décembre 2010 - art. 2 (V)
 
 	**Cité par**:
 
@@ -70029,6 +70055,151 @@ médecin.
 	  - Code de l'éducation - art. D351-28 (V)
 	  - Code de l'éducation - art. D351-29 (V)
 	  - Code de l'éducation - art. D351-31 (V)
+
+
+##### Section 4 : Diplôme de compétence en langue
+
+##### Sous-section 1 : Définition du diplôme
+
+###### Article D338-33
+
+Le diplôme de compétence en langue est un diplôme national professionnel qui atteste les compétences, acquises par des
+adultes en langue de communication usuelle et professionnelle, communes à l'ensemble des secteurs d'activité économique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-34
+
+Le diplôme de compétence en langue comporte des spécialités définies par arrêté du ministre chargé de l'éducation. 
+
+Cet arrêté fixe, pour chaque spécialité, le référentiel de certification ainsi que le règlement particulier de l'examen
+conduisant à la délivrance du diplôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+##### Sous-section 2 : Conditions de délivrance
+
+###### Article D338-35
+
+Aucune formation n'est requise pour se présenter à l'examen du diplôme de compétence en langue.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 7 mai 2010 - art. 6 (V)
+	  - Arrêté du 13 décembre 2010 - art. 6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-36
+
+Les candidats doivent s'inscrire auprès du rectorat de leur domicile.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-37
+
+Un examen unique est organisé à chaque session pour l'ensemble des niveaux de chaque spécialité du diplôme de compétence en
+langue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-38
+
+Le diplôme de compétence en langue est délivré, sur proposition du jury, par le recteur d'académie aux candidats qui ont
+satisfait au contrôle des capacités définies dans le référentiel de certification, dans les conditions fixées par le
+règlement d'examen. 
+
+Le diplôme de compétence en langue mentionne la spécialité, la langue et le niveau obtenu.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+##### Sous-section 3 : Organisation de l'examen
+
+###### Article D338-39
+
+L'examen est organisé dans des centres agréés par le recteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 25 février 2011 - art. 1 (V)
+
+
+###### Article D338-40
+
+Les sessions d'examen sont organisées dans le cadre d'une académie ou d'un groupement d'académies selon des modalités fixées
+par arrêté du ministre chargé de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-41
+
+Les sujets d'examen sont choisis par le ministre ou, par délégation de celui-ci, par le recteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
+
+
+###### Article D338-42
+
+Pour chaque session, il est constitué dans l'académie ou le groupement d'académies un jury dont les membres sont nommés par
+arrêté du recteur ou des recteurs concernés. 
+
+Ce jury est composé d'enseignants de langue appartenant à l'enseignement public ou privé sous contrat, d'un ou de plusieurs
+représentants des professions intéressées par le diplôme et d'au moins un des examinateurs de chaque centre agréé par le
+recteur. 
+
+Il est présidé par un inspecteur général de l'éducation nationale, ou par un inspecteur d'académie, inspecteur pédagogique
+régional, ou par un enseignant-chercheur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-469 du 7 mai 2010 - art. 1
 
 
 ### Titre IV : L'enseignement agricole et maritime.
