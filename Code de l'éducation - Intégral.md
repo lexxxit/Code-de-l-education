@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-01-01
+Version Consolidée au 2011-01-02
 
 # Partie législative
 
@@ -48636,32 +48636,35 @@ socle commun de connaissance et de compétences ;
 
 ###### Article D311-8
 
-Le livret personnel de compétences est renseigné :
+Le livret personnel de compétences est renseigné : 
 
 a) A l'école élémentaire publique par les enseignants du cycle réunis en conseil des maîtres de cycle et, dans les écoles
-élémentaires privées sous contrat, par l'enseignant ou l'équipe pédagogique prévue à l'article D. 321-20 ;
+élémentaires privées sous contrat, par l'enseignant ou l'équipe pédagogique prévue à l'article D. 321-20 ; 
 
 b) Au collège et au lycée par le professeur principal et, dans les sections d'enseignement général et professionnel adapté
 ainsi que dans les établissements régionaux d'enseignement adapté, par l'enseignant de référence de chaque division, après
-consultation de l'équipe pédagogique de la classe ;
+consultation de l'équipe pédagogique de la classe ; 
 
-c) Dans les centres de formation d'apprentis, pour les apprentis juniors, par le tuteur mentionné à l'article D. 337-166 et,
-pour les autres apprentis encore soumis à la scolarité obligatoire, par un formateur désigné par le directeur du centre.
+c) Dans les centres de formation d'apprentis, pour les apprentis juniors, par le tuteur mentionné à l'article D. 337-166,
+pour les élèves relevant du dispositif d'initiation aux métiers en alternance, par le référent mentionné à l'article D.
+337-178 et, pour les autres apprentis encore soumis à la scolarité obligatoire, par un formateur désigné par le directeur du
+centre.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-860 du 14 mai 2007 - art. 1 () JORF 15 mai 2007
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D321-20 (V)
-	  - Code de l'éducation - art. D337-166 (V)
+	  - Code de l'éducation - art. D321-20
+	  - Code de l'éducation - art. D337-166
+	  - Code de l'éducation - art. D337-178
 
 
 ###### Article D311-9
@@ -51785,6 +51788,33 @@ publics.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+
+
+##### Section 4 : Coordination des acteurs de la formation et de l'insertion sociale et professionnelle des jeunes
+
+###### Article D313-59
+
+Le niveau de qualification mentionné à l'article L. 313-7 du code de l'éducation est celui correspondant à l'obtention : 
+
+1° Soit du baccalauréat général ; 
+
+2° Soit d'un diplôme à finalité professionnelle enregistré au répertoire national des certifications professionnelles et
+classé au niveau V ou IV de la nomenclature interministérielle des niveaux de formation. 
+
+Les élèves ou apprentis doivent avoir été précédemment inscrits dans un des cycles de formation menant aux diplômes
+mentionnés aux 1° et 2° ci-dessus. 
+
+Des arrêtés des ministres intéressés peuvent préciser les diplômes n'entrant pas dans le champ d'application du 2° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1781 du 31 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L313-7
 
 
 #### Chapitre IV : La recherche et la documentation pédagogiques.
@@ -68129,6 +68159,194 @@ qu'il a atteint.
 	**Cite**:
 
 	  - Code de l'éducation - art. L337-3
+
+
+##### Section 8 : Le dispositif d'initiation aux métiers en alternance 
+
+###### Article D337-172
+
+Les formations en alternance, sous statut scolaire, en centre de formation d'apprentis, prévues par l'article L. 337-3-1,
+concernent les élèves ayant atteint l'âge de 15 ans à la date d'entrée dans la formation. Elles sont dénommées " dispositif
+d'initiation aux métiers en alternance ” et sont destinées à faire découvrir un environnement professionnel correspondant à
+un projet d'entrée en apprentissage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L337-3-1
+
+
+###### Article D337-173
+
+L'admission dans le dispositif d'initiation aux métiers en alternance a lieu sur demande, présentée au chef d'établissement,
+de l'élève et de ses représentants légaux s'il est mineur. Elle est prononcée par le directeur du centre de formation
+d'apprentis dans lequel est ouvert le dispositif. Elle intervient à la rentrée de l'année scolaire suivant la demande de
+l'élève. Elle peut intervenir en cours d'année scolaire, par dérogation accordée par l'inspecteur d'académie-directeur des
+services départementaux de l'éducation nationale, ou le directeur régional de l'alimentation, de l'agriculture et de la
+forêt, ou le directeur interrégional de la mer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-174
+
+L'élève en formation dans le dispositif d'initiation aux métiers en alternance demeure sous statut scolaire. 
+
+L'élève reste inscrit dans son établissement d'origine durant toute la durée de la formation. 
+
+Le centre de formation d'apprentis informe régulièrement l'établissement dans lequel est inscrit l'élève du déroulement de la
+formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-175
+
+La durée de la formation, d'une durée maximale d'un an, est modulée en fonction du projet pédagogique de l'élève.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-176
+
+Pour tout élève admis dans le dispositif d'initiation aux métiers en alternance, l'évaluation du socle commun de
+connaissances et de compétences figurant dans le livret personnel de compétences, mentionné à l'article D. 311-6, sert de
+base à l'élaboration du projet pédagogique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D311-6
+
+
+###### Article D337-177
+
+La formation comporte obligatoirement des enseignements généraux, pour la moitié au moins du temps de formation, des
+enseignements technologiques et pratiques, intégrant des séquences pratiques, des visites en milieu professionnel ainsi que
+des stages d'initiation ou d'application en milieu professionnel.L'ensemble de ces activités concourt à la poursuite de
+l'acquisition du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L122-1-1
+
+
+###### Article D337-178
+
+Le directeur du centre de formation d'apprentis dans lequel est ouvert le dispositif d'initiation aux métiers en alternance
+désigne, au sein de l'équipe pédagogique, un référent, enseignant ou formateur, chargé de suivre l'élève durant sa formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D311-8 (VD)
+
+
+###### Article D337-179
+
+Les stages en milieu professionnel effectués pendant la formation sont des stages d'initiation ou d'application tels qu'ils
+sont définis aux articles D. 331-11 à D. 331-14, aux articles R. 715-1 et suivants du code rural, aux articles 111 et 114 du
+code du travail maritime ou par le décret n° 2006-534 du 10 mai 2006 modifié relatif à la protection des jeunes âgés de moins
+de 18 ans embarqués sur les navires. 
+
+Les stages en milieu professionnel ont une durée comprise, au total, entre huit et dix-huit semaines, lorsque la formation
+dure un an. 
+
+Durant ces stages, l'élève est suivi par un tuteur, qui ne peut encadrer simultanément plus de deux élèves, conformément à
+l'article R. 6223-6 du code du travail. Le chef de l'entreprise où est effectué le stage peut assurer lui-même le tutorat ou
+désigner, parmi les salariés de l'entreprise, un tuteur, sous réserve qu'il compte au moins un an d'ancienneté dans celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-534 du 10 mai 2006
+	  - Code de l'éducation - art. D331-11
+	  - Code rural - art. R*715-1
+	  - Code du travail - art. R6223-6
+	  - Code du travail maritime - art. 111 (Ab)
+	  - Code du travail maritime - art. 114 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-180
+
+La formation et les stages donnent lieu à des bilans d'étape réalisés par l'équipe pédagogique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-181
+
+A l'issue de la formation, les items du socle commun de connaissances et de compétences acquis par l'élève sont inscrits dans
+le livret personnel de compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+
+###### Article D337-182
+
+Lorsqu'un élève, en accord avec ses représentants légaux s'il est mineur, souhaite mettre fin à sa formation, le directeur du
+centre de formation d'apprentis saisit l'inspecteur d'académie-directeur des services départementaux de l'éducation
+nationale, ou le directeur régional de l'alimentation, de l'agriculture et de la forêt, ou le directeur interrégional de la
+mer afin que l'élève puisse, selon son souhait et en fonction de son projet, soit reprendre une scolarité dans un collège ou
+un lycée, soit, s'il a 16 ans ou s'il justifie avoir achevé le dernier cycle du collège, signer un contrat d'apprentissage,
+conformément aux dispositions de l'article L. 6222-1 du code du travail. Dans tous les cas, le directeur du centre de
+formation d'apprentis dans lequel l'élève effectuait sa formation est tenu informé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du travail - art. L6222-1
 
 
 #### Chapitre VIII : Autres diplômes et titres.
