@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-01-02
+Version Consolidée au 2011-02-20
 
 # Partie législative
 
@@ -70693,15 +70693,15 @@ Les dispositions du décret n° 2006-1031 du 21 août 2006 entrent en vigueur à
 
 ###### Article R341-40
 
-Les règles relatives aux enseignements et à la formation professionnelle agricoles publics ainsi qu'aux diplômes les
-sanctionnant sont fixées au chapitre Ier du titre Ier du livre VIII de la partie réglementaire du code rural et de la pêche
-maritime.
+Les règles relatives aux enseignements et à la   formation professionnelle publics aux métiers de l'agriculture, de la forêt,
+de la nature et des territoires ainsi qu'aux diplômes les sanctionnant sont fixées au chapitre Ier du titre Ier du livre VIII
+de la partie réglementaire du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2011-191 du 17 février 2011 - art. 3
 
 
 #### Chapitre II : L'enseignement maritime.
@@ -97178,6 +97178,8 @@ recteur de l'académie de la Guadeloupe.
 
 
 ##### Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles
+
+##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires
 
 ###### Article D521-8
 
