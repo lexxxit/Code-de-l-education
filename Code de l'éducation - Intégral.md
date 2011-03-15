@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-02-20
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -1626,8 +1626,8 @@ est intervenu en vue de la mise en place d'un contrat de responsabilité parenta
 que le président du conseil général pourrait proposer aux familles en application de l'article L. 222-4-1 du code de l'action
 sociale et des familles. 
 
-Il communique trimestriellement au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel
-que défini au présent article a été notifié. 
+Il communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au
+présent article a été notifié. 
 
 Les informations communiquées au maire en application du présent article sont enregistrées dans le traitement prévu à
 l'article L. 131-6. 
@@ -1673,7 +1673,7 @@ condition de reprise d'assiduité définie aux deux alinéas précédents.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1127 du 28 septembre 2010 - art. 1
+	  - Loi n°2011-267 du 14 mars 2011 - art. 46
 
 	**Anciens textes**:
 
@@ -97176,8 +97176,6 @@ recteur de l'académie de la Guadeloupe.
 
 	  - Code de l'éducation - art. D521-6 (V)
 
-
-##### Sous-section 3 : Dispositions particulières à l’enseignement et à la formation professionnelle agricoles
 
 ##### Sous-section 3 : Dispositions particulières à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires
 
