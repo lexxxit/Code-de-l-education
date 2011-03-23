@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-03-24
 
 # Partie législative
 
@@ -8657,9 +8657,21 @@ Les établissements scolaires s'associent avec les centres accueillant des perso
 échanges et les rencontres avec les élèves.
 
 L'enseignement d'éducation civique sensibilise également les élèves de collège et de lycée au service civique prévu au titre
-Ier bis du livre Ier du code du service national.
+Ier bis du livre Ier du code du service national. 
+
+Dans le cadre de l'enseignement d'éducation civique, les élèves sont formés afin de développer une attitude critique et
+réfléchie vis-à-vis de l'information disponible et d'acquérir un comportement responsable dans l'utilisation des outils
+interactifs lors de leur usage des services de communication au public en ligne. Ils sont informés des moyens de maîtriser
+leur image publique, des dangers de l'exposition de soi et d'autrui, des droits d'opposition, de suppression, d'accès et de
+rectification prévus par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, ainsi que
+des missions de la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code de l'éducation - art. L131-1-1
 
 	**Anciens textes**:
 
@@ -8668,7 +8680,7 @@ Ier bis du livre Ier du code du service national.
 
 	**Modifié par**:
 
-	  - Loi n°2010-241 du 10 mars 2010 - art. 9
+	  - Loi n°2011-302 du 22 mars 2011 - art. 23
 
 	**Cité par**:
 
@@ -8681,10 +8693,6 @@ Ier bis du livre Ier du code du service national.
 	  - Code de l'éducation - art. L374-1 (V)
 	  - Code de l'éducation - art. L442-20 (V)
 	  - Code de l'éducation - art. R421-45-2 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L131-1-1 (V)
 
 
 ##### Section 9 : L'éducation à la santé et à la sexualité
@@ -11726,29 +11734,29 @@ enseignants.
 ###### Article L362-1
 
 Nul ne peut enseigner la danse contre rétribution ou faire usage du titre de professeur de danse ou d'un titre équivalent
-s'il n'est muni :
+s'il n'est muni : 
 
 1° Soit du diplôme de professeur de danse délivré par l'Etat, ou du certificat d'aptitude aux fonctions de professeur de
-danse ;
+danse ; 
 
-2° Soit d'un diplôme français ou étranger reconnu équivalent ;
+2° Soit d'un diplôme français ou étranger reconnu équivalent ; 
 
 3° Soit d'une dispense accordée en raison de la renommée particulière ou de l'expérience confirmée en matière d'enseignement
-de la danse, dont il peut se prévaloir.
+de la danse, dont il peut se prévaloir. 
 
 La reconnaissance ou la dispense visée aux deux alinéas précédents résulte d'un arrêté du ministre chargé de la culture pris
 après avis d'une commission nationale composée pour moitié de représentants de l'Etat et des collectivités territoriales, et
 pour moitié de professionnels désignés par leurs organisations représentatives, de personnalités qualifiées et de
-représentants des usagers.
+représentants des usagers. 
 
 Les artistes chorégraphiques justifiant d'une activité professionnelle d'au moins trois ans au sein du ballet de l'Opéra
 national de Paris, des ballets des théâtres de la réunion des théâtres lyriques municipaux de France ou des centres
-chorégraphiques nationaux ou des compagnies d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord
-sur l'Espace économique européen, dont la liste est fixée par arrêté du ministre chargé de la culture et qui ont suivi une
-formation pédagogique bénéficient de plein droit du diplôme de professeur de danse délivré par l'Etat.
+chorégraphiques nationaux ou des compagnies d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen, dont la liste est fixée par arrêté du ministre chargé de la culture et qui ont suivi une
+formation pédagogique bénéficient de plein droit du diplôme de professeur de danse délivré par l'Etat. 
 
 La composition de la commission nationale prévue au présent article ainsi que les modalités de délivrance du diplôme sont
-fixées par arrêté du ministre chargé de la culture.
+fixées par arrêté du ministre chargé de la culture. 
 
 Le présent article s'applique aux danses classique, contemporaine et jazz.
 
@@ -11784,13 +11792,13 @@ Le présent article s'applique aux danses classique, contemporaine et jazz.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 41
+	  - Loi n°2011-302 du 22 mars 2011 - art. 15
 
 
 ###### Article L362-1-1
 
 I. - Peuvent également s'établir en France pour enseigner la danse contre rétribution ou faire usage du titre de professeur
-de danse les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+de danse les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen qui possèdent : 
 
 1° Une attestation de compétence ou un titre de formation délivré par les autorités compétentes d'un Etat membre ou d'un
@@ -11806,18 +11814,19 @@ acquise ;
 autre Etat partie à l'accord sur l'Espace économique européen, qui ne réglemente pas l'accès ou l'exercice de la profession
 de professeur de danse et attestant de leur préparation à l'exercice de la profession lorsqu'ils justifient de l'exercice de
 cette activité à temps plein pendant deux ans au cours des dix dernières années dans un Etat membre ou un autre Etat partie à
-l'accord sur l'Espace économique européen. 
+l'accord sur l'Espace économique européen. Cette justification n'est pas requise lorsque la formation conduisant à cette
+profession est réglementée dans l'Etat membre ou partie à l'accord sur l'Espace économique européen dans lequel elle a été
+validée. 
 
 Après avoir examiné si les connaissances acquises par le demandeur au cours de son expérience professionnelle ne sont pas de
 nature à combler, en tout ou en partie, des différences substantielles de formation, le ministre chargé de la culture peut
 exiger que le demandeur se soumette à des mesures de compensation. 
 
-II. - Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
-économique européen qui souhaitent enseigner la danse en France à titre temporaire et occasionnel sont réputés remplir les
-conditions de qualifications professionnelles requises sous réserve d'être légalement établis dans un de ces Etats pour
-exercer cette activité et, lorsque l'activité ou la formation y conduisant ne sont pas réglementées dans l'Etat dans lequel
-les intéressés sont établis, de l'avoir exercée pendant au moins deux ans au cours des dix années qui précèdent la
-prestation. 
+II. - Les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen qui souhaitent enseigner la danse en France à titre temporaire et occasionnel sont réputés remplir les conditions de
+qualifications professionnelles requises sous réserve d'être légalement établis dans un de ces Etats pour exercer cette
+activité et, lorsque l'activité ou la formation y conduisant ne sont pas réglementées dans l'Etat dans lequel les intéressés
+sont établis, de l'avoir exercée pendant au moins deux ans au cours des dix années qui précèdent la prestation. 
 
 Les intéressés doivent fournir préalablement à la prestation une déclaration à l'autorité compétente. 
 
@@ -11826,14 +11835,14 @@ arrêté du ministre chargé de la culture.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Ordonnance n°2008-507 du 30 mai 2008 - art. 41
-
 	**Cité par**:
 
 	  - Arrêté du 23 décembre 2008 - art. 5 (V)
 	  - Arrêté du 21 février 2017 - art. 5
+
+	**Modifié par**:
+
+	  - Loi n°2011-302 du 22 mars 2011 - art. 15
 
 
 ###### Article L362-2
