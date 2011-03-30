@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-03-24
+Version Consolidée au 2011-03-31
 
 # Partie législative
 
@@ -2715,6 +2715,22 @@ supprimée.
 	**Cite**:
 
 	  - Code de l'éducation - art. L112-1 (V)
+
+
+###### Article L162-2-1
+
+Le dernier alinéa de l'article L. 113-1 s'applique à Mayotte à compter de la rentrée scolaire 2014 pour les enfants âgés de
+deux ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 19
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L113-1
 
 
 ###### Article L162-3
@@ -7596,9 +7612,9 @@ nationale et de la recherche ;
 
 ###### Article L262-1
 
-Les articles L. 211-3, L. 212-1 à L. 212-5, L. 212-9, 
-L. 213-1 à L. 213-5, L. 213-7 à L. 213-9, L. 214-1, L. 214-4 à L. 214-11, L. 216-4 à L. 216-9 et le premier alinéa de
-l'article L. 222-1 ne sont pas applicables à Mayotte.
+Les articles L. 211-3, L. 212-9, 
+L. 213-1 à L. 213-5, L. 213-7 à L. 213-9, L. 214-1, L. 214-4 à L. 214-11, 
+L. 216-4 à L. 216-9 et le premier alinéa de l'article L. 222-1 ne sont pas applicables à Mayotte.
 
 **Nota:**
 
@@ -7613,18 +7629,17 @@ l'article L. 222-1 ne sont pas applicables à Mayotte.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 6
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 19
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L211-3
-	  - Code de l'éducation - art. L212-1
 	  - Code de l'éducation - art. L212-9
-	  - Code de l'éducation - art. L213-1
-	  - Code de l'éducation - art. L213-7
+	  - Code de l'éducation - art. L213-1 (VT)
+	  - Code de l'éducation - art. L213-7 (V)
 	  - Code de l'éducation - art. L214-1
-	  - Code de l'éducation - art. L214-4
-	  - Code de l'éducation - art. L216-4
+	  - Code de l'éducation - art. L214-4 (V)
+	  - Code de l'éducation - art. L216-4 (V)
 	  - Code de l'éducation - art. L222-1
 
 
@@ -38736,7 +38751,7 @@ relèvent pas de la tutelle d'un recteur d'académie.
 Pour l'instruction de ces affaires, il peut faire appel en tant que de besoin aux services du ministère ainsi qu'aux
 inspections générales.
 
-Il est le correspondant du Médiateur de la République.
+Il est le correspondant du Défenseur des droits.
 
 Il coordonne l'activité des médiateurs académiques.
 
@@ -38744,12 +38759,11 @@ Il coordonne l'activité des médiateurs académiques.
 
 	**Anciens textes**:
 
-	  - Décret n°98-1082 1998-12-01 art. 2, alinéas 1 à 4
 	  - Décret n°98-1082 du 1 décembre 1998 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Loi n°2011-334 du 29 mars 2011 - art. 17
 
 
 ###### Article D222-39
@@ -38793,8 +38807,8 @@ dans laquelle ils sont nommés.
 
 Les réclamations doivent avoir été précédées de démarches auprès des services et établissements concernés.
 
-La saisine du Médiateur de la République, dans son champ de compétences, met fin à la procédure de réclamation instituée par
-la présente section.
+La saisine du Défenseur des droits, dans son champ de compétences, met fin à la procédure de réclamation instituée par la
+présente section.
 
 **Liens relatifs à cet article**
 
@@ -38802,9 +38816,9 @@ la présente section.
 
 	  - Décret n°98-1082 du 1 décembre 1998 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Loi n°2011-334 du 29 mars 2011 - art. 17
 
 	**Cité par**:
 
