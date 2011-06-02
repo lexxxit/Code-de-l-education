@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-03
 
 # Partie législative
 
@@ -104741,12 +104741,12 @@ Les dispositions de la présente sous-section s'appliquent aux faits générateu
 ###### Article R914-138
 
 Les maîtres mentionnés à l'article R. 914-97 qui ne bénéficiaient pas, au 31 août 2005, d'un avantage temporaire de retraite
-servi par l'Etat et qui justifient de quinze années de services au titre des fonctions de maîtres qu'ils ont exercées dans
-les établissements d'enseignement privés soit liés par contrat à l'Etat, soit ayant été reconnus par celui-ci, en application
-de la loi n° 60-791 du 2 août 1960 relative à l'enseignement et à la formation professionnelle agricoles, bénéficient de la
-pension du régime additionnel de retraite à la condition : 
+servi par l'Etat et qui justifient de l'ancienneté de services au titre des fonctions de maîtres qu'ils ont exercées dans les
+établissements d'enseignement privés soit liés par contrat à l'Etat prévue à l'article 3 de la loi n° 2005-5 du 5 janvier
+2005, soit ayant été reconnus par celui-ci, en application de la loi n° 60-791 du 2 août 1960 relative à l'enseignement et à
+la formation professionnelle agricoles, bénéficient de la pension du régime additionnel de retraite à la condition : 
 
-1° Qu'ils aient atteint l'âge de soixante ans et aient été admis à la retraite ; 
+1° Qu'ils aient atteint l'âge prévu à l'article 3 de la loi n° 2005-5 du 5 janvier 2005 et aient été admis à la retraite ; 
 
 2° Ou qu'ils bénéficient d'un avantage temporaire de retraite servi par l'Etat.
 
@@ -104755,7 +104755,8 @@ pension du régime additionnel de retraite à la condition :
 	**Cite**:
 
 	  - Loi n°60-791 du 2 août 1960
-	  - Code de l'éducation - art. R914-97 (V)
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 3
+	  - Code de l'éducation - art. R914-97
 
 	**Cité par**:
 
@@ -104764,9 +104765,9 @@ pension du régime additionnel de retraite à la condition :
 	  - Code de l'éducation - art. R914-139 (V)
 	  - Code de l'éducation - art. R914-140 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-620 du 31 mai 2011 - art. 5
 
 
 ###### Article R914-139
@@ -104788,7 +104789,7 @@ Un arrêté des ministres chargés de l'éducation, de l'agriculture, de la séc
 de présentation de cette demande. 
 
 Les maîtres qui ne bénéficiaient pas au 31 août 2005 d'un avantage temporaire de retraite servi par l'Etat et qui ne
-justifient pas de quinze années de service en qualité de maître au sens de l'article R. 914-138 perçoivent, à la date à
+justifient pas de l'ancienneté de service en qualité de maître au sens de l'article R. 914-138 perçoivent, à la date à
 laquelle ils sont admis au bénéfice d'une pension de vieillesse du régime général de la sécurité sociale ou de celui des
 assurances sociales agricoles, un capital égal au montant des cotisations salariales qu'ils ont acquittées au titre de leur
 contribution au régime additionnel de retraite, revalorisées conformément à l'évolution de l'indice INSEE des prix à la
@@ -104800,13 +104801,13 @@ consommation hors tabac.
 
 	  - Décret n°2005-1233 du 30 septembre 2005 - art. 7 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-620 du 31 mai 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-138 (V)
+	  - Code de l'éducation - art. R914-138
 
 
 ###### Article R914-140
@@ -104870,14 +104871,15 @@ pêche maritime .
 ###### Article R914-142
 
 Les conjoints survivants ont droit à une pension de réversion égale à 50 % de la pension du régime additionnel de retraite
-perçue par le bénéficiaire ou qu'il aurait pu obtenir à soixante ans au titre des droits validés à la date de son décès. En
-cas d'unions successives, la pension de réversion est calculée au prorata de la durée des différentes unions. La pension de
-réversion peut être liquidée à partir de cinquante-cinq ans. 
+perçue par le bénéficiaire ou qu'il aurait pu obtenir à l'âge prévu à l'article 3 de la loi n° 2005-5 du 5 janvier 2005 au
+titre des droits validés à la date de son décès. En cas d'unions successives, la pension de réversion est calculée au prorata
+de la durée des différentes unions. La pension de réversion peut être liquidée à partir de cinquante-cinq ans. 
 
 Chaque orphelin a droit, jusqu'à l'âge de vingt et un ans, à une pension égale à 10 % de la pension perçue par le
-bénéficiaire ou qu'il aurait pu obtenir à soixante ans au titre des droits acquis à la date de son décès, sans que le total
-des pensions attribuées au conjoint et aux orphelins puisse excéder le montant de la pension qui aurait été accordée au
-bénéficiaire. En cas d'excédent, il est procédé à une réduction à due concurrence des pensions servies aux orphelins. 
+bénéficiaire ou qu'il aurait pu obtenir à l'âge prévu à l'article 3 de la loi n° 2005-5 du 5 janvier 2005 au titre des droits
+acquis à la date de son décès, sans que le total des pensions attribuées au conjoint et aux orphelins puisse excéder le
+montant de la pension qui aurait été accordée au bénéficiaire. En cas d'excédent, il est procédé à une réduction à due
+concurrence des pensions servies aux orphelins. 
 
 Les pensions mentionnées aux alinéas précédents sont revalorisées dans les conditions prévues à l'article R. 914-141. 
 
@@ -104886,17 +104888,18 @@ code des pensions civiles et militaires de retraite.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°2005-5 du 5 janvier 2005 - art. 3
+	  - Code des pensions civiles et militaires de retraite - art. L38
+	  - Code de l'éducation - art. R914-141
+
 	**Cité par**:
 
 	  - Arrêté du 28 juillet 2006 - art. 6 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R914-141 (V)
-	  - articles L. 38 à L. 46 du code des  pensions civiles et militaires de retraite
+	  - Décret n°2011-620 du 31 mai 2011 - art. 5
 
 
