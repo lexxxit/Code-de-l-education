@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-06-03
+Version Consolidée au 2011-06-15
 
 # Partie législative
 
@@ -57789,43 +57789,58 @@ avantages accordés aux titulaires du brevet des collèges ou du brevet d'étude
 
 ###### Article D332-23
 
-Le certificat de formation générale est délivré aux candidats qui, au cours de l'année civile de l'examen, ne sont plus
-soumis à l'obligation scolaire dans les conditions fixées par la présente section.
+Peuvent se présenter au diplôme du certificat de formation générale, dans les conditions fixées par la présente section, les
+candidats appartenant à l'une des catégories suivantes :
+
+- élèves scolarisés dans l'une des sections mentionnées à l'article D. 332-7 du présent code ;
+
+- élèves effectuant leur dernière année de scolarité obligatoire ;
+
+- élèves handicapés scolarisés selon les dispositions prévues à l'article L. 112-1 du présent code ;
+
+- candidats scolarisés dans un établissement relevant du ministère de la justice ;
+
+- candidats qui ne sont plus soumis à l'obligation scolaire.
+
+**Nota:**
+
+Décret 2010-784 du 8 juillet 2010 art. 6 : Le présent décret entre en vigueur à compter de la session du mois de juin 2011 du
+certificat de formation générale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-569 1983-06-29 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
 	  - Arrêté du 8 juillet 2010 - art. 1 (Ab)
 	  - Arrêté du 19 juillet 2016 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2010-784 du 8 juillet 2010 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D332-7
+	  - Code de l'éducation - art. L112-1
+
 
 ###### Article D332-24
 
-Le certificat de formation générale valide la capacité du candidat d'utiliser les outils essentiels de l'information et de la
-communication sociales et d'effectuer les démarches conséquentes sur le plan de l'insertion sociale et professionnelle, sans
-pour autant attester d'une qualification professionnelle. Il garantit l'acquisition de connaissances générales dans les
-domaines du français, des mathématiques et des problèmes du monde actuel. Ces acquis reconnus donnent droit à des
-équivalences en vue de la poursuite d'études pour l'obtention ultérieure d'un diplôme professionnel délivré par le ministère
-chargé de l'éducation.
+Le certificat de formation générale valide l'aptitude du candidat à l'utilisation des outils de l'information et de la
+communication sociale ainsi que sa capacité à évoluer dans un environnement social et professionnel. Il garantit
+l'acquisition de compétences au moins au palier 2 du socle commun de connaissances et compétences, défini par arrêté du
+ministre chargé de l'éducation.
+
+**Nota:**
+
+Décret 2010-784 du 8 juillet 2010 art. 6 : Le présent décret entre en vigueur à compter de la session du mois de juin 2011 du
+certificat de formation générale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°83-569 1983-06-29 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-784 du 8 juillet 2010 - art. 2
 
 
 ###### Article D332-25
@@ -57890,31 +57905,6 @@ comprenant au moins deux membres du jury.
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-###### Article D332-28
-
-Les titulaires du certificat de formation générale bénéficient des droits et avantages accordés aux titulaires du certificat
-d'études primaires élémentaires.
-
-**Nota:**
-
-Décret 2010-784 du 8 juillet 2010 art. 6 : Le présent décret entre en vigueur à compter de la session du mois de juin 2011 du
-certificat de formation générale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°83-569 1983-06-29 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2010-784 du 8 juillet 2010 - art. 5
 
 
 ###### Article D332-29
