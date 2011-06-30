@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-06-15
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -29760,30 +29760,33 @@ d'âge des professeurs de l'enseignement supérieur, des directeurs de recherche
 scientifique et technologique relevant de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la
 recherche et le développement technologique de la France et des personnels titulaires de l'enseignement supérieur assimilés
 aux professeurs d'université pour les élections à l'instance nationale mentionnée à l'article L. 952-6 est fixée à soixante-
-cinq ans. Toutefois, la limite d'âge des professeurs au Collège de France reste fixée à soixante-dix ans.
+sept ans. Toutefois, la limite d'âge des professeurs au Collège de France reste fixée à soixante-dix ans. 
 
 Lorsqu'ils atteignent la limite d'âge, les professeurs de l'enseignement supérieur et les personnels titulaires de
 l'enseignement supérieur assimilés aux professeurs d'université pour les élections à l'instance nationale mentionnée à
 l'article L. 952-6 sont, sur leur demande, maintenus en activité, en surnombre, jusqu'au 31 août suivant la date à laquelle
-ils atteignent l'âge de soixante-huit ans.
+ils atteignent l'âge de soixante-huit ans. 
 
 Les professeurs de l'enseignement supérieur, les directeurs de recherche des établissements publics à caractère scientifique
 et technologique et les autres personnels enseignants qui relèvent du ministre chargé de l'enseignement supérieur restent en
 fonctions jusqu'au 31 août quand ils atteignent la limite d'âge en cours d'année universitaire, si les besoins du service
 d'enseignement le justifient.
 
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°82-610 1982-07-15
-	  - Code de l'éducation - art. L952-6 (M)
+	  - Loi n°82-610 du 15 juillet 1982
+	  - Code de l'éducation - art. L952-6
 
 	**Anciens textes**:
 
-	  - Loi n°84-834 du 13 septembre 1984 - art. 3, v. init.
 	  - Loi n°84-834 du 13 septembre 1984 - art. 3 (Ab)
-	  - Loi n°86-1304 du 23 décembre 1986 - art. 2 (M)
 	  - Loi n°86-1304 du 23 décembre 1986 - art. 2 (Ab)
 
 	**Cité par**:
@@ -29792,12 +29795,12 @@ d'enseignement le justifient.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2003-339 du 14 avril 2003 - art. 2 () JORF 15 avril 2003
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
 
 
 ###### Article L952-11
