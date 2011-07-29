@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-07-30
 
 # Partie législative
 
@@ -9585,20 +9585,43 @@ un établissement de formation professionnelle.
 	  - Code de l'éducation - art. L442-15 (V)
 
 
+###### Article L332-3-1
+
+Des périodes d'observation en entreprise d'une durée maximale d'une semaine peuvent être proposées durant les vacances
+scolaires aux élèves des deux derniers niveaux de l'enseignement des collèges ou aux élèves des lycées, en vue de
+l'élaboration de leur projet d'orientation professionnelle. Dans l'exercice de leurs compétences, les chambres consulaires
+apportent leur appui à l'organisation de ces périodes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 15
+
+	**Cité par**:
+
+	  - Code du travail - art. L4153-1 (V)
+
+
 ###### Article L332-4
 
 Dans les collèges, des aménagements particuliers et des actions de soutien sont prévus au profit des élèves qui éprouvent des
-difficultés. Lorsque celles-ci sont graves et permanentes, les élèves reçoivent un enseignement adapté.
+difficultés. Lorsque celles-ci sont graves et permanentes, les élèves reçoivent un enseignement adapté. 
 
 Par ailleurs, des activités d'approfondissement dans les disciplines de l'enseignement commun des collèges sont offertes aux
-élèves qui peuvent en tirer bénéfice.
+élèves qui peuvent en tirer bénéfice. 
 
 Des aménagements appropriés sont prévus au profit des élèves intellectuellement précoces ou manifestant des aptitudes
 particulières, afin de leur permettre de développer pleinement leurs potentialités. La scolarité peut être accélérée en
-fonction du rythme d'apprentissage de l'élève.
+fonction du rythme d'apprentissage de l'élève. 
+
+Des aménagements particuliers permettent, durant les deux derniers niveaux de l'enseignement des collèges et dans le cadre de
+dispositifs d'alternance personnalisés, une découverte approfondie des métiers et des formations ainsi qu'une première
+formation professionnelle. Ces aménagements comprennent notamment le suivi de stages dans les conditions définies à l'article
+L. 332-3, ainsi que de stages dans des centres de formation d'apprentis et des sections d'apprentissage. 
 
 Des actions particulières sont prévues pour l'accueil et la scolarisation des élèves non francophones nouvellement arrivés en
-France.
+France. 
 
 Pour l'application des dispositions du présent article, des établissements scolaires peuvent se regrouper pour proposer des
 structures d'accueil adaptées.
@@ -9611,12 +9634,16 @@ structures d'accueil adaptées.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 31 () JORF 24 avril 2005
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 17
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L332-3
 
 	**Cité par**:
 
@@ -11146,9 +11173,10 @@ Les dépenses de transport scolaire spécifiquement liées à la formation de l'
 
 ###### Article L337-3-1
 
-Les centres de formation d'apprentis peuvent accueillir, pour une durée maximale d'un an, les élèves ayant atteint l'âge de
-quinze ans pour leur permettre de suivre, sous statut scolaire, une formation en alternance destinée à leur faire découvrir
-un environnement professionnel correspondant à un projet d'entrée en apprentissage.
+Les centres de formation d'apprentis peuvent accueillir, pour une durée maximale d'un an, les élèves ayant au moins atteint
+l'âge de quinze ans ou accompli la scolarité du premier cycle de l'enseignement secondaire pour leur permettre de suivre,
+sous statut scolaire, une formation en alternance destinée à leur faire découvrir un environnement professionnel
+correspondant à un projet d'entrée en apprentissage.
 
 A tout moment, l'élève peut :
 
@@ -11164,9 +11192,9 @@ Un décret détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 29
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 18
 
 	**Cité par**:
 
@@ -18411,6 +18439,144 @@ ministre chargé de l'enseignement supérieur.
 
 	  - loi n°2006-450 du 18 avril 2006 - art. 41 () JORF 19 avril 2006
 	  - loi n°2006-450 du 18 avril 2006 - art. 42 () JORF 19 avril 2006
+
+
+##### Section 4 : Stages en entreprise
+
+###### Article L612-8
+
+Les stages en entreprise ne relevant ni de l'article L. 4153-1 du code du travail, ni de la formation professionnelle tout au
+long de la vie telle que définie par la sixième partie du même code font l'objet entre le stagiaire, l'entreprise d'accueil
+et l'établissement d'enseignement d'une convention dont les modalités sont déterminées par décret.
+
+Ces stages sont intégrés à un cursus pédagogique scolaire ou universitaire selon des modalités définies par décret.
+
+Ils ne peuvent pas avoir pour objet l'exécution d'une tâche régulière correspondant à un poste de travail permanent de
+l'entreprise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+	**Cité par**:
+
+	  - Arrêté du 22 janvier 2014 - art. 16 (VD)
+	  - Code de l'éducation - art. D612-48 (Ab)
+	  - Code de l'éducation - art. D612-54 (Ab)
+	  - Code de l'éducation - art. D612-55 (Ab)
+	  - Code de la sécurité sociale. - art. L351-17 (V)
+	  - Code du travail - art. L6241-8-1 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L4153-1
+
+
+###### Article L612-9
+
+La durée du ou des stages effectués par un même stagiaire dans une même entreprise ne peut excéder six mois par année
+d'enseignement. Il peut être dérogé à cette règle, dans des conditions fixées par décret, au bénéfice des stagiaires qui
+interrompent momentanément leur formation afin d'exercer des activités visant exclusivement l'acquisition de compétences en
+liaison avec cette formation, ainsi que dans le cas des stages qui sont prévus dans le cadre d'un cursus pluriannuel de
+l'enseignement supérieur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+
+###### Article L612-10
+
+L'accueil successif de stagiaires, au titre de conventions de stage différentes, pour effectuer des stages dans un même poste
+n'est possible qu'à l'expiration d'un délai de carence égal au tiers de la durée du stage précédent. Cette disposition n'est
+pas applicable lorsque ce stage précédent a été interrompu avant son terme à l'initiative du stagiaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-788 du 10 juillet 2014 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L124-11 (V)
+
+
+###### Article L612-11
+
+Lorsque la durée de stage au sein d'une même entreprise est supérieure à deux mois consécutifs ou, au cours d'une même année
+scolaire ou universitaire, à deux mois consécutifs ou non, le ou les stages font l'objet d'une gratification versée
+mensuellement dont le montant est fixé par convention de branche ou par accord professionnel étendu ou, à défaut, par décret.
+Cette gratification n'a pas le caractère d'un salaire au sens de l'article L. 3221-3 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D612-54 (Ab)
+	  - Code de la sécurité sociale. - art. L351-17 (V)
+	  - Code du travail - art. L1221-24 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L3221-3
+
+
+###### Article L612-12
+
+Les stagiaires accèdent aux activités sociales et culturelles mentionnées à l'article L. 2323-83 du code du travail dans les
+mêmes conditions que les salariés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+	**Liens**:
+
+	  - TRANSFERE: Loi n°2014-788 du 10 juillet 2014 - art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L124-16 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L2323-83
+
+
+###### Article L612-13
+
+L'entreprise qui accueille des stagiaires tient à jour un registre des conventions de stage, indépendamment du registre
+unique du personnel mentionné à l'article L. 1221-13 du code du travail. Un décret détermine les modalités d'application du
+présent article, notamment les mentions qui figurent sur le registre susmentionné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-893 du 28 juillet 2011 - art. 27
+
+	**Abrogé par**:
+
+	  - Loi n°2014-788 du 10 juillet 2014 - art. 1
+
+	**Cité par**:
+
+	  - Code du travail - art. L1221-13 (M)
 
 
 ##### Chapitre III : Collation des grades et titres universitaires
