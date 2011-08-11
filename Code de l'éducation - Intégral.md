@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-07-30
+Version Consolidée au 2011-08-12
 
 # Partie législative
 
@@ -22759,8 +22759,8 @@ conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier. "
 " Art.L. 6142-11.-Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues à
 l'article L. 6142-3 sont examinées par une commission comprenant le représentant de l'Etat dans le département, président, le
 directeur de l'unité de formation et de recherches médicales ou pharmaceutiques ou, lorsqu'il existe un comité de
-coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin inspecteur régional de
-santé publique ou le pharmacien inspecteur régional.
+coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin ou le pharmacien désigné
+par le directeur général de l'agence régionale de santé. 
 
 A défaut d'accord intervenu devant cette commission, il est statué par décision commune des ministres de l'enseignement
 supérieur et de la santé, dans les conditions déterminées par voie réglementaire. " 
@@ -22794,15 +22794,9 @@ nouveau corps ou à conserver le régime du corps auquel ils appartiennent. "
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Ordonnance 2005-406 2005-05-02 art. 9 I, art. 13 II JORF 3 mai 2005
-	  - Ordonnance n°2005-406 du 2 mai 2005 - art. 9 () JORF 3 mai 2005
+	  - Loi n°2011-940 du 10 août 2011 - art. 47 (V)
 
 	**Cité par**:
 
