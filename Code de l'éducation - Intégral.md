@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-08-12
+Version Consolidée au 2011-08-13
 
 # Partie législative
 
@@ -38631,27 +38631,28 @@ chargé de l'éducation exercées à l'échelon du département.
 
 ###### Article R222-29
 
-Le ministre chargé de l'éducation peut, par arrêté, déléguer aux recteurs d'académie le pouvoir d'approuver les règlements
-intérieurs des commissions administratives paritaires qui sont instituées auprès des inspecteurs d'académie, directeurs des
-services départementaux de l'éducation nationale, en application de l'article 2 du décret n° 82-451 du 28 mai 1982 relatif
-aux commissions administratives paritaires de la fonction publique de l'Etat, et les règlements intérieurs des comités
-techniques paritaires départementaux qui sont institués en application de l'article 4 du décret n° 82-452 du 28 mai 1982
-relatif aux comités techniques paritaires de la fonction publique de l'Etat.
+Le ministre chargé de l'éducation peut, par arrêté, déléguer aux recteurs d'académie le pouvoir de fixer le nombre de sièges
+de membres titulaires et suppléants composant les commissions administratives paritaires des instituteurs et des professeurs
+des écoles pour chaque département de leur académie en application des articles 4 et 5 du décret n° 90-770 du 31 août 1990
+relatif aux commissions administratives paritaires uniques communes aux corps des instituteurs et des professeurs des écoles.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°82-451 du 28 mai 1982 - art. 2 (M)
-	  - Décret n°82-452 du 28 mai 1982 - art. 4 (M)
 
 	**Anciens textes**:
 
 	  - Décret n°86-298 du 27 février 1986 - art. 1 (Ab)
 
+	**Cite**:
+
+	  - Décret n°90-770 du 31 août 1990 - art. 4 (V)
+
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2011-958 du 10 août 2011 - art. 41
 
 	**Cité par**:
 
@@ -38660,21 +38661,14 @@ relatif aux comités techniques paritaires de la fonction publique de l'Etat.
 
 ###### Article R222-30
 
-Le ministre chargé de l'éducation peut, par arrêté, déléguer aux recteurs d'académie le pouvoir :
-
-1° D'établir la liste des organisations syndicales de fonctionnaires aptes à désigner des représentants au sein de chaque
-comité technique paritaire qui peut être créé dans le ressort territorial de chaque académie en application de l'article 4 du
-décret n° 82-452 du 28 mai 1982 cité à l'article R. 222-29 ;
-
-2° De fixer le nombre de sièges de titulaires et de suppléants attribués à chacune des organisations inscrites sur la liste
-mentionnée au 1° ci-dessus.
+Par dérogation à l'article 31 du décret n° 2011-184 du 15 février 2011 relatif aux comités techniques dans les
+administrations et les établissements publics de l'Etat, pour chaque comité technique spécial institué dans les départements
+d'une académie dont la composition est établie selon un scrutin de sigles ou selon les dispositions prévues aux troisième à
+sixième alinéas de l'article 14 du décret du 15 février 2011 susmentionné, un arrêté du recteur d'académie fixe la liste des
+organisations syndicales habilitées à désigner des représentants ainsi que le nombre de sièges auxquels elles ont droit et
+impartit un délai pour la désignation qui ne peut être inférieur à quinze jours et supérieur à trente jours.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°82-452 du 28 mai 1982 - art. 4 (M)
-	  - Code de l'éducation - art. R222-29 (V)
 
 	**Anciens textes**:
 
@@ -38682,7 +38676,15 @@ mentionnée au 1° ci-dessus.
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Cite**:
+
+	  - Décret n°2011-184 du 15 février 2011 - art. 31
+
+	**Modifié par**:
+
+	  - Décret n°2011-958 du 10 août 2011 - art. 42
 
 
 ###### Article R222-34
