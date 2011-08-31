@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-08-13
+Version Consolidée au 2011-09-01
 
 # Partie législative
 
@@ -56450,16 +56450,18 @@ d'orientation.
 A l'intérieur des cycles des collèges et des lycées, le redoublement ne peut intervenir qu'à la demande écrite des parents de
 l'élève ou de l'élève majeur, ou, sur proposition du conseil de classe, avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
+peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
+conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef d'établissement dans
+le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre établissement, il est
+prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans les conditions
+fixées à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 7
 	  - Décret n°90-484 du 14 juin 1990 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 	**Cité par**:
 
@@ -56467,6 +56469,10 @@ l'élève ou de l'élève majeur, ou, sur proposition du conseil de classe, avec
 	  - Arrêté du 27 mai 2010 - art. 8 (V)
 	  - Code de l'éducation - art. D331-38 (VD)
 	  - Code de la santé publique - art. D4351-19 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 2
 
 
 ###### Article D331-30
@@ -56707,24 +56713,22 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 ###### Article D331-38
 
 Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
-l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe. 
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
 
 L'affectation est de la compétence de l'inspecteur d'académie, sous l'autorité du recteur, pour les formations implantées
 dans le département.L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est
 réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
 
 Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève
-l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
+l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente,
+en vertu d'un changement prononcé dans les conditions définies à l'article D. 331-29 et compte tenu de la formation déjà
+reçue.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°90-484 du 14 juin 1990 - art. 16 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-148 du 10 février 2009 - art. 3
 
 	**Cité par**:
 
@@ -56737,6 +56741,10 @@ l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orient
 	  - Code de l'éducation - art. D371-4 (V)
 	  - Code de l'éducation - art. D372-4 (V)
 	  - Code de l'éducation - art. D374-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 5
 
 
 ###### Article D331-39
@@ -56786,8 +56794,8 @@ rencontres et d'échanges entre enseignants et élèves des cycles concernés.
 ###### Article D331-41
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité effectués en application des
-dispositions de l'article D. 331-38 ou de décisions à caractère disciplinaire.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 331-38, ou en raison de décisions à caractère disciplinaire.
 
 **Liens relatifs à cet article**
 
@@ -56795,14 +56803,14 @@ dispositions de l'article D. 331-38 ou de décisions à caractère disciplinaire
 
 	  - Décret n°90-484 du 14 juin 1990 - art. 19 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-148 du 10 février 2009 - art. 4
-
 	**Cité par**:
 
 	  - Arrêté du 27 janvier 2010 - art. 9 (V)
 	  - Arrêté du 27 mai 2010 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 6
 
 	**Cite**:
 
@@ -57103,15 +57111,22 @@ A l'intérieur des cycles des collèges et des lycées privés sous contrat, le 
 écrite des parents de l'élève ou de l'élève majeur ou, sur proposition du conseil de la classe réuni sous la présidence du
 chef d'établissement, avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique des lycées privés sous contrat, un changement
+de voie d'orientation peut être réalisé en cours ou en fin d'année sur demande écrite des représentants légaux ou de l'élève
+majeur, après avis du conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef
+d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un
+établissement public, il est prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation
+nationale, dans les conditions prévues à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°91-372 1991-04-16 art. 5
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 7
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Code de l'éducation - art. D331-38
 
 	**Cité par**:
 
@@ -57303,14 +57318,18 @@ sous la présidence du chef d'établissement.
 ###### Article D331-60
 
 Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalité de ce cycle dans l'établissement scolaire,
-sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou des décisions à caractère
-disciplinaire.
+sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation conformément aux dispositions de l'article D. 331-51, ou en raison de décisions à caractère disciplinaire.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-148 du 10 février 2009 - art. 7
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 10
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D331-51
 
 
 ###### Article D331-61
@@ -69789,16 +69808,21 @@ Les interventions des conseillers d'orientation-psychologues peuvent être mises
 A l'intérieur des cycles, le redoublement ne peut intervenir qu'à la demande écrite des parents de l'élève ou de l'élève
 majeur, ou sur proposition du conseil de classe avec l'accord écrit des intéressés.
 
+A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
+peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
+conseil de classe. Lorsque ce changement a lieu à l'intérieur du même établissement, il est prononcé par le chef
+d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre
+établissement, il est prononcé dans les conditions fixées à l'article D. 341-16.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-920 1992-09-07 art. 7
 	  - Décret n°92-920 du 7 septembre 1992 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 13
 
 	**Cité par**:
 
@@ -70026,10 +70050,11 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
 l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
 L'affectation de l'élève à l'issue d'un cycle dans la voie d'orientation du cycle supérieur est réalisée en fonction des
-décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
+décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
 
 Le changement d'établissement en cours de cycle de formation est autorisé par le chef d'établissement d'accueil. L'élève est
-scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue.
+scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente, en vertu d'un changement prononcé dans
+les conditions définies au deuxième alinéa de l'article D. 341-7 et compte tenu de la formation déjà reçue.
 
 **Liens relatifs à cet article**
 
@@ -70039,7 +70064,7 @@ scolarisé dans la même voie d'orientation et compte tenu de la formation déj�
 
 	**Modifié par**:
 
-	  - Décret n°2009-224 du 24 février 2009 - art. 1
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 16
 
 	**Cité par**:
 
@@ -70091,10 +70116,11 @@ rencontres et d'échanges entre enseignants et élèves des cycles concernés.
 
 ###### Article D341-19
 
-Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-16
-ou de décisions à caractère disciplinaire, tout élève admis dans un cycle de formation devra pouvoir parcourir la totalité de
-ce cycle dans un ou plusieurs établissements scolaires. Lorsqu'un changement d'établissement scolaire est nécessaire en cours
-de cycle, la famille ou l'élève majeur sont informés préalablement au début du cycle.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 341-16, ou en raison de décisions à caractère disciplinaire,
+tout élève admis dans un cycle de formation devra pouvoir parcourir la totalité de ce cycle dans un ou plusieurs
+établissements scolaires. Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle, la famille ou
+l'élève majeur sont informés préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
@@ -70104,7 +70130,11 @@ de cycle, la famille ou l'élève majeur sont informés préalablement au début
 
 	**Modifié par**:
 
-	  - Décret n°2009-224 du 24 février 2009 - art. 1
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 17
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D341-16
 
 
 ###### Article D341-20
@@ -70521,11 +70551,11 @@ sous la présidence du chef d'établissement.
 
 ###### Article D341-37
 
-Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité mentionnés à l'article D. 341-36
-ou de décisions à caractère disciplinaire et des dispositions prévues à l'article R. 813-44 du code rural, tout élève admis
-dans un cycle de formation devra pouvoir parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires.
-Lorsqu'un changement d'établissement scolaire est nécessaire en cours de cycle, la famille ou l'élève majeur sont informés
-préalablement au début du cycle.
+Sous réserve des choix relatifs à la poursuite d'un enseignement optionnel ou de spécialité ou d'un changement de voie
+d'orientation, conformément aux dispositions de l'article D. 341-36, ou en raison de décisions à caractère disciplinaire et
+des dispositions prévues à l'article R. 813-44 du code rural, tout élève admis dans un cycle de formation devra pouvoir
+parcourir la totalité de ce cycle dans un ou plusieurs établissements scolaires. Lorsqu'un changement d'établissement
+scolaire est nécessaire en cours de cycle, la famille ou l'élève majeur sont informés préalablement au début du cycle.
 
 **Liens relatifs à cet article**
 
@@ -70535,12 +70565,12 @@ préalablement au début du cycle.
 
 	**Modifié par**:
 
-	  - Décret n°2009-224 du 24 février 2009 - art. 1
+	  - Décret n°2010-100 du 27 janvier 2010 - art. 21
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D341-36 (VT)
-	  - Code rural - art. R813-44 (V)
+	  - Code de l'éducation - art. D341-36
+	  - Code rural - art. R813-44
 
 
 ###### Article D341-38
@@ -74846,16 +74876,20 @@ Il détermine également les modalités :
 7° D'application de l'obligation d'assiduité mentionnée à l'article L. 511-1. 
 
 Le règlement intérieur comporte un chapitre consacré à la discipline des élèves qui reproduit l'échelle des sanctions prévues
-à l'article R511-13. 
+à l'article R. 511-13. 
 
 Le règlement intérieur est porté à la connaissance des membres de la communauté éducative. Tout manquement au règlement
 intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de poursuites appropriées.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art. 2 (V)
+	  - Décret n°2011-728 du 24 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -74946,8 +74980,9 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline et dans
-les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie lycéenne ; 
+3° Préside le conseil d'administration, la commission permanente, le conseil pédagogique, le conseil de discipline, la
+commission éducative et dans les lycées l'assemblée générale des délégués des élèves et le conseil des délégués pour la vie
+lycéenne ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -74990,7 +75025,7 @@ d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 	**Modifié par**:
 
-	  - Décret n°2010-99 du 27 janvier 2010 - art. 3
+	  - Décret n°2011-728 du 24 juin 2011 - art. 2
 
 	**Cite**:
 
@@ -75023,32 +75058,60 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
-peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 85-924 du 30 août 1985 relatif aux établissements
-publics locaux d'enseignement, ainsi que les mesures de prévention, d'accompagnement et de réparation prévues au règlement
-intérieur.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article R. 421-10-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14 ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 8 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 8 al 15 à 20 (en partie) (V)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-728 du 24 juin 2011 - art. 3
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R412-3 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-10-1
+	  - Code de l'éducation - art. R511-14
+
+
+###### Article R421-10-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-728 du 24 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-10 (VD)
 
 
 ###### Article R421-11
@@ -77666,8 +77729,8 @@ En qualité d'organe exécutif de l'établissement, le chef d'établissement :
 
 2° A autorité sur le personnel recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle et le conseil de
-discipline ; 
+3° Préside le conseil d'administration, le conseil de perfectionnement et de la formation professionnelle, le conseil de
+discipline et la commission éducative ; 
 
 4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -77687,25 +77750,22 @@ conformément aux dispositions des articles R. 421-54 et R. 421-55.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 2 à 11 (V)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-728 du 24 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L421-11 (V)
-	  - Code de l'éducation - art. L421-14 (V)
-	  - Code de l'éducation - art. L421-20 (V)
-	  - Code de l'éducation - art. R421-54 (V)
-	  - Code de l'éducation - art. R421-92 (V)
+	  - Code de l'éducation - art. L421-11
+	  - Code de l'éducation - art. L421-14
+	  - Code de l'éducation - art. L421-20
+	  - Code de l'éducation - art. R421-54
+	  - Code de l'éducation - art. R421-55 (V)
+	  - Code de l'éducation - art. R421-92
 
 
 ###### Article R421-85
@@ -77723,28 +77783,56 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes ; à l'égard des élèves, il
-prononce seul les sanctions mentionnées à l'article 6 du décret n° 85-1242 du 25 novembre 1985 relatif aux établissements
-publics locaux d'enseignement relevant du ministre chargé de le mer, sans préjudice de l'application des sanctions prévues
-par le règlement intérieur.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article R. 421-85-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-16 ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 al 12 à 16 et 17 (en partie) (V)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-728 du 24 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-85-1
+	  - Code de l'éducation - art. R511-16
+
+
+###### Article R421-85-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-728 du 24 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R421-85 (VD)
 
 
 ###### Article R421-86
@@ -77950,7 +78038,8 @@ nationaux ;
 ###### Article R421-93
 
 Le règlement intérieur adopté par le conseil d'administration définit les droits et les devoirs de chacun des membres de la
-communauté scolaire. Il détermine notamment les modalités selon lesquelles sont mis en application :
+communauté scolaire. Il rappelle les règles de civilité et de comportement. Il détermine notamment les modalités selon
+lesquelles sont mis en application :
 
 1° Le respect des principes de laïcité et de pluralisme ;
 
@@ -77969,17 +78058,13 @@ intérieur justifie la mise en œuvre d'une procédure disciplinaire ou de pours
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 12 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-728 du 24 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -80055,49 +80140,50 @@ Le chef d'établissement représente l'Etat au sein de l'établissement. Il est 
 
 ###### Article D422-6
 
-En qualité d'organe exécutif de l'établissement, le chef d'établissement :
+En qualité d'organe exécutif de l'établissement, le chef d'établissement : 
 
-1° Représente l'établissement en justice et dans tous les actes de la vie civile ;
+1° Représente l'établissement en justice et dans tous les actes de la vie civile ; 
 
-2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
+2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
-3° Préside le conseil d'administration, la commission permanente, l'assemblée générale des délégués des élèves et le conseil
-des délégués pour la vie lycéenne ;
+3° Préside le conseil d'administration, la commission permanente, la commission éducative, l'assemblée générale des délégués
+des élèves et le conseil des délégués pour la vie lycéenne ; 
 
-4° Est ordonnateur des recettes et des dépenses de l'établissement ;
+4° Est ordonnateur des recettes et des dépenses de l'établissement ; 
 
 5° Prépare les travaux du conseil d'administration et notamment dans la limite des ressources dont dispose l'établissement,
-le projet de budget ;
+le projet de budget ; 
 
-6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ;
+6° Exécute les délibérations du conseil d'administration et notamment le budget adopté par le conseil ; 
 
 7° Soumet au conseil d'administration les mesures à prendre dans les domaines définis à l'article D. 422-2 et exécute les
-décisions adoptées par le conseil ;
+décisions adoptées par le conseil ; 
 
 8° Conclut tout contrat ou convention après avoir recueilli l'autorisation du conseil d'administration. Il informe le conseil
 d'administration dans sa séance la plus proche des marchés conclus sans autorisation préalable dans les cas prévus à
-l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ;
+l'article D. 422-16 et tient à disposition des membres de ce dernier les documents y afférents ; 
 
 Lorsque, pour la mise en œuvre de ses missions de formation continue, l'établissement est associé à un groupement
 d'établissements n'ayant pas le caractère de groupement d'intérêt public, le chef d'établissement vise les conventions
 s'inscrivant dans le programme des actions de formation continue de son établissement qui ont été signées par l'ordonnateur
-de l'établissement, dit « établissement support » auquel a été confiée la gestion du groupement. Il soumet ces conventions à
+de l'établissement, dit établissement support auquel a été confiée la gestion du groupement. Il soumet ces conventions à
 l'approbation du conseil d'administration lorsqu'elles engagent les finances de l'établissement ou sont susceptibles
 d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 2 à 11 (V)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-729 du 24 juin 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-16
+	  - Code de l'éducation - art. D422-2
 
 
 ###### Article D422-7
@@ -80117,33 +80203,60 @@ personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 4° Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la
 communauté scolaire et assure l'application du règlement intérieur ; 
 
-5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il
-peut prononcer seul les sanctions mentionnées à l'article 8 du décret n° 86-164 du 31 janvier 1986 portant organisation
-administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à
-l'Etat et portant dispositions diverses applicables aux établissements d'enseignement de second degré municipaux ou
-départementaux.
+5° Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
+
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article D. 422-7-1, soit en saisissant le conseil de discipline : 
+
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14, ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 8 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 8 al 12 à 17 1ère phrase et 2ème phrase (en partie) (V)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-729 du 24 juin 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D422-62 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-7-1 (V)
+	  - Code de l'éducation - art. R511-14
+
+
+###### Article D422-7-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-729 du 24 juin 2011 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D422-7 (V)
 
 
 ###### Article D422-8
@@ -91689,8 +91802,8 @@ Le chef d'établissement est l'organe exécutif de l'établissement. Il exerce l
 2° Il a autorité sur l'ensemble des personnels affectés ou mis à la disposition de l'établissement. Il fixe le service des
 personnels dans le respect du statut de ces derniers ; 
 
-3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline et le conseil des délégués des
-élèves ; 
+3° Il préside le conseil d'administration, la commission permanente, le conseil de discipline, la commission éducative et le
+conseil des délégués des élèves ; 
 
 4° Il est ordonnateur des recettes et des dépenses de l'établissement ; 
 
@@ -91713,35 +91826,52 @@ biens, l'hygiène et la salubrité de l'établissement ;
 11° Il est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de
 la communauté scolaire et assure l'application du règlement intérieur ; 
 
-12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves,
-il prononce seul les sanctions mentionnées à l'article 12 du décret n° 95-592 du 6 mai 1995 relatif à l'organisation et au
-fonctionnement des établissements d'enseignement français en Principauté d'Andorre, sans préjudice de l'application des
-sanctions prévues par le règlement intérieur. 
+12° Il engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. 
 
-Le chef d'établissement recherche avec l'équipe éducative, dans la mesure du possible avant la mise en œuvre d'une procédure
-disciplinaire, toute mesure utile de nature éducative. 
+A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions
+prévues à l'article D. 454-12-1, soit en saisissant le conseil de discipline : 
 
-Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe le délégué à l'enseignement et le
-recteur de l'académie de Montpellier.
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ; 
+
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève. 
+
+Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-15, ainsi que les mesures
+de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur. 
+
+Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de l'établissement a été victime de violence
+physique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°95-592 du 6 mai 1995 - art. 12 (V)
-	  - Code de l'éducation - art. D422-2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-592 du 6 mai 1995 - art. 12 al 1 à 13 (1ère phrase, en partie), 14 et 15 (V)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-729 du 24 juin 2011 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D422-2
+	  - Code de l'éducation - art. R511-15
+
+
+###### Article D454-12-1
+
+Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement
+informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours
+ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
+
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses
+observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de
+l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-729 du 24 juin 2011 - art. 4
 
 
 ###### Article D454-13
@@ -95115,52 +95245,77 @@ des établissements d’enseignement du second degré
 
 ###### Article R511-12
 
-Préalablement à la mise en œuvre d'une procédure disciplinaire, le chef d'établissement et l'équipe éducative recherchent,
-dans la mesure du possible, toute mesure utile de nature éducative.
+Sauf dans les cas où le chef d'établissement est tenu d'engager une procédure disciplinaire et préalablement à la mise en
+œuvre de celle-ci, le chef d'établissement et l'équipe éducative recherchent, dans la mesure du possible, toute mesure utile
+de nature éducative.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 8, 2ème phrase (Ab)
-	  - Décret n°86-164 du 31 janvier 1986 - art. 8, 2ème phrase (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-728 du 24 juin 2011 - art. 5
 
 
 ###### Article R511-13
 
-Dans les lycées et collèges relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à
-l'encontre des élèves sont les suivantes :
+I. - Dans les collèges et lycées relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à
+l'encontre des élèves sont les suivantes : 
 
-1° L'avertissement ;
+1° L'avertissement ; 
 
-2° Le blâme ;
+2° Le blâme ; 
 
-3° L'exclusion temporaire, qui ne peut excéder un mois, de l'établissement ou de l'un de ses services annexes ;
+3° La mesure de responsabilisation ; 
 
-4° L'exclusion définitive de l'établissement ou de l'un de ses services annexes.
+4° L'exclusion temporaire de la classe. Pendant l'accomplissement de la sanction, l'élève est accueilli dans l'établissement.
+La durée de cette exclusion ne peut excéder huit jours ; 
 
-Les sanctions peuvent être assorties d'un sursis total ou partiel.
+5° L'exclusion temporaire de l'établissement ou de l'un de ses services annexes. La durée de cette exclusion ne peut excéder
+huit jours ; 
 
-Toute sanction, hormis l'exclusion définitive, est effacée du dossier administratif de l'élève au bout d'un an.
+6° L'exclusion définitive de l'établissement ou de l'un de ses services annexes. 
 
-Le règlement intérieur reproduit l'échelle des sanctions. En outre, il peut prévoir des mesures de prévention,
-d'accompagnement et de réparation.
+Les sanctions peuvent être assorties d'un sursis total ou partiel. 
+
+Le règlement intérieur reproduit l'échelle des sanctions et prévoit les mesures de prévention et d'accompagnement ainsi que
+les modalités de la mesure de responsabilisation. 
+
+II. - La mesure de responsabilisation prévue au 3° du I consiste à participer, en dehors des heures d'enseignement, à des
+activités de solidarité, culturelles ou de formation à des fins éducatives. Sa durée ne peut excéder vingt heures.
+Lorsqu'elle consiste en particulier en l'exécution d'une tâche, celle-ci doit respecter la dignité de l'élève, ne pas
+l'exposer à un danger pour sa santé et demeurer en adéquation avec son âge et ses capacités. Elle peut être exécutée au sein
+de l'établissement, d'une association, d'une collectivité territoriale, d'un groupement rassemblant des personnes publiques
+ou d'une administration de l'Etat. Un arrêté ministériel fixe les clauses types de la convention qui doit nécessairement être
+conclue entre l'établissement et la structure susceptible d'accueillir des élèves dans le cadre de mesures de
+responsabilisation. 
+
+L'accord de l'élève, et, lorsqu'il est mineur, celui de son représentant légal, est recueilli en cas d'exécution à
+l'extérieur de l'établissement. Un exemplaire de la convention est remis à l'élève ou à son représentant légal. 
+
+La mise en place d'une mesure de responsabilisation est subordonnée à la signature d'un engagement par l'élève à la
+réaliser. 
+
+III. - En cas de prononcé d'une sanction prévue au 4° ou au 5° du I, le chef d'établissement ou le conseil de discipline peut
+proposer une mesure alternative consistant en une mesure de responsabilisation. 
+
+Lorsque l'élève respecte l'engagement écrit visé au dernier alinéa du II, seule la mesure alternative est inscrite dans le
+dossier administratif de l'élève. Elle est effacée à l'issue de l'année scolaire. Dans le cas contraire, la sanction
+initialement envisagée, prévue au 4° ou au 5° du I, est exécutée et inscrite au dossier. 
+
+IV. - L'avertissement, le blâme et la mesure de responsabilisation sont effacés du dossier administratif de l'élève à l'issue
+de l'année scolaire. Les autres sanctions, hormis l'exclusion définitive, sont effacées du dossier administratif de l'élève
+au bout d'un an. 
+
+Toutefois, un élève peut demander l'effacement des sanctions inscrites dans son dossier administratif lorsqu'il change
+d'établissement. 
+
+Les sanctions sont effacées du dossier administratif de l'élève au terme de sa scolarité dans le second degré.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 3 (Ab)
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
-	  - Décret n°86-164 du 31 janvier 1986 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-728 du 24 juin 2011 - art. 6
 
 	**Cité par**:
 
@@ -95178,21 +95333,14 @@ d'accompagnement et de réparation.
 
 ###### Article R511-14
 
-Dans les lycées et collèges relevant du ministre chargé de l'éducation, le chef d'établissement peut prononcer seul les
-sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa de l'article R. 511-13, sous réserve que la durée de
-l'exclusion n'excède pas huit jours.
+Dans les collèges et lycées relevant du ministre chargé de l'éducation, le chef d'établissement peut prononcer seul les
+sanctions énumérées du 1° au 5° du I de l'article R. 511-13.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 8, 1ère phrase (Ab)
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 1 (Ab)
-	  - Décret n°86-164 du 31 janvier 1986 - art. 8, 1ère phrase (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-728 du 24 juin 2011 - art. 7
 
 	**Cité par**:
 
@@ -95201,7 +95349,7 @@ l'exclusion n'excède pas huit jours.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R511-13 (V)
+	  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-15
@@ -95209,18 +95357,13 @@ l'exclusion n'excède pas huit jours.
 Dans les établissements d'enseignement français en Principauté d'Andorre, l'échelle des sanctions est celle fixée à l'article
 R. 511-13. 
 
-Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
-article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+Le chef d'établissement peut prononcer seul les sanctions énumérées du 1° au 5° du I du même article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-592 du 6 mai 1995 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-728 du 24 juin 2011 - art. 8
 
 	**Cité par**:
 
@@ -95231,7 +95374,7 @@ article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R511-13 (V)
+	  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-16
@@ -95239,18 +95382,13 @@ article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
 Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, l'échelle des sanctions est
 celle fixée à l'article R. 511-13. 
 
-Le chef d'établissement peut prononcer seul les sanctions mentionnées du deuxième (1°) au quatrième (3°) alinéa du même
-article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
+Le chef d'établissement peut prononcer seul les sanctions énumérées du 1° au 5° du I du même article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-728 du 24 juin 2011 - art. 8
 
 	**Cité par**:
 
@@ -95258,7 +95396,7 @@ article, sous réserve que la durée de l'exclusion n'excède pas huit jours.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R511-13 (V)
+	  - Code de l'éducation - art. R511-13
 
 
 ###### Article R511-17
@@ -95339,6 +95477,33 @@ Les conditions d'application des articles R. 511-17 et R. 511-18 sont fixées pa
 	**Cite**:
 
 	  - Code de l'éducation - art. R511-17 (V)
+
+
+##### Sous-section 2 : La commission éducative
+
+###### Article R511-19-1
+
+Dans les collèges et les lycées relevant du ministre chargé de l'éducation et dans les établissements publics locaux
+d'enseignement relevant du ministre chargé de la mer est instituée une commission éducative. 
+
+Cette commission, qui est présidée par le chef d'établissement ou son représentant, comprend notamment des personnels de
+l'établissement, dont au moins un professeur, et au moins un parent d'élève. Sa composition est arrêtée par le conseil
+d'administration et inscrite dans le règlement intérieur de l'établissement qui fixe les modalités de son fonctionnement.
+Elle associe, en tant que de besoin, toute personne susceptible d'apporter des éléments permettant de mieux appréhender la
+situation de l'élève concerné. 
+
+Elle a pour mission d'examiner la situation d'un élève dont le comportement est inadapté aux règles de vie dans
+l'établissement et de favoriser la recherche d'une réponse éducative personnalisée. Elle est également consultée en cas
+d'incidents impliquant plusieurs élèves. 
+
+La commission éducative assure le suivi de l'application des mesures de prévention et d'accompagnement, des mesures de
+responsabilisation ainsi que des mesures alternatives aux sanctions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-728 du 24 juin 2011 - art. 9
 
 
 ##### Sous-section 2 : Le conseil de discipline de l’établissement
@@ -95581,32 +95746,6 @@ En cas de partage égal des voix, le président a voix prépondérante.
 	  - Code de l'éducation - art. R511-26 (V)
 
 
-###### Article R511-28
-
-Dans les établissements publics locaux d'enseignement relevant du ministre chargé de la mer, le conseil de discipline décide
-sur proposition motivée du chef d'établissement toute exclusion supérieure à huit jours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985, article 25 alinéa 7  v. init.
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
-
-	**Abrogé par**:
-
-	  - Décret n°2011-728 du 24 juin 2011 - art. 10
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D511-58 (V)
-	  - Code de l'éducation - art. R561-1 (V)
-	  - Code de l'éducation - art. R564-1 (V)
-
-
 ###### Article R511-29
 
 Dans les lycées de la défense, le conseil de discipline est saisi par le commandant du lycée et donne son avis sur toute
@@ -95640,22 +95779,25 @@ du ministre de la défense.
 ###### Article D511-30
 
 Lorsque le chef d'établissement, saisi par écrit d'une demande de saisine du conseil de discipline émanant d'un membre de la
-communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée.
+communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée. Lorsque le
+chef d'établissement décide de saisir le conseil de discipline, il en informe préalablement l'inspecteur d'académie,
+directeur des services départementaux de l'éducation nationale si l'élève a déjà fait l'objet, au cours de l'année scolaire,
+de la sanction prévue au 6° du I de l'article R. 511-13.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2011-729 du 24 juin 2011 - art. 5
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D511-55 (VD)
 	  - Code de l'éducation - art. R511-26 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R511-13
 
 
 ###### Article D511-31
@@ -95983,8 +96125,23 @@ public d'enseignement par correspondance.
 	  - Code de l'éducation - art. D562-2 (VD)
 
 
+##### Sous-section 3 : Le conseil de discipline de l’établissement
+
+##### Paragraphe 1 : Composition
+
+
+##### Paragraphe 2 : Compétence
+
+
+
+##### Paragraphe 3 : Procédure disciplinaire
+
+
+
 ##### Sous-section 3 : Le conseil de discipline départemental
 
+
+##### Sous-section 4 : Le conseil de discipline départemental
 
 ###### Article D511-46
 
@@ -96084,6 +96241,8 @@ un an par le recteur d'académie.
 
 ##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental
 
+##### Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental
+
 ###### Article D511-47
 
 Lorsqu'un élève est traduit devant le conseil de discipline de l'établissement ou le conseil de discipline départemental et
@@ -96141,6 +96300,8 @@ nationale.
 
 
 ##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental
+
+##### Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental
 
 ###### Article D511-50
 
