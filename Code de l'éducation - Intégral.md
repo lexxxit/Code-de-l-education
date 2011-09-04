@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-09-05
 
 # Partie législative
 
@@ -95506,8 +95506,7 @@ responsabilisation ainsi que des mesures alternatives aux sanctions.
 	  - Décret n°2011-728 du 24 juin 2011 - art. 9
 
 
-##### Sous-section 2 : Le conseil de discipline de l’établissement
-
+##### Sous-section 3 : Le conseil de discipline de l’établissement
 
 ##### Paragraphe 1 : Composition
 
@@ -96125,22 +96124,6 @@ public d'enseignement par correspondance.
 	  - Code de l'éducation - art. D562-2 (VD)
 
 
-##### Sous-section 3 : Le conseil de discipline de l’établissement
-
-##### Paragraphe 1 : Composition
-
-
-##### Paragraphe 2 : Compétence
-
-
-
-##### Paragraphe 3 : Procédure disciplinaire
-
-
-
-##### Sous-section 3 : Le conseil de discipline départemental
-
-
 ##### Sous-section 4 : Le conseil de discipline départemental
 
 ###### Article D511-46
@@ -96239,8 +96222,6 @@ un an par le recteur d'académie.
 	  - Code de l'éducation - art. D511-56 (VD)
 
 
-##### Sous-section 4 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental
-
 ##### Sous-section 5 : Dispositions communes au conseil de discipline de l’établissement et au conseil de discipline départemental
 
 ###### Article D511-47
@@ -96298,8 +96279,6 @@ nationale.
 	  - Code de l'éducation - art. D562-2 (VD)
 	  - Code de l'éducation - art. D564-3 (VD)
 
-
-##### Sous-section 5 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental
 
 ##### Sous-section 6 : Appel des décisions du conseil de discipline de l’établissement ou du conseil de discipline départemental
 
@@ -100533,6 +100512,51 @@ Pour l'application du quatrième alinéa (b) de l'article D. 511-65 à Mayotte, 
 	**Cite**:
 
 	  - Code de l'éducation - art. D511-65 (V)
+
+
+###### Article D562-8-1
+
+I. ― Pour l'application de l'article D. 531-4 à Mayotte, les deuxième, troisième et quatrième alinéas sont remplacés par les
+alinéas suivants : 
+
+" Les ressources sont justifiées par l'avis d'imposition à l'impôt sur le revenu. 
+
+Le nombre d'enfants à charge est justifié par l'attestation de paiement de prestations familiales. 
+
+Le revenu imposable, tel qu'il figure sur l'avis d'imposition, est retenu pour apprécier les ressources de la famille ou de
+la personne mentionnée au premier alinéa. 
+
+Les enfants à charge considérés pour l'étude du droit à bourse sont les enfants mineurs ou infirmes et les enfants majeurs
+célibataires tels qu'ils figurent sur l'attestation de paiement de prestations familiales. " 
+
+II. ― Pour l'application de l'article D. 531-5 à Mayotte, les mots : " 2008-2009 ” sont remplacés par les mots : " 2010-2011
+”. 
+
+Les plafonds de référence annuels sont remplacés par les suivants : 
+
+1° 8 340 euros pour une bourse du premier taux ; 
+
+2° 4 509 euros pour une bourse du deuxième taux ; 
+
+3° 1 591 euros pour une bourse du troisième taux. 
+
+Les mots : " salaire minimum de croissance horaire ” sont remplacés par les mots : " salaire minimum interprofessionnel
+garanti en application des articles L. 141-1 et suivants du code du travail applicable à Mayotte ”. 
+
+III. ― Pour l'application de l'article D. 531-24 à Mayotte, les mots : " rentrée de janvier ” sont remplacés par les mots : "
+rentrée d'août ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1305 du 14 octobre 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D531-24
+	  - Code de l'éducation - art. D531-4
+	  - Code de l'éducation - art. D531-5
 
 
 ###### Article D562-10
