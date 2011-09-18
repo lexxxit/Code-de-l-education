@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-09-05
+Version Consolidée au 2011-09-19
 
 # Partie législative
 
@@ -59797,11 +59797,10 @@ ministre chargé de la formation professionnelle.
 
 ###### Article R335-12
 
-Le répertoire national des certifications professionnelles a pour objet de tenir à la disposition des personnes et des
-entreprises une information constamment à jour sur les diplômes et les titres à finalité professionnelle ainsi que sur les
-certificats de qualification figurant sur les listes établies par les commissions paritaires nationales de l'emploi des
-branches professionnelles. Il contribue à faciliter l'accès à l'emploi, la gestion des ressources humaines et la mobilité
-professionnelle.
+Le répertoire national des certifications professionnelles contribue à faciliter l'accès à l'emploi, la gestion des
+ressources humaines et la mobilité professionnelle. Il permet de tenir à la disposition des personnes et des entreprises une
+information constamment mise à jour sur les diplômes et les titres à finalité professionnelle ainsi que sur les certificats
+de qualification établis par les commissions paritaires nationales de l'emploi des branches professionnelles.
 
 Les certifications enregistrées dans le répertoire sont reconnues sur l'ensemble du territoire national.
 
@@ -59811,7 +59810,6 @@ L'enregistrement dans le répertoire national concerne la seule certification pr
 
 	**Anciens textes**:
 
-	  - Décret n°2002-616 du 26 avril 2002 - art. 1, v. init.
 	  - Décret n°2002-616 du 26 avril 2002 - art. 1 (Ab)
 
 	**Cité par**:
@@ -59830,7 +59828,11 @@ L'enregistrement dans le répertoire national concerne la seule certification pr
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 1
 
 
 ###### Article R335-13
@@ -59993,17 +59995,17 @@ professionnelles est soumis aux conditions fixées aux articles R. 335-16 à R. 
 
 Sont enregistrés de droit dans le répertoire national des certifications professionnelles les diplômes et titres à finalité
 professionnelle délivrés au nom de l'Etat qui ont été créés après avis d'instances consultatives auxquelles les organisations
-représentatives d'employeurs et de salariés sont parties.
+représentatives d'employeurs et de salariés sont parties. 
 
 Les diplômes et titres à finalité professionnelle ainsi que les certificats de qualification professionnelle peuvent être
-enregistrés, à la demande des autorités ou organismes qui les ont créés, après avis de la Commission nationale de la
-certification professionnelle.
+enregistrés, à la demande des autorités, organismes ou instances qui les ont créés, après avis de la Commission nationale de
+la certification professionnelle. 
 
-L'organisme qui délivre la certification et en sollicite l'enregistrement fournit à l'appui de sa demande tous éléments
-d'information quant à la qualification recherchée et aux voies d'accès à celle-ci.
+L'autorité, l'organisme ou l'instance qui délivre la certification et en sollicite l'enregistrement fournit à l'appui de sa
+demande tous éléments d'information quant à la qualification recherchée et aux voies d'accès à celle-ci. 
 
 Il apporte les éléments dont il dispose quant aux caractéristiques propres de la certification délivrée et à sa
-complémentarité avec des certifications préexistantes.
+complémentarité avec des certifications préexistantes. 
 
 Il doit, en outre, apporter toute garantie d'impartialité du jury. Le non-respect de cette condition entraîne le retrait
 immédiat de l'enregistrement.
@@ -60012,13 +60014,15 @@ immédiat de l'enregistrement.
 
 	**Anciens textes**:
 
-	  - Décret n°2002-616 2002-04-26 art. 4, alinéas 2 à 6
-	  - Décret n°2002-616 du 26 avril 2002 - art. 4, v. init.
 	  - Décret n°2002-616 du 26 avril 2002 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -60069,70 +60073,70 @@ relation entre les emplois occupés et le descriptif d'emploi.
 ###### Article R335-18
 
 Pour un certificat de qualification, la demande d'enregistrement au répertoire national des certifications professionnelles
-doit comporter :
+doit comporter : 
 
-1° La décision et la date de création par la commission paritaire nationale de l'emploi qui le délivre ;
+1° La décision et la date de création par la ou les commissions paritaires nationales de l'emploi qui le délivrent ; 
 
-2° La description de l'emploi et la description de la certification ;
+2° La description de l'emploi et la description de la certification ; 
 
 3° La référence de la qualification conférée par le certificat de qualification dans les conventions collectives qui en font
-mention, ou du niveau dans la classification retenu par ces conventions ;
+mention, ou du niveau dans la classification retenu par ces conventions ; 
 
-4° Les modalités de son obtention ;
+4° Les modalités de son obtention ; 
 
-5° Les correspondances reconnues ou souhaitées par la commission paritaire nationale de l'emploi avec d'autres certifications
-enregistrées dans le répertoire.
+5° Les correspondances reconnues ou souhaitées        par la commission paritaire nationale de l'emploi ou par les
+commissions paritaires nationales de l'emploi avec d'autres certifications enregistrées dans le répertoire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-616 2002-04-26 art. 4, alinéas 13 à 18
-	  - Décret n°2002-616 du 26 avril 2002 - art. 4, v. init.
 	  - Décret n°2002-616 du 26 avril 2002 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 3
 
 
 ###### Article R335-19
 
-Les ministres délivrant des diplômes ou des titres enregistrés de droit dans le répertoire national des certifications
-professionnelles informent la Commission nationale de la certification professionnelle de toute création, actualisation ou
-suppression de ces diplômes ou titres à finalité professionnelle.
+La Commission nationale de la certification professionnelle est tenue informée par les ministres compétents de
+l'actualisation ou de la suppression des diplômes et titres enregistrés de droit en application des dispositions de l'article
+R. 335-16. 
 
 Pour les autres certifications, la première demande d'enregistrement ainsi que la demande de renouvellement ou de suppression
-d'enregistrement peuvent être déposées par l'autorité ou l'organisme qui les délivre, soit auprès de la Commission nationale
-de la certification professionnelle, puis auprès du ministre compétent pour le champ professionnel des activités concernées
-par la certification, soit auprès du ministre chargé de la formation professionnelle. S'il s'agit d'un organisme à vocation
-régionale, la demande est déposée auprès du préfet de région.
+d'enregistrement peuvent être déposées par l'autorité, l'organisme ou l'instance qui les délivre, soit auprès de la
+Commission nationale de la certification professionnelle, puis auprès du ministre compétent pour le champ professionnel des
+activités concernées par la certification, soit auprès du ministre chargé de la formation professionnelle. S'il s'agit d'un
+organisme à vocation régionale, la demande est déposée auprès du préfet de région. 
 
 Lorsque la demande s'exprime au niveau régional, le préfet de région communique le dossier au correspondant de la commission
 nationale pour la région prévu à l'article R. 335-29. Ce dernier instruit la demande avec le concours des services
 déconcentrés de l'Etat dans la région et rapporte devant la commission spécialisée du comité de coordination régional de
 l'emploi et de la formation professionnelle. La commission spécialisée se prononce dans un délai de trois mois à compter de
 la date de transmission du dossier par le préfet de région. A défaut de réponse dans ce délai, l'avis de la commission est
-réputé rendu.
+réputé rendu. 
 
 Le correspondant de la commission nationale pour la région transmet le dossier de l'organisme, accompagné de son rapport et
-de l'avis du comité de coordination régional de l'emploi et de la formation professionnelle, au président de la commission.
+de l'avis du comité de coordination régional de l'emploi et de la formation professionnelle, au président de la commission. 
 
-Lorsque la demande s'exprime au niveau national, le dossier est instruit par la commission nationale.
+Lorsque la demande s'exprime au niveau national, le dossier est instruit par la commission nationale. 
 
 Dans les deux cas, le président de la commission nationale peut désigner un expert pour compléter l'information de la
-commission.
+commission. 
 
-Le président de la Commission nationale de la certification professionnelle transmet tous les deux mois au ministre chargé de
-la formation professionnelle les avis de la commission afin qu'il puisse prendre l'arrêté mentionné à l'article R.* 335-20.
+Le président de la Commission nationale de la certification professionnelle transmet à l'issue de chaque réunion
+trimestrielle de la commission au ministre chargé de la formation professionnelle les avis de la commission afin qu'il puisse
+prendre l'arrêté mentionné à l'article R. * 335-20.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-616 2002-04-26 art. 4, alinéas 19 à 24, art. 5, alinéa 2
-	  - Décret n°2002-616 du 26 avril 2002 - art. 4, v. init.
-	  - Décret n°2002-616 du 26 avril 2002 - art. 5, v. init.
 	  - Décret n°2002-616 du 26 avril 2002 - art. 4 (Ab)
 	  - Décret n°2002-616 du 26 avril 2002 - art. 5 (AbD)
 
@@ -60145,49 +60149,55 @@ la formation professionnelle les avis de la commission afin qu'il puisse prendre
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Modifié par**:
 
-	  - Décret n°2007-466 du 28 mars 2007 - art. 1 () JORF 30 mars 2007
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 4
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R335-29 (V)
-	  - Code de l'éducation R335-29, R335-20
+	  - Code de l'éducation - art. R*335-20
+	  - Code de l'éducation - art. R335-16
+	  - Code de l'éducation - art. R335-29
 
 
 ###### Article R335-21
 
-L'enregistrement sur demande d'un diplôme, d'un titre ou d'un certificat de qualification dans le répertoire national des
-certifications professionnelles est valable cinq ans à compter de la publication de l'arrêté mentionné à l'article R.*
-335-20.
+La Commission nationale de la certification professionnelle, saisie d'une demande d'enregistrement d'un diplôme, d'un titre
+ou d'un certificat de qualification dans le répertoire national des certifications professionnelles détermine la durée de
+validité de cet enregistrement, dans une limite allant de trois à cinq ans. La durée de validité de l'enregistrement court à
+compter de la publication de l'arrêté mentionné à l'article R. 335-20. 
+
+Au plus tard six mois avant l'expiration du délai de validité de l'enregistrement en cours, l'autorité, l'organisme ou
+l'instance intéressé adresse, dans les conditions déterminées aux articles R. 335-15 à R. 335-19, une demande de
+renouvellement qui fait mention des éléments nouveaux intervenus depuis la demande initiale ou la dernière demande de
+renouvellement de cet enregistrement. 
+
+L'enregistrement est renouvelé pour une période, déterminée par la Commission nationale de la certification professionnelle,
+dans la limite d'une durée de cinq ans. 
 
 S'il apparaît que les conditions qui motivaient l'enregistrement, notamment la possibilité d'acquérir le diplôme ou le titre
 par validation des acquis, ont cessé d'être remplies, il peut y être mis fin sans attendre l'échéance normale.
-
-L'enregistrement venant à échéance normale peut être renouvelé par périodes maximales de cinq ans sur demande de l'organisme
-intéressé. La demande de renouvellement de l'enregistrement est formulée au moins six mois avant la date d'échéance de
-l'enregistrement en cours de validité dans les conditions mentionnées aux articles R. 335-15 à R. 335-19. Elle fait mention
-des éléments nouveaux intervenus depuis la demande d'enregistrement antérieure.
-
-La date de premier enregistrement et celles des éventuels renouvellements ou modifications figurent parmi les informations
-données dans le répertoire sur le diplôme, le titre ou le certificat concernés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-616 du 26 avril 2002 - art. 6, v. init.
 	  - Décret n°2002-616 du 26 avril 2002 - art. 6 (AbD)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de l'éducation R335-20, R335-15 à R335-19
+	  - Code de l'éducation - art. R*335-20
+	  - Code de l'éducation - art. R335-15
 
 
 ###### Article R335-22
@@ -60216,40 +60226,6 @@ l'homologation des titres et diplômes de l'enseignement technologique ;
 	**Codifié par**:
 
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-###### Article R335-23
-
-Les demandes d'homologation enregistrées avant le 28 avril 2002 par la Commission technique d'homologation sont examinées par
-cette commission jusqu'au 5 mai 2002 puis par la Commission nationale de la certification professionnelle.
-
-Les titres examinés dans les conditions prévues au premier alinéa sont homologués par arrêté du ministre chargé de la
-formation professionnelle pour une période expirant le 31 décembre 2006.
-
-S'ils ont fait l'objet d'une homologation antérieurement au 22 février 2004, leur validité est prorogée jusqu'au 31 décembre
-2006.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2002-616 2002-04-26 art. 7, alinéas 4 à 7 et 10 et 11
-	  - Décret n°2002-616 du 26 avril 2002 - art. 7, v. init.
-	  - Décret n°2002-616 du 26 avril 2002 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 du 23 mai 2006
-
-	**Cité par**:
-
-	  - Décret n°2008-952 du 12 septembre 2008 - art. 13-1 (V)
-	  - Arrêté du 26 mai 2014 - art. Annexe I (M)
-	  - Code de l'éducation - art. R335-22 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1111 du 16 septembre 2011 - art. 8
 
 
 ##### Sous-section 3 : La Commission nationale de certification professionnelle.
@@ -60404,16 +60380,21 @@ La Commission nationale de la certification professionnelle délibère à la maj
 
 La commission établit un règlement intérieur.
 
+La Commission nationale de la certification professionnelle se réunit au moins quatre fois par an.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-617 du 26 avril 2002 - art. 4, v. init.
 	  - Décret n°2002-617 du 26 avril 2002 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 6
 
 
 ###### Article R335-28
@@ -60485,31 +60466,41 @@ Pour l'instruction des demandes d'enregistrement, ils s'appuient sur les service
 ###### Article R335-30
 
 La Commission nationale de la certification professionnelle est chargée d'établir et de mettre à jour le répertoire national
-des certifications professionnelles. A cette fin :
+des certifications professionnelles. A cette fin : 
 
 1° Elle enregistre tous les diplômes et titres professionnels délivrés par l'Etat qui ont été créés après avis d'instances
-consultatives auxquelles les organisations représentatives d'employeurs et de salariés sont parties ;
+consultatives auxquelles les organisations représentatives d'employeurs et de salariés sont parties ; 
 
 2° Elle instruit toutes les autres demandes d'enregistrement ; elle vérifie notamment que chaque certification répond aux
-conditions d'enregistrement définies aux articles R. 335-15 à R. 335-19 ;
+conditions d'enregistrement définies aux articles R. 335-15 à R. 335-19 ; 
 
-3° Elle veille en permanence à l'actualisation, au renouvellement et à la création de certifications professionnelles et à
-leur constante adaptation aux mutations des métiers et de l'emploi liées aux évolutions des qualifications, aux changements
-des organisations et au progrès technologique ;
+3° Elle établit et actualise le répertoire national des certifications professionnelles. Elle veille au renouvellement et à
+la création des certifications professionnelles ainsi qu'à leur constante adaptation aux mutations des métiers et de l'emploi
+liées aux évolutions des qualifications, aux changements des organisations et au progrès technologique ; elle veille
+également à la complémentarité et à la cohérence entre les diplômes et titres à finalité professionnelle ; 
 
 4° Elle signale aux autorités et aux organismes qui délivrent les certifications les correspondances qu'elle constate entre
-ces dernières et les mentionne dans le répertoire ;
+ces dernières et les mentionne dans le répertoire ; 
 
 5° Elle favorise les travaux communs entre les instances consultatives des différents ministères, notamment entre les
-commissions professionnelles consultatives relatives au même domaine professionnel.
+commissions professionnelles consultatives relatives au même domaine professionnel ; 
+
+6° Elle rend, dans un délai de trois mois à compter de sa saisine par l'autorité compétente, un avis sur l'opportunité de
+création de diplômes et titres à finalité professionnelle délivrés au nom de l'Etat, mentionnés au I de l'article L. 335-6.
+L'avis est rendu public ; 
+
+7° Elle établit et actualise l'inventaire spécifique prévu par le II de l'article L. 335-6 ; 
+
+8° Elle réalise l'évaluation prévue au II de l'article L. 335-6 pour les certificats de qualification professionnelle définis
+à l'article L. 6314-2 du code du travail. 
 
 La commission veille en outre à la qualité de l'information en direction des personnes et des entreprises sur les
 certifications inscrites au répertoire national et sur les certifications reconnues dans les Etats membres de la Communauté
 européenne ou parties à l'accord sur l'Espace économique européen. Elle contribue aux travaux internationaux sur la
-transparence des qualifications.
+transparence des qualifications. 
 
 Pour l'exercice de sa mission, la commission établit des relations avec les observatoires de l'emploi et des qualifications,
-régionaux, nationaux et internationaux, ainsi qu'avec les observatoires des professions.
+régionaux, nationaux et internationaux, ainsi qu'avec les observatoires des professions. 
 
 Elle peut procéder ou faire procéder aux études nécessaires à la réalisation de ses missions.
 
@@ -60517,16 +60508,21 @@ Elle peut procéder ou faire procéder aux études nécessaires à la réalisati
 
 	**Anciens textes**:
 
-	  - Décret n°2002-617 du 26 avril 2002 - art. 7, v. init.
 	  - Décret n°2002-617 du 26 avril 2002 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1111 du 16 septembre 2011 - art. 7
 
 	**Cite**:
 
-	  - Code de l'éducation R335-15 à R335-19
+	  - Code de l'éducation - art. L335-6
+	  - Code de l'éducation - art. R335-15
+	  - Code du travail - art. L6314-2
 
 
 ###### Article R335-31
