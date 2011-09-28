@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-09-19
+Version Consolidée au 2011-09-29
 
 # Partie législative
 
@@ -61263,33 +61263,39 @@ chargé de l'agriculture.
 ###### Article D336-8
 
 La valeur de chacune des épreuves du baccalauréat technologique est exprimée par une note variant de 0 à 20, en points
-entiers.L'absence non justifiée à une épreuve obligatoire est sanctionnée par la note zéro. 
+entiers. L'absence non justifiée à une épreuve obligatoire est sanctionnée par la note zéro.
 
-La note de chaque épreuve obligatoire est multipliée par son coefficient. 
+La note de chaque épreuve obligatoire est multipliée par son coefficient.
 
-En ce qui concerne les épreuves facultatives, ne sont retenus que les points excédant 10. Les points entrent en ligne de
-compte pour l'admission à l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à
-l'issue du premier groupe. 
+En ce qui concerne les épreuves facultatives, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un
+coefficient fixé par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de
+l'agriculture. Ces points entrent en ligne de compte pour l'admission à l'issue du premier groupe et du deuxième groupe
+d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
 
 La note moyenne de chaque candidat est calculée en divisant la somme des points obtenus par le total des coefficients
-attribués. 
+attribués.
 
 Après délibération du jury à l'issue du premier groupe d'épreuves, les candidats ayant obtenu une note moyenne égale ou
 supérieure à 10 sont déclarés admis par le jury. Les candidats dont la note moyenne est inférieure à 8 sont déclarés
 ajournés. Ceux qui ont obtenu une note moyenne au moins égale à 8 et inférieure à 10 sont autorisés à se présenter au second
 groupe d'épreuves dans les conditions fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté
-du ministre chargé de l'agriculture. 
+du ministre chargé de l'agriculture.
 
 Après délibération du jury à l'issue du second groupe d'épreuves, sont déclarés admis les candidats dont la note moyenne pour
 l'ensemble des deux groupes d'épreuves est au moins égale à 10 sur 20. Les candidats admis à l'issue du second groupe
-d'épreuves ne peuvent obtenir une mention. 
+d'épreuves ne peuvent obtenir une mention.
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
 candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
 conditions fixées par arrêté du ministre chargé de l'éducation ou, pour la série STAV, par arrêté du ministre chargé de
 l'agriculture.
+
+**Nota:**
+
+Décret n° 2011-1196 du 26 septembre 2011 art 2 : Les présentes dispositions entrent en application à compter de la session
+2013 du baccalauréat technologique.
 
 **Liens relatifs à cet article**
 
@@ -61308,7 +61314,7 @@ l'agriculture.
 
 	**Modifié par**:
 
-	  - Décret n°2009-380 du 3 avril 2009 - art. 2
+	  - Décret n°2011-1196 du 26 septembre 2011 - art. 1
 
 	**Cite**:
 
@@ -61895,35 +61901,40 @@ conditions fixées par arrêté du ministre chargé de l'éducation.
 ###### Article D336-28
 
 La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20 en points entiers.L'absence à une épreuve
-obligatoire est sanctionnée par la note zéro. 
+obligatoire est sanctionnée par la note zéro.
 
 La note de chaque épreuve obligatoire est multipliée par le coefficient fixé par l'arrêté prévu à l'article D. 336-24.
 
 A l'issue des épreuves du premier groupe, les candidats ayant obtenu une note moyenne égale ou supérieure à 10 pour
-l'ensemble des épreuves sont déclarés définitivement admis par le jury. 
+l'ensemble des épreuves sont déclarés définitivement admis par le jury.
 
 Les candidats qui ont obtenu une note moyenne égale ou supérieure à 8 sont autorisés à subir les épreuves de contrôle du
-second groupe. 
+second groupe.
 
 Pour chacune des deux disciplines faisant l'objet des épreuves de contrôle du second groupe, est retenue la meilleure des
 deux notes obtenues à l'épreuve du premier groupe ou à celle du second groupe.
 
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats ayant obtenu une note moyenne égale ou supérieure
-à 10 pour l'ensemble des deux groupes d'épreuves. 
+à 10 pour l'ensemble des deux groupes d'épreuves.
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des
 lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par
-l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal. 
+l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
 
-En ce qui concerne l'épreuve facultative, ne sont retenus que les points excédant 10. Ces points entrent en ligne de compte
-pour l'admission à l'issue du premier ou du deuxième groupe d'épreuves ou pour l'attribution d'une mention à l'issue du
-premier groupe d'épreuves. 
+En ce qui concerne l'épreuve facultative, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un
+coefficient fixé par arrêté du ministre chargé de l'éducation. Ces points entrent en ligne de compte pour l'admission à
+l'issue du premier groupe et du deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
 pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
 candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
 conditions fixées par arrêté du ministre chargé de l'éducation.
+
+**Nota:**
+
+Décret n° 2011-1195 du 26 septembre 2011 art 2 : Les présentes dispositions entrent en application à compter de la session
+2013 du baccalauréat technologique.
 
 **Liens relatifs à cet article**
 
@@ -61937,11 +61948,15 @@ conditions fixées par arrêté du ministre chargé de l'éducation.
 
 	**Modifié par**:
 
-	  - Décret n°2009-380 du 3 avril 2009 - art. 1
+	  - Décret n°2011-1195 du 26 septembre 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2015-270 du 11 mars 2015 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D336-24
+	  - Code de l'éducation - art. D336-24 (VT)
 	  - Code de l'éducation - art. L331-1
 	  - Code de l'action sociale et des familles - art. L114
 
@@ -62292,53 +62307,62 @@ La liste des centres et les modalités d'inscription sont arrêtées par les rec
 
 ###### Article D336-40
 
-L'examen du baccalauréat technologique " techniques de la musique et de la danse " comporte des épreuves obligatoires et,
-éventuellement, des épreuves facultatives. 
+L'examen du baccalauréat technologique "techniques de la musique et de la danse" comporte des épreuves obligatoires et,
+éventuellement, des épreuves facultatives.
 
-Les épreuves obligatoires comprennent au premier groupe d'épreuves : 
+Les épreuves obligatoires comprennent au premier groupe d'épreuves :
 
-1° D'une part, des épreuves d'enseignement général et une épreuve d'éducation physique et sportive ; 
+1° D'une part, des épreuves d'enseignement général et une épreuve d'éducation physique et sportive ;
 
-2° D'autre part, des épreuves à caractère professionnel pouvant comporter une ou plusieurs épreuves pratiques. 
+2° D'autre part, des épreuves à caractère professionnel pouvant comporter une ou plusieurs épreuves pratiques.
 
 En ce qui concerne l'épreuve d'éducation physique et sportive, la note résulte, pour les élèves des classes terminales des
 lycées d'enseignement public et des lycées d'enseignement privé sous contrat, du contrôle en cours de formation prévu par
 l'article L. 331-1. Pour les autres candidats, la note résulte d'un examen terminal.
 
 A l'issue des épreuves du premier groupe, les candidats ayant obtenu une note moyenne égale ou supérieure à 10 pour
-l'ensemble des épreuves sont déclarés définitivement admis par le jury. 
+l'ensemble des épreuves sont déclarés définitivement admis par le jury.
 
-Les candidats ayant obtenu une note moyenne au moins égale à 8 sont admis à subir les épreuves du second groupe. 
+Les candidats ayant obtenu une note moyenne au moins égale à 8 sont admis à subir les épreuves du second groupe.
 
-Les épreuves du second groupe comprennent, outre d'éventuelles épreuves obligatoires, des épreuves de contrôle : 
+Les épreuves du second groupe comprennent, outre d'éventuelles épreuves obligatoires, des épreuves de contrôle :
 
 1° Une ou deux épreuves orales d'enseignement général choisies parmi les épreuves portant sur les disciplines ayant fait
-l'objet d'épreuves du premier groupe ; 
+l'objet d'épreuves du premier groupe ;
 
 2° Une ou plusieurs épreuves portant sur des disciplines figurant au premier groupe parmi les épreuves à caractère
 professionnel. Ces épreuves sont soit orales, soit orales et pratiques.
 
 A l'issue des épreuves du premier groupe, les candidats admis à subir les épreuves de contrôle du deuxième groupe font
 connaître, sur le vu des notes obtenues aux épreuves du premier groupe, les disciplines sur lesquelles ils désirent faire
-porter leurs épreuves de contrôle. 
+porter leurs épreuves de contrôle.
 
 Les notes obtenues à ces épreuves de contrôle se substituent aux notes des épreuves correspondantes du premier groupe si
 elles leur sont supérieures.
 
 A l'issue des épreuves du second groupe, sont déclarés admis les candidats dont la note moyenne pour l'ensemble des deux
-groupes d'épreuves est au moins égale à 10 sur 20. 
+groupes d'épreuves est au moins égale à 10 sur 20.
 
 Pour les candidats qui présentent un handicap tel que défini à l'article L. 114 du code de l'action sociale et des familles
 et qui sont autorisés à étaler sur plusieurs sessions le passage de la totalité des épreuves de l'examen, le jury délibère
-pour les seules épreuves effectivement présentées. La mention " sans décision finale " est portée sur le relevé des notes du
+pour les seules épreuves effectivement présentées. La mention "sans décision finale" est portée sur le relevé des notes du
 candidat. Pour ces candidats, la présentation des épreuves du second groupe de l'examen fait l'objet d'aménagements dans les
 conditions fixées par arrêté du ministre chargé de l'éducation.
+
+En ce qui concerne les épreuves facultatives, seuls les points excédant 10 sont retenus et multipliés, le cas échéant, par un
+coefficient fixé par arrêté. Ces points entrent en ligne de compte pour l'admission à l'issue du premier groupe et du
+deuxième groupe d'épreuves et pour l'attribution d'une mention à l'issue du premier groupe.
+
+**Nota:**
+
+Décret n° 2011-1194 du 26 septembre 2011 art 3 : Les présentes dispositions entrent en application à compter de la session
+2013 de l'examen du baccalauréat technologique.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-380 du 3 avril 2009 - art. 1
+	  - Décret n°2011-1194 du 26 septembre 2011 - art. 1
 
 	**Cite**:
 
@@ -62357,18 +62381,20 @@ d'enseignement général et des épreuves à caractère professionnel à la mêm
 
 3° Très bien, quand le candidat a obtenu une note moyenne au moins égale à 16.
 
-Les points excédant 10 obtenus à l'épreuve facultative entrent en ligne de compte soit pour l'attribution d'une mention à
-l'issue du premier groupe d'épreuves, soit pour l'admission à l'issue des deux groupes d'épreuves.
+**Nota:**
+
+Décret n° 2011-1194 du 26 septembre 2011 art 3 : Les présentes dispositions entrent en application à compter de la session
+2013 de l'examen du baccalauréat technologique.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°68-1008 1968-11-20 art. 6 bis
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1194 du 26 septembre 2011 - art. 2
 
 	**Cité par**:
 
