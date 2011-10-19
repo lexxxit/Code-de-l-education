@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-09-29
+Version Consolidée au 2011-10-20
 
 # Partie législative
 
@@ -104139,133 +104139,37 @@ d'absence dans les mêmes  conditions que les maîtres titulaires de l'enseignem
 
 ##### Sous-section 2 : Cessation progressive d'activité.
 
-###### Article R914-106
-
-Les maîtres contractuels ou agréés à titre définitif dans les établissements d'enseignement privés sous contrat peuvent être
-admis au bénéfice de la cessation progressive d'activité à condition de justifier de la durée de service prévue par l'article
-2 de l'ordonnance n° 82-297 du 31 mars 1982 portant modification de certaines dispositions du code des pensions civiles et
-militaires de retraite et relative à la cessation d'activité des fonctionnaires et des agents de l'Etat et des établissements
-publics de l'Etat à caractère administratif. 
-
-Sont pris en compte pour le calcul de cette durée : 
-
-1° Les services accomplis en qualité d'agent public ; 
-
-2° Les services susceptibles d'être retenus au titre de l'avantage temporaire de retraite institué en faveur de certains
-maîtres des établissements privés sous contrat en application de l'article R. 914-122.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°82-297 du 31 mars 1982 - art. 2
-	  - Code de l'éducation - art. R914-122
-	  - code des pensions civiles et militaires de retraite
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1316 du 17 octobre 2011 - art. 11
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R914-107 (Ab)
-	  - Code de l'éducation - art. R973-1 (V)
-	  - Code de l'éducation - art. R974-1 (V)
-
-
-###### Article R914-107
-
-La durée de service prévue à l'article 2 de l'ordonnance n° 82-297 du 31 mars 1982 mentionnée à l'article R. 914-106 est
-réduite, dans la limite de six années maximum, du temps durant lequel les personnes ont bénéficié, en qualité de maître
-contractuel ou agréé, d'un congé parental ou d'un congé pour élever un enfant de moins de huit ans ou pour donner des soins à
-un enfant à charge, au conjoint ou à un ascendant atteint d'un handicap nécessitant la présence d'une tierce personne ou
-victime d'un accident ou d'une maladie grave.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°82-297 du 31 mars 1982 - art. 2
-	  - Code de l'éducation - art. R914-106
-
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1316 du 17 octobre 2011 - art. 11
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R914-108 (Ab)
-
-
-###### Article R914-108
-
-Bénéficient d'une réduction de six années de la durée de service prévue à l'article 2 de l'ordonnance n° 82-297 du 31 mars
-1982 mentionnée à l'article R. 914-106 : 
-
-1° Les personnes bénéficiant d'une allocation temporaire d'invalidité en application de l'article R. 914-87 ; 
-
-2° Les personnes accidentées du travail et victimes de maladies professionnelles mentionnées au 2° de l'article L. 5212-13 du
-code du travail ; 
-
-3° Les anciens militaires et assimilés titulaires d'une pension militaire d'invalidité mentionnés au 4° de l'article L.
-5212-13 du code du travail. 
-
-Les personnes mentionnées aux 2° et 3° ne bénéficient de la réduction qu'à condition que le taux d'invalidité fixé par la
-commission de réforme compétente soit au moins égal à 60 %. 
-
-Les conditions requises pour bénéficier des dispositions du présent article sont appréciées à la date à laquelle est accordée
-la cessation progressive d'activité. 
-
-Les dispositions du présent article et de l'article R. 914-107 sont exclusives les unes des autres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance n°82-297 du 31 mars 1982 - art. 2
-	  - Code de l'éducation - art. R914-107
-	  - Code de l'éducation - art. R914-83
-	  - Code de l'éducation - art. R914-87
-	  - Code du travail - art. L5212-13
-
-	**Modifié par**:
-
-	  - Décret n°2009-920 du 28 juillet 2009 - art. 10
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1316 du 17 octobre 2011 - art. 11
-
-
 ###### Article R914-109
 
-Les maîtres ne peuvent être admis au bénéfice de la cessation progressive d'activité qu'au début de l'année scolaire. 
-
-Leur contrat cesse de plein droit à la fin du mois au cours duquel les intéressés justifient du nombre de trimestres requis
-pour bénéficier d'une pension de retraite du régime général d'assurance vieillesse à taux plein, et au plus tard à la date à
-laquelle ils atteignent la limite d'âge. Il cesse également sur leur demande à la fin du mois au cours duquel ils atteignent
-l'âge d'ouverture des droits à l'avantage temporaire de retraite fixés par l'article R. 914-121.
+Le contrat des maîtres admis au bénéfice de la cessation progressive d'activité  cesse de plein droit à la fin du mois au
+cours duquel les intéressés justifient du ombre de trimestres requis pour bénéficier d'une pension de retraite du régime
+général d'assurance vieillesse à taux plein, et au plus tard à la date à laquelle ils atteignent la limite d'âge. Il cesse
+également sur leur demande à la fin du mois au cours duquel ils atteignent l'âge d'ouverture des droits à l'avantage
+temporaire de retraite fixés par l'article R. 914-121.
 
 Toutefois, par dérogation au précédent alinéa, la cessation d'activité peut, sur la demande des intéressés, être reportée
 jusqu'à la fin de l'année scolaire.
 
+**Nota:**
+
+Conformément à l'article 3 du décret n° 2012-1023 du 4 septembre 2012, l'article R. 914-109 du code de l'éducation sera
+abrogé à compter du 1er septembre 2020.
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 12
+
+	**Modifié par**:
+
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 11
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 12
+	  - Décret n°2012-1023 du 4 septembre 2012 - art. 3
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-121 (V)
+	  - Code de l'éducation - art. R914-121
 
 
 ###### Article R914-110
@@ -104601,7 +104505,8 @@ du droit aux avantages temporaires de retraite.
 
 Le droit aux avantages temporaires de retraite est acquis : 
 
-1° Aux maîtres mentionnés à l'article R. 914-120 justifiant de quinze années de services énumérés à l'article R. 914-122 ; 
+1° Aux maîtres mentionnés à l'article R. 914-120, justifiant de services énumérés à l'article R. 914-122 et dans les
+conditions de durée prévues à l'article R. 914-123 ; 
 
 2° Sans condition de durée de services aux maîtres qui se trouvent dans l'incapacité permanente d'exercer leurs fonctions,
 sous réserve que celle-ci ait été constatée par la commission de réforme compétente à l'égard des fonctionnaires de l'Etat et
@@ -104609,9 +104514,9 @@ dans les conditions applicables à ceux-ci.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 1
 
 	**Cité par**:
 
@@ -104673,30 +104578,51 @@ ont conclu une convention avec l'Etat.
 
 Les maîtres mentionnés à l'article R. 914-120 bénéficient des avantages temporaires de retraite : 
 
-1° A l'âge de soixante ans ou, pour les maîtres qui justifient de quinze années de services accomplis à temps complet, à
-temps incomplet ou à temps partiel durant lesquelles ils ont bénéficié de l'échelle indiciaire des instituteurs titulaires de
-l'enseignement public, de cinquante-cinq ans. Les services accomplis à temps incomplet sont décomptés au prorata de leur
-durée effective ; 
+1° A l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale et justifiant de quinze années de services, ou,
+pour les maîtres qui justifient des durées de services prévues à l'article 35 de la loi n° 2010-1330 du 9 novembre 2010
+portant réforme des retraites accomplis à temps complet, à temps incomplet ou à temps partiel durant lesquelles ils ont
+bénéficié de l'échelle indiciaire des instituteurs titulaires de l'enseignement public, à l'âge anticipé mentionné au 1° du I
+de l'article L. 24 du code des pensions civiles et militaires de retraite. Les services accomplis à temps incomplet sont
+décomptés au prorata de leur durée effective ; 
 
-2° Sans condition d'âge pour les maîtres mentionnés au 2° de l'article R. 914-121 et pour ceux remplissant les conditions
-prévues au 3° et 4° du I de l'article L. 24 du code des pensions civiles et militaires de retraite et à l'article R. 37 du
-même code. 
+2° Sans condition d'âge pour les maîtres mentionnés au 2° de l'article R. 914-121 ; 
 
-La condition d'âge de soixante ans mentionnée au 1° est abaissée pour les maîtres handicapés dans les conditions applicables
-aux fonctionnaires de l'Etat définies au 5° du I de l'article L. 24 du code des pensions civiles et militaires de retraite.
+3° Sans condition d'âge pour les maîtres contractuels ou agréés remplissant les conditions prévues aux 3° et 4° du I de
+l'article L. 24 du code des pensions civiles et militaires et à l'article R. 37 du même code ; 
+
+4° Sans condition d'âge pour les maîtres contractuels ou agréés à titre définitif des établissements d'enseignement privés
+sous contrat remplissant les conditions fixées par le III de l'article 44 de la loi n° 2010-1330 du 9 novembre 2010 portant
+réforme des retraites et par l'article R. 37 du code des pensions civiles et militaires de retraite. 
+
+Pour l'application des V et VI de l'article 5 et des II et III de l'article 66 de la loi n° 2003-775 du 21 août 2003 portant
+réforme des retraites aux maîtres mentionnés au présent paragraphe qui sollicitent le bénéfice des avantages temporaires de
+retraite, l'année prise en compte pour le calcul de la pension est celle au cours de laquelle ils atteignent l'âge prévu au
+dernier alinéa du I de l'article 5 de la loi n° 2003-775 du 21 août 2003 ou, le cas échéant, l'âge anticipé mentionné au 1°
+du I de l'article L. 24 du codes des pensions civiles et militaires de retraite. Si cet âge est atteint après 2019, le
+coefficient de minoration applicable est celui prévu au I de l'article L. 24 du code des pensions civiles et militaires de
+retraite. Lorsque la durée de services et de bonifications correspondant à cette année n'est pas fixée, la durée exigée est
+celle correspondant à la dernière génération pour laquelle elle a été fixée ; 
+
+5° L'âge d'ouverture du droit aux avantages temporaires de retraite est abaissé pour les maîtres handicapés dans les
+conditions applicables aux fonctionnaires de l'Etat définies au 5° du I de l'article L. 24 du code des pensions civiles et
+militaires de retraite.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - 3° et 4° du I de l'article  L. 24 du code des pensions civiles et militaires de retraite
-	  - 5° du I de l'article L. 24  du code des pensions civiles et militaires de retraite
-	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
-	  - Code de l'éducation - art. R914-120 (V)
+	  - Loi n°2003-775 du 21 août 2003 - art. 5
+	  - Loi n°2003-775 du 21 août 2003 - art. 66
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 35
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 44
+	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code des pensions civiles et militaires de retraite - art. R*37
+	  - Code de l'éducation - art. R914-120
+	  - Code de la sécurité sociale. - art. L161-17-2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 2
 
 	**Cité par**:
 
@@ -104711,22 +104637,22 @@ aux fonctionnaires de l'Etat définies au 5° du I de l'article L. 24 du code de
 
 ###### Article R914-124
 
-Les maîtres mentionnés à l'article R. 914-120 satisfaisant aux conditions fixées aux articles R. 914-121 à R. 914-123 qui, à
-la date du premier jour du mois suivant leur cessation d'activité, ne remplissent pas les conditions pour obtenir du régime
-général de la sécurité sociale une pension de vieillesse calculée au taux normalement applicable à l'âge de soixante-cinq
-ans, perçoivent, à compter de cette même date : 
+Les maîtres mentionnés à l'article R. 914-120 satisfaisant aux conditions fixées à l'article R. 914-121 et aux 1°, 3°, 4° ou
+5° de l'article R. 914-123 qui, à la date du premier jour du mois suivant leur cessation d'activité, ne remplissent pas les
+conditions pour obtenir du régime général de la sécurité sociale une pension de vieillesse calculée au taux plein
+conformément aux dispositions des 1° et 1° ter de l'article L. 351-8 perçoivent, à compter de cette date : 
 
 1° Un avantage temporaire de retraite liquidé selon les règles suivies par le régime général de la sécurité sociale pour les
-assurés lorsqu'ils ont atteint l'âge mentionné au 1° de l'article L. 351-8 du code de la sécurité sociale ; 
+assurés lorsqu'ils ont atteint les âges mentionnés aux 1° et 1° ter de l'article L. 351-8 du code de la sécurité sociale ; 
 
 2° Un avantage temporaire de retraite complémentaire liquidé selon les règles suivies par l'institution de retraite
-complémentaire pour les assurés âgés de soixante-cinq ans. 
+complémentaire pour les assurés lorsqu'ils ont atteint les âges mentionnés aux 1° et 1° ter du code de la sécurité sociale. 
 
 Toutefois, ces avantages temporaires de retraite sont liquidés en ne prenant en considération que la durée d'assurance dont
 les intéressés justifient au regard du régime général de la sécurité sociale et les droits qu'ils ont acquis auprès de la ou
 des institutions de retraite complémentaire au titre : 
 
-a) Des services mentionnés à l'article R. 914-122 ;
+a) Des services mentionnés à l'article R. 914-122 ; 
 
 b) Des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et L. 351-5 du code de la sécurité
 sociale ; 
@@ -104736,18 +104662,18 @@ sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 3
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-120 (V)
-	  - Code de l'éducation - art. R914-121 (V)
-	  - Code de l'éducation - art. R914-122 (V)
+	  - Code de l'éducation - art. R914-120
+	  - Code de l'éducation - art. R914-121
+	  - Code de l'éducation - art. R914-122
+	  - Code de l'éducation - art. R914-123
 	  - Code de la sécurité sociale. - art. L351-4
 	  - Code de la sécurité sociale. - art. L351-8
-	  - livre IX du code de la sécurité sociale
 
 	**Cité par**:
 
@@ -104856,21 +104782,36 @@ pris en compte.
 
 ###### Article R914-128
 
-La limite d'âge des maîtres qui peuvent liquider les avantages temporaires de  retraite à l'âge de soixante ans est fixée à
-soixante-cinq ans. Ces maîtres  peuvent être maintenus en fonctions jusqu'au terme de l'année scolaire au cours  de laquelle
-ils atteignent cette limite d'âge.
+I.-La limite d'âge des maîtres qui peuvent liquider les avantages temporaires de retraite à l'âge mentionné à l'article L.
+161-17-2 du code de la sécurité sociale est fixée à l'âge mentionné au premier alinéa de l'article 1er de la loi n° 84-834 du
+13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public. Ces maîtres peuvent être
+maintenus en fonctions jusqu'au terme de l'année scolaire au cours de laquelle ils atteignent cette limite d'âge. 
 
-La limite d'âge  des maîtres qui peuvent liquider les avantages temporaires de retraite à l'âge  de cinquante-cinq ans est
-fixée à soixante ans. Ces personnels peuvent être  maintenus en fonctions jusqu'au terme de l'année scolaire au cours de
-laquelle  ils atteignent cette limite d'âge. Ils peuvent ensuite être autorisés chaque  année à prolonger leur activité pour
-la durée d'une année scolaire, au plus tard  jusqu'au terme de l'année scolaire au cours de laquelle ils atteignent l'âge de
-soixante-cinq ans. Cette autorisation est accordée par le recteur.
+II.-La limite d'âge des maîtres qui peuvent liquider les avantages temporaires de retraite à l'âge anticipé mentionné au 1°
+du I de l'article L. 24 du code des pensions civiles et militaires de retraite est fixée à la limite d'âge mentionnée au
+premier alinéa de l'article 1er de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique
+et le secteur public, minorée de cinq années. Ces personnels peuvent être maintenus en fonctions jusqu'au terme de l'année
+scolaire au cours de laquelle ils atteignent cette limite d'âge. Ils peuvent ensuite être autorisés chaque année à prolonger
+leur activité pour la durée d'une année scolaire, au plus tard jusqu'au terme de l'année scolaire au cours de laquelle ils
+atteignent l'âge mentionné au premier alinéa de l'article 1er de la loi n° 84-834 du 13 septembre 1984 relative à la limite
+d'âge dans la fonction publique et le secteur public. Cette autorisation est accordée par le recteur. 
+
+III.-La limite d'âge des maîtres handicapés qui peuvent liquider les avantages temporaires de retraite dans les conditions
+prévues au 5° du I de l'article L. 24 du code des pensions civiles et militaires de retraite est fixée conformément au 1° ter
+de l'article L. 351-8 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Loi n°84-834 du 13 septembre 1984 - art. 1
+	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code de la sécurité sociale. - art. L161-17-2
+	  - Code de la sécurité sociale. - art. L351-8
+
+	**Modifié par**:
+
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 4
 
 	**Cité par**:
 
@@ -104881,26 +104822,30 @@ soixante-cinq ans. Cette autorisation est accordée par le recteur.
 
 Sous réserve des droits au recul de la limite d'âge reconnus au titre des dispositions de la loi du 18 août 1936 concernant
 les mises à la retraite par ancienneté, les maîtres mentionnés à l'article R. 914-120, qui ne justifient pas, lorsqu'ils
-atteignent l'âge de soixante-cinq ans, de la durée d'assurance maximale fixée à l'article L. 351-1 du code de la sécurité
-sociale, peuvent, sous réserve de l'intérêt du service et de leur aptitude physique, être maintenus en activité. 
+atteignent les âges prévus au premier alinéa de l'article 1er de la loi n° 84-834 du 13 septembre 1984 relative à la limite
+d'âge dans la fonction publique et le secteur public et au 1° ter de l'article L. 351-8 du code de la sécurité sociale, de la
+durée d'assurance maximale fixée à l'article L. 351-1 du code de la sécurité sociale, peuvent, sous réserve de l'intérêt du
+service et de leur aptitude physique, être maintenus en activité. 
 
 La prolongation d'activité prévue à l'alinéa précédent ne peut avoir pour effet de maintenir les intéressés en activité au-
 delà de la durée d'assurance maximale fixée à l'article L. 351-1 du code de la sécurité sociale, ni au-delà d'une durée de
-dix trimestres.
+dix trimestres. 
 
 L'autorisation de prolongation d'activité est accordée par le recteur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
-
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-120 (V)
+	  - Loi du 18 août 1936
+	  - Loi n°84-834 du 13 septembre 1984 - art. 1
+	  - Code de l'éducation - art. R914-120
 	  - Code de la sécurité sociale. - art. L351-1
-	  - loi du 18 août 1936
+	  - Code de la sécurité sociale. - art. L351-8
+
+	**Modifié par**:
+
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 5
 
 
 ###### Article R914-130
@@ -104973,11 +104918,12 @@ général de sécurité sociale.
 ###### Article R914-133
 
 Le maître dont le contrat a été résilié ou l'agrément retiré dans les conditions prévues à l'article R. 914-114 peut
-bénéficier des avantages temporaires de retraite servis par l'Etat rémunérant les services d'enseignement effectués dans les
-classes sous contrat des établissements d'enseignement privés. Ces avantages de retraite sont servis jusqu'à l'âge auquel le
-maître a droit à une pension de vieillesse à la charge du régime général de la sécurité sociale liquidée à taux plein. Le
-maître a également droit à une rente viagère d'invalidité cumulable avec les avantages de retraite rémunérant les services ou
-avec la pension de vieillesse. 
+bénéficier à compter du jour suivant la résiliation du contrat ou le retrait d'agrément des avantages temporaires de retraite
+servis par l'Etat rémunérant les services d'enseignement effectués dans les classes sous contrat des établissements
+d'enseignement privés. Ces avantages de retraite sont servis jusqu'à l'âge auquel le maître a droit à une pension de
+vieillesse à la charge du régime général de la sécurité sociale liquidée à taux plein. Le maître a également droit à une
+rente viagère d'invalidité cumulable avec les avantages de retraite rémunérant les services ou avec la pension de
+vieillesse. 
 
 Le droit à cette rente est également ouvert au maître admis au bénéfice des avantages temporaires de retraite qui est atteint
 d'une maladie professionnelle consécutive à des faits postérieurs au 1er septembre 2005 dont l'imputabilité au service est
@@ -104993,9 +104939,9 @@ l'invalidité ayant ouvert droit à l'allocation temporaire d'invalidité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2011-1316 du 17 octobre 2011 - art. 6
 
 	**Cité par**:
 
@@ -105008,8 +104954,8 @@ l'invalidité ayant ouvert droit à l'allocation temporaire d'invalidité.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-114 (V)
-	  - Code de l'éducation - art. R914-116 (V)
+	  - Code de l'éducation - art. R914-114
+	  - Code de l'éducation - art. R914-116
 
 
 ###### Article R914-134
