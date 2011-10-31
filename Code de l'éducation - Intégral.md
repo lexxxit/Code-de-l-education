@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-10-20
+Version Consolidée au 2011-11-01
 
 # Partie législative
 
@@ -34857,17 +34857,17 @@ propriétaire, à l'exclusion des droits et obligations nés des marchés et con
 Le nombre moyen d'élèves accueillis par classe et le nombre des emplois par école sont définis annuellement par l'inspecteur
 d'académie, directeur des services départementaux de l'éducation nationale, compte tenu des orientations générales fixées par
 le ministre chargé de l'éducation, en fonction des caractéristiques des classes, des effectifs et des postes budgétaires qui
-lui sont délégués, et après avis du comité technique paritaire départemental.
+lui sont délégués, et après avis du  comité technique départemental.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°90-788 1990-09-06 art. 7
-
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 ##### Sous-section 2 : Secteurs et districts du second degré.
@@ -38674,16 +38674,14 @@ impartit un délai pour la désignation qui ne peut être inférieur à quinze j
 
 	  - Décret n°86-299 du 27 février 1986 - art. 1 (Ab)
 
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
 	**Cite**:
 
-	  - Décret n°2011-184 du 15 février 2011 - art. 31
+	  - Décret n°2011-184 du 15 février 2011 - art. 14 (V)
+	  - Décret n°2011-184 du 15 février 2011 - art. 31 (V)
 
 	**Modifié par**:
 
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 	  - Décret n°2011-958 du 10 août 2011 - art. 42
 
 
@@ -49569,25 +49567,25 @@ renouvelés pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 ###### Article D312-34
 
 Le conseil académique des langues régionales participe à la réflexion sur la définition des orientations de la politique
-académique des langues régionales qui sont arrêtées après consultation des comités techniques paritaires départementaux, des
-comités techniques paritaires académiques, des conseils départementaux de l'éducation nationale et des conseils académiques
-de l'éducation nationale. A ce titre, il est consulté sur les conditions du développement de l'enseignement de ces langues et
-cultures régionales dans le cadre de l'élaboration d'un plan pluriannuel.
+académique des langues régionales qui sont arrêtées après consultation des  comités techniques départementaux, des  comités
+techniques académiques, des conseils départementaux de l'éducation nationale et des conseils académiques de l'éducation
+nationale. A ce titre, il est consulté sur les conditions du développement de l'enseignement de ces langues et cultures
+régionales dans le cadre de l'élaboration d'un plan pluriannuel. 
 
 Il examine le suivi de cette politique. Il donne son avis sur les moyens propres à garantir la spécificité de l'apprentissage
 du bilinguisme. Il veille notamment à la cohérence et à la continuité pédagogique des enseignements bilingues, dont celui
-dispensé par la méthode dite de l'immersion.
+dispensé par la méthode dite de l'immersion. 
 
 Il est également consulté sur toute proposition d'implantation des enseignements en langue régionale, notamment sur les
 projets de création d'écoles ou d'établissements " langues régionales " ou de sections d'enseignement bilingue ainsi que sur
-les demandes d'intégration dans l'enseignement public des établissements dispensant un tel enseignement.
+les demandes d'intégration dans l'enseignement public des établissements dispensant un tel enseignement. 
 
-Ces écoles et établissements fonctionnent selon les modalités administratives et statutaires habituelles.
+Ces écoles et établissements fonctionnent selon les modalités administratives et statutaires habituelles. 
 
 Le conseil donne son avis sur l'attribution ou le retrait de la qualité d'école ou d'établissement " langues régionales " qui
-est prononcée, sans conditions de durée, par arrêté du recteur d'académie intéressé.
+est prononcée, sans conditions de durée, par arrêté du recteur d'académie intéressé. 
 
-Son avis est également recueilli sur les actions de formation initiale et continue organisées dans l'académie.
+Son avis est également recueilli sur les actions de formation initiale et continue organisées dans l'académie. 
 
 Les conditions de mise en oeuvre de l'enseignement bilingue dans les établissements de l'éducation nationale sont précisées
 par arrêté du ministre chargé de l'éducation après avis du Conseil supérieur de l'éducation.
@@ -49606,14 +49604,18 @@ académique des langues régionales).
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 ###### Article D312-35
 
 Les réflexions et avis du conseil académique des langues régionales ne peuvent se substituer aux avis des conseils
-académiques et départementaux de l'éducation nationale et des comités techniques paritaires académiques et départementaux qui
-sont consultés par les autorités académiques conformément à leurs attributions.
+académiques et départementaux de l'éducation nationale et des  comités techniques académiques et départementaux qui sont
+consultés par les autorités académiques conformément à leurs attributions.
 
 **Nota:**
 
@@ -49629,7 +49631,11 @@ académique des langues régionales).
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 ###### Article D312-36
@@ -73836,15 +73842,15 @@ permanente sur les îles Wallis et Futuna.
 ###### Article R374-15
 
 Le centre de documentation pédagogique de Nouvelle-Calédonie est administré par un conseil d'administration. Le conseil
-arrête l'organisation des services de l'établissement, sur proposition du directeur, après avis du comité technique paritaire
-constitué dans les conditions définies par le décret n° 82-452 du 28 mai 1982 relatif aux comités techniques paritaires qui
-s'applique au centre de documentation pédagogique de Nouvelle-Calédonie.
+arrête l'organisation des services de l'établissement, sur proposition du directeur, après avis du comité technique constitué
+dans les conditions définies par le décret n° 82-452 du 28 mai 1982 relatif aux  comités techniques qui s'applique au centre
+de documentation pédagogique de Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°82-452 1982-05-28
+	  - Décret n°82-452 du 28 mai 1982 (VT)
 
 	**Anciens textes**:
 
@@ -73852,7 +73858,11 @@ s'applique au centre de documentation pédagogique de Nouvelle-Calédonie.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
 
 
 ###### Article R374-16
@@ -83315,27 +83325,26 @@ l'Etat, à l'exception de ses articles 4 à 8, leur sont applicables.
 Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au membre du corps du contrôle
 général économique et financier. 
 
-Un état des effectifs et un bilan des activités du groupement sont présentés chaque année au comité technique paritaire
-académique.
+Un état des effectifs et un bilan des activités du groupement sont présentés chaque année au  comité technique académique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°84-16 du 11 janvier 1984 - art. 7 (V)
-	  - Décret n°86-83 du 17 janvier 1986 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°2001-757 du 28 août 2001 - art. 8 (Ab)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 7
+	  - Décret n°86-83 du 17 janvier 1986
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 	**Cité par**:
 
@@ -83580,24 +83589,24 @@ l'Etat, à l'exception de ses articles 4 à 8, leur sont applicables.
 ###### Article D423-36
 
 Un état annuel des effectifs du groupement est transmis au commissaire du Gouvernement et au membre du corps du contrôle
-général économique et financier.
+général économique et financier. 
 
-L'état annuel des effectifs et un bilan des activités du groupement sont présentés chaque année au comité technique paritaire
-académique ou au comité technique paritaire régional de l'enseignement agricole.
+L'état annuel des effectifs et un bilan des activités du groupement sont présentés chaque année au  comité technique
+académique ou au  comité technique régional de l'enseignement agricole.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-1227 du 19 décembre 2001 - art. 8 al 2 et 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2012-91 du 26 janvier 2012 - art. 13
 
 
 ###### Article R423-29
