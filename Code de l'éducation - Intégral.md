@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-11-01
+Version Consolidée au 2011-11-16
 
 # Partie législative
 
@@ -50407,14 +50407,15 @@ I.-Conformément aux dispositions de l'article L. 313-6 et en liaison avec les �
 administrations, les professions et organismes intéressés, l'Office national d'information sur les enseignements et les
 professions est chargé : 
 
-1° D'élaborer et de mettre à la disposition des utilisateurs la documentation nécessaire à l'information et à l'orientation
-par une meilleure connaissance des moyens d'éducation et des activités professionnelles ; 
+1° D'élaborer et de mettre à la disposition des utilisateurs, selon toutes modalités et supports adaptés, la documentation
+nécessaire à la personnalisation de l'information et de l'orientation par une meilleure connaissance des moyens d'éducation
+et des activités professionnelles ; 
 
 2° De contribuer aux études et recherches relatives aux méthodes et aux moyens propres à développer cette documentation et à
 faciliter l'information et l'orientation ; 
 
-3° De faire des études et de susciter des recherches tendant à améliorer la connaissance des activités professionnelles et de
-leur évolution ; 
+3° De contribuer aux études et recherches tendant à améliorer la connaissance des activités professionnelles et de leur
+évolution ; 
 
 4° De contribuer à la définition des orientations générales de la politique de formation du personnel chargé de l'information
 sur les enseignements et les professions et de participer à son perfectionnement. 
@@ -50425,21 +50426,13 @@ II.-Dans ce cadre, l'office peut passer convention avec tous les organismes int�
 dans le cadre de la planification établie par le Conseil national de l'enseignement supérieur et de la recherche, à
 l'adaptation réciproque des débouchés professionnels et des enseignements universitaires dispensés ; 
 
-2° L' institution mentionnée à l'article L. 5312-1 du code du travail. 
+2° L'institution mentionnée à l'article L. 5312-1 du code du travail. 
 
 Il est également chargé d'apporter sa collaboration aux administrations et aux organismes intéressés par les questions qui
 relèvent de sa compétence, et notamment au Conseil national de la formation professionnelle tout au long de la vie institué
-articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 612-21, D. 6123-25 à
-D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de formation
-professionnelle et de promotion sociale.
-
-**Nota:**
-
-Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
-en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
-l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
-l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
-2009.
+aux articles L. 6123-1, L. 6123-2, R. 6123-2, R. 6521-1, R. 6521-16, D. 6123-1, D. 6123-14, D. 6123-19 à D. 6123-21, D.
+6123-25 à D. 6123-27 du code du travail en vue de l'élaboration et de la mise en oeuvre de la politique coordonnée de
+formation professionnelle et de promotion sociale.
 
 **Liens relatifs à cet article**
 
@@ -50450,7 +50443,7 @@ l'institution prévue à l'article L. 5312-1 du code du travail. La création de
 
 	**Modifié par**:
 
-	  - Décret n°2008-1010 du 29 septembre 2008 - art. 7
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -50463,95 +50456,78 @@ l'institution prévue à l'article L. 5312-1 du code du travail. La création de
 	  - Code de l'éducation - art. L313-6
 	  - Code de l'éducation - art. L611-2
 	  - Code de l'éducation - art. L611-3
-	  - Code du travail - art. L311-7
-	  - Code du travail - art. L311-8
-	  - Code du travail - art. L910-1
+	  - Code du travail - art. D6123-1 (T)
+	  - Code du travail - art. D6123-14 (V)
+	  - Code du travail - art. D6123-19 (V)
+	  - Code du travail - art. D6123-25 (V)
+	  - Code du travail - art. L5312-1
+	  - Code du travail - art. L6123-1 (V)
+	  - Code du travail - art. R6521-1 (V)
+	  - Code du travail - art. R6521-16 (V)
 
 
 ###### Article D313-15
 
-L'Office national d'information sur les enseignements et les professions est administré par un conseil d'administration et
-dirigé par un directeur. 
+L'Office national d'information sur les enseignements et les professions est administré par un conseil d'administration
+assisté d'un conseil d'orientation. Il est dirigé par un directeur. 
 
-Le conseil d'administration comprend : 
+Le conseil d'administration comprend vingt-six membres : 
 
-1° Dix-sept membres de droit : 
+1° Neuf représentants de l'Etat : 
 
-a) Deux représentants du ministre chargé de l'éducation nommés par arrêté de celui-ci ; 
+a) Trois nommés par arrêté du ministre chargé de l'éducation ; 
 
-b) Un représentant du ministre chargé de l'enseignement supérieur nommé par arrêté de celui-ci ; 
+b) Un nommé par arrêté du ministre chargé de l'enseignement supérieur ; 
 
-c) Le directeur général du Centre d'analyse stratégique ; 
+c) Un nommé par arrêté du ministre chargé du budget ; 
 
-d) Le directeur général de l'administration et de la fonction publique ; 
+d) Un nommé par arrêté du ministre chargé de la formation professionnelle ; 
 
-e) Le directeur général de l'Institut national de la statistique et des études économiques ; 
+e) Un nommé par arrêté du ministre chargé de l'agriculture ; 
 
-f) Le délégué général à l'emploi et à la formation professionnelle au ministère chargé de l'emploi ; 
+f) Un nommé par arrêté du ministre chargé des petites et moyennes entreprises ; 
 
-g) Le directeur général de l'enseignement et de la recherche au ministère chargé de l'agriculture ; 
+g) Un nommé par arrêté du ministre chargé de la jeunesse ; 
 
-h) Le directeur du budget au ministère chargé du budget ; 
+2° Quatre membres de droit : 
 
-i) Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère chargé de
-l'économie ; 
+a) Le délégué à l'information et à l'orientation ou son représentant ; 
 
-j) Le directeur de la jeunesse et de la vie associative au ministère chargé de la jeunesse ; 
+b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ; 
 
-k) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
+c) Le chef du service des droits des femmes et de l'égalité entre les femmes et les hommes au ministère chargé des droits des
+femmes ou son représentant ; 
 
-l) Le directeur général de l'industrie, des technologies de l'information et des postes au ministère chargé de l'industrie ; 
+d) Le président du conseil prévu à l'article L. 6123-1 du code du travail ou son représentant ; 
 
-m) Le directeur du commerce, de l'artisanat, des services et des professions libérales au ministère chargé de l'artisanat ; 
+3° Un représentant de l'Union nationale des associations familiales ; 
 
-n) Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
+4° Trois représentants des associations de parents d'élèves les plus représentatives, dont un de l'enseignement privé sous
+contrat ; 
 
-o) Le secrétaire général du comité interministériel prévu à l'article L. 910-1 du code du travail ; 
+5° Un représentant de l'association d'étudiants la plus représentative, désigné sur proposition du Conseil national de
+l'enseignement supérieur et de la recherche ; 
 
-p) Le chef du service des droits des femmes et de l'égalité au ministère chargé des droits des femmes ; 
+6° Un représentant des lycéens, désigné sur proposition du Conseil national de la vie lycéenne ; 
 
-2° Quatre représentants des organisations professionnelles d'employeurs les plus représentatives ; 
+7° Cinq représentants du personnel de l'office, désignés sur proposition des organisations syndicales les plus
+représentatives au sein de l'office ; 
 
-3° Un représentant des      chambres de commerce et d'industrie territoriales ; 
+8° Le président du conseil d'orientation de l'office et un membre choisi parmi les personnalités particulièrement compétentes
+dans les domaines qui intéressent l'office, désigné sur proposition du directeur de l'office. 
 
-4° Un représentant des chambres de métiers et de l'artisanat de région ; 
+Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le membre du corps du contrôle général
+économique et financier ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec
+voix consultative. 
 
-5° Six représentants d'organisations syndicales de salariés représentatives ; 
+Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté conjoint des ministres chargés de l'éducation et
+de l'enseignement supérieur. 
 
-6° Un représentant des chambres d'agriculture et un représentant des organisations d'exploitants agricoles ; 
+Pour chacun des membres mentionnés aux 1°, 3°, 4°, 5°, 6° et 7°, un suppléant est désigné dans les mêmes conditions que le
+titulaire. 
 
-7° Un représentant de l'Union nationale des associations familiales ; 
-
-8° Cinq représentants des associations de parents d'élèves, dont un de l'enseignement privé sous contrat ; 
-
-9° Deux représentants des étudiants, désignés sur proposition du Conseil national de l'enseignement supérieur et de la
-recherche ; 
-
-10° Sept représentants des enseignants, dont un de l'enseignement privé sous contrat, et un président d'établissement public
-à caractère scientifique, culturel et professionnel, sur proposition du Conseil national de l'enseignement supérieur et de la
-recherche ; 
-
-11° Un directeur d'institut de formation du personnel des services d'information et d'orientation ; 
-
-12° Un directeur de centre d'information et d'orientation ; 
-
-13° Trois représentants du personnel de l'office ; 
-
-14° Trois membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent l'office. 
-
-Le directeur de l'office, le directeur du Centre d'études et de recherches sur les qualifications, le membre du corps du
-contrôle général économique et financier et l'agent comptable assistent aux séances du conseil avec voix consultative. 
-
-En outre, le président du conseil d'administration peut, compte tenu des problèmes inscrits à l'ordre du jour, demander à
-chacun des ministres intéressés qui ne seraient pas représentés dans le conseil d'administration de désigner un haut
-fonctionnaire pour assister à la séance avec voix consultative. 
-
-Les membres de droit peuvent se faire représenter par un fonctionnaire désigné par arrêté du ministre dont ils relèvent.
-
-**Nota:**
-
-(1) Conformément à l'article 6 du décret n° 2010-95 du 25 janvier 2010, les mots : "chef du service des droits des femmes et
-de l'égalité" sont remplacés par les mots : "directeur général de la cohésion sociale".
+Le président du conseil d'administration de l'Office national d'information sur les enseignements et les professions est
+nommé par arrêté conjoint des ministres chargés de l'éducation et de l'enseignement supérieur.
 
 **Liens relatifs à cet article**
 
@@ -50559,27 +50535,50 @@ de l'égalité" sont remplacés par les mots : "directeur général de la cohés
 
 	  - Décret n°70-239 du 19 mars 1970 - art. 2 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2010-1463 du 1er décembre 2010 - art. 87 (V)
-
 	**Cité par**:
 
 	  - Décret n°2011-248 du 7 mars 2011 - art. 1 (V)
 	  - Code de l'éducation - art. D313-18 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 2
+
 	**Cite**:
 
-	  - Code du travail - art. L910-1
+	  - Code du travail - art. L5312-1
+	  - Code du travail - art. L6123-1
 
 
 ###### Article D313-16
 
 Le conseil d'administration règle par ses délibérations les affaires de l'Office national d'information sur les enseignements
-et les professions. Il arrête son règlement intérieur. Il donne son avis sur toutes les questions qui lui sont soumises par
-les ministres intéressés ou qui sont inscrites à l'ordre du jour par son président. Il délibère sur le programme d'activité
-de l'office et sur le rapport annuel d'activité que le directeur lui soumet avant de les transmettre au ministre chargé de
-l'éducation et au ministre chargé de l'emploi.
+et les professions. Il délibère notamment sur : 
+
+1° Les orientations et l'organisation générale de l'établissement proposées par le directeur ; 
+
+2° Le programme d'activité de l'office et le rapport annuel d'activité que le directeur lui soumet ; 
+
+3° Le budget et ses modifications ; 
+
+4° Le compte financier et l'affectation du résultat de l'exercice ; 
+
+5° Le taux des redevances et rémunérations de toute nature dues à l'office ; 
+
+6° Les dons et legs ; 
+
+7° Les acquisitions, aliénations et échanges d'immeubles ; 
+
+8° L'adhésion aux groupements d'intérêt public ; 
+
+9° L'exercice des actions en justice et les transactions ; 
+
+10° Les conditions générales de passation des marchés ; 
+
+11° Le règlement intérieur du conseil d'administration. 
+
+Il donne son avis sur toutes les questions qui lui sont soumises par les ministres intéressés ou qui sont inscrites à l'ordre
+du jour par son président. 
 
 Le conseil d'administration désigne en son sein une délégation permanente chargée de suivre, en liaison avec le directeur,
 les questions qui sont de la compétence du conseil.
@@ -50592,7 +50591,11 @@ les questions qui sont de la compétence du conseil.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -50602,32 +50605,33 @@ les questions qui sont de la compétence du conseil.
 
 ###### Article D313-17
 
-Le conseil d'administration de l'Office national d'information sur les enseignements et les professions se réunit deux fois
-l'an. Il peut, en outre, être convoqué par son président chaque fois qu'il est nécessaire.
+Le conseil d'administration de l'Office national d'information sur les enseignements et les professions se réunit au moins
+deux fois par an sur convocation de son président. Il peut être réuni à la demande conjointe des ministres chargés de la
+tutelle de l'office ou du directeur ou de la majorité des membres du conseil. 
+
+Le président fixe l'ordre du jour, en accord avec le directeur. 
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié de ses membres assistent à la séance. Dans le cas
 où ce quorum n'est pas atteint, le conseil d'administration se réunit à nouveau dans un délai de quinze jours et délibère
-valablement quel que soit le nombre des membres présents. Les délibérations du conseil d'administration sont adoptées à la
-majorité des membres présents.
+valablement quel que soit le nombre des membres présents. 
 
-Les relevés de décisions du conseil d'administration, signés par le président, sont envoyés aux ministres chargés de
-l'éducation et de l'emploi dans les quinze jours qui suivent la clôture de la session du conseil. Les procès-verbaux
-approuvés leur sont adressés dans les quinze jours qui suivent l'approbation.
+Les délibérations du conseil d'administration sont adoptées à la majorité des suffrages exprimés. 
 
-Les délibérations du conseil sont exécutoires à l'expiration du délai d'un mois qui suit cette transmission, à moins que le
-ministre chargé de l'éducation, après avoir consulté, le cas échéant, le ministre chargé de l'emploi, n'ait fait connaître,
-dans ce délai, son refus d'approuver les délibérations ou sa décision de surseoir à leur application.
+En cas de partage égal des voix, celle du président est prépondérante. 
 
-Les délibérations portant sur le budget et ses décisions modificatives, le compte financier, les emprunts et les
-acquisitions, aliénations et échanges d'immeubles sont adressées aux ministres chargés de l'éducation et du budget. Elles
-sont exécutoires dans les conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de
-certaines décisions financières des établissements publics de l'Etat.
+Chaque membre du conseil d'administration peut donner mandat à un autre membre pour le représenter. Nul ne peut être porteur
+de plus de deux mandats. 
 
-Toutefois, les modifications du budget qui ne comportent pas de variations du montant total du budget primitif, de virement
-de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et
-les chapitres de matériel sont prises par le directeur de l'établissement. Ces décisions modificatives provisoires sont
-exécutoires après accord du membre du corps du contrôle général économique et financier et sont soumises pour ratification au
-conseil d'administration lors de sa plus prochaine séance.
+Les délibérations du conseil d'administration autres que celles mentionnées aux 3°, 4°, 7° et 10° de l'article D. 313-16 sont
+exécutoires de plein droit, à défaut d'approbation expresse notifiée dans ce délai, un mois après leur réception par les
+ministres chargés de l'éducation et de l'enseignement supérieur si l'un d'eux n'y a pas fait opposition dans ce délai. Les
+délibérations prévues au 10° du même article doivent, pour devenir exécutoires, faire l'objet d'une approbation expresse des
+ministres chargés de l'éducation, de l'enseignement supérieur et du budget. 
+
+Les délibérations portant sur le budget et ses décisions modificatives ainsi que sur le compte financier sont adressées aux
+ministres chargés de l'éducation, de l'enseignement supérieur et du budget. Elles sont exécutoires dans les conditions
+prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des
+établissements publics de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -50637,11 +50641,15 @@ conseil d'administration lors de sa plus prochaine séance.
 
 	**Cite**:
 
-	  - Décret n°99-575 1999-07-08
+	  - Décret n°99-575 du 8 juillet 1999
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 4
 
 	**Cité par**:
 
@@ -50650,20 +50658,17 @@ conseil d'administration lors de sa plus prochaine séance.
 
 ###### Article D313-18
 
-Le président est choisi parmi les membres du conseil d'administration de l'Office national d'information sur les
-enseignements et les professions. Il est élu par le conseil d'administration pour une durée de trois ans.
+Les membres du conseil d'administration de l'Office national d'information sur les enseignements et les professions autres
+que les membres de droit sont nommés pour une durée de trois ans renouvelable. 
 
-Les membres du conseil d'administration autres que les membres de droit sont nommés pour une durée de trois ans par arrêté du
-ministre chargé de l'éducation, le cas échéant sur proposition des organisations ou associations représentées. Leur mandat
-est renouvelable.
+Le mandat des membres cesse lorsqu'ils perdent la qualité au titre de laquelle ils ont été nommés. 
 
-Pour la nomination des membres mentionnés aux 2°, 3°, 4°, 5° et 6° de l'article D. 313-15, le ministre chargé de l'éducation
-consulte le ministre chargé de l'emploi, le ministre chargé de l'agriculture et le ministre chargé de l'industrie.
+En cas de vacance de siège pour quelque cause que ce soit survenant plus de trois mois avant l'expiration du mandat, un
+remplaçant est désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
 
-Toute vacance survenant par suite de démission ou de décès, ou résultant de la perte par un membre du conseil de la qualité
-au titre de laquelle il siège, doit être comblée dans un délai de trois mois.
-
-Les fonctions d'administrateur n'ouvrent pas droit à rémunération.
+Les membres du conseil d'administration de l'Office national d'information sur les enseignements et les professions exercent
+leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour sont pris en charge par l'office dans les
+conditions fixées par la réglementation applicable aux fonctionnaires de l'Etat en matière de frais de mission.
 
 **Liens relatifs à cet article**
 
@@ -50673,21 +50678,117 @@ Les fonctions d'administrateur n'ouvrent pas droit à rémunération.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 5
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D313-15 (V)
+	  - Code de l'éducation - art. D313-15
+
+
+###### Article D313-18-1
+
+Le conseil d'orientation de l'office comprend vingt-deux membres : 
+
+1° Trois représentants des organisations professionnelles d'employeurs les plus représentatives ; 
+
+2° Un représentant de l'Assemblée des chambres françaises de commerce et d'industrie ; 
+
+3° Un représentant de l'Assemblée permanente des chambres de métiers et de l'artisanat ; 
+
+4° Un représentant de l'Assemblée permanente des chambres d'agriculture ; 
+
+5° Quatre représentants des organisations syndicales de salariés les plus représentatives ; 
+
+6° Un représentant de l'organisation d'exploitants agricoles la plus représentative ; 
+
+7° Un représentant de l'Association des régions de France ; 
+
+8° Un représentant de l'Assemblée des départements de France ; 
+
+9° Un représentant de l'Association des maires de France ; 
+
+10° Cinq représentants des organisations syndicales d'enseignants les plus représentatives, dont un de l'enseignement privé
+sous contrat ; 
+
+11° Un directeur d'institut de formation du personnel des services d'information et d'orientation ; 
+
+12° Un directeur de centre d'information et d'orientation ; 
+
+13° Un directeur de service commun universitaire d'information et d'orientation. 
+
+Les membres mentionnés aux 1° à 10° sont nommés par arrêté conjoint des ministres chargés de l'éducation et de l'enseignement
+supérieur. Les membres mentionnés aux 11°, 12° et 13° sont nommés par arrêté conjoint des ministres chargés de l'éducation et
+de l'enseignement supérieur, sur proposition du directeur de l'office. Ils sont nommés pour une durée de trois ans
+renouvelable. 
+
+Pour chaque titulaire, un suppléant est désigné dans les mêmes conditions. 
+
+Le mandat des membres cesse lorsqu'ils perdent la qualité au titre de laquelle ils ont été nommés. 
+
+En cas de vacance de siège pour quelque cause que ce soit survenant plus de trois mois avant l'expiration du mandat, un
+remplaçant est désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
+
+Le président du conseil d'orientation de l'office, choisi parmi les membres du conseil d'orientation, est nommé par arrêté
+conjoint des ministres chargés de l'éducation et de l'enseignement supérieur. 
+
+Le conseil d'orientation se réunit en tant que de besoin, en fonction des sujets choisis par le conseil d'administration ou
+des questions dont il se saisit. Les travaux conduits par le conseil d'orientation à la demande du conseil d'administration
+sont précisés dans un cahier des charges, qui indique toutes les modalités utiles à la conduite des travaux, y compris
+l'élaboration d'un échéancier. A l'issue des travaux conduits à la demande du conseil d'administration, le conseil
+d'orientation donne un avis à la majorité des suffrages exprimés. Cet avis est présenté par le président du conseil
+d'orientation. Il fait l'objet d'un débat en conseil d'administration et peut donner lieu à une décision soumise au vote. 
+
+Le conseil d'orientation siège valablement lorsque la majorité de ses membres sont présents. 
+
+Le directeur de l'office, le directeur adjoint et les membres de la direction qu'il désigne en accord avec le président du
+conseil d'orientation assistent aux séances plénières avec voix consultative. 
+
+Le président du conseil d'orientation peut inviter à participer aux réunions toute personne dont il juge la présence utile. 
+
+Les membres du conseil d'orientation exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de
+séjour sont pris en charge par l'office dans les conditions fixées par la réglementation applicable aux fonctionnaires de
+l'Etat en matière de frais de mission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 6
 
 
 ###### Article D313-20
 
-Le directeur de l'Office national d'information sur les enseignements et les professions représente l'établissement en
-justice et dans tous les actes de la vie civile.
+Le directeur assure la direction de l'Office national d'information sur les enseignements et les professions. A ce titre : 
 
-Il est ordonnateur des recettes et des dépenses de l'établissement.
+1° Il conduit la politique générale de l'établissement dans le cadre des orientations définies par le conseil
+d'administration ; 
 
-Il prend les décisions mentionnées au dernier alinéa de l'article D. 313-17.
+2° Il prépare les délibérations du conseil d'administration et en assure l'exécution ; 
+
+3° Il prépare et exécute le budget ; 
+
+4° Il est ordonnateur des recettes et des dépenses ; 
+
+5° Il représente l'établissement en justice et dans tous les actes de la vie civile ; 
+
+6° Il gère le personnel, nomme aux emplois pour lesquels aucune autre autorité n'a pouvoir de nomination et recrute les
+personnels contractuels. Il a autorité sur l'ensemble du personnel de l'établissement ; 
+
+7° Il conclut les conventions et marchés, sous réserve des dispositions de l'article D. 313-16. 
+
+Il peut nommer des ordonnateurs secondaires et fixer leurs attributions. 
+
+Il peut déléguer sa signature à des agents de catégorie A de l'office, à l'exception de l'agent comptable. 
+
+Sous réserve de l'accord du membre du corps du contrôle général économique et financier et d'une ratification par le conseil
+d'administration lors de sa plus prochaine séance, il peut prendre les décisions de modification du budget qui ne comportent
+ni augmentation du montant total des dépenses, ni accroissement des effectifs, ni diminution du montant total des recettes,
+ni virement de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres des
+dépenses de personnels et les chapitres des dépenses de matériel.
 
 **Liens relatifs à cet article**
 
@@ -50697,11 +50798,15 @@ Il prend les décisions mentionnées au dernier alinéa de l'article D. 313-17.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 7
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D313-17 (V)
+	  - Code de l'éducation - art. D313-17
 
 
 ###### Article D313-21
@@ -50725,8 +50830,9 @@ d'information est chargé de faire toutes propositions au ministre chargé de l'
 
 ###### Article D313-23
 
-Le comité technique paritaire de l'Office national d'information sur les enseignements et les professions est organisé
-conformément aux dispositions du décret n° 82-452 du 28 mai 1982 relatif aux comités techniques paritaires.
+Le comité technique de l'Office national d'information sur les enseignements et les professions est organisé conformément aux
+dispositions du décret n° 2011-184 du 15 février 2011 relatif aux comités techniques dans les administrations et les
+établissements publics de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -50734,13 +50840,17 @@ conformément aux dispositions du décret n° 82-452 du 28 mai 1982 relatif aux 
 
 	  - Décret n°70-239 du 19 mars 1970 - art. 8 (Ab)
 
-	**Cite**:
-
-	  - Décret n°82-452 1982-05-28
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Cite**:
+
+	  - Décret n°2011-184 du 15 février 2011
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 8
 
 
 ###### Article D313-24
@@ -50802,149 +50912,6 @@ professionnelle sont définies par un arrêté des ministres intéressés.
 	  - Code du travail - art. R6521-16 (V)
 
 
-###### Article D313-25
-
-Auprès de chaque délégation régionale de l'Office national d'information sur les enseignements et les professions, un comité
-technique présidé par le recteur de l'académie comprend : 
-
-1° Un membre du conseil régional désigné par cette assemblée ; 
-
-2° Un membre du comité économique et social désigné par cette assemblée ; 
-
-3° Un inspecteur d'académie-inspecteur pédagogique régional désigné par le recteur ; 
-
-4° L'inspecteur d'académie-inspecteur pédagogique régional chargé de l'enseignement technique ; 
-
-5° Le délégué académique à la formation continue ; 
-
-6° Le directeur du centre régional de documentation pédagogique ; 
-
-7° Un inspecteur de l'information et de l'orientation désigné par le recteur ; 
-
-8° Le délégué régional à la formation professionnelle ; 
-
-9° Le directeur régional du travail et de l'emploi ; 
-
-10° Le chef du centre régional de l'institution mentionnée à l'article L. 5312-1 du code du travail ; 
-
-11° Le directeur régional de la jeunesse et des sports ; 
-
-12° Le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ; 
-
-13° Le directeur régional de France 3 ; 
-
-14° La déléguée régionale représentant le ministre chargé des droits de la femme ; 
-
-15° Un président d'université, sur proposition des présidents d'université de l'académie ; 
-
-16° Deux chefs d'établissement du second degré, sur proposition des organisations syndicales les plus représentatives à
-l'échelon académique ; 
-
-17° Quatre enseignants du second degré, dont l'un représentant les professeurs d'enseignement général des collèges, deux
-représentant les professeurs d'enseignement général à gestion nationale et un représentant les professeurs des enseignements
-technologiques et professionnels, sur proposition des organisations syndicales les plus représentatives d'après les résultats
-des élections aux commissions administratives paritaires académiques ; 
-
-18° Un enseignant du second degré exerçant dans un établissement privé sous contrat d'association sur proposition de
-l'organisation syndicale la plus représentative à l'échelon académique d'après les résultats à la commission consultative
-mixte académique ; 
-
-19° Un directeur de centre d'information et d'orientation et un conseiller d'orientation-psychologue exerçant dans un centre
-d'information et d'orientation, sur proposition des organisations syndicales les plus représentatives à l'échelon
-académique ; 
-
-20° Un directeur d'un service commun universitaire d'information et d'orientation sur proposition des directeurs des services
-communs des différentes universités de l'académie ; 
-
-21° Un documentaliste d'un centre de documentation et d'information d'un établissement du second degré, sur proposition des
-organisations syndicales les plus représentatives à l'échelon académique ; 
-
-22° Quatre représentants des associations de parents d'élèves sur proposition des associations représentatives à l'échelon
-académique ; 
-
-23° Trois représentants des chambres consulaires et trois représentants des organisations professionnelles les plus
-représentatives, sur proposition de ces organismes ; 
-
-24° Six représentants des organisations syndicales de salariés, sur proposition des organisations représentatives ; 
-
-25° Un étudiant sur proposition de l'organisation la plus représentative à l'échelon académique ; 
-
-26° Un représentant élu par le personnel de la délégation régionale.
-
-A l'exception des membres de droit ou des membres élus, les membres du comité technique régional sont nommés par le recteur
-d'académie. Le mandat des membres, autres que les membres de droit, est d'une durée de trois ans. 
-
-Le délégué régional de l'office et le directeur de centre d'information et d'orientation adjoint au délégué régional
-assistent au comité technique avec voix consultative. 
-
-Le comité technique régional donne obligatoirement, chaque année, son avis sur les projets de programmes à caractère régional
-de la délégation et sur les projets de budgets qui leur correspondent. 
-
-Le délégué régional rend compte au comité, l'année suivante, des conditions dans lesquelles ces programmes ont été exécutés. 
-
-Le comité peut constituer des groupes de travail spécialisés auxquels il peut convier des représentants d'administrations ou
-d'organisations qui ne sont pas membres de ce comité.
-
-**Nota:**
-
-Conformément à l'article 14 du décret n° 2008-1010 du 29 septembre 2008, les dispositions de l'article 7 dudit décret entrent
-en vigueur à la date mentionnée à l'article 9 de la loi n° 2008-126 du 13 février 2008 relative à la réforme de
-l'organisation du service public de l'emploi. Cette date correspond à la première réunion du conseil d'administration de
-l'institution prévue à l'article L. 5312-1 du code du travail. La création de pôle emploi est effective depuis le 1er janvier
-2009.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-239 du 19 mars 1970 - art. 10 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1503 du 14 novembre 2011 - art. 14
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D313-26 (Ab)
-
-
-###### Article D313-26
-
-Pour l'application des dispositions de l'article D. 313-25 à la délégation régionale d'Ile-de-France :
-
-1° Le comité technique régional est présidé par le recteur de l'académie de Paris ;
-
-2° Le pouvoir de désignation des membres conféré au recteur est exercé par le recteur de l'académie de Paris après avis des
-recteurs des académies de Créteil et de Versailles ;
-
-3° Les délégués à la formation continue et les directeurs de centre régional de documentation pédagogique de Créteil, de
-Paris et de Versailles sont membres du comité technique régional ;
-
-4° Les académies de la région d'Ile-de-France sont considérées comme une seule académie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-239 du 19 mars 1970 - art. 10-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 du 23 mai 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1503 du 14 novembre 2011 - art. 14
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D313-25
-
-
 ###### Article R313-19
 
 Le directeur de l'Office national d'information sur les enseignements et les professions est nommé par décret pris sur
@@ -50989,22 +50956,24 @@ Tout fonctionnaire nommé à l'un de ces emplois peut se voir retirer cet emploi
 
 ###### Article D313-27
 
-Les ressources de l'Office national d'information sur les enseignements et les professions sont constituées, notamment :
+Les ressources de l'Office national d'information sur les enseignements et les professions comprennent : 
 
-1° Par les subventions allouées par l'Etat et les collectivités publiques pour le fonctionnement et l'investissement ;
+1° Les subventions et les fonds de concours attribués notamment par l'Etat, les collectivités publiques et l'Union
+européenne ; 
 
-2° Par les versements des assujettis à la taxe d'apprentissage ;
+2° Les droits, redevances et produits de toute nature résultant de ses activités ; 
 
-3° Par les contributions privées ;
+3° Les versements au titre de la taxe d'apprentissage ; 
 
-4° Par des dons et legs et leurs revenus ;
+4° Les produits des conventions ou contrats, notamment de travaux ou d'études ; 
 
-5° Par le produit de la vente de documents d'information scolaire et professionnelle qu'il édite en sus de la documentation
-de base fournie gratuitement aux usagers ;
+5° Les revenus des biens meubles et immeubles de l'établissement ; 
 
-6° Par le produit des conventions ;
+6° Le produit des aliénations ; 
 
-7° Par le produit des emprunts.
+7° Les contributions privées, les dons et legs ; 
+
+8° D'une manière générale, toutes les recettes autorisées par les lois et règlements.
 
 **Liens relatifs à cet article**
 
@@ -51014,7 +50983,11 @@ de base fournie gratuitement aux usagers ;
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 9
 
 
 ###### Article D313-28
@@ -51056,30 +51029,10 @@ Il peut, en outre, être fait appel à des personnels spécialisés, dont le rec
 	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
 
 
-###### Article D313-30
-
-Le directeur de l'office est autorisé à déléguer sa signature à des fonctionnaires de l'office, à l'exception de l'agent
-comptable. La liste de ces fonctionnaires est fixée par arrêté du ministre chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-239 du 19 mars 1970 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 du 23 mai 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2011-1503 du 14 novembre 2011 - art. 14
-
-
 ###### Article D313-31
 
-L'agent comptable de l'Office national d'information sur les enseignements et les professions est nommé par arrêté du
-ministre chargé de l'éducation et du ministre chargé du budget.
+L'agent comptable de l'Office national d'information sur les enseignements et les professions est nommé par arrêté des
+ministres chargés de l'éducation, de l'enseignement supérieur et du budget.
 
 **Liens relatifs à cet article**
 
@@ -51089,7 +51042,15 @@ ministre chargé de l'éducation et du ministre chargé du budget.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 10
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 29
 
 
 ###### Article D313-32
@@ -51099,6 +51060,9 @@ par les articles 14 à 25 du décret n° 53-1227 du 10 décembre 1953 relatif à
 établissements publics nationaux et 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général de la
 comptabilité publique, ainsi que par l'article 60 de la loi de finances pour 1963 (deuxième partie n° 63-56 du 23 février
 1963) relatif à la responsabilité des comptables publics.
+
+L'Office national d'information sur les enseignements et les professions met en place une comptabilité analytique qui
+distingue les activités commerciales des autres activités.
 
 Conformément au décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
 administratifs de l'Etat, l'office est soumis au contrôle financier dans les conditions prévues par le décret n° 2005-54 du
@@ -51112,10 +51076,10 @@ chargé de l'éducation.
 
 	**Cite**:
 
-	  - Décret n°53-1227 1953-12-10 art. 14 à 25
-	  - Décret n°62-1587 1962-12-29
-	  - Décret n°2005-54 2005-01-27
-	  - Décret n°2005-757 2005-07-04
+	  - Décret n°53-1227 du 10 décembre 1953
+	  - Décret n°62-1587 du 29 décembre 1962
+	  - Décret n°2005-54 du 27 janvier 2005
+	  - Décret n°2005-757 du 4 juillet 2005
 	  - Loi n°63-56 1963-02-23 art. 60 Finances pour 1963
 
 	**Anciens textes**:
@@ -51125,13 +51089,17 @@ chargé de l'éducation.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 11
 
 
 ###### Article D313-33
 
-Des régies de recettes et d'avances peuvent être instituées à l'Office national d'information sur les enseignements et les
-professions par arrêté du ministre chargé de l'éducation et du ministre chargé du budget.
+Des régies d'avances et de recettes peuvent être créées auprès de l'établissement dans les conditions fixées par le décret n°
+92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
 
 **Liens relatifs à cet article**
 
@@ -51139,16 +51107,24 @@ professions par arrêté du ministre chargé de l'éducation et du ministre char
 
 	  - Décret n°70-239 du 19 mars 1970 - art. 18 (Ab)
 
+	**Cite**:
+
+	  - Décret n°92-681 du 20 juillet 1992
+
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 12
 
 
 ###### Article D313-34
 
 Les opérations de recettes et de dépenses des délégations régionales de l'Office national d'information sur les enseignements
-et les professions peuvent être exécutées par des ordonnateurs secondaires et des sous-ordonnateurs secondaires, dans les
-conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé du budget.
+et les professions peuvent être exécutées par des ordonnateurs secondaires dans les conditions fixées par arrêté du ministre
+chargé de l'éducation et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -51158,27 +51134,15 @@ conditions fixées par arrêté du ministre chargé de l'éducation et du minist
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
-
-
-###### Article D313-35
-
-Les ordonnateurs secondaires sont désignés par arrêté du ministre chargé de l'éducation, sur proposition du directeur de
-l'Office national d'information sur les enseignements et les professions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°70-239 du 19 mars 1970 - art. 21 (Ab)
-
-	**Codifié par**:
-
 	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1503 du 14 novembre 2011 - art. 13
 
 	**Abrogé par**:
 
-	  - Décret n°2011-1503 du 14 novembre 2011 - art. 14
+	  - Décret n°2016-1982 du 30 décembre 2016 - art. 1
 
 
 ###### Article D313-36
