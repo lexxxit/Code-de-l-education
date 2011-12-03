@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-11-16
+Version Consolidée au 2011-12-04
 
 # Partie législative
 
@@ -75167,40 +75167,40 @@ au maire, au président du conseil général ou du conseil régional et au repr�
 
 ###### Article R421-13
 
-Le chef d'établissement est secondé dans ses tâches pédagogiques, éducatives et administratives par un adjoint nommé par le
-ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet ainsi que, le cas échéant, par le directeur
-adjoint de la section d'éducation spécialisée. Un professeur ou un conseiller principal d'éducation peut assurer à temps
-partiel les fonctions d'adjoint. Dans une école régionale du premier degré ou un établissement régional d'enseignement
-adapté, cette fonction peut être assurée par un instituteur titulaire du certificat d'aptitude à l'éducation des enfants et
-adolescents déficients ou inadaptés, ou titulaire d'un titre équivalent.
+I. - Le chef d'établissement est secondé dans ses missions par un chef d'établissement adjoint, membre de l'équipe de
+direction, nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet ainsi que, le cas
+échéant, par le directeur adjoint de la section d'enseignement général et professionnel adapté. Un professeur ou un
+conseiller principal d'éducation peut assurer à temps partiel ces fonctions d'adjoint. Dans une école régionale du premier
+degré ou un établissement régional d'enseignement adapté, cette fonction peut être assurée par un enseignant du premier degré
+titulaire du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation
+des élèves en situation de handicap, ou de l'un des diplômes auquel il se substitue, ou par un enseignant du second degré
+titulaire du certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de
+handicap. 
 
-Le chef d'établissement est secondé dans ses tâches de gestion matérielle, financière et administrative par un gestionnaire
-nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet, parmi les personnels de
-l'administration scolaire et universitaire. Le gestionnaire est chargé, sous l'autorité du chef d'établissement, des
-relations avec les collectivités territoriales pour les questions techniques et il organise le travail des personnels
-techniques, ouvriers et de service.
+II. - Dans ses fonctions de gestion matérielle, financière et administrative, le chef d'établissement est secondé par un
+adjoint gestionnaire, membre de l'équipe de direction, nommé par le ministre chargé de l'éducation ou l'autorité académique
+habilitée à cet effet, parmi les personnels de l'administration scolaire et universitaire. L'adjoint gestionnaire est chargé,
+sous l'autorité du chef d'établissement et dans son champ de compétence, des relations avec les collectivités territoriales
+et il organise le travail des personnels administratifs et techniques affectés ou mis à disposition de l'établissement. 
 
-Le chef d'établissement peut déléguer sa signature à son adjoint et au gestionnaire.
+III. - Le chef d'établissement peut déléguer sa signature à chacun de ses adjoints. 
 
-En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par son adjoint, notamment pour la présidence des
-instances de l'établissement.
+En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par le chef d'établissement adjoint, notamment pour la
+présidence des instances de l'établissement. 
 
 En cas d'absence ou d'empêchement du chef d'établissement, lorsque celui-ci n'a donné aucune délégation à cet effet,
-l'autorité académique nomme un ordonnateur suppléant qui peut être soit l'adjoint soit le chef d'un autre établissement.
+l'autorité académique nomme un ordonnateur suppléant qui peut être le chef d'établissement adjoint ou l'adjoint gestionnaire,
+sous réserve que celui-ci ne soit pas l'agent comptable de l'établissement, ou le chef d'un autre établissement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 10 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 1
 
 	**Cité par**:
 
@@ -75213,29 +75213,30 @@ l'autorité académique nomme un ordonnateur suppléant qui peut être soit l'ad
 
 ###### Article R421-14
 
-Le conseil d'administration des collèges et des lycées comprend :
+Le conseil d'administration des collèges et des lycées comprend : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
-d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ; 
 
-3° Le gestionnaire de l'établissement ;
+3°     L'adjoint gestionnaire ; 
 
-4° Le conseiller principal d'éducation le plus ancien ;
+4° Le conseiller principal d'éducation le plus ancien ; 
 
-5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les collèges, le chef des travaux dans les lycées ;
+5° Le directeur adjoint chargé de la section d'éducation spécialisée dans les collèges, le chef des travaux dans les
+lycées ; 
 
-6° Un représentant de la collectivité territoriale de rattachement ;
+6° Un représentant de la collectivité territoriale de rattachement ; 
 
 7° Trois représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
-du groupement de communes et deux représentants de la commune siège ;
+du groupement de communes et deux représentants de la commune siège ; 
 
 8° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
-désignés en raison de leur fonction sont en nombre inférieur à cinq ;
+désignés en raison de leur fonction sont en nombre inférieur à cinq ; 
 
 9° Dix représentants élus des personnels de l'établissement, dont sept au titre des personnels d'enseignement et d'éducation
-et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+et trois au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ; 
 
 10° Dix représentants élus des parents d'élèves et des élèves, dont, dans les collèges, sept représentants des parents
 d'élèves et trois représentants des élèves et, dans les lycées, cinq représentants des parents d'élèves, quatre représentants
@@ -75244,17 +75245,13 @@ des élèves, dont un au moins représente les élèves des classes postbaccalau
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 11, alinéas 1 à 9 (1e phrase) (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -75312,45 +75309,41 @@ départemental des organisations doit être prise en compte.
 ###### Article R421-16
 
 Dans les collèges accueillant moins de 600 élèves et ne comportant pas une section d'éducation spécialisée, la composition du
-conseil d'administration est ainsi fixée :
+conseil d'administration est ainsi fixée : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
-d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ; 
 
-3° Le gestionnaire de l'établissement ;
+3°     L'adjoint gestionnaire ; 
 
-4° Le conseiller principal d'éducation le plus ancien ;
+4° Le conseiller principal d'éducation le plus ancien ; 
 
-5° Un représentant de la collectivité territoriale de rattachement ;
+5° Un représentant de la collectivité territoriale de rattachement ; 
 
 6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
-du groupement de communes et un représentant de la commune siège ;
+du groupement de communes et un représentant de la commune siège ; 
 
 7° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
 désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées selon
-les modalités fixées à l'article R. 421-15 ;
+les modalités fixées à l'article R. 421-15 ; 
 
 8° Huit représentants élus des personnels, dont six au titre des personnels d'enseignement et d'éducation et deux au titre
-des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ; 
 
 9° Huit représentants des parents d'élèves et des élèves, dont six représentants élus des parents d'élèves et deux
 représentants élus des élèves.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 12 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -75359,54 +75352,58 @@ représentants élus des élèves.
 	  - Code de l'éducation - art. R421-18 (V)
 	  - Code de l'éducation - art. R421-33 (VD)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-15
+
 
 ###### Article R421-17
 
-Le conseil d'administration des établissements régionaux d'enseignement adapté comprend :
+Le conseil d'administration des établissements régionaux d'enseignement adapté comprend : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° L'adjoint au chef d'établissement ;
+2° Le chef d'établissement adjoint ; 
 
-3° Le gestionnaire de l'établissement ;
+3° L'adjoint gestionnaire ; 
 
-4° Le conseiller principal d'éducation le plus ancien ou le chef des travaux ;
+4° Le conseiller principal d'éducation le plus ancien ou le chef des travaux ; 
 
-5° Le représentant de la collectivité territoriale de rattachement ;
+5° Le représentant de la collectivité territoriale de rattachement ; 
 
 6° Deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un groupement de communes, un représentant
-du groupement de communes et un représentant de la commune siège ;
+du groupement de communes et un représentant de la commune siège ; 
 
 7° Une personnalité qualifiée, ou deux personnalités qualifiées lorsque les membres de l'administration de l'établissement
 désignés en raison de leurs fonctions sont en nombre inférieur à quatre. Les personnalités qualifiées sont désignées selon
-les modalités fixées à l'article R. 421-15 ;
+les modalités fixées à l'article R. 421-15 ; 
 
 8° Huit représentants élus des personnels de l'établissement, dont quatre au titre des personnels d'enseignement et
 d'éducation, deux au titre des personnels administratifs, techniques, ouvriers et de service et deux au titre des personnels
-sociaux et de santé ;
+sociaux et de santé ; 
 
 9° Huit représentants élus des parents d'élèves et des élèves, dont cinq représentants des parents d'élèves, deux
 représentants des élèves et un élu par le conseil des délégués pour la vie lycéenne.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 13, sauf ecqc les écoles régionales du premier degré (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. R412-3 (VD)
 	  - Code de l'éducation - art. R421-18 (V)
 	  - Code de l'éducation - art. R421-33 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-15
 
 
 ###### Article R421-18
@@ -76101,21 +76098,21 @@ civiques ou de famille mentionnés à l'article 131-26 du code pénal.
 
 ###### Article R421-37
 
-La commission permanente dans les collèges et lycées comprend les membres suivants :
+La commission permanente dans les collèges et lycées comprend les membres suivants : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
-d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ; 
 
-3° Le gestionnaire ;
+3° L'adjoint gestionnaire ; 
 
-4° Un représentant de la collectivité territoriale de rattachement ;
+4° Un représentant de la collectivité territoriale de rattachement ; 
 
 5° Quatre représentants élus des personnels, dont trois au titre des personnels d'enseignement et d'éducation et un au titre
-des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé ;
+des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé ; 
 
-6° Trois représentants élus des parents d'élèves dans les collèges et deux dans les lycées ;
+6° Trois représentants élus des parents d'élèves dans les collèges et deux dans les lycées ; 
 
 7° Un représentant élu des élèves dans les collèges et deux dans les lycées.
 
@@ -76123,7 +76120,7 @@ des personnels administratifs, techniques, ouvriers, de service, sociaux et de s
 
 	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art. 6
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 	**Cité par**:
 
@@ -76169,38 +76166,34 @@ Pour chaque membre élu de la commission permanente, un suppléant est élu dans
 
 ###### Article R421-39
 
-La commission permanente dans les établissements régionaux d'enseignement adapté comprend les membres suivants :
+La commission permanente dans les établissements régionaux d'enseignement adapté comprend les membres suivants : 
 
-1° Le chef d'établissement, président ;
+1° Le chef d'établissement, président ; 
 
-2° L'adjoint au chef d'établissement ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
-d'adjoints ;
+2° Le chef d'établissement adjoint ou, le cas échéant, l'adjoint désigné par le chef d'établissement en cas de pluralité
+d'adjoints ; 
 
-3° Le gestionnaire ;
+3° L'adjoint gestionnaire ; 
 
-4° Un représentant de la collectivité territoriale de rattachement ;
+4° Un représentant de la collectivité territoriale de rattachement ; 
 
 5° Quatre représentants élus des personnels d'enseignement et d'éducation, dont deux au titre des personnels d'enseignement
 et d'éducation, un au titre des personnels administratifs, techniques, ouvriers, de service, et un au titre des personnels
-sociaux et de santé ;
+sociaux et de santé ; 
 
-6° Trois représentants élus des parents d'élèves ;
+6° Trois représentants élus des parents d'élèves ; 
 
 7° Un représentant élu des élèves.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 27 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 
 ###### Article R421-40
@@ -76291,13 +76284,14 @@ parmi les personnels volontaires, après consultation des équipes pédagogiques
 d'administration lors de la réunion qui suit cette désignation. Il porte la composition du conseil pédagogique à la
 connaissance de la communauté éducative par voie d'affichage. 
 
-En cas d'absence ou d'empêchement du chef d'établissement, le conseil pédagogique est présidé par son adjoint.
+En cas d'absence ou d'empêchement du chef d'établissement, le conseil pédagogique est présidé par le chef d'établissement
+adjoint.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-99 du 27 janvier 2010 - art. 6
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 	**Cite**:
 
@@ -76425,8 +76419,9 @@ en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit
 ###### Article R421-42
 
 Dans les lycées, l'ensemble des délégués des élèves est réuni en assemblée générale sous la présidence du chef
-d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire. Le ou les
-adjoints du chef d'établissement et les conseillers principaux d'éducation assistent aux réunions.
+d'établissement au moins deux fois par an, dont une fois avant la fin de la septième semaine de l'année scolaire.        Le
+chef d'établissement adjoint, le cas échéant le directeur adjoint de la section d'enseignement général et professionnel
+adapté et les conseillers principaux d'éducation assistent aux réunions. 
 
 Au cours de sa première réunion, il est procédé à l'élection des représentants des délégués des élèves au conseil
 d'administration. 
@@ -76438,7 +76433,7 @@ scolaires.
 
 	**Modifié par**:
 
-	  - Décret n°2010-99 du 27 janvier 2010 - art. 7
+	  - Décret n°2011-1716 du 1er décembre 2011 - art. 2
 
 
 ##### Paragraphe 2 : Le conseil des délégués pour la vie lycéenne.
