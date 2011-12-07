@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-12-04
+Version Consolidée au 2011-12-08
 
 # Partie législative
 
@@ -34963,7 +34963,7 @@ e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
 
 f) Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ; 
 
-g) Foyer des lycéennes de Paris ; 
+g) Lycée d'Etat Jean Zay internat d'excellence ; 
 
 h) Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ; 
 
@@ -34973,7 +34973,7 @@ j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon 
 
 k) Lycée-collège d'Etat de Sourdun ;
 
-l)  Internat d'excellence  de  Montpellier.
+l) Internat d'excellence de Montpellier.
 
 **Liens relatifs à cet article**
 
@@ -34990,7 +34990,7 @@ l)  Internat d'excellence  de  Montpellier.
 
 	**Modifié par**:
 
-	  - Décret n°2010-795 du 12 juillet 2010 - art. 9
+	  - Décret n°2011-1774 du 5 décembre 2011 - art. 1 (V)
 
 	**Cite**:
 
