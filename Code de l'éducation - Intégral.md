@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2011-12-08
+Version Consolidée au 2011-12-30
 
 # Partie législative
 
@@ -3462,9 +3462,9 @@ code général des collectivités territoriales, ci-après reproduites :
 " Art.L. 2334-26.-A compter de l'exercice 1986, les communes reçoivent une dotation spéciale, prélevée sur les recettes de
 l'Etat, au titre des charges qu'elles supportent pour le logement des instituteurs. 
 
-Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement. A titre dérogatoire, cette évolution ne
-s'applique pas en 2009 et en 2011. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat
-comptable afférent au dernier exercice connu. 
+Cette dotation évolue, chaque année, comme la dotation globale de fonctionnement. A compter de 2011 cette évolution ne
+s'applique pas. Le Comité des finances locales peut majorer cette dotation de tout ou partie du reliquat comptable afférent
+au dernier exercice connu. 
 
 Cette dotation est répartie par le comité des finances locales proportionnellement au nombre des instituteurs, exerçant dans
 les écoles publiques, qui sont logés par chaque commune ou qui reçoivent d'elle une indemnité de logement. 
@@ -3522,7 +3522,7 @@ Aucune somme n'est reversée directement aux communes au titre des opérations v
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 48
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 30
 
 	**Cite**:
 
@@ -4169,32 +4169,34 @@ régions intéressées.
 La dotation départementale d'équipement des collèges est régie par les dispositions de l'article L. 3334-16 du code général
 des collectivités territoriales, ci-après reproduites : 
 
-" Art.L. 3334-16.- En 2008, le montant de la dotation départementale d'équipement des collèges est fixé à 328 666 225 euros. 
+" Art. L. 3334-16.-En 2008, le montant de la dotation départementale d'équipement des collèges est fixé à 328 666 225 euros. 
 
 Le montant alloué en 2008 à chaque département exerçant les compétences définies à l'article L. 213-2 du code de l'éducation
 est obtenu en appliquant un coefficient au montant total de la dotation départementale d'équipement des collèges fixé pour
 cette même année. Ce coefficient est calculé pour chaque département sur la base du rapport entre la moyenne actualisée des
 crédits de paiement qui lui ont été versés de 1998 à 2007 et la moyenne actualisée des crédits de paiement versés par l'Etat
-à l'ensemble des départements au titre de la dotation départementale d'équipement des collèges au cours de ces mêmes années.
+à l'ensemble des départements au titre de la dotation départementale d'équipement des collèges au cours de ces mêmes années. 
 
-De 2009 à 2011, le montant alloué à chaque département est égal à celui de 2008. 
-
-A compter de 2012, le montant de la dotation revenant à chaque département est obtenu par application au montant de l'année
-précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au
-projet de loi de finances relatif à l'année de versement. 
+A compter de 2009, le montant alloué à chaque département est égal à celui de 2008. 
 
 La dotation départementale d'équipement des collèges est versée aux départements en une seule fois au cours du troisième
 trimestre de l'année en cours. 
 
 La dotation est inscrite au budget de chaque département, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
-à l'extension et la construction des collèges."
+à l'extension et la construction des collèges. "
 
 **Liens relatifs à cet article**
 
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code général des collectivités territoriales - art. L3334-16 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3334-16 (V)
+	  - Code de l'éducation - art. L211-2 (V)
+	  - Code de l'éducation - art. L213-2 (V)
 
 	**Cité par**:
 
@@ -4696,22 +4698,18 @@ participation.
 La dotation régionale d'équipement scolaire est régie par les dispositions de l'article L. 4332-3 du code général des
 collectivités territoriales, ci-après reproduites : 
 
-" Art.L. 4332-3.-En 2008, le montant de la dotation régionale d'équipement scolaire est fixé à 661 841 207 euros. 
+" Art.L. 4332-3.-En 2008, le montant de la dotation régionale d'équipement scolaire est fixé à 661 841 207 euros.
 
 Le montant alloué en 2008 à chaque région exerçant les compétences définies à l'article L. 214-6 du code de l'éducation est
 obtenu en appliquant un coefficient au montant total de la dotation régionale d'équipement scolaire fixé pour cette même
 année. Ce coefficient est calculé pour chaque région sur la base du rapport entre le montant des crédits de paiement qui lui
 ont été versés en 2007 et le montant total des crédits de paiement versés par l'Etat à l'ensemble des régions au titre de la
-dotation régionale d'équipement scolaire en 2007. 
+dotation régionale d'équipement scolaire en 2007.
 
-De 2009 à 2011, le montant alloué à chaque région est égal à celui de 2008.
-
-A compter de 2012, le montant de la dotation revenant à chaque région est obtenu par application au montant de l'année
-précédente du taux prévisionnel de croissance de la formation brute de capital fixe des administrations publiques associé au
-projet de loi de finances relatif à l'année de versement. 
+A compter de 2009, le montant alloué à chaque région est égal à celui de 2008.
 
 La dotation régionale d'équipement scolaire est versée aux régions en une seule fois au cours du troisième trimestre de
-l'année en cours. 
+l'année en cours.
 
 La dotation est inscrite au budget de chaque région, qui l'affecte à la reconstruction, aux grosses réparations, à
 l'équipement et, si ces opérations figurent sur la liste établie en application de l'article L. 211-2 du code de l'éducation,
@@ -11515,27 +11513,30 @@ figurer cet établissement ou service au nombre de ceux qu'elle désigne, quelle
 
 ###### Article L351-3
 
-Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles constate qu'un enfant peut
-être scolarisé dans une classe de l'enseignement public ou d'un établissement visé au 3° de l'article L. 351-1 du présent
-code à condition de bénéficier d'une aide individuelle dont elle détermine la quotité horaire, cette aide peut être apportée
-par un assistant d'éducation recruté conformément au sixième alinéa de l'article L. 916-1. 
+Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles constate  que la
+scolarisation d'un enfant dans une classe de l'enseignement  public ou d'un établissement mentionné à l'article L. 442-1 du
+présent  code requiert une aide individuelle dont elle détermine la quotité  horaire, cette aide peut notamment être apportée
+par un assistant  d'éducation recruté conformément aux modalités définies à  l'avant-dernier alinéa de l'article L. 916-1. 
 
-Les assistants d'éducation affectés aux missions d'aide à l'accueil et à l'intégration scolaires des enfants handicapés sont
-recrutés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. Si l'aide individuelle
-nécessaire à l'enfant handicapé ne comporte pas de soutien pédagogique, ces assistants peuvent être recrutés sans condition
-de diplôme. Ils reçoivent une formation adaptée. 
+Si  cette scolarisation n'implique pas une aide individuelle mais que les  besoins de l'élève justifient qu'il bénéficie
+d'une aide mutualisée, la  commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles en  arrête
+le principe. Cette aide mutualisée est apportée par un assistant  d'éducation recruté dans les conditions fixées au premier
+alinéa de  l'article L. 916-1 du présent code. 
 
-Ils exercent leurs fonctions auprès des élèves pour lesquels une aide a été reconnue nécessaire par décision de la commission
-mentionnée à l'article L. 146-9 du code de l'action sociale et des familles. Leur contrat de travail précise le nom des
-écoles et des établissements scolaires au sein desquels ils sont susceptibles d'exercer leurs fonctions. 
+Si l'aide  nécessaire à l'élève handicapé ne comporte pas de soutien pédagogique,  ces assistants d'éducation mentionnés aux
+deux premiers alinéas du  présent article peuvent être recrutés sans condition de diplôme. 
 
-Ces assistants d'éducation bénéficient d'une formation spécifique leur permettant de répondre aux besoins particuliers des
-élèves qui leur sont confiés.
+Les personnels en charge de l'aide à l'inclusion scolaire exercent  leurs fonctions auprès des élèves pour lesquels une aide
+a été reconnue  nécessaire par décision de la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles.  Leur contrat de travail précise le nom des écoles et des établissements  scolaires au sein desquels ils sont
+susceptibles d'exercer leurs  fonctions. 
 
-L'aide individuelle mentionnée au premier alinéa peut, après accord entre l'inspecteur d'académie et la famille de l'élève,
-lorsque la continuité de l'accompagnement est nécessaire à l'élève en fonction de la nature particulière de son handicap,
-être assurée par une association ou un groupement d'associations ayant conclu une convention avec le ministère de l'éducation
-nationale. Les modalités d'application du présent article sont déterminées par décret.
+L'aide individuelle mentionnée au  premier alinéa du présent article peut, après accord entre l'inspecteur  d'académie et la
+famille de l'élève, lorsque la continuité de l'aide est  nécessaire à l'élève en fonction de la nature particulière de son
+handicap, être assurée par une association ou un groupement  d'associations ayant conclu une convention avec l'Etat. 
+
+Les modalités d'application du présent article, notamment la  désignation des personnes chargées de l'aide mentionnée aux
+deux  premiers alinéas et la nature de l'aide, sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -11553,7 +11554,7 @@ nationale. Les modalités d'application du présent article sont déterminées p
 
 	**Modifié par**:
 
-	  - Loi n°2009-972 du 3 août 2009 - art. 44
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 128
 
 	**Cite**:
 
@@ -28476,6 +28477,71 @@ déterminées par décret en Conseil d'Etat (1).
 	  - Code de l'éducation - art. L442-1 (V)
 
 
+###### Article L914-1-1
+
+Les personnels enseignants et de documentation mentionnés à l'article L. 914-1 peuvent bénéficier d'avantages temporaires de
+retraite dès leur cessation d'activité. Ces avantages, dont la charge financière est intégralement supportée par l'Etat, sont
+destinés à permettre à ces personnels de cesser leur activité dans les mêmes conditions que les maîtres titulaires de
+l'enseignement public. 
+
+L'ouverture des droits aux avantages temporaires de retraite est subordonnée au respect des conditions suivantes : 
+
+1° Les bénéficiaires doivent être titulaires d'un contrat définitif ou d'un agrément au moment où ils sollicitent leur
+admission au régime temporaire de retraite ; 
+
+2° Les bénéficiaires doivent justifier d'une durée de services en qualité de personnels enseignants et de documentation
+habilités par agrément ou par contrat à exercer leurs fonctions dans les établissements d'enseignement privés liés par
+contrat à l'Etat ou reconnus par celui-ci. Les services d'enseignement en tant que maître délégué, les services de direction
+et de formation exercés concomitamment à une activité d'enseignement, les périodes de formation ainsi que les périodes
+accomplies au titre du service national actif sont pris en compte dans des conditions déterminées par voie réglementaire.
+Toutefois, la condition de durée de services n'est pas opposable aux bénéficiaires qui se trouvent dans l'incapacité
+permanente d'exercer leur fonction ; 
+
+3° Les bénéficiaires doivent satisfaire à l'une des conditions auxquelles est subordonnée la possibilité pour les maîtres
+titulaires de l'enseignement public de demander la liquidation de leur pension. 
+
+Les avantages temporaires de retraite sont liquidés en ne prenant en compte que les services mentionnés au 2° du présent
+article, augmentés des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et 
+L. 351-5 du code de la sécurité sociale et des majorations pour enfants prévues par les régimes de retraite complémentaire
+mentionnés au livre IX du même code. 
+
+Un coefficient de minoration ou de majoration est applicable aux avantages temporaires de retraite dans les mêmes conditions
+que pour les maîtres titulaires de l'enseignement public. 
+
+Les avantages temporaires de retraite cessent d'être versés aux bénéficiaires auxquels aucun coefficient de minoration n'est
+applicable lorsqu'ils peuvent bénéficier d'une pension de vieillesse du régime général de sécurité sociale liquidée à taux
+plein. Ils cessent également d'être versés aux bénéficiaires auxquels un coefficient de minoration est applicable lorsqu'ils
+atteignent l'âge auquel le coefficient de minoration applicable à leur pension de vieillesse du régime général de sécurité
+sociale est le plus proche du coefficient de minoration qui était appliqué aux avantages temporaires de retraite. 
+
+Les limites d'âge et les règles de cumul de pension de retraite et de rémunération des revenus d'activité applicables aux
+maîtres titulaires de l'enseignement public le sont également aux personnels enseignants et de documentation mentionnés à
+l'article L. 914-1 du présent code dans des conditions fixées par voie réglementaire. 
+
+Les bénéficiaires des avantages temporaires de retraite ainsi que leurs ayants droit bénéficient des prestations en nature
+des assurances maladie et maternité du régime général de sécurité sociale. 
+
+Les conditions dans lesquelles les maîtres des établissements d'enseignement privés sous contrat avec l'Etat en Nouvelle-
+Calédonie et en Polynésie française cessent leur activité et sont autorisés à cumuler les avantages temporaires de retraite
+institués par ces collectivités et les rémunérations servies, directement ou indirectement, par l'une des collectivités
+mentionnées à l'article L. 86-1 du code des pensions civiles et militaires de retraite sont fixées par voie réglementaire. 
+
+Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 129
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L86-1 (V)
+	  - Code de l'éducation - art. L914-1 (V)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Code de la sécurité sociale. - art. L351-5 (V)
+
+
 ###### Article L914-2
 
 Lorsque la demande d'intégration des établissements d'enseignement privés dans l'enseignement public est agréée conformément
@@ -28674,15 +28740,18 @@ d'enseignement technique privé.
 ###### Article L916-1
 
 Des assistants d'éducation peuvent être recrutés par les établissements d'enseignement mentionnés au chapitre II du titre Ier
-et au titre II du livre IV pour exercer des fonctions d'assistance à l'équipe éducative, fonctions en lien avec le projet
-d'établissement, notamment pour l'encadrement et la surveillance des élèves et l'aide à l'accueil et à l'intégration
-scolaires des élèves handicapés, y compris en dehors du temps scolaire. 
+et au titre II du livre IV pour exercer des fonctions d'assistance à l'équipe éducative en lien avec le projet
+d'établissement, notamment pour l'encadrement et la surveillance des élèves. Lorsqu'ils sont recrutés pour l'aide à
+l'inclusion scolaire des élèves handicapés, y compris en dehors du temps scolaire, leur recrutement intervient après accord
+de l'inspecteur d'académie. Ils peuvent également être recrutés par les établissements mentionnés à l'article L. 442-1, après
+accord de l'inspecteur d'académie, pour exercer des fonctions d'aide à l'inclusion scolaire des élèves handicapés, y compris
+en dehors du temps scolaire. 
 
-Les assistants d'éducation qui remplissent des missions d'aide à l'accueil et à l'intégration scolaires des élèves handicapés
-bénéficient d'une formation spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en collaboration avec les
-associations d'aide aux familles d'enfants handicapés.A l'issue de leur contrat, les assistants d'éducation peuvent demander
-à faire valider l'expérience acquise dans les conditions définies par les articles L. 2323-33, L. 6111-1, L. 6311-1, L.
-6411-1 et L. 6422-1 du code du travail. 
+Les assistants d'éducation qui remplissent des missions d'aide à l'inclusion scolaire des élèves handicapés bénéficient d'une
+formation spécifique pour l'accomplissement de leurs fonctions, mise en oeuvre en collaboration avec les associations d'aide
+aux familles d'enfants handicapés. A l'issue de leur contrat, les assistants d'éducation peuvent demander à faire valider
+l'expérience acquise dans les conditions définies par les articles L. 2323-33, L. 6111-1, L. 6311-1, L. 6411-1 et L. 6422-1
+du code du travail. 
 
 Les assistants d'éducation peuvent exercer leurs fonctions dans l'établissement qui les a recrutés, dans un ou plusieurs
 autres établissements ainsi que, compte tenu des besoins appréciés par l'autorité administrative, dans une ou plusieurs
@@ -28694,12 +28763,12 @@ d'une période d'engagement totale de six ans.
 Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers. 
 
 Par dérogation au premier alinéa, des assistants d'éducation peuvent être recrutés par l'Etat pour exercer des fonctions
-d'aide à l'accueil et à l'intégration des élèves handicapés dans les conditions prévues à l'article L. 351-3, ainsi que pour
-exercer des fonctions d'accompagnement auprès des étudiants handicapés inscrits dans les établissements d'enseignement
-supérieur mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été reconnue
-nécessaire par la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles. 
+d'aide à l'inclusion scolaire des élèves handicapés dans les conditions prévues à l'article L. 351-3, ainsi que pour exercer
+des fonctions d'accompagnement auprès des étudiants handicapés inscrits dans les établissements d'enseignement supérieur
+mentionnés aux titres Ier, II, IV et V du livre VII du présent code et pour lesquels une aide a été reconnue nécessaire par
+la commission mentionnée au premier alinéa de l'article L. 146-9 du code de l'action sociale et des familles. 
 
-Les conditions d'application du présent article sont fixées par décret pris après avis du  comité technique ministériel du
+Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique ministériel du
 ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de travail des
 assistants d'éducation, en particulier pour ceux qui sont astreints à un service de nuit. Il précise également les droits
 reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la mesure
@@ -28735,6 +28804,7 @@ justifiée par la nature de leurs missions, aux dispositions générales prises 
 	**Cite**:
 
 	  - Loi n°84-16 du 11 janvier 1984 - art. 7
+	  - Code de l'éducation - art. L442-1 (V)
 	  - Code du travail - art. L2323-33
 	  - Code du travail - art. L6111-1
 	  - Code du travail - art. L6311-1
@@ -28744,7 +28814,7 @@ justifiée par la nature de leurs missions, aux dispositions générales prises 
 
 	**Modifié par**:
 
-	  - Loi n°2010-751 du 5 juillet 2010 - art. 35
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 128
 
 
 ###### Article L916-2
