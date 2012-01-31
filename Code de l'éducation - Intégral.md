@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-01-28
+Version Consolidée au 2012-02-01
 
 # Partie législative
 
@@ -1478,9 +1478,9 @@ exercent sur lui, de façon continue, une autorité de fait.
 ###### Article L131-5
 
 Les personnes responsables d'un enfant soumis à l'obligation scolaire définie à l'article L. 131-1 doivent le faire inscrire
-dans un établissement d'enseignement public ou privé, ou bien déclarer au maire et à l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale, qu'elles lui feront donner l'instruction dans la famille. Dans ce cas, il
-est exigé une déclaration annuelle. 
+dans un établissement d'enseignement public ou privé, ou bien déclarer au maire et à               l'autorité de l'Etat
+compétente en matière d'éducation, qu'elles lui feront donner l'instruction dans la famille. Dans ce cas, il est exigé une
+déclaration annuelle. 
 
 Les mêmes formalités doivent être accomplies dans les huit jours qui suivent tout changement de résidence ou de choix
 d'instruction. 
@@ -1521,21 +1521,20 @@ la commune de son lieu de résidence temporaire ou de travail.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-461 2005-05-13 art. 3 1° JORF 14 mai 2005
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L131-6 (V)
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L131-6
 
 	**Anciens textes**:
 
-	  - Loi n°1882-03-28 art. 7
 	  - Loi n°1882-03-28 du 28 mars 1882 - art. 7 (Ab)
 
 
@@ -1549,10 +1548,10 @@ Les personnes responsables doivent y faire inscrire les enfants dont elles ont l
 Afin de procéder au recensement prévu au premier alinéa et d'améliorer le suivi de l'obligation d'assiduité scolaire, le
 maire peut mettre en oeuvre un traitement automatisé de données à caractère personnel où sont enregistrées les données à
 caractère personnel relatives aux enfants en âge scolaire domiciliés dans la commune, qui lui sont transmises par les
-organismes chargés du versement des prestations familiales ainsi que par l'inspecteur d'académie en application de l'article
-L. 131-8 et par le directeur ou la directrice de l'établissement d'enseignement en application du même article ainsi qu'en
-cas d'exclusion temporaire ou définitive de l'établissement ou lorsqu'un élève inscrit dans un établissement le quitte en
-cours ou en fin d'année. 
+organismes chargés du versement des prestations familiales ainsi que par     l'autorité de l'Etat compétente en matière
+d'éducation  en application de l'article L. 131-8 et par le directeur ou la directrice de l'établissement d'enseignement en
+application du même article ainsi qu'en cas d'exclusion temporaire ou définitive de l'établissement ou lorsqu'un élève
+inscrit dans un établissement le quitte en cours ou en fin d'année. 
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
 conditions d'application du troisième alinéa. Il précise la liste des données à caractère personnel collectées, la durée de
@@ -1561,19 +1560,14 @@ personnes intéressées peuvent exercer leur droit d'accès.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1882-03-28 art. 8
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 8 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 12 2° JORF 7 mars 2007
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -1581,23 +1575,30 @@ personnes intéressées peuvent exercer leur droit d'accès.
 	  - Code de l'éducation - art. L131-8 (VD)
 	  - Code de l'éducation - art. R131-10-1 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 8 (Ab)
+
 
 ###### Article L131-7
 
-L'inspecteur d'académie invite les personnes responsables de l'enfant à se conformer à la loi et leur fait connaître les
-sanctions pénales encourues.
+L'autorité de l'Etat compétente en matière d'éducation  invite les personnes responsables de l'enfant à se conformer à la loi
+et leur fait connaître les sanctions pénales encourues.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1882-03-28 art. 9
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 9 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Anciens textes**:
+
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 9 (Ab)
 
 
 ###### Article L131-8
@@ -1607,51 +1608,51 @@ ou à la directrice de l'établissement d'enseignement les motifs de cette absen
 
 Les seuls motifs réputés légitimes sont les suivants : maladie de l'enfant, maladie transmissible ou contagieuse d'un membre
 de la famille, réunion solennelle de famille, empêchement résultant de la difficulté accidentelle des communications, absence
-temporaire des personnes responsables lorsque les enfants les suivent. Les autres motifs sont appréciés par l'inspecteur
-d'académie. Celui-ci peut consulter les assistantes sociales agréées par lui, et les charger de conduire une enquête, en ce
-qui concerne les enfants en cause. 
+temporaire des personnes responsables lorsque les enfants les suivent. Les autres motifs sont appréciés par l'autorité de
+l'Etat compétente en matière d'éducation. Celle-ci peut consulter les assistantes sociales agréées par elle, et les charger
+de conduire une enquête, en ce qui concerne les enfants en cause. 
 
-Le directeur ou la directrice de l'établissement d'enseignement saisit l'inspecteur d'académie afin qu'il adresse, par
-courrier ou à l'occasion d'un entretien avec lui ou son représentant, un avertissement aux personnes responsables de
-l'enfant, leur rappelant les sanctions administratives et pénales applicables et les informant sur les dispositifs
-d'accompagnement parental auxquels elles peuvent avoir recours : 
+Le directeur ou la directrice de l'établissement d'enseignement saisit l'autorité de l'Etat compétente en matière d'éducation
+afin qu'elle adresse un avertissement aux personnes responsables de l'enfant, leur rappelant les sanctions administratives et
+pénales applicables et les informant sur les dispositifs d'accompagnement parental auxquels elles peuvent avoir recours : 
 
 1° Lorsque, malgré l'invitation du directeur ou de la directrice de l'établissement d'enseignement, elles n'ont pas fait
 connaître les motifs d'absence de l'enfant ou qu'elles ont donné des motifs d'absence inexacts ; 
 
-2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois.
+2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois. 
 
-L'inspecteur d'académie saisit sans délai le président du conseil général du cas des enfants pour lesquels un avertissement
-est intervenu en vue de la mise en place d'un contrat de responsabilité parentale ou de toute autre mesure d'accompagnement
-que le président du conseil général pourrait proposer aux familles en application de l'article L. 222-4-1 du code de l'action
-sociale et des familles. 
+L'autorité de l'Etat compétente en matière d'éducation saisit sans délai le président du conseil général du cas des enfants
+pour lesquels un avertissement est intervenu en vue de la mise en place d'un contrat de responsabilité parentale ou de toute
+autre mesure d'accompagnement que le président du conseil général pourrait proposer aux familles en application de l'article
+L. 222-4-1 du code de l'action sociale et des familles. 
 
-Il communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au
+Elle communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au
 présent article a été notifié. 
 
 Les informations communiquées au maire en application du présent article sont enregistrées dans le traitement prévu à
 l'article L. 131-6. 
 
 Dans le cas où, au cours d'une même année scolaire, une nouvelle absence de l'enfant mineur d'au moins quatre demi-journées
-sur un mois est constatée en dépit de l'avertissement adressé par l'inspecteur d'académie, ce dernier, après avoir mis les
-personnes responsables de l'enfant en mesure de présenter leurs observations, et en l'absence de motif légitime ou d'excuses
-valables, saisit le directeur de l'organisme débiteur des prestations familiales qui suspend immédiatement le versement de la
-part des allocations familiales dues au titre de l'enfant en cause, calculées selon les modalités prévues à l'article L.
-552-3-1 du code de la sécurité sociale. Le directeur de l'organisme débiteur des prestations familiales informe l'inspecteur
-d'académie ainsi que le président du conseil général de la date de mise en œuvre de cette suspension. Il informe les
-personnes responsables de l'enfant de cette décision et des dispositifs d'accompagnement parental auxquels elles peuvent
-avoir recours. 
+sur un mois est constatée en dépit de l'avertissement adressé par l'autorité de l'Etat compétente en matière d'éducation,
+cette dernière, après avoir mis les personnes responsables de l'enfant en mesure de présenter leurs observations, et en
+l'absence de motif légitime ou d'excuses valables, saisit le directeur de l'organisme débiteur des prestations familiales qui
+suspend immédiatement le versement de la part des allocations familiales dues au titre de l'enfant en cause, calculées selon
+les modalités prévues à l'article L. 552-3-1 du code de la sécurité sociale. Le directeur de l'organisme débiteur des
+prestations familiales informe l'autorité de l'Etat compétente en matière d'éducation ainsi que le président du conseil
+général de la date de mise en œuvre de cette suspension. Il informe les personnes responsables de l'enfant de cette décision
+et des dispositifs d'accompagnement parental auxquels elles peuvent avoir recours. 
 
-Le versement des allocations familiales n'est rétabli que lorsque l'inspecteur d'académie a signalé au directeur de
-l'organisme débiteur des prestations familiales qu'aucun défaut d'assiduité sans motif légitime ni excuses valables n'a été
-constaté pour l'enfant en cause pendant une période d'un mois de scolarisation, éventuellement interrompu par des vacances
-scolaires, depuis le mois au titre duquel le versement des allocations familiales a été suspendu. 
+Le versement des allocations familiales n'est rétabli que lorsque l'autorité de l'Etat compétente en matière d'éducation a
+signalé au directeur de l'organisme débiteur des prestations familiales qu'aucun défaut d'assiduité sans motif légitime ni
+excuses valables n'a été constaté pour l'enfant en cause pendant une période d'un mois de scolarisation, éventuellement
+interrompu par des vacances scolaires, depuis le mois au titre duquel le versement des allocations familiales a été
+suspendu. 
 
 Le rétablissement du versement des allocations familiales est rétroactif. Si, depuis l'absence ayant donné lieu à la
 suspension, une ou plusieurs nouvelles absences de quatre demi-journées par mois sans motif légitime ni excuses valables ont
-été constatées, à la demande de l'inspecteur d'académie et après que les personnes responsables de l'enfant ont été mises en
-mesure de présenter leurs observations, aucun versement n'est dû au titre du ou des mois au cours desquels ces nouvelles
-absences sans motif légitime ni excuses valables ont été constatées. 
+été constatées, à la demande de l'autorité de l'Etat compétente en matière d'éducation et après que les personnes
+responsables de l'enfant ont été mises en mesure de présenter leurs observations, aucun versement n'est dû au titre du ou des
+mois au cours desquels ces nouvelles absences sans motif légitime ni excuses valables ont été constatées. 
 
 La suspension des allocations familiales ne peut prendre effet qu'à une date permettant de vérifier sous deux mois la
 condition de reprise d'assiduité définie aux deux alinéas précédents.
@@ -1673,7 +1674,7 @@ condition de reprise d'assiduité définie aux deux alinéas précédents.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 46
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Anciens textes**:
 
@@ -1682,25 +1683,24 @@ condition de reprise d'assiduité définie aux deux alinéas précédents.
 
 ###### Article L131-9
 
-L'inspecteur d'académie saisit le procureur de la République des faits constitutifs d'infraction aux dispositions du présent
-chapitre, sauf dans le cas où il a sollicité du président du conseil général la mise en oeuvre d'un contrat de responsabilité
-parentale.
+L'autorité de l'Etat compétente en matière d'éducation saisit le procureur de la République des faits constitutifs
+d'infraction aux dispositions du présent chapitre, sauf dans le cas où elle a sollicité du président du conseil général la
+mise en oeuvre d'un contrat de responsabilité parentale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1882-03-28 art. 12
-	  - Loi n°1882-03-28 du 28 mars 1882 - art. 12 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 48 (V) JORF 2 avril 2006
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Anciens textes**:
+
+	  - Loi n°1882-03-28 du 28 mars 1882 - art. 12 (Ab)
 
 
 ###### Article L131-10
@@ -1709,45 +1709,44 @@ Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans le
 inscription dans un établissement d'enseignement à distance, sont dès la première année, et tous les deux ans, l'objet d'une
 enquête de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguées par les personnes
 responsables, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et les conditions de
-vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale. 
+vie de la famille. Le résultat de cette enquête est communiqué à l'autorité de l'Etat compétente en matière d'éducation.
 
 Lorsque l'enquête n'a pas été effectuée, elle est diligentée par le représentant de l'Etat dans le département.
 
-L'inspecteur d'académie doit au moins une fois par an, à partir du troisième mois suivant la déclaration d'instruction par la
-famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à
-l'article L. 131-1-1. 
+L'autorité de l'Etat compétente en matière d'éducation  doit au moins une fois par an, à partir du troisième mois suivant la
+déclaration d'instruction par la famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à
+l'instruction tel que défini à l'article L. 131-1-1.
 
-Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant. Il vérifie notamment
-que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille. 
+Ce contrôle prescrit par l'autorité de l'Etat compétente en matière d'éducation  a lieu notamment au domicile des parents de
+l'enfant. Il vérifie notamment que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille.
 
 Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans préjudice de
-l'application des sanctions pénales. 
+l'application des sanctions pénales.
 
-Le contenu des connaissances requis des élèves est fixé par décret. 
+Le contenu des connaissances requis des élèves est fixé par décret.
 
 Les résultats de ce contrôle sont notifiés aux personnes responsables avec l'indication du délai dans lequel elles devront
-fournir leurs explications ou améliorer la situation et des sanctions dont elles seraient l'objet dans le cas contraire. 
+fournir leurs explications ou améliorer la situation et des sanctions dont elles seraient l'objet dans le cas contraire.
 
-Si, au terme d'un nouveau délai fixé par l'inspecteur d'académie, les résultats du contrôle sont jugés insuffisants, les
-parents sont mis en demeure, dans les quinze jours suivant la notification, d'inscrire leur enfant dans un établissement
-d'enseignement public ou privé et de faire connaître au maire, qui en informe l'inspecteur d'académie, l'école ou
-l'établissement qu'ils auront choisi.
+Si, au terme d'un nouveau délai fixé par l'autorité de l'Etat compétente en matière d'éducation, les résultats du contrôle
+sont jugés insuffisants, les parents sont mis en demeure, dans les quinze jours suivant la notification, d'inscrire leur
+enfant dans un établissement d'enseignement public ou privé et de faire connaître au maire, qui en informe l'autorité de
+l'Etat compétente en matière d'éducation, l'école ou l'établissement qu'ils auront choisi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-297 2007-03-05 art. 12 4° JORF 7 mars 2007
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-1-1 (V)
+	  - Code de l'éducation - art. L131-1-1
 
 	**Cité par**:
 
@@ -1758,7 +1757,6 @@ l'établissement qu'ils auront choisi.
 
 	**Anciens textes**:
 
-	  - Loi n°1882-03-28 art. 16
 	  - Loi n°1882-03-28 du 28 mars 1882 - art. 16 (Ab)
 
 
@@ -1769,30 +1767,31 @@ dispositions des articles 227-17-1 et 227-17-2 du code pénal, ci-après reprodu
 
 " Art. 227-17-1.-Le fait, par les parents d'un enfant ou toute personne exerçant à son égard l'autorité parentale ou une
 autorité de fait de façon continue, de ne pas l'inscrire dans un établissement d'enseignement, sans excuse valable, en dépit
-d'une mise en demeure de l'inspecteur d'académie, est puni de six mois d'emprisonnement et de 7500 euros d'amende. 
+d'une mise en demeure de l'autorité de l'Etat compétente en matière d'éducation, est puni de six mois d'emprisonnement et de
+7 500 euros d'amende. 
 
 Le fait, par un directeur d'établissement privé accueillant des classes hors contrat, de n'avoir pas pris, malgré la mise en
-demeure de l'inspecteur d'académie, les dispositions nécessaires pour que l'enseignement qui y est dispensé soit conforme à
-l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L. 131-1-1 et L. 131-10 du code de
-l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement et de 7500 euros
-d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou d'enseigner ainsi que la
-fermeture de l'établissement. " 
+demeure de l'autorité de l'Etat compétente en matière d'éducation, les dispositions nécessaires pour que l'enseignement qui y
+est dispensé soit conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par l'article L. 131-1-1 et L.
+131-10 du code de l'éducation, et de n'avoir pas procédé à la fermeture de ces classes est puni de six mois d'emprisonnement
+et de 7 500 euros d'amende. En outre, le tribunal peut ordonner à l'encontre de celui-ci l'interdiction de diriger ou
+d'enseigner ainsi que la fermeture de l'établissement. " 
 
 " Art. 227-17-2.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2,
 des infractions définies aux articles 227-15 à 227-17-1 encourent, outre l'amende suivant les modalités prévues par l'article
-131-38, les peines prévues par l'article 131-39."
+131-38, les peines prévues par l'article 131-39. "
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 124
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
-	  - Code pénal - art. 131-38 (V)
 	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 227-15 (V)
+	  - Code de l'éducation - art. L131-1-1 (V)
 	  - Code de l'éducation - art. L131-10 (V)
 	  - Code de l'éducation - art. L442-2 (V)
 
@@ -7202,7 +7201,8 @@ I. - L'inspection des établissements d'enseignement du premier et du second deg
 1° Par les inspecteurs généraux de l'éducation nationale et les inspecteurs généraux de l'administration de l'éducation
 nationale et de la recherche ;
 
-2° Par les recteurs et les inspecteurs d'académie ;
+2° Par les recteurs et les directeurs académiques des services de l'éducation nationale agissant sur délégation de ces
+derniers ;
 
 3° Par les inspecteurs de l'éducation nationale ;
 
@@ -7223,12 +7223,12 @@ s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2006-636 du 1 juin 2006 - art. 1 () JORF 2 juin 2006
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -7244,8 +7244,6 @@ s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment
 
 	**Anciens textes**:
 
-	  - Loi n°1850-03-15 art. 18, art. 20, art. 21
-	  - Loi n°1886-10-30 art. 9
 	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 9 (Ab)
 
 
@@ -11513,30 +11511,31 @@ figurer cet établissement ou service au nombre de ceux qu'elle désigne, quelle
 
 ###### Article L351-3
 
-Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles constate  que la
-scolarisation d'un enfant dans une classe de l'enseignement  public ou d'un établissement mentionné à l'article L. 442-1 du
-présent  code requiert une aide individuelle dont elle détermine la quotité  horaire, cette aide peut notamment être apportée
-par un assistant  d'éducation recruté conformément aux modalités définies à  l'avant-dernier alinéa de l'article L. 916-1. 
+Lorsque la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles constate que la
+scolarisation d'un enfant dans une classe de l'enseignement public ou d'un établissement mentionné à l'article L. 442-1 du
+présent code requiert une aide individuelle dont elle détermine la quotité horaire, cette aide peut notamment être apportée
+par un assistant d'éducation recruté conformément aux modalités définies à l'avant-dernier alinéa de l'article L. 916-1. 
 
-Si  cette scolarisation n'implique pas une aide individuelle mais que les  besoins de l'élève justifient qu'il bénéficie
-d'une aide mutualisée, la  commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles en  arrête
-le principe. Cette aide mutualisée est apportée par un assistant  d'éducation recruté dans les conditions fixées au premier
-alinéa de  l'article L. 916-1 du présent code. 
+Si cette scolarisation n'implique pas une aide individuelle mais que les besoins de l'élève justifient qu'il bénéficie d'une
+aide mutualisée, la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des familles en arrête le
+principe. Cette aide mutualisée est apportée par un assistant d'éducation recruté dans les conditions fixées au premier
+alinéa de l'article L. 916-1 du présent code. 
 
-Si l'aide  nécessaire à l'élève handicapé ne comporte pas de soutien pédagogique,  ces assistants d'éducation mentionnés aux
-deux premiers alinéas du  présent article peuvent être recrutés sans condition de diplôme. 
+Si l'aide nécessaire à l'élève handicapé ne comporte pas de soutien pédagogique, ces assistants d'éducation mentionnés aux
+deux premiers alinéas du présent article peuvent être recrutés sans condition de diplôme. 
 
-Les personnels en charge de l'aide à l'inclusion scolaire exercent  leurs fonctions auprès des élèves pour lesquels une aide
-a été reconnue  nécessaire par décision de la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
-familles.  Leur contrat de travail précise le nom des écoles et des établissements  scolaires au sein desquels ils sont
-susceptibles d'exercer leurs  fonctions. 
+Les personnels en charge de l'aide à l'inclusion scolaire exercent leurs fonctions auprès des élèves pour lesquels une aide a
+été reconnue nécessaire par décision de la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles. Leur contrat de travail précise le nom des écoles et des établissements scolaires au sein desquels ils sont
+susceptibles d'exercer leurs fonctions. 
 
-L'aide individuelle mentionnée au  premier alinéa du présent article peut, après accord entre l'inspecteur  d'académie et la
-famille de l'élève, lorsque la continuité de l'aide est  nécessaire à l'élève en fonction de la nature particulière de son
-handicap, être assurée par une association ou un groupement  d'associations ayant conclu une convention avec l'Etat. 
+L'aide individuelle mentionnée au premier alinéa du présent article peut, après accord entre     l'autorité de l'Etat
+compétente en matière d'éducation  et la famille de l'élève, lorsque la continuité de l'aide est nécessaire à l'élève en
+fonction de la nature particulière de son handicap, être assurée par une association ou un groupement d'associations ayant
+conclu une convention avec l'Etat. 
 
-Les modalités d'application du présent article, notamment la  désignation des personnes chargées de l'aide mentionnée aux
-deux  premiers alinéas et la nature de l'aide, sont déterminées par décret.
+Les modalités d'application du présent article, notamment la désignation des personnes chargées de l'aide mentionnée aux deux
+premiers alinéas et la nature de l'aide, sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -11554,7 +11553,7 @@ deux  premiers alinéas et la nature de l'aide, sont déterminées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 128
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -13913,31 +13912,31 @@ La même déclaration doit être faite en cas de changement des locaux de l'éco
 ###### Article L441-2
 
 Le demandeur adresse la déclaration mentionnée à l'article L. 441-1 au représentant de l'Etat dans le département, à
-l'inspecteur d'académie et au procureur de la République ; il y joint en outre, pour l'inspecteur d'académie, son acte de
-naissance, ses diplômes, l'extrait de son casier judiciaire, l'indication des lieux où il a résidé et des professions qu'il a
-exercées pendant les dix années précédentes, le plan des locaux affectés à l'établissement et, s'il appartient à une
-association, une copie des statuts de cette association.
+l'autorité de l'Etat compétente en matière d'éducation et au procureur de la République ; il y joint en outre, pour
+l'autorité de l'Etat compétente en matière d'éducation, son acte de naissance, ses diplômes, l'extrait de son casier
+judiciaire, l'indication des lieux où il a résidé et des professions qu'il a exercées pendant les dix années précédentes, le
+plan des locaux affectés à l'établissement et, s'il appartient à une association, une copie des statuts de cette
+association. 
 
-L'inspecteur d'académie, soit d'office, soit sur la requête du procureur de la République, peut former opposition à
-l'ouverture d'une école privée, dans l'intérêt des bonnes moeurs ou de l'hygiène.
+L'autorité de l'Etat compétente en matière d'éducation, soit d'office, soit sur la requête du procureur de la République,
+peut former opposition à l'ouverture d'une école privée, dans l'intérêt des bonnes moeurs ou de l'hygiène. 
 
 Si le demandeur est un instituteur public révoqué désireux de s'installer dans la commune où il exerçait, l'opposition peut
-être faite dans l'intérêt de l'ordre public.
+être faite dans l'intérêt de l'ordre public. 
 
 A défaut d'opposition, l'école est ouverte à l'expiration d'un délai d'un mois à compter du dépôt de la déclaration
 d'ouverture, sans aucune formalité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°1886-10-30 art. 38
-	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 38 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -13948,18 +13947,22 @@ d'ouverture, sans aucune formalité.
 	  - Code de l'éducation - art. R222-24-1 (V)
 	  - Code de l'éducation - art. R441-1 (VD)
 
+	**Anciens textes**:
+
+	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 38 (Ab)
+
 
 ###### Article L441-3
 
 Les oppositions à l'ouverture d'une école privée sont jugées contradictoirement par le conseil académique de l'éducation
-nationale dans le délai d'un mois.
+nationale dans le délai d'un mois. 
 
 Appel de la décision rendue peut être interjeté dans les dix jours à compter de la notification de cette décision. L'appel
-est reçu par l'inspecteur d'académie ; il est soumis au Conseil supérieur de l'éducation et jugé contradictoirement dans le
-délai d'un mois.
+est reçu par     l'autorité de l'Etat compétente en matière d'éducation  ; il est soumis au Conseil supérieur de l'éducation
+et jugé contradictoirement dans le délai d'un mois. 
 
 Le demandeur peut se faire assister ou se faire représenter par un conseil devant le conseil académique et devant le Conseil
-supérieur.
+supérieur. 
 
 En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 
@@ -13967,16 +13970,23 @@ En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - ORDONNANCE n°2014-691 du 26 juin 2014 - art. 11
 
 	**Cité par**:
 
-	  - Code de l'éducation - art. L234-3 (M)
+	  - Code de l'éducation - art. L234-3 (VT)
 
 	**Anciens textes**:
 
-	  - Loi n°1886-10-30 art. 39
 	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 39 (Ab)
 
 
@@ -14096,16 +14106,16 @@ stage, est puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 Pendant le mois qui suit le dépôt des pièces requises par l'article L. 441-5, le recteur, le représentant de l'Etat dans le
 département et le procureur de la République peuvent se pourvoir devant le conseil académique de l'éducation nationale et
 s'opposer à l'ouverture de l'établissement, dans l'intérêt des bonnes moeurs ou de l'hygiène. Après ce délai, s'il n'est
-intervenu aucune opposition, l'établissement peut être immédiatement ouvert.
+intervenu aucune opposition, l'établissement peut être immédiatement ouvert. 
 
-En cas d'opposition, le conseil académique se prononce contradictoirement dans le délai d'un mois.
+En cas d'opposition, le conseil académique se prononce contradictoirement dans le délai d'un mois. 
 
 Appel de la décision rendue peut être interjeté dans les dix jours à compter de la notification de cette décision. L'appel
-est reçu par l'inspecteur d'académie ; il est soumis au Conseil supérieur de l'éducation et jugé contradictoirement dans le
-délai d'un mois.
+est reçu par l'autorité de l'Etat compétente en matière d'éducation ; il est soumis au Conseil supérieur de l'éducation et
+jugé contradictoirement dans le délai d'un mois. 
 
 Le demandeur peut se faire assister ou se faire représenter par un conseil devant le conseil académique et devant le Conseil
-supérieur.
+supérieur. 
 
 En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 
@@ -14113,8 +14123,12 @@ En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -14127,7 +14141,6 @@ En aucun cas, l'ouverture ne peut avoir lieu avant la décision d'appel.
 
 	**Anciens textes**:
 
-	  - Loi n°1850-03-15 art. 64
 	  - Loi n°1850-03-15 du 15 mars 1850 - art. 64 (Ab)
 
 
@@ -14391,22 +14404,23 @@ d'opinion ou de croyances, y ont accès.
 
 Le contrôle de l'Etat sur les établissements d'enseignement privés qui ne sont pas liés à l'Etat par contrat se limite aux
 titres exigés des directeurs et des maîtres, à l'obligation scolaire, à l'instruction obligatoire, au respect de l'ordre
-public et des bonnes moeurs, à la prévention sanitaire et sociale.
+public et des bonnes moeurs, à la prévention sanitaire et sociale. 
 
-L'inspecteur d'académie peut prescrire chaque année un contrôle des classes hors contrat afin de s'assurer que l'enseignement
-qui y est dispensé respecte les normes minimales de connaissances requises par l'article L. 131-1-1 et que les élèves de ces
-classes ont accès au droit à l'éducation tel que celui-ci est défini par l'article L. 111-1.
+L'autorité de l'Etat compétente en matière d'éducation peut prescrire chaque année un contrôle des classes hors contrat afin
+de s'assurer que l'enseignement qui y est dispensé respecte les normes minimales de connaissances requises par l'article L.
+131-1-1 et que les élèves de ces classes ont accès au droit à l'éducation tel que celui-ci est défini par l'article L.
+111-1. 
 
-Ce contrôle a lieu dans l'établissement d'enseignement privé dont relèvent ces classes hors contrat.
+Ce contrôle a lieu dans l'établissement d'enseignement privé dont relèvent ces classes hors contrat. 
 
 Les résultats de ce contrôle sont notifiés au directeur de l'établissement avec l'indication du délai dans lequel il sera mis
 en demeure de fournir ses explications ou d'améliorer la situation et des sanctions dont il serait l'objet dans le cas
-contraire.
+contraire. 
 
-En cas de refus de sa part d'améliorer la situation et notamment de dispenser, malgré la mise en demeure de l'inspecteur
-d'académie, un enseignement conforme à l'objet de l'instruction obligatoire, tel que celui-ci est défini par les articles L.
-131-1-1 et L. 131-10, l'autorité académique avise le procureur de la République des faits susceptibles de constituer une
-infraction pénale.
+En cas de refus de sa part d'améliorer la situation et notamment de dispenser, malgré la mise en demeure de l'autorité de
+l'Etat compétente en matière d'éducation, un enseignement conforme à l'objet de l'instruction obligatoire, tel que celui-ci
+est défini par les articles L. 131-1-1 et L. 131-10, l'autorité académique avise le procureur de la République des faits
+susceptibles de constituer une infraction pénale. 
 
 Dans cette hypothèse, les parents des élèves concernés sont mis en demeure d'inscrire leur enfant dans un autre
 établissement.
@@ -14415,23 +14429,22 @@ Dans cette hypothèse, les parents des élèves concernés sont mis en demeure d
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 2 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 8 () JORF 24 avril 2005
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L111-1 (M)
+	  - Code de l'éducation - art. L111-1 (V)
 	  - Code de l'éducation - art. L131-1-1 (V)
-	  - Code de l'éducation - art. L131-10 (M)
+	  - Code de l'éducation - art. L131-10 (V)
 
 	**Cité par**:
 
@@ -25178,13 +25191,13 @@ La liste complète des associés, avec leur domicile, doit se trouver au siège 
 
 ###### Article L731-3
 
-L'ouverture de chaque cours doit être précédée d'une déclaration signée par l'auteur de ce cours.
+L'ouverture de chaque cours doit être précédée d'une déclaration signée par l'auteur de ce cours. 
 
 Cette déclaration indique les nom, qualité et domicile du déclarant, les locaux où seront faits les cours, et l'objet ou les
-divers objets de l'enseignement qui y sera donné.
+divers objets de l'enseignement qui y sera donné. 
 
-Elle est remise au recteur dans les départements où est établi le chef-lieu de l'académie, et à l'inspecteur d'académie dans
-les autres départements. Il en est donné immédiatement récépissé.
+Elle est remise au recteur dans les départements où est établi le chef-lieu de l'académie, et à     l'autorité de l'Etat
+compétente en matière d'éducation  dans les autres départements. Il en est donné immédiatement récépissé. 
 
 L'ouverture du cours ne peut avoir lieu que dix jours francs après la délivrance du récépissé. Toute modification aux points
 qui ont fait l'objet de la déclaration primitive doit être portée à la connaissance des autorités désignées à l'alinéa
@@ -25195,13 +25208,15 @@ précédent. Il ne peut être donné suite aux modifications projetées que cinq
 	**Anciens textes**:
 
 	  - Loi n°1875-07-12 du 12 juillet 1875 - art. 3 (Ab)
-	  - Loi n°1875-07-12 art. 3
-	  - Loi n°1880-03-18 art. 6
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -25217,18 +25232,18 @@ précédent. Il ne peut être donné suite aux modifications projetées que cinq
 
 ###### Article L731-4
 
-Les établissements d'enseignement supérieur privés doivent être administrés par trois personnes au moins.
+Les établissements d'enseignement supérieur privés doivent être administrés par trois personnes au moins. 
 
 La déclaration prescrite par l'article L. 731-3 doit être signée par les administrateurs ci-dessus désignés ; elle indique
 leurs noms, qualités et domiciles, le siège et les statuts de l'établissement ainsi que les autres énonciations mentionnées à
 l'article L. 731-3. En cas de décès ou de retraite de l'un des administrateurs, il doit être procédé à son remplacement dans
-un délai de six mois. Avis en est donné au recteur ou à l'inspecteur d'académie.
+un délai de six mois. Avis en est donné à l'autorité mentionnée au troisième alinéa de l'article L. 731-3. 
 
 La liste des professeurs et le programme des cours sont communiqués chaque année aux autorités désignées à l'alinéa
-précédent.
+précédent. 
 
 Indépendamment des cours proprement dits, il peut être fait dans lesdits établissements des conférences spéciales sans qu'il
-soit besoin d'autorisation préalable.
+soit besoin d'autorisation préalable. 
 
 Les autres formalités prescrites par l'article L. 731-3 sont applicables à l'ouverture et à l'administration desdits
 établissements.
@@ -25238,12 +25253,15 @@ Les autres formalités prescrites par l'article L. 731-3 sont applicables à l'o
 	**Anciens textes**:
 
 	  - Loi n°1875-07-12 du 12 juillet 1875 - art. 4 (Ab)
-	  - Loi n°1875-07-12 art. 4
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -25259,7 +25277,7 @@ Les autres formalités prescrites par l'article L. 731-3 sont applicables à l'o
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L731-3 (V)
+	  - Code de l'éducation - art. L731-3
 
 
 ###### Article L731-5
@@ -28680,20 +28698,20 @@ autorisés à enseigner dans un établissement d'enseignement technique privé, 
 ###### Article L914-6
 
 Toute personne attachée à l'enseignement ou à la surveillance d'un établissement d'enseignement privé du premier ou du second
-degré ou d'un établissement d'enseignement supérieur privé peut, sur la plainte de l'inspecteur d'académie, du recteur, du
-représentant de l'Etat dans le département ou du ministère public, être traduit devant le conseil académique de l'éducation
-nationale pour faute grave dans l'exercice de ses fonctions, inconduite ou immoralité ou lorsque son enseignement est
-contraire à la morale et aux lois ou, s'agissant d'un professeur d'un établissement d'enseignement supérieur privé, pour
-désordre grave occasionné ou toléré par lui dans son cours.
+degré ou d'un établissement d'enseignement supérieur privé peut, sur la plainte de l'autorité de l'Etat compétente en matière
+d'éducation, du représentant de l'Etat dans le département ou du ministère public, être traduit devant le conseil académique
+de l'éducation nationale pour faute grave dans l'exercice de ses fonctions, inconduite ou immoralité ou lorsque son
+enseignement est contraire à la morale et aux lois ou, s'agissant d'un professeur d'un établissement d'enseignement supérieur
+privé, pour désordre grave occasionné ou toléré par lui dans son cours. 
 
 Elle peut recevoir un blâme, avec ou sans publicité, ou être interdite de l'exercice de sa profession temporairement ou
 définitivement, sans préjudice des peines encourues pour crimes ou délits prévus par le code pénal et indépendamment des
 poursuites pénales prévues aux articles L. 731-11 et L. 731-12 du présent code. L'enseignant du premier degré privé est
 interdit de l'exercice de sa profession, soit dans la commune où il exerce, soit dans le département, selon la gravité de la
-faute commise.
+faute commise. 
 
 Appel de la décision rendue peut toujours avoir lieu devant le Conseil supérieur de l'éducation. Cet appel n'est pas
-suspensif.
+suspensif. 
 
 Le présent article est également applicable à tout chef d'établissement d'enseignement du second degré privé ou
 d'enseignement technique privé.
@@ -28703,22 +28721,17 @@ d'enseignement technique privé.
 	**Anciens textes**:
 
 	  - Loi n°1875-07-12 du 12 juillet 1875 - art. 22 (Ab)
-	  - Code de l'enseignement technique - art. 72 (Ab)
-	  - Loi n°1850-03-15 art. 68
-	  - Loi n°1875-07-12 art. 22
-	  - Loi n°1886-10-30 art. 41
-	  - Loi n°1919-07-25 art. 30
 	  - Loi n°1850-03-15 du 15 mars 1850 - art. 68 (Ab)
 	  - Loi n°1886-10-30 du 30 octobre 1886 - art. 41 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 78 10° JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -28731,8 +28744,7 @@ d'enseignement technique privé.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L731-11 (V)
-	  - Code de l'éducation - art. L731-12 (V)
+	  - Code de l'éducation - art. L731-11
 
 
 ##### Chapitre VI : Dispositions relatives aux assistants d'éducation.
@@ -33867,21 +33879,26 @@ personnes responsables de l'enfant et celles qui sont chargées de ce contrôle.
 ###### Article R131-2
 
 Le directeur de l'école ou le chef de l'établissement scolaire dans lequel un enfant a été inscrit délivre aux personnes
-responsables de l'enfant, au sens de l'article L. 131-4, un certificat d'inscription.
+responsables de l'enfant, au sens de l'article L. 131-4, un certificat d'inscription. 
 
-Dans le cas où ces personnes ont déclaré au maire et à l'inspecteur d'académie ou son délégué qu'elles feront donner
-l'instruction dans la famille, l'inspecteur d'académie ou son délégué accuse réception de leur déclaration.
+Dans le cas où ces personnes ont déclaré au maire et au directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie ou son délégué qu'elles feront donner l'instruction dans la famille, le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son délégué accuse
+réception de leur déclaration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 2 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -33897,26 +33914,30 @@ l'instruction dans la famille, l'inspecteur d'académie ou son délégué accuse
 
 Chaque année, à la rentrée scolaire, le maire dresse la liste de tous les enfants résidant dans sa commune et qui sont soumis
 à l'obligation scolaire. Sont mentionnés sur la liste les nom, prénoms, date et lieu de naissance de l'enfant, les nom,
-prénoms, domicile, profession des personnes qui en sont responsables.
+prénoms, domicile, profession des personnes qui en sont responsables. 
 
 La liste scolaire est mise à jour le premier de chaque mois. Pour en faciliter l'établissement et la mise à jour, les
 directeurs des écoles ou les chefs des établissements scolaires, publics ou privés, doivent déclarer au maire, dans les huit
 jours qui suivent la rentrée des classes, les enfants fréquentant leur établissement. L'état des mutations sera fourni à la
 mairie à la fin de chaque mois. Les conseillers municipaux, les délégués départementaux de l'éducation nationale, les
-assistants de service social, les membres de l'enseignement, les agents de l'autorité, l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale ou son délégué ont le droit de prendre connaissance et copie, à la mairie,
-de la liste des enfants d'âge scolaire. Les omissions sont signalées au maire, qui en accuse réception.
+assistants de service social, les membres de l'enseignement, les agents de l'autorité,               le directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son délégué ont le droit de prendre
+connaissance et copie, à la mairie, de la liste des enfants d'âge scolaire. Les omissions sont signalées au maire, qui en
+accuse réception.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 3 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -33925,27 +33946,30 @@ de la liste des enfants d'âge scolaire. Les omissions sont signalées au maire,
 
 ###### Article R131-4
 
-Le maire fait connaître sans délai à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
-les manquements à l'obligation d'inscription dans une école ou un établissement d'enseignement ou de déclaration
-d'instruction dans la famille prévue par l'article L. 131-5 pour les enfants soumis à l'obligation scolaire.
+Le maire fait connaître sans délai au directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, les manquements à l'obligation d'inscription dans une école ou un établissement d'enseignement ou de
+déclaration d'instruction dans la famille prévue par l'article L. 131-5 pour les enfants soumis à l'obligation scolaire. 
 
-Sont également habilitées à signaler lesdits manquements à l'inspecteur d'académie les personnes mentionnées au deuxième
-alinéa de l'article R. 131-3.
+Sont également habilitées à signaler lesdits manquements au directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie les personnes mentionnées au deuxième alinéa de l'article R. 131-3.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 4 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-5 (M)
+	  - Code de l'éducation - art. L131-5 (V)
 	  - Code de l'éducation - art. R131-3 (V)
 
 
@@ -33956,30 +33980,33 @@ alinéa de l'article R. 131-3.
 Il est tenu, dans chaque école et établissement scolaire public ou privé, un registre d'appel sur lequel sont mentionnées,
 pour chaque classe, les absences des élèves inscrits. Tout personnel responsable d'une activité organisée pendant le temps
 scolaire signale les élèves absents, selon des modalités arrêtées par le règlement intérieur de l'école ou de
-l'établissement.
+l'établissement. 
 
 Toute absence est immédiatement signalée aux personnes responsables de l'enfant qui doivent sans délai en faire connaître les
-motifs au directeur de l'école ou au chef de l'établissement, conformément à l'article L. 131-8.
+motifs au directeur de l'école ou au chef de l'établissement, conformément à l'article L. 131-8. 
 
 En cas d'absence prévisible, les personnes responsables de l'enfant en informent préalablement le directeur de l'école ou le
 chef de l'établissement et en précisent le motif. S'il y a doute sérieux sur la légitimité du motif, le directeur de l'école
 ou le chef de l'établissement invite les personnes responsables de l'enfant à présenter une demande d'autorisation d'absence
-qu'il transmet à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+qu'il transmet au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 5 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-8 (M)
+	  - Code de l'éducation - art. L131-8 (V)
 
 
 ###### Article R131-6
@@ -34003,25 +34030,33 @@ engage avec les personnes responsables de l'enfant un dialogue sur sa situation.
 
 ###### Article R131-7
 
-Dans les cas prévus aux 1° et 2° de l'article L. 131-8 du code de l'éducation, l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale, saisi du dossier de l'élève par le directeur de l'école ou le chef de
-l'établissement scolaire, adresse aux personnes responsables un avertissement et leur rappelle leurs obligations légales et
-les sanctions pénales auxquelles elles s'exposent. Il peut diligenter une enquête sociale.
+Dans les cas prévus aux 1° et 2° de l'article L. 131-8 du code de l'éducation, le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, saisi du dossier de l'élève par le directeur de l'école
+ou le chef de l'établissement scolaire, adresse aux personnes responsables un avertissement et leur rappelle leurs
+obligations légales et les sanctions pénales auxquelles elles s'exposent. Il peut diligenter une enquête sociale. 
 
-Les personnes responsables de l'enfant sont convoquées pour un entretien avec l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale ou son représentant. Celui-ci peut proposer des mesures de nature pédagogique ou
-éducative pour l'élève.
+Les personnes responsables de l'enfant sont convoquées pour un entretien avec le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant. Celui-ci peut proposer des mesures
+de nature pédagogique ou éducative pour l'élève. 
 
-Lorsque l'inspecteur d'académie constate une situation de nature à justifier la mise en place d'un contrat de responsabilité
-parentale, il saisit le président du conseil général dans les conditions prévues à l'article R. 222-4-2 du code de l'action
-sociale et des familles et en informe le maire de la commune de résidence de l'enfant. Il en informe préalablement les
-parents ou le représentant légal du mineur.
+Lorsque le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie constate
+une situation de nature à justifier la mise en place d'un contrat de responsabilité parentale, il saisit le président du
+conseil général dans les conditions prévues à l'article R. 222-4-2 du code de l'action sociale et des familles et en informe
+le maire de la commune de résidence de l'enfant. Il en informe préalablement les parents ou le représentant légal du mineur. 
 
 S'il constate la poursuite de l'absentéisme de l'enfant, en dépit de l'avertissement prévu au premier alinéa et des mesures
 éventuellement prises en vertu du deuxième alinéa, et s'il n'a pas procédé à la saisine du président du conseil général
-prévue à l'alinéa précédent, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, saisit
-le procureur de la République des faits susceptibles d'être constitutifs de l'infraction prévue à l'article R. 624-7 du code
-pénal. Il informe de cette saisine les personnes responsables de l'enfant.
+prévue à l'alinéa précédent, le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, saisit le procureur de la République des faits susceptibles d'être constitutifs de l'infraction prévue à
+l'article R. 624-7 du code pénal. Il informe de cette saisine les personnes responsables de l'enfant.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
+vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -34031,12 +34066,12 @@ pénal. Il informe de cette saisine les personnes responsables de l'enfant.
 
 	**Modifié par**:
 
-	  - Décret n°2008-139 du 14 février 2008 - art. 2
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-8
-	  - Code de l'action sociale et des familles - art. R222-4-2
+	  - Code de l'éducation - art. L131-8 (V)
+	  - Code de l'action sociale et des familles - art. R222-4-2 (VD)
 
 	**Cité par**:
 
@@ -34047,13 +34082,13 @@ pénal. Il informe de cette saisine les personnes responsables de l'enfant.
 
 ###### Article R131-8
 
-Pour l'application aux élèves relevant de l'enseignement agricole du premier alinéa de l'article R. 131-7, la saisine de
-l'inspecteur d'académie est effectuée par l'intermédiaire, pour la métropole, du         directeur régional de
-l'alimentation, de l'agriculture et de la forêt  et, pour les départements d'outre-mer, du directeur de l'agriculture et de
-la forêt. Pour l'application des dispositions du deuxième alinéa de l'article R. 131-7 aux mêmes élèves, les personnes
-responsables sont convoquées par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  pour la
-métropole et par le directeur de l'agriculture et de la forêt pour les départements d'outre-mer. Ceux-ci peuvent proposer des
-mesures de nature pédagogique ou éducative pour l'élève.
+Pour l'application aux élèves relevant de l'enseignement agricole du premier alinéa de l'article R. 131-7, la saisine du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie est effectuée par
+l'intermédiaire, pour la métropole, du directeur régional de l'alimentation, de l'agriculture et de la forêt et, pour les
+départements d'outre-mer, du directeur de l'agriculture et de la forêt. Pour l'application des dispositions du deuxième
+alinéa de l'article R. 131-7 aux mêmes élèves, les personnes responsables sont convoquées par le directeur régional de
+l'alimentation, de l'agriculture et de la forêt pour la métropole et par le directeur de l'agriculture et de la forêt pour
+les départements d'outre-mer. Ceux-ci peuvent proposer des mesures de nature pédagogique ou éducative pour l'élève.
 
 **Liens relatifs à cet article**
 
@@ -34063,11 +34098,11 @@ mesures de nature pédagogique ou éducative pour l'élève.
 
 	**Modifié par**:
 
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R131-7
+	  - Code de l'éducation - art. R131-7 (VT)
 
 
 ###### Article R131-9
@@ -34075,23 +34110,26 @@ mesures de nature pédagogique ou éducative pour l'élève.
 Lorsqu'un enfant d'âge scolaire est trouvé par un agent de l'autorité publique dans la rue ou dans une salle de spectacles ou
 dans un lieu public, sans motif légitime, pendant les heures de classe, il est conduit immédiatement à l'école ou à
 l'établissement scolaire auquel il est inscrit ou, si la déclaration prescrite à l'article L. 131-5 n'a pas été faite, à
-l'école publique la plus proche. Le directeur de l'école ou le chef de l'établissement scolaire informe, sans délai,
-l'inspecteur d'académie ou son délégué.
+l'école publique la plus proche. Le directeur de l'école ou le chef de l'établissement scolaire informe, sans délai, le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son délégué.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 6 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L131-5 (M)
+	  - Code de l'éducation - art. L131-5 (V)
 
 
 ###### Article R131-10
@@ -34140,32 +34178,33 @@ L. 141-2 et L. 222-4-1 du code de l'action sociale et des familles.
 
 ###### Article R131-10-2
 
-Les catégories de données enregistrées sont les suivantes : 
+Les catégories de données enregistrées sont les suivantes :
 
-1° Nom, prénoms, sexe, date et lieu de naissance et adresse de l'enfant soumis à l'obligation scolaire ; 
+1° Nom, prénoms, sexe, date et lieu de naissance et adresse de l'enfant soumis à l'obligation scolaire ;
 
-2° Nom, prénoms, adresse et profession de la ou les personnes responsables de l'enfant, au sens de l'article L. 131-4 ; 
+2° Nom, prénoms, adresse et profession de la ou les personnes responsables de l'enfant, au sens de l'article L. 131-4 ;
 
-3° Nom, prénom et adresse de l'allocataire des prestations familiales ; 
+3° Nom, prénom et adresse de l'allocataire des prestations familiales ;
 
 4° Nom et adresse de l'établissement d'enseignement public ou privé fréquenté, date d'inscription et date de radiation de
-l'élève ; le cas échéant, date de la déclaration annuelle d'instruction dans la famille ; 
+l'élève ; le cas échéant, date de la déclaration annuelle d'instruction dans la famille ;
 
-5° Mention et date de la saisine de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
-par le directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de l'élève en application de l'article L.
-131-8 ; 
+5° Mention et date de la saisine du directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, par le directeur ou le chef d'établissement d'enseignement pour défaut d'assiduité de l'élève en
+application de l'article L. 131-8 ;
 
-6° Mention et date de notification de l'avertissement adressé par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, aux personnes responsables de l'enfant en application de l'article L. 131-8 ; 
+6° Mention et date de notification de l'avertissement adressé par               le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, aux personnes responsables de l'enfant en application de
+l'article L. 131-8 ;
 
 7° Mention, date et éventuellement durée de la sanction d'exclusion temporaire ou définitive de l'élève prononcée par le chef
 d'établissement ou le conseil de discipline de l'établissement d'enseignement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-139 du 14 février 2008 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -34230,19 +34269,23 @@ besoin d'en connaître :
 - les agents du centre communal d'action sociale, individuellement désignés par son directeur et les agents de la caisse des
 écoles, individuellement désignés par le président du comité de caisse ;
 
-- l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, et son ou ses représentants,
-individuellement désignés ;
+-               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie,
+et son ou ses représentants, individuellement désignés ;
 
 - le président du conseil général, son ou ses représentants individuellement désignés et les agents des services
 départementaux chargés de l'aide et de l'action sociales, individuellement désignés par le président du conseil général ;
 
 - le coordonnateur prévu par l'article L. 121-6-2 du code de l'action sociale et des familles.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-139 du 14 février 2008 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -34324,12 +34367,13 @@ socle commun.
 
 ###### Article R131-17
 
-Tout personnel enseignant ou tout directeur d'un établissement d'enseignement privé qui, malgré un avertissement écrit de
-l'inspecteur d'académie ou de son délégué, ne s'est pas conformé aux dispositions des articles R. 131-2 à R. 131-9 est, à la
-diligence de l'inspecteur d'académie, déféré au conseil académique de l'éducation nationale qui peut prononcer les peines
-suivantes :
+Tout personnel enseignant ou tout directeur d'un établissement d'enseignement privé qui, malgré un avertissement écrit du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou de son délégué,
+ne s'est pas conformé aux dispositions des articles R. 131-2 à R. 131-9 est, à la diligence du directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie, déféré au conseil académique de l'éducation
+nationale qui peut prononcer les peines suivantes : 
 
-a) Le blâme avec ou sans publicité ;
+a) Le blâme avec ou sans publicité ; 
 
 b) En cas de récidive dans l'année scolaire, l'interdiction d'exercer sa profession soit temporairement soit définitivement.
 
@@ -34337,12 +34381,15 @@ b) En cas de récidive dans l'année scolaire, l'interdiction d'exercer sa profe
 
 	**Anciens textes**:
 
-	  - Décret n°66-104 du 18 février 1966 - art. 7 (M)
 	  - Décret n°66-104 du 18 février 1966 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -34350,7 +34397,7 @@ b) En cas de récidive dans l'année scolaire, l'interdiction d'exercer sa profe
 
 	**Cite**:
 
-	  - Code de l'éducation R131-2 à R131-9
+	  - Code de l'éducation - art. R131-2 (V)
 
 
 ##### Sous-section 2 : Sanctions pénales.
@@ -34382,24 +34429,29 @@ d'Etat) du code pénal est passible des sanctions définies dans cette même sec
 
 " Du manquement à l'obligation d'assiduité scolaire. 
 
-" Art.R. 624-7.-Le fait, pour l'un ou l'autre parent d'un enfant soumis à l'obligation scolaire ou pour toute personne
-exerçant à son égard l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par
-l'inspecteur d'académie et mise en oeuvre des procédures définies à l'article R. 131-7 du code de l'éducation, de ne pas
-imposer à l'enfant l'obligation d'assiduité scolaire sans faire connaître de motif légitime ou d'excuse valable ou en donnant
-des motifs d'absence inexacts est puni de l'amende prévue pour les contraventions de la quatrième classe. 
+" Art. R. 624-7.-Le fait, pour l'un ou l'autre parent d'un enfant soumis à l'obligation scolaire ou pour toute personne
+exerçant à son égard l'autorité parentale ou une autorité de fait de façon continue, après avertissement donné par le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie et mise en oeuvre
+des procédures définies à l'article R. 131-7 du code de l'éducation, de ne pas imposer à l'enfant l'obligation d'assiduité
+scolaire sans faire connaître de motif légitime ou d'excuse valable ou en donnant des motifs d'absence inexacts est puni de
+l'amende prévue pour les contraventions de la quatrième classe. 
 
 " Le fait de faciliter, par aide ou assistance, la commission de la contravention prévue au présent article est puni des
-mêmes peines."
+mêmes peines ".
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°2004-703 du 13 juillet 2004
+
 	**Modifié par**:
 
-	  - Décret n°2010-671 du 18 juin 2010 - art. 4
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R131-7 (M)
+	  - Code de l'éducation - art. R131-7 (VT)
 
 	**Cité par**:
 
@@ -34745,23 +34797,23 @@ conditions d'accueil dans les communes comparables du département.
 
 ###### Article R211-2
 
-Dans le cas où l'organisation du service public l'exige, le préfet du département, sur proposition de l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, et après avis du conseil départemental de
-l'éducation nationale, peut mettre en demeure le conseil municipal intéressé de fournir un local convenable affecté au
-fonctionnement de l'école ou de la classe.
+Dans le cas où l'organisation du service public l'exige, le préfet du département, sur proposition du directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie, et après avis du conseil départemental
+de l'éducation nationale, peut mettre en demeure le conseil municipal intéressé de fournir un local convenable affecté au
+fonctionnement de l'école ou de la classe. 
 
 Faute pour la commune d'avoir fourni ce local dans le délai fixé par le préfet, celui-ci décide de la création de l'école ou
 de la classe.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-486 1986-03-14 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R211-3
@@ -34924,10 +34976,10 @@ propriétaire, à l'exclusion des droits et obligations nés des marchés et con
 
 ###### Article D211-9
 
-Le nombre moyen d'élèves accueillis par classe et le nombre des emplois par école sont définis annuellement par l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, compte tenu des orientations générales fixées par
-le ministre chargé de l'éducation, en fonction des caractéristiques des classes, des effectifs et des postes budgétaires qui
-lui sont délégués, et après avis du  comité technique départemental.
+Le nombre moyen d'élèves accueillis par classe et le nombre des emplois par école sont définis annuellement par
+le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, compte tenu des
+orientations générales fixées par le ministre chargé de l'éducation, en fonction des caractéristiques des classes, des
+effectifs et des postes budgétaires qui lui sont délégués, et après avis du comité technique départemental.
 
 **Liens relatifs à cet article**
 
@@ -34937,7 +34989,7 @@ lui sont délégués, et après avis du  comité technique départemental.
 
 	**Modifié par**:
 
-	  - Décret n°2011-184 du 15 février 2011 - art. 55 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Sous-section 2 : Secteurs et districts du second degré.
@@ -34975,29 +35027,31 @@ que d'implantations correspondant à une desserte soit nationale, soit commune �
 
 Les collèges et les lycées accueillent les élèves résidant dans leur zone de desserte.
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, détermine pour chaque rentrée
-scolaire l'effectif maximum d'élèves pouvant être accueillis dans chaque établissement en fonction des installations et des
-moyens dont il dispose.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, détermine pour
+chaque rentrée scolaire l'effectif maximum d'élèves pouvant être accueillis dans chaque établissement en fonction des
+installations et des moyens dont il dispose.
 
 Dans la limite des places restant disponibles après l'inscription des élèves résidant dans la zone normale de desserte d'un
-établissement, des élèves ne résidant pas dans cette zone peuvent y être inscrits sur l'autorisation de l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, dont relève cet établissement.
+établissement, des élèves ne résidant pas dans cette zone peuvent y être inscrits sur l'autorisation du directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie, dont relève cet établissement.
 
-Lorsque les demandes de dérogation excèdent les possibilités d'accueil, l'ordre de priorité de celles-ci est arrêté par
-l'inspecteur d'académie, conformément aux procédures d'affectation en vigueur.
+Lorsque les demandes de dérogation excèdent les possibilités d'accueil, l'ordre de priorité de celles-ci est arrêté par le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, conformément aux
+procédures d'affectation en vigueur.
 
 Toute dérogation concernant un élève résidant dans un département autre que celui où se trouve l'établissement sollicité ne
-peut être accordée qu'après avis favorable de l'inspecteur d'académie du département de résidence.
+peut être accordée qu'après avis favorable du directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie du département de résidence.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°80-11 1980-01-03 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -35793,8 +35847,8 @@ de cette inscription.
 ###### Article R212-23
 
 L'arbitrage du préfet peut être demandé dans les deux mois de la décision contestée soit par le maire de la commune de
-résidence ou le maire de la commune d'accueil, soit par les parents ou les tuteurs légaux. Le préfet statue après avis de
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+résidence ou le maire de la commune d'accueil, soit par les parents ou les tuteurs légaux. Le préfet statue après avis du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
@@ -35804,7 +35858,11 @@ l'inspecteur d'académie, directeur des services départementaux de l'éducation
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Section 2 : Caisse des écoles.
@@ -35936,24 +35994,27 @@ prononce une désignation de plus que le préfet.
 ###### Article R212-28
 
 Pour les caisses des écoles des communes associées mentionnées aux articles L. 2113-14 et L. 2113-17 à L. 2113-20 du code
-général des collectivités territoriales, et des autres communes associées où le conseil municipal a décidé de faire
-application des articles L. 2113-26 et L. 2511-29 du code général des collectivités territoriales, le comité de la caisse
-comprend, dans chacune de ces communes associées :
+général des collectivités territoriales, dans leur rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme
+des collectivités territoriales, et des autres communes associées où le conseil municipal a décidé de faire application des
+articles L. 2113-26, dans sa rédaction antérieure à la même loi, et L. 2511-29 du même code, ou des communes déléguées
+mentionnées à l'article L. 2113-10 du même code, dans sa rédaction issue de la même loi, le comité de la caisse comprend,
+dans chacune de ces communes associées ou déléguées : 
 
-a) Des représentants de la commune ;
+a) Des représentants de la commune ; 
 
-b) Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ;
+b) Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ; 
 
-c) Des membres de droit et des personnalités désignées.
+c) Des membres de droit et des personnalités désignées. 
 
 Le nombre des membres de chacune des trois catégories prévues ci-dessus est égal au tiers du nombre des membres du conseil
 consultatif ou de la commission consultative sans toutefois pourvoir excéder dix. Lorsque ce tiers n'est pas un nombre
-entier, le nombre des membres est porté au nombre entier supérieur.
+entier, le nombre des membres est porté au nombre entier supérieur. 
 
 Les représentants de la commune sont le maire délégué, président, et les membres du conseil consultatif ou de la commission
-consultative désignés par celui-ci.
+consultative désignés par celui-ci. 
 
-Sont membres de droit les inspecteurs de l'éducation nationale chargés de l'inspection des écoles de la commune associée.
+Sont membres de droit les inspecteurs de l'éducation nationale chargés de l'inspection des écoles de la commune associée ou
+de la commune déléguée. 
 
 Les personnalités désignées sont choisies pour moitié par le maire délégué et pour moitié par le préfet du département.
 Toutefois, lorsque le nombre de personnalités à désigner est un nombre impair, le maire délégué prononce une désignation de
@@ -35963,21 +36024,25 @@ plus que le préfet.
 
 	**Anciens textes**:
 
-	  - Décret n°60-977 1960-09-12 art. 2, alinéas 18 à 26
-	  - Décret n°60-977 du 12 septembre 1960 - art. 2 (M)
 	  - Décret n°60-977 du 12 septembre 1960 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Cite**:
 
+	  - Loi n°2010-1563 du 16 décembre 2010 (V)
+	  - Code général des collectivités territoriales - art. L2113-10 (V)
 	  - Code général des collectivités territoriales - art. L2113-14 (V)
-	  - Code général des collectivités territoriales - art. L2113-26 (V)
+	  - Code général des collectivités territoriales - art. L2113-17 (V)
+	  - Code général des collectivités territoriales - art. L2113-26 (Ab)
 	  - Code général des collectivités territoriales - art. L2511-29 (V)
-	  - Code général des collectivités territoriales L2113-14, L2113-17 à L2113-20, L2113-26, L2511-29
 	  - Code de l'éducation - art. R212-29 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-124 du 30 janvier 2012 - art. 2
 
 
 ###### Article R212-29
@@ -36092,50 +36157,57 @@ Les règles budgétaires et comptables applicables aux caisses des écoles sont 
 
 Un conseil consultatif de réussite éducative est institué par délibération du comité de la caisse dans les caisses des écoles
 ayant décidé d'étendre leurs compétences, en application du deuxième alinéa de l'article L. 212-10, à des actions à caractère
-éducatif, culturel, social et sanitaire en faveur des enfants relevant de l'enseignement du premier et du second degrés.
+éducatif, culturel, social et sanitaire en faveur des enfants relevant de l'enseignement du premier et du second degrés. 
 
-Le conseil consultatif de réussite éducative comprend :
+Le conseil consultatif de réussite éducative comprend : 
 
-1° Le maire, président, ou son représentant ;
+1° Le maire, président, ou son représentant ; 
 
-2° Le président du conseil général ou son représentant ;
+2° Le président du conseil général ou son représentant ; 
 
-3° L'inspecteur d'académie ou son représentant ;
+3° Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son
+représentant ; 
 
-4° Deux représentants de l'Etat désignés par le préfet de département ;
+4° Deux représentants de l'Etat désignés par le préfet de département ; 
 
-5° Un médecin désigné par le directeur départemental des affaires sanitaires et sociales ;
+5° Un médecin désigné par le directeur départemental des affaires sanitaires et sociales ; 
 
-6° Le président de la caisse d'allocations familiales ou son représentant ;
+6° Le président de la caisse d'allocations familiales ou son représentant ; 
 
-7° Un directeur d'école de la commune ou de l'une des communes concernées désigné par l'inspecteur d'académie ;
+7° Un directeur d'école de la commune ou de l'une des communes concernées désigné par le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-8° Un chef d'établissement ou, à défaut, un enseignant désigné par l'inspecteur d'académie ;
+8° Un chef d'établissement ou, à défaut, un enseignant désigné par le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie ; 
 
-9° Un représentant des parents d'élèves siégeant au conseil d'école d'une école de la commune désigné par l'inspecteur
-d'académie ;
+9° Un représentant des parents d'élèves siégeant au conseil d'école d'une école de la commune désigné par le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 10° Un représentant des parents d'élèves siégeant au conseil d'administration d'un établissement public local d'enseignement,
-désigné par l'inspecteur d'académie ;
+désigné par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 11° A leur demande, un représentant des associations oeuvrant dans les domaines éducatif, périscolaire, culturel, sportif,
-social ou sanitaire, désigné par le maire ou le président de l'établissement de coopération intercommunal.
+social ou sanitaire, désigné par le maire ou le président de l'établissement de coopération intercommunal. 
 
 La région, à sa demande, est associée aux travaux du conseil consultatif de réussite éducative.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2005-637 du 30 mai 2005 - art. 1 () JORF 1er juin 2005
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L212-10 (M)
+	  - Code de l'éducation - art. L212-10 (V)
 
 
 ###### Article R212-33-2
@@ -36948,23 +37020,24 @@ Les frais de déplacement exposés par les étudiants handicapés sont pris en c
 
 L'harmonisation géographique des temps scolaires étant un facteur déterminant pour l'organisation, la mise en oeuvre et la
 qualité des transports scolaires, le département, compétent en matière d'organisation et de financement du transport
-scolaire, est consulté par écrit :
+scolaire, est consulté par écrit : 
 
 1° Par le recteur d'académie, sur les modifications de la structure pédagogique générale des établissements du second degré
-susceptibles d'entraîner des évolutions dans l'organisation des transports scolaires ;
+susceptibles d'entraîner des évolutions dans l'organisation des transports scolaires ; 
 
 2° Par le recteur d'académie, sur les modifications du calendrier scolaire régies par les dispositions du décret du 14 mars
 1990 relatif aux conditions dans lesquelles le calendrier scolaire peut être adapté pour tenir compte de situations locales,
-ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, lorsqu'il a reçu délégation
-de signature pour procéder à ces modifications ;
+ou par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, lorsqu'il a reçu délégation de signature pour procéder à ces modifications ; 
 
-3° Par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur :
+3° Par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, sur : 
 
 a) Les projets de création ou de suppression d'écoles, de regroupements pédagogiques intercommunaux ou d'établissements du
-second degré ;
+second degré ; 
 
 b) Les projets d'aménagement du temps scolaire ou de modification des horaires d'entrée et de sortie des écoles maternelles
-et élémentaires ;
+et élémentaires ; 
 
 4° Par les chefs d'établissement, sur les projets d'aménagement du temps scolaire relevant de l'autonomie de l'établissement
 public local d'enseignement qui ont une incidence sur l'organisation des transports scolaires.
@@ -36973,11 +37046,11 @@ public local d'enseignement qui ont une incidence sur l'organisation des transpo
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 art. 4 1° JORF 24 mai 2006
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -38115,24 +38188,28 @@ Le siège du rectorat et de la chancellerie est fixé :
 Dans les académies de La Réunion, de la Martinique, de la Guadeloupe et de la Guyane, le recteur exerce les fonctions de
 directeur des services départementaux de l'éducation.
 
-Dans l'académie de La Réunion, le recteur est assisté par un adjoint, inspecteur d'académie, auquel il peut déléguer sa
-signature dans les domaines relatifs aux écoles, aux collèges ou aux lycées.
+Dans l'académie de La Réunion, le recteur est assisté par un adjoint, directeur académique adjoint des services de
+l'éducation nationale, auquel il peut déléguer sa signature dans les domaines relatifs aux écoles, aux collèges ou aux
+lycées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°84-998 1984-11-13 art. 10
 	  - Décret n°96-1147 du 26 décembre 1996 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Cité par**:
 
 	  - Arrêté du 1er décembre 2011 - art. 10 (V)
 	  - Code de l'éducation - art. R222-19-1 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Sous-section 4 : Dispositions communes.
@@ -38156,29 +38233,28 @@ Le territoire de chaque académie comprend les secteurs et districts du second d
 ###### Article R222-12
 
 Par décision du recteur d'académie, les inspecteurs de l'éducation nationale peuvent notamment être chargés d'une
-circonscription d'enseignement du premier degré ou exercer des fonctions de conseil auprès de l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale, dans les domaines des enseignements primaire, technique,
-professionnel et de l'apprentissage, de l'information et de l'orientation, de l'adaptation, de l'intégration et de la
-psychologie scolaires.
+circonscription d'enseignement du premier degré ou exercer des fonctions de conseil auprès du directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie, dans les domaines des enseignements
+primaire, technique, professionnel et de l'apprentissage, de l'information et de l'orientation, de l'adaptation, de
+l'intégration et de la psychologie scolaires.
 
 Lorsqu'ils sont chargés d'une circonscription du premier degré, les inspecteurs de l'éducation nationale, sous l'autorité des
-inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, ont compétence sur les écoles
-publiques et privées sous contrat du premier degré et leurs personnels.
+directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie, ont compétence
+sur les écoles publiques et privées sous contrat du premier degré et leurs personnels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-675 1990-07-18 art. 2, alinéas 9 et 10
 	  - Décret n°90-675 du 18 juillet 1990 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Modifié par**:
 
-	  - Décret n°2006-583 2006-05-23 art. 4 5° JORF 24 mai 2006
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Section 2 : Autorités administratives déconcentrées
@@ -38187,37 +38263,40 @@ publiques et privées sous contrat du premier degré et leurs personnels.
 
 ###### Article D222-20
 
-Le recteur est autorisé à déléguer sa signature :
+Le recteur est autorisé à déléguer sa signature au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de
+celui-ci, à l'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche chargé des fonctions
+d'adjoint au secrétaire général d'académie et aux chefs de division du rectorat, dans la limite de leurs attributions. 
 
-a) Au secrétaire général de l'académie et, en cas d'absence ou d'empêchement de celui-ci, à l'administrateur de l'éducation
-nationale, de l'enseignement supérieur et de la recherche chargé des fonctions d'adjoint au secrétaire général d'académie, et
-aux chefs de division du rectorat dans la limite de leurs attributions ;
+Les directeurs académiques des services de l'éducation nationale peuvent donner délégation pour signer tous actes relatifs
+aux affaires pour lesquelles ils ont eux-mêmes reçu délégation en application de l'article R. 222-19-3 : 
 
-b) Aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et, en cas d'absence ou
-d'empêchement de ceux-ci, aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique ou au chef
-des services administratifs de l'inspection académique.
+a) Aux directeurs académiques adjoints des services de l'éducation nationale, à l'administrateur de l'éducation nationale, de
+l'enseignement supérieur et de la recherche chargé des fonctions de secrétaire général du service départemental de
+l'éducation nationale ou au chef des services administratifs de ce même service ; 
 
-Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, dans le cadre des délégations de
-pouvoir qui leur sont conférées, sont autorisés à déléguer leur signature :
+b) Aux inspecteurs de l'éducation nationale qui sont leurs adjoints. 
 
-a) Aux inspecteurs d'académie adjoints et au secrétaire général de l'inspection académique ou au chef des services
-administratifs de l'inspection académique ;
-
-b) Aux inspecteurs de l'éducation nationale adjoints aux inspecteurs d'académie.
-
-Ces délégations fixent les actes et les corps des fonctionnaires auxquels elles s'appliquent.
+Les délégations mentionnées aux alinéas précédents fixent les actes pour lesquels elles ont été accordées. Elles entrent en
+vigueur le lendemain du jour de leur publication au recueil des actes administratifs de la préfecture de région, pour ce qui
+concerne les délégations consenties par le recteur, ou de la préfecture de département, pour ce qui concerne les délégations
+consenties par le directeur académique des services de l'éducation nationale, et peuvent être abrogées à tout moment. Elles
+prennent fin en même temps que les fonctions de celui qui les a données ou en même temps que les fonctions de celui qui les a
+reçues.
 
 **Liens relatifs à cet article**
 
 	**Cité par**:
 
 	  - Décret n°64-1022 du 29 septembre 1964 - art. 17 (Ab)
-	  - Code de l'éducation - art. R222-19-3 (VD)
 	  - Code de l'éducation - art. R931-2 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2008-1518 du 30 décembre 2008 - art. 2
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R222-19-3
 
 
 ###### Article D222-21
@@ -38250,12 +38329,13 @@ pour les questions communes aux enseignements secondaires et supérieurs :
 
 Pour les questions relatives aux écoles, aux collèges, aux lycées et aux établissements d'éducation spéciale, à la formation
 et à la gestion des personnels affectés aux enseignements qui y sont dispensés, ainsi qu'à la formation continue des adultes,
-le recteur de l'académie de Paris peut déléguer sa signature :
+le recteur de l'académie de Paris peut déléguer sa signature : 
 
-1° Au directeur de l'académie de Paris ;
+1° Au directeur de l'académie de Paris ; 
 
-2° Pour les affaires relevant de leurs compétences, aux inspecteurs d'académie, directeurs des services départementaux de
-l'éducation qui assistent le directeur de l'académie de Paris, en cas d'absence ou d'empêchement de ce dernier.
+2° Pour les affaires relevant de leurs compétences, aux directeurs académiques des services de l'éducation nationale agissant
+sur délégation du recteur d'académie qui assistent le directeur de l'académie de Paris, en cas d'absence ou d'empêchement de
+ce dernier. 
 
 3° Au secrétaire général de l'enseignement scolaire, en cas d'absence ou d'empêchement du directeur de l'académie de Paris.
 
@@ -38263,7 +38343,11 @@ l'éducation qui assistent le directeur de l'académie de Paris, en cas d'absenc
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -38272,7 +38356,6 @@ l'éducation qui assistent le directeur de l'académie de Paris, en cas d'absenc
 	**Anciens textes**:
 
 	  - Décret n°71-1023 du 22 décembre 1971 - art. 6 (Ab)
-	  - Décret n°71-1023 1971-12-22 art. 6, paragraphe II pour les délégations de signature
 
 
 ###### Article D222-23
@@ -38390,29 +38473,6 @@ président du conseil d'administration des établissements publics qui leur sont
 	  - Code de l'éducation - art. D222-15 (M)
 
 
-###### Article R*222-16
-
-Le recteur de l'académie de Paris exerce les fonctions de directeur des services départementaux de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-701 du 13 juillet 2004
-
-	**Cité par**:
-
-	  - Arrêté du 1er décembre 2011 - art. 15 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
-
-	**Anciens textes**:
-
-	  - Décret n°71-1023 du 22 décembre 1971 - art. 5 (Ab)
-
-
 ###### Article R*222-17
 
 Pour les questions relatives aux enseignements supérieurs et pour les questions communes aux enseignements secondaires et
@@ -38445,10 +38505,10 @@ est chargé de l'administration de l'académie pour les questions mentionnées �
 Pour les questions relatives aux écoles, aux collèges, aux lycées et aux établissements d'éducation spéciale, à la formation
 et à la gestion des personnels affectés aux enseignements qui y sont dispensés, ainsi qu'à la formation continue des adultes,
 le recteur de l'académie de Paris est assisté par un adjoint, nommé par décret du Président de la République, qui prend le
-titre de directeur de l'académie de Paris.
+titre de directeur de l'académie de Paris et exerce les fonctions de directeur des services départementaux de l'éducation
+nationale.
 
-Le directeur de l'académie de Paris est lui-même assisté d'inspecteurs d'académie, directeurs des services départementaux de
-l'éducation.
+Le directeur de l'académie de Paris est lui-même assisté de directeurs académiques des services de l'éducation nationale.
 
 Sous l'autorité du recteur, un secrétaire général d'académie, qui prend le titre de secrétaire général de l'enseignement
 scolaire, est chargé de l'administration de l'académie pour les questions mentionnées au premier alinéa du présent article.
@@ -38457,7 +38517,7 @@ scolaire, est chargé de l'administration de l'académie pour les questions ment
 
 	**Codifié par**:
 
-	  - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
+	  - Décret n°2004-701 du 13 juillet 2004
 
 	**Cité par**:
 
@@ -38465,40 +38525,30 @@ scolaire, est chargé de l'administration de l'académie pour les questions ment
 	  - Code de l'éducation - art. R222-19 (V)
 	  - Code de l'éducation - art. R222-19-2 (VD)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°71-1023 1971-12-22 art. 6, paragraphe II, sans les délégations de signature
-	  - Décret n°71-1023 du 22 décembre 1971 - art. 6 (Ab)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
 
 
-###### Article R222-19
+###### Article R*222-19
 
-Sous l'autorité du recteur, le secrétaire général d'académie est chargé de l'administration de l'académie. En cas d'absence
-ou d'empêchement, il supplée le recteur.
-
-En cas de vacance momentanée du poste de recteur, le secrétaire général d'académie assure l'intérim. Toutefois, l'intérim du
-recteur de l'académie de Paris est assuré par le vice-chancelier des universités de Paris pour les questions mentionnées à
-l'article R.* 222-17 et par le directeur de l'académie de Paris pour les questions mentionnées à l'article R.* 222-18.
+Le recteur arrête, conformément aux orientations ministérielles, l'organisation fonctionnelle et territoriale de l'académie
+ainsi que les attributions des services de l'académie et des services départementaux de l'éducation nationale placés sous son
+autorité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°86-970 du 19 août 1986 - art. 1 (M)
 	  - Décret n°86-970 du 19 août 1986 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Modifié par**:
 
-	  - Décret n°2007-1540 du 26 octobre 2007 - art. 1 () JORF 28 octobre 2007
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R*222-17 (V)
-	  - Code de l'éducation - art. R*222-18 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
 
 	**Cité par**:
 
@@ -38506,28 +38556,175 @@ l'article R.* 222-17 et par le directeur de l'académie de Paris pour les questi
 	  - Code de l'éducation - art. R222-24 (VD)
 
 
-##### Sous-section 2 : L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+###### Article R222-19-1
+
+Le recteur et ses adjoints constituent le comité de direction de l'académie. Outre le recteur, celui-ci comprend : 
+
+1° Pour les académies autres que celles de Paris et d'outre-mer, le secrétaire général d'académie et les directeurs
+académiques des services de l'éducation nationale ; 
+
+2° Pour l'académie de Paris, les adjoints du recteur mentionnés aux articles R. * 222-17 et R. * 222-18 ; 
+
+3° Pour les académies d'outre-mer, le secrétaire général d'académie ainsi que, à La Réunion, l'adjoint du recteur mentionné à
+l'article R. 222-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R*222-17
+	  - Code de l'éducation - art. R222-10
+
+
+###### Article R222-19-2
+
+Sous l'autorité du recteur, le secrétaire général d'académie est chargé de l'administration de l'académie. Il supplée le
+recteur en cas d'absence ou d'empêchement de celui-ci. 
+
+En cas de vacance momentanée du poste de recteur, le secrétaire général d'académie assure l'intérim. Toutefois, l'intérim du
+recteur de l'académie de Paris est assuré par le vice-chancelier des universités de Paris pour les questions mentionnées à
+l'article R. * 222-17 et par le directeur de l'académie de Paris pour les questions mentionnées à l'article R. * 222-18.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R*222-17
+	  - Code de l'éducation - art. R*222-18
+
+
+###### Article R222-19-3
+
+A compter du jour suivant la publication au Journal officiel de la République française de l'acte les nommant dans leurs
+fonctions ou à compter du jour où cet acte prend effet si ce jour est postérieur, les directeurs académiques des services de
+l'éducation nationale peuvent signer, au nom du recteur et par délégation, l'ensemble des actes relatifs aux affaires des
+services placés sous leur autorité se rapportant à la mise en œuvre de la politique éducative relative aux enseignements
+primaires et secondaires ainsi qu'aux établissements qui les dispensent et aux personnels qui y sont affectés. 
+
+Cette délégation s'exerce sous l'autorité du recteur d'académie, qui peut y mettre fin à tout moment, totalement ou
+partiellement, par arrêté publié au recueil des actes administratifs de la préfecture de région, notamment pour prendre en
+compte l'organisation fonctionnelle et territoriale définie en application de l'article R. * 222-19. Cet arrêté met fin de
+plein droit, pour les délégations concernées, à celles consenties par le directeur académique des services de l'éducation
+nationale sur le fondement des deuxième à quatrième alinéas de l'article D. 222-20. 
+
+Sous réserve des dispositions de l'alinéa précédent, le changement de recteur ne met pas fin à cette délégation. 
+
+Les agents désignés par le recteur pour assurer la suppléance ou l'intérim des directeurs académiques des services de
+l'éducation nationale disposent de la même délégation dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-403 du 22 avril 1960 - art. 4-6 (Ab)
+	  - Décret n°70-738 du 12 août 1970 - art. 10-1-7 (Ab)
+	  - Décret n°72-580 du 4 juillet 1972 - art. 7-7 (Ab)
+	  - Décret n°72-581 du 4 juillet 1972 - art. 30-7 (VD)
+	  - Décret n°72-583 du 4 juillet 1972 - art. 3-6 (Ab)
+	  - Décret n°80-627 du 4 août 1980 - art. 9-7 (VD)
+	  - Décret n°90-680 du 1 août 1990 - art. 23-7 (MMN)
+	  - Décret n°91-290 du 20 mars 1991 - art. 10-7 (MMN)
+	  - Décret n°92-1189 du 6 novembre 1992 - art. 20-7 (VD)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 6 (V)
+	  - Code de l'éducation - art. D222-20 (V)
+	  - Code de l'éducation - art. R222-24-1 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R*222-19
+
+
+##### Sous-section 2 : Le directeur académique des services de l'éducation nationale.
 
 ###### Article R222-24
 
-Les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et les inspecteurs d'académie
-adjoints sont nommés par décret du Président de la République pris sur proposition du ministre chargé de l'éducation. Ils
-sont chargés d'animer et de mettre en oeuvre dans le département la politique éducative du ministre chargé de l'éducation.
+Les directeurs académiques des services de l'éducation nationale et les directeurs académiques adjoints des services de
+l'éducation nationale sont nommés par décret du Président de la République pris sur proposition du ministre chargé de
+l'éducation. 
+
+Sauf dans les académies de Paris et d'outre-mer, les directeurs académiques des services de l'éducation nationale sont les
+directeurs des services départementaux de l'éducation nationale du département dans lequel ils sont nommés. Ils représentent
+le recteur dans ce département. Ils participent à la définition d'ensemble de la stratégie académique qui met en œuvre la
+politique éducative et pédagogique relative aux enseignements primaires et secondaires arrêtée par le ministre chargé de
+l'éducation. Sous l'autorité du recteur, ils mettent en œuvre la stratégie académique organisant l'action éducatrice dans les
+écoles, les collèges, les lycées et les établissements d'éducation spéciale de leur département. 
+
+Dans le cadre de l'organisation fonctionnelle et territoriale arrêtée par le recteur en application de l'article R. * 222-19,
+les directeurs académiques des services de l'éducation nationale ont autorité sur les services départementaux de l'éducation
+nationale chargés de la mise en œuvre de l'action éducatrice et de la gestion des personnels et des établissements qui y
+concourent. Ils peuvent se voir confier la responsabilité des services interdépartementaux ou en charge de la mutualisation
+mentionnés aux articles R. 222-36-2 et R. 222-36-3. 
+
+Ils sont assistés par les directeurs académiques adjoints des services de l'éducation nationale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-676 1990-07-18 art. 1
 	  - Décret n°90-676 du 18 juillet 1990 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2016-1413 du 20 octobre 2016 - art. 8 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R*222-19
+	  - Code de l'éducation - art. R222-36-2 (V)
+
+
+###### Article R222-24-1
+
+I. ― Le directeur académique des services de l'éducation nationale, agissant par délégation du recteur d'académie dans les
+conditions prévues à l'article R. 222-19-3, est l'autorité compétente de l'Etat en matière d'éducation pour l'application des
+articles L. 131-5 à L. 131-10, L. 351-3, L. 441-2 et L. 441-3, L. 441-7, L. 442-2 et L. 731-3 du code de l'éducation ainsi
+que des articles 227-17-1 du code pénal, L. 811-10 du code rural et de la pêche maritime, L. 552-3-1 du code de la sécurité
+sociale et L. 141-2 et L. 222-4-1 du code de l'action sociale et des familles. 
+
+II. ― Pour l'application de l'article L. 914-6 du code de l'éducation, l'autorité compétente en matière d'éducation est le
+recteur d'académie ou le directeur académique des services de l'éducation nationale, agissant par délégation du recteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 2
+
+	**Cite**:
+
+	  - Code pénal - art. 227-17-1
+	  - Code de l'éducation - art. L131-5
+	  - Code de l'éducation - art. L351-3
+	  - Code de l'éducation - art. L441-2
+	  - Code de l'éducation - art. L441-7
+	  - Code de l'éducation - art. L442-2
+	  - Code de l'éducation - art. L731-3
+	  - Code de l'éducation - art. L914-6
+	  - Code de l'éducation - art. R222-19-3
+	  - Code rural - art. L811-10
+	  - Code de la sécurité sociale. - art. L552-3-1
+	  - Code de l'action sociale et des familles - art. L141-2
+	  - Code de l'action sociale et des familles - art. L222-4-1
 
 
 ##### Section 3 : Compétences
@@ -38565,34 +38762,6 @@ l'académie. Il prend à cet effet toutes décisions utiles.
 
 	  - Code de l'éducation - art. D222-28 (VT)
 	  - Code de l'éducation - art. R931-2 (V)
-
-
-###### Article D222-28
-
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, peut être, dans les mêmes
-conditions, également habilité à prononcer des décisions dans les domaines de compétence définis au premier alinéa de
-l'article D. 222-27 autres que celui de l'aide aux étudiants.
-
-Des arrêtés du ministre chargé de l'éducation fixent les modalités et les dates d'effet des mesures de déconcentration qui
-interviennent à ce titre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°62-35 1962-01-16 art. 1, alinéas 2 et 3
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 3
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D222-27
 
 
 ###### Article D222-31
@@ -38667,26 +38836,11 @@ sont assurées par le service interacadémique des examens et concours.
 
 ###### Article R*222-25
 
-Sous réserve des attributions dévolues au préfet de région en ce qui concerne les investissements des services de l'Etat dans
-la région, le recteur, pour l'exercice des missions relatives au contenu et à l'organisation de l'action éducatrice ainsi
-qu'à la gestion des personnels et des établissements qui y concourent, prend les décisions dans les matières entrant dans le
-champ de compétences du ministre chargé de l'éducation et du ministre chargé de l'enseignement supérieur exercées à l'échelon
-de l'académie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-701 2004-07-13 JORF 17 juillet 2004
-
-
-###### Article R*222-26
-
-Sous réserve des attributions dévolues au préfet en ce qui concerne les investissements des services de l'Etat dans le
-département, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, pour l'exercice des
+Sous réserve des attributions dévolues au préfet de région et au préfet de département, le recteur, pour l'exercice des
 missions relatives au contenu et à l'organisation de l'action éducatrice ainsi qu'à la gestion des personnels et des
 établissements qui y concourent, prend les décisions dans les matières entrant dans le champ de compétences du ministre
-chargé de l'éducation exercées à l'échelon du département.
+chargé de l'éducation et du ministre chargé de l'enseignement supérieur exercées à l'échelon de l'académie et des services
+départementaux de l'éducation nationale.
 
 **Liens relatifs à cet article**
 
@@ -38694,7 +38848,7 @@ chargé de l'éducation exercées à l'échelon du département.
 
 	  - Décret n°2004-701 du 13 juillet 2004
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°2012-16 du 5 janvier 2012 - art. 3
 
@@ -38818,6 +38972,93 @@ cause la responsabilité des services déconcentrés.
 	**Modifié par**:
 
 	  - Décret n°2007-1346 du 12 septembre 2007 - art. 1 () JORF 14 septembre 2007
+
+
+##### Sous-Section 3 : Services en charge de la mutualisation et services interdépartementaux
+
+###### Article R222-36-1
+
+En conformité avec les orientations ministérielles et en cohérence avec les orientations des schémas organisant la
+mutualisation des moyens entre services de l'Etat dans la région et dans le département mentionnés à l'article 23-1 du décret
+n° 2004-374 du 29 avril 2004 relatif aux pouvoirs des préfets, à l'organisation et à l'action des services de l'Etat dans les
+régions et départements, le recteur d'académie arrête un schéma organisant la mutualisation des moyens entre les services de
+l'académie et les services départementaux de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 23-1
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 4
+
+
+###### Article R222-36-2
+
+Sous réserve des attributions des services interacadémiques, le recteur d'académie peut, par arrêté, charger un service de
+l'académie ou un service départemental de l'éducation nationale, le cas échéant, pour l'ensemble de l'académie, de missions
+d'étude, d'expertise, de gestion, y compris des personnels, d'appui technique à la maîtrise d'ouvrage, de la préparation
+d'actes administratifs ou du contrôle du budget et des actes des établissements publics locaux d'enseignement prévu aux
+articles L. 421-11, L. 421-12 et au II de l'article L. 421-14. 
+
+L'arrêté rectoral fixe la compétence matérielle et l'étendue de la compétence territoriale de ce service en charge de la
+mutualisation et désigne son responsable. 
+
+Le recteur peut désigner comme responsable de ce service le secrétaire général de l'académie ou l'adjoint de ce dernier ou un
+directeur académique des services de l'éducation nationale. 
+
+Le responsable et les personnels du service en charge de la mutualisation sont placés sous l'autorité hiérarchique du recteur
+et sous l'autorité fonctionnelle de chacun des directeurs académiques des services de l'éducation nationale pour lesquels ils
+exercent leurs missions. 
+
+A ce titre, le recteur et chacun des directeurs académiques des services de l'éducation nationale concernés peuvent déléguer
+leur signature à ce responsable ainsi qu'à ses subordonnés dans les matières relevant de leurs attributions. Ces délégations
+fixent les actes pour lesquels elles ont été accordées. Elles entrent en vigueur le lendemain du jour de leur publication au
+recueil des actes administratifs de la préfecture de région, en ce qui concerne la délégation consentie par le recteur, ou de
+la préfecture de département, en ce qui concerne la délégation donnée par un directeur académique des services de l'éducation
+nationale, et peuvent être abrogées à tout moment. Elles prennent fin en même temps que les fonctions de celui qui les a
+données ou en même temps que les fonctions de celui qui les a reçues.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-899 du 21 août 1985 - art. 6 (Ab)
+	  - Code de l'éducation - art. R222-24 (V)
+	  - Code de l'éducation - art. R911-88 (V)
+	  - Code de l'éducation - art. R914-6 (V)
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11
+	  - Code de l'éducation - art. L421-14 (V)
+
+
+###### Article R222-36-3
+
+Pour la conduite durable d'actions communes à plusieurs services départementaux de l'éducation nationale, le recteur peut
+créer, par arrêté, un service interdépartemental.
+
+L'arrêté instituant ce service fixe ses attributions, les moyens mis à sa disposition et les modalités d'évaluation de son
+action. Cet arrêté en désigne le responsable, qui reçoit délégation de signature, parmi les directeurs académiques des
+services de l'éducation nationale entrant dans son champ de compétence territoriale. Le responsable du service a autorité
+fonctionnelle sur les services intéressés, dans la limite des attributions du service interdépartemental. Cette délégation
+fixe les actes pour lesquels elle a été accordée. Elle entre en vigueur le lendemain du jour de sa publication au recueil des
+actes administratifs de la préfecture de région et de la préfecture de chacun des départements entrant dans le champ de
+compétence territoriale du service et peut être abrogée à tout moment. Elle prend fin en même temps que les fonctions de
+celui qui l'a donnée ou en même temps que les fonctions de celui qui l'a reçue.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 4
 
 
 ##### Section 4 : Médiateurs.
@@ -40022,30 +40263,37 @@ laquelle cette personne est actuellement domiciliée.
 
 Si la demande a été formée par une personne appartenant ou ayant appartenu à l'enseignement du premier degré, le ministre en
 transmet, dans le même délai, la copie au préfet dans le département duquel cette personne est actuellement domiciliée. Le
-préfet fait parvenir cette pièce à l'inspecteur d'académie dans le délai de huit jours.
+préfet fait parvenir cette pièce au     directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie dans le délai de huit jours.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1909-02-24 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-856 du 13 juillet 2015 - art. 1
 
 
 ###### Article R231-29
 
-Par les soins du recteur ou de l'inspecteur d'académie suivant les cas, une enquête est ouverte, dans un délai de quinze
-jours, sur la conduite et les moyens d'existence du postulant dans les diverses communes où il a résidé.
+Par les soins du recteur ou du     directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie suivant les cas, une enquête est ouverte, dans un délai de quinze jours, sur la conduite et les moyens
+d'existence du postulant dans les diverses communes où il a résidé. 
 
-Si une ou plusieurs de ces communes sont situées hors de leur ressort, ces fonctionnaires invitent le recteur ou l'inspecteur
-d'académie dans le ressort desquels cette commune ou ces communes sont comprises à procéder à l'enquête.
+Si une ou plusieurs de ces communes sont situées hors de leur ressort, ces fonctionnaires invitent le recteur ou     le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie dans le ressort
+desquels cette commune ou ces communes sont comprises à procéder à l'enquête. 
 
-Le recteur ou l'inspecteur d'académie par les soins duquel se fait l'enquête peut s'adresser, pour obtenir les renseignements
-qui lui paraîtraient utiles, aux maires et autres autorités administratives, qui doivent lui transmettre ces renseignements
-dans le plus bref délai.
+Le recteur ou     le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie
+par les soins duquel se fait l'enquête peut s'adresser, pour obtenir les renseignements qui lui paraîtraient utiles, aux
+maires et autres autorités administratives, qui doivent lui transmettre ces renseignements dans le plus bref délai. 
 
 Dès que l'enquête est terminée, le recteur ou le préfet, suivant les cas, saisit le conseil académique de l'éducation
 nationale ; celui-ci donne, dans sa plus prochaine session, son avis motivé, qui est transmis dans les cinq jours au ministre
@@ -40053,13 +40301,17 @@ chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1909-02-24 art. 3
-
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-856 du 13 juillet 2015 - art. 1
 
 
 ###### Article R231-30
@@ -42743,22 +42995,27 @@ départements d'outre-mer, sous réserve des dispositions de la présente sous-s
 
 Le conseil de l'éducation nationale, selon que les questions soumises à délibération sont de la compétence de l'Etat, de la
 région ou du département, est présidé par le préfet de région, par le président du conseil régional ou par le président du
-conseil général.
+conseil général. 
 
-Les présidents des conseils de l'éducation nationale sont suppléés dans les conditions ci-après :
+Les présidents des conseils de l'éducation nationale sont suppléés dans les conditions ci-après : 
 
 1° En cas d'empêchement du préfet de région, le conseil est présidé par le recteur d'académie ou, en cas d'empêchement de ce
-dernier, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. Lorsque les questions
-examinées concernent l'enseignement agricole, le préfet est suppléé par le directeur départemental de l'agriculture ;
+dernier, par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie. Lorsque les questions examinées concernent l'enseignement agricole, le préfet est suppléé par le directeur
+départemental de l'agriculture ; 
 
 2° En cas d'empêchement du président du conseil régional, le conseil de l'éducation nationale est présidé par un conseiller
-régional délégué à cet effet par le président du conseil régional ;
+régional délégué à cet effet par le président du conseil régional ; 
 
 3° En cas d'empêchement du président du conseil général, le conseil de l'éducation nationale est présidé par un conseiller
-général délégué à cet effet par le président du conseil général.
+général délégué à cet effet par le président du conseil général. 
 
 Les suppléants des présidents ainsi que le directeur départemental des affaires maritimes ont la qualité de vice-président.
 Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne participent pas aux votes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -42768,7 +43025,11 @@ Les présidents et les vice-présidents sont membres de droit du conseil. Ils ne
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R234-27
@@ -42828,14 +43089,14 @@ public.
 ###### Article R234-28
 
 Pour chaque membre titulaire du conseil de l'éducation nationale, il est procédé, dans les mêmes conditions, à la désignation
-d'un membre suppléant. Le membre suppléant ne peut siéger et être présent à la séance qu'en l'absence du membre titulaire.
+d'un membre suppléant. Le membre suppléant ne peut siéger et être présent à la séance qu'en l'absence du membre titulaire. 
 
 A l'exception du président du comité économique et social de la région, les membres du conseil énumérés au 2° et au 3° de
-l'article R. 234-27 ainsi que leurs suppléants sont désignés dans les conditions fixées à l'article R. 234-3.
+l'article R. 234-27 ainsi que leurs suppléants sont désignés dans les conditions fixées à l'article R. 234-3. 
 
-Siège, en outre, à titre consultatif, un délégué départemental de l'éducation nationale nommé par le préfet. L'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, reçoit à cet effet les propositions du président
-départemental des délégations et les transmet au préfet.
+Siège, en outre, à titre consultatif, un délégué départemental de l'éducation nationale nommé par le préfet. Le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, reçoit à cet effet les
+propositions du président départemental des délégations et les transmet au préfet. 
 
 Sur l'initiative de l'un des présidents ou vice-présidents du conseil, peut être invitée à participer aux séances à titre
 consultatif toute personne dont la présence lui paraît utile. Toutefois, les agents des services de l'Etat, du département ou
@@ -42845,18 +43106,20 @@ de la région ne peuvent être entendus par le conseil qu'après accord des auto
 
 	**Anciens textes**:
 
-	  - Décret n°85-1264 1985-11-28 art. 4, alinéas 9 à 12
-	  - Décret n°85-1264 du 28 novembre 1985 - art. 4 (M)
 	  - Décret n°85-1264 du 28 novembre 1985 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R234-27 (V)
-	  - Code de l'éducation - art. R234-3 (V)
+	  - Code de l'éducation - art. R234-27 (VT)
+	  - Code de l'éducation - art. R234-3 (VT)
 
 
 ###### Article R234-29
@@ -43585,17 +43848,21 @@ est remplacée par celle à l'article R. 234-33-3.
 ###### Article R235-1
 
 Les présidents des conseils de l'éducation nationale institués dans les départements sont suppléés dans les conditions ci-
-après :
+après : 
 
-1° En cas d'empêchement du préfet du département, le conseil est présidé par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale ;
+1° En cas d'empêchement du préfet du département, le conseil est présidé par               le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 2° En cas d'empêchement du président du conseil général, le conseil est présidé par le conseiller général délégué à cet effet
-par le président du conseil général.
+par le président du conseil général. 
 
-Les suppléants des présidents ont la qualité de vice-présidents.
+Les suppléants des présidents ont la qualité de vice-présidents. 
 
 Les présidents et les vice-présidents sont membres de droit des conseils. Ils ne participent pas aux votes.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -43605,7 +43872,11 @@ Les présidents et les vice-présidents sont membres de droit des conseils. Ils 
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -43617,32 +43888,39 @@ Les présidents et les vice-présidents sont membres de droit des conseils. Ils 
 
 ###### Article R235-2
 
-Outre les présidents et les vice-présidents, les conseils comprennent :
+Outre les présidents et les vice-présidents, les conseils comprennent : 
 
 1° Dix membres représentant les communes, le département et la région : quatre maires désignés dans les conditions fixées à
 l'article R. 235-3, cinq conseillers généraux désignés par le conseil général, un conseiller régional désigné par le conseil
-régional ;
+régional ; 
 
 2° Dix membres représentant les personnels titulaires de l'Etat exerçant leurs fonctions dans les services administratifs et
 les établissements d'enseignement et de formation des premier et second degrés situés dans le département et désignés dans
-les conditions fixées à l'article R. 235-3 ;
+les conditions fixées à l'article R. 235-3 ; 
 
 3° Dix membres représentant les usagers, dont sept parents d'élèves désignés dans les conditions fixées à l'article R. 235-3,
-un représentant des associations complémentaires de l'enseignement public nommé par le préfet sur proposition de l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, et deux personnalités nommées en raison de leur
-compétence dans le domaine économique, social, éducatif et culturel, l'une par le préfet du département, l'autre par le
-président du conseil général.
+un représentant des associations complémentaires de l'enseignement public nommé par le préfet sur proposition du directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, et deux personnalités nommées
+en raison de leur compétence dans le domaine économique, social, éducatif et culturel, l'une par le préfet du département,
+l'autre par le président du conseil général.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 3, alinéas 1 à 4
 	  - Décret n°85-895 du 21 août 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -43658,31 +43936,34 @@ président du conseil général.
 Les maires sont désignés par l'association départementale des maires ou, à défaut, élus par le collège des maires du
 département à la représentation proportionnelle à la plus forte moyenne, sans adjonction ni suppression de noms et sans
 modification de l'ordre de présentation. Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de
-présentation. Le vote peut avoir lieu par correspondance. Le collège des maires est convoqué par le préfet.
+présentation. Le vote peut avoir lieu par correspondance. Le collège des maires est convoqué par le préfet. 
 
 Si une ou plusieurs communautés urbaines existent dans le département, l'un des quatre sièges réservés aux maires est occupé
-par un conseiller communautaire élu par le conseil de la communauté ou par les conseils des communautés réunis à cet effet.
+par un conseiller communautaire élu par le conseil de la communauté ou par les conseils des communautés réunis à cet effet. 
 
-Les représentants des personnels sont nommés par le préfet du département. L'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, reçoit à cet effet les propositions des organisations syndicales représentatives
-dans le département et transmet les propositions au préfet.
+Les représentants des personnels sont nommés par le préfet du département.               Le directeur académique des services
+de l'éducation nationale agissant sur délégation du recteur d'académie, reçoit à cet effet les propositions des organisations
+syndicales représentatives dans le département et transmet les propositions au préfet. 
 
-Les représentants des parents d'élèves sont nommés par le préfet du département. L'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale, reçoit à cet effet les propositions des associations de parents d'élèves
-représentatives dans le département et les transmet au préfet. La représentativité des associations de parents d'élèves est
-appréciée en fonction du nombre de voix obtenues dans le département lors des élections des parents d'élèves dans les
-instances représentatives des établissements scolaires.
+Les représentants des parents d'élèves sont nommés par le préfet du département.               Le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie, reçoit à cet effet les propositions des
+associations de parents d'élèves représentatives dans le département et les transmet au préfet. La représentativité des
+associations de parents d'élèves est appréciée en fonction du nombre de voix obtenues dans le département lors des élections
+des parents d'élèves dans les instances représentatives des établissements scolaires.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 3, alinéas 5 à 8
 	  - Décret n°85-895 du 21 août 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -43710,8 +43991,8 @@ d'un membre suppléant. Le membre suppléant ne peut siéger et être présent �
 ###### Article R235-5
 
 Siège en outre à titre consultatif un délégué départemental de l'éducation nationale nommé par le préfet du département.
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, reçoit à cet effet les propositions
-du président départemental des délégations et les transmet au préfet.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, reçoit à cet
+effet les propositions du président départemental des délégations et les transmet au préfet. 
 
 L'un des présidents ou vice-présidents peut inviter à assister aux séances, avec voix consultative, toute personne dont la
 présence lui paraît utile. Toutefois, les agents des services de l'Etat dans le département ou des services du département ne
@@ -43721,12 +44002,15 @@ peuvent être entendus par le conseil qu'après accord des autorités dont ils d
 
 	**Anciens textes**:
 
-	  - Décret n°85-895 1985-08-21 art. 3, alinéas 10 et 11
 	  - Décret n°85-895 du 21 août 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R235-6
@@ -44756,10 +45040,10 @@ ba) Trois recteurs d'académie, désignés par le ministre chargé de l'éducati
 
 bb) Un préfet, désigné par le ministre de l'intérieur ; 
 
-bc) Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale, désigné par le ministre chargé
-de l'éducation ; 
+bc) Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie,
+désigné par le ministre chargé de l'éducation ; 
 
-bd) Un         directeur régional de l'alimentation, de l'agriculture et de la forêt , désigné par le ministre chargé de
+bd) Un directeur régional de l'alimentation, de l'agriculture et de la forêt, désigné par le ministre chargé de
 l'agriculture ; 
 
 be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ; 
@@ -44785,7 +45069,11 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 
 	**Modifié par**:
 
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
 
 	**Cité par**:
 
@@ -46479,8 +46767,9 @@ privées.
 
 ###### Article D241-26
 
-Les délégués départementaux de l'éducation nationale sont désignés pour une durée de quatre ans par l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale, après avis du conseil départemental de l'éducation nationale.
+Les délégués départementaux de l'éducation nationale sont désignés pour une durée de quatre ans par               le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis du
+conseil départemental de l'éducation nationale.
 
 **Liens relatifs à cet article**
 
@@ -46490,7 +46779,11 @@ directeur des services départementaux de l'éducation nationale, après avis du
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D241-27
@@ -46711,21 +47004,21 @@ décret n° 2006-1334 du 3 novembre 2006.
 
 ###### Article D251-1
 
-Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce les attributions dévolues aux inspecteurs d'académie,
-directeurs des services départementaux de l'éducation nationale.
+Le chef du service de l'éducation à Saint-Pierre-et-Miquelon exerce les attributions dévolues aux directeurs académiques des
+services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 Les fonctions de chef du service de l'éducation de Saint-Pierre-et-Miquelon sont assurées par un fonctionnaire titulaire de
 catégorie A nommé par arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 1
-
 	**Cité par**:
 
 	  - Arrêté du 8 avril 2011 - art. 14 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D251-2
@@ -46879,24 +47172,28 @@ conjoint du ministre chargé de l'éducation et du ministre chargé de l'outre-m
 
 ###### Article R261-2
 
-Le vice-recteur exerce en matière d'enseignement scolaire :
+Le vice-recteur exerce en matière d'enseignement scolaire : 
 
-1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux inspecteurs
-d'académie, directeurs des services départementaux de l'éducation nationale ;
+1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux directeurs académiques
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 2° Les pouvoirs que le ministre chargé de l'éducation lui délègue par arrêté, dans la limite de ceux qu'il est habilité à
-déléguer aux recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+déléguer aux recteurs et aux directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur
+d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°99-941 1999-11-12 art. 2, en ce qui concerne Wallis et Futuna
 	  - Décret n°99-941 du 12 novembre 1999 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -47005,24 +47302,28 @@ conjoint du ministre chargé de l'éducation et du ministre chargé de l'outre-m
 
 ###### Article R262-2
 
-Le vice-recteur exerce en matière d'enseignement scolaire :
+Le vice-recteur exerce en matière d'enseignement scolaire : 
 
-1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux inspecteurs
-d'académie, directeurs des services départementaux de l'éducation nationale ;
+1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux directeurs académiques
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 2° Les pouvoirs que le ministre chargé de l'éducation lui délègue par arrêté, dans la limite de ceux qu'il est habilité à
-déléguer aux recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+déléguer aux recteurs et aux directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur
+d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°99-941 1999-11-12 art. 2, en ce qui concerne Mayotte
 	  - Décret n°99-941 du 12 novembre 1999 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -47244,24 +47545,28 @@ d'emplois dont le sommet de l'échelonnement indiciaire atteint au moins le grou
 
 ###### Article R263-2
 
-Le vice-recteur exerce en matière d'enseignement scolaire :
+Le vice-recteur exerce en matière d'enseignement scolaire : 
 
-1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux inspecteurs
-d'académie, directeurs des services départementaux de l'éducation nationale ;
+1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux directeurs académiques
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 2° Les pouvoirs que le ministre chargé de l'éducation lui délègue par arrêté, dans la limite de ceux qu'il est habilité à
-déléguer aux recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+déléguer aux recteurs et aux directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur
+d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°99-941 1999-11-12 art. 2, alinéas 1 à 3 en ce qui concerne la Polynésie française
 	  - Décret n°99-941 du 12 novembre 1999 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -47531,28 +47836,28 @@ d'emplois dont le sommet de l'échelonnement indiciaire atteint au moins le grou
 
 ###### Article R264-2
 
-Le vice-recteur exerce en matière d'enseignement scolaire :
+Le vice-recteur exerce en matière d'enseignement scolaire : 
 
-1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux inspecteurs
-d'académie, directeurs des services départementaux de l'éducation nationale ;
+1° Les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux recteurs et aux directeurs académiques
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 2° Les pouvoirs que le ministre chargé de l'éducation lui délègue par arrêté, dans la limite de ceux qu'il est habilité à
-déléguer aux recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+déléguer aux recteurs et aux directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur
+d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°99-941 1999-11-12 art. 2, alinéas 1 et 2 en ce qui concerne la Nouvelle-Calédonie
 	  - Décret n°99-941 du 12 novembre 1999 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 17 juillet 2004 rectificatif JORF 24 juillet 2004
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -47795,15 +48100,15 @@ sont celles applicables à la commune dont relève la caisse.
 ###### Article D271-1
 
 A Saint-Barthélemy et à Saint-Martin, les attributions qui relèvent de la compétence de l'Etat conférées en métropole aux
-recteurs et aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, sont exercées par le
-recteur de l'académie de la Guadeloupe. Il est assisté par un adjoint, chef du service de l'éducation de Saint-Barthélemy et
-Saint-Martin, auquel il peut déléguer sa signature.
+recteurs et aux directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie,
+sont exercées par le recteur de l'académie de la Guadeloupe. Il est assisté par un adjoint, chef du service de l'éducation de
+Saint-Barthélemy et Saint-Martin, auquel il peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1363 du 18 décembre 2008 - art. 2
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D271-2
@@ -49447,43 +49752,43 @@ vivantes étrangères sont renouvelées pour une durée de cinq ans à compter d
 
 ###### Article D312-25
 
-La commission sur l'enseignement des langues vivantes étrangères comprend :
+La commission sur l'enseignement des langues vivantes étrangères comprend : 
 
-1° Au titre de l'administration :
+1° Au titre de l'administration : 
 
-a) Le recteur d'académie, président ;
+a) Le recteur d'académie, président ; 
 
-b) Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+b) Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-c) Le directeur de l'institut universitaire de formation des maîtres ou son représentant ;
+c) Le directeur de l'institut universitaire de formation des maîtres ou son représentant ; 
 
-d) Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux de langue vivante étrangère ;
+d) Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux de langue vivante étrangère ; 
 
-e) Un inspecteur chargé d'une circonscription du premier degré ;
+e) Un inspecteur chargé d'une circonscription du premier degré ; 
 
-f) Un principal de collège et un proviseur de lycée ;
+f) Un principal de collège et un proviseur de lycée ; 
 
-2° Au titre des personnels enseignants et des usagers :
+2° Au titre des personnels enseignants et des usagers : 
 
-a) Un représentant des personnels enseignants des écoles publiques ;
+a) Un représentant des personnels enseignants des écoles publiques ; 
 
-b) Deux représentants des personnels enseignants de langue vivante étrangère des établissements publics du second degré ;
+b) Deux représentants des personnels enseignants de langue vivante étrangère des établissements publics du second degré ; 
 
-c) Un représentant des personnels enseignants de langue vivante étrangère des établissements d'enseignement privés ;
+c) Un représentant des personnels enseignants de langue vivante étrangère des établissements d'enseignement privés ; 
 
-d) Deux représentants des parents d'élèves de l'enseignement public ;
+d) Deux représentants des parents d'élèves de l'enseignement public ; 
 
-e) Un représentant des parents d'élèves de l'enseignement privé ;
+e) Un représentant des parents d'élèves de l'enseignement privé ; 
 
-f) Un représentant des lycéens ;
+f) Un représentant des lycéens ; 
 
-3° Au titre des représentants des collectivités territoriales et des milieux économiques et professionnels :
+3° Au titre des représentants des collectivités territoriales et des milieux économiques et professionnels : 
 
-a) Deux conseillers régionaux ;
+a) Deux conseillers régionaux ; 
 
-b) Deux conseillers généraux ;
+b) Deux conseillers généraux ; 
 
-c) Deux maires ou conseillers municipaux ou représentants des établissements publics de coopération intercommunale ;
+c) Deux maires ou conseillers municipaux ou représentants des établissements publics de coopération intercommunale ; 
 
 d) Deux représentants du conseil économique et social de la région.
 
@@ -49491,12 +49796,15 @@ d) Deux représentants du conseil économique et social de la région.
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1011 2005-08-22 art. 9
 	  - Décret n°2005-1011 du 22 août 2005 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D312-26
@@ -49732,50 +50040,50 @@ partenaires ainsi qu'avec les associations concourant à la promotion des langue
 Le conseil académique des langues régionales est composé pour un tiers des représentants de l'administration, pour un tiers
 des représentants des établissements scolaires et des associations de parents d'élèves mentionnées ci-après au 2°, pour un
 tiers des représentants des collectivités de rattachement et des mouvements associatifs et éducatifs ayant pour objet la
-promotion de la langue et de la culture régionales. Il comporte :
+promotion de la langue et de la culture régionales. Il comporte : 
 
-1° Pour l'administration :
+1° Pour l'administration : 
 
 a) Les inspecteurs d'académie-inspecteurs pédagogiques régionaux, directeurs des services départementaux de l'éducation
-nationale ;
+nationale ; 
 
-b) Les chargés de mission, coordonnateurs des enseignements de langues et cultures régionales dans l'académie ;
+b) Les chargés de mission, coordonnateurs des enseignements de langues et cultures régionales dans l'académie ; 
 
-c) Le directeur de l'institut universitaire de formation des maîtres ou son représentant ;
+c) Le directeur de l'institut universitaire de formation des maîtres ou son représentant ; 
 
 d) Un professeur d'université assurant un enseignement de langue et culture régionales, désigné par le recteur sur avis du
-président de l'université correspondante ;
+président de l'université correspondante ; 
 
-e) Le directeur du centre régional de documentation pédagogique ou son représentant ;
+e) Le directeur du centre régional de documentation pédagogique ou son représentant ; 
 
 f) Un inspecteur d'académie-inspecteur pédagogique régional, représentant des corps d'inspection pédagogique régionale,
-désigné par le recteur ;
+désigné par le recteur ; 
 
 g) Un inspecteur de l'éducation nationale, chargé de circonscription du premier degré, coordonnateur de l'enseignement des
-langues régionales dans les écoles de son département, désigné par le recteur sur avis des inspecteurs d'académie, directeurs
-des services départementaux de l'éducation nationale ;
+langues régionales dans les écoles de son département, désigné par le recteur sur avis des directeurs académiques des
+services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-h) Un représentant des maîtres formateurs délégué auprès d'un inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, désigné par le recteur après avis de l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale auprès duquel il est affecté ;
+h) Un représentant des maîtres formateurs délégué auprès d'un directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, désigné par le recteur après avis du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie auprès duquel il est affecté ; 
 
-i) Le directeur régional des affaires culturelles ou son représentant ;
+i) Le directeur régional des affaires culturelles ou son représentant ; 
 
 2° Pour les établissements scolaires et les associations de parents d'élèves, en nombre égal au collège défini au 1° et
-répartis par moitié :
+répartis par moitié : 
 
 a) D'une part, des représentants des parents d'élèves des écoles ou établissements comportant un enseignement de langue et
-culture régionales, sur proposition des associations de parents d'élèves représentatives dans l'académie ;
+culture régionales, sur proposition des associations de parents d'élèves représentatives dans l'académie ; 
 
 b) D'autre part, des représentants de personnels enseignants des écoles et des établissements comportant un enseignement de
 langue et culture régionales, sur proposition des organisations syndicales représentées au conseil académique de l'éducation
-nationale ;
+nationale ; 
 
 3° Pour les collectivités territoriales de rattachement et mouvements associatifs, en nombre égal au collège défini au 1° et
-répartis par moitié :
+répartis par moitié : 
 
 a) D'une part, des représentants des mouvements associatifs et éducatifs ayant pour objet la promotion de la langue et de la
-culture régionales, sur proposition de leurs instances dirigeantes ;
+culture régionales, sur proposition de leurs instances dirigeantes ; 
 
 b) D'autre part, des représentants des maires des communes sièges d'un enseignement de langue et culture régionales, sur
 proposition de l'association départementale des maires ou, à défaut, par le collège des maires du département, des
@@ -49796,7 +50104,11 @@ académique des langues régionales).
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D312-38
@@ -50252,14 +50564,10 @@ les professions.
 
 ###### Article D313-5
 
-Au niveau départemental, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, assure la
-responsabilité des activités d'information et d'orientation.
+Au niveau départemental,               le directeur académique des services de l'éducation nationale agissant sur délégation
+du recteur d'académie, assure la responsabilité des activités d'information et d'orientation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°71-541 1971-07-07 art. 4
 
 	**Cité par**:
 
@@ -50267,7 +50575,11 @@ responsabilité des activités d'information et d'orientation.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D313-6
@@ -50345,20 +50657,16 @@ d'information et d'orientation.
 
 Chaque centre est dirigé par un directeur nommé par arrêté du ministre chargé de l'éducation dans des conditions fixées par
 le décret n° 91-290 du 20 mars 1991 relatif au statut des directeurs de centres d'information et d'orientation et des
-conseillers d'orientation-psychologues.
+conseillers d'orientation-psychologues. 
 
-Les centres sont placés sous l'autorité de l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale.
+Les centres sont placés sous l'autorité du directeur académique des services de l'éducation nationale agissant sur délégation
+du recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°71-541 1971-07-07 art. 6
-
 	**Cite**:
 
-	  - Décret n°91-290 1991-03-20
+	  - Décret n°91-290 du 20 mars 1991 (V)
 
 	**Cité par**:
 
@@ -50366,7 +50674,11 @@ nationale.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D313-10
@@ -51938,23 +52250,24 @@ des actions particulières de recherche et d'expérimentation pédagogiques, dan
 ###### Article D314-2
 
 Suivant la nature de leur participation aux actions menées dans ce domaine, les établissements concernés sont classés en deux
-catégories :
+catégories : 
 
-1° Etablissements expérimentaux de plein exercice ;
+1° Etablissements expérimentaux de plein exercice ; 
 
-2° Etablissements chargés d'expérimentation.
+2° Etablissements chargés d'expérimentation. 
 
-Ils restent placés sous l'autorité des recteurs et des inspecteurs d'académie.
+Ils restent placés sous l'autorité des recteurs et des directeurs académiques des services de l'éducation nationale agissant
+sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-477 1972-06-12 art. 2
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -52027,27 +52340,27 @@ exercice est subordonnée à l'avis favorable de la collectivité territoriale i
 
 Chaque établissement expérimental de plein exercice reçoit, pour l'application des programmes de recherche et
 d'expérimentation pédagogiques qu'il est chargé de mettre en oeuvre, le concours d'une ou plusieurs institutions ayant
-compétence en matière de recherche pédagogique fondamentale et appliquée ou de formation des maîtres.
+compétence en matière de recherche pédagogique fondamentale et appliquée ou de formation des maîtres. 
 
-Une convention conclue entre l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
-s'agissant d'un établissement du premier degré, ou le chef d'établissement, s'agissant d'un établissement du second degré,
-d'une part, et le responsable de chacune des institutions apportant son concours, d'autre part, précise l'objet des
-recherches à effectuer et la nature du contrôle exercé par l'institution. Elle définit également les modalités de la
-collaboration envisagée, notamment en ce qui concerne les aides extérieures fournies par l'institution et les conditions dans
-lesquelles les chercheurs ont accès aux locaux scolaires à l'occasion des activités d'enseignement.
+Une convention conclue entre               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, s'agissant d'un établissement du premier degré, ou le chef d'établissement, s'agissant d'un
+établissement du second degré, d'une part, et le responsable de chacune des institutions apportant son concours, d'autre
+part, précise l'objet des recherches à effectuer et la nature du contrôle exercé par l'institution. Elle définit également
+les modalités de la collaboration envisagée, notamment en ce qui concerne les aides extérieures fournies par l'institution et
+les conditions dans lesquelles les chercheurs ont accès aux locaux scolaires à l'occasion des activités d'enseignement. 
 
 Elle est soumise, après avis de l'inspection générale et du recteur, à l'approbation du ministre chargé de l'éducation et du
 ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°72-477 1972-06-12 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -52459,9 +52772,10 @@ examens suivant les modalités particulières découlant de l'application des di
 
 Le chef d'établissement et le ou les responsables de l'institution ou des institutions parties à la convention prévue aux
 articles D. 314-16 et D. 314-20 établissent en fin d'année scolaire un compte rendu de leurs travaux de recherche et
-d'expérimentation pédagogiques.
+d'expérimentation pédagogiques. 
 
-Ce rapport est adressé au ministre chargé de l'éducation par l'intermédiaire de l'inspecteur d'académie et du recteur.
+Ce rapport est adressé au ministre chargé de l'éducation par l'intermédiaire du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie et du recteur.
 
 **Liens relatifs à cet article**
 
@@ -52471,12 +52785,15 @@ Ce rapport est adressé au ministre chargé de l'éducation par l'intermédiaire
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D314-16 (V)
-	  - Code de l'éducation - art. D314-20 (V)
 
 
 ##### Section 3 : L'Institut national de recherche pédagogique
@@ -54552,8 +54869,8 @@ institue.
 
 Chaque centre départemental de documentation pédagogique est dirigé par un directeur nommé pour une période de trois ans
 renouvelable, parmi les fonctionnaires de catégorie A, par le recteur, sur proposition du directeur du centre régional, après
-avis de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, et du directeur du Centre
-national de documentation pédagogique.
+avis du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, et du
+directeur du Centre national de documentation pédagogique.
 
 Le directeur peut se voir confier des responsabilités sur l'ensemble de l'académie. Il assure, sous l'autorité du directeur
 du centre régional et dans le cadre des délégations que celui-ci lui accorde, la gestion du centre départemental et des
@@ -54563,12 +54880,19 @@ personnels qui y sont affectés.
 
 	**Anciens textes**:
 
-	  - Décret n°2002-548 2002-04-19 art. 32
 	  - Décret n°2002-548 du 19 avril 2002 - art. 32 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2014-1631 du 26 décembre 2014 - art. 15
 
 
 ###### Article D314-120
@@ -55099,17 +55423,17 @@ scolarité peut être accélérée en fonction de leur rythme d'apprentissage.
 ###### Article D321-8
 
 Les recours formés par les parents de l'élève, ou son représentant légal, contre les décisions prises par le conseil des
-maîtres sont examinés par une commission départementale d'appel présidée par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale.
+maîtres sont examinés par une commission départementale d'appel présidée par               le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 La commission départementale d'appel comprend des inspecteurs responsables des circonscriptions du premier degré, des
 directeurs d'école, des enseignants du premier degré, des parents d'élèves et, au moins, un psychologue scolaire, un médecin
 de l'éducation nationale, un principal de collège et un professeur du second degré enseignant en collège. Sa composition et
-son fonctionnement sont précisés par arrêté du ministre chargé de l'éducation.
+son fonctionnement sont précisés par arrêté du ministre chargé de l'éducation. 
 
 Le directeur d'école transmet à la commission les décisions motivées prises par le conseil des maîtres ainsi que les éléments
 susceptibles d'informer cette instance. Les parents de l'élève, ou son représentant légal, qui le demandent sont entendus par
-la commission.
+la commission. 
 
 La décision prise par la commission départementale d'appel vaut décision définitive de passage dans la classe supérieure, de
 redoublement ou de saut de classe.
@@ -55118,12 +55442,15 @@ redoublement ou de saut de classe.
 
 	**Anciens textes**:
 
-	  - Décret n°90-788 1990-09-06 art. 4-3
 	  - Décret n°90-788 du 6 septembre 1990 - art. 4-3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -55137,23 +55464,26 @@ spécialisés et d'enseignants ayant reçu une formation complémentaire. Ces in
 d'améliorer la compréhension des difficultés et des besoins des élèves et, d'autre part, d'apporter des aides spécifiques ou
 de dispenser un enseignement adapté, en complément des aménagements pédagogiques mis en place par les maîtres dans leur
 classe. Elles contribuent en particulier à l'élaboration et à la mise en oeuvre des programmes personnalisés de réussite
-éducative.
+éducative. 
 
 Afin de garantir l'efficacité des interventions dans les écoles, la coordination de cet ensemble de ressources spécifiques et
 l'organisation de leur fonctionnement en réseau d'aide et de soutien aux élèves en difficulté sont assurées par l'inspecteur
-chargé de la circonscription du premier degré, dans le cadre de la politique définie par l'inspecteur d'académie, directeur
-des services départementaux de l'éducation nationale.
+chargé de la circonscription du premier degré, dans le cadre de la politique définie par               le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-788 1990-09-06 art. 4-4
 	  - Décret n°90-788 du 6 septembre 1990 - art. 4-4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D321-10
@@ -55562,29 +55892,32 @@ jours suivant leur refus de la proposition, informe les parents de l'existence d
 ont de la saisir par son intermédiaire. La commission de recours est composée de deux directeurs d'écoles privées sous
 contrat au moins et de deux maîtres contractuels ou agréés au moins. Les membres de la commission de recours ne siègent pas
 lorsqu'est examiné le recours concernant un enfant de l'école dans laquelle ils exercent. La composition et les règles de
-fonctionnement de la commission sont communiquées à l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale.
+fonctionnement de la commission sont communiquées au directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie.
 
 La commission procède à un nouvel examen de la situation de l'enfant.
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou son représentant, peut assister
-aux réunions de la commission de recours.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou son
+représentant, peut assister aux réunions de la commission de recours.
 
 Les décisions prises par la commission de recours sont définitives.
 
-Elles sont communiquées aux parents et à l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale.
+Elles sont communiquées aux parents et au directeur académique des services de l'éducation nationale agissant sur délégation
+du recteur d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°91-891 1991-09-09 art. 6
 	  - Décret n°91-891 du 9 septembre 1991 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -55593,7 +55926,7 @@ nationale.
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D321-20 (V)
+	  - Code de l'éducation - art. D321-20
 
 
 ###### Article D321-23
@@ -56488,14 +56821,14 @@ d'orientation.
 ###### Article D331-29
 
 A l'intérieur des cycles des collèges et des lycées, le redoublement ne peut intervenir qu'à la demande écrite des parents de
-l'élève ou de l'élève majeur, ou, sur proposition du conseil de classe, avec l'accord écrit des intéressés.
+l'élève ou de l'élève majeur, ou, sur proposition du conseil de classe, avec l'accord écrit des intéressés. 
 
 A l'intérieur du cycle terminal de la voie générale et de la voie technologique du lycée, un changement de voie d'orientation
 peut être réalisé, en cours ou en fin d'année, sur demande écrite des responsables légaux ou de l'élève majeur, après avis du
 conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef d'établissement dans
 le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un autre établissement, il est
-prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans les conditions
-fixées à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+prononcé par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, dans les conditions fixées à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
 
 **Liens relatifs à cet article**
 
@@ -56512,7 +56845,7 @@ fixées à l'article D. 331-38, après avis du chef de l'établissement d'accuei
 
 	**Modifié par**:
 
-	  - Décret n°2010-100 du 27 janvier 2010 - art. 2
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D331-30
@@ -56663,12 +56996,14 @@ notification de ces décisions ainsi motivées.
 
 En cas d'appel, le chef d'établissement transmet à la commission d'appel les décisions motivées ainsi que tous éléments
 susceptibles d'éclairer cette instance. Les parents de l'élève ou l'élève majeur qui le demandent sont entendus par la
-commission. L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents.
+commission. L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents. 
 
-Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
+Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives. 
 
-La commission d'appel est présidée par l'inspecteur d'académie ou son représentant. Elle comprend des chefs d'établissement,
-des enseignants, des parents d'élèves, des personnels d'éducation et d'orientation nommés par l'inspecteur d'académie.
+La commission d'appel est présidée par le     directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou son représentant. Elle comprend des chefs d'établissement, des enseignants, des parents
+d'élèves, des personnels d'éducation et d'orientation nommés par le     directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie. 
 
 La composition et le fonctionnement de la commission d'appel sont précisés par arrêté du ministre chargé de l'éducation.
 
@@ -56676,7 +57011,6 @@ La composition et le fonctionnement de la commission d'appel sont précisés par
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 13
 	  - Décret n°90-484 du 14 juin 1990 - art. 13 (Ab)
 
 	**Cité par**:
@@ -56691,7 +57025,11 @@ La composition et le fonctionnement de la commission d'appel sont précisés par
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D331-36
@@ -56753,16 +57091,17 @@ peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pou
 ###### Article D331-38
 
 Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à
-l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
+l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe. 
 
-L'affectation est de la compétence de l'inspecteur d'académie, sous l'autorité du recteur, pour les formations implantées
-dans le département.L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est
-réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur. 
+La décision d'affectation est signée par le directeur académique des services de l'éducation nationale, délégataire du
+recteur pour les formations implantées dans le département. L'affectation de l'élève, à l'issue d'un cycle, dans la voie
+d'orientation du cycle supérieur est réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou
+de l'élève majeur. 
 
-Le changement d'établissement en cours de cycle de formation est autorisé par l'inspecteur d'académie dont relève
-l'établissement d'accueil. L'élève est scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente,
-en vertu d'un changement prononcé dans les conditions définies à l'article D. 331-29 et compte tenu de la formation déjà
-reçue.
+Le changement d'établissement en cours de cycle de formation est autorisé par     le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie dont relève l'établissement d'accueil. L'élève est
+scolarisé dans la même voie d'orientation ou dans une voie d'orientation différente, en vertu d'un changement prononcé dans
+les conditions définies à l'article D. 331-29 et compte tenu de la formation déjà reçue.
 
 **Liens relatifs à cet article**
 
@@ -56784,7 +57123,7 @@ reçue.
 
 	**Modifié par**:
 
-	  - Décret n°2010-100 du 27 janvier 2010 - art. 5
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (V)
 
 
 ###### Article D331-39
@@ -56862,10 +57201,11 @@ d'orientation, conformément aux dispositions de l'article D. 331-38, ou en rais
 Tout élève ayant échoué à l'examen du baccalauréat, du brevet de technicien, du brevet de technicien supérieur, du certificat
 d'aptitude professionnelle ou du brevet d'études professionnelles se voit offrir le droit d'une nouvelle préparation de cet
 examen, le cas échéant, selon des modalités adaptées au niveau des connaissances qu'il a acquises dans les matières
-d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées      , ce droit s'exerce dans la
-limite des places demeurées vacantes après l'admission des élèves issus de la classe précédente de l'établissement scolaire
-et peut entraîner un changement d'établissement après qu'ont été explorées toutes les possibilités d'un maintien sur place de
-l'élève. Le changement éventuel d'établissement scolaire relève de la compétence de l'inspecteur d'académie.
+d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées, ce droit s'exerce dans la limite
+des places demeurées vacantes après l'admission des élèves issus de la classe précédente de l'établissement scolaire et peut
+entraîner un changement d'établissement après qu'ont été explorées toutes les possibilités d'un maintien sur place de
+l'élève. Le changement éventuel d'établissement scolaire relève de la compétence du     directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
@@ -56875,7 +57215,7 @@ l'élève. Le changement éventuel d'établissement scolaire relève de la comp�
 
 	**Modifié par**:
 
-	  - Décret n°2009-148 du 10 février 2009 - art. 5
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -56944,60 +57284,60 @@ de l'éducation nationale.
 
 ###### Article D331-45
 
-Pour leur application à Saint-Pierre-et-Miquelon, les articles suivants sont ainsi modifiés :
+Pour leur application à Saint-Pierre-et-Miquelon, les articles suivants sont ainsi modifiés : 
 
-1° Les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par les alinéas suivants :
+1° Les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par les alinéas suivants : 
 
 " La commission d'appel est présidée par le chef du service de l'éducation nationale ; celui-ci peut se faire représenter.
-Elle comprend les membres suivants :
+Elle comprend les membres suivants : 
 
-" - le proviseur du lycée ;
+"-le proviseur du lycée ; 
 
-" - le conseiller principal d'éducation ;
+"-le conseiller principal d'éducation ; 
 
-" - le directeur du centre d'information et d'orientation ;
+"-le directeur du centre d'information et d'orientation ; 
 
-" - trois professeurs, le professeur principal de la classe étant le rapporteur ;
+"-trois professeurs, le professeur principal de la classe étant le rapporteur ; 
 
-" - deux représentants des parents d'élèves.
+"-deux représentants des parents d'élèves. 
 
-" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire.
+" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire. 
 
 " Les membres de la commission sont nommés par le chef du service de l'éducation nationale pour une durée d'un an
 renouvelable, sur proposition des associations pour les représentants des parents d'élèves. Dans les mêmes conditions, ils
-désignent un nombre égal de suppléants des représentants des parents d'élèves. "
+désignent un nombre égal de suppléants des représentants des parents d'élèves. " 
 
-2° Les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les alinéas suivants :
+2° Les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les alinéas suivants : 
 
 " L'affectation est de la compétence du chef du service de l'éducation nationale. Il est assisté d'une commission
-préparatoire à l'affectation des élèves dont la composition est fixée comme suit :
+préparatoire à l'affectation des élèves dont la composition est fixée comme suit : 
 
-" - un représentant du chef du service de l'éducation nationale, président ;
+"-un représentant du chef du service de l'éducation nationale, président ; 
 
-" - le directeur du centre d'information et d'orientation ;
+"-le directeur du centre d'information et d'orientation ; 
 
-" - le proviseur du lycée ;
+"-le proviseur du lycée ; 
 
-" - le chef des travaux du lycée professionnel ;
+"-le chef des travaux du lycée professionnel ; 
 
-" - trois enseignants ;
+"-trois enseignants ; 
 
-" - deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
+"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
 
 " Les membres de la commission sont nommés par le chef du service de l'éducation nationale pour une durée d'un an
 renouvelable, sur proposition des associations pour les représentants des parents d'élèves. Dans les mêmes conditions, le
 chef du service de l'éducation nationale désigne un nombre égal de suppléants des représentants des parents d'élèves. 
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du chef du service de
-l'éducation nationale.
+l'éducation nationale. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le chef du service de l'éducation nationale.
-L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue. "
+L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-3° Dans l'article D. 331-42, les mots : " inspecteur d'académie " sont remplacés par les mots : " chef du service de
-l'éducation nationale ".
+3° Dans l'article D. 331-42, les mots : "   directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie " sont remplacés par les mots : " chef du service de l'éducation nationale ". 
 
-4° Le deuxième alinéa de l'article D. 331-43 est modifié ainsi qu'il suit :
+4° Le deuxième alinéa de l'article D. 331-43 est modifié ainsi qu'il suit : 
 
 " Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation,
 ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au chef du service de l'éducation nationale.
@@ -57015,13 +57355,13 @@ préparatoire à l'affectation : Saint-Pierre-et-Miquelon).
 
 	  - Décret n°90-484 du 14 juin 1990 - art. 23-1 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art. 5
-
 	**Cité par**:
 
 	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -57149,20 +57489,21 @@ cette information.
 
 A l'intérieur des cycles des collèges et des lycées privés sous contrat, le redoublement ne peut intervenir qu'à la demande
 écrite des parents de l'élève ou de l'élève majeur ou, sur proposition du conseil de la classe réuni sous la présidence du
-chef d'établissement, avec l'accord écrit des intéressés.
+chef d'établissement, avec l'accord écrit des intéressés. 
 
 A l'intérieur du cycle terminal de la voie générale et de la voie technologique des lycées privés sous contrat, un changement
 de voie d'orientation peut être réalisé en cours ou en fin d'année sur demande écrite des représentants légaux ou de l'élève
 majeur, après avis du conseil de classe. Lorsque ce changement a lieu dans le même établissement, il est prononcé par le chef
 d'établissement dans le délai d'un mois qui suit la demande. Lorsque le changement implique l'affectation dans un
-établissement public, il est prononcé par l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, dans les conditions prévues à l'article D. 331-38, après avis du chef de l'établissement d'accueil.
+établissement public, il est prononcé par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, dans les conditions prévues à l'article D. 331-38, après avis du chef de
+l'établissement d'accueil.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-100 du 27 janvier 2010 - art. 7
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -57308,18 +57649,18 @@ mineur est entendu à sa demande, avec l'accord de ses parents.
 
 Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
 
-La composition et les règles de fonctionnement de la commission, ainsi que les décisions qu'elle prend, sont communiquées à
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+La composition et les règles de fonctionnement de la commission, ainsi que les décisions qu'elle prend, sont communiquées au
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°91-372 1991-04-16 art. 11
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D331-58
@@ -57628,15 +57969,17 @@ Le cas échéant, ils peuvent bénéficier de toutes les mesures prévues pour l
 ###### Article D332-7
 
 Des enseignements adaptés sont organisés dans le cadre de sections d'enseignement général et professionnel adapté, pour la
-formation des élèves qui connaissent des difficultés scolaires graves et durables. Les élèves y sont admis sur décision de
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après accord des parents ou du
-représentant légal et avis d'une commission départementale créée à cet effet, par arrêté du ministre chargé de l'éducation.
+formation des élèves qui connaissent des difficultés scolaires graves et durables. Les élèves y sont admis sur décision du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après accord des
+parents ou du représentant légal et avis d'une commission départementale créée à cet effet, par arrêté du ministre chargé de
+l'éducation. 
 
-La commission départementale est présidée par l'inspecteur d'académie et composée de membres des corps d'inspection, de
-personnels de direction, d'enseignants, de représentants de parents d'élèves, du médecin conseiller technique départemental,
-de l'assistant social conseiller technique départemental, d'un psychologue scolaire, d'un directeur de centre d'information
-et d'orientation, d'un conseiller d'orientation-psychologue, d'un assistant de service social, d'un pédopsychiatre, désignés
-dans les conditions définies par arrêté du ministre chargé de l'éducation.
+La commission départementale est présidée par le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie et composée de membres des corps d'inspection, de personnels de direction, d'enseignants, de
+représentants de parents d'élèves, du médecin conseiller technique départemental, de l'assistant social conseiller technique
+départemental, d'un psychologue scolaire, d'un directeur de centre d'information et d'orientation, d'un conseiller
+d'orientation-psychologue, d'un assistant de service social, d'un pédopsychiatre, désignés dans les conditions définies par
+arrêté du ministre chargé de l'éducation. 
 
 En application de l'article L. 351-1 du code de l'éducation, les élèves qui ont fait l'objet d'une décision de la commission
 mentionnée à l'article L. 146-9 du code de l'action sociale et des familles sont affectés en section d'enseignement général
@@ -57648,6 +57991,12 @@ Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
 départementale d'orientation vers les enseignements adaptés du second degré).
 
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission départementale d'orientation vers les enseignements adaptés du second degré).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions départementales d'orientation vers les
+enseignements adaptés du second degré sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -57656,7 +58005,7 @@ départementale d'orientation vers les enseignements adaptés du second degré).
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Cité par**:
 
@@ -57666,9 +58015,13 @@ départementale d'orientation vers les enseignements adaptés du second degré).
 	  - Code de l'éducation - art. D332-23 (VD)
 	  - Code de l'éducation - art. D374-3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L351-1 (M)
+	  - Code de l'éducation - art. L351-1 (V)
 	  - Code de l'action sociale et des familles - art. L146-9 (V)
 
 
@@ -57828,8 +58181,9 @@ chargé de l'éducation élabore à cet effet une convention-cadre.
 
 ###### Article D332-15
 
-Dans l'enseignement public, après affectation par l'inspecteur d'académie, l'élève est inscrit dans un collège par le chef
-d'établissement, à la demande des parents ou du responsable légal.
+Dans l'enseignement public, après affectation par     le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie, l'élève est inscrit dans un collège par le chef d'établissement, à la demande des
+parents ou du responsable légal.
 
 **Liens relatifs à cet article**
 
@@ -57839,7 +58193,11 @@ d'établissement, à la demande des parents ou du responsable légal.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Section 2 : Le diplôme national du brevet.
@@ -57944,9 +58302,9 @@ scolaire 2007-2008.
 Le diplôme national du brevet est attribué par un jury dont le ressort territorial, fixé par le recteur d'académie, peut être
 académique, départemental ou commun à plusieurs départements. 
 
-Le jury est présidé par le recteur d'académie ou par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale ou, lorsqu'il est commun à plusieurs départements, par un inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, désigné par le recteur. 
+Le jury est présidé par le recteur d'académie ou par               le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie ou, lorsqu'il est commun à plusieurs départements, par un inspecteur
+d'académie, directeur des services départementaux de l'éducation nationale, désigné par le recteur. 
 
 Le président nomme les autres membres du jury dans des conditions précisées par arrêté du ministre de l'éducation nationale.
 
@@ -57968,7 +58326,7 @@ session 2008.
 
 	**Modifié par**:
 
-	  - Décret n°2008-124 du 11 février 2008 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D332-20
@@ -58109,8 +58467,8 @@ certificat de formation générale.
 
 ###### Article D332-26
 
-Le jury du certificat de formation générale est nommé par               le recteur d'académie. Il est présidé par cet
-inspecteur d'académie ou son représentant. 
+Le jury du certificat de formation générale est nommé par le recteur d'académie. Il est présidé par ce   directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant. 
 
 Il comprend : 
 
@@ -58132,7 +58490,7 @@ certificat de formation générale.
 
 	**Modifié par**:
 
-	  - Décret n°2010-784 du 8 juillet 2010 - art. 4
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D332-27
@@ -58611,11 +58969,11 @@ professionnelle prévu par les dispositions réglementaires qui les régissent.
 ###### Article D333-18
 
 Sur demande de la famille ou de l'élève s'il est majeur et après avis du conseil de classe de l'établissement fréquenté,
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, peut autoriser un titulaire du
-brevet d'études professionnelles ou du certificat d'aptitude professionnelle à poursuivre des études en lycée conduisant soit
-au brevet de technicien, soit au baccalauréat général ou technologique. Dans les mêmes conditions, un élève parvenu au terme
-d'une seconde ou d'une première professionnelle peut être autorisé à poursuivre des études conduisant à un baccalauréat
-général ou technologique. 
+le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, peut autoriser
+un titulaire du brevet d'études professionnelles ou du certificat d'aptitude professionnelle à poursuivre des études en lycée
+conduisant soit au brevet de technicien, soit au baccalauréat général ou technologique. Dans les mêmes conditions, un élève
+parvenu au terme d'une seconde ou d'une première professionnelle peut être autorisé à poursuivre des études conduisant à un
+baccalauréat général ou technologique. 
 
 L'élève est accueilli en deuxième ou troisième année de formation soit directement, soit après une période d'adaptation dont
 la durée et les conditions sont fixées par arrêté du ministre chargé de l'éducation en fonction de la nature et de la
@@ -58627,15 +58985,15 @@ spécialité du diplôme acquis et du diplôme préparé.
 
 	  - Décret n°76-1304 du 28 décembre 1976 - art. 16 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-148 du 10 février 2009 - art. 11
-
 	**Cité par**:
 
 	  - Arrêté du 27 mai 2010 - art. 1 (V)
 	  - Arrêté du 21 février 2013 - art. 1 (V)
 	  - Arrêté du 11 mars 2015 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D333-18-1
@@ -59313,8 +59671,8 @@ Dans les sections comportant des enseignements artistiques spécialisés où int
 ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat. 
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un
-président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second
-degré peut être désigné. 
+président membre de l'enseignement supérieur, un   directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné. 
 
 Au sein des jurys conduisant à la délivrance du baccalauréat option internationale ou à la délivrance de baccalauréats
 binationaux, le recteur peut désigner des personnels d'inspection ou d'enseignement étrangers qui ne peuvent constituer plus
@@ -59329,7 +59687,7 @@ de la moitié des membres du jury, ni exercer la fonction de président ou prés
 
 	**Modifié par**:
 
-	  - Décret n°2008-1012 du 1er octobre 2008 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -61710,45 +62068,48 @@ La délivrance du baccalauréat technologique résulte de la délibération du j
 
 ###### Article D336-20
 
-Les membres des jurys sont désignés par le recteur d'académie.
+Les membres des jurys sont désignés par le recteur d'académie. 
 
-Les jurys sont présidés par un professeur des universités ou un maître de conférences nommé par le recteur.
+Les jurys sont présidés par un professeur des universités ou un maître de conférences nommé par le recteur. 
 
 Les présidents de jurys peuvent être assistés ou suppléés par des présidents adjoints choisis par le recteur parmi les
-professeurs agrégés et assimilés ou, à défaut, parmi les professeurs certifiés et assimilés.
+professeurs agrégés et assimilés ou, à défaut, parmi les professeurs certifiés et assimilés. 
 
-Pour la composition des jurys du baccalauréat, il peut être fait appel aux personnes appartenant aux catégories suivantes :
+Pour la composition des jurys du baccalauréat, il peut être fait appel aux personnes appartenant aux catégories suivantes : 
 
 1° Professeur des universités, maître de conférences ou autre enseignant-chercheur, membre du personnel enseignant des autres
-établissements publics d'enseignement supérieur, en activité ou à la retraite ;
+établissements publics d'enseignement supérieur, en activité ou à la retraite ; 
 
 2° Professeur appartenant à l'enseignement public et, sauf impossibilité, au moins un professeur appartenant à un
 établissement d'enseignement privé, exerçant ou ayant exercé dans les classes de seconde, première et terminales des lycées
-d'enseignement général et technologique et des lycées d'enseignement général et technologique agricole ;
+d'enseignement général et technologique et des lycées d'enseignement général et technologique agricole ; 
 
 3° Pour un tiers du nombre total des membres, de représentants des professions intéressées par le diplôme, employeurs et
-salariés.
+salariés. 
 
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou plusieurs membres, le jury peut néanmoins délibérer
-valablement.
+valablement. 
 
 Dans les sections comportant des enseignements artistiques spécialisés où interviennent des professionnels de façon continue,
-ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat.
+ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat. 
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un
-président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second
-degré peut être désigné.
+président membre de l'enseignement supérieur, un   directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°93-1093 1993-09-15 art. 16, alinéas 2 à 11
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -62260,38 +62621,45 @@ La délivrance du baccalauréat technologique série " hôtellerie " résulte de
 
 ###### Article D336-38
 
-Les membres du jury du baccalauréat technologique série " hôtellerie " sont nommés par le recteur.
+Les membres du jury du baccalauréat technologique série " hôtellerie " sont nommés par le recteur. 
 
-Le jury est présidé par un enseignant-chercheur de l'enseignement supérieur.
+Le jury est présidé par un enseignant-chercheur de l'enseignement supérieur. 
 
 Le président du jury peut être assisté ou suppléé par des présidents adjoints choisis par le recteur parmi les professeurs
-agrégés et assimilés ou, à défaut, parmi les professeurs certifiés et assimilés.
+agrégés et assimilés ou, à défaut, parmi les professeurs certifiés et assimilés. 
 
-Le jury est composé :
+Le jury est composé : 
 
 1° De professeurs appartenant à l'enseignement public et, sauf impossibilité, au moins un professeur appartenant à un
-établissement d'enseignement privé ;
+établissement d'enseignement privé ; 
 
 2° Pour un tiers du nombre total des membres, de représentants de la profession intéressée par le diplôme, employeurs et
-salariés.
+salariés. 
 
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou plusieurs membres, le jury peut néanmoins délibérer
-valablement.
+valablement. 
 
 Dans les centres ouverts à l'étranger, les jurys sont constitués selon les mêmes modalités ; toutefois, à défaut d'un
-président membre de l'enseignement supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second
-degré peut être désigné.
+président membre de l'enseignement supérieur, un   directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 16, alinéas 2 à 9
 	  - Décret n°90-822 du 10 septembre 1990 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2015-270 du 11 mars 2015 - art. 1
 
 	**Cité par**:
 
@@ -63557,14 +63925,14 @@ académie ou d'un groupement d'académies.
 
 Pour chaque session d'examen du certificat d'aptitude professionnelle, les jurys sont constitués au sein d'une académie ou
 d'un groupement d'académies, après consultation des organisations professionnelles représentatives pour ce qui concerne la
-désignation des personnes qualifiées de la profession.
+désignation des personnes qualifiées de la profession. 
 
 Un jury peut être commun à plusieurs certificats d'aptitude professionnelle. Il comporte alors des représentants, enseignants
-et professionnels, de toutes les spécialités intéressées.
+et professionnels, de toutes les spécialités intéressées. 
 
 Pour chaque session d'examen, les présidents, vice-présidents et membres des jurys sont nommés et les sujets et le calendrier
 des épreuves et des réunions des jurys sont fixés par le ou les recteurs ou, par délégation de ceux-ci, par le ou les
-inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 Les inspecteurs de l'éducation nationale, chargés de l'enseignement technique, veillent à l'organisation des examens.
 
@@ -63572,12 +63940,15 @@ Les inspecteurs de l'éducation nationale, chargés de l'enseignement technique,
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 21
 	  - Décret n°2002-463 du 4 avril 2002 - art. 21 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D337-23
@@ -64216,8 +64587,8 @@ peuvent l'être dans un cadre interacadémique, sous l'autorité des recteurs in
 ###### Article D337-43
 
 Pour chaque session d'examen du brevet d'études professionnelles, les sujets et le calendrier des épreuves et des réunions
-des jurys sont fixés par le recteur ou par l'inspecteur d'académie, directeur des services départementaux de l'éducation, par
-délégation du recteur. 
+des jurys sont fixés par le recteur ou par              le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, par délégation du recteur. 
 
 Les inspecteurs de l'éducation nationale chargés de l'enseignement technique veillent à l'organisation des examens et à leur
 bon déroulement. 
@@ -64235,7 +64606,7 @@ maritime parmi les propositions contrôlées et mises en conformité par une com
 
 	**Modifié par**:
 
-	  - Décret n°2009-146 du 10 février 2009 - art. 7
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -64375,8 +64746,8 @@ le jury est présidé par un professeur de l'enseignement maritime.
 ###### Article D337-49
 
 Les membres des jurys du brevet d'études professionnelles, leurs présidents et leurs vice-présidents sont nommés par les
-recteurs ou par les inspecteurs d'académie, directeurs des services départementaux de l'éducation, par délégation des
-recteurs. 
+recteurs ou par les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, par délégation des recteurs. 
 
 Pour chaque session d'examen des spécialités de brevet d'études professionnelles relevant de la formation professionnelle
 maritime mentionnées au dernier alinéa de l'article D. 337-27, les membres des jurys sont nommés par arrêté du ministre
@@ -64391,7 +64762,7 @@ enseignants.
 
 	**Modifié par**:
 
-	  - Décret n°2009-146 du 10 février 2009 - art. 12
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -64706,11 +65077,11 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 Sont admis, en cours de cycle, en classe de première professionnelle dans les établissements mentionnés à l'article D.
 337-56, sur demande de la famille ou de l'élève, s'il est majeur, et après avis du conseil de classe de l'établissement
 d'origine, les candidats titulaires d'un diplôme de niveau V obtenu à la session précédant l'inscription, dans une spécialité
-en cohérence avec celle du baccalauréat professionnel préparé.
+en cohérence avec celle du baccalauréat professionnel préparé. 
 
-L'affectation est prononcée, selon les cas, par l'inspecteur d'académie, dans les conditions fixées par l'article D. 331-38,
-ou par le directeur régional de l'alimentation, de l'agriculture et de la forêt, dans les conditions fixées par l'article D.
-341-16.
+L'affectation est prononcée, selon les cas, par     le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie, dans les conditions fixées par l'article D. 331-38, ou par le directeur régional de
+l'alimentation, de l'agriculture et de la forêt, dans les conditions fixées par l'article D. 341-16.
 
 **Liens relatifs à cet article**
 
@@ -64727,7 +65098,7 @@ ou par le directeur régional de l'alimentation, de l'agriculture et de la forê
 
 	**Modifié par**:
 
-	  - Décret n°2009-145 du 10 février 2009 - art. 4
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -68038,18 +68409,22 @@ obligatoire mentionnée à l'article L. 131-1.
 
 L'admission dans la formation d'apprenti junior est prononcée par le chef d'établissement du lycée professionnel ou le
 directeur du centre de formation d'apprentis dans lequel est ouverte la formation d'apprenti junior. Elle intervient à la
-rentrée de l'année scolaire suivante. Elle peut intervenir, par dérogation de l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, pendant l'année scolaire en cours.
+rentrée de l'année scolaire suivante. Elle peut intervenir, par dérogation du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, pendant l'année scolaire en cours.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-764 du 30 juin 2006 - art. 1 () JORF 1er juillet 2006
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2013-769 du 26 août 2013 - art. 1
 
 
 ###### Article D337-163
@@ -68310,15 +68685,15 @@ un projet d'entrée en apprentissage.
 L'admission dans le dispositif d'initiation aux métiers en alternance a lieu sur demande, présentée au chef d'établissement,
 de l'élève et de ses représentants légaux s'il est mineur. Elle est prononcée par le directeur du centre de formation
 d'apprentis dans lequel est ouvert le dispositif. Elle intervient à la rentrée de l'année scolaire suivant la demande de
-l'élève. Elle peut intervenir en cours d'année scolaire, par dérogation accordée par l'inspecteur d'académie-directeur des
-services départementaux de l'éducation nationale, ou le directeur régional de l'alimentation, de l'agriculture et de la
-forêt, ou le directeur interrégional de la mer.
+l'élève. Elle peut intervenir en cours d'année scolaire, par dérogation accordée par               le directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie, ou le directeur régional de
+l'alimentation, de l'agriculture et de la forêt, ou le directeur interrégional de la mer.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D337-174
@@ -68455,18 +68830,18 @@ le livret personnel de compétences.
 ###### Article D337-182
 
 Lorsqu'un élève, en accord avec ses représentants légaux s'il est mineur, souhaite mettre fin à sa formation, le directeur du
-centre de formation d'apprentis saisit l'inspecteur d'académie-directeur des services départementaux de l'éducation
-nationale, ou le directeur régional de l'alimentation, de l'agriculture et de la forêt, ou le directeur interrégional de la
-mer afin que l'élève puisse, selon son souhait et en fonction de son projet, soit reprendre une scolarité dans un collège ou
-un lycée, soit, s'il a 16 ans ou s'il justifie avoir achevé le dernier cycle du collège, signer un contrat d'apprentissage,
-conformément aux dispositions de l'article L. 6222-1 du code du travail. Dans tous les cas, le directeur du centre de
-formation d'apprentis dans lequel l'élève effectuait sa formation est tenu informé.
+centre de formation d'apprentis saisit               le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie, ou le directeur régional de l'alimentation, de l'agriculture et de la forêt, ou le
+directeur interrégional de la mer afin que l'élève puisse, selon son souhait et en fonction de son projet, soit reprendre une
+scolarité dans un collège ou un lycée, soit, s'il a 16 ans ou s'il justifie avoir achevé le dernier cycle du collège, signer
+un contrat d'apprentissage, conformément aux dispositions de l'article L. 6222-1 du code du travail. Dans tous les cas, le
+directeur du centre de formation d'apprentis dans lequel l'élève effectuait sa formation est tenu informé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-1780 du 31 décembre 2010 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -70024,14 +70399,14 @@ notification de ces décisions ainsi motivées.
 
 En cas d'appel, le chef d'établissement transmet à la commission d'appel les décisions motivées ainsi que tous éléments
 susceptibles d'éclairer cette instance. Les parents de l'élève ou l'élève majeur qui le demandent sont entendus par la
-commission.L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents. 
+commission.L'élève mineur peut être entendu à sa demande, avec l'accord de ses parents.
 
-Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives. 
+Les décisions prises par la commission d'appel valent décisions d'orientation ou de redoublement définitives.
 
 La commission d'appel est présidée par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  ou
 son représentant. Elle comprend des chefs d'établissement, des enseignants, des parents d'élèves, des délégués des élèves,
 des personnels d'éducation nommés par le         directeur régional de l'alimentation, de l'agriculture et de la forêt  et un
-représentant de l'inspection académique sur proposition du recteur. 
+représentant du service départemental de l'éducation nationale  sur proposition du recteur.
 
 La composition et le fonctionnement de la commission d'appel sont précisés par arrêté du ministre chargé de l'agriculture et
 du ministre chargé de l'éducation.
@@ -70048,7 +70423,7 @@ du ministre chargé de l'éducation.
 
 	**Modifié par**:
 
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D341-14
@@ -71312,28 +71687,32 @@ Si l'équipe éducative d'une école ou d'un établissement scolaire souhaite qu
 élaboré pour un élève, le directeur de l'école ou le chef d'établissement en informe l'élève majeur, ou ses parents ou son
 représentant légal, pour qu'ils en fassent la demande. Il leur propose de s'informer des aides qui peuvent être apportées
 dans le cadre de ce projet auprès de l'enseignant référent affecté sur le secteur dont dépend l'école ou l'établissement
-scolaire, selon les modalités prévues à l'article D. 351-14 du présent code.
+scolaire, selon les modalités prévues à l'article D. 351-14 du présent code. 
 
 Si l'élève majeur, ou ses parents ou son représentant légal, ne donnent pas suite à cette proposition dans un délai de quatre
-mois, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, informe de la situation de
-l'élève la maison départementale des personnes handicapées, définie à l'article L. 146-3 du code de l'action sociale et des
-familles, qui prend toutes mesures utiles pour engager un dialogue avec l'élève, ou ses parents ou son représentant légal.
+mois, le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, informe de
+la situation de l'élève la maison départementale des personnes handicapées, définie à l'article L. 146-3 du code de l'action
+sociale et des familles, qui prend toutes mesures utiles pour engager un dialogue avec l'élève, ou ses parents ou son
+représentant légal.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 5
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D351-14 (V)
-	  - Code de l'action sociale et des familles - art. L146-3 (V)
+	  - Code de l'action sociale et des familles - art. L146-3 (M)
 
 	**Cité par**:
 
@@ -71489,34 +71868,38 @@ référent. Il favorise la continuité et la cohérence de la mise en oeuvre du 
 ###### Article D351-13
 
 Le nombre de d'enseignants affectés à des fonctions de référent pour la scolarisation des élèves handicapés est arrêté
-annuellement par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, en tenant compte de
-critères arrêtés nationalement, dont notamment le nombre d'élèves handicapés devant faire l'objet d'un suivi.
+annuellement par               le directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, en tenant compte de critères arrêtés nationalement, dont notamment le nombre d'élèves handicapés devant
+faire l'objet d'un suivi.
 
-Le secteur d'intervention des enseignants référents est fixé par décision de l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale. Il comprend nécessairement des écoles et des établissements du second degré, ainsi
-que les établissements de santé ou médico-sociaux implantés dans ce secteur, de manière à favoriser la continuité des
-parcours de formation.
+Le secteur d'intervention des enseignants référents est fixé par décision du directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie. Il comprend nécessairement des écoles et des établissements du
+second degré, ainsi que les établissements de santé ou médico-sociaux implantés dans ce secteur, de manière à favoriser la
+continuité des parcours de formation.
 
 Les enseignants référents sont affectés dans l'une des écoles ou l'un des établissements scolaires de leur secteur
 d'intervention et placés sous l'autorité d'un ou plusieurs inspecteurs ayant reçu une formation spécifique pour la
-scolarisation des élèves handicapés, désignés par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale.
+scolarisation des élèves handicapés, désignés par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 10
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Arrêté du 17 août 2006 - art. 7 (V)
 	  - Code de l'éducation - art. D351-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D351-14
@@ -71558,22 +71941,25 @@ pluridisciplinaire ainsi qu'à l'élaboration du projet personnalisé de scolari
 
 Le ou les inspecteurs, désignés conformément au troisième alinéa de l'article D. 351-13, coordonnent l'action des enseignants
 référents pour la scolarisation des élèves handicapés afin d'assurer la cohérence des démarches et l'harmonisation des
-pratiques pour faciliter les parcours de formation de ces élèves.
+pratiques pour faciliter les parcours de formation de ces élèves. 
 
-En liaison avec le médecin conseiller technique de l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, et l'inspecteur chargé de l'orientation, ils constituent une cellule de veille de la scolarisation de
-ces élèves.
+En liaison avec le médecin conseiller technique du directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, et l'inspecteur chargé de l'orientation, ils constituent une cellule de veille de la
+scolarisation de ces élèves.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2005-1752 2005-12-30 art. 12
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -71650,8 +72036,8 @@ une école ou un établissement scolaire.
 ###### Article D351-18
 
 La création d'une unité d'enseignement est prévue dans le cadre d'une convention signée entre les représentants de
-l'organisme gestionnaire et l'Etat représenté conjointement par le préfet de département et l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale. 
+l'organisme gestionnaire et l'Etat représenté conjointement par le préfet de département et               le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 Cette unité met en oeuvre tout dispositif d'enseignement concourant à la réalisation du projet personnalisé de scolarisation,
 au service du parcours de formation de l'élève. Le projet pédagogique de l'unité d'enseignement constitue un volet du projet
@@ -71664,8 +72050,9 @@ Dans le cadre de cette convention, le directeur de l'établissement ou du servic
 œuvre des modalités de fonctionnement de l'unité d'enseignement. 
 
 Lorsque l'unité est organisée pour tout ou partie dans un établissement scolaire, cette mise en œuvre est menée conjointement
-avec les responsables des établissements scolaires concernés, qui agissent par délégation de l'inspecteur d'académie ou du
-directeur régional de l'agriculture et de la pêche.
+avec les responsables des établissements scolaires concernés, qui agissent par délégation du directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie ou du directeur régional de l'agriculture et
+de la pêche. 
 
 L'unité d'enseignement est organisée selon les modalités suivantes : 
 
@@ -71681,16 +72068,16 @@ L'unité d'enseignement est organisée selon les modalités suivantes :
 
 	  - Décret n°2005-1752 du 30 décembre 2005 - art. 15 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2009-378 du 2 avril 2009 - art. 10
-
 	**Cité par**:
 
 	  - Arrêté du 2 avril 2009 - art. 2 (VD)
 	  - Arrêté du 2 avril 2009 - art. 5 (VD)
 	  - Code de l'action sociale et des familles - art. D312-10-6 (VD)
 	  - Code de l'éducation - art. D351-4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -71699,9 +72086,9 @@ L'unité d'enseignement est organisée selon les modalités suivantes :
 
 ###### Article D351-19
 
-Pour l'application de la présente section à l'enseignement agricole, les mots : " inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale " sont remplacés par les mots : "         directeur régional de
-l'alimentation, de l'agriculture et de la forêt  ".
+Pour l'application de la présente section à l'enseignement agricole, les mots : "             directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par les mots : " directeur
+régional de l'alimentation, de l'agriculture et de la forêt ".
 
 **Liens relatifs à cet article**
 
@@ -71711,7 +72098,7 @@ l'alimentation, de l'agriculture et de la forêt  ".
 
 	**Modifié par**:
 
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D351-20
@@ -71746,27 +72133,27 @@ chargé de l'agriculture et du ministre chargé des personnes handicapées.
 
 ###### Article D351-20-1
 
-I.-Les associations ou groupements d'associations qui ont conclu avec le ministère de l'éducation nationale une convention-
+I. - Les associations ou groupements d'associations qui ont conclu avec le ministère de l'éducation nationale une convention-
 cadre à l'effet d'assurer l'aide individuelle mentionnée à l'article L. 351-3 peuvent recruter les personnels dont la
 continuité de l'accompagnement a été reconnue comme nécessaire aux élèves handicapés en vertu du II et bénéficier à ce titre
 d'une subvention dans les conditions prévues au III. 
 
-II.-Les personnels employés par le ministère de l'éducation nationale ou par les établissements publics locaux d'enseignement
-assurant auprès d'élèves handicapés une aide individuelle peuvent, lorsque les dispositions législatives et réglementaires en
-vigueur ne permettent pas le renouvellement de leur contrat, demander à l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, leur inscription sur une liste départementale. 
+II. - Les personnels employés par le ministère de l'éducation nationale ou par les établissements publics locaux
+d'enseignement assurant auprès d'élèves handicapés une aide individuelle peuvent, lorsque les dispositions législatives et
+réglementaires en vigueur ne permettent pas le renouvellement de leur contrat, demander au directeur académique des services
+de l'éducation nationale agissant sur délégation du recteur d'académie, leur inscription sur une liste départementale. 
 
 Celui-ci apprécie si la nature particulière du handicap de l'élève rend nécessaire la continuité de son accompagnement par
 l'agent concerné au regard, notamment, des compétences spécifiques que ce dernier a acquises pour la prise en charge de ce
 handicap. 
 
-S'il conclut à la nécessité d'une telle continuité et si la famille de l'élève en est d'accord, l'inspecteur d'académie
-inscrit l'agent concerné sur la liste. 
+S'il conclut à la nécessité d'une telle continuité et si la famille de l'élève en est d'accord, le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie inscrit l'agent concerné sur la liste. 
 
-III.-Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste prévue au II, les associations et groupements
-d'associations employeurs concluent une convention avec l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, qui précise notamment le montant de la subvention attribuée par l'Etat au titre de l'accompagnement de
-l'élève handicapé. 
+III. - Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste prévue au II, les associations et groupements
+d'associations employeurs concluent une convention avec               le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie, qui précise notamment le montant de la subvention attribuée par
+l'Etat au titre de l'accompagnement de l'élève handicapé. 
 
 Cette subvention est calculée ainsi qu'il suit :
 
@@ -71783,7 +72170,7 @@ La subvention est susceptible d'être révisée en cours d'année pour tenir com
 horaire de l'aide individuelle déterminée par la commission des droits et de l'autonomie des personnes handicapées
 postérieurement au recrutement des intéressés. 
 
-IV.-Les modalités de mise en œuvre du présent article et, en particulier, les conditions d'instruction des demandes prévues
+IV. - Les modalités de mise en œuvre du présent article et, en particulier, les conditions d'instruction des demandes prévues
 au II ainsi que les éléments devant figurer dans les conventions mentionnées aux I et III sont définis conjointement par les
 ministres chargés de l'éducation nationale, du travail, de l'emploi et de la solidarité.
 
@@ -71791,12 +72178,12 @@ ministres chargés de l'éducation nationale, du travail, de l'emploi et de la s
 
 	**Modifié par**:
 
-	  - Décret n°2010-937 du 24 août 2010 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L351-3 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (V)
+	  - Code de l'éducation - art. L351-3
+	  - Code de l'action sociale et des familles - art. L312-1
 
 
 ##### Section 3 : Dispositions particulières en faveur des jeunes sourds.
@@ -72632,62 +73019,63 @@ directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 ###### Article D371-4
 
-I. - Pour leur application dans les îles Wallis et Futuna, les troisième et quatrième alinéas de l'article D. 331-35 sont
-remplacés par les alinéas suivants :
+I.-Pour leur application dans les îles Wallis et Futuna, les troisième et quatrième alinéas de l'article D. 331-35 sont
+remplacés par les alinéas suivants : 
 
 " La commission d'appel est présidée par le vice-recteur ; celui-ci peut se faire représenter. Elle comprend les membres
-suivants :
+suivants : 
 
-" - deux chefs d'établissement ;
+"-deux chefs d'établissement ; 
 
-" - trois professeurs exerçant au niveau scolaire concerné ;
+"-trois professeurs exerçant au niveau scolaire concerné ; 
 
-" - un conseiller principal d'éducation ou un conseiller d'éducation ;
+"-un conseiller principal d'éducation ou un conseiller d'éducation ; 
 
-" - un directeur de centre d'information et d'orientation ;
+"-un directeur de centre d'information et d'orientation ; 
 
-" - trois représentants des parents d'élèves.
+"-trois représentants des parents d'élèves. 
 
-" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire.
+" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, ils désignent un nombre égal de suppléants
-des représentants des parents d'élèves.
+des représentants des parents d'élèves. 
 
 " Le vice-recteur peut mettre en place des sous-commissions d'appel dont la composition est identique à celle de la
 commission d'appel, à l'exception de la présidence, qui est assurée par un chef d'établissement dont l'établissement n'est
-pas situé dans le ressort de la sous-commission. "
+pas situé dans le ressort de la sous-commission. " 
 
-II. - Pour leur application dans les îles Wallis et Futuna, les deuxième et troisième alinéas de l'article D. 331-38 sont
-remplacés par les alinéas suivants :
+II.-Pour leur application dans les îles Wallis et Futuna, les deuxième et troisième alinéas de l'article D. 331-38 sont
+remplacés par les alinéas suivants : 
 
 " L'affectation est de la compétence du vice-recteur. Il est assisté d'une commission préparatoire à l'affectation des élèves
-dont la composition est fixée comme suit :
+dont la composition est fixée comme suit : 
 
-" - un représentant du vice-recteur, président ;
+"-un représentant du vice-recteur, président ; 
 
-" - les chefs des établissements scolaires d'accueil ;
+"-les chefs des établissements scolaires d'accueil ; 
 
-" - deux chefs d'établissements scolaires d'origine ;
+"-deux chefs d'établissements scolaires d'origine ; 
 
-" - un directeur de centre d'information et d'orientation ou son représentant ;
+"-un directeur de centre d'information et d'orientation ou son représentant ; 
 
-" - deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives.
+"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, le vice-recteur désigne un nombre égal de
-suppléants des représentants des parents d'élèves.
+suppléants des représentants des parents d'élèves. 
 
-" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur.
+" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le vice-recteur. L'élève est scolarisé dans
-la même voie d'orientation et compte tenu de la formation déjà reçue. "
+la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-III. - Pour l'application dans les îles Wallis et Futuna de l'article D. 331-42, les mots : " inspecteur d'académie " sont
-remplacés par le mot : " vice-recteur ".
+III.-Pour l'application dans les îles Wallis et Futuna de l'article D. 331-42, les mots : "   directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : " vice-recteur
+". 
 
-IV. - Pour son application dans les îles Wallis et Futuna, le deuxième alinéa de l'article D. 331-43 est remplacé par les
-dispositions suivantes :
+IV.-Pour son application dans les îles Wallis et Futuna, le deuxième alinéa de l'article D. 331-43 est remplacé par les
+dispositions suivantes : 
 
 " Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation,
 ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au vice-recteur. "
@@ -72702,46 +73090,50 @@ préparatoire à l'affectation : Wallis et Futuna).
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 23-1, alinéas 1 à 9, 17 à 27, 37 et 38, en ce qui concerne Wallis et Futuna
 	  - Décret n°90-484 du 14 juin 1990 - art. 23-1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
 	  - Code de l'éducation - art. D371-3 (MMN)
 
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35 (V)
-	  - Code de l'éducation - art. D331-38 (V)
-	  - Code de l'éducation - art. D331-42 (V)
-	  - Code de l'éducation - art. D331-43 (V)
+	  - Code de l'éducation - art. D331-35
+	  - Code de l'éducation - art. D331-38
+	  - Code de l'éducation - art. D331-42
+	  - Code de l'éducation - art. D331-43
 
 
 ###### Article D371-5
 
 Dans les jurys mentionnés aux articles D. 334-21, D. 336-20 et D. 336-38, à défaut d'un président membre de l'enseignement
-supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un
+professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 16, alinéa 9, en ce qui concerne les îles Wallis et Futuna
 	  - Décret n°90-822 du 10 septembre 1990 - art. 16 (Ab)
-	  - Décret n°93-1093 1993-09-15 art. 16, alinéa 11, en ce qui concerne les îles Wallis et Futuna
-	  - Décret n°93-1092 1993-09-15 art. 16, alinéa 11, en ce qui concerne les îles Wallis et Futuna
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (Ab)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -72873,63 +73265,64 @@ directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 ###### Article D372-4
 
-I. - Pour leur application à Mayotte, les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par les
-alinéas suivants :
+I.-Pour leur application à Mayotte, les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par les alinéas
+suivants : 
 
 " La commission d'appel est présidée par le vice-recteur ; celui-ci peut se faire représenter. Elle comprend les membres
-suivants :
+suivants : 
 
-" - deux chefs d'établissement ;
+"-deux chefs d'établissement ; 
 
-" - trois professeurs exerçant au niveau scolaire concerné ;
+"-trois professeurs exerçant au niveau scolaire concerné ; 
 
-" - un conseiller principal d'éducation ou un conseiller d'éducation ;
+"-un conseiller principal d'éducation ou un conseiller d'éducation ; 
 
-" - un directeur de centre d'information et d'orientation ;
+"-un directeur de centre d'information et d'orientation ; 
 
-" - trois représentants des parents d'élèves.
+"-trois représentants des parents d'élèves. 
 
-" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire.
+" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, ils désignent un nombre égal de suppléants
-des représentants des parents d'élèves.
+des représentants des parents d'élèves. 
 
 " Le vice-recteur peut mettre en place des sous-commissions d'appel dont la composition est identique à celle de la
 commission d'appel, à l'exception de la présidence, qui est assurée par un chef d'établissement dont l'établissement n'est
-pas situé dans le ressort de la sous-commission. "
+pas situé dans le ressort de la sous-commission. " 
 
-II. - Pour leur application à Mayotte, les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les
-alinéas suivants :
+II.-Pour leur application à Mayotte, les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les alinéas
+suivants : 
 
 " L'affectation est de la compétence du vice-recteur. Il est assisté d'une commission préparatoire à l'affectation des élèves
-dont la composition est fixée comme suit :
+dont la composition est fixée comme suit : 
 
-" - un représentant du vice-recteur, président ;
+"-un représentant du vice-recteur, président ; 
 
-" - les chefs des établissements scolaires d'accueil ;
+"-les chefs des établissements scolaires d'accueil ; 
 
-" - deux chefs d'établissements scolaires d'origine ;
+"-deux chefs d'établissements scolaires d'origine ; 
 
-" - un directeur de centre d'information et d'orientation ou son représentant ;
+"-un directeur de centre d'information et d'orientation ou son représentant ; 
 
-" - deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives.
+"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, le vice-recteur désigne un nombre égal de
-suppléants des représentants des parents d'élèves.
+suppléants des représentants des parents d'élèves. 
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur ou du
-chef du service de l'éducation nationale.
+chef du service de l'éducation nationale. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le vice-recteur. L'élève est scolarisé dans
-la même voie d'orientation et compte tenu de la formation déjà reçue. "
+la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-III. - Pour l'application à Mayotte de l'article D. 331-42, les mots : " inspecteur d'académie " sont remplacés par le mot :
+III.-Pour l'application à Mayotte de l'article D. 331-42, les mots : "   directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : 
 
-" vice-recteur ".
+" vice-recteur ". 
 
-IV. - Pour son application à Mayotte, le deuxième alinéa de l'article D. 331-43 est remplacé par les dispositions suivantes :
+IV.-Pour son application à Mayotte, le deuxième alinéa de l'article D. 331-43 est remplacé par les dispositions suivantes : 
 
 " Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation,
 ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au vice-recteur. "
@@ -72944,52 +73337,55 @@ préparatoire à l'affectation : Mayotte).
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 23-1, alinéas 1 à 9, 17 à 27, 37 et 38, en ce qui concerne Mayotte
 	  - Décret n°90-484 du 14 juin 1990 - art. 23-1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
 	  - Code de l'éducation - art. D372-3 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35 (V)
-	  - Code de l'éducation - art. D331-38 (V)
-	  - Code de l'éducation - art. D331-42 (V)
-	  - Code de l'éducation - art. D331-43 (V)
+	  - Code de l'éducation - art. D331-35
+	  - Code de l'éducation - art. D331-38
+	  - Code de l'éducation - art. D331-42
+	  - Code de l'éducation - art. D331-43
 
 
 ###### Article D372-5
 
 Dans les jurys mentionnés aux articles D. 334-21, D. 336-20 et D. 336-38, à défaut d'un président membre de l'enseignement
-supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un
+professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 16, alinéa 9, en ce qui concerne Mayotte
 	  - Décret n°90-822 du 10 septembre 1990 - art. 16 (Ab)
-	  - Décret n°93-1093 1993-09-15 art. 16, alinéa 11, en ce qui concerne Mayotte
-	  - Décret n°93-1092 1993-09-15 art. 16, alinéa 11 en ce qui concerne Mayotte
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (Ab)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
 	  - Code de l'éducation - art. D334-21 (V)
 	  - Code de l'éducation - art. D336-20 (V)
-	  - Code de l'éducation - art. D336-38 (V)
 
 	**Cité par**:
 
@@ -73097,14 +73493,15 @@ sont remplacés par le mot : " vice-recteur " ;
 
 " collectivité d'outre-mer " ; 
 
-3° Les mots : "         directeur régional de l'alimentation, de l'agriculture et de la forêt  " sont remplacés par les
-mots : " directeur de l'agriculture, de la forêt et de l'environnement " ; 
+3° Les mots : " directeur régional de l'alimentation, de l'agriculture et de la forêt " sont remplacés par les mots : "
+directeur de l'agriculture, de la forêt et de l'environnement " ; 
 
 4° Les mots : " directeur régional des affaires maritimes " sont remplacés par les mots : " directeur des affaires maritimes
 " ; 
 
 5° Dans les jurys mentionnés aux articles D. 334-21, D. 336-20 et D. 336-38, à défaut d'un président membre de l'enseignement
-supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un
+professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
@@ -73116,14 +73513,22 @@ supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignemen
 
 	**Modifié par**:
 
-	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation
-	  - Code de l'éducation - art. D334-21
-	  - Code de l'éducation - art. D336-20
-	  - Code de l'éducation - art. D336-38
+	  - Code de l'éducation - art. D332-16 (V)
+	  - Code de l'éducation - art. D334-1 (V)
+	  - Code de l'éducation - art. D334-21 (V)
+	  - Code de l'éducation - art. D336-1 (V)
+	  - Code de l'éducation - art. D336-20 (V)
+	  - Code de l'éducation - art. D336-38 (V)
+	  - Code de l'éducation - art. D337-1 (V)
+	  - Code de l'éducation - art. D337-113 (V)
+	  - Code de l'éducation - art. D337-16 (V)
+	  - Code de l'éducation - art. D337-32 (V)
+	  - Code de l'éducation - art. D337-46 (V)
+	  - Code de l'éducation - art. D337-76 (V)
 
 
 ###### Article D373-2-1
@@ -73419,62 +73824,62 @@ directeur de l'agriculture, de la forêt et de l'environnement " ;
 
 ###### Article D374-4
 
-I. - Pour leur application en Nouvelle-Calédonie, les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés
-par les alinéas suivants :
+I.-Pour leur application en Nouvelle-Calédonie, les troisième et quatrième alinéas de l'article D. 331-35 sont remplacés par
+les alinéas suivants : 
 
 " La commission d'appel est présidée par le vice-recteur ; celui-ci peut se faire représenter. Elle comprend les membres
-suivants :
+suivants : 
 
-" - deux chefs d'établissement ;
+"-deux chefs d'établissement ; 
 
-" - trois professeurs exerçant au niveau scolaire concerné ;
+"-trois professeurs exerçant au niveau scolaire concerné ; 
 
-" - un conseiller principal d'éducation ou un conseiller d'éducation ;
+"-un conseiller principal d'éducation ou un conseiller d'éducation ; 
 
-" - un directeur de centre d'information et d'orientation ;
+"-un directeur de centre d'information et d'orientation ; 
 
-" - trois représentants des parents d'élèves.
+"-trois représentants des parents d'élèves. 
 
-" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire.
+" La commission peut s'adjoindre un médecin de santé scolaire et une assistante sociale scolaire. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, ils désignent un nombre égal de suppléants
-des représentants des parents d'élèves.
+des représentants des parents d'élèves. 
 
 " Le vice-recteur peut mettre en place des sous-commissions d'appel dont la composition est identique à celle de la
 commission d'appel, à l'exception de la présidence, qui est assurée par un chef d'établissement dont l'établissement n'est
-pas situé dans le ressort de la sous-commission. "
+pas situé dans le ressort de la sous-commission. " 
 
-II. - Pour leur application en Nouvelle-Calédonie, les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés
-par les alinéas suivants :
+II.-Pour leur application en Nouvelle-Calédonie, les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par
+les alinéas suivants : 
 
 " L'affectation est de la compétence du vice-recteur. Il est assisté d'une commission préparatoire à l'affectation des élèves
-dont la composition est fixée comme suit :
+dont la composition est fixée comme suit : 
 
-" - un représentant du vice-recteur, président ;
+"-un représentant du vice-recteur, président ; 
 
-" - les chefs des établissements scolaires d'accueil ;
+"-les chefs des établissements scolaires d'accueil ; 
 
-" - deux chefs d'établissements scolaires d'origine ;
+"-deux chefs d'établissements scolaires d'origine ; 
 
-" - un directeur de centre d'information et d'orientation ou son représentant ;
+"-un directeur de centre d'information et d'orientation ou son représentant ; 
 
-" - deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives.
+"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
 
 " Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
 associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, le vice-recteur désigne un nombre égal de
-suppléants des représentants des parents d'élèves.
+suppléants des représentants des parents d'élèves. 
 
-" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur.
+" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le vice-recteur. L'élève est scolarisé dans
-la même voie d'orientation et compte tenu de la formation déjà reçue. "
+la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-III. - Pour l'application de l'article D. 331-42 en Nouvelle-Calédonie, les mots : " inspecteur d'académie " sont remplacés
-par le mot : " vice-recteur ".
+III.-Pour l'application de l'article D. 331-42 en Nouvelle-Calédonie, les mots : " directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : " vice-recteur ". 
 
-IV. - Pour son application en Nouvelle-Calédonie, le deuxième alinéa de l'article D. 331-43 est remplacé par les dispositions
-suivantes :
+IV.-Pour son application en Nouvelle-Calédonie, le deuxième alinéa de l'article D. 331-43 est remplacé par les dispositions
+suivantes : 
 
 " Les actions menées dans l'établissement scolaire en matière de dialogue, d'information, de préparation de l'orientation,
 ainsi que les résultats de l'orientation figurent dans un rapport annuel adressé au vice-recteur. "
@@ -73489,17 +73894,20 @@ préparatoire à l'affectation : Nouvelle-Calédonie).
 
 	**Anciens textes**:
 
-	  - Décret n°90-484 1990-06-14 art. 23-1, alinéas 1 à 9, 17 à 19, 20 à 27, 37 et 38, en ce qui concerne la Nouvelle-Calédonie
 	  - Décret n°90-484 du 14 juin 1990 - art. 23-1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Décret n°2009-627 du 6 juin 2009 - art. (V)
 	  - Code de l'éducation - art. D374-3 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -73512,23 +73920,24 @@ préparatoire à l'affectation : Nouvelle-Calédonie).
 ###### Article D374-5
 
 Dans les jurys mentionnés aux articles D. 334-21, D. 336-20 et D. 336-38, à défaut d'un président membre de l'enseignement
-supérieur, un inspecteur d'académie ou un professeur agrégé de l'enseignement du second degré peut être désigné.
+supérieur, un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou un
+professeur agrégé de l'enseignement du second degré peut être désigné.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°90-822 1990-09-10 art. 16, alinéa 9, en ce qui concerne la Nouvelle-Calédonie
 	  - Décret n°90-822 du 10 septembre 1990 - art. 16 (Ab)
-	  - Décret n°93-1093 1993-09-15 art. 16, alinéa 11, en ce qui concerne la Nouvelle-Calédonie
-	  - Décret n°93-1092 1993-09-15 art. 16, alinéa 11, en ce qui concerne la Nouvelle-Calédonie
-	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (M)
 	  - Décret n°93-1092 du 15 septembre 1993 - art. 16 (Ab)
 	  - Décret n°93-1093 du 15 septembre 1993 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -74365,29 +74774,26 @@ Le conseil d'école établit son règlement intérieur, et notamment les modalit
 
 Pour l'application des articles D. 411-1 et D. 411-2, des conseils d'école peuvent décider de se regrouper en un seul conseil
 pour la durée de l'année scolaire après délibération prise à la majorité des membres de chaque conseil, sauf opposition
-motivée de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. 
+motivée du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 Tous les membres des conseils des écoles d'origine sont membres du conseil ainsi constitué, qui est présidé par l'un des
-directeurs d'école désigné par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après
-avis de la commission administrative paritaire départementale unique des instituteurs et professeurs des écoles.
+directeurs d'école désigné par               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, après avis de la commission administrative paritaire départementale unique des instituteurs
+et professeurs des écoles.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-788 du 6 septembre 1990 - art. 19 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. D411-1
 
 	**Cité par**:
 
@@ -74516,28 +74922,24 @@ réussite éducative.
 
 Le projet d'école peut prévoir, pour une durée maximale de cinq ans, la réalisation d'expérimentations portant sur les
 domaines énumérés au troisième alinéa de l'article L. 401-1. Les objectifs, principes et modalités générales de ces
-expérimentations sont approuvés par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
-Ces expérimentations font l'objet d'une évaluation annuelle par le conseil des maîtres de l'école ; les corps d'inspection
-concourent à cette évaluation.
+expérimentations sont approuvés par               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie. Ces expérimentations font l'objet d'une évaluation annuelle par le conseil des maîtres de
+l'école ; les corps d'inspection concourent à cette évaluation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-788 du 6 septembre 1990 - art. 9-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-2 (V)
-	  - Code de l'éducation - art. L401-1 (V)
+	  - Code de l'éducation - art. D411-2
+	  - Code de l'éducation - art. L401-1
 
 	**Cité par**:
 
@@ -74569,22 +74971,18 @@ IX du code du travail.
 ###### Article R411-5
 
 Un règlement type des écoles maternelles et des écoles élémentaires publiques de chaque département est arrêté par
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après avis du conseil départemental
-de l'éducation nationale.
+le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis du
+conseil départemental de l'éducation nationale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°90-788 du 6 septembre 1990 - art. 9, alinéa 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -74699,37 +75097,32 @@ Pour son application aux écoles régionales du premier degré :
 a) Le 3° de l'article R. 421-9 est ainsi rédigé : « Préside le conseil d'administration ; » ; 
 
 b) Le 9° de l'article R. 421-17 est ainsi rédigé : « Quatre représentants élus des parents d'élèves et quatre représentants
-des professions non sédentaires nommés par l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale. »
+des professions non sédentaires nommés par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie. »
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 1, alinéa 1, ecqc les établissements d'éducation spéciale (Ab)
-	  - Décret n°85-924 du 30 août 1985 - art. 13, alinéa 10, ecqc les écoles régionales du premier degré (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D421-31 (V)
-	  - Code de l'éducation - art. R412-2 (V)
-	  - Code de l'éducation - art. R421-10 (V)
-	  - Code de l'éducation - art. R421-15 (V)
-	  - Code de l'éducation - art. R421-17 (V)
-	  - Code de l'éducation - art. R421-20 (V)
-	  - Code de l'éducation - art. R421-23 (V)
-	  - Code de l'éducation - art. R421-29 (V)
-	  - Code de l'éducation - art. R421-46 (V)
-	  - Code de l'éducation - art. R421-53 (V)
-	  - Code de l'éducation - art. R421-9 (V)
+	  - Code de l'éducation - art. D421-31
+	  - Code de l'éducation - art. R412-2
+	  - Code de l'éducation - art. R421-10
+	  - Code de l'éducation - art. R421-15
+	  - Code de l'éducation - art. R421-17
+	  - Code de l'éducation - art. R421-20
+	  - Code de l'éducation - art. R421-23
+	  - Code de l'éducation - art. R421-29
+	  - Code de l'éducation - art. R421-46
+	  - Code de l'éducation - art. R421-53
+	  - Code de l'éducation - art. R421-9
 
 
 ### Titre II : Les collèges et les lycées.
@@ -75332,40 +75725,36 @@ des élèves, dont un au moins représente les élèves des classes postbaccalau
 
 ###### Article R421-15
 
-Lorsque le conseil d'administration comprend une personnalité qualifiée, elle est désignée par l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale, sur proposition du chef d'établissement, après avis de la
-collectivité territoriale de rattachement.
+Lorsque le conseil d'administration comprend une personnalité qualifiée, elle est désignée par               le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, sur proposition du chef
+d'établissement, après avis de la collectivité territoriale de rattachement. 
 
-Lorsque le conseil d'administration comprend deux personnalités qualifiées, la première est désignée par l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du chef d'établissement, la
-seconde est désignée par la collectivité de rattachement.
+Lorsque le conseil d'administration comprend deux personnalités qualifiées, la première est désignée par               le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, sur proposition du
+chef d'établissement, la seconde est désignée par la collectivité de rattachement. 
 
-Si la personnalité qualifiée désignée par l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, représente les organisations syndicales des salariés ou les organisations syndicales des employeurs, celle
-désignée par la collectivité de rattachement doit représenter les organisations syndicales des employeurs ou les
-organisations syndicales des salariés.
+Si la personnalité qualifiée désignée par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, représente les organisations syndicales des salariés ou les organisations
+syndicales des employeurs, celle désignée par la collectivité de rattachement doit représenter les organisations syndicales
+des employeurs ou les organisations syndicales des salariés. 
 
-Si la personnalité qualifiée désignée par l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, ne représente ni les organisations syndicales des salariés ni les organisations syndicales d'employeurs, celle
-désignée par la collectivité ne peut représenter ni les organisations syndicales d'employeurs ni les organisations syndicales
-de salariés.
+Si la personnalité qualifiée désignée par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, ne représente ni les organisations syndicales des salariés ni les
+organisations syndicales d'employeurs, celle désignée par la collectivité ne peut représenter ni les organisations syndicales
+d'employeurs ni les organisations syndicales de salariés. 
 
 Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan
 départemental des organisations doit être prise en compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 11, alinéas 9 (2e phrase) à 11 et 14 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -75829,21 +76218,17 @@ degré et des établissements régionaux d'enseignement adapté.
 ###### Article D421-32
 
 Ces opérations sont effectuées sous la responsabilité du ministre chargé de l'éducation et ont lieu auprès des recteurs
-d'académie ou des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale.
+d'académie ou des directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-1054 du 23 septembre 1986 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R421-26
@@ -79185,32 +79570,28 @@ La formation dispensée dans les sections internationales a pour objet de facili
 ###### Article D421-133
 
 L'admission des élèves dans les sections internationales est prononcée, dans les conditions fixées par le ministre chargé de
-l'éducation, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du
-directeur d'école et du chef d'établissement qui aura vérifié au préalable l'aptitude des enfants français et étrangers à
-suivre le type d'enseignement dispensé dans ces sections. 
+l'éducation, par               le directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, sur proposition du directeur d'école et du chef d'établissement qui aura vérifié au préalable l'aptitude
+des enfants français et étrangers à suivre le type d'enseignement dispensé dans ces sections. 
 
 Les dispositions des articles D. 321-6 et D. 331-23 à D. 331-44 relatives à l'orientation des élèves s'appliquent aux
 sections internationales.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°81-594 du 11 mai 1981 - art. 3 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D312-6 (V)
-	  - Code de l'éducation - art. D331-23 (V)
-	  - Code de l'éducation - art. D331-44 (V)
+	  - Code de l'éducation - art. D312-6
+	  - Code de l'éducation - art. D331-23
+	  - Code de l'éducation - art. D331-44
 
 
 ###### Article D421-134
@@ -79481,35 +79862,35 @@ section internationale.
 
 Pour assurer la cohérence entre les formations propres aux sections internationales des écoles, des collèges et des lycées
 d'une même académie et procéder notamment aux aménagements éventuels concernant l'organisation pédagogique, un conseil
-académique des sections internationales peut être institué par le recteur.
+académique des sections internationales peut être institué par le recteur. 
 
-Ce conseil comporte les membres suivants :
+Ce conseil comporte les membres suivants : 
 
-1° Le recteur d'académie ou son représentant, président ;
+1° Le recteur d'académie ou son représentant, président ; 
 
-2° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+2° Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-3° Un inspecteur d'académie-inspecteur pédagogique régional ;
+3° Un inspecteur d'académie-inspecteur pédagogique régional ; 
 
-4° Un inspecteur de l'éducation nationale ;
+4° Un inspecteur de l'éducation nationale ; 
 
-5° Les directeurs des écoles et chefs des établissements comportant des sections internationales ;
+5° Les directeurs des écoles et chefs des établissements comportant des sections internationales ; 
 
-6° Trois représentants des personnels enseignants (un pour les écoles, un pour les collèges, un pour les lycées) ;
+6° Trois représentants des personnels enseignants (un pour les écoles, un pour les collèges, un pour les lycées) ; 
 
-7° Trois représentants des parents d'élèves (un pour écoles, un pour les collèges, un pour les lycées) ;
+7° Trois représentants des parents d'élèves (un pour écoles, un pour les collèges, un pour les lycées) ; 
 
-8° Deux représentants des élèves (un pour les collèges, un pour les lycées) ;
+8° Deux représentants des élèves (un pour les collèges, un pour les lycées) ; 
 
-9° Sept personnalités locales, dont :
+9° Sept personnalités locales, dont : 
 
-a) Un représentant du département ;
+a) Un représentant du département ; 
 
-b) Un représentant de la région ;
+b) Un représentant de la région ; 
 
-c) Le maire d'une commune siège d'une école ou d'un établissement comportant une ou plusieurs sections internationales ;
+c) Le maire d'une commune siège d'une école ou d'un établissement comportant une ou plusieurs sections internationales ; 
 
-d) Quatre personnalités choisies en fonction de l'intérêt qu'elles portent aux sections internationales.
+d) Quatre personnalités choisies en fonction de l'intérêt qu'elles portent aux sections internationales. 
 
 Les représentants des personnels enseignants, des parents d'élèves et des élèves au conseil académique des sections
 internationales sont désignés par le recteur parmi les membres des conseils des sections internationales d'école, de collège
@@ -79517,22 +79898,18 @@ ou de lycée de l'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°81-594 du 11 mai 1981 - art. 9 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
-
-	**Créé par**:
-
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 2 juin 2010 - art. 7 (Ab)
 	  - Arrêté du 2 juin 2010 - art. 7 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Sous-section 2 : Les sections binationales
@@ -79580,14 +79957,14 @@ civilisation du pays partenaire.
 ###### Article D421-143-3
 
 L'admission des élèves dans les sections binationales est prononcée, dans les conditions fixées par le ministre chargé de
-l'éducation, par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur proposition du
-chef d'établissement.
+l'éducation, par               le directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, sur proposition du chef d'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-592 du 2 juin 2010 - art. 5
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -80496,25 +80873,21 @@ les lycées, dont un au moins représentant les élèves des classes post-baccal
 
 ###### Article D422-13
 
-Les personnalités qualifiées sont désignées par l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, sur proposition du chef d'établissement.
+Les personnalités qualifiées sont désignées par               le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie, sur proposition du chef d'établissement. 
 
 Pour la désignation de représentants des organisations syndicales de salariés ou d'employeurs, la représentativité au plan
 départemental des organisations syndicales doit être prise en compte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 12, alinéa 9 (2e phrase) et alinéa 12 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -82194,31 +82567,28 @@ cours de toute nature organisés dans l'établissement, aux membres des conseils
 
 Pour l'application au lycée polyvalent et lycée professionnel de Saint-Pierre-et-Miquelon des dispositions des articles D.
 422-8, D. 422-9, D. 422-10, D. 422-11, D. 422-13, D. 422-15, D. 422-18, D. 422-21, D. 422-26, D. 422-31 et D. 422-47, les
-mots : « autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « chef du
-service de l'éducation nationale ». A l'article D. 422-9, les mots : « représentant de l'Etat dans le département » sont
-remplacés par les mots : « le préfet ou son représentant ».
+mots : « autorité académique », «   directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie » et « recteur d'académie » sont remplacés par les mots : « chef du service de l'éducation nationale ». A
+l'article D. 422-9, les mots : « représentant de l'Etat dans le département » sont remplacés par les mots : « le préfet ou
+son représentant ».
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2005-1321 du 25 octobre 2005 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D422-21 (V)
-	  - Code de l'éducation - art. D422-31 (V)
-	  - Code de l'éducation - art. D422-47 (V)
-	  - Code de l'éducation - art. D422-8 (V)
-	  - Code de l'éducation - art. D422-9 (V)
+	  - Code de l'éducation - art. D422-21
+	  - Code de l'éducation - art. D422-31
+	  - Code de l'éducation - art. D422-47
+	  - Code de l'éducation - art. D422-8
+	  - Code de l'éducation - art. D422-9
 
 
 ##### Sous-section 2 : Les établissements relevant du ministère de l'agriculture.
@@ -82352,8 +82722,9 @@ trois membres, selon que le conseil d'établissement doit comprendre 30 ou 24 me
 
 En outre, lorsque le conseil d'établissement comprend une personnalité qualifiée, celle-ci est désignée par la collectivité
 qui assure la gestion financière de l'établissement. Si le conseil d'établissement comprend deux personnalités qualifiées,
-l'une est désignée, sur proposition du chef d'établissement, par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, l'autre par la collectivité qui assure la gestion financière de l'établissement. 
+l'une est désignée, sur proposition du chef d'établissement, par               le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, l'autre par la collectivité qui assure la gestion
+financière de l'établissement. 
 
 Les membres du conseil d'établissement sont désignés conformément aux dispositions des articles D. 422-22 à D. 422-30. 
 
@@ -82365,28 +82736,24 @@ et exercent les compétences prévues aux articles D. 422-33 et D. 422-38.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 50 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D422-12 (V)
-	  - Code de l'éducation - art. D422-22 (V)
-	  - Code de l'éducation - art. D422-31 (V)
-	  - Code de l'éducation - art. D422-32 (V)
-	  - Code de l'éducation - art. D422-33 (V)
-	  - Code de l'éducation - art. D422-35 (V)
-	  - Code de l'éducation - art. D422-38 (V)
-	  - Code de l'éducation - art. D422-61 (V)
+	  - Code de l'éducation - art. D422-12
+	  - Code de l'éducation - art. D422-22
+	  - Code de l'éducation - art. D422-31
+	  - Code de l'éducation - art. D422-32
+	  - Code de l'éducation - art. D422-33
+	  - Code de l'éducation - art. D422-35
+	  - Code de l'éducation - art. D422-38
+	  - Code de l'éducation - art. D422-61
 
 
 ###### Article D422-64
@@ -82479,6 +82846,78 @@ ou de nature à porter atteinte au fonctionnement du service public.
 ##### Section 1 : La formation professionnelle tout au long de la vie.
 
 ##### Sous-section 1 : Les groupements d'établissements.
+
+##### Paragraphe 1 : Les groupements d'établissements  relevant du ministère de l'éducation nationale.
+
+###### Article D423-3
+
+La convention mentionnée à l'article D. 423-1 est approuvée par le recteur après avis du ou des directeurs académiques des
+services de l'éducation nationale agissant sur délégation du recteur d'académie. 
+
+Elle précise notamment les droits et obligations des établissements, les règles d'organisation, de fonctionnement et de
+dissolution du groupement. Elle mentionne également l'établissement support du groupement. 
+
+La convention est conclue pour une durée de six ans. Elle peut être modifiée et renouvelée dans les formes prévues à l'alinéa
+premier du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-1 (Ab)
+	  - Code de l'éducation - art. D423-7 (V)
+
+
+###### Article D423-5
+
+Le recteur ou son représentant,               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, ou son représentant assistent de droit aux séances du conseil interétablissements. 
+
+Participent aux séances du conseil, avec voix consultative : 
+
+1° L'agent comptable du groupement ; 
+
+2° Le cas échéant, le fonctionnaire ou agent chargé de la direction technique du groupement ; 
+
+3° Les conseillers en formation continue ; 
+
+4° Les représentants, d'une part, des personnels enseignants, d'autre part, des autres catégories de personnels ; 
+
+5° Un représentant du conseil régional ; 
+
+6° Des personnalités qualifiées désignées par les chefs d'établissement du conseil, dont notamment des représentants des
+organisations d'employeurs et de salariés à parts égales ; 
+
+7° Le directeur du centre d'information et d'orientation. 
+
+Peuvent également assister aux séances du conseil des représentants des services appelés à collaborer avec le groupement et,
+en tant que de besoin, toute personne dont la présence est jugée utile. 
+
+Le conseil se réunit au minimum trois fois par an sur convocation du président, à la demande d'un tiers de ses membres ou à
+la demande du recteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°2008-263 du 14 mars 2008 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D423-11 (Ab)
+
 
 ##### Paragraphe 2 : Dispositions relatives aux établissements  d'enseignement agricole.
 
@@ -83213,25 +83652,25 @@ l'instruction obligatoire, ayant vocation à être accueillis dans un des établ
 
 La décision d'inscription des élèves mentionnés au quatrième alinéa de l'article R. 426-2 est prise par le directeur général
 du centre au vu d'un dossier défini par arrêté du ministre chargé de l'éducation nationale et, en ce qui concerne les élèves
-relevant de l'instruction obligatoire, sur avis favorable de l'inspecteur d'académie, directeur des services départementaux
-de l'éducation nationale du département de résidence de l'élève. 
+relevant de l'instruction obligatoire, sur avis favorable du directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie du département de résidence de l'élève.
 
 Le recours administratif contre la décision de refus d'inscription s'exerce auprès du ministre chargé de l'éducation
-nationale. 
+nationale.
 
 Sauf en ce qui concerne les élèves relevant de l'instruction obligatoire, l'inscription peut donner lieu au paiement de
 droits. Ceux-ci ne peuvent excéder le coût résultant des charges spécifiques à l'enseignement à distance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Décret n°2009-238 du 27 février 2009 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 27 juillet 2009 - art. 1 (VD)
 	  - Code de l'éducation - art. R426-8 (VD)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
@@ -84098,23 +84537,25 @@ maire qui en fait immédiatement établir quatre copies.
 
 L'une de ces copies est affichée à la porte de la mairie, où elle demeure pendant un mois. L'observation de cette formalité
 est prouvée par un certificat d'affichage que le maire dresse, signe et envoie directement, dans les trois jours de la
-déclaration, à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale. 
+déclaration, au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. 
 
 Les trois autres copies sont, ainsi que le récépissé mentionné par le deuxième alinéa de l'article L. 441-1, remises
 gratuitement par le maire au demandeur qui en adresse une au préfet et une autre au procureur de la République ; il lui en
 est délivré récépissé. 
 
-La troisième copie est adressée par le demandeur à l'inspecteur d'académie, qui tient un registre spécial ouvert à cet
-effet. 
+La troisième copie est adressée par le demandeur directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, qui tient un registre spécial ouvert à cet effet. 
 
-Le demandeur adresse à l'inspecteur d'académie, en même temps que la copie de sa déclaration : 
+Le demandeur adresse au directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, en même temps que la copie de sa déclaration : 
 
 1° Les pièces énumérées dans le premier alinéa de l'article L. 441-2 ; 
 
 2° Celles qui sont destinées à établir qu'il est français ou ressortissant d'un autre Etat membre de la Communauté européenne
 ou d'un autre Etat partie à l'accord sur l'Espace économique européen. 
 
-Récépissé de toutes ces pièces est donné au demandeur par l'inspecteur d'académie. 
+Récépissé de toutes ces pièces est donné au demandeur par le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie. 
 
 Ces mêmes formalités sont exigées de toute personne qui succède à une autre dans la direction d'une école privée.
 
@@ -84124,14 +84565,14 @@ Ces mêmes formalités sont exigées de toute personne qui succède à une autre
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L441-1 (V)
-	  - Code de l'éducation - art. L441-2 (V)
+	  - Code de l'éducation - art. L441-1
+	  - Code de l'éducation - art. L441-2
 
 	**Cité par**:
 
@@ -84142,9 +84583,9 @@ Ces mêmes formalités sont exigées de toute personne qui succède à une autre
 ###### Article R441-2
 
 A l'expiration d'un délai de huit jours à compter de la réception de la déclaration, le maire fait savoir par écrit au
-recteur d'académie, qui en informe le préfet, à l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale, ainsi qu'au demandeur, s'il s'oppose ou non à l'ouverture de l'école. Dans le cas où il fait opposition, sa
-décision est motivée.
+recteur d'académie, qui en informe le préfet, au directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, ainsi qu'au demandeur, s'il s'oppose ou non à l'ouverture de l'école. Dans le cas où il
+fait opposition, sa décision est motivée.
 
 **Liens relatifs à cet article**
 
@@ -84152,16 +84593,16 @@ décision est motivée.
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R441-3
 
-Le délai d'un mois accordé à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, pour
-faire opposition court du jour où a été délivré le récépissé, prévu au neuvième alinéa de l'article R. 441-1, des pièces qui
-doivent lui être adressées.
+Le délai d'un mois accordé au directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, pour faire opposition court du jour où a été délivré le récépissé, prévu au neuvième alinéa de l'article R.
+441-1, des pièces qui doivent lui être adressées.
 
 **Liens relatifs à cet article**
 
@@ -84169,17 +84610,21 @@ doivent lui être adressées.
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R441-1 (V)
 
 
 ###### Article R441-4
 
-Quand l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, fait opposition à l'ouverture
-d'une école, il en informe le recteur d'académie et lui transmet le dossier de l'affaire. Il notifie également par écrit sa
-décision au demandeur en lui faisant connaître les motifs pour lesquels son opposition est fondée. Le recteur de l'académie
-fait connaître au préfet la décision prise.
+Quand               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, fait opposition à l'ouverture d'une école, il en informe le recteur d'académie et lui transmet le dossier de
+l'affaire. Il notifie également par écrit sa décision au demandeur en lui faisant connaître les motifs pour lesquels son
+opposition est fondée. Le recteur de l'académie fait connaître au préfet la décision prise.
 
 **Liens relatifs à cet article**
 
@@ -84187,9 +84632,9 @@ fait connaître au préfet la décision prise.
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Sous-section 2 : Conditions particulières d'ouverture  d'école primaire privée avec pensionnat.
@@ -84197,10 +84642,11 @@ fait connaître au préfet la décision prise.
 ###### Article D441-7
 
 A défaut d'opposition à l'ouverture d'un pensionnat privé ainsi que dans le cas où l'opposition formée a été levée, le préfet
-détermine, sur le rapport de l'inspecteur d'académie, après avis du conseil départemental de l'éducation nationale, le nombre
-maximum d'élèves qui peuvent être admis dans le local affecté en pensionnat et le nombre des maîtres nécessaires pour la
-surveillance de ces élèves. Il en fait mention sur le plan du local ; le plan est renvoyé au demandeur, qui est tenu de le
-présenter aux autorités préposées à la surveillance des écoles chaque fois qu'il en est requis.
+détermine, sur le rapport du     directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, après avis du conseil départemental de l'éducation nationale, le nombre maximum d'élèves qui peuvent être
+admis dans le local affecté en pensionnat et le nombre des maîtres nécessaires pour la surveillance de ces élèves. Il en fait
+mention sur le plan du local ; le plan est renvoyé au demandeur, qui est tenu de le présenter aux autorités préposées à la
+surveillance des écoles chaque fois qu'il en est requis.
 
 **Liens relatifs à cet article**
 
@@ -84208,9 +84654,9 @@ présenter aux autorités préposées à la surveillance des écoles chaque fois
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D441-9
@@ -84278,10 +84724,10 @@ formalités prescrites tant pour le pensionnat que pour l'école.
 ###### Article R441-8
 
 Toute personne qui reçoit des pensionnaires tient un registre sur lequel elle inscrit les noms, prénoms, le lieu et la date
-de naissance de ses élèves pensionnaires, la date de leur entrée et celle de leur sortie.
+de naissance de ses élèves pensionnaires, la date de leur entrée et celle de leur sortie. 
 
-Chaque année elle transmet, avant le 1er novembre, à l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, un rapport sur la situation et le personnel de son établissement.
+Chaque année elle transmet, avant le 1er novembre, au directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, un rapport sur la situation et le personnel de son établissement.
 
 **Liens relatifs à cet article**
 
@@ -84289,17 +84735,17 @@ l'éducation nationale, un rapport sur la situation et le personnel de son étab
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R441-10
 
 Lorsque, par application des articles L. 241-5 et L. 441-4, un pensionnat primaire se trouve dans le cas d'être fermé, le
-préfet, l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, et le procureur de la
-République prennent toute mesure pour avertir les personnes responsables des élèves et assurer provisoirement l'accueil des
-élèves pensionnaires.
+préfet,               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, et le procureur de la République prennent toute mesure pour avertir les personnes responsables des élèves et
+assurer provisoirement l'accueil des élèves pensionnaires.
 
 **Liens relatifs à cet article**
 
@@ -84307,14 +84753,14 @@ République prennent toute mesure pour avertir les personnes responsables des é
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L241-5 (V)
-	  - Code de l'éducation - art. L441-4 (V)
+	  - Code de l'éducation - art. L241-5
+	  - Code de l'éducation - art. L441-4
 
 
 ##### Section 2 : L'ouverture des établissements d'enseignement  du second degré privés.
@@ -84686,24 +85132,20 @@ lycée suivi, en application des dispositions prévues par l'article L. 471-2, d
 ###### Article R442-9
 
 Les préfets sont institués ordonnateurs secondaires pour le paiement des dépenses auxquelles donne lieu l'application des
-textes réglant les rapports entre l'Etat et les établissements d'enseignement privés.
+textes réglant les rapports entre l'Etat et les établissements d'enseignement privés. 
 
-Les préfets peuvent déléguer leur signature soit au recteur d'académie, soit à l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale.
+Les préfets peuvent déléguer leur signature soit au recteur d'académie, soit au directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°61-246 du 15 mars 1961 - art. 1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -86373,63 +86815,63 @@ et six conseillers de Paris désignés par le conseil de Paris.
 
 ###### Article R442-66
 
-La commission de concertation instituée au chef-lieu du département comprend :
+La commission de concertation instituée au chef-lieu du département comprend : 
 
-1° Au titre des personnes désignées par l'Etat :
+1° Au titre des personnes désignées par l'Etat : 
 
-a) Le préfet du département, président ;
+a) Le préfet du département, président ; 
 
-b) L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+b) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
 c) Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social,
-éducatif ou culturel, désignés par le préfet du département sur proposition de l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale ;
+éducatif ou culturel, désignés par le préfet du département sur proposition du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-2° Au titre des représentants des collectivités territoriales :
+2° Au titre des représentants des collectivités territoriales : 
 
-a) Deux conseillers régionaux désignés par le conseil régional ;
+a) Deux conseillers régionaux désignés par le conseil régional ; 
 
-b) Deux conseillers généraux désignés par le conseil général ;
+b) Deux conseillers généraux désignés par le conseil général ; 
 
-c) Deux maires désignés par l'association des maires du département ou, à défaut, par le collège des maires du département ;
+c) Deux maires désignés par l'association des maires du département ou, à défaut, par le collège des maires du département ; 
 
-3° Au titre des représentants des établissements d'enseignement privés :
+3° Au titre des représentants des établissements d'enseignement privés : 
 
 a) Un chef d'établissement d'enseignement primaire privé nommé par le préfet du département, sur proposition des
 organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement
 primaire privé exerçant leurs fonctions depuis trois ans au moins dans les établissements ayant passé avec l'Etat un contrat
-d'association ou un contrat simple ;
+d'association ou un contrat simple ; 
 
 b) Un chef d'établissement d'enseignement secondaire ou technique privé nommé par le préfet du département, sur proposition
 des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement
-secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ;
+secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ; 
 
 c) Un maître enseignant dans un établissement d'enseignement primaire privé, nommé par le préfet du département, sur
 proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires,
 contractuels ou agréés des établissements d'enseignement primaire privés sous contrat n'exerçant pas la fonction de chef
-d'établissement ;
+d'établissement ; 
 
 d) Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, nommé par le préfet du
 département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres
 titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la
-fonction de chef d'établissement ;
+fonction de chef d'établissement ; 
 
 e) Deux parents d'élèves nommés par le préfet du département sur proposition des associations de parents d'élèves les plus
 représentatives au niveau départemental.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-1204 du 13 novembre 1985 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -86471,28 +86913,24 @@ d'un département, par le préfet du département.
 ###### Article R442-68
 
 Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés ou élus dans les mêmes conditions que
-ceux-ci. Les membres suppléants ne siègent qu'en l'absence des membres titulaires qu'ils suppléent.
+ceux-ci. Les membres suppléants ne siègent qu'en l'absence des membres titulaires qu'ils suppléent. 
 
 En cas d'empêchement du président de la commission, la présidence est assurée par le recteur de l'académie, pour la
-commission instituée au siège de l'académie, ou par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, pour les commissions instituées au chef-lieu d'un département.
+commission instituée au siège de l'académie, ou par               le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie, pour les commissions instituées au chef-lieu d'un département. 
 
 Si le recteur ou l'inspecteur d'académie est lui-même empêché, la présidence de la commission est assurée, selon le cas, par
 le secrétaire général pour les affaires régionales ou par le secrétaire général de la préfecture.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-1204 du 13 novembre 1985 - art. 6 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R442-69
@@ -86775,8 +87213,9 @@ autorités académiques communiquent chaque année scolaire à la direction dép
 ###### Article R442-79
 
 Un tableau répartissant les établissements et les classes entre l'enseignement préscolaire et élémentaire, d'une part, et
-l'enseignement secondaire, d'autre part, est dressé chaque année par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, compte tenu du projet éducatif de ces établissements ou de ces classes. 
+l'enseignement secondaire, d'autre part, est dressé chaque année par               le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, compte tenu du projet éducatif de ces établissements ou
+de ces classes. 
 
 Pour l'application des articles R. 442-75 à R. 442-78 du présent code, tout établissement ou service social ou médico-social
 privé mentionné au 2° et au 12° du I de l'article L. 312-1 du code de l'action sociale et des familles qui a constitué des
@@ -86785,22 +87224,18 @@ du second degré.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°78-254 du 8 mars 1978 - art. 6 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R442-75 (V)
-	  - Code de l'action sociale et des familles - art. L312-1 (VT)
+	  - Code de l'éducation - art. R442-75
+	  - Code de l'action sociale et des familles - art. L312-1
 
 
 ##### Section 8 : Dispositions relatives à Saint-Pierre-et-Miquelon.
@@ -86856,22 +87291,19 @@ Pierre-et-Miquelon par l'administrateur chef du territoire.
 
 ###### Article R442-82
 
-Les compétences attribuées au recteur d'académie, à l'inspecteur d'académie ou aux services académiques sont exercées sur le
-territoire des îles Saint-Pierre-et-Miquelon par le chef du service de l'enseignement.
+Les compétences attribuées au recteur d'académie, au directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie ou aux services académiques sont exercées sur le territoire des îles Saint-Pierre-et-
+Miquelon par le chef du service de l'enseignement.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°72-549 du 30 juin 1972 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008, v. init.
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R442-83
@@ -89230,11 +89662,12 @@ huit jours à compter de la réception de la notification de ces décisions.
 
 ###### Article R453-11
 
-Par dérogation à l'article D. 331-35, la commission d'appel est présidée par l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale du Haut-Rhin ou son représentant, et comprend, en outre, un chef d'établissement,
-trois professeurs enseignant au niveau scolaire en cause, un conseiller principal d'éducation et un conseiller d'orientation-
-psychologue, exerçant tous dans des établissements d'enseignement du second degré implantés à la suite des forces françaises
-et de l'élément civil stationnés en Allemagne, ainsi que trois représentants des parents d'élèves. 
+Par dérogation à l'article D. 331-35, la commission d'appel est présidée par               le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie du Haut-Rhin ou son représentant, et
+comprend, en outre, un chef d'établissement, trois professeurs enseignant au niveau scolaire en cause, un conseiller
+principal d'éducation et un conseiller d'orientation-psychologue, exerçant tous dans des établissements d'enseignement du
+second degré implantés à la suite des forces françaises et de l'élément civil stationnés en Allemagne, ainsi que trois
+représentants des parents d'élèves. 
 
 Les membres de la commission d'appel sont nommés par le chef du service de l'enseignement des forces françaises et de
 l'élément civil stationnés en Allemagne, pour une durée d'un an renouvelable, sur proposition des associations en ce qui
@@ -89243,21 +89676,17 @@ dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-586 du 5 mai 1995 - art. 11 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35 (V)
+	  - Code de l'éducation - art. D331-35
 
 
 ###### Article R453-12
@@ -89358,25 +89787,21 @@ transmis dès son adoption.
 
 Les établissements d'enseignement placés à la suite des forces françaises et de l'élément civil stationnés en Allemagne et
 leurs personnels font l'objet, en matière pédagogique, d'évaluations effectuées par les corps d'inspection spécialisés du
-ministère de l'éducation nationale.
+ministère de l'éducation nationale. 
 
 En ce qui concerne l'enseignement du premier degré, ces évaluations incombent à un inspecteur de l'éducation nationale
-exerçant dans le département français le plus proche et désigné par le recteur d'académie, sur proposition de l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale.
+exerçant dans le département français le plus proche et désigné par le recteur d'académie, sur proposition du directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-586 du 5 mai 1995 - art. 16 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Section 2 : Dispositions relatives aux établissements du premier degré.
@@ -89447,7 +89872,8 @@ Par dérogation aux dispositions de l'article D. 411-1, le conseil d'école comp
 2° Le commandant d'armes de la garnison ou son représentant ; 
 
 3° Un inspecteur de l'éducation nationale exerçant dans le département français le plus proche et désigné par le recteur
-d'académie, sur proposition de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale ; 
+d'académie, sur proposition du directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie ; 
 
 4° Les représentants des parents d'élèves en nombre égal à celui des classes de l'école, élus selon les modalités fixées par
 arrêté du ministre chargé de l'éducation pour l'élection, en France, des représentants des parents d'élèves aux conseils
@@ -89457,21 +89883,17 @@ Les autres personnels prévus à l'article D. 411-1 peuvent, le cas échéant, y
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°95-585 du 5 mai 1995 - art. 3 al 1 à 6 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-1 (V)
+	  - Code de l'éducation - art. D411-1
 
 
 ###### Article R453-20
@@ -92574,9 +92996,9 @@ Pour l'application à Wallis et Futuna de l'article D. 411-2, les quatorzième (
 
 ###### Article D491-4
 
-Pour l'application à Wallis et Futuna des articles D. 411-3, R. 411-5 et D. 411-8, les mots :  (de) l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale » et les mots :  des autorités académiques » sont remplacés
-par les mots :  du (le) vice-recteur ». 
+Pour l'application à Wallis et Futuna des articles D. 411-3, R. 411-5 et D. 411-8, les mots : "(du)               le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie"  et les mots : "des
+autorités académiques" sont remplacés par les mots : "du (le) vice-recteur". 
 
 Pour l'application de l'article D. 411-3, l'avis de la commission administrative paritaire départementale unique des
 instituteurs et professeurs des écoles est supprimé.
@@ -92587,15 +93009,15 @@ instituteurs et professeurs des écoles est supprimé.
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-3 (V)
-	  - Code de l'éducation - art. D411-8 (V)
-	  - Code de l'éducation - art. R411-5 (V)
+	  - Code de l'éducation - art. D411-3
+	  - Code de l'éducation - art. D411-8
+	  - Code de l'éducation - art. R411-5
 
 
 ###### Article D491-5
@@ -92708,24 +93130,21 @@ D. 422-39, D. 422-55, du deuxième alinéa de l'article D. 422-56, de l'article 
 ###### Article D491-9
 
 Pour l'application des dispositions de la présente section aux collèges et aux lycées de Wallis et Futuna, les mots :
-« autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur des
-îles Wallis et Futuna », les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès
-du vice-recteur » et les mots : « représentant de l'Etat dans le département » par les mots : « l'administrateur supérieur du
-territoire ou son représentant ».
+« autorité académique », «   directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur des îles Wallis et Futuna », les mots :
+« commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur » et les mots :
+« représentant de l'Etat dans le département » par les mots : « l'administrateur supérieur du territoire ou son
+représentant ».
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 55-14 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -93050,9 +93469,9 @@ Pour l'application à Mayotte de l'article D. 411-2, les quatorzième (6°) et q
 
 ###### Article D492-4
 
-Pour l'application à Mayotte des articles D. 411-3, R. 411-5 et D. 411-8, les mots : « (de) l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale » et les mots : « des autorités académiques » sont remplacés
-par les mots : « du (le) vice-recteur ».
+Pour l'application à Mayotte des articles D. 411-3, R. 411-5 et D. 411-8, les mots : " (du) le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie " et les mots : " des autorités académiques "
+sont remplacés par les mots : " du (le) vice-recteur ".
 
 **Liens relatifs à cet article**
 
@@ -93060,13 +93479,14 @@ par les mots : « du (le) vice-recteur ».
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-3 (V)
+	  - Code de l'éducation - art. D411-3
+	  - Code de l'éducation - art. D411-8 (V)
 	  - Code de l'éducation - art. R411-5 (V)
 
 
@@ -93156,24 +93576,21 @@ des articles D. 422-61 à D. 422-66, sous réserve des adaptations et des dispos
 
 ###### Article D492-8
 
-Pour l'application aux collèges et aux lycées de Mayotte des dispositions de la présente section, les mots : « autorité
-académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur de Mayotte »,
-les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur » et les
-mots : « représentant de l'Etat dans le département » par les mots : « le préfet ou son représentant ».
+Pour l'application aux collèges et aux lycées de Mayotte des dispositions de la présente section, les mots : "autorité
+académique", "  directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie" et
+"recteur d'académie" sont remplacés par les mots : "vice-recteur de Mayotte", les mots : "commission académique d'appel" par
+les mots : "commission d'appel constituée auprès du vice-recteur" et les mots : "représentant de l'Etat dans le département"
+par les mots : "le préfet ou son représentant".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 55-1 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -93455,24 +93872,20 @@ R. 422-60 à D. 422-66, sous réserve des adaptations et des dispositions partic
 ###### Article D494-2
 
 Pour l'application aux collèges et aux lycées de Nouvelle-Calédonie des dispositions de la présente section, les mots :
-« autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur de
-la Nouvelle-Calédonie », les mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès
-du vice-recteur » et les mots : « représentant de l'Etat dans le département » par les mots : « le haut-commissaire de la
-République ou son représentant ».
+« autorité académique », «   directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-recteur de la Nouvelle-Calédonie », les mots :
+« commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur » et les mots :
+« représentant de l'Etat dans le département » par les mots : « le haut-commissaire de la République ou son représentant ».
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°86-164 du 31 janvier 1986 - art. 55-7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -93788,22 +94201,19 @@ par le mot : "Nouvelle-Calédonie".
 ###### Article R494-12
 
 Pour l'application aux établissements d'enseignement privés de Nouvelle-Calédonie des dispositions de la présente section,
-les mots : « autorité académique », « inspecteur d'académie » et « recteur d'académie » sont remplacés par les mots : « vice-
-recteur de la Nouvelle-Calédonie » et les mots : « services académiques » par les mots : « services du vice-rectorat ».
+les mots : "autorité académique", "directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie" et "recteur d'académie" sont remplacés par les mots : "vice-recteur de la Nouvelle-Calédonie" et les
+mots : "services académiques" par les mots : "services du vice-rectorat".
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°78-860 du 9 août 1978 - art. 3 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R494-13
@@ -94592,18 +95002,13 @@ Le conseil de discipline compétent à l'égard d'un élève est celui de l'éta
 que soit le lieu où la faute susceptible de justifier une action disciplinaire a été commise.
 
 Le conseil de discipline peut, sur décision de son président, être réuni dans un autre établissement scolaire ou dans les
-locaux de l'inspection académique.
+locaux du service départemental de l'éducation nationale.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 10 (Ab)
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 6 alinéa 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -94705,15 +95110,15 @@ du ministre de la défense.
 
 Lorsque le chef d'établissement, saisi par écrit d'une demande de saisine du conseil de discipline émanant d'un membre de la
 communauté éducative, décide de ne pas engager de procédure disciplinaire, il lui notifie sa décision motivée. Lorsque le
-chef d'établissement décide de saisir le conseil de discipline, il en informe préalablement l'inspecteur d'académie,
-directeur des services départementaux de l'éducation nationale si l'élève a déjà fait l'objet, au cours de l'année scolaire,
-de la sanction prévue au 6° du I de l'article R. 511-13.
+chef d'établissement décide de saisir le conseil de discipline, il en informe préalablement               le directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie si l'élève a déjà fait
+l'objet, au cours de l'année scolaire, de la sanction prévue au 6° du I de l'article R. 511-13.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-729 du 24 juin 2011 - art. 5
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -95030,19 +95435,15 @@ cinq jours suivant la séance.
 ###### Article D511-43
 
 Lorsqu'une sanction d'exclusion définitive est prononcée par le conseil de discipline à l'encontre d'un élève soumis à
-l'obligation scolaire, le recteur ou l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale,
-selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription dans un autre établissement ou centre
-public d'enseignement par correspondance.
+l'obligation scolaire, le recteur ou               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription dans un
+autre établissement ou centre public d'enseignement par correspondance.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -95055,27 +95456,24 @@ public d'enseignement par correspondance.
 ###### Article D511-46
 
 Sont applicables au conseil de discipline départemental les dispositions des articles D. 511-31 à D. 511-43. Pour
-l'application des articles D. 511-31, D. 511-32, D. 511-35, D. 511-36, D. 511-38, D. 511-40 et D. 511-42, l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, exerce les compétences du chef d'établissement.
+l'application des articles D. 511-31, D. 511-32, D. 511-35, D. 511-36, D. 511-38, D. 511-40 et D. 511-42,               le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, exerce les
+compétences du chef d'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 7-1 alinéa 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-31 (V)
-	  - Code de l'éducation - art. D511-32 (V)
-	  - Code de l'éducation - art. D511-35 (V)
-	  - Code de l'éducation - art. D511-38 (V)
-	  - Code de l'éducation - art. D511-40 (V)
-	  - Code de l'éducation - art. D511-42 (V)
+	  - Code de l'éducation - art. D511-31
+	  - Code de l'éducation - art. D511-32
+	  - Code de l'éducation - art. D511-35
+	  - Code de l'éducation - art. D511-38
+	  - Code de l'éducation - art. D511-40
+	  - Code de l'éducation - art. D511-42
 
 	**Cité par**:
 
@@ -95112,36 +95510,31 @@ départemental.
 
 ###### Article R511-45
 
-Le conseil de discipline départemental est présidé par l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, ou son représentant.
+Le conseil de discipline départemental est présidé par               le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie, ou son représentant. 
 
-Ce conseil comprend en outre dix membres :
+Ce conseil comprend en outre dix membres : 
 
-1° Deux représentants des personnels de direction ;
+1° Deux représentants des personnels de direction ; 
 
-2° Deux représentants des personnels d'enseignement ;
+2° Deux représentants des personnels d'enseignement ; 
 
-3° Un représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+3° Un représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ; 
 
-4° Un conseiller principal d'éducation ;
+4° Un conseiller principal d'éducation ; 
 
-5° Deux représentants des parents d'élèves ;
+5° Deux représentants des parents d'élèves ; 
 
-6° Deux représentants des élèves.
+6° Deux représentants des élèves. 
 
 Les membres autres que le président ont la qualité de membre d'un conseil de discipline d'établissement. Ils sont nommés pour
 un an par le recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-924 du 30 août 1985 - art. 31 alinéa 17 (Ab)
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 7-1 alinéa 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -95180,22 +95573,18 @@ ou le conseil de discipline départemental est appelé à statuer par une seule 
 
 Lorsqu'un élève fait l'objet de poursuites disciplinaires pour des faits distincts, les deux procédures peuvent être jointes
 et le conseil de discipline de l'établissement ou le conseil de discipline départemental peut statuer par une seule décision,
-à l'initiative du chef d'établissement ou de l'inspecteur d'académie, directeur des services départementaux de l'éducation
-nationale.
+à l'initiative du chef d'établissement ou du directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 11 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-33 (V)
+	  - Code de l'éducation - art. D511-33
 
 	**Cité par**:
 
@@ -95240,21 +95629,21 @@ mentionné à l'article R. 511-49 ou jusqu'à décision du recteur si celui-ci a
 
 ###### Article D511-51
 
-La commission académique est présidée par le recteur ou son représentant.
+La commission académique est présidée par le recteur ou son représentant. 
 
-Elle comprend en outre cinq membres :
+Elle comprend en outre cinq membres : 
 
-1° Un inspecteur d'académie, directeur des services départementaux de l'éducation nationale ;
+1° Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ; 
 
-2° Un chef d'établissement ;
+2° Un chef d'établissement ; 
 
-3° Un professeur ;
+3° Un professeur ; 
 
-4° Deux représentants des parents d'élèves.
+4° Deux représentants des parents d'élèves. 
 
-Les membres autres que le président sont nommés pour deux ans par le recteur ou son représentant.
+Les membres autres que le président sont nommés pour deux ans par le recteur ou son représentant. 
 
-Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exception de son président.
+Un suppléant est nommé dans les mêmes conditions pour chacun des membres de la commission, à l'exception de son président. 
 
 Pour la désignation des représentants des parents d'élèves, le recteur recueille les propositions des associations
 représentées au conseil académique de l'éducation nationale.
@@ -95267,13 +95656,9 @@ académique d'appel).
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 8 alinéa 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -95346,43 +95731,40 @@ I. ― Sont applicables aux établissements d'enseignement français en Principa
 511-25, les articles R. 511-26, R. 511-27, D. 511-30 à D. 511-43, D. 511-47, D. 511-48 et D. 511-50 à D. 511-52, sous réserve
 des dispositions des II, III et IV du présent article. 
 
-II.-Pour l'application des articles R. 511-26, D. 511-47, D. 511-48, D. 511-50 et D. 511-52, les mots : « conseil de
-discipline départemental » sont supprimés. 
+II. - Pour l'application des articles R. 511-26, D. 511-47, D. 511-48, D. 511-50 et D. 511-52, les mots : "conseil de
+discipline départemental" sont supprimés. 
 
-III.-Pour l'application de la troisième phrase du premier alinéa de l'article D. 511-42, la notification de la décision du
+III. - Pour l'application de la troisième phrase du premier alinéa de l'article D. 511-42, la notification de la décision du
 conseil de discipline mentionne les voies et délais d'appel fixés à l'article D. 511-54. Pour l'application des articles D.
-511-42 et D. 511-50 à D. 511-52, les mots : « recteur de l'académie » sont remplacés par les mots : « recteur de l'académie
-de Montpellier ». Pour l'application de l'article D. 511-48, les mots : « ou de l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale » sont supprimés. 
+511-42 et D. 511-50 à D. 511-52, les mots : "recteur de l'académie" sont remplacés par les mots : "recteur de l'académie de
+Montpellier". Pour l'application de l'article D. 511-48, les mots : "ou du directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie" sont supprimés. 
 
-IV.-Pour l'application de l'article D. 511-43, les mots : « le recteur ou l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale, selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription
-dans un autre établissement ou centre public d'enseignement par correspondance » sont remplacés par les mots : « le délégué à
-l'enseignement et le recteur de l'académie de Montpellier en sont immédiatement informés. Le recteur pourvoit sans délai à
-l'inscription de l'élève dans un autre établissement ou centre public d'enseignement par correspondance ».
+IV. - Pour l'application de l'article D. 511-43, les mots : "le recteur ou               le directeur académique des services
+de l'éducation nationale agissant sur délégation du recteur d'académie, selon le cas, en est immédiatement informé et
+pourvoit aussitôt à son inscription dans un autre établissement ou centre public d'enseignement par correspondance" sont
+remplacés par les mots : "le délégué à l'enseignement et le recteur de l'académie de Montpellier en sont immédiatement
+informés. Le recteur pourvoit sans délai à l'inscription de l'élève dans un autre établissement ou centre public
+d'enseignement par correspondance".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°95-592 du 6 mai 1995 - art. 30 alinéa 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-25 (V)
-	  - Code de l'éducation - art. D511-30 (V)
-	  - Code de l'éducation - art. D511-42 (V)
-	  - Code de l'éducation - art. D511-43 (V)
-	  - Code de l'éducation - art. D511-47 (V)
-	  - Code de l'éducation - art. D511-48 (V)
-	  - Code de l'éducation - art. D511-50 (V)
-	  - Code de l'éducation - art. D511-52 (V)
-	  - Code de l'éducation - art. D511-54 (V)
-	  - Code de l'éducation - art. R511-26 (V)
+	  - Code de l'éducation - art. D511-25
+	  - Code de l'éducation - art. D511-30
+	  - Code de l'éducation - art. D511-42
+	  - Code de l'éducation - art. D511-43
+	  - Code de l'éducation - art. D511-47
+	  - Code de l'éducation - art. D511-48
+	  - Code de l'éducation - art. D511-50
+	  - Code de l'éducation - art. D511-52
+	  - Code de l'éducation - art. D511-54
+	  - Code de l'éducation - art. R511-26
 
 
 ###### Article D511-56
@@ -95390,13 +95772,13 @@ l'inscription de l'élève dans un autre établissement ou centre public d'ensei
 Pour leur application à Saint-Pierre-et-Miquelon, les dispositions des articles D. 511-42, D. 511-43, R. 511-45 et D. 511-48
 à D. 511-52 sont ainsi adaptées : 
 
-1° Les mots : « recteur d'académie » sont remplacés par les mots : « recteur de l'académie de Caen » ; 
+1° Les mots : "recteur d'académie" sont remplacés par les mots : "recteur de l'académie de Caen" ; 
 
-2° Les mots : « inspecteur d'académie, directeur des services départementaux de l'éducation nationale » sont remplacés par
-les mots : « chef du service de l'éducation nationale » et les mots : « inspection académique » par les mots : « service de
-l'éducation » ; 
+2° Les mots : "            directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie" sont remplacés par les mots : "chef du service de l'éducation nationale" et les mots : "inspection académique"
+par les mots : "service de l'éducation" ; 
 
-3° Les mots : « commission académique d'appel » sont remplacés par les mots : « commission d'appel de l'académie de Caen ».
+3° Les mots : "commission académique d'appel" sont remplacés par les mots : "commission d'appel de l'académie de Caen".
 
 **Nota:**
 
@@ -95404,15 +95786,13 @@ Décret n° 2009-627 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
 académique d'appel).
 
+Décret n° 2014-590 du 6 juin 2014 article 1 : Les commissions consultatives sont renouvelées pour une durée d'un an à compter
+du 8 juin 2014 (Commission académique d'appel procédure disciplinaire).
+
+Conformément à l'annexe 1 du décret n° 2015-623 du 5 juin 2015, les Commissions académiques d'appel (procédure disciplinaire)
+sont renouvelées pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
 
 	**Cité par**:
 
@@ -95420,11 +95800,15 @@ académique d'appel).
 	  - Décret n°2014-590 du 6 juin 2014 - art. (V)
 	  - Décret n°2015-623 du 5 juin 2015 - art. (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-42 (V)
-	  - Code de l'éducation - art. D511-48 (V)
-	  - Code de l'éducation - art. R511-45 (V)
+	  - Code de l'éducation - art. D511-42
+	  - Code de l'éducation - art. D511-48
+	  - Code de l'éducation - art. R511-45
 
 
 ###### Article D511-58
@@ -96172,30 +96556,26 @@ Le Conseil supérieur de l'éducation est tenu informé de la mise en place de c
 
 ###### Article D521-4
 
-Le recteur d'académie arrête sa décision dans les conditions suivantes :
+Le recteur d'académie arrête sa décision dans les conditions suivantes : 
 
 1° Lorsque la mesure d'adaptation envisagée intéresse l'ensemble de l'académie, après consultation du conseil académique de
-l'éducation nationale ;
+l'éducation nationale ; 
 
 2° Lorsque la mesure d'adaptation envisagée intéresse l'ensemble d'un département, après consultation du conseil
-départemental de l'éducation nationale ;
+départemental de l'éducation nationale ; 
 
 3° Lorsque la mesure d'adaptation envisagée intéresse un seul ou un nombre limité d'établissements scolaires, après
 consultation du conseil de l'école ou des écoles, du conseil d'administration du ou des établissements d'enseignement du
-second degré concernés.
+second degré concernés. 
 
-Pour les décisions prises en application des 2° et 3°, le recteur d'académie peut déléguer sa signature à l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale.
+Pour les décisions prises en application des 2° et 3°, le recteur d'académie peut déléguer sa signature au directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-236 du 14 mars 1990 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D521-5
@@ -96383,23 +96763,19 @@ les conditions fixées par l'article D. 521-15.
 
 Lorsque, pour l'établissement du règlement intérieur prévu par les articles D. 411-2 et D. 411-6, le conseil d'école souhaite
 adopter une organisation de la semaine scolaire qui déroge aux règles fixées par l'article D. 521-10, il transmet son projet
-à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après avis de l'inspecteur de
-l'éducation nationale chargé de la circonscription d'enseignement du premier degré et de la commune dans laquelle est située
-l'école.
+au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis de
+l'inspecteur de l'éducation nationale chargé de la circonscription d'enseignement du premier degré et de la commune dans
+laquelle est située l'école.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 alinéa 1 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D411-2 (V)
+	  - Code de l'éducation - art. D411-2
 
 	**Cité par**:
 
@@ -96443,23 +96819,20 @@ Les aménagements du temps scolaire prévus ne peuvent avoir pour effet :
 
 ###### Article D521-13
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, statue sur chaque projet
-d'aménagement après s'être assuré que les conditions mentionnées aux articles D. 521-11 et D. 521-12 sont respectées. Il ne
-l'adopte que s'il ne porte pas atteinte à l'exercice de la liberté de l'instruction religieuse mentionnée au deuxième alinéa
-de l'article L. 141-2.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, statue sur
+chaque projet d'aménagement après s'être assuré que les conditions mentionnées aux articles D. 521-11 et D. 521-12 sont
+respectées. Il ne l'adopte que s'il ne porte pas atteinte à l'exercice de la liberté de l'instruction religieuse mentionnée
+au deuxième alinéa de l'article L. 141-2. 
 
-La décision de l'inspecteur d'académie ne peut porter sur une durée supérieure à trois ans.A l'issue de cette période, cette
-décision peut être renouvelée tous les trois ans après un nouvel examen, en respectant la même procédure.
+La décision du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ne
+peut porter sur une durée supérieure à trois ans. A l'issue de cette période, cette décision peut être renouvelée tous les
+trois ans après un nouvel examen, en respectant la même procédure.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-788 du 6 septembre 1990 - art. 10-1 alinéas 8 et 9 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -96470,26 +96843,26 @@ décision peut être renouvelée tous les trois ans après un nouvel examen, en 
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D521-11 (V)
-	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. D521-11
+	  - Code de l'éducation - art. L141-2
 
 
 ###### Article D521-14
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, fixe les heures d'entrée et de
-sortie des écoles, dans le cadre du règlement type départemental mentionné à l'article R. 411-5, après consultation du
-conseil départemental de l'éducation nationale et de la ou des communes intéressées, sans préjudice du pouvoir de
-modification conféré au maire de la commune par les dispositions de l'article L. 521-3.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, fixe les heures
+d'entrée et de sortie des écoles, dans le cadre du règlement type départemental mentionné à l'article R. 411-5, après
+consultation du conseil départemental de l'éducation nationale et de la ou des communes intéressées, sans préjudice du
+pouvoir de modification conféré au maire de la commune par les dispositions de l'article L. 521-3.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°90-788 du 6 septembre 1990 - art. 10-2 (Ab)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2013-77 du 24 janvier 2013 - art. 3
 
 	**Cité par**:
 
@@ -96499,8 +96872,8 @@ modification conféré au maire de la commune par les dispositions de l'article 
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L521-3 (V)
-	  - Code de l'éducation - art. R411-5 (V)
+	  - Code de l'éducation - art. L521-3
+	  - Code de l'éducation - art. R411-5
 
 
 ###### Article D521-15
@@ -96839,21 +97212,17 @@ Ces taux sont les suivants :
 
 Pour les élèves inscrits dans un établissement d'enseignement public, le chef d'établissement arrête la liste des boursiers
 ainsi que le montant attribué à chacun et notifie les décisions aux familles. Il adresse, trimestriellement, un récapitulatif
-certifié des montants dus aux élèves boursiers de son établissement à l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale.
+certifié des montants dus aux élèves boursiers de son établissement au directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie. 
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, délègue trimestriellement à chaque
-établissement le montant des crédits nécessaires au paiement des bourses de collège.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, délègue
+trimestriellement à chaque établissement le montant des crédits nécessaires au paiement des bourses de collège.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°98-762 du 28 août 1998 - art. 10 alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -96881,22 +97250,19 @@ charge effective de l'élève par l'intermédiaire du comptable de l'établissem
 
 Pour les élèves inscrits dans un établissement d'enseignement privé, le chef d'établissement adresse, au cours du premier
 trimestre de l'année scolaire, à l'inspection académique dont il dépend la liste des demandeurs de bourse de collège, le
-montant proposé pour chacun ainsi que les pièces justificatives afférentes. Sur la base de ces éléments, l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, arrête la liste des boursiers ainsi que le
-montant attribué à chacun et notifie les décisions aux familles.
+montant proposé pour chacun ainsi que les pièces justificatives afférentes. Sur la base de ces éléments,               le
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, arrête la liste des
+boursiers ainsi que le montant attribué à chacun et notifie les décisions aux familles. 
 
-L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, est tenu informé par le chef
-d'établissement des modifications intervenues pour la mise à jour trimestrielle de la liste nominative des élèves boursiers.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, est tenu informé
+par le chef d'établissement des modifications intervenues pour la mise à jour trimestrielle de la liste nominative des élèves
+boursiers.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°98-762 du 28 août 1998 - art. 11 alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -96905,47 +97271,40 @@ d'établissement des modifications intervenues pour la mise à jour trimestriell
 
 ###### Article D531-11
 
-Dans l'enseignement privé, la bourse de collège est versée par l'inspecteur d'académie, directeur des services départementaux
-de l'éducation nationale, à la famille ou à la personne assumant la charge effective de l'élève.
+Dans l'enseignement privé, la bourse de collège est versée par               le directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie, à la famille ou à la personne assumant la charge
+effective de l'élève. 
 
 Dans le cas où les familles auraient donné procuration sous seing privé au chef d'établissement, la bourse est versée aux
 familles par l'intermédiaire de celui-ci après déduction éventuelle des frais de pension ou de demi-pension.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°98-762 du 28 août 1998 - art. 11 alinéas 3 et 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D531-12
 
-En cas d'absences injustifiées et répétées d'un élève, la bourse peut donner lieu à retenue.
+En cas d'absences injustifiées et répétées d'un élève, la bourse peut donner lieu à retenue. 
 
 Cette retenue est opérée lorsque la durée cumulée de ces absences excède quinze jours, dans la proportion d'un deux cent
-soixante-dixième par jour d'absence.
+soixante-dixième par jour d'absence. 
 
 La décision, motivée, est prise par le chef d'établissement s'agissant des élèves des établissements d'enseignement public.
-Elle est de la compétence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, sur
-proposition du chef d'établissement, s'agissant des élèves des établissements d'enseignement privés.
+Elle est de la compétence du directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, sur proposition du chef d'établissement, s'agissant des élèves des établissements d'enseignement privés.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°98-762 du 28 août 1998 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
 
 	**Cité par**:
 
 	  - Arrêté du 27 juillet 2009 - art. 4 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Sous-section 2 : Bourses nationales d’études du second degré de lycée
@@ -97331,22 +97690,16 @@ Les décisions sont notifiées dans un délai de trois jours aux représentants 
 ###### Article D531-27
 
 Les familles des élèves dont la demande de bourse nationale d'études de second degré de lycée est retenue par le recteur
-d'académie en sont immédiatement avisées et invitées à préciser à l'inspection académique l'établissement public ou privé
-fréquenté par le candidat à la rentrée scolaire suivante.
+d'académie en sont immédiatement avisées et invitées à préciser au service départemental de l'éducation nationale
+l'établissement public ou privé fréquenté par le candidat à la rentrée scolaire suivante.
 
 A défaut de réponse, le candidat est considéré comme ayant renoncé à sa demande de bourse.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°59-39 du 2 janvier 1959 - art. 5 alinéa 2 (Ab)
-	  - Décret n°59-39 du 2 janvier 1959 - art. 7 alinéas 2, 3 et 4 (Ab)
-	  - Décret n°59-1422  du 18 décembre 1959 - art. 5 alinéas 3 à 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D531-28
@@ -97375,25 +97728,26 @@ La bourse est retirée si le boursier qui change d'établissement n'a pas obtenu
 ###### Article R531-25
 
 Les décisions d'attribution ou de refus de bourses nationales d'études du second degré de lycée sont prises par le recteur
-d'académie sur le rapport de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
+d'académie sur le rapport du directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie. 
 
 Ces décisions sont notifiées dans un délai de trois jours aux représentants légaux des demandeurs. Elles mentionnent les
-voies de recours.
+voies de recours. 
 
-En cas de rejet, ceux-ci peuvent, dans le délai de huit jours qui suit la notification, former un recours sous couvert de
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, auprès du recteur.
+En cas de rejet, ceux-ci peuvent, dans le délai de huit jours qui suit la notification, former un recours sous couvert du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, auprès du recteur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°59-38 du 2 janvier 1959, article 4, 2ème et 3ème phrases v. init.
-	  - Décret n°59-1422  du 18 décembre 1959 - art. 3 (Ab)
-	  - Décret n°59-1423 du 18 décembre 1959, article 4 v. init.
+	  - Décret n°59-38 du 2 janvier 1959 - art. 3 (Ab)
+	  - Décret n°59-38 du 2 janvier 1959 - art. 4 (Ab)
+	  - Décret n°59-1423 du 18 décembre 1959 - art. 4 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -97660,8 +98014,9 @@ l'éducation prioritaire.
 ###### Article D531-38
 
 Pour les élèves mentionnés au troisième alinéa de l'article D. 531-37, la décision d'attribution de la bourse au mérite
-relève de la compétence de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, après
-avis d'une commission départementale qu'il préside et dont il désigne les membres pour une durée de trois ans. 
+relève de la compétence de               le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, après avis d'une commission départementale qu'il préside et dont il désigne les membres
+pour une durée de trois ans. 
 
 Cette commission est composée de dix-sept membres : 
 
@@ -97687,17 +98042,17 @@ Cette commission est composée de dix-sept membres :
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-730 du 22 juin 2006 - art. 2 (Ab)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2016-328 du 16 mars 2016 - art. 19
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D531-37 (V)
+	  - Code de l'éducation - art. D531-37
 
 	**Cité par**:
 
@@ -97711,21 +98066,22 @@ Cette commission est composée de dix-sept membres :
 
 ###### Article D531-39
 
-Les chefs d'établissement intéressés transmettent à l'inspecteur d'académie, directeur des services départementaux de
-l'éducation nationale, le dossier des élèves proposés par les conseils de classe pour l'obtention d'une bourse au mérite.
+Les chefs d'établissement intéressés transmettent au directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, le dossier des élèves proposés par les conseils de classe pour l'obtention d'une bourse au
+mérite. 
 
 La commission départementale examine ces dossiers et formule ses avis en veillant à ce que les parcours des élèves méritants
 soient pris en considération quelle que soit l'orientation vers les trois voies de formation du lycée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-730 du 22 juin 2006 - art. 3 (Ab)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2016-328 du 16 mars 2016 - art. 19
 
 	**Cité par**:
 
@@ -97736,25 +98092,21 @@ soient pris en considération quelle que soit l'orientation vers les trois voies
 ###### Article D531-40
 
 Le montant annuel de la bourse au mérite est fixé par arrêté du ministre chargé de l'éducation et du ministre chargé du
-budget.
+budget. 
 
 Le paiement de ce complément de bourse est subordonné à l'engagement écrit de l'élève et de la personne assumant sa charge
-effective à poursuivre sa scolarité avec assiduité jusqu'au baccalauréat général, technologique ou professionnel.
+effective à poursuivre sa scolarité avec assiduité jusqu'au baccalauréat général, technologique ou professionnel. 
 
 Les élèves qui ne satisfont pas à l'obligation d'assiduité ou dont les efforts fournis et les résultats scolaires sont jugés
-très insuffisants par le conseil de classe peuvent se voir suspendre le bénéfice de ce complément de bourse par l'inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale, au vu des éléments fournis par l'établissement
-d'accueil.
+très insuffisants par le conseil de classe peuvent se voir suspendre le bénéfice de ce complément de bourse par
+le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, au vu des
+éléments fournis par l'établissement d'accueil.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°2006-730 du 22 juin 2006 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article D531-41
@@ -98561,29 +98913,25 @@ L'agrément peut être retiré dans les mêmes formes.
 ###### Article D551-6
 
 Les associations agréées peuvent intervenir pendant le temps scolaire en appui aux activités d'enseignement, sans toutefois
-se substituer à elles.
+se substituer à elles. 
 
 L'autorisation est délivrée par le directeur d'école ou le chef d'établissement, dans le cadre des principes et des
 orientations définis par le conseil d'école ou le conseil d'administration, à la demande ou avec l'accord des équipes
-pédagogiques concernées et dans le respect de la responsabilité pédagogique des enseignants.
+pédagogiques concernées et dans le respect de la responsabilité pédagogique des enseignants. 
 
 Le directeur d'école ou le chef d'établissement peut, pour une intervention exceptionnelle, autoriser dans les mêmes
 conditions l'intervention d'une association non agréée s'il a auparavant informé du projet d'intervention le recteur ou
-l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans le cas où celui-ci a reçu
-délégation de signature.
+le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, dans le cas où
+celui-ci a reçu délégation de signature. 
 
 Après avoir pris connaissance de ce projet, l'autorité académique peut notifier au directeur d'école ou au chef
 d'établissement son opposition à l'action projetée.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°92-1200 du 6 novembre 1992 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -98949,31 +99297,27 @@ D. 511-23, D. 511-46, D. 511-54 à D. 511-56, D. 511-58 à D. 511-73, D. 521-1 �
 
 Pour l'application des articles D. 511-25, 
 D. 511-42, D. 511-43, D. 511-48, R. 511-49, D. 511-52, D. 521-11, D. 521-13, D. 521-14, 
-D. 531-38 à D. 531-40 et D. 551-6 dans les îles Wallis et Futuna, les mots : « recteur d'académie », « recteur »,
-« inspecteur d'académie, directeur des services départementaux de l'éducation nationale » et « autorité académique » sont
-remplacés par les mots : « vice-recteur » ; les mots : « inspection académique » par les mots : « vice-rectorat », et les
-mots : « commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur ».
+D. 531-38 à D. 531-40 et D. 551-6 dans les îles Wallis et Futuna, les mots : "recteur d'académie", "recteur", "
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie" et "autorité
+académique" sont remplacés par les mots : "vice-recteur" ; les mots : "inspection académique" par les mots : "vice-rectorat",
+et les mots : "commission académique d'appel" par les mots : "commission d'appel constituée auprès du vice-recteur".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-25 (V)
-	  - Code de l'éducation - art. D511-42 (V)
-	  - Code de l'éducation - art. D511-48 (V)
-	  - Code de l'éducation - art. D511-52 (V)
-	  - Code de l'éducation - art. D521-11 (V)
-	  - Code de l'éducation - art. D521-13 (V)
-	  - Code de l'éducation - art. D531-38 (V)
-	  - Code de l'éducation - art. D551-6 (V)
+	  - Code de l'éducation - art. D511-25
+	  - Code de l'éducation - art. D511-42
+	  - Code de l'éducation - art. D511-48
+	  - Code de l'éducation - art. D511-52
+	  - Code de l'éducation - art. D521-11
+	  - Code de l'éducation - art. D521-13
+	  - Code de l'éducation - art. D531-38
+	  - Code de l'éducation - art. D551-6
 
 	**Cité par**:
 
@@ -99287,55 +99631,51 @@ ne sont pas applicables à Mayotte.
 I. ― Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-46, D. 511-48, R. 511-49, D. 511-52, D. 511-63 à
 D. 511-65, D. 511-68 à D. 511-70, D. 521-11, D. 521-13, D. 521-14, R. 531-1, D. 531-8, D. 531-10 à D. 531-12, R. 531-14, D.
 531-15, R. 531-20, D. 531-22, R. 531-25 à D. 531-29, D. 531-32, D. 531-38 à D. 531-40 et D. 551-6 à Mayotte, les mots :
-recteur d'académie, recteur, inspecteur d'académie, directeur des services départementaux de l'éducation nationale et
-autorité académique sont remplacés par les mots : vice-recteur ; les mots : rectorat d'académie et inspection académique par
-les mots : vice-rectorat, et les mots : commission académique d'appel par les mots : commission d'appel constituée auprès du
-vice-recteur. 
+recteur d'académie, recteur,             directeur académique des services de l'éducation nationale agissant sur délégation
+du recteur d'académie et autorité académique sont remplacés par les mots : vice-recteur ; les mots : rectorat d'académie et
+inspection académique par les mots : vice-rectorat, et les mots : commission académique d'appel par les mots : commission
+d'appel constituée auprès du vice-recteur. 
 
-II.-Pour l'application des articles D. 511-63 à D. 511-73, les mots : conseil académique de la vie lycéenne sont remplacés
+II. ― Pour l'application des articles D. 511-63 à D. 511-73, les mots : conseil académique de la vie lycéenne sont remplacés
 par les mots : conseil de la vie lycéenne de Mayotte et les mots : conseillers régionaux nommés par le recteur sur
 proposition du président du conseil régional sont remplacés par les mots : conseillers généraux nommés par le vice-recteur
 sur proposition du président du conseil général. 
 
-III.-Pour l'application des articles D. 521-14, R. 531-1 et R. 531-14, les mots : conseil départemental de l'éducation
+III. ― Pour l'application des articles D. 521-14, R. 531-1 et R. 531-14, les mots : conseil départemental de l'éducation
 nationale et conseil académique de l'éducation nationale siégeant en formation contentieuse et disciplinaire sont remplacés
 par les mots : conseil de l'éducation nationale de Mayotte.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-25 (V)
-	  - Code de l'éducation - art. D511-42 (V)
-	  - Code de l'éducation - art. D511-43 (V)
-	  - Code de l'éducation - art. D511-46 (V)
-	  - Code de l'éducation - art. D511-48 (V)
-	  - Code de l'éducation - art. D511-52 (V)
-	  - Code de l'éducation - art. D511-63 (V)
-	  - Code de l'éducation - art. D511-68 (V)
-	  - Code de l'éducation - art. D521-11 (V)
-	  - Code de l'éducation - art. D521-13 (V)
-	  - Code de l'éducation - art. D521-14 (V)
-	  - Code de l'éducation - art. D531-10 (V)
-	  - Code de l'éducation - art. D531-15 (V)
-	  - Code de l'éducation - art. D531-22 (V)
-	  - Code de l'éducation - art. D531-32 (V)
-	  - Code de l'éducation - art. D531-38 (V)
-	  - Code de l'éducation - art. D531-8 (V)
-	  - Code de l'éducation - art. D551-6 (V)
-	  - Code de l'éducation - art. R511-49 (V)
-	  - Code de l'éducation - art. R531-1 (V)
-	  - Code de l'éducation - art. R531-14 (V)
-	  - Code de l'éducation - art. R531-20 (V)
-	  - Code de l'éducation - art. R531-25 (V)
+	  - Code de l'éducation - art. D511-25
+	  - Code de l'éducation - art. D511-42
+	  - Code de l'éducation - art. D511-43
+	  - Code de l'éducation - art. D511-46
+	  - Code de l'éducation - art. D511-48
+	  - Code de l'éducation - art. D511-52
+	  - Code de l'éducation - art. D511-63
+	  - Code de l'éducation - art. D511-68
+	  - Code de l'éducation - art. D521-11
+	  - Code de l'éducation - art. D521-13
+	  - Code de l'éducation - art. D521-14
+	  - Code de l'éducation - art. D531-10
+	  - Code de l'éducation - art. D531-15
+	  - Code de l'éducation - art. D531-22
+	  - Code de l'éducation - art. D531-32
+	  - Code de l'éducation - art. D531-38
+	  - Code de l'éducation - art. D531-8
+	  - Code de l'éducation - art. D551-6
+	  - Code de l'éducation - art. R511-49
+	  - Code de l'éducation - art. R531-1
+	  - Code de l'éducation - art. R531-14
+	  - Code de l'éducation - art. R531-20
+	  - Code de l'éducation - art. R531-25
 
 
 ###### Article D562-4
@@ -99598,19 +99938,23 @@ vacance des classes, ni sur l'équilibre entre ces périodes.
 
 ###### Article R562-9
 
-Pour l'application de l'article R. 531-25 à Mayotte, les mots : « sur le rapport de l'inspecteur d'académie, directeur des
-services départementaux de l'éducation nationale » et « sous couvert de l'inspecteur d'académie, directeur des services
-départementaux de l'éducation nationale » sont supprimés.
+Pour l'application de l'article R. 531-25 à Mayotte, les mots : "sur le rapport de               le directeur académique des
+services de l'éducation nationale agissant sur délégation du recteur d'académie" et " sous couvert du directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie" sont supprimés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-328 du 16 mars 2016 - art. 26
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R531-25 (V)
+	  - Code de l'éducation - art. R531-25
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française
@@ -99635,24 +99979,24 @@ aux articles D. 563-3 et D. 563-4.
 
 ###### Article D563-3
 
-Pour l'application des articles D. 531-38 à D. 531-40 en Polynésie française, les mots : « inspecteur d'académie, directeur
-des services départementaux de l'éducation nationale » et « commission départementale » sont respectivement remplacés par les
-mots : « vice-recteur » et « commission des bourses au mérite en Polynésie française ». 
+Pour l'application des articles D. 531-38 à D. 531-40 en Polynésie française, les mots : "            directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie" et "commission départementale" sont
+respectivement remplacés par les mots : "vice-recteur" et "commission des bourses au mérite en Polynésie française". 
 
 Pour l'application de l'article D. 531-38, le neuvième alinéa (7°) est remplacé par les dispositions suivantes : 
 
-« 7° Deux représentants des lycéens » et les mots : « représentants des collectivités territoriales » sont remplacés par les
-mots : « représentants de l'assemblée de la Polynésie française ».
+"7° Deux représentants des lycéens" et les mots : "représentants des collectivités territoriales" sont remplacés par les
+mots : "représentants de l'assemblée de la Polynésie française".
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D531-38 (V)
+	  - Code de l'éducation - art. D531-38
 
 	**Cité par**:
 
@@ -99742,32 +100086,28 @@ degré.
 ###### Article D564-3
 
 Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-48, R. 511-49, D. 511-52, D. 521-11, D. 521-13, D.
-521-14, D. 531-38 à D. 531-40 et D. 551-6 en Nouvelle-Calédonie, les mots : « recteur d'académie », « recteur », « inspecteur
-d'académie, directeur des services départementaux de l'éducation nationale » et « autorité académique » sont remplacés par
-les mots : « vice-recteur », les mots : « inspection académique » par les mots : « vice-rectorat », et les mots :
-« commission académique d'appel » par les mots : « commission d'appel constituée auprès du vice-recteur ».
+521-14, D. 531-38 à D. 531-40 et D. 551-6 en Nouvelle-Calédonie, les mots : "recteur d'académie", "recteur", "directeur
+académique des services de l'éducation nationale agissant sur délégation du recteur d'académie" et "autorité académique" sont
+remplacés par les mots : "vice-recteur", les mots : "inspection académique" par les mots : "vice-rectorat", et les mots :
+"commission académique d'appel" par les mots : "commission d'appel constituée auprès du vice-recteur".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Décret n°85-1348 du 18 décembre 1985 - art. 11-1 alinéas 1 et 2 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°2009-553 du 15 mai 2009 - art.
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D511-25 (V)
-	  - Code de l'éducation - art. D511-42 (V)
-	  - Code de l'éducation - art. D511-48 (V)
-	  - Code de l'éducation - art. D511-52 (V)
-	  - Code de l'éducation - art. D521-11 (V)
-	  - Code de l'éducation - art. D521-13 (V)
-	  - Code de l'éducation - art. D531-38 (V)
-	  - Code de l'éducation - art. D551-6 (V)
-	  - Code de l'éducation - art. R511-49 (V)
+	  - Code de l'éducation - art. D511-25
+	  - Code de l'éducation - art. D511-42
+	  - Code de l'éducation - art. D511-48
+	  - Code de l'éducation - art. D511-52
+	  - Code de l'éducation - art. D521-11
+	  - Code de l'éducation - art. D521-13
+	  - Code de l'éducation - art. D531-38
+	  - Code de l'éducation - art. D551-6
+	  - Code de l'éducation - art. R511-49
 
 	**Cité par**:
 
@@ -100083,17 +100423,18 @@ les personnels de même catégorie  exerçant dans les établissements publics l
 
 ###### Article R914-4
 
-Une commission consultative mixte départementale est chargée de donner un avis  sur les questions individuelles intéressant
-les maîtres, dans les cas prévus au  présent chapitre. Elle est réunie à la demande de l'inspecteur d'académie,  directeur
-des services départementaux de l'éducation nationale au chef-lieu du  département, au moins deux fois par an, au début du
-deuxième et du troisième  trimestre de l'année scolaire. L'inspecteur d'académie fixe son ordre du jour et  convoque ses
-membres huit jours au moins à l'avance.
+Une commission consultative mixte départementale est chargée de donner un avis sur les questions individuelles intéressant
+les maîtres, dans les cas prévus au présent chapitre. Elle est réunie à la demande du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie au chef-lieu du département, au moins deux fois par an,
+au début du deuxième et du troisième trimestre de l'année scolaire. Le directeur académique des services de l'éducation
+nationale agissant sur délégation du recteur d'académie fixe son ordre du jour et convoque ses membres huit jours au moins à
+l'avance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -100113,44 +100454,47 @@ membres huit jours au moins à l'avance.
 
 ###### Article R914-5
 
-La commission consultative mixte départementale comprend vingt membres :
+La commission consultative mixte départementale comprend vingt membres : 
 
-1° L'inspecteur d'académie, directeur des services départementaux de  l'éducation nationale, président ;
+1°               Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie,
+président ; 
 
-2° Quatre représentants de  l'administration désignés par l'inspecteur d'académie ;
+2° Quatre représentants de l'administration désignés par le directeur académique des services de l'éducation nationale
+agissant sur délégation du recteur d'académie ; 
 
-3°  Cinq membres du personnel titulaire de l'enseignement primaire public dont un  membre de l'enseignement primaire public
-spécialisé accueillant des enfants et  adolescents handicapés. Ils comprennent, d'une part, des chefs d'établissement,
-d'autre part, des maîtres, désignés par l'inspecteur d'académie ;
+3° Cinq membres du personnel titulaire de l'enseignement primaire public dont un membre de l'enseignement primaire public
+spécialisé accueillant des enfants et adolescents handicapés. Ils comprennent, d'une part, des chefs d'établissement, d'autre
+part, des maîtres, désignés par le directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie ; 
 
-4° Cinq représentants des chefs d'établissement d'enseignement  primaire privé ayant passé avec l'Etat un contrat et
-n'exerçant pas la fonction  de chef d'établissement d'enseignement secondaire et technique privé et des  responsables
-pédagogiques de classes spécialisées fonctionnant dans des  établissements primaires spécialisés sous contrat accueillant des
-enfants et  adolescents handicapés. Ils sont élus par leurs collègues au scrutin de liste à  la représentation
-proportionnelle à la plus forte moyenne ;
+4° Cinq représentants des chefs d'établissement d'enseignement primaire privé ayant passé avec l'Etat un contrat et
+n'exerçant pas la fonction de chef d'établissement d'enseignement secondaire et technique privé et des responsables
+pédagogiques de classes spécialisées fonctionnant dans des établissements primaires spécialisés sous contrat accueillant des
+enfants et adolescents handicapés. Ils sont élus par leurs collègues au scrutin de liste à la représentation proportionnelle
+à la plus forte moyenne ; 
 
-5°  Cinq représentants des maîtres, contractuels ou agréés, de l'enseignement  primaire privé et des maîtres agréés des
-classes spécialisées fonctionnant dans  des établissements primaires spécialisés sous contrat accueillant des enfants et
-adolescents handicapés. Ils sont élus par leurs collègues au scrutin de liste à  la représentation proportionnelle à la plus
-forte moyenne. Ces maîtres ne  doivent pas exercer la fonction de chef d'établissement d'enseignement primaire  privé ou de
-responsable pédagogique des classes spécialisées fonctionnant dans  des établissements primaires spécialisés.
+5° Cinq représentants des maîtres, contractuels ou agréés, de l'enseignement primaire privé et des maîtres agréés des classes
+spécialisées fonctionnant dans des établissements primaires spécialisés sous contrat accueillant des enfants et adolescents
+handicapés. Ils sont élus par leurs collègues au scrutin de liste à la représentation proportionnelle à la plus forte
+moyenne. Ces maîtres ne doivent pas exercer la fonction de chef d'établissement d'enseignement primaire privé ou de
+responsable pédagogique des classes spécialisées fonctionnant dans des établissements primaires spécialisés. 
 
-Pour l'application  des 4° et 5°, chaque liste devra comporter un nombre de candidats égal au double  du nombre de sièges à
-pourvoir.
+Pour l'application des 4° et 5°, chaque liste devra comporter un nombre de candidats égal au double du nombre de sièges à
+pourvoir. 
 
-Lorsque le nombre des chefs  d'établissement et des responsables pédagogiques des classes spécialisées est  inférieur à
-vingt, ou lorsque le nombre des maîtres est inférieur à cent,  l'inspecteur d'académie peut réduire le nombre de leurs
-représentants  respectifs, à la condition que le nombre des premiers reste égal à celui des  seconds, et que la
-représentation des autres catégories siégeant à la commission  soit réduite à due proportion. Dans ces cas, aucune liste ne
-pourra comporter un  nombre de candidats inférieur à deux.
+Lorsque le nombre des chefs d'établissement et des responsables pédagogiques des classes spécialisées est inférieur à vingt,
+ou lorsque le nombre des maîtres est inférieur à cent, le directeur académique des services de l'éducation nationale agissant
+sur délégation du recteur d'académie peut réduire le nombre de leurs représentants respectifs, à la condition que le nombre
+des premiers reste égal à celui des seconds, et que la représentation des autres catégories siégeant à la commission soit
+réduite à due proportion. Dans ces cas, aucune liste ne pourra comporter un nombre de candidats inférieur à deux. 
 
-Des suppléants sont élus  ou désignés dans les mêmes conditions que les membres titulaires.
+Des suppléants sont élus ou désignés dans les mêmes conditions que les membres titulaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -100162,34 +100506,37 @@ Des suppléants sont élus  ou désignés dans les mêmes conditions que les mem
 ###### Article R914-6
 
 Lorsqu'elle siège en formation spéciale en application de l'article R. 914-77, la commission consultative mixte
-départementale comprend vingt membres : 
+départementale comprend vingt membres :
 
-1° L'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, président ; 
+1°               Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie,
+président ;
 
-2° Neuf représentants de l'administration désignés par le recteur sur proposition de l'inspecteur d'académie ; 
+2° Neuf représentants de l'administration désignés par le recteur sur proposition du directeur académique des services de
+l'éducation nationale agissant sur délégation du recteur d'académie ;
 
-3° Les cinq chefs d'établissement primaire privé mentionnés au 4° de l'article R. 914-5 ; 
+3° Les cinq chefs d'établissement primaire privé mentionnés au 4° de l'article R. 914-5 ;
 
-4° Les cinq maîtres des établissements primaires privés mentionnés au 5° de l'article R. 914-5. 
+4° Les cinq maîtres des établissements primaires privés mentionnés au 5° de l'article R. 914-5.
 
 Lorsque les chefs d'établissement siégeant à la commission consultative mixte ne sont pas, pour la moitié au moins, des chefs
 d'établissement sous contrat d'association, cette proportion est rétablie, dans la formation spéciale, par le remplacement de
-chefs d'établissement sous contrat simple par des chefs d'établissement sous contrat d'association.L'inspecteur d'académie
-décide du remplacement, sur proposition des organisations syndicales. 
+chefs d'établissement sous contrat simple par des chefs d'établissement sous contrat d'association. Le directeur académique
+des services de l'éducation nationale agissant sur délégation du recteur d'académie décide du remplacement, sur proposition
+des organisations syndicales.
 
 Lorsque les maîtres siégeant à la commission consultative mixte ne sont pas, pour la moitié au moins, des maîtres titulaires
 ou contractuels, cette proportion est rétablie, dans la formation spéciale, par le remplacement de maîtres agréés par des
 maîtres titulaires ou contractuels figurant sur les mêmes listes de candidats aux élections organisées pour la constitution
-de la commission consultative mixte. 
+de la commission consultative mixte.
 
 Lorsque le nombre des chefs d'établissement et des maîtres est réduit en application de l'avant-dernier alinéa de l'article
 R. 914-5, le nombre des représentants de l'administration académique est réduit dans la même proportion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
@@ -100201,8 +100548,8 @@ R. 914-5, le nombre des représentants de l'administration académique est rédu
 
 	**Cite**:
 
-	  - Code de l'éducation - art. R914-5 (V)
-	  - Code de l'éducation - art. R914-77 (V)
+	  - Code de l'éducation - art. R914-5
+	  - Code de l'éducation - art. R914-77
 
 
 ##### Sous-section 2 : La commission consultative mixte académique.
@@ -100618,7 +100965,7 @@ suivant la date de proclamation des résultats.
 
 Pour les candidats inscrits sur la liste principale qui ne peuvent justifier de l'un des diplômes exigés pour la nomination
 des lauréats du concours externe dans l'enseignement public, le bénéfice de l'inscription sur la liste d'aptitude est reporté
-à la session de recrutement de l'année suivante.A cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le
+à la session de recrutement de l'année suivante. A cette date, ceux qui ne peuvent justifier d'un de ces diplômes perdent le
 bénéfice de l'admission au concours. 
 
 II. ― Les candidats admis qui remplissent les conditions de diplôme et justifient des certificats exigés des candidats des
@@ -100634,15 +100981,15 @@ un contrat avec l'Etat, dans le respect du caractère propre de ces établisseme
 
 III. ― A l'issue du stage, les candidats admis qui justifient des certificats exigés des candidats des concours
 correspondants de l'enseignement public se voient délivrer, sur proposition d'un jury, un contrat ou un agrément définitif
-par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale du département dans le ressort
-duquel le stage est réalisé. La délivrance du contrat ou de l'agrément définitif confère le certificat d'aptitude au
-professorat des écoles. 
+par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie
+du département dans le ressort duquel le stage est réalisé. La délivrance du contrat ou de l'agrément définitif confère le
+certificat d'aptitude au professorat des écoles. 
 
 Les candidats qui n'obtiennent pas le certificat d'aptitude peuvent être autorisés, sur proposition du jury et par décision
-de l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, à effectuer une nouvelle année de
-stage. Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage, n'ont pas obtenu
-leur certificat d'aptitude au professorat des écoles sont, lorsqu'ils avaient la qualité de maître contractuel ou agréé,
-replacés dans leur échelle de rémunération antérieure. 
+du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, à effectuer une
+nouvelle année de stage. Ceux qui ne sont pas autorisés à renouveler le stage ou qui, à l'issue de la seconde année de stage,
+n'ont pas obtenu leur certificat d'aptitude au professorat des écoles sont, lorsqu'ils avaient la qualité de maître
+contractuel ou agréé, replacés dans leur échelle de rémunération antérieure. 
 
 La seconde année de stage effectuée en application des dispositions de l'alinéa précédent n'est pas prise en compte pour la
 détermination de l'ancienneté de service.
@@ -100663,7 +101010,7 @@ détermination de l'ancienneté de service.
 
 	**Modifié par**:
 
-	  - Décret n°2010-571 du 28 mai 2010 - art. 1
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R914-19-3
@@ -101912,44 +102259,45 @@ Ce nombre est réparti entre les départements par arrêté du ministre  chargé
 
 ###### Article R914-62
 
-Peuvent être inscrits sur la liste d'aptitude les maîtres contractuels ou agréés  en activité, assimilés pour leur
-rémunération aux instituteurs, qui justifient,  au 1er septembre de l'année scolaire au titre de laquelle la liste d'aptitude
-est établie, de cinq années de services effectifs en qualité d'instituteur et  qui ont fait acte de candidature auprès de
-l'inspecteur d'académie, directeur  des services départementaux de l'éducation nationale.
+Peuvent être inscrits sur la liste d'aptitude les maîtres contractuels ou agréés en activité, assimilés pour leur
+rémunération aux instituteurs, qui justifient, au 1er septembre de l'année scolaire au titre de laquelle la liste d'aptitude
+est établie, de cinq années de services effectifs en qualité d'instituteur et qui ont fait acte de candidature auprès du
+directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
-Pour  l'application de la condition de durée de service mentionnée ci-dessus, sont  assimilées à des services effectifs
-d'instituteur à temps plein les années de  service en qualité de chef d'établissement d'enseignement primaire sous contrat
-ou de formateur de maîtres de ces établissements exercées par des maîtres  contractuels ou agréés.
+Pour l'application de la condition de durée de service mentionnée ci-dessus, sont assimilées à des services effectifs
+d'instituteur à temps plein les années de service en qualité de chef d'établissement d'enseignement primaire sous contrat ou
+de formateur de maîtres de ces établissements exercées par des maîtres contractuels ou agréés.
 
-La liste d'aptitude est arrêtée chaque  année par l'inspecteur d'académie, après avis de la commission consultative  mixte
-départementale.
+La liste d'aptitude est arrêtée chaque année par le directeur académique des services de l'éducation nationale agissant sur
+délégation du recteur d'académie, après avis de la commission consultative mixte départementale.
 
-Le nombre de candidats inscrits sur la  liste d'aptitude départementale ne peut excéder de plus de 50 % le contingent  des
+Le nombre de candidats inscrits sur la liste d'aptitude départementale ne peut excéder de plus de 50 % le contingent des
 promotions fixé pour l'année considérée.
 
-L'inspecteur  d'académie prononce les admissions des maîtres inscrits sur la liste d'aptitude  départementale, dans la limite
-du contingent précité, à l'échelle de  rémunération des professeurs des écoles.
+Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie prononce les
+admissions des maîtres inscrits sur la liste d'aptitude départementale, dans la limite du contingent précité, à l'échelle de
+rémunération des professeurs des écoles.
 
-Les maîtres  bénéficiant de l'échelle de rémunération des professeurs des écoles sont placés  dans l'échelle de rémunération
-correspondant à la classe normale du corps des  professeurs des écoles.
+Les maîtres bénéficiant de l'échelle de rémunération des professeurs des écoles sont placés dans l'échelle de rémunération
+correspondant à la classe normale du corps des professeurs des écoles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ###### Article R914-63
 
-Les maîtres bénéficiant de l'échelle de rémunération des professeurs des écoles  de classe normale peuvent accéder à
-l'échelle de rémunération de la hors-classe  des professeurs des écoles dans les mêmes conditions et selon les mêmes
-proportions que les professeurs des écoles exerçant dans l'enseignement public  après inscription sur un tableau d'avancement
-établi chaque année par  l'inspecteur d'académie, directeur des services départementaux de l'éducation  nationale, après avis
-de la commission consultative mixte départementale.
+Les maîtres bénéficiant de l'échelle de rémunération des professeurs des écoles de classe normale peuvent accéder à l'échelle
+de rémunération de la hors-classe des professeurs des écoles dans les mêmes conditions et selon les mêmes proportions que les
+professeurs des écoles exerçant dans l'enseignement public après inscription sur un tableau d'avancement établi chaque année
+par               le directeur académique des services de l'éducation nationale agissant sur délégation du recteur
+d'académie, après avis de la commission consultative mixte départementale. 
 
-Ils sont classés à la hors-classe conformément aux dispositions  prévues à l'article  25 du décret n° 90-680 du 1er août 1990
-portant  statut particulier des professeurs des écoles.
+Ils sont classés à la hors-classe conformément aux dispositions prévues à l'article 25 du décret n° 90-680 du 1er août 1990
+portant statut particulier des professeurs des écoles.
 
 **Liens relatifs à cet article**
 
@@ -101957,9 +102305,9 @@ portant  statut particulier des professeurs des écoles.
 
 	  - Décret n°90-680 du 1 août 1990 - art. 25
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 
 ##### Paragraphe 3 : Dispositions applicables aux maîtres du second degré.
@@ -102219,25 +102567,25 @@ supérieur ou, dans le cas où ils sont déjà à l'échelon terminal, à celle 
 
 ###### Article R914-75
 
-Aux dates fixées chaque année par un arrêté du recteur, les chefs  d'établissement transmettent au recteur, s'il s'agit d'un
-établissement du  second degré, ou à l'inspecteur d'académie, directeur des services  départementaux de l'éducation
-nationale, s'il s'agit d'un établissement du  premier degré :
+Aux dates fixées chaque année par un arrêté du recteur, les chefs d'établissement transmettent au recteur, s'il s'agit d'un
+établissement du second degré, ou au directeur académique des services de l'éducation nationale agissant sur délégation du
+recteur d'académie, s'il s'agit d'un établissement du premier degré :
 
-1° La liste des services, complets ou  incomplets, y compris les services nouveaux auxquels il y aura lieu de pourvoir  à la
+1° La liste des services, complets ou incomplets, y compris les services nouveaux auxquels il y aura lieu de pourvoir à la
 rentrée scolaire ;
 
-2° La liste par  discipline des maîtres pour lesquels il est proposé de réduire ou supprimer le service. Pour établir la
-liste, le chef  d'établissement prend en compte la durée des services d'enseignement, de  direction ou de formation accomplis
-par chacun d'eux dans les établissements  d'enseignement publics ou privés sous contrat.
+2° La liste par discipline des maîtres pour lesquels il est proposé de réduire ou supprimer le service. Pour établir la
+liste, le chef d'établissement prend en compte la durée des services d'enseignement, de direction ou de formation accomplis
+par chacun d'eux dans les établissements d'enseignement publics ou privés sous contrat.
 
-Les vacances  survenant en cours d'année scolaire sont déclarées sans délai à l'autorité  académique définie au premier
-alinéa du présent article lorsqu'il y a lieu d'y  pourvoir avant la rentrée suivante.
+Les vacances survenant en cours d'année scolaire sont déclarées sans délai à l'autorité académique définie au premier alinéa
+du présent article lorsqu'il y a lieu d'y pourvoir avant la rentrée suivante.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-1429 du 19 décembre 2008 - art. (V)
+	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
 
 	**Cité par**:
 
