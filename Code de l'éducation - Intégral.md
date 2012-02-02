@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-02-01
+Version Consolidée au 2012-02-03
 
 # Partie législative
 
@@ -9395,8 +9395,12 @@ Les modalités d'application de ces dispositions sont déterminées par décret.
 
 ###### Article L331-6
 
-Les établissements scolaires du second degré permettent, selon des formules adaptées, la préparation des élèves en vue de la
-pratique sportive de haut niveau.
+Les établissements scolaires du second degré permettent, selon des formules adaptées, la préparation des élèves en vue de : 
+
+1° La pratique sportive de haut niveau ; 
+
+2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5
+du code du sport.
 
 **Liens relatifs à cet article**
 
@@ -9406,8 +9410,8 @@ pratique sportive de haut niveau.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -9416,6 +9420,14 @@ pratique sportive de haut niveau.
 	  - Code du sport. - art. D221-20 (V)
 	  - Code du sport. - art. L221-9 (V)
 	  - Code du sport. - art. R221-20 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 12
+
+	**Cite**:
+
+	  - Code du sport. - art. L211-5
 
 
 ##### Section 4 : La procédure d'orientation.
@@ -17951,27 +17963,24 @@ administrations concernées, les collectivités territoriales, les entreprises e
 
 ###### Article L611-4
 
-Les établissements d'enseignement supérieur permettent aux sportifs de haut niveau de poursuivre leur carrière sportive par
-les aménagements nécessaires dans l'organisation et le déroulement de leurs études.
+Les établissements d'enseignement supérieur permettent aux sportifs de haut niveau et aux bénéficiaires d'une convention de
+formation prévue à l'article L. 211-5 du code du sport de poursuivre leur carrière sportive par les aménagements nécessaires
+dans l'organisation et le déroulement de leurs études. 
 
-Ils favorisent l'accès des sportifs de haut niveau, qu'ils possèdent ou non des titres universitaires, à des enseignements de
-formation ou de perfectionnement, dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5.
+Ils favorisent l'accès des sportifs de haut niveau et des bénéficiaires d'une convention de formation prévue au même article
+L. 211-5, qu'ils possèdent ou non des titres universitaires, à des enseignements de formation ou de perfectionnement, dans
+les conditions définies aux articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Loi n°84-610 du 16 juillet 1984 - art. 27 (Ab)
-	  - Loi n°84-610 du 16 juillet 1984 - art. 28 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2002-73 du 17 janvier 2002 - art. 137 () JORF 18 janvier 2002
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -17985,9 +17994,15 @@ formation ou de perfectionnement, dans les conditions définies par les articles
 	  - Code du sport. - art. L221-10 (V)
 	  - Code du sport. - art. R221-20 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 12
+
 	**Cite**:
 
-	  - Code de l'éducation L612-2 à L612-4, L613-3 à L613-5
+	  - Code de l'éducation - art. L612-2
+	  - Code de l'éducation - art. L613-3
+	  - Code du sport. - art. L211-5
 
 
 ###### Article L611-5
