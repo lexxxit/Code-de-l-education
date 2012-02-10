@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-02-03
+Version Consolidée au 2012-02-11
 
 # Partie législative
 
@@ -63911,29 +63911,45 @@ décision de refus n'a été notifiée à l'établissement ou au centre de forma
 ###### Article D337-21
 
 Une session d'examen du certificat d'aptitude professionnelle, au moins, est organisée chaque année scolaire, au sein d'une
-académie ou d'un groupement d'académies.
+académie ou d'un groupement d'académies. 
 
 A chaque session, les candidats ne peuvent s'inscrire qu'en vue de l'obtention d'un seul certificat d'aptitude
-professionnelle, sauf dérogation individuelle accordée par le recteur.
+professionnelle, sauf dérogation individuelle accordée par le recteur. 
+
+Par dérogation à l'alinéa précédent, les candidats titulaires d'un contrat d'apprentissage conclu en application de l'article
+L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du
+même code, peuvent s'inscrire en vue de l'obtention de deux certificats d'aptitude professionnelle à la même session. 
 
 Sur autorisation du recteur, les épreuves de remplacement, à l'exception de l'épreuve d'éducation physique et sportive et de
 l'épreuve facultative, sont organisées pour les candidats mentionnés au sixième alinéa de l'article D. 337-16, au sein d'une
 académie ou d'un groupement d'académies.
 
+**Nota:**
+
+Les dispositions du décret n° 2012-197 du 8 février 2012 entrent en vigueur à compter de la session d'examen 2012.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°2002-463 2002-04-04 art. 20
 	  - Décret n°2002-463 du 4 avril 2002 - art. 20 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-197 du 8 février 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-16 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L6222-5-1
+	  - Code du travail - art. L6325-4-1
 
 
 ###### Article D337-22
@@ -66374,7 +66390,15 @@ académie ou d'un groupement d'académies, selon des modalités fixées par le m
 ###### Article D337-90
 
 A chaque session, les candidats ne peuvent s'inscrire qu'en vue de l'obtention d'une seule spécialité de baccalauréat
-professionnel.
+professionnel. 
+
+Par dérogation à l'alinéa précédent, les candidats titulaires d'un contrat d'apprentissage conclu en application de l'article
+L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du
+même code, peuvent s'inscrire en vue de l'obtention de deux spécialités de baccalauréat professionnel à la même session.
+
+**Nota:**
+
+Les dispositions du décret n° 2012-197 du 8 février 2012 entrent en vigueur à compter de la session d'examen 2012.
 
 **Liens relatifs à cet article**
 
@@ -66384,7 +66408,16 @@ professionnel.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-197 du 8 février 2012 - art. 2
+
+	**Cite**:
+
+	  - Code du travail - art. L6222-5-1
+	  - Code du travail - art. L6325-4-1
 
 
 ###### Article D337-91
