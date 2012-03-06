@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-02-18
+Version Consolidée au 2012-03-07
 
 # Partie législative
 
@@ -22639,21 +22639,21 @@ enseignants ou les chercheurs qui participent à l'enseignement, en fonction dan
 
 ###### Article L713-4
 
-I.-Par dérogation aux articles L. 712-2, L. 712-3, L. 712-5 et L. 712-6, les unités de formation et de recherche de médecine,
-de pharmacie et d'odontologie ou, à défaut, les départements qui assurent ces formations concluent, conjointement avec les
-centres hospitaliers régionaux, conformément aux articles L. 713-5 et L. 713-6, et, le cas échéant, avec les centres de lutte
-contre le cancer, conformément à l'article L. 6142-5 du code de la santé publique, les conventions qui ont pour objet de
-déterminer la structure et les modalités de fonctionnement du centre hospitalier et universitaire. Elles respectent les
-orientations stratégiques de l'université définies dans le contrat pluriannuel d'établissement, notamment dans le domaine de
-la recherche biomédicale. 
+I.-Par dérogation aux articles L. 712-2, L. 712-3 et L. 712-6-1, les unités de formation et de recherche de médecine, de
+pharmacie, d'odontologie et de maïeutique ou, à défaut, les composantes qui assurent ces formations concluent, conjointement
+avec les centres hospitaliers régionaux, conformément aux articles L. 713-5 et L. 713-6, et, le cas échéant, avec les centres
+de lutte contre le cancer et les établissements de santé privés à but non lucratif, conformément à l'article L. 6142-5 du
+code de la santé publique, les conventions qui ont pour objet de déterminer la structure et les modalités de fonctionnement
+du centre hospitalier et universitaire. Elles respectent les orientations stratégiques de l'université définies dans le
+contrat pluriannuel d'établissement, notamment dans le domaine de la recherche impliquant la personne humaine. 
 
-Le directeur de l'unité ou du département a qualité pour signer ces conventions au nom de l'université. 
+Le directeur de l'unité ou de la composante a qualité pour signer ces conventions au nom de l'université. 
 
 Ces conventions ne peuvent être exécutées qu'après avoir été approuvées par le président de l'université et votées par le
 conseil d'administration de l'université. 
 
 Le président de l'université peut déléguer sa signature au directeur pour ordonnancer les recettes et les dépenses de l'unité
-de formation et de recherche ou du département. 
+de formation et de recherche ou de la composante. 
 
 Les emplois du personnel enseignant et hospitalier des centres hospitaliers et universitaires sont affectés dans le respect
 des dispositions de l'article L. 952-21. 
@@ -22661,10 +22661,9 @@ des dispositions de l'article L. 952-21.
 La révision des effectifs enseignants et hospitaliers prend en compte les besoins de santé publique, d'une part, et
 d'enseignement et de recherche, d'autre part. 
 
-II.-Par dérogation aux articles L. 613-1, 
-L. 712-3 et L. 712-6, l'organisation des enseignements et du contrôle des connaissances est définie par les unités de
-formation et de recherche de médecine, d'odontologie ou de pharmacie, suivant le cas, puis approuvée par le président de
-l'université, pour les formations suivantes : 
+II.-Par dérogation aux articles L. 613-1 et L. 712-6-1, l'organisation des enseignements et du contrôle des connaissances est
+définie par les unités de formation et de recherche de médecine, d'odontologie, de pharmacie ou de maïeutique, suivant le
+cas, puis approuvée par le président de l'université, pour les formations suivantes : 
 
 1° Deuxième cycle des études médicales ; 
 
@@ -22672,25 +22671,18 @@ l'université, pour les formations suivantes :
 
 3° Formation de pharmacie générale du troisième cycle des études pharmaceutiques. 
 
-III.-La même procédure comportant une proposition commune des unités de formation et de recherche situées, selon le cas, dans
-la région sanitaire ou dans l'interrégion instituée en application de l'article L. 632-7, est applicable aux formations
-suivantes : 
+III.-La même procédure comportant une proposition commune des unités de formation et de recherche situées dans la subdivision
+territoriale mentionnée au deuxième alinéa de l'article L. 632-2 est applicable aux formations suivantes : 
 
 1° Troisièmes cycles de médecine générale, de médecine spécialisée et de santé publique ; 
 
 2° Formations de pharmacie hospitalière, de pharmacie et santé publique et de biologie médicale du troisième cycle des études
 pharmaceutiques.
 
-**Nota:**
-
-Loi 2007-1199 du 10 août 2007 art. 45 : L'article 15 de la présente loi (I du présent article) s'applique à compter de
-l'installation du nouveau conseil d'administration.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 32
 	  - Loi n°84-52 du 26 janvier 1984 - art. 32 (Ab)
 
 	**Cité par**:
@@ -22711,23 +22703,18 @@ l'installation du nouveau conseil d'administration.
 	  - Code de la santé publique - art. L6142-7 (VT)
 	  - Code de la santé publique - art. L6143-2 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 15 () JORF 11 août 2007
+	  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
+	  - ORDONNANCE n°2014-807 du 17 juillet 2014 - art. 3
 
 	**Cite**:
 
 	  - Code de l'éducation - art. L613-1 (V)
+	  - Code de l'éducation - art. L632-2 (V)
 	  - Code de l'éducation - art. L632-7 (Ab)
 	  - Code de l'éducation - art. L712-2 (V)
-	  - Code de l'éducation - art. L712-3 (V)
-	  - Code de l'éducation - art. L712-5 (V)
-	  - Code de l'éducation - art. L712-6 (V)
+	  - Code de l'éducation - art. L712-6-1 (V)
 	  - Code de l'éducation - art. L713-5 (V)
 	  - Code de l'éducation - art. L952-21 (V)
 	  - Code de la santé publique - art. L6142-5 (V)
@@ -22761,9 +22748,9 @@ Ces conventions sont élaborées en cohérence avec les contrats pluriannuels d'
 6114-1 les projets d'établissement mentionnés à l'article L. 6143-2, les contrats pluriannuels d'établissement mentionnés à
 l'article L. 711-1 du code de l'éducation et les contrats de projets Etat-régions. 
 
-Elles portent en particulier sur la politique de recherche biomédicale de l'université et les modalités de son déploiement au
-sein du centre hospitalier et universitaire et les modalités de participation du centre hospitalier régional et le cas
-échéant des autres établissements de soins à l'enseignement universitaire et post-universitaire. 
+Elles portent en particulier sur la politique de recherche impliquant la personne humaine de l'université et les modalités de
+son déploiement au sein du centre hospitalier et universitaire et les modalités de participation du centre hospitalier
+régional et le cas échéant des autres établissements de soins à l'enseignement universitaire et post-universitaire. 
 
 Des établissements de santé ainsi que des établissements publics à caractère scientifique et technologique ou autres
 organismes de recherche peuvent être associés à ces conventions pour tout ou partie de leurs clauses. 
@@ -22788,8 +22775,8 @@ conférence sanitaire s'ils ne font pas partie du syndicat interhospitalier. "
 " Art.L. 6142-11.-Les difficultés qui s'élèvent à l'occasion de la conclusion ou de l'application des conventions prévues à
 l'article L. 6142-3 sont examinées par une commission comprenant le représentant de l'Etat dans le département, président, le
 directeur de l'unité de formation et de recherches médicales ou pharmaceutiques ou, lorsqu'il existe un comité de
-coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin ou le pharmacien désigné
-par le directeur général de l'agence régionale de santé. 
+coordination de l'enseignement médical ou pharmaceutique, le président de ce comité et le médecin inspecteur régional de
+santé publique ou le pharmacien inspecteur régional.
 
 A défaut d'accord intervenu devant cette commission, il est statué par décision commune des ministres de l'enseignement
 supérieur et de la santé, dans les conditions déterminées par voie réglementaire. " 
@@ -22825,7 +22812,7 @@ nouveau corps ou à conserver le régime du corps auquel ils appartiennent. "
 
 	**Modifié par**:
 
-	  - Loi n°2011-940 du 10 août 2011 - art. 47 (V)
+	  - Loi n°2012-300 du 5 mars 2012 - art. 1 (V)
 
 	**Cité par**:
 
