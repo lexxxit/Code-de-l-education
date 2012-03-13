@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-03-07
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -25977,27 +25977,25 @@ code de commerce sont soumises au régime des établissements visés à l'articl
 L'Ecole polytechnique constitue un établissement public doté de la personnalité civile et de l'autonomie financière, placé
 sous la tutelle du ministre chargé de la défense.
 
-L'administration de l'école est assurée par un conseil d'administration et un directeur général.
+L'administration  de l'école est assurée par un conseil d'administration et le président  de ce conseil. Un officier général
+assure, sous l'autorité du président  du conseil d'administration, la direction générale et le commandement  militaire de
+l'école.
 
-Un décret en Conseil d'Etat précise la répartition des pouvoirs et des responsabilités entre le conseil d'administration et
-le directeur général.
-
-Le directeur général est un officier général qui assure en outre le commandement militaire de l'école.
-
-Un décret en Conseil d'Etat fixe les règles relatives à l'organisation et au régime administratif et financier de l'école qui
-est soumise, sauf dérogation prévue par ledit décret, aux dispositions réglementaires concernant l'administration et le
-contrôle financier des établissements publics à caractère administratif dotés de l'autonomie financière.
+Un décret en Conseil d'Etat précise la  répartition des pouvoirs et des responsabilités entre le conseil  d'administration et
+son président. Il fixe également les règles  relatives à l'organisation et au régime administratif et financier de  l'école,
+qui est soumise, sauf dérogation prévue par le même décret, aux  dispositions réglementaires concernant l'administration et
+le contrôle  financier des établissements publics à caractère administratif dotés de  l'autonomie financière.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°70-631 du 15 juillet 1970 - art. 2 (Ab)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 74
 
 	**Cité par**:
 
@@ -26267,6 +26265,27 @@ dans des conditions fixées par décret.
 	**Cite**:
 
 	  - Code de l'éducation - art. L216-3 (V)
+
+
+###### Article L75-10-2
+
+Les deuxième et avant-dernier alinéas de l'article L. 952-1 peuvent être rendus applicables par décret en Conseil d'Etat, en
+totalité ou en partie, avec, le cas échéant, les adaptations nécessaires, aux établissements d'enseignement supérieur d'arts
+plastiques délivrant des diplômes d'école ou des diplômes nationaux relevant du ministre chargé de la culture.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-347 du 12 mars 2012 - art. 11
+
+	**Abrogé par**:
+
+	  - Loi n°2016-925 du 7 juillet 2016 - art. 53
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L952-1
 
 
 #### Titre VI : Dispositions communes
