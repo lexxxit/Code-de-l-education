@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-03-24
+Version Consolidée au 2012-03-29
 
 # Partie législative
 
@@ -3314,6 +3314,27 @@ par décret ;
 	  - Code de l'éducation - art. L213-2-1 (V)
 	  - Code de l'éducation - art. L214-6-1 (V)
 	  - Code de l'éducation - art. L216-1 (V)
+
+
+###### Article L211-9
+
+Lorsque, dans les cas prévus aux articles 138-2 et 712-22-1 du code de procédure pénale, une information relative au
+placement sous contrôle judiciaire ou à la condamnation d'un élève est portée à la connaissance de l'autorité académique,
+l'élève placé sous contrôle judiciaire ou condamné est, compte tenu des obligations judiciaires auxquelles il est soumis,
+affecté dans l'établissement public que cette autorité désigne, sauf s'il est accueilli dans un établissement privé, instruit
+en famille ou par le recours au service public de l'enseignement à distance prévu à l'article L. 131-2 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-409 du 27 mars 2012 - art. 6
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 138-2
+	  - Code de procédure pénale - art. 712-22-1
+	  - Code de l'éducation - art. L131-2
 
 
 ##### Chapitre II : Les compétences des communes
@@ -19741,6 +19762,71 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 	  - Loi n°2010-1594 du 20 décembre 2010 - art. 55
 
 
+###### Article L632-7
+
+Chaque année, un arrêté conjoint du ministre de la justice et des ministres chargés de la santé et du budget détermine le
+nombre d'internes qui, ayant choisi pour spécialité la psychiatrie, peuvent signer avec le Centre national de gestion
+mentionné à l'article 116 de la loi n° 86-33 du 9 janvier 1986 précitée un contrat d'engagement relatif à la prise en charge
+psychiatrique des personnes placées sous main de justice. 
+
+Ce contrat ouvre droit, en sus des rémunérations auxquelles les internes peuvent prétendre du fait de leur formation, à une
+allocation mensuelle versée par le Centre national de gestion jusqu'à la fin de leurs études médicales. 
+
+En contrepartie de cette allocation, les internes s'engagent à suivre, pendant ou à l'issue de leurs études médicales, une
+formation en sciences criminelles, en psychiatrie légale ou criminelle, en psychologie légale ou criminelle, relative à
+l'expertise judiciaire ou à la prévention de la récidive. Ils s'engagent également à exercer en qualité de psychiatre à titre
+salarié ou à titre libéral et salarié, à compter de la fin de leur formation, dans un ressort choisi en application du
+quatrième alinéa du présent article, ainsi qu'à demander leur inscription sur la liste d'experts près la cour d'appel et sur
+la liste de médecins coordonnateurs prévue à l'article L. 3711-1 du code de la santé publique permettant leur désignation
+dans ce ressort. La durée de leur engagement est égale au double de celle pendant laquelle l'allocation leur a été versée,
+sans pouvoir être inférieure à deux ans. 
+
+Au cours de la dernière année de leurs études, les internes ayant signé un contrat d'engagement relatif à la prise en charge
+psychiatrique des personnes placées sous main de justice choisissent le ressort dans lequel ils s'engagent à exercer sur une
+liste de ressorts caractérisés par un nombre insuffisant de psychiatres experts judiciaires ou de médecins coordonnateurs.
+Cette liste est établie par arrêté conjoint du ministre de la justice et du ministre chargé de la santé. 
+
+Les médecins ou les internes ayant signé un contrat d'engagement relatif à la prise en charge psychiatrique des personnes
+placées sous main de justice peuvent se dégager de leurs obligations prévues au troisième alinéa moyennant le paiement d'une
+indemnité dont le montant ne peut excéder les sommes perçues au titre de ce contrat. Les modalités de calcul et de paiement
+de cette indemnité sont fixées par un arrêté conjoint du ministre de la justice et des ministres chargés de la santé et du
+budget. Le recouvrement en est assuré par le Centre national de gestion. 
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat. Celui-ci précise notamment les
+modalités selon lesquelles les médecins peuvent, pendant la durée de leur engagement, être autorisés à changer de ressort
+d'exercice et à être inscrits sur les listes d'experts près la cour d'appel ou de médecins coordonnateurs établies pour les
+ressorts d'autres juridictions, ainsi que les conditions dans lesquelles l'absence de validation de la formation faisant
+l'objet du contrat et le refus d'accepter des désignations en qualité d'expert près la cour d'appel ou de médecin
+coordonnateur peuvent être considérés comme une rupture de l'engagement mentionné au troisième alinéa. La liste des
+formations mentionnées au même troisième alinéa pour lesquelles le contrat d'engagement peut être signé est déterminée par un
+arrêté conjoint du ministre de la justice et des ministres chargés de l'enseignement supérieur et de la santé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°68-978 du 12 novembre 1968 - art. 53 (Ab)
+
+	**Cite**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 116 (V)
+	  - Code de la santé publique - art. L3711-1 (V)
+
+	**Cité par**:
+
+	  - Décret n°89-739 du 12 octobre 1989 - art. 1 (Ab)
+	  - Décret n°90-97 du 25 janvier 1990 - art. 3 (Ab)
+	  - Code de l'éducation - art. L681-1 (V)
+	  - Code de l'éducation - art. L683-1 (V)
+	  - Code de l'éducation - art. L684-1 (V)
+	  - Code de l'éducation - art. L713-4 (M)
+	  - Code de la sécurité sociale. - art. L136-5 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2012-409 du 27 mars 2012 - art. 9
+
+
 ###### Article L632-12
 
 Des décrets en Conseil d'Etat déterminent :
@@ -20777,8 +20863,8 @@ conformément aux dispositions des articles L. 451-1 et L. 451-2 du code de l'ac
 
 Sont applicables dans les îles Wallis et Futuna les articles L. 611-1, L. 611-2, L. 611-3, L. 611-4, L. 611-5, L. 612-1 à L.
 612-7, L. 613-1 à L. 613-7, L. 614-1, le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L.
-625-1, L. 631-1, L. 632-1 à    L. 632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L.
-671-2.
+625-1, L. 631-1, L. 632-1 à L. 632-5, L. 632-7, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et
+L. 671-2. 
 
 L'obligation de préinscription prévue à l'article L. 612-3 n'est pas opposable aux candidats qui ont suivi l'enseignement du
 second degré dans les îles Wallis et Futuna et qui souhaitent s'inscrire dans un établissement public d'enseignement
@@ -20792,26 +20878,27 @@ supérieur.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
+	  - Loi n°2012-409 du 27 mars 2012 - art. 9
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L611-1
-	  - Code de l'éducation - art. L612-1
-	  - Code de l'éducation - art. L612-3
-	  - Code de l'éducation - art. L613-1
-	  - Code de l'éducation - art. L614-1
-	  - Code de l'éducation - art. L614-3
-	  - Code de l'éducation - art. L622-1
-	  - Code de l'éducation - art. L623-1
-	  - Code de l'éducation - art. L624-1
-	  - Code de l'éducation - art. L625-1
-	  - Code de l'éducation - art. L631-1
-	  - Code de l'éducation - art. L632-1
-	  - Code de l'éducation - art. L633-2
-	  - Code de l'éducation - art. L641-1
-	  - Code de l'éducation - art. L642-1
-	  - Code de l'éducation - art. L671-2
+	  - Code de l'éducation - art. L611-1 (V)
+	  - Code de l'éducation - art. L612-1 (V)
+	  - Code de l'éducation - art. L613-1 (V)
+	  - Code de l'éducation - art. L614-1 (V)
+	  - Code de l'éducation - art. L614-3 (V)
+	  - Code de l'éducation - art. L622-1 (V)
+	  - Code de l'éducation - art. L623-1 (V)
+	  - Code de l'éducation - art. L624-1 (V)
+	  - Code de l'éducation - art. L625-1 (V)
+	  - Code de l'éducation - art. L631-1 (V)
+	  - Code de l'éducation - art. L632-1 (V)
+	  - Code de l'éducation - art. L632-12 (V)
+	  - Code de l'éducation - art. L632-7 (V)
+	  - Code de l'éducation - art. L633-2 (V)
+	  - Code de l'éducation - art. L641-1 (V)
+	  - Code de l'éducation - art. L642-1 (V)
+	  - Code de l'éducation - art. L671-2 (V)
 
 
 ##### Chapitre II : Dispositions applicables à Mayotte.
@@ -20848,8 +20935,8 @@ Les articles L. 613-3 à L. 613-6 sont applicables à Mayotte.
 ###### Article L683-1
 
 Sont applicables en Polynésie française les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à    L.
-632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à     L.
+632-5, L. 632-7, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
 
@@ -20859,7 +20946,7 @@ le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 62
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
+	  - Loi n°2012-409 du 27 mars 2012 - art. 9
 
 	**Cite**:
 
@@ -20948,8 +21035,8 @@ chargés de la santé, de l'enseignement supérieur et de l'outre-mer.
 ###### Article L684-1
 
 Sont applicables en Nouvelle-Calédonie les articles L. 611-1 à L. 611-5, L. 612-1 à L. 612-7, L. 613-1 à L. 613-7, L. 614-1,
-le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à    L.
-632-5, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, 
+le premier alinéa de l'article L. 614-3, les articles L. 622-1, L. 623-1, L. 624-1, L. 625-1, L. 631-1, L. 632-1 à     L.
+632-5, L. 632-7, L. 632-12, L. 633-2 à L. 633-4, L. 641-1 à L. 641-5, 
 L. 642-1 à L. 642-12 et L. 671-2.
 
 **Liens relatifs à cet article**
@@ -20960,7 +21047,7 @@ L. 642-1 à L. 642-12 et L. 671-2.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-331 du 25 mars 2010 - art. 39
+	  - Loi n°2012-409 du 27 mars 2012 - art. 9
 
 	**Cite**:
 
