@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-06-01
 
 # Partie législative
 
@@ -59891,6 +59891,317 @@ sur l'existence et l'organisation de la session de remplacement.
 	  - Code de l'éducation - art. D421-143-1 (V)
 
 
+##### Section 4 : Procédure disciplinaire applicable aux candidats au baccalauréat général
+
+###### Article D334-25
+
+Dans chaque académie, une commission de discipline du baccalauréat est compétente pour prononcer des sanctions disciplinaires
+à l'égard des candidats auteurs ou complices d'une fraude ou d'une tentative de fraude commise à l'occasion du baccalauréat.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D336-22-1 (VD)
+	  - Code de l'éducation - art. D337-94-1 (V)
+
+
+###### Article D334-26
+
+La commission de discipline du baccalauréat est présidée par un professeur des universités qui a été nommé en qualité de
+président du jury du baccalauréat, désigné par le recteur, chancelier des universités. Le président ne peut siéger au sein de
+la commission lorsque l'élève qui fait l'objet d'une procédure disciplinaire a été évalué par le jury qu'il a présidé.
+
+Cette commission comprend, outre son président, les personnes suivantes nommées par le recteur :
+
+1° Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux, dont un est désigné comme vice-président ;
+
+2° Un chef de centre des épreuves du baccalauréat ;
+
+3° Un enseignant membre de jury du baccalauréat ;
+
+4° Un étudiant désigné, sur proposition du président de l'établissement, parmi les représentants des étudiants au conseil
+d'administration d'un établissement public à caractère scientifique, culturel et professionnel, désigné par le recteur et
+dont le siège est situé dans le ressort de l'académie où la fraude ou la tentative de fraude a été commise ;
+
+5° Un élève inscrit en terminale au titre de l'année au cours de laquelle est organisée la session. Cet élève est désigné sur
+proposition du conseil académique de la vie lycéenne, parmi les élus de ce conseil. L'élève qui fait l'objet d'une procédure
+disciplinaire à raison d'un soupçon de fraude au baccalauréat ne peut siéger au sein de la commission.
+
+Pour chaque membre de la commission, un suppléant est désigné dans les mêmes conditions.
+
+En l'absence de son président et du suppléant de ce dernier, la commission est présidée par son vice-président.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret. 
+
+Pour la session 2012, l'élève de terminale mentionné au 5° de l'article D. 334-26, dans sa rédaction résultant du présent
+décret, est désigné directement par le recteur parmi les élèves de terminale élus au conseil académique de la vie lycéenne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article D334-27
+
+En cas de fraude ou de tentative de fraude flagrante commise à l'occasion du baccalauréat, le surveillant responsable de la
+salle prend toutes mesures pour faire cesser la fraude ou la tentative de fraude, sans interrompre la participation à
+l'épreuve du ou des candidats. Il saisit les pièces ou matériels permettant d'établir la réalité des faits.
+
+En cas de substitution de personne ou de troubles affectant le déroulement des épreuves, l'expulsion de la salle des examens
+peut être prononcée par le chef de centre des épreuves du baccalauréat.
+
+Dans tous les cas, le surveillant responsable de la salle dresse un procès-verbal contresigné par le ou les autres
+surveillants et par le ou les auteurs des faits. En cas de refus de contresigner, mention est portée au procès-verbal.
+
+Le recteur est saisi sans délai des procès-verbaux correspondants.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article D334-28
+
+Les poursuites devant la commission de discipline du baccalauréat sont engagées par le recteur.
+
+Dix jours au moins avant la date de réunion de la commission de discipline du baccalauréat, le recteur convoque le candidat
+poursuivi et, le cas échéant, son représentant légal par lettre recommandée avec demande d'avis de réception.
+
+La convocation comporte l'énoncé des faits reprochés et précise à l'intéressé sous quel délai et dans quel lieu il peut
+prendre connaissance de son dossier.
+
+Elle mentionne le droit pour l'intéressé de présenter des observations écrites et orales et de se faire assister d'un conseil
+de son choix ou, le cas échéant, de se faire représenter par ce dernier.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D222-23-1 (VD)
+	  - Code de l'éducation - art. D334-34 (VD)
+
+
+###### Article D334-29
+
+Au regard des observations éventuellement produites et des éléments recueillis, le recteur peut décider de ne pas donner
+suite aux poursuites. Il en informe l'intéressé et, le cas échéant, son représentant légal.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article D334-30
+
+Dans le cas contraire, le recteur saisit la commission de discipline du baccalauréat par écrit. Ce document mentionne le nom
+et l'adresse du candidat poursuivi ainsi que les faits qui lui sont reprochés. Il est accompagné de toutes pièces
+justificatives.
+
+La séance de la commission de discipline du baccalauréat n'est pas publique. Elle se tient valablement même en l'absence du
+candidat poursuivi.
+
+Lorsque la commission de discipline du baccalauréat examine l'affaire au fond, son président expose les faits et donne
+lecture, le cas échéant, des observations écrites produites par l'intéressé. Celui-ci est entendu dans ses explications. Il
+peut à tout moment, ainsi que son représentant légal s'il est mineur et éventuellement son conseil, demander l'autorisation
+au président de présenter des observations orales.
+
+La commission peut entendre des témoins. Cette audition a lieu contradictoirement en présence du candidat poursuivi, sauf
+s'il est absent, le cas échéant, de son représentant légal et éventuellement de son conseil.
+
+Le recteur, ou toute personne désignée par lui à cet effet, peut assister à la séance de la commission de discipline du
+baccalauréat et présenter des observations.
+
+Le candidat est invité à présenter ses ultimes observations avant que la commission ne commence à délibérer.
+
+Si elle se juge insuffisamment éclairée, la commission de discipline du baccalauréat peut décider de reporter l'affaire à une
+séance ultérieure. Il en est de même si le candidat, pour des motifs impérieux, n'est ni présent ni représenté et n'a pas
+fait parvenir d'observation.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article D334-31
+
+Seules les personnes composant la commission de discipline du baccalauréat ont accès à la salle des délibérations. Nul ne
+peut délibérer s'il n'a assisté à la totalité de la séance.
+
+La commission ne peut valablement délibérer que si quatre membres au moins sont présents. Le vote a lieu à bulletin secret.
+
+La décision prise à la majorité des membres présents est motivée. Elle est signée par le président.
+
+Elle est notifiée à l'intéressé et, le cas échéant, à son représentant légal, par lettre recommandée avec demande d'avis de
+réception. Elle mentionne les voies et les délais de recours.
+
+La commission de discipline du baccalauréat statue dans un délai de deux mois suivant la proclamation des résultats de la
+session à laquelle se rattachent les faits ayant donné lieu aux poursuites.
+
+La décision de la commission de discipline du baccalauréat, accompagnée des pièces au vu desquelles elle s'est prononcée, est
+transmise aux ministres chargés de l'éducation nationale et de l'enseignement supérieur.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article D334-32
+
+Les sanctions disciplinaires qui peuvent être prononcées par la commission de discipline du baccalauréat sont :
+
+1° Le blâme avec inscription au livret scolaire, s'il existe ;
+
+2° La privation de toute mention portée sur le diplôme délivré au candidat admis ;
+
+3° L'interdiction de subir tout examen conduisant à l'obtention du baccalauréat pour une durée maximum de cinq ans ou d'un
+titre ou diplôme délivré par un établissement public dispensant des formations post-baccalauréat pour une durée maximum de
+cinq ans. Cette sanction peut être prononcée avec sursis si l'interdiction n'excède pas deux ans ;
+
+4° L'interdiction de prendre toute inscription dans un établissement public dispensant des formations post-baccalauréat pour
+une durée maximum de cinq ans.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 13 octobre 2014 - art. 2 (Ab)
+	  - Arrêté du 8 février 2016 - art. 3 (V)
+	  - Arrêté du 8 février 2016 - art. 4 (V)
+	  - Code de l'éducation - art. D334-34 (VD)
+
+
+###### Article D334-33
+
+Toute sanction prononcée entraîne, pour l'intéressé, la nullité de l'épreuve au cours de laquelle la fraude ou la tentative
+de fraude a été commise. L'intéressé est réputé avoir été présent sans l'avoir subie. La commission de discipline du
+baccalauréat peut en outre décider de prononcer à l'égard de l'intéressé la nullité du groupe d'épreuves ou de la session
+d'examen.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D334-34 (VD)
+
+
+###### Article D334-34
+
+Lorsqu'un candidat fait l'objet de poursuites disciplinaires, il ne peut lui être délivré un relevé de notes ou un certificat
+de réussite avant que la commission de discipline du baccalauréat ait statué.
+
+En cas de nullité de l'épreuve ou du groupe d'épreuves prononcée par la commission de discipline du baccalauréat, le recteur
+saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
+###### Article R334-35
+
+Toute sanction prononcée en application des dispositions de la présente section peut faire l'objet d'un recours de plein
+contentieux devant le tribunal administratif territorialement compétent.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+
+
 #### Chapitre V : Dispositions communes aux formations technologiques et aux formations professionnelles.
 
 ##### Section 1 : Le label de " lycée des métiers ".
@@ -62276,6 +62587,34 @@ droits.
 	**Modifié par**:
 
 	  - Décret n°2010-429 du 29 avril 2010 - art. 6 (V)
+
+
+##### Sous-section 3 :  Procédure disciplinaire applicable aux candidats au baccalauréat technologique
+
+###### Article D336-22-1
+
+Les articles D. 334-25 à R. 334-35 sont applicables aux candidats au baccalauréat technologique
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 3
+	  - Code de l'éducation - art. D222-23-1 (VD)
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-25
 
 
 ##### Section 2 : Dispositions particulières au baccalauréat technologique série " hôtellerie "
@@ -66675,6 +67014,33 @@ effet dans chaque direction interrégionale de la mer à compter de la date de n
 	  - Code de l'éducation - art. D337-86 (V)
 	  - Code de l'éducation - art. D337-89 (V)
 	  - Code de l'éducation - art. D337-92 (V)
+
+
+##### Sous-section 5 : Procédure disciplinaire applicable  aux candidats au baccalauréat professionnel
+
+###### Article D337-94-1
+
+Les articles D. 334-25 à R. 334-35 sont applicables aux candidats au baccalauréat professionnel.
+
+**Nota:**
+
+Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
+susvisé dans sa rédaction antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-640 du 3 mai 2012 - art. 4
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D222-23-1 (VD)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-25 (V)
 
 
 ##### Section 4 : Le brevet professionnel
