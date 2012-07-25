@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-06-01
+Version Consolidée au 2012-07-26
 
 # Partie législative
 
@@ -72503,7 +72503,111 @@ besoins recensés.
 	  - Code de l'action sociale et des familles - art. R241-34 (VT)
 
 
+##### Sous-section 3 : L'aide humaine aux élèves handicapés
+
+##### Paragraphe 1 : Champ d'application
+
+###### Article D351-16-1
+
+L'aide individuelle et l'aide mutualisée mentionnées à l'article L. 351-3 constituent deux modalités de l'aide humaine
+susceptible d'être accordée aux élèves handicapés. Un même élève ne peut se voir attribuer simultanément une aide mutualisée
+et une aide individuelle. Ces aides sont attribuées par la commission mentionnée à l'article L. 146-9 du code de l'action
+sociale et des familles et intégrées dans le plan personnalisé de compensation du handicap mentionné à l'article L. 146-8 du
+même code. La commission se prononce sur la base d'une évaluation de la situation scolaire de l'élève handicapé, en prenant
+en compte notamment son environnement scolaire, la durée du temps de scolarisation, la nature des activités à accomplir par
+l'accompagnant, la nécessité que l'accompagnement soit effectué par une même personne identifiée, les besoins de modulation
+et d'adaptation de l'aide et sa durée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-903 du 23 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-3
+	  - Code de l'action sociale et des familles - art. L146-8
+	  - Code de l'action sociale et des familles - art. L146-9
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R372-7 (VT)
+
+
+##### Paragraphe 2 : L'aide mutualisée 
+
+
+
+###### Article D351-16-2
+
+L'aide mutualisée est destinée à répondre aux besoins d'accompagnement d'élèves qui ne requièrent pas une attention soutenue
+et continue. 
+
+Lorsqu'elle accorde une aide mutualisée, la commission mentionnée à l'article L. 146-9 du code de l'action sociale et des
+familles définit les activités principales de l'accompagnant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-903 du 23 juillet 2012 - art. 2
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R372-7 (VT)
+
+	**Cite**:
+
+	  - Code de l'action sociale et des familles - art. L146-9
+
+
+###### Article D351-16-3
+
+L'aide mutualisée accordée à un élève lui est apportée par un assistant d'éducation recruté dans les conditions fixées au
+premier alinéa de l'article L. 916-1. Cet assistant d'éducation peut être chargé d'apporter une aide mutualisée à plusieurs
+élèves handicapés simultanément. 
+
+L'employeur de la personne chargée d'apporter une aide mutualisée organise son service pour répondre aux besoins des
+différents élèves qui bénéficient de l'aide, après concertation, le cas échéant, avec les directeurs des écoles et les chefs
+des établissements où cette personne exerce son activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-903 du 23 juillet 2012 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L916-1
+
+
+##### Paragraphe 3 : L'aide individuelle 
+
+
+
+
+
+
+###### Article D351-16-4
+
+L'aide individuelle a pour objet de répondre aux besoins d'élèves qui requièrent une attention soutenue et continue, sans que
+la personne qui apporte l'aide puisse concomitamment apporter son aide à un autre élève handicapé. Elle est accordée lorsque
+l'aide mutualisée ne permet pas de répondre aux besoins d'accompagnement de l'élève handicapé. Lorsqu'elle accorde une aide
+individuelle, dont elle détermine la quotité horaire, la commission susmentionnée définit les activités principales de
+l'accompagnant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-903 du 23 juillet 2012 - art. 2
+
+
 ##### Sous-section 3 : Les unités d'enseignement.
+
+##### Sous-section 4 : Les unités d'enseignement
 
 ###### Article D351-17
 
@@ -72640,6 +72744,8 @@ chargé de l'agriculture et du ministre chargé des personnes handicapées.
 
 
 ##### Sous-section 4 : L'aide individuelle.
+
+##### Sous-section 5 : La continuité de l'accompagnement
 
 ###### Article D351-20-1
 
