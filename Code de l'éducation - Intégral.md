@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-07-26
+Version Consolidée au 2012-09-01
 
 # Partie législative
 
@@ -31273,51 +31273,6 @@ Pour l'application de l'article L. 911-4 à Mayotte, les mots :
 	**Cite**:
 
 	  - Code de l'éducation - art. L911-4
-
-
-###### Article L972-3
-
-Il est créé à Mayotte un institut de formation des maîtres, établissement public local à caractère administratif chargé de la
-formation initiale et continue des instituteurs de la collectivité départementale de Mayotte.
-
-Cet établissement public est administré par un conseil d'administration présidé par le président du conseil général.
-
-Outre son président, le conseil d'administration de l'établissement comprend :
-
-- des membres de droit ;
-
-- des membres élus représentant les personnels ;
-
-- des membres élus représentant les instituteurs en formation ;
-
-- des personnes qualifiées désignées par le représentant de l'Etat à Mayotte en raison de leur compétence en matière
-d'éducation, de formation et de recherche.
-
-L'institut de formation des maîtres est dirigé par un directeur nommé par l'exécutif de la collectivité départementale sur
-avis conforme du vice-recteur de Mayotte.
-
-Le représentant de l'Etat à Mayotte assure le contrôle administratif et budgétaire de l'institut de formation des maîtres.
-
-Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°96-782 du 5 septembre 1996 - art. 5 bis (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 du 14 avril 2003
-
-	**Créé par**:
-
-	  - Ordonnance n°2002-198 du 14 février 2002 - art. 2 () JORF 16 février 2002
-
-	**Abrogé par**:
-
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 19
 
 
 ##### Chapitre III : Dispositions applicables en Polynésie française.
@@ -67947,47 +67902,75 @@ Le brevet professionnel est délivré par le recteur sur proposition du jury.
 
 ##### Section 5 : Le diplôme national du brevet des métiers d'art.
 
+##### Sous-section 1 : Définition du diplôme
+
 ###### Article D337-125
 
-Le brevet des métiers d'art est un diplôme national.
+Le brevet des métiers d'art est un diplôme national délivré dans les conditions fixées par les articles D. 337-126 à D.
+337-138. 
 
-La formation y conduisant vise à promouvoir l'innovation, à conserver et transmettre les techniques traditionnelles dans le
-champ professionnel dans lequel s'inscrit ce diplôme.
+Il atteste que son titulaire est apte à promouvoir l'innovation, à conserver et transmettre les techniques traditionnelles
+dans le secteur professionnel concerné. 
+
+Il est enregistré dans le répertoire national des certifications professionnelles et classé au niveau IV de la nomenclature
+interministérielle des niveaux de formation. 
+
+Le diplôme du brevet des métiers d'art est délivré au titre d'une spécialité professionnelle. 
 
 Les compétences professionnelles, technologiques, artistiques et générales requises pour l'obtention de ce brevet sont
 définies par des référentiels.
-
-Le brevet des métiers d'art est classé au niveau IV dans le répertoire national des certifications professionnelles.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 1, art. 2
 	  - Décret n°92-692 du 20 juillet 1992 - art. 1 (Ab)
 	  - Décret n°92-692 du 20 juillet 1992 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-126
 
 
 ###### Article D337-126
 
-Un arrêté du ministre chargé de l'éducation établit les caractéristiques de chaque brevet des métiers d'art. Celles-ci
-décrivent les objectifs professionnels poursuivis, fixent le répertoire des capacités, savoirs et savoir-faire de chacune
-d'elles et les exigences requises pour chacune.
+Les spécialités de brevet des métiers d'art sont créées par un arrêté du ministre chargé de l'éducation, après avis des
+commissions professionnelles consultatives compétentes.
+
+Pour chaque spécialité de brevet des métiers d'art, l'arrêté portant création établit le référentiel des activités
+professionnelles, le référentiel de certification ainsi que le règlement particulier qui fixe les conditions de délivrance de
+ce diplôme.
+
+Le référentiel des activités professionnelles décrit les activités et les tâches susceptibles d'être exercées par le
+titulaire du diplôme.
+
+Le référentiel de certification énumère les compétences et les connaissances ainsi que les niveaux d'exigence requis pour
+l'obtention du diplôme. Il les regroupe en unités qui peuvent être communes à plusieurs spécialités de brevets des métiers
+d'art.
+
+Le règlement d'examen du diplôme fixe la liste des épreuves, ainsi que leur coefficient et leurs modalités d'évaluation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 3
 	  - Décret n°92-692 du 20 juillet 1992 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
@@ -67997,26 +67980,45 @@ d'elles et les exigences requises pour chacune.
 	  - Code de l'éducation - art. D337-130 (V)
 
 
+##### Sous-section 2 : Modalités de préparation
+
 ###### Article D337-127
 
-Le brevet des métiers d'art peut être préparé :
+Le brevet des métiers d'art est préparé : 
 
-1° Par la voie scolaire ;
+1° Soit par la voie scolaire dans les lycées ou dans les établissements d'enseignement technique privés mentionnés au
+chapitre III du titre IV du livre IV du code de l'éducation ; 
 
-2° Par la voie de l'apprentissage définie au livre Ier du code du travail ;
+2° Soit par la voie de l'apprentissage définie au livre II de la sixième partie du code du travail ; 
 
-3° Par la voie de la formation professionnelle continue définie au livre IX du code du travail.
+3° Soit par la voie de la formation professionnelle continue définie au livre III de la sixième partie du code du travail. 
+
+Le brevet des métiers d'art peut également être préparé dans des établissements d'enseignement à distance. 
+
+Sont admis en formation au brevet des métiers d'art au titre des 1° et 2° du présent article les candidats titulaires d'un
+diplôme ou titre du même secteur professionnel enregistré dans le répertoire national des certifications professionnelles et
+classé au niveau V de la nomenclature interministérielle des niveaux de formation. 
+
+L'arrêté mentionné à l'article D. 337-126 précise, pour chaque spécialité de brevet des métiers d'art, les autres titres ou
+diplômes qui permettent d'accéder à la formation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 4
 	  - Décret n°92-692 du 20 juillet 1992 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-126
 
 	**Cité par**:
 
@@ -68027,48 +68029,96 @@ Le brevet des métiers d'art peut être préparé :
 
 ###### Article D337-128
 
-Le candidat à l'admission dans le cycle d'études par la voie scolaire dépose un dossier auprès de l'établissement dans lequel
-il souhaite s'inscrire. Ce dossier comporte les résultats scolaires des deux dernières années et, si l'établissement le juge
-nécessaire, des travaux personnels.
+Sur décision du recteur prise après avis de l'équipe pédagogique de la classe de l'établissement d'accueil, peuvent également
+être admis en formation, sous statut scolaire, les candidats qui ne relèvent pas du sixième alinéa de l'article D. 337-127. 
+
+Pour ces candidats, l'admission en formation relève d'une décision de positionnement prononcée par le recteur. Cette décision
+peut avoir pour effet de réduire ou d'allonger la durée du cycle fixée à l'article D. 337-129. 
+
+La décision de positionnement prend en compte les études suivies en France ou à l'étranger, les titres ou diplômes français
+ou étrangers possédés, les compétences professionnelles que les candidats peuvent faire valoir ainsi que les dispenses
+d'unités dont ils bénéficient.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°92-692 du 20 juillet 1992 - art. 5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-127
+	  - Code de l'éducation - art. D337-129
+
+
+###### Article D337-128-1
+
+Les candidats à l'admission dans le cycle d'études par la voie scolaire déposent un dossier auprès de l'établissement dans
+lequel ils souhaitent s'inscrire. Ce dossier comporte les résultats scolaires des deux dernières années et, si
+l'établissement le juge nécessaire, des travaux personnels. 
 
 Le dossier est soumis à l'appréciation d'une commission présidée par le chef de l'établissement ou son représentant et
-composée de professeurs enseignant dans ce cycle d'études et d'un conseiller de l'enseignement technologique.
+composée de professeurs enseignant dans ce cycle d'études et d'un conseiller de l'enseignement technologique. 
 
 La décision d'admission est prononcée par le chef d'établissement sur proposition de la commission.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°92-692 1992-07-20 art. 5
-	  - Décret n°92-692 du 20 juillet 1992 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 
 ###### Article D337-129
 
-Le cycle d'études conduisant au brevet des métiers d'art est ouvert aux candidats titulaires d'un diplôme de niveau V dans le
-répertoire national des certifications professionnelles des métiers d'art de la spécialité concernée.
+La durée du cycle d'études est de deux ans pour les candidats relevant du 1° de l'article D. 337-127. 
 
-Les arrêtés mentionnés à l'article D. 337-126 précisent pour chaque brevet des métiers d'art les autres titres qui permettent
-d'accéder à la formation.
+Le volume horaire de la formation dispensée dans les établissements publics ou privés sous contrat est fixé par l'arrêté
+prévu à l'article D. 337-126 et ne peut être inférieur à 1 680 heures. 
+
+La durée de formation nécessaire à la préparation du brevet des métiers d'art par la voie de l'apprentissage, dispensée en
+centre de formation d'apprentis ou section d'apprentissage pour les candidats relevant du 2° de l'article D. 337-127, est au
+moins égale à 1 350 heures. 
+
+La durée de formation nécessaire à la préparation du brevet des métiers d'art par la voie de la formation professionnelle
+continue en établissement pour les candidats relevant du 3° de l'article D. 337-127 est égale à : 
+
+a) 630 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau IV de
+la nomenclature interministérielle des niveaux de formation, soit de trois ans d'exercice professionnel ; 
+
+b) 1 100 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau V de
+la nomenclature interministérielle des niveaux de formation, soit de deux ans d'exercice professionnel ; 
+
+c) 1 350 heures dans les autres cas. 
+
+Cependant, cette durée de formation peut être réduite par une décision de positionnement prononcée par le recteur, pour les
+candidats justifiant, en plus des conditions de formation précisées ci-dessus, d'études ou d'activités professionnelles ou
+bien de dispenses d'épreuves constitutives du diplôme. 
+
+Aucune durée minimum de formation ne s'impose en cas de positionnement pour les candidats relevant du a du présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-692 1992-07-20 art. 6
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D337-126 (V)
+	  - Code de l'éducation - art. D337-126
+	  - Code de l'éducation - art. D337-127
 
 	**Cité par**:
 
@@ -68078,55 +68128,65 @@ d'accéder à la formation.
 
 ###### Article D337-130
 
-La formation conduisant au brevet des métiers d'art est organisée en domaines au sein desquels s'articulent les différents
-enseignements correspondant aux objectifs définis par le référentiel du diplôme.
+La formation conduisant au brevet des métiers d'art comporte des périodes de formation en milieu professionnel comprises
+entre douze et seize semaines, dont la durée est fixée par l'arrêté prévu à l'article D. 337-126. Ces périodes sont
+organisées sous la responsabilité des établissements de formation. 
 
-Elle comprend une période en milieu professionnel d'une durée minimum de douze semaines sous la responsabilité pédagogique du
-ministère de l'éducation nationale.
+Pour les candidats ayant bénéficié de la décision de positionnement, la durée des périodes de formation en milieu
+professionnel peut être réduite dans les conditions fixées par le règlement particulier de chaque spécialité. 
+
+Pour les candidats préparant l'examen par la voie scolaire, cette durée ne peut être inférieure à la moitié de la durée
+précisée par l'arrêté de spécialité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 7
 	  - Décret n°92-692 du 20 juillet 1992 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-126
 
 
 ###### Article D337-131
 
-Peuvent postuler le diplôme du brevet des métiers d'art les candidats justifiant :
+Pour se présenter à l'examen du brevet des métiers d'art, les candidats doivent : 
 
-1° Soit avoir effectué, dans un lycée ou une des écoles privées d'enseignement technique mentionnées au chapitre III du titre
-IV du livre IV, le cycle d'études de deux ans conduisant au diplôme postulé soit 1 680 heures au moins ;
+1° Soit justifier de la formation prévue aux articles D. 337-129 et D. 337-130 ; 
 
-2° Soit avoir suivi dans le cadre de l'apprentissage une préparation dans un centre de formation d'apprentis d'une durée au
-moins égale à 1 350 heures ;
+2° Soit avoir accompli trois années d'activités professionnelles dans un domaine professionnel en rapport avec la spécialité
+de brevet des métiers d'art postulée et posséder un diplôme ou titre du même secteur professionnel enregistré dans le
+répertoire national des certifications professionnelles, classé au niveau V de la nomenclature interministérielle des niveaux
+de formation. 
 
-3° Soit avoir suivi dans le cadre de la formation professionnelle continue une préparation au diplôme d'une durée au moins
-égale (compte non tenu de la période de formation en milieu professionnel) à :
-
-a) 630 heures en complément d'un exercice professionnel de la spécialité d'une durée de trois ans ;
-
-b) 1 500 heures dans les autres cas, en complément d'un exercice professionnel de la spécialité d'une durée minimale de deux
-ans ;
-
-4° Soit avoir accompli cinq années d'activités professionnelles et posséder le certificat d'aptitude professionnelle de la
-spécialité concernée dans le domaine d'activités correspondant au brevet des métiers d'art postulé.
+Ils doivent être inscrits en vue de l'obtention du diplôme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 8
 	  - Décret n°92-692 du 20 juillet 1992 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-129
 
 	**Cité par**:
 
@@ -68134,45 +68194,93 @@ spécialité concernée dans le domaine d'activités correspondant au brevet des
 	  - Code de l'éducation - art. D337-133 (V)
 
 
+##### Sous-section 3 : Conditions de délivrance
+
 ###### Article D337-132
 
-Le diplôme du brevet des métiers d'art est délivré au vu des résultats obtenus à un examen. Celui-ci est organisé sous la
-forme d'épreuves qui visent à valider les acquis du candidat par rapport au référentiel caractéristique du diplôme ainsi que
-les périodes de formation en milieu professionnel.
+Le brevet des métiers d'art est obtenu par le succès à un examen ou par la validation des acquis de l'expérience en
+application de l'article L. 335-5 du code de l'éducation et dans les conditions fixées par les articles R. 335-5 à R.
+335-11. 
+
+L'examen du brevet des métiers d'art comporte huit épreuves obligatoires et, le cas échéant, une épreuve facultative. 
+
+A chaque épreuve correspond une unité. 
+
+Une épreuve prend en compte la présentation d'un projet ayant un caractère de synthèse significatif de la vocation du brevet
+des métiers d'art considéré. 
+
+Pour les candidats préparant le diplôme soit par la voie scolaire dans un établissement public ou privé sous contrat, soit
+par la voie de l'apprentissage dans un centre de formation d'apprentis ou une section d'apprentissage habilités par le
+recteur, soit par la voie de la formation professionnelle continue dans un établissement public, l'évaluation a lieu sous la
+forme d'un contrôle en cours de formation pour trois épreuves au moins et sous forme ponctuelle terminale pour les autres. 
+
+Pour les candidats préparant le diplôme soit par la voie scolaire dans un établissement privé hors contrat, soit par la voie
+de l'apprentissage dans un centre de formation d'apprentis ou une section d'apprentissage non habilités, soit par la voie de
+la formation professionnelle continue dans un établissement privé, l'évaluation a lieu intégralement sous la forme ponctuelle
+terminale. 
+
+Pour les candidats mentionnés au 2° de l'article D. 337-131, l'évaluation a lieu intégralement sous la forme ponctuelle. 
+
+Les conditions d'habilitation des centres de formation d'apprentis, ou des sections d'apprentissage et des établissements
+publics de formation professionnelle continue à pratiquer le contrôle en cours de formation sont fixées par arrêté du
+ministre chargé de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°92-692 1992-07-20 art. 9
-
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2014-1274 du 23 octobre 2014 - art. (V)
 	  - Code de l'éducation - art. D337-134 (V)
 
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-131
+	  - Code de l'éducation - art. L335-5
+	  - Code de l'éducation - art. R335-5
+
 
 ###### Article D337-133
 
-L'examen du brevet des métiers d'art porte sur l'ensemble des domaines de formation. Il comporte huit épreuves.
+Dans les conditions fixées par chaque arrêté de création, les candidats titulaires de certains titres ou diplômes français ou
+étrangers peuvent être dispensés des épreuves correspondant au passage d'une ou de plusieurs unités constitutives du diplôme
+présenté. 
 
-Une épreuve prend en compte la présentation d'un projet réalisé au cours de la formation. Ce projet doit avoir un caractère
-de synthèse significatif de la vocation du brevet des métiers d'art choisi.
+Les candidats mentionnés au 2° de l'article D. 337-127 et au 2° de l'article D. 337-131 peuvent être dispensés, sur leur
+demande, de l'épreuve d'éducation physique et sportive du brevet des métiers d'art. 
+
+Lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui être délivré. 
+
+L'absence justifiée à une ou plusieurs unités donne lieu à l'attribution de la note zéro à l'unité ou aux unités concernées
+et le diplôme peut être délivré si les conditions prévues au premier alinéa du présent article sont remplies. Dans le cas où
+le diplôme ne peut être délivré au candidat, celui-ci se présente à des épreuves de remplacement, dans les conditions fixées
+à l'article D. 337-137.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 10
 	  - Décret n°92-692 du 20 juillet 1992 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-127
+	  - Code de l'éducation - art. D337-131
 
 	**Cité par**:
 
@@ -68181,42 +68289,60 @@ de synthèse significatif de la vocation du brevet des métiers d'art choisi.
 
 ###### Article D337-134
 
-L'évaluation des acquis correspondant à trois épreuves obligatoires de l'examen du brevet des métiers d'art s'effectue sur la
-base des résultats du contrôle des connaissances et des aptitudes organisé en cours de formation.
+Les éléments d'appréciation dont dispose le jury du brevet des métiers d'art sont : 
+
+1° Les résultats obtenus par les candidats aux épreuves prévues à l'article D. 337-132 ; 
+
+2° Le cas échéant, le livret scolaire ou de formation des candidats. 
+
+Aucun candidat ayant fourni un livret scolaire ou de formation ne peut être ajourné sans que le jury ait examiné celui-ci. La
+mention de cet examen est portée au livret scolaire ou de formation sous la signature du président du jury. 
+
+Le brevet des métiers d'art est délivré aux candidats ayant obtenu une moyenne égale ou supérieure à 10 sur 20, d'une part, à
+l'épreuve évaluant la pratique professionnelle, d'autre part, à l'ensemble des épreuves constitutives du diplôme. 
+
+Les points excédant 10 sur 20 obtenus à l'épreuve facultative sont pris en compte pour le calcul de la moyenne générale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 11
 	  - Décret n°92-692 du 20 juillet 1992 - art. 11 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D337-132
 
 
 ###### Article D337-135
 
-Le brevet des métiers d'art est délivré aux candidats ayant obtenu une moyenne égale ou supérieure à 10 sur 20, d'une part,
-aux épreuves professionnelles, d'autre part, à l'ensemble des épreuves constitutives du diplôme.
+Les candidats ajournés à l'examen conservent, pendant cinq ans à compter de leur date d'obtention et, à leur demande, le
+bénéfice des notes obtenues supérieures ou égales à 10 sur 20, en vue de sessions ultérieures.
 
-Lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui être délivré.
-
-Toutefois, en cas d'absence justifiée, la note zéro lui est attribuée pour chaque épreuve manquée et le diplôme peut lui être
-délivré si les conditions prévues au premier alinéa du présent article sont remplies. Dans le cas où le diplôme n'a pu lui
-être délivré, le candidat se présente à des épreuves de remplacement, dans les conditions fixées à l'article D. 337-137.
+Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau
+présentées, les points excédant 10 obtenus à l'épreuve facultative étant pris en compte dans le calcul.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 12
 	  - Décret n°92-692 du 20 juillet 1992 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
@@ -68226,60 +68352,75 @@ délivré si les conditions prévues au premier alinéa du présent article sont
 
 ###### Article D337-136
 
-Les candidats au brevet des métiers d'art conservent sur leur demande pour les cinq sessions suivant l'examen le bénéfice des
-domaines de formation auxquels ils ont obtenu une moyenne égale ou supérieure à 10 sur 20.
+Le diplôme du brevet des métiers d'art délivré au candidat porte les mentions :
+
+1° Assez bien, quand le candidat a obtenu une moyenne au moins égale à 12 et inférieure à 14 ;
+
+2° Bien, quand le candidat a obtenu une moyenne au moins égale à 14 et inférieure à 16 ;
+
+3° Très bien, quand le candidat a obtenu une moyenne égale ou supérieure à 16.
+
+A l'issue de l'évaluation spécifique définie par un arrêté du ministre chargé de l'éducation, et dans les conditions fixées
+par cet arrêté, le diplôme délivré aux candidats peut comporter l'indication " section européenne ".
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 13
 	  - Décret n°92-692 du 20 juillet 1992 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 18 avril 2017 - art. 2 (V)
 
 
+##### Sous-section 4 : Organisation de l'examen
+
 ###### Article D337-137
 
-Une session annuelle d'examen du brevet des métiers d'art est organisée à l'initiative du recteur, dans le cadre d'une
-académie ou d'un groupement d'académies.
+Une session d'examen du brevet des métiers d'art est organisée chaque année scolaire, dans le cadre d'une académie ou d'un
+groupement d'académies, selon les modalités fixées par le ministre chargé de l'éducation. 
 
-Sur autorisation du recteur, les épreuves de remplacement sont organisées pour les candidats mentionnés au troisième alinéa
-de l'article D. 337-135 au sein d'une académie ou d'un groupement d'académies.
+Les sujets des épreuves sont choisis par le ministre chargé de l'éducation ou, par délégation de celui-ci, par les recteurs. 
+
+Sur autorisation du recteur, les épreuves de remplacement sont organisées pour les candidats mentionnés au quatrième alinéa
+de l'article D. 337-133 au sein d'une académie ou d'un groupement d'académies.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 14
 	  - Décret n°92-692 du 20 juillet 1992 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-133 (V)
-
-	**Cite**:
-
 	  - Code de l'éducation - art. D337-135 (V)
 
 
 ###### Article D337-138
 
-Le diplôme du brevet des métiers d'art est délivré par le recteur après délibération du jury.
+Les résultats définitifs des évaluations résultent de la délibération du jury souverain.
 
-Le jury nommé par le recteur est présidé par celui-ci ou son représentant. Le président du jury est assisté ou suppléé par un
-président adjoint choisi parmi les membres de la profession considérée et qui peut être un conseiller de l'enseignement
-technologique.
+Le jury est nommé pour chaque session par le recteur. Il est présidé par celui-ci ou son représentant. Le président du jury
+est assisté ou suppléé par un président adjoint choisi parmi les membres de la profession considérée et qui peut être un
+conseiller de l'enseignement technologique.
 
 Il est composé à parité :
 
@@ -68288,16 +68429,24 @@ d'apprentis préparant à cet examen, parmi lesquels au moins un membre de l'éq
 
 2° De membres de la profession intéressée, employeurs et salariés en nombre égal.
 
+Si cette proportion n'est pas atteinte en raison de l'absence d'un ou de plusieurs de ses membres, le jury peut néanmoins
+délibérer valablement.
+
+Le brevet des métiers d'art est délivré par le recteur de l'académie dans laquelle est organisée la session d'examen.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°92-692 1992-07-20 art. 15
 	  - Décret n°92-692 du 20 juillet 1992 - art. 15 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2011-1029 du 26 août 2011 - art. 1
 
 	**Cité par**:
 
@@ -72605,8 +72754,6 @@ l'accompagnant.
 	  - Décret n°2012-903 du 23 juillet 2012 - art. 2
 
 
-##### Sous-section 3 : Les unités d'enseignement.
-
 ##### Sous-section 4 : Les unités d'enseignement
 
 ###### Article D351-17
@@ -72742,8 +72889,6 @@ chargé de l'agriculture et du ministre chargé des personnes handicapées.
 	  - Code de l'action sociale et des familles - art. D312-69 (V)
 	  - Code de l'action sociale et des familles - art. D312-88 (V)
 
-
-##### Sous-section 4 : L'aide individuelle.
 
 ##### Sous-section 5 : La continuité de l'accompagnement
 
