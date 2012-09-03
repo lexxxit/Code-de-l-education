@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-09-01
+Version Consolidée au 2012-09-04
 
 # Partie législative
 
@@ -61864,23 +61864,32 @@ Le baccalauréat technologique comprend les séries suivantes :
 
 3° Série STL : sciences et technologies de laboratoire ;
 
-4° Série STG : sciences et technologies de gestion ;
+4° Série STMG : sciences et technologies du management et de la gestion ;
 
 5° Série STAV : sciences et technologies de l'agronomie et du vivant : agronomie - alimentation - environnement -
 territoires ;
 
-6° Série " hôtellerie " ;
+6° Série "hôtellerie" ;
 
-7° Série " techniques de la musique et de la danse " ;
+7° Série "techniques de la musique et de la danse" ;
 
 8° Série STD2A : sciences et technologies du design et des arts appliqués.
 
-Chacune de ces séries peut comprendre différentes spécialités. Celles relatives aux séries ST2S, STI2D, STL, STG, hôtellerie
+Chacune de ces séries peut comprendre différentes spécialités. Celles relatives aux séries ST2S, STI2D, STL, STMG, hôtellerie
 et STD2A sont fixées par arrêté du ministre chargé de l'éducation.
 
 Les dispositions des troisième, neuvième et dixième alinéas du présent article, relatives aux séries STI2D et STD2A, entrent
 en application à compter de la session 2013 de l'examen et prennent effet pour les épreuves anticipées de cette session,
 organisées en 2012.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2011-1218 du 29 septembre 2011, les dispositions du présent article entrent en
+application à compter de la session 2014 de l'examen et prennent effet pour les épreuves anticipées de cette session,
+organisées en 2013.
+
+Elles remplacent, à compter de cette session et de ses épreuves anticipées, les dispositions relatives à la série STG :
+sciences et technologies de gestion.
 
 **Liens relatifs à cet article**
 
@@ -61891,7 +61900,7 @@ organisées en 2012.
 
 	**Modifié par**:
 
-	  - Décret n°2010-565 du 27 mai 2010 - art. 1
+	  - Décret n°2011-1218 du 29 septembre 2011 - art. 1
 
 	**Cité par**:
 
