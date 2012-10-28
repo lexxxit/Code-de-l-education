@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-10-06
+Version Consolidée au 2012-10-29
 
 # Partie législative
 
@@ -76205,7 +76205,8 @@ Le chef d'établissement représente l'Etat au sein de l'établissement. Il est 
 
 En qualité d'organe exécutif de l'établissement, le chef d'établissement : 
 
-1° Représente l'établissement en justice et dans tous les actes de la vie civile ; 
+1° Représente l'établissement en justice et dans tous les actes de la vie civile. Après avoir recueilli l'autorisation du
+conseil d'administration, il conclut les transactions ; 
 
 2° A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ; 
 
@@ -76254,7 +76255,7 @@ d'entraîner des conséquences sur la formation initiale et la vie scolaire.
 
 	**Modifié par**:
 
-	  - Décret n°2011-728 du 24 juin 2011 - art. 2
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 2
 
 	**Cite**:
 
@@ -76705,7 +76706,8 @@ expérimentations menées par l'établissement et du contrat d'objectifs ;
 
 a) Le budget et le compte financier de l'établissement ; 
 
-b) Les tarifs des ventes des produits et de prestations de services réalisés par l'établissement ; 
+b) Les tarifs des ventes des produits et de prestations de services réalisés par l'établissement, sous réserve des
+compétences réservées à la collectivité territoriale de rattachement en vertu du II de l'article L. 421-23 ; 
 
 5° Il adopte le règlement intérieur de l'établissement ; 
 
@@ -76715,20 +76717,22 @@ a) Les orientations relatives à la conduite du dialogue avec les parents d'él�
 
 b) Le programme de l'association sportive fonctionnant au sein de l'établissement ; 
 
-c) L'adhésion à tout groupement d'établissements ou la passation des conventions dont l'établissement est signataire, à
-l'exception : 
+c) L'adhésion à tout groupement d'établissements ; 
 
-― des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le
-cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ; 
+d) La passation des marchés, contrats et conventions dont l'établissement est signataire, à l'exception :
 
-― en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000
-euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ; 
+- des marchés qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ;
 
-d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel
+- en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000
+euros hors taxes pour les services et 15 000 euros hors taxes pour les travaux et équipements ;
+
+- des marchés dont l'incidence financière est annuelle et pour lesquelles il a donné délégation au chef d'établissement. 
+
+e) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel
 l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un
 groupement d'intérêt public ; 
 
-e) La programmation et les modalités de financement des voyages scolaires ; 
+f) La programmation et les modalités de financement des voyages scolaires ; 
 
 7° Il délibère sur : 
 
@@ -76746,8 +76750,8 @@ organe compétent composé notamment de représentants de l'ensemble des personn
 territoriale de rattachement en matière de fonctionnement matériel, toutes actions particulières propres à assurer une
 meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ; 
 
-9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens ainsi que les actions à intenter ou à
-défendre en justice ; 
+9° Il autorise l'acceptation des dons et legs, l'acquisition ou l'aliénation des biens, ainsi que les actions à intenter ou à
+défendre en justice et la conclusion de transactions ; 
 
 10° Il peut décider la création d'un organe de concertation et de proposition sur les questions ayant trait aux relations de
 l'établissement avec le monde social, économique et professionnel ainsi que sur le programme de formation continue des
@@ -76762,7 +76766,13 @@ parité, à des représentants des organisations représentatives au plan dépar
 
 	**Modifié par**:
 
-	  - Décret n°2010-99 du 27 janvier 2010 - art. 4
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 3
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-23 (V)
+	  - Code de l'éducation - art. R421-2
+	  - Code de l'éducation - art. R421-60
 
 	**Cité par**:
 
@@ -76771,11 +76781,6 @@ parité, à des représentants des organisations représentatives au plan dépar
 	  - Code de l'éducation - art. R421-24 (V)
 	  - Code de l'éducation - art. R421-41-3 (VD)
 	  - Code de l'éducation - art. R421-9 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. R421-2
-	  - Code de l'éducation - art. R421-60
 
 
 ###### Article R421-21
@@ -76923,15 +76928,16 @@ Le conseil d'administration se réunit en séance ordinaire à l'initiative du c
 Il est, en outre, réuni en séance extraordinaire à la demande de l'autorité académique, de la collectivité territoriale de
 rattachement, du chef d'établissement ou de la moitié au moins de ses membres sur un ordre du jour déterminé. Une séance est
 consacrée à l'examen du budget, dans le délai de trente jours suivant la notification de la participation de la collectivité
-territoriale de rattachement.
+territoriale de rattachement. 
 
 Le chef d'établissement fixe les dates et heures des séances. Il envoie les convocations, accompagnées du projet d'ordre du
-jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence.
+jour et des documents préparatoires, au moins dix jours à l'avance, ce délai pouvant être réduit à un jour en cas d'urgence. 
 
 Le conseil d'administration ne peut siéger valablement que si le nombre des membres présents, en début de séance, est égal à
-la majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est convoqué en vue
-d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il délibère alors
-valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois jours.
+la majorité des membres en exercice composant le conseil. Si ce quorum n'est pas atteint, le conseil d'administration est
+convoqué en vue d'une nouvelle réunion, qui doit se tenir dans un délai minimum de huit jours et maximum de quinze jours ; il
+délibère alors valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce délai peut être réduit à trois
+jours. 
 
 L'ordre du jour est adopté en début de séance ; toute question inscrite à l'ordre du jour et ayant trait aux domaines définis
 à l'article R. 421-2 doit avoir fait l'objet d'une instruction préalable en commission permanente, dont les conclusions sont
@@ -76939,17 +76945,17 @@ communiquées aux membres du conseil.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 17 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 4
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R421-2 (V)
 
 	**Cité par**:
 
@@ -78327,11 +78333,10 @@ suivies en ressources affectées, relatives à des recettes encaissées par l'é
 acquises qu'à concurrence du montant des dépenses constatées pour l'exécution des charges précisées lors du versement des
 fonds.
 
+3° Les augmentations de crédits nécessaires aux opérations d'ordre définies par les instructions budgétaires et comptables.
+
 Le chef d'établissement informe la commission permanente de ces modifications et en rend compte au prochain conseil
 d'administration.
-
-Il peut également, à charge d'en rendre compte au prochain conseil d'administration, procéder à tout virement de crédits à
-l'intérieur d'un chapitre.
 
 Toutes les décisions budgétaires modificatives précitées donnent lieu à l'élaboration d'un document budgétaire actualisé.
 
@@ -78341,9 +78346,9 @@ Toutes les décisions budgétaires modificatives précitées donnent lieu à l'�
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 6
 
 	**Cité par**:
 
@@ -78351,10 +78356,6 @@ Toutes les décisions budgétaires modificatives précitées donnent lieu à l'�
 	  - Code de l'éducation - art. D422-16 (V)
 	  - Code de l'éducation - art. R421-20 (V)
 	  - Code de l'éducation - art. R421-78-1 (V)
-
-	**Anciens textes**:
-
-	  - Code des juridictions financières - art. R232-4 (Ab)
 
 
 ###### Article R421-61
@@ -78389,21 +78390,19 @@ dernière rentrée scolaire, pour la détermination des limites d'engagement des
 La création des groupements comptables est arrêtée par le recteur de l'académie après avis des conseils d'administration des
 établissements publics locaux d'enseignement intéressés et des collectivités territoriales de rattachement. Chacun des
 établissements appartenant à un groupement comptable conserve sa personnalité morale et son autonomie financière. Une
-convention entre les établissements membres précise, en tant que de besoin, les modalités de fonctionnement du groupement.
+convention entre les établissements membres précise, les modalités de fonctionnement du groupement. Le directeur
+départemental des finances publiques territorialement compétent est celui de la circonscription dans laquelle est situé le
+siège du groupement comptable.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 39 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 7
 
 
 ###### Article R421-63
@@ -78412,21 +78411,17 @@ Un poste comptable est créé dans l'établissement siège du groupement. L'agen
 du groupement, est chargé de la tenue de la comptabilité générale de chaque établissement membre du groupement.
 
 Lorsque le conseil d'administration d'un établissement membre d'un groupement est appelé à examiner une question relative à
-l'organisation financière, l'agent comptable assiste aux travaux du conseil avec voix consultative.
+l'organisation financière, l'agent comptable ou son représentant assiste aux travaux du conseil avec voix consultative.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 40 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 8
 
 
 ###### Article R421-64
@@ -78541,14 +78536,19 @@ l'ordonnateur.
 Les états exécutoires peuvent être notifiés aux débiteurs par lettre recommandée avec demande d'avis de réception. Leur
 recouvrement est poursuivi jusqu'à opposition devant la juridiction compétente.
 
-L'agent comptable procède aux poursuites. Celles-ci peuvent à tout moment être suspendues sur un ordre écrit de l'ordonnateur
-si la créance est l'objet d'un litige.
+L'agent comptable procède aux mesures d'exécution forcée dans les conditions prévues par l'article R. 1617-24 du code général
+des collectivités territoriales. Celles-ci peuvent à tout moment être suspendues sur un ordre écrit de l'ordonnateur si la
+créance est l'objet d'un litige.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art. 6
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 9
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. R1617-24
 
 
 ###### Article R421-69
@@ -78736,44 +78736,49 @@ Le ministre chargé du budget, le ministre de l'intérieur et le ministre charg�
 ###### Article R421-77
 
 A la fin de chaque exercice, l'agent comptable en fonctions prépare le compte financier de l'établissement pour l'exercice
-écoulé.
+écoulé. 
 
-Le compte financier comprend :
+Le compte financier comprend : 
 
-1° La balance définitive des comptes ;
+1° La balance définitive des comptes ; 
 
-2° Le développement, par chapitre, des dépenses et des recettes budgétaires ;
+2° Le développement, par chapitre, des dépenses et des recettes budgétaires ; 
 
-3° Le tableau récapitulatif de l'exécution du budget ;
+3° Le tableau récapitulatif de l'exécution du budget ; 
 
-4° Les documents de synthèse comptable ;
+4° Les documents de synthèse comptable ; 
 
-5° La balance des comptes des valeurs inactives.
+5° La balance des comptes des valeurs inactives. 
 
 Le compte financier est visé par l'ordonnateur, qui certifie que le montant des ordres de dépenses et des ordres de recettes
-est conforme à ses écritures.
+est conforme à ses écritures. 
 
 Avant l'expiration du quatrième mois suivant la clôture de l'exercice, le conseil d'administration arrête le compte financier
-après avoir entendu l'agent comptable.
+après avoir entendu l'agent comptable ou son représentant et affecte le résultat. 
 
 Le compte financier accompagné éventuellement des observations du conseil d'administration et de celles de l'agent comptable
 est transmis à la collectivité territoriale de rattachement et à l'autorité académique dans les trente jours suivant son
-adoption.
+adoption. 
 
-L'agent comptable adresse le compte financier et les pièces annexes nécessaires, avant l'expiration du sixième mois suivant
-la clôture de l'exercice, au comptable supérieur du Trésor territorialement compétent qui, après l'avoir mis en état
-d'examen, le transmet à la chambre régionale des comptes avant l'expiration du dixième mois suivant la clôture de l'exercice.
+Avant l'expiration du sixième mois suivant la clôture de l'exercice, l'agent comptable adresse le compte financier et les
+pièces annexes nécessaires au directeur départemental des finances publiques. Sauf si le compte financier de l'établissement
+relève du 4° de l'article L. 211-2 du code des juridictions financières, il est transmis à la chambre régionale des comptes
+territorialement compétente.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2009-553 du 15 mai 2009 - art. 6
+	  - Décret n°2012-1193 du 26 octobre 2012 - art. 10
 
 	**Cité par**:
 
 	  - Arrêté du 24 juin 2015 - art. 6 (V)
 	  - Code de l'éducation - art. R421-78-1 (V)
+
+	**Cite**:
+
+	  - Code des juridictions financières - art. L211-2 (V)
 
 
 ###### Article R421-78
