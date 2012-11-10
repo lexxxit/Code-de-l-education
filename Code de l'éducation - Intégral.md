@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-10-29
+Version Consolidée au 2012-11-11
 
 # Partie législative
 
@@ -78185,28 +78185,24 @@ Le représentant de l'Etat, l'autorité académique et la collectivité territor
 
 Sous réserve des dispositions des articles R. 421-58 à R. 421-78, les collèges, les lycées, les écoles régionales du premier
 degré et les établissements régionaux d'enseignement adapté sont soumis au régime financier résultant des dispositions de
-l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963 et de la première partie du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique.
+l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963 et du titre Ier du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
 	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-	  - Code de l'éducation - art. R421-58 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 34 (Ab)
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+	  - Code de l'éducation - art. R421-58
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R421-58
@@ -78447,25 +78443,22 @@ leur remplacement en établissant un certificat visé par le comptable supérieu
 
 Les agents comptables sont nommés, après information préalable de la collectivité territoriale de rattachement, par le
 ministre chargé de l'éducation parmi les personnels de l'administration scolaire et universitaire, conformément aux
-dispositions de l'article 16 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+dispositions de                     l'article 14 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 16 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 42 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 14
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R421-66
@@ -78504,28 +78497,24 @@ débiteurs.
 
 Tous les droits acquis au cours d'un exercice doivent faire l'objet d'un ordre de recettes au titre de cet exercice. 
 
-Les ordonnateurs sont autorisés, dans les conditions et limites fixées par arrêté du ministre chargé du budget, à ne pas
-émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est inférieur au minimum fixé
-par le décret pris pour l'application de l'article 82 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
-la comptabilité publique.
+Les ordonnateurs sont autorisés, dans les conditions prévues à l'article L. 1611-5 du code général des collectivités
+territoriales, à ne pas émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est
+inférieur au minimum fixé par l'article D. 1611-1 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 82 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 45 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. D1611-1
+	  - Code général des collectivités territoriales - art. L1611-5
 
 
 ###### Article R421-68
@@ -78658,8 +78647,8 @@ Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exe
 
 ###### Article R421-74
 
-Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 31 du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique, sont transmis, accompagnés des pièces justificatives, à
+Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 32 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, sont transmis, accompagnés des pièces justificatives, à
 l'agent comptable qui les prend en charge et procède à leur règlement. 
 
 La liste des pièces justificatives que l'agent comptable peut exiger est celle prévue par l'article D. 1617-19 du code
@@ -78667,22 +78656,18 @@ général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 31 (V)
-	  - Code général des collectivités territoriales - art. D1617-19 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-924 du 30 août 1985 - art. 52 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 32
+	  - Code général des collectivités territoriales - art. D1617-19
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R421-75
@@ -79676,28 +79661,24 @@ de la mer.
 
 Sous réserve des dispositions des articles R. 421-109 à R. 421-128, les lycées professionnels maritimes érigés en
 établissements publics locaux d'enseignement sont soumis au régime financier résultant des dispositions de l'article 60 de la
-loi n° 63-156 du 23 février 1963 de finances pour 1963 et de la première partie du décret n° 62-1587 du 29 décembre 1962
-portant règlement général sur la comptabilité publique.
+loi n° 63-156 du 23 février 1963 de finances pour 1963 et du titre Ier du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-	  - Code de l'éducation - art. R421-109 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 26 (Ab)
+	  - Loi n°63-156 du 23 février 1963 - art. 60
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code de l'éducation - art. R421-109
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R421-109
@@ -80101,8 +80082,8 @@ Toutes les dépenses doivent être liquidées et ordonnancées au cours de l'exe
 
 ###### Article R421-124
 
-Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 31 du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique, sont transmis, accompagnés des pièces justificatives, à
+Les ordres de dépenses, établis par l'ordonnateur dans les conditions prévues à l'article 32 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, sont transmis, accompagnés des pièces justificatives, à
 l'agent comptable qui les prend en charge et procède à leur règlement. 
 
 La liste des pièces justificatives que l'agent comptable peut exiger est celle prévue par l'article D. 1617-19 du code
@@ -80110,22 +80091,18 @@ général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 31 (V)
-	  - Code général des collectivités territoriales - art. D1617-19 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°85-1242 du 25 novembre 1985 - art. 42 (Ab)
-
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 32
+	  - Code général des collectivités territoriales - art. D1617-19
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R421-125
@@ -90914,28 +90891,24 @@ valablement, quel que soit le nombre des membres présents. En cas d'urgence, ce
 
 ###### Article R453-28
 
-La gestion financière et comptable des établissements est soumise aux dispositions de la première partie du décret n° 62-1587
-du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'aux dispositions de l'article 60 de la
-loi n° 63-156 du 23 février 1963 de finances pour 1963.
+La gestion financière et comptable des établissements est soumise aux dispositions                     du titre Ier du décret
+n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique ainsi qu'aux dispositions de l'article
+60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 (V)
-	  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-585 du 5 mai 1995 - art. 8 (Ab)
+	  - Loi n°63-156 du 23 février 1963 - art. 60
+	  - Décret n°2012-1246 du 7 novembre 2012
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R453-29
@@ -91173,10 +91146,10 @@ sont définies par arrêté du ministre de la défense et du ministre chargé du
 
 ###### Article R453-38
 
-Lorsque l'agent comptable a suspendu le paiement des dépenses, conformément aux dispositions de l'article 37 du décret du 29
-décembre 1962 portant règlement général sur la comptabilité publique, l'ordonnateur peut, par écrit et sous sa
-responsabilité, le requérir de payer. L'agent comptable défère à la réquisition, sauf dans les cas prévus à l'article 160 du
-même décret, et rend compte au comptable du Trésor auprès de l'ambassade de France en Allemagne. 
+Lorsque l'agent comptable a suspendu le paiement des dépenses, conformément aux dispositions de                l'article 38
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique, l'ordonnateur peut, par
+écrit et sous sa responsabilité, le requérir de payer. L'agent comptable défère à la réquisition, sauf dans les cas prévus à
+l'article 160 du même décret, et rend compte au comptable du Trésor auprès de l'ambassade de France en Allemagne. 
 
 Des régies de recettes et d'avances peuvent être instituées dans les établissements conformément au décret n° 92-681 du 20
 juillet 1992. Les régisseurs de recettes et d'avances sont nommés par le commandant des forces françaises et de l'élément
@@ -91187,20 +91160,16 @@ comptable, avec l'agrément de l'agent comptable de l'établissement siège du g
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 37 (V)
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°95-585 du 5 mai 1995 - art. 19 (Ab)
+	  - Décret n°92-681 du 20 juillet 1992
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 38
 
 	**Codifié par**:
 
 	  - Décret n°2008-263 du 14 mars 2008 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2008-263 du 14 mars 2008 - art. (V)
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 8
 
 
 ###### Article R453-39
