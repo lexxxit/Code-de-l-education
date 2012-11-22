@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2012-11-23
 
 # Partie législative
 
@@ -67146,35 +67146,37 @@ Les candidats préparant le brevet professionnel par la voie de la formation pro
 suivant la formation dans un établissement d'enseignement à distance doivent justifier d'une formation d'une durée minimum de
 400 heures fixée par chaque arrêté de spécialité. A titre dérogatoire, pour des spécialités relevant de certains secteurs
 professionnels et selon des modalités définies par arrêté du ministre chargé de l'éducation, cette durée minimum pourra être
-inférieure à 400 heures.
+inférieure à 400 heures. 
 
 Cette durée de formation peut être réduite par une décision de positionnement conformément aux dispositions des articles D.
-337-103 et D. 337-104. Cette réduction peut, le cas échéant, porter sur la totalité de la durée de formation.
+337-103 et D. 337-104. Cette réduction peut, le cas échéant, porter sur la totalité de la durée de formation. 
 
 Les candidats préparant le brevet professionnel par la voie de l'apprentissage doivent justifier d'une formation en centre de
 formation d'apprentis ou en section d'apprentissage d'une durée minimum de 400 heures par an fixée par chaque arrêté de
-spécialité. La durée totale de formation peut être réduite ou allongée dans les conditions prévues par le code du travail.
+spécialité. La durée totale de formation peut être réduite ou allongée dans les conditions prévues par le code du travail. 
+
+Les candidats titulaires d'une spécialité de baccalauréat professionnel du même secteur professionnel que la spécialité de
+brevet professionnel postulée doivent justifier d'une formation d'une durée minimum de 240 heures.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°95-664 du 9 mai 1995 - art. 7 (M)
 	  - Décret n°95-664 du 9 mai 1995 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-1272 du 20 novembre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-100 (V)
+	  - Code de l'éducation - art. D337-103 (Ab)
 	  - Code de l'éducation - art. D337-106 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D337-103 (V)
-	  - Code de l'éducation - art. D337-104 (V)
 
 
 ###### Article D337-102
@@ -67192,6 +67194,13 @@ Au titre de ces deux années peut être prise en compte la durée du contrat de 
 professionnel, effectuée après l'obtention d'un diplôme ou titre de niveau V de la nomenclature interministérielle des
 niveaux de formation.
 
+La durée de deux années peut être réduite, sans pouvoir être inférieure à vingt mois, pour les candidats titulaires d'un
+contrat de travail de type particulier dont la durée effective est inférieure à deux ans au moment du passage de l'examen et
+qui ont bénéficié d'une formation en centre de 800 heures minimum.
+
+3° Soit de six mois à un an pour les candidats titulaires d'une spécialité de baccalauréat professionnel du même secteur
+professionnel que la spécialité de brevet professionnel postulée.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -67200,7 +67209,11 @@ niveaux de formation.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2012-1272 du 20 novembre 2012 - art. 2
 
 	**Cité par**:
 
