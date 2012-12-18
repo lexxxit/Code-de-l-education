@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2012-11-23
+Version Consolidée au 2012-12-19
 
 # Partie législative
 
@@ -19674,11 +19674,11 @@ service public.
 Ce contrat ouvre droit, en sus des rémunérations auxquelles les étudiants et internes peuvent prétendre du fait de leur
 formation, à une allocation mensuelle versée par le centre national de gestion jusqu'à la fin de leurs études médicales. En
 contrepartie de cette allocation, les étudiants s'engagent à exercer leurs fonctions à titre libéral ou salarié, à compter de
-la fin de leur formation, dans les lieux d'exercice mentionnés au quatrième alinéa. La durée de leur engagement est égale à
-celle pendant laquelle l'allocation leur a été versée et ne peut être inférieure à deux ans. Pendant la durée de cet
-engagement, qui n'équivaut pas à une première installation à titre libéral, ceux qui exercent leurs fonctions à titre libéral
-pratiquent les tarifs fixés par la convention mentionnée aux articles L. 162-5 et L. 162-14-1 du code de la sécurité
-sociale. 
+la fin de leur formation, dans les lieux d'exercice mentionnés au quatrième alinéa et dans des conditions définies par voie
+réglementaire. La durée de leur engagement est égale à celle pendant laquelle l'allocation leur a été versée et ne peut être
+inférieure à deux ans. Pendant la durée de cet engagement, qui n'équivaut pas à une première installation à titre libéral,
+ceux qui exercent leurs fonctions à titre libéral pratiquent les tarifs fixés par la convention mentionnée aux articles L.
+162-5 et L. 162-14-1 du code de la sécurité sociale. 
 
 A l'issue des épreuves mentionnées à l'article L. 632-2 du présent code, les étudiants ayant signé un contrat d'engagement de
 service public choisissent un poste d'interne sur une liste établie chaque année par arrêté du ministre chargé de la santé et
@@ -19686,23 +19686,25 @@ du ministre chargé de l'enseignement supérieur, en fonction de la situation de
 spécialités sur les territoires visés à l'alinéa précédent. 
 
 Au cours de la dernière année de leurs études, les internes ayant signé un contrat d'engagement de service public choisissent
-leur futur lieu d'exercice sur une liste, établie par le centre national de gestion sur proposition des agences régionales de
-santé, de lieux d'exercice où le schéma visé à l'article L. 1434-7 du code de la santé publique indique que l'offre médicale
-est insuffisante ou la continuité de l'accès aux soins est menacée, en priorité les zones de revitalisation rurale visées à
-l'article 1465 A du code général des impôts et les zones urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115
-du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Le directeur général de l'agence
-régionale de santé dans le ressort duquel ils exercent leurs fonctions peut, à leur demande, à tout moment, changer le lieu
-de leur exercice. Le directeur général du centre national de gestion peut, à leur demande, à tout moment, et après avis du
-directeur général de l'agence régionale de santé dans le ressort duquel ils exercent leurs fonctions, leur proposer un lieu
-d'exercice dans une zone dépendant d'une autre agence régionale de santé. 
+leur futur lieu d'exercice sur une liste nationale de lieux d'exercice où l'offre médicale est insuffisante ou la continuité
+de l'accès aux soins menacée, en priorité les zones de revitalisation rurale visées à l'article 1465 A du code général des
+impôts et les zones urbaines sensibles définies au 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire. Cette liste est établie par le Centre national de gestion sur proposition
+des agences régionales de santé. Elles arrêtent les lieux d'exercice conformément aux conditions définies par voie
+réglementaire. 
+
+Le directeur général de l'agence régionale de santé dans le ressort duquel ils exercent leurs fonctions peut, à leur demande
+et à tout moment, changer le lieu de leur exercice. Le directeur général du Centre national de gestion peut, à leur demande,
+à tout moment et après avis du directeur général de l'agence régionale de santé dans le ressort duquel ils exercent leurs
+fonctions, leur proposer un lieu d'exercice dans une zone dépendant d'une autre agence régionale de santé. 
 
 Les médecins ou les étudiants ayant signé un contrat d'engagement de service public avec le centre national de gestion
 peuvent se dégager de leur obligation d'exercice prévue au deuxième alinéa du présent article, moyennant le paiement d'une
-indemnité dont le montant dégressif égale au plus les sommes perçues au titre de ce contrat ainsi qu'une fraction des frais
-d'études engagés. Les modalités de remboursement et de calcul de cette somme sont fixées par un arrêté conjoint des ministres
-chargés de la santé et de la sécurité sociale. Le recouvrement de cette indemnité est assuré, pour les médecins, par la
-caisse primaire d'assurance maladie dans le ressort de laquelle le médecin exerce à titre principal et, pour les étudiants,
-par le centre national de gestion. 
+indemnité dont le montant dégressif égale au plus les sommes perçues au titre de ce contrat ainsi qu'une pénalité. Les
+modalités de remboursement et de calcul de cette somme sont fixées par un arrêté conjoint des ministres chargés de la santé
+et de la sécurité sociale. Le recouvrement de cette somme est assuré, pour les médecins, par la caisse primaire d'assurance
+maladie dans le ressort de laquelle le médecin exerce à titre principal et, pour les étudiants, par le centre national de
+gestion. 
 
 Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
 
@@ -19714,8 +19716,8 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Cite**:
 
+	  - Loi n°86-33 du 9 janvier 1986
 	  - Loi n°95-115 du 4 février 1995
-	  - Code général des impôts, CGI. - art. 1465 A (V)
 	  - Code de l'éducation - art. L632-2
 	  - Code de la sécurité sociale. - art. L162-14-1
 	  - Code de la sécurité sociale. - art. L162-5
@@ -19755,7 +19757,7 @@ Un décret en Conseil d'Etat détermine les conditions d'application du présent
 
 	**Modifié par**:
 
-	  - Loi n°2010-1594 du 20 décembre 2010 - art. 55
+	  - Loi n°2012-1404 du 17 décembre 2012 - art. 47
 
 
 ###### Article L632-7
@@ -20186,6 +20188,74 @@ de praticien spécialiste en art dentaire qui n'est pas délivré dans son Etat 
 	**Modifié par**:
 
 	  - Loi n°2009-879 du 21 juillet 2009 - art. 43
+
+
+###### Article L634-2
+
+Chaque année, un arrêté des ministres chargés de la santé et de la sécurité sociale détermine le nombre d'étudiants qui,
+admis à poursuivre des études odontologiques à l'issue de la première année du premier cycle ou ultérieurement au cours de
+ces études, peuvent signer avec le Centre national de gestion mentionné à l'
+article 116 de la loi n° 86-33 du 9 janvier 1986
+portant dispositions statutaires relatives à la fonction publique hospitalière un contrat d'engagement de service public. Les
+étudiants inscrits en troisième cycle long des études odontologiques ne peuvent signer ce contrat. 
+
+Ce contrat ouvre droit, en sus des rémunérations auxquelles les étudiants peuvent prétendre du fait de leur formation, à une
+allocation mensuelle versée par le Centre national de gestion jusqu'à la fin de leurs études odontologiques. En contrepartie
+de cette allocation, les étudiants s'engagent à exercer leurs fonctions, à titre libéral ou salarié, à compter de la fin de
+leur formation dans les conditions définies par voie réglementaire. Ils exercent dans les lieux d'exercice mentionnés au
+troisième alinéa. La durée de leur engagement est égale à celle pendant laquelle l'allocation leur a été versée et ne peut
+être inférieure à deux ans. 
+
+Au cours de la dernière année de leurs études, les signataires d'un contrat d'engagement de service public choisissent leur
+futur lieu d'exercice sur une liste nationale de lieux d'exercice où l'offre médicale est insuffisante ou la continuité de
+l'accès aux soins menacée, en priorité les zones de revitalisation rurale visées à l'
+article 1465 A du code général des impôts
+et les zones urbaines sensibles définies au 
+3 de l'article 42 de la loi n° 95-115 du 4 février 1995
+d'orientation pour l'aménagement et le développement du territoire. Cette liste est établie par le Centre national de gestion
+sur proposition des agences régionales de santé. Elles arrêtent les lieux d'exercice conformément aux conditions définies par
+voie réglementaire. 
+
+Le directeur général de l'agence régionale de santé dans le ressort duquel les signataires d'un contrat exercent leurs
+fonctions peut, à leur demande et à tout moment, changer le lieu de leur exercice. Le directeur général du Centre national de
+gestion peut, à leur demande, à tout moment et après avis du directeur général de l'agence régionale de santé dans le ressort
+duquel ils exercent leurs fonctions, leur proposer un lieu d'exercice dans une zone dépendant d'une autre agence régionale de
+santé. 
+
+Les chirurgiens-dentistes ou les étudiants ayant signé un contrat d'engagement de service public avec le Centre national de
+gestion peuvent se dégager de leur obligation d'exercice prévue au deuxième alinéa du présent article, moyennant le paiement
+d'une indemnité dont le montant dégressif égale au plus les sommes perçues au titre de ce contrat ainsi que d'une pénalité.
+Les modalités de remboursement et de calcul de cette somme sont fixées par un arrêté conjoint des ministres chargés de la
+santé et de la sécurité sociale. Le recouvrement de cette somme est assuré, pour les chirurgiens-dentistes, par la caisse
+primaire d'assurance maladie dans le ressort de laquelle le chirurgien-dentiste exerce à titre principal et, pour les
+étudiants, par le Centre national de gestion. 
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 116
+	  - Loi n°95-115 du 4 février 1995 - art. 42
+	  - Code général des impôts, CGI. - art. 1465 A
+
+	**Créé par**:
+
+	  - Loi n°2012-1404 du 17 décembre 2012 - art. 47
+
+	**Cité par**:
+
+	  - Décret n°2013-735 du 14 août 2013 - art. 1 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 12 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 13 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 2 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 6 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 7 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 8 (V)
+	  - Décret n°2013-735 du 14 août 2013 - art. 9 (V)
+	  - Arrêté du 29 octobre 2013 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. L136-5 (VD)
 
 
 ##### Chapitre V : Les autres formations de santé.
@@ -100540,13 +100610,8 @@ alinéas suivants :
 
 " Les ressources sont justifiées par l'avis d'imposition à l'impôt sur le revenu. 
 
-Le nombre d'enfants à charge est justifié par l'attestation de paiement de prestations familiales. 
-
 Le revenu imposable, tel qu'il figure sur l'avis d'imposition, est retenu pour apprécier les ressources de la famille ou de
-la personne mentionnée au premier alinéa. 
-
-Les enfants à charge considérés pour l'étude du droit à bourse sont les enfants mineurs ou infirmes et les enfants majeurs
-célibataires tels qu'ils figurent sur l'attestation de paiement de prestations familiales. " 
+la personne mentionnée au premier alinéa."
 
 II. ― Pour l'application de l'article D. 531-5 à Mayotte, les mots : " 2008-2009 ” sont remplacés par les mots : " 2010-2011
 ”. 
@@ -100567,9 +100632,13 @@ rentrée d'août ”.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-1305 du 14 octobre 2011 - art. 1
+	  - Décision n°354947 du 19 décembre 2012, v. init.
+
+	**Abrogé par**:
+
+	  - Décret n°2016-328 du 16 mars 2016 - art. 25
 
 	**Cite**:
 
