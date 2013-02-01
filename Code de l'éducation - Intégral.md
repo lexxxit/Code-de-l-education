@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-02-02
 
 # Partie législative
 
@@ -1548,10 +1548,9 @@ Les personnes responsables doivent y faire inscrire les enfants dont elles ont l
 Afin de procéder au recensement prévu au premier alinéa et d'améliorer le suivi de l'obligation d'assiduité scolaire, le
 maire peut mettre en oeuvre un traitement automatisé de données à caractère personnel où sont enregistrées les données à
 caractère personnel relatives aux enfants en âge scolaire domiciliés dans la commune, qui lui sont transmises par les
-organismes chargés du versement des prestations familiales ainsi que par     l'autorité de l'Etat compétente en matière
-d'éducation  en application de l'article L. 131-8 et par le directeur ou la directrice de l'établissement d'enseignement en
-application du même article ainsi qu'en cas d'exclusion temporaire ou définitive de l'établissement ou lorsqu'un élève
-inscrit dans un établissement le quitte en cours ou en fin d'année. 
+organismes chargés du versement des prestations familiales ainsi que par l'autorité de l'Etat compétente en matière
+d'éducation et par le directeur ou la directrice de l'établissement d'enseignement ainsi qu'en cas d'exclusion temporaire ou
+définitive de l'établissement ou lorsqu'un élève inscrit dans un établissement le quitte en cours ou en fin d'année. 
 
 Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, détermine les
 conditions d'application du troisième alinéa. Il précise la liste des données à caractère personnel collectées, la durée de
@@ -1567,7 +1566,7 @@ personnes intéressées peuvent exercer leur droit d'accès.
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Loi n°2013-108 du 31 janvier 2013 - art. unique.
 
 	**Cité par**:
 
@@ -1613,49 +1612,18 @@ l'Etat compétente en matière d'éducation. Celle-ci peut consulter les assista
 de conduire une enquête, en ce qui concerne les enfants en cause. 
 
 Le directeur ou la directrice de l'établissement d'enseignement saisit l'autorité de l'Etat compétente en matière d'éducation
-afin qu'elle adresse un avertissement aux personnes responsables de l'enfant, leur rappelant les sanctions administratives et
-pénales applicables et les informant sur les dispositifs d'accompagnement parental auxquels elles peuvent avoir recours : 
+afin qu'elle adresse un avertissement aux personnes responsables de l'enfant, leur rappelant les sanctions pénales
+applicables et les informant sur les dispositifs d'accompagnement parental auxquels elles peuvent avoir recours : 
 
 1° Lorsque, malgré l'invitation du directeur ou de la directrice de l'établissement d'enseignement, elles n'ont pas fait
 connaître les motifs d'absence de l'enfant ou qu'elles ont donné des motifs d'absence inexacts ; 
 
 2° Lorsque l'enfant a manqué la classe sans motif légitime ni excuses valables au moins quatre demi-journées dans le mois. 
 
-L'autorité de l'Etat compétente en matière d'éducation saisit sans délai le président du conseil général du cas des enfants
-pour lesquels un avertissement est intervenu en vue de la mise en place d'un contrat de responsabilité parentale ou de toute
-autre mesure d'accompagnement que le président du conseil général pourrait proposer aux familles en application de l'article
-L. 222-4-1 du code de l'action sociale et des familles. 
-
-Elle communique au maire la liste des élèves domiciliés dans la commune pour lesquels un avertissement tel que défini au
-présent article a été notifié. 
-
-Les informations communiquées au maire en application du présent article sont enregistrées dans le traitement prévu à
-l'article L. 131-6. 
-
-Dans le cas où, au cours d'une même année scolaire, une nouvelle absence de l'enfant mineur d'au moins quatre demi-journées
-sur un mois est constatée en dépit de l'avertissement adressé par l'autorité de l'Etat compétente en matière d'éducation,
-cette dernière, après avoir mis les personnes responsables de l'enfant en mesure de présenter leurs observations, et en
-l'absence de motif légitime ou d'excuses valables, saisit le directeur de l'organisme débiteur des prestations familiales qui
-suspend immédiatement le versement de la part des allocations familiales dues au titre de l'enfant en cause, calculées selon
-les modalités prévues à l'article L. 552-3-1 du code de la sécurité sociale. Le directeur de l'organisme débiteur des
-prestations familiales informe l'autorité de l'Etat compétente en matière d'éducation ainsi que le président du conseil
-général de la date de mise en œuvre de cette suspension. Il informe les personnes responsables de l'enfant de cette décision
-et des dispositifs d'accompagnement parental auxquels elles peuvent avoir recours. 
-
-Le versement des allocations familiales n'est rétabli que lorsque l'autorité de l'Etat compétente en matière d'éducation a
-signalé au directeur de l'organisme débiteur des prestations familiales qu'aucun défaut d'assiduité sans motif légitime ni
-excuses valables n'a été constaté pour l'enfant en cause pendant une période d'un mois de scolarisation, éventuellement
-interrompu par des vacances scolaires, depuis le mois au titre duquel le versement des allocations familiales a été
-suspendu. 
-
-Le rétablissement du versement des allocations familiales est rétroactif. Si, depuis l'absence ayant donné lieu à la
-suspension, une ou plusieurs nouvelles absences de quatre demi-journées par mois sans motif légitime ni excuses valables ont
-été constatées, à la demande de l'autorité de l'Etat compétente en matière d'éducation et après que les personnes
-responsables de l'enfant ont été mises en mesure de présenter leurs observations, aucun versement n'est dû au titre du ou des
-mois au cours desquels ces nouvelles absences sans motif légitime ni excuses valables ont été constatées. 
-
-La suspension des allocations familiales ne peut prendre effet qu'à une date permettant de vérifier sous deux mois la
-condition de reprise d'assiduité définie aux deux alinéas précédents.
+En cas de persistance du défaut d'assiduité, le directeur de l'établissement d'enseignement réunit les membres concernés de
+la communauté éducative, au sens de l'article L. 111-3, afin de proposer aux personnes responsables de l'enfant une aide et
+un accompagnement adaptés et contractualisés avec celles-ci. Un personnel d'éducation référent est désigné pour suivre les
+mesures mises en œuvre au sein de l'établissement d'enseignement.
 
 **Liens relatifs à cet article**
 
@@ -1674,7 +1642,11 @@ condition de reprise d'assiduité définie aux deux alinéas précédents.
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Loi n°2013-108 du 31 janvier 2013 - art. unique.
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L111-3
 
 	**Anciens textes**:
 
@@ -1684,8 +1656,7 @@ condition de reprise d'assiduité définie aux deux alinéas précédents.
 ###### Article L131-9
 
 L'autorité de l'Etat compétente en matière d'éducation saisit le procureur de la République des faits constitutifs
-d'infraction aux dispositions du présent chapitre, sauf dans le cas où elle a sollicité du président du conseil général la
-mise en oeuvre d'un contrat de responsabilité parentale.
+d'infraction aux dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -1696,7 +1667,7 @@ mise en oeuvre d'un contrat de responsabilité parentale.
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Loi n°2013-108 du 31 janvier 2013 - art. unique.
 
 	**Anciens textes**:
 
