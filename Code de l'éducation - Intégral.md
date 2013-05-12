@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-04-24
+Version Consolidée au 2013-05-13
 
 # Partie législative
 
@@ -40617,13 +40617,18 @@ professionnel sont élus par catégorie à raison de :
 
 Les représentants des personnels sont élus au suffrage direct par et parmi l'ensemble des personnels des établissements
 publics à caractère scientifique, culturel et professionnel, sous réserve qu'ils remplissent les conditions requises pour
-exercer leur droit de vote par le décret prévu à l'article L. 719-2.
+exercer leur droit de vote par le décret prévu à l'article L. 719-2. 
 
-Les représentants des étudiants sont élus par et parmi les membres étudiants du conseil d'administration, du conseil
-scientifique et du conseil des études et de la vie universitaire des établissements publics à caractère scientifique,
-culturel et professionnel.
+Les représentants des étudiants sont élus parmi les membres étudiants titulaires et suppléants des conseils d'administration,
+conseils scientifiques et conseils des études et de la vie universitaire, ou des organes en tenant lieu, des établissements
+publics à caractère scientifique, culturel et professionnel. Ils sont élus par de grands électeurs désignés parmi les mêmes
+membres étudiants des conseils précités. 
 
-Nul ne dispose de plus d'une voix.
+Un arrêté du ministre chargé de l'enseignement supérieur détermine les catégories d'établissements en fonction des effectifs
+des étudiants régulièrement inscrits et les modalités de désignation des grands électeurs au sein de chaque catégorie
+d'établissements. 
+
+Nul ne dispose de plus d'une voix. 
 
 L'élection des représentants des étudiants a lieu par correspondance. Pour l'élection des représentants des personnels, le
 vote par correspondance est autorisé.
@@ -40632,13 +40637,11 @@ vote par correspondance est autorisé.
 
 	**Anciens textes**:
 
-	  - Décret n°89-1 1989-01-02 art. 3, alinéas 7 à 10
-	  - Décret n°89-1 du 2 janvier 1989 - art. 3 (M)
 	  - Décret n°89-1 du 2 janvier 1989 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Cité par**:
 
@@ -40652,9 +40655,13 @@ vote par correspondance est autorisé.
 	  - Code de l'éducation - art. D232-10 (V)
 	  - Code de l'éducation - art. D232-7 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2013-393 du 10 mai 2013 - art. 1
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L719-2 (V)
+	  - Code de l'éducation - art. L719-2
 
 
 ###### Article D232-5
@@ -40825,28 +40832,25 @@ rectification de la liste.
 
 Les listes de candidats sont nationales. Chaque liste comporte un nombre de candidats titulaires et un nombre de candidats
 suppléants égal au nombre de sièges à pourvoir. Les candidats d'une liste, titulaires ou suppléants, doivent tous être
-inscrits dans un établissement différent. Nul ne peut être candidat sur plus d'une liste. Une liste ne peut comporter ni plus
-de six candidats titulaires ni plus de six candidats suppléants inscrits dans un même cycle d'études au sens des dispositions
-des articles L. 612-1 à L. 612-7 et L. 631-1. La qualité des candidats s'apprécie à l'expiration du délai de rectification
-mentionné à l'alinéa précédent. 
+inscrits dans un établissement différent. Nul ne peut être candidat sur plus d'une liste. La qualité des candidats s'apprécie
+à l'expiration du délai de rectification mentionné à l'alinéa précédent. 
 
 Les listes de candidats doivent être déposées auprès du ministre chargé de l'enseignement supérieur au plus tard le vingtième
 jour avant l'ouverture du scrutin. Le ministre fait procéder à la vérification des conditions d'éligibilité des candidats et
 de la conformité des listes aux dispositions des articles D. 232-1 à D. 232-22. Il recueille l'avis de la commission
 nationale prévue à l'article D. 232-13 et demande, le cas échéant, la rectification des listes non conformes dans un délai
-fixé par arrêté.A l'expiration de ce délai, le ministre refuse, le cas échéant, par une décision motivée prise après avis de
+fixé par arrêté. A l'expiration de ce délai, le ministre refuse, le cas échéant, par une décision motivée prise après avis de
 la commission nationale, l'enregistrement des listes qui ne remplissent pas les conditions énoncées ci-dessus.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Décret n°89-1 1989-01-02 art. 6-1, alinéas 1 à 4
 	  - Décret n°89-1 du 2 janvier 1989 - art. 6-1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Cité par**:
 
@@ -40857,13 +40861,15 @@ la commission nationale, l'enregistrement des listes qui ne remplissent pas les 
 	  - Arrêté du 29 mars 2017 - art. 4 (V)
 	  - Arrêté du 29 mars 2017 - art. 5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2013-393 du 10 mai 2013 - art. 2
+
 	**Cite**:
 
-	  - Code de l'éducation - art. D232-1 (V)
-	  - Code de l'éducation - art. D232-13 (V)
-	  - Code de l'éducation - art. D232-4 (V)
-	  - Code de l'éducation - art. L612-1 (V)
-	  - Code de l'éducation - art. L631-1 (V)
+	  - Code de l'éducation - art. D232-1
+	  - Code de l'éducation - art. D232-13
+	  - Code de l'éducation - art. D232-4
 
 
 ###### Article D232-11
