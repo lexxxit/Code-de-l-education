@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-05-13
+Version Consolidée au 2013-05-25
 
 # Partie législative
 
@@ -6963,47 +6963,6 @@ chercheurs, des enseignants et des usagers et leur fonctionnement sont définies
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code rural - art. L814-4 (V)
-
-
-##### Chapitre IX : Le conseil territorial de l'éducation nationale et les autres instances consultatives
-
-###### Article L239-1
-
-Le Conseil territorial de l'éducation nationale est composé de représentants de l'Etat, des régions, des départements, des
-communes et des établissements publics de coopération intercommunale.
-
-Il peut être consulté sur toute question intéressant les collectivités territoriales dans le domaine éducatif. Il est tenu
-informé des initiatives prises par les collectivités territoriales et il formule toutes recommandations destinées à
-favoriser, en particulier, l'égalité des usagers devant le service public de l'éducation. Il est saisi pour avis du rapport
-d'évaluation mentionné à l'article L. 211-1. Il invite à ses travaux des représentants des personnels et des usagers.
-
-Un décret précise la composition et les règles de fonctionnement de ce conseil ainsi que les conditions de nomination de ses
-membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 76 () JORF 17 août 2004 en vigueur le 1er janvier 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Décret n°2017-778 du 4 mai 2017 (V)
-	  - Code de l'éducation - art. D239-1 (V)
-	  - Code de l'éducation - art. L232-1 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L211-1
 
 
 ##### Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.
@@ -45084,491 +45043,6 @@ code rural.
 
 #### Chapitre IX : Le Conseil territorial de l'éducation nationale et les autres instances consultatives
 
-##### Section 1 : Le Conseil territorial de l'éducation nationale
-
-###### Article D239-1
-
-Le Conseil territorial de l'éducation nationale exerce les attributions mentionnées à l'article L. 239-1.
-
-A cet effet, il émet des avis et des recommandations destinés aux services de l'Etat et aux collectivités territoriales
-concernés par le service public de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Décret n°2017-778 du 4 mai 2017 - art. 2 (V)
-	  - Code de l'éducation - art. D239-12 (Ab)
-	  - Code de l'éducation - art. D239-2 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-15 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L239-1
-
-
-##### Sous-section 1 : Composition.
-
-###### Article D239-2
-
-Le Conseil territorial de l'éducation nationale est présidé par le ministre chargé de l'éducation ou son représentant. Il
-comprend trente-six membres : 
-
-1. Outre son président, dix-sept représentants de l'Etat : 
-
-a) Neuf au titre des services centraux, désignés par les ministres concernés : 
-
-aa) Cinq représentants du ministre chargé de l'éducation ; 
-
-ab) Un représentant du ministre de l'intérieur ; 
-
-ac) Un représentant du ministre chargé de l'agriculture ; 
-
-ad) Un représentant du ministre chargé de la jeunesse et des sports ; 
-
-ae) Un représentant du ministre chargé de la mer ; 
-
-b) Huit au titre des services déconcentrés : 
-
-ba) Trois recteurs d'académie, désignés par le ministre chargé de l'éducation ; 
-
-bb) Un préfet, désigné par le ministre de l'intérieur ; 
-
-bc) Un             directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie,
-désigné par le ministre chargé de l'éducation ; 
-
-bd) Un directeur régional de l'alimentation, de l'agriculture et de la forêt, désigné par le ministre chargé de
-l'agriculture ; 
-
-be) Un directeur régional de la jeunesse et des sports, désigné par le ministre chargé de la jeunesse et des sports ; 
-
-bf) Un directeur interrégional de la mer, désigné par le ministre chargé de la mer. 
-
-2. Dix-huit représentants des collectivités territoriales : 
-
-a) Six représentants élus de conseil régional, désignés par l'Association des régions de France ; 
-
-b) Six représentants élus de conseil général, désignés par l'Assemblée des départements de France ; 
-
-c) Six représentants des maires, dont deux représentants des présidents d'établissement public de coopération intercommunale,
-désignés par l'Association des maires de France.
-
-**Nota:**
-
-Décret n° 2010-130 du 11 février 2010 article 7 : Les dispositions du présent décret, à l'exception de l'article 5, prennent
-effet dans chaque direction interrégionale de la mer à compter de la date de nomination du directeur interrégional de la mer
-(les arrêtés de nomination ont été publiés au Journal officiel du 7 avril 2010).
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Décret n°2017-778 du 4 mai 2017 - art. 3 (V)
-	  - Code de l'éducation - art. D239-10 (V)
-	  - Code de l'éducation - art. D239-12 (V)
-	  - Code de l'éducation - art. D239-6 (V)
-	  - Code de l'éducation - art. D239-7 (V)
-	  - Code de l'éducation - art. D239-8 (V)
-	  - Code de l'éducation - art. D239-9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-16 (V)
-
-
-###### Article D239-3
-
-Des membres suppléants, dont le nombre est égal à celui des titulaires, sont désignés dans les mêmes conditions que les
-membres titulaires.
-
-Un membre suppléant peut remplacer pour la durée d'une séance du conseil ou de ses commissions spécialisées un membre
-temporairement empêché.
-
-Un membre suppléant remplace à titre définitif un membre titulaire ayant perdu son mandat ou définitivement empêché d'exercer
-ses fonctions. Il est procédé au remplacement du suppléant ainsi devenu membre titulaire.
-
-Un membre suppléant ne peut siéger qu'en l'absence du membre titulaire qu'il remplace.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-17 (V)
-
-
-###### Article D239-4
-
-Les représentants de l'Etat siègent pour la durée des fonctions qui leur confèrent la qualité au titre de laquelle ils ont
-été désignés.
-
-Les représentants des collectivités territoriales siègent pour la durée du mandat au titre duquel ils ont été désignés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-18 (V)
-
-
-###### Article D239-5
-
-Le ministre chargé de l'éducation invite des représentants des personnels et des usagers du service public de l'éducation
-nationale à participer, avec voix consultative, aux débats du Conseil territorial de l'éducation nationale.
-
-A cet effet, dix titulaires et dix suppléants sont proposés par les organisations nationales représentatives des personnels
-du service public de l'éducation nationale.
-
-Trois titulaires et trois suppléants sont proposés par les organisations nationales représentatives des parents d'élèves. Un
-titulaire et un suppléant sont proposés par le conseil national de la vie lycéenne.
-
-Un arrêté du ministre chargé de l'éducation fixe la liste des organisations nationales des personnels et des usagers
-représentées au Conseil territorial de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-19 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D239-7 (Ab)
-
-
-###### Article D239-6
-
-La liste des membres titulaires et suppléants du Conseil territorial de l'éducation nationale et la liste des personnes
-invitées à participer aux débats sont fixées par arrêté du ministre chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-20 (V)
-
-
-##### Sous-section 2 : Fonctionnement.
-
-###### Article D239-7
-
-Le conseil peut constituer en son sein des commissions spécialisées selon des modalités définies par le règlement intérieur
-prévu à l'article D. 239-9 ci-dessous. Ces commissions sont notamment chargées de suivre les questions spécifiques aux
-enseignements agricole et maritime, ainsi que celles concernant le domaine éducatif relevant de la compétence du ministre
-chargé de la jeunesse et des sports.
-
-Les représentants des personnels et des usagers sont associés aux travaux des commissions dans les conditions prévues à
-l'article D. 239-5.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-21 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D239-5
-	  - Code de l'éducation - art. D239-9
-
-
-###### Article D239-8
-
-Le Conseil territorial de l'éducation nationale est convoqué en session plénière au moins une fois par an par le ministre
-chargé de l'éducation, qui fixe l'ordre du jour des réunions.
-
-Les associations et l'assemblée mentionnées au 2° de l'article D. 239-2 saisissent le ministre chargé de l'éducation des
-questions qu'elles souhaitent voir figurer à l'ordre du jour du Conseil territorial de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D239-10 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D239-2
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-22 (V)
-
-
-###### Article D239-9
-
-Le Conseil territorial de l'éducation nationale arrête son règlement intérieur, qui fixe les conditions de son fonctionnement
-et celles des commissions spécialisées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D239-23 (Ab)
-	  - Code de l'éducation - art. D239-7 (V)
-
-
-###### Article D239-10
-
-Le Conseil territorial de l'éducation nationale siège valablement si la moitié au moins des membres ou de leurs suppléants
-sont présents.
-
-L'adoption des avis et recommandations se fait à la majorité simple et à main levée.
-
-Si le quart, au moins, des membres présents ou représentés par leur suppléant demande un vote à bulletin secret, il est fait
-droit à cette demande pour la question concernée.
-
-La voix du président est prépondérante en cas d'égalité de vote.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-24 (V)
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D239-9 (T)
-
-
-###### Article D239-11
-
-Les séances du Conseil territorial de l'éducation nationale ne sont pas publiques.
-
-Le Conseil territorial de l'éducation nationale peut toutefois solliciter la présence d'experts des questions inscrites à
-l'ordre du jour.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-591 du 6 mai 1995 - art. 1 (Ab)
-	  - Décret n°95-591 du 6 mai 1995 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-25 (V)
-
-
-###### Article D239-12
-
-Les avis et recommandations du Conseil territorial de l'éducation nationale sont adressés aux services et collectivités
-intéressés mentionnés au deuxième alinéa de l'article D. 239-1 dans le délai d'un mois suivant la date de sa délibération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-591 du 6 mai 1995 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D239-1
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-26 (V)
-
-
-###### Article D239-13
-
-Le secrétariat des séances et la diffusion des convocations, documents de travail et procès-verbaux sont assurés par les
-services du ministère chargé de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-591 du 6 mai 1995 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-27 (V)
-
-
-###### Article D239-14
-
-Les fonctions de membre et d'invité du Conseil territorial de l'éducation nationale sont exercées à titre gratuit. Elles
-ouvrent droit aux indemnités pour frais de déplacement et de séjour dans les conditions prévues pour les fonctionnaires et
-agents de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°95-591 du 6 mai 1995 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Modifié par**:
-
-	  - Décret n°2005-457 du 13 mai 2005 - art. 1 () JORF 14 mai 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-420 du 23 mai 2013 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de l'éducation - art. D239-28 (V)
-
-
 ##### Section 2 : La Commission nationale pour l'éducation, la science et la culture.
 
 ###### Article D239-15
@@ -50743,15 +50217,11 @@ consultations nécessaires et collabore avec les services chargés de l'emploi d
 Les modalités de fonctionnement et d'organisation des centres sont fixées par arrêté du ministre chargé de l'éducation et du
 ministre chargé du budget.
 
-Cet arrêté fixe notamment les attributions et la composition du conseil de perfectionnement institué auprès de chaque centre
-d'information et d'orientation.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°55-1342 du 10 octobre 1955 - art. 6 (Ab)
-	  - Décret n°71-541 1971-07-07 art. 5, alinéa 3
 
 	**Cité par**:
 
@@ -50759,7 +50229,11 @@ d'information et d'orientation.
 
 	**Codifié par**:
 
-	  - Décret n°2006-583 2006-05-23 JORF 24 mai 2006
+	  - Décret n°2006-583 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 3 (V)
 
 
 ###### Article D313-9
@@ -57303,24 +56777,7 @@ désignent un nombre égal de suppléants des représentants des parents d'élè
 
 2° Les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les alinéas suivants : 
 
-" L'affectation est de la compétence du chef du service de l'éducation nationale. Il est assisté d'une commission
-préparatoire à l'affectation des élèves dont la composition est fixée comme suit : 
-
-"-un représentant du chef du service de l'éducation nationale, président ; 
-
-"-le directeur du centre d'information et d'orientation ; 
-
-"-le proviseur du lycée ; 
-
-"-le chef des travaux du lycée professionnel ; 
-
-"-trois enseignants ; 
-
-"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
-
-" Les membres de la commission sont nommés par le chef du service de l'éducation nationale pour une durée d'un an
-renouvelable, sur proposition des associations pour les représentants des parents d'élèves. Dans les mêmes conditions, le
-chef du service de l'éducation nationale désigne un nombre égal de suppléants des représentants des parents d'élèves. 
+" L'affectation est de la compétence du chef du service de l'éducation nationale. 
 
 " La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du chef du service de
 l'éducation nationale. 
@@ -57328,8 +56785,8 @@ l'éducation nationale.
 " Le changement d'établissement en cours de cycle de formation est autorisé par le chef du service de l'éducation nationale.
 L'élève est scolarisé dans la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-3° Dans l'article D. 331-42, les mots : "   directeur académique des services de l'éducation nationale agissant sur
-délégation du recteur d'académie " sont remplacés par les mots : " chef du service de l'éducation nationale ". 
+3° Dans l'article D. 331-42, les mots : " directeur académique des services de l'éducation nationale agissant sur délégation
+du recteur d'académie " sont remplacés par les mots : " chef du service de l'éducation nationale ". 
 
 4° Le deuxième alinéa de l'article D. 331-43 est modifié ainsi qu'il suit : 
 
@@ -57355,15 +56812,14 @@ préparatoire à l'affectation : Saint-Pierre-et-Miquelon).
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Décret n°2013-420 du 23 mai 2013 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35
-	  - Code de l'éducation - art. D331-38
-	  - Code de l'éducation - art. D331-42
-	  - Code de l'éducation - art. D331-43
-	  - Code de l'éducation - art. D331-44
+	  - Code de l'éducation - art. D331-35 (V)
+	  - Code de l'éducation - art. D331-38 (V)
+	  - Code de l'éducation - art. D331-42 (V)
+	  - Code de l'éducation - art. D331-43 (V)
 
 
 ##### Sous-section 2 : La procédure d'orientation et d'affectation des élèves dans les établissements d'enseignement privés sous contrat.
@@ -73763,31 +73219,15 @@ pas situé dans le ressort de la sous-commission. "
 II.-Pour leur application dans les îles Wallis et Futuna, les deuxième et troisième alinéas de l'article D. 331-38 sont
 remplacés par les alinéas suivants : 
 
-" L'affectation est de la compétence du vice-recteur. Il est assisté d'une commission préparatoire à l'affectation des élèves
-dont la composition est fixée comme suit : 
+" L'affectation est de la compétence du vice-recteur. 
 
 "-un représentant du vice-recteur, président ; 
-
-"-les chefs des établissements scolaires d'accueil ; 
-
-"-deux chefs d'établissements scolaires d'origine ; 
-
-"-un directeur de centre d'information et d'orientation ou son représentant ; 
-
-"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
-
-" Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
-associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, le vice-recteur désigne un nombre égal de
-suppléants des représentants des parents d'élèves. 
-
-" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le vice-recteur. L'élève est scolarisé dans
 la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-III.-Pour l'application dans les îles Wallis et Futuna de l'article D. 331-42, les mots : "   directeur académique des
-services de l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : " vice-recteur
-". 
+III.-Pour l'application dans les îles Wallis et Futuna de l'article D. 331-42, les mots : " directeur académique des services
+de l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : " vice-recteur ". 
 
 IV.-Pour son application dans les îles Wallis et Futuna, le deuxième alinéa de l'article D. 331-43 est remplacé par les
 dispositions suivantes : 
@@ -73818,14 +73258,13 @@ préparatoire à l'affectation : Wallis et Futuna).
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Décret n°2013-420 du 23 mai 2013 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35
-	  - Code de l'éducation - art. D331-38
-	  - Code de l'éducation - art. D331-42
-	  - Code de l'éducation - art. D331-43
+	  - Code de l'éducation - art. D331-35 (V)
+	  - Code de l'éducation - art. D331-38 (V)
+	  - Code de l'éducation - art. D331-42 (V)
 
 
 ###### Article D371-5
@@ -74009,30 +73448,12 @@ pas situé dans le ressort de la sous-commission. "
 II.-Pour leur application à Mayotte, les deuxième et troisième alinéas de l'article D. 331-38 sont remplacés par les alinéas
 suivants : 
 
-" L'affectation est de la compétence du vice-recteur. Il est assisté d'une commission préparatoire à l'affectation des élèves
-dont la composition est fixée comme suit : 
-
-"-un représentant du vice-recteur, président ; 
-
-"-les chefs des établissements scolaires d'accueil ; 
-
-"-deux chefs d'établissements scolaires d'origine ; 
-
-"-un directeur de centre d'information et d'orientation ou son représentant ; 
-
-"-deux représentants des parents d'élèves de l'enseignement public, au titre des associations les plus représentatives. 
-
-" Les membres de la commission sont nommés par le vice-recteur pour une durée d'un an renouvelable, sur proposition des
-associations en ce qui concerne les parents d'élèves. Dans les mêmes conditions, le vice-recteur désigne un nombre égal de
-suppléants des représentants des parents d'élèves. 
-
-" La commission réalise les travaux préalables à l'affectation des élèves et les propose à la décision du vice-recteur ou du
-chef du service de l'éducation nationale. 
+" L'affectation est de la compétence du vice-recteur. 
 
 " Le changement d'établissement en cours de cycle de formation est autorisé par le vice-recteur. L'élève est scolarisé dans
 la même voie d'orientation et compte tenu de la formation déjà reçue. " 
 
-III.-Pour l'application à Mayotte de l'article D. 331-42, les mots : "   directeur académique des services de l'éducation
+III.-Pour l'application à Mayotte de l'article D. 331-42, les mots : " directeur académique des services de l'éducation
 nationale agissant sur délégation du recteur d'académie " sont remplacés par le mot : 
 
 " vice-recteur ". 
@@ -74065,14 +73486,14 @@ préparatoire à l'affectation : Mayotte).
 
 	**Modifié par**:
 
-	  - Décret n°2012-16 du 5 janvier 2012 - art. 7 (VD)
+	  - Décret n°2013-420 du 23 mai 2013 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. D331-35
-	  - Code de l'éducation - art. D331-38
-	  - Code de l'éducation - art. D331-42
-	  - Code de l'éducation - art. D331-43
+	  - Code de l'éducation - art. D331-35 (V)
+	  - Code de l'éducation - art. D331-38 (V)
+	  - Code de l'éducation - art. D331-42 (V)
+	  - Code de l'éducation - art. D331-43 (V)
 
 
 ###### Article D372-5
