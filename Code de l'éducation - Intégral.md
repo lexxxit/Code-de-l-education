@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-06-12
 
 # Partie législative
 
@@ -38446,26 +38446,54 @@ de division du rectorat.
 
 ###### Article D222-23-1
 
-Pendant l'intérim du recteur et sauf décision contraire du ou des fonctionnaires assurant l'intérim, les délégations de
-signature données par le précédent recteur sont maintenues jusqu'à la nomination d'un nouveau recteur.
+Les recteurs des académies de Créteil, Paris et Versailles peuvent donner délégation au directeur et au secrétaire général du
+service interacadémique des examens et concours pour signer les actes relatifs à la procédure disciplinaire applicable aux
+candidats au baccalauréat prévus par les dispositions des articles D. 334-28 à D. 334-30 ainsi que les actes correspondants
+pris en application des articles D. 336-22-1 et D. 337-94-1.
+
+**Nota:**
+
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en  vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux faits  commis antérieurement à cette date. Ceux-ci relèvent des dispositions  des articles D. 334-25 à
+D. 334-34, R. 334-35, D. 336-22-1 et D.  337-94-1 dans leur rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2007-1540 du 26 octobre 2007 - art. 2 () JORF 28 octobre 2007
+	  - Décret n°2004-703 du 13 juillet 2004
 
 	**Cité par**:
 
 	  - Décret n°2007-1540 du 26 octobre 2007 - art. 3 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2013-469 du 5 juin 2013 - art. 2
+	  - Décret n°2013-469 du 5 juin 2013 - art. 2
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-28
+	  - Code de l'éducation - art. D336-22-1
+	  - Code de l'éducation - art. D337-94-1
+
+
+###### Article D222-23-2
+
+Pendant l'intérim du recteur et sauf décision contraire du ou des fonctionnaires assurant l'intérim, les délégations de
+signature données par le précédent recteur sont maintenues jusqu'à la nomination d'un nouveau recteur.
+
+**Nota:**
+
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en  vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux faits  commis antérieurement à cette date. Ceux-ci relèvent des dispositions  des articles D. 334-25 à
+D. 334-34, R. 334-35, D. 336-22-1 et D.  337-94-1 dans leur rédaction antérieure au présent décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-469 du 5 juin 2013 - art. 2
 
 
 ###### Article R*222-13
@@ -59261,13 +59289,14 @@ susvisé dans sa rédaction antérieure au présent décret
 
 ###### Article D334-26
 
-La commission de discipline du baccalauréat est présidée par un professeur des universités qui a été nommé en qualité de
-président du jury du baccalauréat, désigné par le recteur, chancelier des universités. Le président ne peut siéger au sein de
-la commission lorsque l'élève qui fait l'objet d'une procédure disciplinaire a été évalué par le jury qu'il a présidé.
+La commission de discipline du baccalauréat est présidée par un enseignant-chercheur  qui a été nommé en qualité de président
+du jury du baccalauréat, désigné par le recteur, chancelier des universités. Le président ne peut siéger au sein de la
+commission lorsque l'élève qui fait l'objet d'une procédure disciplinaire a été évalué par le jury qu'il a présidé.
 
 Cette commission comprend, outre son président, les personnes suivantes nommées par le recteur :
 
-1° Deux inspecteurs d'académie-inspecteurs pédagogiques régionaux, dont un est désigné comme vice-président ;
+1° Un inspecteur d'académie-inspecteur pédagogique régional et un inspecteur de l'éducation nationale, l'un des deux étant
+désigné comme vice-président ;
 
 2° Un chef de centre des épreuves du baccalauréat ;
 
@@ -59285,20 +59314,19 @@ Pour chaque membre de la commission, un suppléant est désigné dans les mêmes
 
 En l'absence de son président et du suppléant de ce dernier, la commission est présidée par son vice-président.
 
+La commission de discipline du baccalauréat est assistée d'un secrétaire mis à sa disposition par le recteur.
+
 **Nota:**
 
-Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
-s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
-susvisé dans sa rédaction antérieure au présent décret. 
-
-Pour la session 2012, l'élève de terminale mentionné au 5° de l'article D. 334-26, dans sa rédaction résultant du présent
-décret, est désigné directement par le recteur parmi les élèves de terminale élus au conseil académique de la vie lycéenne.
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions des articles D. 334-25 à D.
+334-34, R. 334-35, D. 336-22-1 et D. 337-94-1 dans leur rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+	  - Décret n°2013-469 du 5 juin 2013 - art. 3
 
 
 ###### Article D334-27
@@ -59418,8 +59446,9 @@ susvisé dans sa rédaction antérieure au présent décret
 
 ###### Article D334-31
 
-Seules les personnes composant la commission de discipline du baccalauréat ont accès à la salle des délibérations. Nul ne
-peut délibérer s'il n'a assisté à la totalité de la séance.
+Seules les personnes composant la commission de discipline du baccalauréat et celle qui en assure le secrétariat  ont accès à
+la salle des délibérations. Aucun des membres de la commission  ne peut délibérer s'il n'a assisté à la totalité de la
+séance.
 
 La commission ne peut valablement délibérer que si quatre membres au moins sont présents. Le vote a lieu à bulletin secret.
 
@@ -59436,22 +59465,22 @@ transmise aux ministres chargés de l'éducation nationale et de l'enseignement 
 
 **Nota:**
 
-Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
-s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
-susvisé dans sa rédaction antérieure au présent décret
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en  vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux faits  commis antérieurement à cette date. Ceux-ci relèvent des dispositions  des articles D. 334-25 à
+D. 334-34, R. 334-35, D. 336-22-1 et D.  337-94-1 dans leur rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+	  - Décret n°2013-469 du 5 juin 2013 - art. 4
 
 
 ###### Article D334-32
 
 Les sanctions disciplinaires qui peuvent être prononcées par la commission de discipline du baccalauréat sont :
 
-1° Le blâme avec inscription au livret scolaire, s'il existe ;
+1° Le blâme ;
 
 2° La privation de toute mention portée sur le diplôme délivré au candidat admis ;
 
@@ -59462,17 +59491,21 @@ cinq ans. Cette sanction peut être prononcée avec sursis si l'interdiction n'e
 4° L'interdiction de prendre toute inscription dans un établissement public dispensant des formations post-baccalauréat pour
 une durée maximum de cinq ans.
 
+Toute sanction prononcée en vertu du présent article peut être assortie d'une inscription au livret scolaire, s'il existe.
+Dans les cas du blâme et de la privation de mention, ces inscriptions sont effacées au terme d'une période d'un an après leur
+prononcé. Dans le cas des autres sanctions, l'effacement intervient au terme de la période d'interdiction qui est prononcée.
+
 **Nota:**
 
-Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
-s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
-susvisé dans sa rédaction antérieure au présent décret
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en   vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux  faits  commis antérieurement à cette date. Ceux-ci relèvent des  dispositions  des articles D. 334-25 à
+D. 334-34, R. 334-35, D. 336-22-1  et D.  337-94-1 dans leur rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+	  - Décret n°2013-469 du 5 juin 2013 - art. 5
 
 	**Cité par**:
 
@@ -59508,23 +59541,34 @@ susvisé dans sa rédaction antérieure au présent décret
 
 ###### Article D334-34
 
-Lorsqu'un candidat fait l'objet de poursuites disciplinaires, il ne peut lui être délivré un relevé de notes ou un certificat
-de réussite avant que la commission de discipline du baccalauréat ait statué.
+Lorsqu'un candidat fait l'objet de poursuites disciplinaires dans le cas de fraude ou de tentative de fraude flagrante
+commise à l'occasion du baccalauréat, il ne peut lui être délivré un relevé de notes ou un certificat de réussite avant que
+la commission de discipline du baccalauréat ait statué. En cas de nullité de l'épreuve, du groupe d'épreuves ou de la session
+d'examen prononcée par la commission de discipline du baccalauréat dans les conditions prévues par l'article D. 334-33, le
+recteur saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé. 
 
-En cas de nullité de l'épreuve ou du groupe d'épreuves prononcée par la commission de discipline du baccalauréat, le recteur
-saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
+Lorsqu'une fraude est découverte postérieurement à la délivrance du baccalauréat, le recteur engage les poursuites devant la
+commission de discipline du baccalauréat dans les conditions prévues par les articles D. 334-28 à D. 334-30. Si la sanction
+prononcée en application de l'article D. 334-32 implique que le jury se prononce à nouveau, le recteur retire le diplôme du
+baccalauréat et saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
 
 **Nota:**
 
-Décret n° 2012-640 du 3 mai 2012 article 7 : Le présent décret entrera en vigueur le 1er juin 2012. Ses dispositions ne
-s'appliquent pas aux faits commis antérieurement à cette date. Ceux-ci relèvent des dispositions du décret du 13 juillet 1992
-susvisé dans sa rédaction antérieure au présent décret
+Décret n° 2013-469 du 5 juin 2013 article 7 : Le présent décret entre en    vigueur le 12 juin 2013. Ses dispositions ne
+s'appliquent pas aux   faits  commis antérieurement à cette date. Ceux-ci relèvent des   dispositions  des articles D. 334-25
+à D. 334-34, R. 334-35, D. 336-22-1   et D.  337-94-1 dans leur rédaction antérieure au présent décret.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-640 du 3 mai 2012 - art. 2
+	  - Décret n°2013-469 du 5 juin 2013 - art. 6
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D334-28
+	  - Code de l'éducation - art. D334-32
+	  - Code de l'éducation - art. D334-33
 
 
 ###### Article R334-35
