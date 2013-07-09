@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-06-12
+Version Consolidée au 2013-07-10
 
 # Partie législative
 
@@ -14,12 +14,17 @@ Version Consolidée au 2013-06-12
 ###### Article L111-1
 
 L'éducation est la première priorité nationale. Le service public de l'éducation est conçu et organisé en fonction des élèves
-et des étudiants. Il contribue à l'égalité des chances.
+et des étudiants. Il contribue à l'égalité des chances et à lutter contre les inégalités sociales et territoriales en matière
+de réussite scolaire et éducative. Il reconnaît que tous les enfants partagent la capacité d'apprendre et de progresser. Il
+veille à l'inclusion scolaire de tous les enfants, sans aucune distinction. Il veille également à la mixité sociale des
+publics scolarisés au sein des établissements d'enseignement. Pour garantir la réussite de tous, l'école se construit avec la
+participation des parents, quelle que soit leur origine sociale. Elle s'enrichit et se conforte par le dialogue et la
+coopération entre tous les acteurs de la communauté éducative.
 
 Outre la transmission des connaissances, la Nation fixe comme mission première à l'école de faire partager aux élèves les
-valeurs de la République.
-
-L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue française.
+valeurs de la République. Le service public de l'éducation fait acquérir à tous les élèves le respect de l'égale dignité des
+êtres humains, de la liberté de conscience et de la laïcité. Par son organisation et ses méthodes, comme par la formation des
+maîtres qui y enseignent, il favorise la coopération entre les élèves. 
 
 Dans l'exercice de leurs fonctions, les personnels mettent en oeuvre ces valeurs.
 
@@ -34,6 +39,8 @@ Elle a pour but de renforcer l'encadrement des élèves dans les écoles et éta
 d'environnement social défavorisé et des zones d'habitat dispersé, et de permettre de façon générale aux élèves en
 difficulté, quelle qu'en soit l'origine, en particulier de santé, de bénéficier d'actions de soutien individualisé.
 
+L'école garantit à tous les élèves l'apprentissage et la maîtrise de la langue française.
+
 L'acquisition d'une culture générale et d'une qualification reconnue est assurée à tous les jeunes, quelle que soit leur
 origine sociale, culturelle ou géographique.
 
@@ -41,13 +48,12 @@ origine sociale, culturelle ou géographique.
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 du 10 juillet 1989 - art. 1, v. init.
 	  - Loi n°89-486 du 10 juillet 1989 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -68,7 +74,20 @@ origine sociale, culturelle ou géographique.
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 1 () JORF 2 avril 2006
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 2
+
+
+###### Article L111-1-1
+
+La devise de la République, le drapeau tricolore et le drapeau européen sont apposés sur la façade des écoles et des
+établissements d'enseignement du second degré publics et privés sous contrat. La Déclaration des droits de l'homme et du
+citoyen du 26 août 1789 est affichée de manière visible dans les locaux des mêmes écoles et établissements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 3
 
 
 ###### Article L111-2
@@ -76,8 +95,10 @@ origine sociale, culturelle ou géographique.
 Tout enfant a droit à une formation scolaire qui, complétant l'action de sa famille, concourt à son éducation.
 
 La formation scolaire favorise l'épanouissement de l'enfant, lui permet d'acquérir une culture, le prépare à la vie
-professionnelle et à l'exercice de ses responsabilités d'homme et de citoyen. Elle constitue la base de l'éducation
-permanente. Les familles sont associées à l'accomplissement de ces missions.
+professionnelle et à l'exercice de ses responsabilités d'homme et de citoyen. Elle prépare à l'éducation et à la formation
+tout au long de la vie. Elle développe les connaissances, les compétences et la culture nécessaires à l'exercice de la
+citoyenneté dans la société contemporaine de l'information et de la communication. Elle favorise l'esprit d'initiative. Les
+familles sont associées à l'accomplissement de ces missions.
 
 Pour favoriser l'égalité des chances, des dispositions appropriées rendent possible l'accès de chacun, en fonction de ses
 aptitudes et de ses besoins particuliers, aux différents types ou niveaux de la formation scolaire.
@@ -92,12 +113,12 @@ L'Etat garantit le respect de la personnalité de l'enfant et de l'action éduca
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 19 () JORF 12 février 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 4
 
 	**Cité par**:
 
@@ -113,24 +134,24 @@ L'Etat garantit le respect de la personnalité de l'enfant et de l'action éduca
 Dans chaque école, collège ou lycée, la communauté éducative rassemble les élèves et tous ceux qui, dans l'établissement
 scolaire ou en relation avec lui, participent à l'accomplissement de ses missions.
 
-Elle réunit les personnels des écoles et établissements, les parents d'élèves, les collectivités territoriales ainsi que les
-acteurs institutionnels, économiques et sociaux, associés au service public de l'éducation.
+Elle réunit les personnels des écoles et établissements, les parents d'élèves, les collectivités territoriales, les
+associations éducatives complémentaires de l'enseignement public ainsi que les acteurs institutionnels, économiques et
+sociaux, associés au service public de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 du 10 juillet 1989 - art. 1, v. init.
 	  - Loi n°89-486 du 10 juillet 1989 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 3 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 5
 
 	**Cité par**:
 
@@ -459,8 +480,14 @@ pas atteint l'âge de la scolarité obligatoire.
 Tout enfant doit pouvoir être accueilli, à l'âge de trois ans, dans une école maternelle ou une classe enfantine le plus près
 possible de son domicile, si sa famille en fait la demande.
 
-L'accueil des enfants de deux ans est étendu en priorité dans les écoles situées dans un environnement social défavorisé, que
-ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'outre-mer.
+Dans les classes enfantines ou les écoles maternelles, les enfants peuvent être accueillis dès l'âge de deux ans révolus dans
+des conditions éducatives et pédagogiques adaptées à leur âge visant leur développement moteur, sensoriel et cognitif,
+précisées par le ministre chargé de l'éducation nationale. Cet accueil donne lieu à un dialogue avec les familles. Il est
+organisé en priorité dans les écoles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines,
+rurales ou de montagne et dans les régions d'outre-mer.
+
+Dans ces classes et ces écoles, les enfants de moins de trois ans sont comptabilisés dans les prévisions d'effectifs d'élèves
+pour la rentrée.
 
 **Liens relatifs à cet article**
 
@@ -471,12 +498,8 @@ ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'o
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 4 () JORF 24 avril 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -493,6 +516,10 @@ ce soit dans les zones urbaines, rurales ou de montagne et dans les régions d'o
 	  - Code de l'éducation - art. L451-1 (M)
 	  - Code de l'éducation - art. R451-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 8
+
 
 #### Titre II : Objectifs et missions du service public de l'enseignement
 
@@ -506,10 +533,10 @@ femmes, notamment en matière d'orientation. Ils concourent à l'éducation à l
 prévention de la délinquance. Ils assurent une formation à la connaissance et au respect des droits de la personne ainsi qu'à
 la compréhension des situations concrètes qui y portent atteinte. Ils dispensent une formation adaptée dans ses contenus et
 ses méthodes aux évolutions économiques, sociales et culturelles du pays et de son environnement européen et international.
-Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. Les enseignements
-artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de tous les élèves. Dans
-l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants. Les écoles, les collèges et les
-lycées assurent une mission d'information sur les violences et une éducation à la sexualité.
+Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. L'éducation
+artistique et culturelle ainsi que l'éducation physique et sportive concourent directement à la formation de tous les élèves.
+Dans l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants. Les écoles, les collèges et
+les lycées assurent une mission d'information sur les violences et une éducation à la sexualité.
 
 **Liens relatifs à cet article**
 
@@ -519,7 +546,7 @@ lycées assurent une mission d'information sur les violences et une éducation �
 
 	**Modifié par**:
 
-	  - Loi n°2010-121 du 8 février 2010 - art. 3
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 10
 
 	**Cité par**:
 
@@ -535,10 +562,10 @@ lycées assurent une mission d'information sur les violences et une éducation �
 
 ###### Article L121-2
 
-La lutte contre l'illettrisme constitue une priorité nationale. Cette priorité est prise en compte par le service public de
-l'éducation ainsi que par les personnes publiques et privées qui assurent une mission de formation ou d'action sociale. Tous
-les services publics contribuent de manière coordonnée à la lutte contre l'illettrisme dans leurs domaines d'action
-respectifs.
+La lutte contre l'illettrisme et l'innumérisme constitue une priorité nationale. Cette priorité est prise en compte par le
+service public de l'éducation ainsi que par les personnes publiques et privées qui assurent une mission de formation ou
+d'action sociale. Tous les services publics contribuent de manière coordonnée à la lutte contre l'illettrisme et
+l'innumérisme dans leurs domaines d'action respectifs.
 
 **Liens relatifs à cet article**
 
@@ -548,8 +575,12 @@ respectifs.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 9
 
 	**Cité par**:
 
@@ -614,38 +645,98 @@ perfectionnement et à son adaptation au cours de la vie professionnelle.
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
 
 
+###### Article L121-4-1
+
+I. ― Au titre de sa mission d'éducation à la citoyenneté, le service public de l'éducation prépare les élèves à vivre en
+société et à devenir des citoyens responsables et libres, conscients des principes et des règles qui fondent la démocratie.
+Les enseignements mentionnés à l'article L. 312-15 et les actions engagées dans le cadre du comité prévu à l'article L. 421-8
+relèvent de cette mission. 
+
+II. ― Le champ de la mission de promotion de la santé à l'école comprend : 
+
+1° La mise en place d'un environnement scolaire favorable à la santé ; 
+
+2° L'élaboration, la mise en œuvre et l'évaluation de programmes d'éducation à la santé destinés à développer les
+connaissances des élèves à l'égard de leur santé et de celle des autres ; 
+
+3° La participation à la politique de prévention sanitaire mise en œuvre en faveur des enfants et des adolescents, aux
+niveaux national, régional et départemental ; 
+
+4° La réalisation des examens médicaux et des bilans de santé définis dans le cadre de la politique de la santé en faveur des
+enfants et des adolescents ainsi que ceux nécessaires à la définition des conditions de scolarisation des élèves ayant des
+besoins particuliers ; 
+
+5° La détection précoce des problèmes de santé ou des carences de soins pouvant entraver la scolarité ; 
+
+6° L'accueil, l'écoute, l'accompagnement et le suivi individualisé des élèves ; 
+
+7° La participation à la veille épidémiologique par le recueil et l'exploitation de données statistiques. 
+
+La promotion de la santé à l'école telle que définie aux 1° à 7° du présent II relève en priorité des médecins et infirmiers
+de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 12
+
+	**Cité par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 116
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 3
+	  - Code de l'éducation - art. L163-1 (V)
+	  - Code de l'éducation - art. L164-1 (V)
+	  - Code de l'éducation - art. L541-1 (V)
+	  - Code de la santé publique - art. L2325-1 (V)
+	  - Code rural et de la pêche maritime - art. L811-1 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L312-15 (V)
+	  - Code de l'éducation - art. L421-8 (V)
+
+
 ###### Article L121-5
 
 L'éducation physique et sportive et le sport scolaire et universitaire contribuent à la rénovation du système éducatif, à la
-lutte contre l'échec scolaire et à la réduction des inégalités sociales et culturelles.
+lutte contre l'échec scolaire, à l'éducation à la santé et à la citoyenneté et à la réduction des inégalités sociales et
+culturelles. Les contenus et l'enseignement de l'éducation physique et sportive sont de la responsabilité de l'éducation
+nationale. Le sport scolaire participe de la nécessaire complémentarité avec les pratiques périscolaires et extrascolaires en
+lien avec les projets éducatifs territoriaux et les partenariats avec le mouvement sportif associatif.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 2
 	  - Loi n°84-610 du 16 juillet 1984 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 11
 
 	**Nouveaux textes**:
 
 	  - Code du sport. - art. L100-1 (M)
-	  - Code du sport. - art. L100-1 (V)
 
 
 ###### Article L121-6
 
-Les enseignements artistiques contribuent à l'épanouissement des aptitudes individuelles et à l'égalité d'accès à la culture.
-Ils favorisent la connaissance du patrimoine culturel ainsi que sa conservation et participent au développement de la
-création et des techniques d'expression artistiques.
+L'éducation artistique et culturelle contribue à l'épanouissement des aptitudes individuelles et à l'égalité d'accès à la
+culture. Elle favorise la connaissance du patrimoine culturel et de la création contemporaine et participe au développement
+de la créativité et des pratiques artistiques. L'éducation artistique et culturelle est principalement fondée sur les
+enseignements artistiques. Elle comprend également un parcours pour tous les élèves tout au long de leur scolarité dont les
+modalités sont fixées par les ministres chargés de l'éducation nationale et de la culture. Ce parcours est mis en œuvre
+localement ; des acteurs du monde culturel et artistique et du monde associatif peuvent y être associés.
 
-Ils portent sur l'histoire de l'art et sur la théorie et la pratique des disciplines artistiques, en particulier de la
-musique instrumentale et vocale, des arts plastiques, de l'architecture, du théâtre, du cinéma, de l'expression
-audiovisuelle, des arts du cirque, des arts du spectacle, de la danse et des arts appliqués.
+Les enseignements artistiques portent sur l'histoire de l'art et sur la théorie et la pratique des disciplines artistiques,
+en particulier de la musique instrumentale et vocale, des arts plastiques et visuels, de l'architecture, du théâtre, du
+cinéma, de l'expression audiovisuelle, des arts du cirque, des arts du spectacle, de la danse et des arts appliqués.
 
 Les enseignements artistiques font partie intégrante de la formation scolaire primaire et secondaire. Ils font également
 l'objet d'enseignements spécialisés et d'un enseignement supérieur.
@@ -658,8 +749,12 @@ l'objet d'enseignements spécialisés et d'un enseignement supérieur.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 10
 
 	**Cité par**:
 
@@ -693,30 +788,17 @@ enseignement de technologie.
 
 ###### Article L122-1-1
 
-La scolarité obligatoire doit au moins garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun
-constitué d'un ensemble de connaissances et de compétences qu'il est indispensable de maîtriser pour accomplir avec succès sa
-scolarité, poursuivre sa formation, construire son avenir personnel et professionnel et réussir sa vie en société. Ce socle
-comprend :
-
-- la maîtrise de la langue française ;
-
-- la maîtrise des principaux éléments de mathématiques ;
-
-- une culture humaniste et scientifique permettant le libre exercice de la citoyenneté ;
-
-- la pratique d'au moins une langue vivante étrangère ;
-
-- la maîtrise des techniques usuelles de l'information et de la communication.
-
-Ces connaissances et compétences sont précisées par décret pris après avis du Haut Conseil de l'éducation.
+La scolarité obligatoire doit garantir à chaque élève les moyens nécessaires à l'acquisition d'un socle commun de
+connaissances, de compétences et de culture, auquel contribue l'ensemble des enseignements dispensés au cours de la
+scolarité. Le socle doit permettre la poursuite d'études, la construction d'un avenir personnel et professionnel et préparer
+à l'exercice de la citoyenneté. Les éléments de ce socle commun et les modalités de son acquisition progressive sont fixés
+par décret, après avis du Conseil supérieur des programmes.
 
 L'acquisition du socle commun par les élèves fait l'objet d'une évaluation, qui est prise en compte dans la poursuite de la
 scolarité.
 
 Le Gouvernement présente tous les trois ans au Parlement un rapport sur la manière dont les programmes prennent en compte le
-socle commun et sur la maîtrise de celui-ci par les élèves au cours de leur scolarité obligatoire.
-
-Parallèlement à l'acquisition du socle commun, d'autres enseignements sont dispensés au cours de la scolarité obligatoire.
+socle commun et sur la maîtrise de celui-ci par les élèves au cours de leur scolarité.
 
 **Liens relatifs à cet article**
 
@@ -747,21 +829,26 @@ Parallèlement à l'acquisition du socle commun, d'autres enseignements sont dis
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 9 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 13
 
 
 ###### Article L122-2
 
-Tout élève qui, à l'issue de la scolarité obligatoire, n'a pas atteint un niveau de formation reconnu doit pouvoir poursuivre
-des études afin d'atteindre un tel niveau. L'Etat prévoit les moyens nécessaires, dans l'exercice de ses compétences, à la
-prolongation de scolarité qui en découle.
+Tout élève qui, à l'issue de la scolarité obligatoire, n'a pas atteint un niveau de formation sanctionné par un diplôme
+national ou un titre professionnel enregistré et classé au niveau V du répertoire national des certifications
+professionnelles doit pouvoir poursuivre des études afin d'acquérir ce diplôme ou ce titre. L'Etat prévoit les moyens
+nécessaires, dans l'exercice de ses compétences, à la prolongation de scolarité qui en découle. 
 
-Tout mineur non émancipé dispose du droit de poursuivre sa scolarité au-delà de l'âge de seize ans.
+Tout jeune sortant du système éducatif sans diplôme bénéficie d'une durée complémentaire de formation qualifiante qu'il peut
+utiliser dans des conditions fixées par décret. Cette durée complémentaire de formation qualifiante peut consister en un
+droit au retour en formation initiale sous statut scolaire. 
+
+Tout mineur non émancipé dispose du droit de poursuivre sa scolarité au-delà de l'âge de seize ans. 
 
 Lorsque les personnes responsables d'un mineur non émancipé s'opposent à la poursuite de sa scolarité au-delà de l'âge de
 seize ans, une mesure d'assistance éducative peut être ordonnée dans les conditions prévues aux articles 375 et suivants du
@@ -769,18 +856,14 @@ code civil afin de garantir le droit de l'enfant à l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°89-486 du 10 juillet 1989 - art. 3 (M)
-
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 10 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 14
 
 	**Cité par**:
 
@@ -795,7 +878,7 @@ code civil afin de garantir le droit de l'enfant à l'éducation.
 
 	**Cite**:
 
-	  - Code civil - art. 375 (M)
+	  - Code civil - art. 375 (VT)
 
 
 ###### Article L122-3
@@ -1339,8 +1422,9 @@ longue.
 
 Le droit de l'enfant à l'instruction a pour objet de lui garantir, d'une part, l'acquisition des instruments fondamentaux du
 savoir, des connaissances de base, des éléments de la culture générale et, selon les choix, de la formation professionnelle
-et technique et, d'autre part, l'éducation lui permettant de développer sa personnalité, d'élever son niveau de formation
-initiale et continue, de s'insérer dans la vie sociale et professionnelle et d'exercer sa citoyenneté.
+et technique et, d'autre part, l'éducation lui permettant de développer sa personnalité, son sens moral et son esprit
+critique d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, de
+partager les valeurs de la République et d'exercer sa citoyenneté.
 
 Cette instruction obligatoire est assurée prioritairement dans les établissements d'enseignement.
 
@@ -1348,12 +1432,12 @@ Cette instruction obligatoire est assurée prioritairement dans les établisseme
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 7 (V) JORF 23 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 15
 
 	**Anciens textes**:
 
@@ -1378,25 +1462,41 @@ Cette instruction obligatoire est assurée prioritairement dans les établisseme
 L'instruction obligatoire peut être donnée soit dans les établissements ou écoles publics ou privés, soit dans les familles
 par les parents, ou l'un d'entre eux, ou toute personne de leur choix.
 
-Un service public de l'enseignement à distance est organisé notamment pour assurer l'instruction des enfants qui ne peuvent
-être scolarisés dans une école ou dans un établissement scolaire.
+Dans le cadre du service public de l'enseignement et afin de contribuer à ses missions, un service public du numérique
+éducatif et de l'enseignement à distance est organisé pour, notamment : 
+
+1° Mettre à disposition des écoles et des établissements scolaires une offre diversifiée de services numériques permettant de
+prolonger l'offre des enseignements qui y sont dispensés, d'enrichir les modalités d'enseignement et de faciliter la mise en
+œuvre d'une aide personnalisée à tous les élèves ; 
+
+2° Proposer aux enseignants une offre diversifiée de ressources pédagogiques, des contenus et des services contribuant à leur
+formation ainsi que des outils de suivi de leurs élèves et de communication avec les familles ; 
+
+3° Assurer l'instruction des enfants qui ne peuvent être scolarisés dans une école ou dans un établissement scolaire,
+notamment ceux à besoins éducatifs particuliers. Des supports numériques adaptés peuvent être fournis en fonction des besoins
+spécifiques de l'élève ; 
+
+4° Contribuer au développement de projets innovants et à des expérimentations pédagogiques favorisant les usages du numérique
+à l'école et la coopération. 
+
+Dans le cadre de ce service public, la détermination du choix des ressources utilisées tient compte de l'offre de logiciels
+libres et de documents au format ouvert, si elle existe.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Ordonnance n°59-45 du 6 janvier 1959 - art. 3 (Ab)
-	  - Loi n°1882-03-28 art. 4
 	  - Loi n°1882-03-28 du 28 mars 1882 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 11 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 16
 
 	**Cité par**:
 
@@ -2575,7 +2675,7 @@ L'enseignement supérieur est libre.
 
 ###### Article L161-1
 
-Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
+Sont applicables dans les îles Wallis et Futuna les premier, deuxième, troisième, quatrième, sixième et septième alinéas de
 l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, L. 112-4, le premier alinéa de l'article L. 113-1, les
 articles L. 121-1 à L. 121-4, 
 L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4,
@@ -2593,32 +2693,32 @@ Les dispositions de l'article L. 131-1 sont applicables à compter du 1er janvie
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-728 du 24 juillet 2008 - art. 3
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L111-1 (V)
-	  - Code de l'éducation - art. L111-2 (V)
-	  - Code de l'éducation - art. L112-2 (V)
-	  - Code de l'éducation - art. L112-4 (V)
-	  - Code de l'éducation - art. L113-1 (V)
-	  - Code de l'éducation - art. L121-1 (V)
-	  - Code de l'éducation - art. L122-1 (T)
-	  - Code de l'éducation - art. L122-1-1 (V)
-	  - Code de l'éducation - art. L122-5 (V)
-	  - Code de l'éducation - art. L123-1 (V)
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L131-1-1 (V)
-	  - Code de l'éducation - art. L131-2 (V)
-	  - Code de l'éducation - art. L131-4 (V)
-	  - Code de l'éducation - art. L132-1 (V)
-	  - Code de l'éducation - art. L141-2 (V)
-	  - Code de l'éducation - art. L141-4 (V)
-	  - Code de l'éducation - art. L141-5-1 (V)
-	  - Code de l'éducation - art. L141-6 (V)
-	  - Code de l'éducation - art. L151-1 (V)
-	  - Code de l'éducation - art. L151-3 (V)
-	  - Code de l'éducation - art. L151-6 (V)
+	  - Code de l'éducation - art. L111-1
+	  - Code de l'éducation - art. L111-2
+	  - Code de l'éducation - art. L112-2
+	  - Code de l'éducation - art. L112-4
+	  - Code de l'éducation - art. L113-1
+	  - Code de l'éducation - art. L121-1
+	  - Code de l'éducation - art. L122-1
+	  - Code de l'éducation - art. L122-1-1
+	  - Code de l'éducation - art. L122-5
+	  - Code de l'éducation - art. L123-1
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L131-1-1
+	  - Code de l'éducation - art. L131-2
+	  - Code de l'éducation - art. L131-4
+	  - Code de l'éducation - art. L132-1
+	  - Code de l'éducation - art. L141-2
+	  - Code de l'éducation - art. L141-4
+	  - Code de l'éducation - art. L141-5-1
+	  - Code de l'éducation - art. L141-6
+	  - Code de l'éducation - art. L151-1
+	  - Code de l'éducation - art. L151-3
+	  - Code de l'éducation - art. L151-6
 
 
 ###### Article L161-2
@@ -2689,14 +2789,14 @@ supprimée.
 
 ###### Article L162-2-1
 
-Le dernier alinéa de l'article L. 113-1 s'applique à Mayotte à compter de la rentrée scolaire 2014 pour les enfants âgés de
-deux ans.
+L'avant-dernier alinéa de l'article L. 113-1 s'applique à Mayotte à compter de la rentrée scolaire 2014 pour les enfants âgés
+de deux ans.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 19
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 8
 
 	**Cite**:
 
@@ -2754,49 +2854,52 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 ###### Article L163-1
 
-Sont applicables en Polynésie française les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
-l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
-121-1 à L. 121-4, L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L.
-132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
+Sont applicables en Polynésie française les premier, deuxième, troisième, quatrième, sixième et septième alinéas de l'article
+L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L.
+121-4, L. 122-1, L. 122-1-1, L. 122-5, L. 123-1 à L. 123-9, L. 131-1, L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, 
+L. 132-2, 
+L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 70 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 2
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L111-1 (V)
-	  - Code de l'éducation - art. L111-2 (V)
-	  - Code de l'éducation - art. L112-2 (V)
-	  - Code de l'éducation - art. L113-1 (V)
-	  - Code de l'éducation - art. L121-1 (V)
-	  - Code de l'éducation - art. L122-1 (T)
-	  - Code de l'éducation - art. L122-5 (V)
-	  - Code de l'éducation - art. L123-1 (V)
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L131-1-1 (V)
-	  - Code de l'éducation - art. L131-2 (V)
-	  - Code de l'éducation - art. L131-4 (V)
-	  - Code de l'éducation - art. L132-1 (V)
-	  - Code de l'éducation - art. L141-2 (V)
-	  - Code de l'éducation - art. L151-1 (V)
-	  - Code de l'éducation - art. L151-6 (V)
+	  - Code de l'éducation - art. L111-1
+	  - Code de l'éducation - art. L111-2
+	  - Code de l'éducation - art. L112-2
+	  - Code de l'éducation - art. L113-1
+	  - Code de l'éducation - art. L121-1
+	  - Code de l'éducation - art. L122-1
+	  - Code de l'éducation - art. L122-1-1 (V)
+	  - Code de l'éducation - art. L122-5
+	  - Code de l'éducation - art. L123-1
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L131-1-1
+	  - Code de l'éducation - art. L131-2
+	  - Code de l'éducation - art. L131-4
+	  - Code de l'éducation - art. L132-1
+	  - Code de l'éducation - art. L132-2 (V)
+	  - Code de l'éducation - art. L141-2
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L151-1
+	  - Code de l'éducation - art. L151-3 (V)
+	  - Code de l'éducation - art. L151-6
 
 
 ###### Article L163-2
@@ -2867,10 +2970,10 @@ la possibilité pour les parents de faire donner, s'ils le désirent, à leurs e
 
 ###### Article L164-1
 
-Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième, quatrième, cinquième et septième alinéas de
-l'article L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L.
-121-1 à L. 121-4, L. 122-1, L. 122-1-1, le deuxième alinéa de l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1,
-L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6.
+Sont applicables en Nouvelle-Calédonie les premier, deuxième, troisième, quatrième, sixième et septième alinéas de l'article
+L. 111-1, les articles L. 111-2 à L. 111-5, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1 à L.
+121-4, L. 122-1, L. 122-1-1, le deuxième alinéa de l'article L. 122-5, les articles L. 123-1 à L. 123-9, L. 131-1, 
+L. 131-1-1, L. 131-2, L. 131-4, L. 132-1, L. 132-2, L. 141-2, L. 141-4, L. 141-5, L. 141-6, L. 151-1, L. 151-3 et L. 151-6. 
 
 L'article L. 141-5-1 est applicable aux établissements publics d'enseignement du second degré mentionnés au III de l'article
 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie qui relèvent de la compétence de l'Etat.
@@ -2879,35 +2982,44 @@ L'article L. 141-5-1 est applicable aux établissements publics d'enseignement d
 
 	**Anciens textes**:
 
-	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (M)
 	  - Loi n°59-1557 du 31 décembre 1959 - art. 13 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 20 (Ab)
 	  - Loi n°84-52 du 26 janvier 1984 - art. 71 (Ab)
-	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (M)
 	  - Loi n°89-486 du 10 juillet 1989 - art. 29 (Ab)
 
 	**Cite**:
 
-	  - Loi n°99-209 du 19 mars 1999 (V)
+	  - Loi n°99-209 du 19 mars 1999
 	  - Code de l'éducation - art. L111-1 (V)
 	  - Code de l'éducation - art. L111-2 (V)
-	  - Code de l'éducation - art. L113-1 (V)
-	  - Code de l'éducation - art. L121-1 (V)
-	  - Code de l'éducation - art. L122-1 (T)
-	  - Code de l'éducation - art. L122-5 (V)
-	  - Code de l'éducation - art. L123-1 (V)
-	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L132-1 (V)
-	  - Code de l'éducation - art. L151-1 (V)
+	  - Code de l'éducation - art. L112-2 (V)
+	  - Code de l'éducation - art. L113-1
+	  - Code de l'éducation - art. L121-1
+	  - Code de l'éducation - art. L122-1
+	  - Code de l'éducation - art. L122-1-1 (V)
+	  - Code de l'éducation - art. L122-5
+	  - Code de l'éducation - art. L123-1
+	  - Code de l'éducation - art. L131-1
+	  - Code de l'éducation - art. L131-1-1 (V)
+	  - Code de l'éducation - art. L131-2 (V)
+	  - Code de l'éducation - art. L131-4 (V)
+	  - Code de l'éducation - art. L132-1
+	  - Code de l'éducation - art. L132-2 (V)
+	  - Code de l'éducation - art. L141-2 (V)
+	  - Code de l'éducation - art. L141-4 (V)
+	  - Code de l'éducation - art. L141-5-1 (V)
+	  - Code de l'éducation - art. L151-1
+	  - Code de l'éducation - art. L151-3 (V)
+	  - Code de l'éducation - art. L151-6 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 77 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 2
 
 
 ###### Article L164-2
@@ -3016,10 +3128,13 @@ agricole sont saisis pour avis de ce rapport.
 ###### Article L211-2
 
 Chaque année, les autorités compétentes de l'Etat arrêtent la structure pédagogique générale des établissements
-d'enseignement du second degré en tenant compte du schéma prévisionnel des formations mentionné à l'article L. 214-1. Le
-représentant de l'Etat arrête la liste annuelle des opérations de construction ou d'extension des établissements que l'Etat
-s'engage à doter des postes qu'il juge indispensables à leur fonctionnement administratif et pédagogique. Cette liste est
-arrêtée compte tenu du programme prévisionnel des investissements et après accord de la commune d'implantation et de la
+d'enseignement du second degré en tenant compte du schéma prévisionnel des formations mentionné à l'article L. 214-1 et de la
+carte des formations professionnelles initiales définie à l'article L. 214-13-1. Cet arrêté est pris après concertation avec
+la région et recueil de son avis. Le représentant de l'Etat arrête la liste annuelle des opérations de construction ou
+d'extension des établissements que l'Etat s'engage à doter des postes qu'il juge indispensables à leur fonctionnement
+administratif et pédagogique. Cette liste est arrêtée compte tenu du programme prévisionnel des investissements et des
+engagements conclus dans le cadre du contrat de plan régional de développement des formations professionnelles et de la
+convention annuelle définis aux articles L. 214-13 et L. 214-13-1, et après accord de la commune d'implantation et de la
 collectivité compétente. 
 
 Dans les zones de revitalisation rurale visées à l'article 1465 A du code général des impôts, les services compétents de
@@ -3032,22 +3147,21 @@ d'élèves et des secteurs économiques locaux concernés par cette révision.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 13
 	  - Loi n°83-663 du 22 juillet 1983 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 14 () JORF 24 février 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 18
 
 	**Cite**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1465 A (V)
-	  - Code de l'éducation - art. L214-1 (V)
+	  - Code général des impôts, CGI. - art. 1465 A
+	  - Code de l'éducation - art. L214-1
 
 	**Cité par**:
 
@@ -3237,8 +3351,12 @@ l'article L. 212-1, sous réserve des dispositions prévues à l'article L. 216-
 4° De la rémunération du personnel exerçant dans les lycées, sous réserve des dispositions des articles L. 214-6-1 et L.
 216-1 ; 
 
-5° Des dépenses pédagogiques des collèges, des lycées et des établissements d'éducation spéciale dont la liste est arrêtée
-par décret ; 
+5° Des dépenses de fonctionnement à caractère directement pédagogique dans les collèges, les lycées et les établissements
+d'éducation spéciale, dont celles afférentes aux ressources numériques, incluant les contenus et les services, spécifiquement
+conçues pour un usage pédagogique, ainsi que de la fourniture des manuels scolaires dans les collèges, les établissements
+publics locaux d'enseignement et de formation professionnelle agricole mentionnés à l'article L. 811-8 du code rural et de la
+pêche maritime et les établissements d'éducation spéciale et des documents à caractère pédagogique à usage collectif dans les
+lycées professionnels ; 
 
 6° De la rémunération des personnels de l'enseignement supérieur et de la recherche ; 
 
@@ -3249,9 +3367,7 @@ par décret ;
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
-	  - Loi n°1889-07-19 art. 2
 	  - Loi n°1889-07-19 du 19 juillet 1889 - art. 2 (Ab)
 
 	**Cité par**:
@@ -3271,20 +3387,20 @@ par décret ;
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 82 V, art. 121 VIII JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 19
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L212-1 (V)
-	  - Code de l'éducation - art. L213-2-1 (V)
-	  - Code de l'éducation - art. L214-6-1 (V)
-	  - Code de l'éducation - art. L216-1 (V)
+	  - Code de l'éducation - art. L212-1
+	  - Code de l'éducation - art. L213-2-1
+	  - Code de l'éducation - art. L214-6-1
+	  - Code de l'éducation - art. L216-1
+	  - Code rural - art. L811-8 (V)
 
 
 ###### Article L211-9
@@ -3758,7 +3874,8 @@ Sous sa responsabilité et après avis du conseil d'administration ou d'école e
 propriétaire ou attributaire des bâtiments, en vertu des dispositions du présent titre, le maire peut utiliser les locaux et
 les équipements scolaires dans la commune pour l'organisation d'activités à caractère culturel, sportif, social ou socio-
 éducatif pendant les heures ou les périodes au cours desquelles ils ne sont pas utilisés pour les besoins de la formation
-initiale et continue. Ces activités doivent être compatibles avec la nature des installations et l'aménagement des locaux.
+initiale et continue. Ces activités doivent être compatibles avec la nature des installations, l'aménagement des locaux et le
+fonctionnement normal du service. Elles doivent également respecter les principes de neutralité et de laïcité.
 
 La commune ou, le cas échéant, la collectivité propriétaire peut soumettre toute autorisation d'utilisation à la passation,
 entre son représentant, celui de l'école ou de l'établissement et la personne physique ou morale qui désire organiser des
@@ -3772,17 +3889,16 @@ responsabilité d'un tiers est établie.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 25
 	  - Loi n°83-663 du 22 juillet 1983 - art. 25 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-157 du 23 février 2005 - art. 207 () JORF 24 février 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 24
 
 	**Cité par**:
 
@@ -3808,31 +3924,27 @@ présent code.
 
 A ce titre, le conseil général arrête après avis du conseil départemental de l'éducation nationale, en tenant compte de
 critères d'équilibre démographique, économique et social, la localisation des établissements, leur capacité d'accueil, leur
-secteur de recrutement et le mode d'hébergement des élèves. 
+secteur de recrutement et le mode d'hébergement des élèves. Lorsque cela favorise la mixité sociale, un même secteur de
+recrutement peut être partagé par plusieurs collèges publics situés à l'intérieur d'un même périmètre de transports urbains. 
 
 Les dispositions de l'article L. 214-4 sont applicables au département pour les collèges. 
 
 Toutefois, les autorités compétentes de l'Etat affectent les élèves dans les collèges publics.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 13
 	  - Loi n°83-663 du 22 juillet 1983 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-339 2003-04-14 art. 5 : loi applicable à Mayotte
-
-	**Modifié par**:
-
-	  - Loi n°2004-809 du 13 août 2004 - art. 81 () JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -3848,18 +3960,22 @@ Toutefois, les autorités compétentes de l'Etat affectent les élèves dans les
 	  - Code de l'éducation - art. L421-19-9 (V)
 	  - Code de l'éducation - art. R211-3 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 20
+
 	**Cite**:
 
-	  - Code de l'éducation - art. L214-1 (V)
-	  - Code de l'éducation - art. L214-4 (V)
+	  - Code de l'éducation - art. L214-1
+	  - Code de l'éducation - art. L214-4
 
 
 ###### Article L213-2
 
-Le département a la charge des collèges.A ce titre, il en assure la construction, la reconstruction, l'extension, les grosses
-réparations, l'équipement et le fonctionnement, à l'exception, d'une part, des dépenses pédagogiques à la charge de l'Etat
-dont la liste est arrêtée par décret et, d'autre part, des dépenses de personnels prévues à l'article L. 211-8 sous réserve
-des dispositions de l'article L. 216-1. 
+Le département a la charge des collèges. Il en assure la construction, la reconstruction, l'extension, les grosses
+réparations, l'équipement et le fonctionnement. A ce titre, l'acquisition et la maintenance des infrastructures et des
+équipements, dont les matériels informatiques et les logiciels prévus pour leur mise en service, nécessaires à l'enseignement
+et aux échanges entre les membres de la communauté éducative sont à la charge du département. 
 
 Le département assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et technique, à l'exception des
 missions d'encadrement et de surveillance des élèves, dans les collèges dont il a la charge. 
@@ -3880,14 +3996,13 @@ construction, la reconstruction et les grosses réparations de ces établissemen
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
 
 	**Cite**:
 
-	  - Loi n°85-704 du 12 juillet 1985 (V)
-	  - Code de l'éducation - art. L211-8 (V)
-	  - Code de l'éducation - art. L216-1 (V)
+	  - Loi n°85-704 du 12 juillet 1985
+	  - Code de l'éducation - art. L211-8
+	  - Code de l'éducation - art. L216-1
 
 	**Cité par**:
 
@@ -3910,13 +4025,12 @@ construction, la reconstruction et les grosses réparations de ces établissemen
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 82 I, VI JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 21
 
 
 ###### Article L213-2-1
@@ -3946,6 +4060,34 @@ public de l'éducation nationale dans les conditions fixées à l'article L. 421
 
 	  - Code de l'éducation - art. L421-23 (V)
 	  - Code de l'éducation - art. L913-1 (V)
+
+
+###### Article L213-2-2
+
+Sous  sa responsabilité, après avis du conseil d'administration et, le cas  échéant, accord de la collectivité propriétaire
+des bâtiments, le  président du conseil général ou le président du conseil exécutif de  Corse peut autoriser l'utilisation de
+locaux et d'équipements scolaires  des collèges, pendant les heures ou les périodes au cours desquelles ils  ne sont pas
+utilisés pour les besoins de la formation initiale et  continue, par des entreprises, par des organismes de formation et,
+pour  les besoins de l'éducation populaire, de la vie citoyenne et des  pratiques culturelles et artistiques, par des
+associations. Ces  activités doivent être compatibles avec la nature des installations,  l'aménagement des locaux et le
+fonctionnement normal du service. Elles  doivent également respecter les principes de neutralité et de laïcité. 
+
+Cette autorisation est subordonnée à la passation d'une convention  entre le représentant du département ou de la
+collectivité territoriale  de Corse, celui de l'établissement et la personne physique ou morale qui  désire organiser ces
+activités, précisant notamment les obligations  pesant sur l'organisateur en ce qui concerne l'application des règles de
+sécurité, la prise en charge des responsabilités et de la réparation  des dommages éventuels ainsi que les conditions
+financières de  l'utilisation des locaux et équipements dans le respect du code général de la propriété des personnes
+publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 25
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L421-19-6 (V)
 
 
 ###### Article L213-3
@@ -4490,9 +4632,12 @@ des élèves.
 ###### Article L214-6
 
 La région a la charge des lycées, des établissements d'éducation spéciale et des lycées professionnels maritimes. Elle en
-assure la construction, la reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement, à
-l'exception, d'une part, des dépenses pédagogiques à la charge de l'Etat dont la liste est arrêtée par décret et, d'autre
-part, des dépenses de personnels prévues à l'article L. 211-8 sous réserve des dispositions de l'article L. 216-1. 
+assure la construction, la reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement. A ce
+titre, l'acquisition et la maintenance des infrastructures et des équipements, dont les matériels informatiques et les
+logiciels prévus pour leur mise en service, nécessaires à l'enseignement et aux échanges entre les membres de la communauté
+éducative sont à la charge de la région. Pour le fonctionnement des établissements publics locaux d'enseignement et de
+formation professionnelle agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime, la région a la
+charge du transport pédagogique des élèves assuré dans le cadre des enseignements réguliers. 
 
 La région assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et technique, à l'exception des
 missions d'encadrement et de surveillance des élèves, dans les établissements dont elle a la charge. 
@@ -4514,15 +4659,13 @@ l'extension et les grosses réparations de ces établissements.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 14
 	  - Loi n°83-663 du 22 juillet 1983 - art. 14 (Ab)
 
 	**Cite**:
 
-	  - Loi n°85-704 du 12 juillet 1985 - art. 3 (V)
-	  - Loi n°85-704 du 12 juillet 1985 - art. 5 (V)
-	  - Code de l'éducation - art. L211-8 (V)
-	  - Code de l'éducation - art. L216-1 (V)
+	  - Loi n°85-704 du 12 juillet 1985 - art. 3
+	  - Loi n°85-704 du 12 juillet 1985 - art. 5
+	  - Code rural - art. L811-8 (V)
 
 	**Cité par**:
 
@@ -4546,13 +4689,12 @@ l'extension et les grosses réparations de ces établissements.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2004-809 2004-08-13 art. 82 III, VIII JORF 17 août 2004 en vigueur le 1er janvier 2005
-	  - Loi n°2004-809 du 13 août 2004 - art. 82 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 23
 
 
 ###### Article L214-6-1
@@ -4582,6 +4724,35 @@ de l'éducation nationale dans les conditions fixées aux articles L. 421-23 et 
 
 	  - Code de l'éducation - art. L421-23 (V)
 	  - Code de l'éducation - art. L913-1 (V)
+
+
+###### Article L214-6-2
+
+Sous  sa responsabilité, après avis du conseil d'administration de  l'établissement et, le cas échéant, accord de la
+collectivité  propriétaire des bâtiments, le président du conseil régional ou le  président du conseil exécutif de Corse peut
+autoriser l'utilisation de  locaux et d'équipements scolaires des lycées et établissements régionaux  d'enseignement adapté,
+pendant les heures ou les périodes au cours  desquelles ils ne sont pas utilisés pour les besoins de la formation  initiale
+et continue, par des entreprises ou des organismes de formation  et, pour les besoins de l'éducation populaire, de la vie
+citoyenne et  des pratiques culturelles et artistiques, par des associations. Ces  activités doivent être compatibles avec la
+nature des installations,  l'aménagement des locaux et le fonctionnement normal du service. Elles  doivent également
+respecter les principes de neutralité et de laïcité. 
+
+Cette autorisation est subordonnée à la passation d'une convention  entre le représentant de la région ou de la collectivité
+territoriale de  Corse, celui de l'établissement et la personne physique ou morale qui  désire organiser ces activités,
+précisant notamment les obligations  pesant sur l'organisateur en ce qui concerne l'application des règles de  sécurité, la
+prise en charge des responsabilités et de la réparation  des dommages éventuels ainsi que les conditions financières de
+l'utilisation des locaux et équipements dans le respect du code général de la propriété des personnes publiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 26
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L312-13 (V)
+	  - Code de l'éducation - art. L421-19-6 (V)
 
 
 ###### Article L214-7
@@ -4720,8 +4891,10 @@ aquacole et des établissements d'enseignement agricole visés à l'article L. 8
 
 ###### Article L214-12
 
-La région définit et met en oeuvre la politique régionale d'apprentissage et de formation professionnelle des jeunes et des
-adultes à la recherche d'un emploi ou d'une nouvelle orientation professionnelle. 
+La région définit et met en œuvre la politique régionale d'apprentissage et de formation professionnelle des jeunes et des
+adultes sans emploi ou à la recherche d'une nouvelle orientation professionnelle. Elle élabore le contrat de plan régional de
+développement des formations professionnelles défini à l'article L. 214-13 et arrête la carte des formations professionnelles
+initiales du territoire régional définie à l'article L. 214-13-1. 
 
 Elle organise sur son territoire le réseau des centres et points d'information et de conseil sur la validation des acquis de
 l'expérience et contribue à assurer l'assistance aux candidats à la validation des acquis de l'expérience. 
@@ -4757,10 +4930,12 @@ cas, une convention fixe les conditions de prise en charge de la formation par l
 
 	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 52
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 27
 
 	**Cite**:
 
+	  - Code de l'éducation - art. L214-13 (V)
+	  - Code de l'éducation - art. L214-13-1 (V)
 	  - Code du travail - art. L6314-1
 
 
@@ -4787,7 +4962,7 @@ professionnelle et d'apprentissage des Français établis hors de France.
 
 ###### Article L214-13
 
-I.-Le contrat de plan régional de développement des formations professionnelles a pour objet de définir une programmation à
+I. - Le contrat de plan régional de développement des formations professionnelles a pour objet de définir une programmation à
 moyen terme des actions de formation professionnelle des jeunes et des adultes et d'assurer un développement cohérent de
 l'ensemble des filières de formation en favorisant un accès équilibré des femmes et des hommes à chacune de ces filières de
 formation. Il comporte des actions d'information et de formation destinées à favoriser leur insertion sociale. Il définit
@@ -4816,7 +4991,7 @@ au long de la vie.
 Le contrat de plan régional est établi après chaque renouvellement du conseil régional et prend effet le 1er juin de la
 première année civile suivant le début de la mandature. 
 
-II.-Le contrat de plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre
+II. - Le contrat de plan régional de développement des formations professionnelles pour sa partie consacrée aux jeunes couvre
 l'ensemble des filières de formation des jeunes préparant l'accès à l'emploi et veille à assurer une représentation
 équilibrée des femmes et des hommes dans ces filières de formation professionnelle. Il inclut le cycle d'enseignement
 professionnel initial dispensé par les établissements d'enseignement artistique. 
@@ -4824,29 +4999,22 @@ professionnel initial dispensé par les établissements d'enseignement artistiqu
 Il vaut schéma prévisionnel d'apprentissage, schéma régional des formations sociales et schéma régional des formations
 sanitaires. 
 
-III.-Le contrat de plan régional de développement des formations professionnelles, pour sa partie consacrée aux adultes,
+III. - Le contrat de plan régional de développement des formations professionnelles, pour sa partie consacrée aux adultes,
 couvre l'ensemble des actions de formation professionnelle visant à favoriser l'accès, le maintien et le retour à l'emploi. 
 
-IV.-Des conventions annuelles d'application précisent, pour l'Etat et la région, la programmation et les financements des
+IV. - Des conventions annuelles d'application précisent, pour l'Etat et la région, la programmation et les financements des
 actions. 
 
 Elles sont signées par le président du conseil régional, le représentant de l'Etat dans la région ainsi que, selon leur champ
 d'application, par les divers acteurs concernés. 
 
-Dans les établissements d'enseignement du second degré, les établissements relevant des articles L. 811-1 et L. 813-1 du code
-rural et de la pêche maritime et les établissements relevant du ministère chargé des sports, ces conventions, qui sont
-également signées par les autorités académiques, prévoient et classent, par ordre prioritaire, en fonction des moyens
-disponibles, les ouvertures et fermetures de sections de formation professionnelle initiale. Leurs stipulations sont mises en
-oeuvre par l'Etat et la région dans l'exercice de leurs compétences, notamment de celles qui résultent de l'article L. 211-2
-du présent code et de l'article L. 814-2 du code rural et de la pêche maritime.A défaut d'accord, les autorités de l'Etat
-prennent, pour ce qui les concerne, les décisions nécessaires à la continuité du service public de l'éducation.S'agissant des
-demandeurs d'emploi, ces conventions, lorsqu'elles comportent des engagements réciproques de l'Etat, de la région et de
-l'institution mentionnée à l'article L. 5312-1 du code du travail, sont également signées par cette institution. Elles
-précisent, en matière d'orientation et de formation professionnelles, les conditions de mise en œuvre de la convention prévue
-à l'article L. 5312-11 du même code.
+S'agissant des demandeurs d'emploi, ces conventions, lorsqu'elles comportent des engagements réciproques de l'Etat, de la
+région et de l'institution mentionnée à l'article L. 5312-1 du code du travail, sont également signées par cette institution.
+Elles précisent, en matière d'orientation et de formation professionnelles, les conditions de mise en œuvre de la convention
+prévue à l'article L. 5312-11 du même code.
 
-V.-L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
-cas échéant, l'institution mentionnée à l'article L. 5312-1 du code du travail peuvent conclure des contrats fixant des
+V. - L'Etat, une ou plusieurs régions, une ou plusieurs organisations représentatives des milieux socioprofessionnels et, le
+cas échéant, l'institution mentionnée à l'article L. 5312-1 du code du travail  peuvent conclure des contrats fixant des
 objectifs de développement coordonné des différentes voies de formation professionnelle initiale et continue, notamment de
 formation professionnelle alternée et de financement des formations des demandeurs d'emploi. Ces contrats d'objectifs peuvent
 être annuels ou pluriannuels. 
@@ -4862,7 +5030,7 @@ représentatives d'employeurs et de salariés peuvent également conclure des co
 développement de l'apprentissage conformément à l'article L. 6211-3 du code du travail. Ces contrats peuvent prendre la forme
 d'une annexe aux contrats visés à l'alinéa précédent. 
 
-VI.-Dans le cadre du contrat de plan régional de développement des formations professionnelles, chaque région arrête
+VI. - Dans le cadre du contrat de plan régional de développement des formations professionnelles, chaque région arrête
 annuellement un programme régional d'apprentissage et de formation professionnelle continue, après avis du comité de
 coordination régional de l'emploi et de la formation professionnelle. 
 
@@ -4877,10 +5045,6 @@ autres organismes de formation concernés.
 	**Anciens textes**:
 
 	  - Loi n°83-8 du 7 janvier 1983 - art. 83 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
 
 	**Cité par**:
 
@@ -4928,6 +5092,61 @@ autres organismes de formation concernés.
 	  - Code rural et de la pêche maritime - art. L811-8 (V)
 	  - Code rural et de la pêche maritime - art. L813-2 (V)
 	  - Code rural et de la pêche maritime - art. L814-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 28
+
+	**Cite**:
+
+	  - Code du travail - art. L5312-1
+	  - Code du travail - art. L5312-11
+	  - Code du travail - art. L6211-3
+
+
+###### Article L214-13-1
+
+Chaque année, les autorités académiques recensent par ordre de priorité les ouvertures et fermetures qu'elles estiment
+nécessaires de sections de formation professionnelle initiale dans les établissements d'enseignement du second degré, les
+établissements relevant des articles L. 811-1 et L. 813-1 du code rural et de la pêche maritime et les établissements
+relevant du ministre chargé des sports. Parallèlement, la région, après concertation avec les branches professionnelles et
+les organisations syndicales professionnelles des employeurs et des salariés concernés, procède au même classement. 
+
+Dans le cadre de la convention annuelle prévue au IV de l'article L. 214-13 du présent code, signée par les autorités
+académiques et la région, celles-ci procèdent au classement par ordre de priorité des ouvertures et fermetures de sections de
+formation professionnelle initiale, en fonction des moyens disponibles. 
+
+Chaque année, après accord du recteur, la région arrête la carte régionale des formations professionnelles initiales,
+conformément aux choix retenus par la convention mentionnée au deuxième alinéa du présent article et aux décisions
+d'ouverture et de fermeture de formations par l'apprentissage qu'elle aura prises. 
+
+Cette carte est mise en œuvre par la région et par l'Etat dans l'exercice de leurs compétences respectives, notamment celles
+qui résultent de l'article L. 211-2 du présent code et de l'article L. 814-2 du code rural et de la pêche maritime. Elle est
+communiquée aux organismes et services participant au service public de l'orientation. Les autorités académiques mettent en
+œuvre les ouvertures et fermetures de sections de formation professionnelle initiale sous statut scolaire en fonction des
+moyens disponibles et conformément au classement par ordre de priorité mentionné au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 29
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L211-2 (V)
+	  - Code de l'éducation - art. L214-12 (V)
+	  - Code de l'éducation - art. L214-13 (VD)
+	  - Code de l'éducation - art. L262-1 (V)
+	  - Code du travail - art. L6121-1 (VD)
+	  - Code du travail - art. L6123-6 (V)
+	  - Code du travail - art. R6123-3-2 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L811-1
+	  - Code rural - art. L813-1
+	  - Code rural - art. L814-2
 
 
 ###### Article L214-14
@@ -5141,6 +5360,9 @@ culturelles complémentaires. Ces activités sont facultatives et ne peuvent se 
 d'enseignement et de formation fixées par l'Etat. Les communes, départements et régions en supportent la charge financière.
 Des agents de l'Etat, dont la rémunération leur incombe, peuvent être mis à leur disposition.
 
+Les activités complémentaires mentionnées au premier alinéa peuvent porter sur la connaissance des langues et des cultures
+régionales.
+
 L'organisation des activités susmentionnées est fixée par une convention, conclue entre la collectivité intéressée et
 l'établissement scolaire, qui détermine notamment les conditions dans lesquelles les agents de l'Etat peuvent être mis à la
 disposition de la collectivité.
@@ -5149,7 +5371,6 @@ disposition de la collectivité.
 
 	**Anciens textes**:
 
-	  - Loi n°83-663 1983-07-22 art. 26
 	  - Loi n°83-663 du 22 juillet 1983 - art. 26 (Ab)
 
 	**Cité par**:
@@ -5174,8 +5395,12 @@ disposition de la collectivité.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 30
 
 
 ###### Article L216-2
@@ -5636,88 +5861,6 @@ des biens et charges indivis entre plusieurs établissements.
 
 #### Titre III : Les organismes collégiaux nationaux et locaux
 
-##### Chapitre préliminaire : Le Haut Conseil de l'éducation
-
-###### Article L230-1
-
-Le Haut Conseil de l'éducation est composé de neuf membres désignés pour six ans. Trois de ses membres sont désignés par le
-Président de la République, deux par le président de l'Assemblée nationale, deux par le président du Sénat et deux par le
-président du   Conseil économique, social et environnemental en dehors des membres de ces assemblées. Le président du haut
-conseil est désigné par le Président de la République parmi ses membres.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D230-1 (Ab)
-	  - Code de l'éducation - art. L261-1 (V)
-	  - Code de l'éducation - art. L263-1 (V)
-	  - Code de l'éducation - art. L264-1 (V)
-	  - Code de l'éducation - art. L442-20 (V)
-
-
-###### Article L230-2
-
-Le Haut Conseil de l'éducation émet un avis et peut formuler des propositions à la demande du ministre chargé de l'éducation
-nationale sur les questions relatives à la pédagogie, aux programmes, aux modes d'évaluation des connaissances des élèves, à
-l'organisation et aux résultats du système éducatif et à la formation des enseignants. Ses avis et propositions sont rendus
-publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D230-2 (Ab)
-	  - Code de l'éducation - art. D230-4 (Ab)
-	  - Code de l'éducation - art. L442-20 (V)
-
-
-###### Article L230-3
-
-Le Haut Conseil de l'éducation remet chaque année au Président de la République un bilan, qui est rendu public, des résultats
-obtenus par le système éducatif. Ce bilan est transmis au Parlement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 du 14 avril 2003
-
-	**Créé par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 14 () JORF 24 avril 2005
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L442-20 (V)
-
-
 ##### Chapitre Ier : Le Conseil supérieur de l'éducation
 
 ##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.
@@ -6061,6 +6204,102 @@ que les autres mesures nécessaires à l'exécution de la présente sous-section
 
 	  - Ordonnance 2000-549 2000-06-15
 	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+
+##### Chapitre Ier bis : Le Conseil supérieur des programmes 
+
+###### Article L231-14
+
+Le Conseil supérieur des programmes est placé auprès du ministre chargé de l'éducation nationale. Il travaille en toute
+indépendance. 
+
+Il est composé, à parité de femmes et d'hommes, de dix-huit membres désignés pour cinq ans. Il comprend trois députés, trois
+sénateurs, désignés, respectivement, par les commissions permanentes compétentes en matière d'éducation de l'Assemblée
+nationale et du Sénat, deux membres du Conseil économique, social et environnemental, désignés par son président, et dix
+personnalités qualifiées nommées par le ministre chargé de l'éducation nationale. Les membres du Conseil supérieur des
+programmes ne peuvent pas simultanément appartenir au Conseil national d'évaluation du système scolaire. Le décret prévu à
+l'article L. 231-17 précise la répartition par sexe des personnes désignées par chacune des instances et autorités
+compétentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D231-34 (V)
+	  - Code de l'éducation - art. L263-1 (V)
+	  - Code de l'éducation - art. L264-1 (V)
+	  - Code de l'éducation - art. L442-20 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L231-17 (V)
+
+
+###### Article L231-15
+
+Le Conseil supérieur des programmes émet des avis et formule des propositions sur : 
+
+1° La conception générale des enseignements dispensés aux élèves des  écoles, des collèges et des lycées et l'introduction du
+numérique dans  les méthodes pédagogiques et la construction des savoirs ; 
+
+2° Le contenu du socle commun de connaissances, de compétences et de  culture et des programmes scolaires, en veillant à leur
+cohérence et à  leur articulation en cycles, ainsi que les modalités de validation de  l'acquisition de ce socle ; 
+
+3° La nature et le  contenu des épreuves des examens conduisant aux diplômes nationaux de  l'enseignement du second degré et
+du baccalauréat ainsi que les  possibilités d'adaptation et d'aménagement de ces épreuves pour les  élèves présentant un
+handicap ou un trouble de la santé invalidant ; 
+
+4° La nature et le contenu des épreuves des concours de recrutement  d'enseignants des premier et second degrés, les
+possibilités  d'adaptation et d'aménagement de ces épreuves pour les candidats  présentant un handicap ou un trouble de la
+santé invalidant ainsi que  les objectifs et la conception générale de la formation initiale et  continue des enseignants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D231-35 (V)
+	  - Code de l'éducation - art. L263-1 (V)
+
+
+###### Article L231-16
+
+Le  Conseil supérieur des programmes remet chaque année aux ministres  chargés de l'éducation nationale et de l'agriculture
+un rapport sur ses  travaux et les suites qui leur ont été données. Ce rapport est transmis  au Parlement et au Conseil
+économique, social et environnemental. Les  avis et propositions du Conseil supérieur des programmes sont rendus  publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L263-1 (V)
+	  - Code de l'éducation - art. L264-1 (V)
+
+
+###### Article L231-17
+
+Un décret précise l'organisation et le fonctionnement du Conseil supérieur des programmes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 32
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L231-14 (V)
 
 
 ##### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche
@@ -7327,48 +7566,108 @@ du travail.
 	  - Code du travail - art. L6251-1 (V)
 
 
-###### Article L241-10
+##### Chapitre Ier bis : Le Conseil national d'évaluation du système scolaire 
 
-Avant le 1er octobre de chaque année, le Gouvernement dépose sur le bureau de l'Assemblée nationale et du Sénat un rapport
-sur la situation des enseignements technologiques et professionnels. Ce rapport présente les orientations retenues pour ces
-enseignements, précise le nombre d'élèves accueillis au sein de chaque filière et récapitule les moyens budgétaires et
-humains qui leur ont été consacrés au cours des trois années scolaires précédentes.
+###### Article L241-12
 
-**Liens relatifs à cet article**
+Le  Conseil national d'évaluation du système scolaire, placé auprès du  ministre chargé de l'éducation nationale, est chargé
+d'évaluer en toute  indépendance l'organisation et les résultats de l'enseignement scolaire.  A ce titre : 
 
-	**Anciens textes**:
+1° A son initiative ou à la demande  du ministre chargé de l'éducation nationale, du ministre chargé de  l'enseignement
+agricole, d'autres ministres disposant de compétences en  matière d'éducation, du ministre chargé de la ville ou des
+commissions  permanentes compétentes en matière d'éducation de l'Assemblée nationale  et du Sénat, il réalise ou fait
+réaliser des évaluations ; 
 
-	  - Loi n°71-577 du 16 juillet 1971 - art. 20 (Ab)
-	  - Loi n°85-1371 du 23 décembre 1985 - art. 19 (Ab)
+2° Il se prononce sur les méthodologies et les outils des évaluations  conduites par le ministère chargé de l'éducation
+nationale ainsi que sur  les résultats de ces évaluations ; 
 
-	**Modifié par**:
+3° Il donne  un avis sur les méthodologies, sur les outils et sur les résultats des  évaluations des systèmes éducatifs
+conduites dans le cadre de programmes  de coopération européens ou internationaux. 
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 80
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 78
-
-
-###### Article L241-11
-
-Le Gouvernement présente chaque année au Parlement, en annexe au projet de loi de finances, un état récapitulatif des crédits
-affectés au développement des enseignements artistiques.
+Il formule toute recommandation utile au regard des résultats des évaluations mentionnées au présent article.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Loi n°88-20 du 6 janvier 1988 - art. 16 (Ab)
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 33
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Code de l'éducation - art. D241-37 (V)
+	  - Code de l'éducation - art. D241-38 (V)
+	  - Code de l'éducation - art. L263-1 (V)
+	  - Code de l'éducation - art. L264-1 (V)
+	  - Code de l'éducation - art. L442-20 (V)
 
-	**Abrogé par**:
 
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 79
+###### Article L241-13
+
+Le Conseil national d'évaluation du système scolaire est composé, à parité de femmes et d'hommes, de quatorze membres
+désignés pour six ans. Ses membres ne peuvent pas simultanément appartenir au Conseil supérieur des programmes. Il
+comprend : 
+
+1° Deux députés et deux sénateurs, désignés, respectivement, par les commissions permanentes compétentes en matière
+d'éducation de l'Assemblée nationale et du Sénat ; 
+
+2° Deux membres du Conseil économique, social et environnemental, désignés par le président de ce conseil ; 
+
+3° Huit personnalités choisies pour leur compétence en matière d'évaluation ou dans le domaine éducatif. 
+
+Le décret prévu à l'article L. 241-15 précise la répartition par sexe des personnes désignées par chacune des instances et
+autorités compétentes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 33
+
+	**Cité par**:
+
+	  - Décret n°2013-1234 du 23 décembre 2013 - art. 2 (V)
+	  - Code de l'éducation - art. D241-36 (V)
+	  - Code de l'éducation - art. D241-37 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L241-15 (V)
+
+
+###### Article L241-14
+
+Le  Conseil national d'évaluation du système scolaire remet chaque année un  rapport sur ses travaux aux ministres chargés de
+l'éducation nationale  et de l'enseignement agricole. Il évalue notamment les politiques  publiques mises en œuvre pour
+scolariser en milieu ordinaire les élèves  présentant un handicap ou un trouble de la santé invalidant. Ce rapport  est
+transmis et présenté aux commissions permanentes compétentes en  matière d'éducation de l'Assemblée nationale et du Sénat ;
+il peut  donner lieu à un débat en séance. 
+
+Le rapport, les évaluations, les recommandations et les avis du conseil sont rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 33
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D241-37 (V)
+
+
+###### Article L241-15
+
+Un décret précise les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 33
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L241-13 (V)
 
 
 ##### Chapitre II : L'évaluation des établissements publics à caractère scientifique, culturel et professionnel
@@ -7905,7 +8204,12 @@ personnels de service s'il y a lieu ;
 ###### Article L311-1
 
 La scolarité est organisée en cycles pour lesquels sont définis des objectifs et des programmes nationaux de formation
-comportant une progression annuelle ainsi que des critères d'évaluation.
+comportant une progression régulière ainsi que des critères d'évaluation.
+
+Le nombre des cycles et leur durée sont fixés par décret. 
+
+Dans l'enseignement primaire, l'évaluation sert à mesurer la progression de l'acquisition des compétences et des
+connaissances de chaque élève. Cette logique d'évaluation est aussi encouragée dans l'enseignement secondaire.
 
 Pour assurer l'égalité et la réussite des élèves, l'enseignement est adapté à leur diversité par une continuité éducative au
 cours de chaque cycle et tout au long de la scolarité.
@@ -7914,7 +8218,6 @@ cours de chaque cycle et tout au long de la scolarité.
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 4
 	  - Loi n°89-486 du 10 juillet 1989 - art. 4 (Ab)
 
 	**Cité par**:
@@ -7930,8 +8233,12 @@ cours de chaque cycle et tout au long de la scolarité.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 34
 
 
 ###### Article L311-2
@@ -7958,8 +8265,8 @@ domaine pédagogique.
 
 ###### Article L311-3
 
-Les programmes définissent, pour chaque cycle, les connaissances essentielles qui doivent être acquises au cours du cycle
-ainsi que les méthodes qui doivent être assimilées. Ils constituent le cadre national au sein duquel les enseignants
+Les programmes définissent, pour chaque cycle, les connaissances et les compétences qui doivent être acquises au cours du
+cycle et les méthodes qui doivent être assimilées. Ils constituent le cadre national au sein duquel les enseignants
 organisent leurs enseignements en prenant en compte les rythmes d'apprentissage de chaque élève.
 
 **Liens relatifs à cet article**
@@ -7970,8 +8277,12 @@ organisent leurs enseignements en prenant en compte les rythmes d'apprentissage 
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 35
 
 	**Cité par**:
 
@@ -7983,8 +8294,10 @@ organisent leurs enseignements en prenant en compte les rythmes d'apprentissage 
 ###### Article L311-3-1
 
 A tout moment de la scolarité obligatoire, lorsqu'il apparaît qu'un élève risque de ne pas maîtriser les connaissances et les
-compétences indispensables à la fin d'un cycle, le directeur d'école ou le chef d'établissement propose aux parents ou au
-responsable légal de l'élève de mettre conjointement en place un programme personnalisé de réussite éducative.
+compétences indispensables à la fin d'un cycle, le directeur d'école ou le chef d'établissement met en place, dans des
+conditions fixées par le ministre chargé de l'éducation nationale, des dispositifs d'aide qui peuvent prendre la forme d'un
+programme personnalisé de réussite éducative. Le directeur d'école ou le chef d'établissement associe les parents ou le
+responsable légal de l'élève à la mise en place de ce dispositif.
 
 **Liens relatifs à cet article**
 
@@ -7996,19 +8309,20 @@ responsable légal de l'élève de mettre conjointement en place un programme pe
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 16 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 36
 
 
 ###### Article L311-4
 
 Les programmes scolaires comportent, à tous les stades de la scolarité, des enseignements destinés à faire connaître la
-diversité et la richesse des cultures représentées en France. L'école, notamment grâce à des cours d'instruction civique,
-doit inculquer aux élèves le respect de l'individu, de ses origines et de ses différences.
+diversité et la richesse des cultures représentées en France. L'école, notamment grâce à un enseignement moral et civique,
+fait acquérir aux élèves le respect de la personne, de ses origines et de ses différences, de l'égalité entre les femmes et
+les hommes ainsi que de la laïcité.
 
 **Liens relatifs à cet article**
 
@@ -8018,8 +8332,12 @@ doit inculquer aux élèves le respect de l'individu, de ses origines et de ses 
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 41
 
 	**Cité par**:
 
@@ -8062,25 +8380,25 @@ programmes des enseignements dispensés dans les écoles, collèges et lycées i
 
 ###### Article L311-7
 
-Durant la scolarité, l'appréciation des aptitudes et de l'acquisition des connaissances s'exerce par un contrôle continu
-assuré par les enseignants sous la responsabilité du directeur ou du chef d'établissement.
+Durant la scolarité, l'appréciation de l'acquisition progressive des connaissances et des compétences s'exerce par un
+contrôle continu assuré par les enseignants sous la responsabilité du directeur ou du chef d'établissement.
 
 Au terme de chaque année scolaire, à l'issue d'un dialogue et après avoir recueilli l'avis des parents ou du responsable
 légal de l'élève, le conseil des maîtres dans le premier degré ou le conseil de classe présidé par le chef d'établissement
 dans le second degré se prononce sur les conditions dans lesquelles se poursuit la scolarité de l'élève. S'il l'estime
 nécessaire, il propose la mise en place d'un dispositif de soutien, notamment dans le cadre d'un programme personnalisé de
-réussite éducative.
+réussite éducative ou d'un plan d'accompagnement personnalisé. Le redoublement ne peut être qu'exceptionnel.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 17 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 37
 
 	**Cité par**:
 
@@ -8090,10 +8408,6 @@ réussite éducative.
 	  - Code de l'éducation - art. L372-1 (V)
 	  - Code de l'éducation - art. L442-20 (V)
 	  - Code de l'éducation - art. R451-1 (VD)
-
-	**Anciens textes**:
-
-	  - Code de l'éducation - art. L311-6 (M)
 
 
 ##### Chapitre II : Dispositions propres à certaines matières d'enseignement
@@ -8329,19 +8643,14 @@ fonctionnement.
 	  - Code de l'éducation - art. D312-7 (V)
 
 
-##### Section 3 : Les enseignements de technologie et d'informatique.
+##### Section 3 : La formation à l'utilisation des outils et des ressources numériques.
 
 ###### Article L312-9
 
-Tous les élèves sont initiés à la technologie et à l'usage de l'informatique.
-
-Dans ce cadre, notamment à l'occasion de la préparation du brevet informatique et internet des collégiens, ils reçoivent de
-la part d'enseignants préalablement sensibilisés sur le sujet une information sur les risques liés aux usages des services de
-communication au public en ligne, sur les dangers du téléchargement et de la mise à disposition illicites d'œuvres ou
-d'objets protégés par un droit d'auteur ou un droit voisin pour la création artistique, ainsi que sur les sanctions encourues
-en cas [Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2009-580 DC du
-10 juin 2009] de délit de contrefaçon. Cette information porte également sur l'existence d'une offre légale d'œuvres ou
-d'objets protégés par un droit d'auteur ou un droit voisin sur les services de communication au public en ligne.
+La formation à l'utilisation des outils et des ressources numériques est dispensée dans les écoles et les établissements
+d'enseignement ainsi que dans les unités d'enseignement des établissements et services médico-sociaux et des établissements
+de santé. Elle comporte une sensibilisation aux droits et aux devoirs liés à l'usage de l'internet et des réseaux, dont la
+protection de la vie privée et le respect de la propriété intellectuelle.
 
 **Liens relatifs à cet article**
 
@@ -8351,7 +8660,7 @@ d'objets protégés par un droit d'auteur ou un droit voisin sur les services de
 
 	**Modifié par**:
 
-	  - Loi n°2009-669 du 12 juin 2009 - art. 16
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 38
 
 	**Cité par**:
 
@@ -8388,24 +8697,34 @@ et concours, y compris ceux de la formation professionnelle. Sa diffusion dans l
 
 ###### Article L312-10
 
-Un enseignement de langues et cultures régionales peut être dispensé tout au long de la scolarité selon des modalités
-définies par voie de convention entre l'Etat et les collectivités territoriales où ces langues sont en usage.
+Les langues et cultures régionales appartenant au patrimoine de la France, leur enseignement est favorisé prioritairement
+dans les régions où elles sont en usage. 
 
-Le Conseil supérieur de l'éducation est consulté, conformément aux attributions qui lui sont conférées par l'article L.
-231-1, sur les moyens de favoriser l'étude des langues et cultures régionales dans les régions où ces langues sont en usage.
+Cet enseignement peut être dispensé tout au long de la scolarité selon des modalités définies par voie de convention entre
+l'Etat et les collectivités territoriales où ces langues sont en usage. 
+
+Le Conseil supérieur de l'éducation est consulté, conformément aux attributions qui lui sont conférées à l'article L. 231-1,
+sur les moyens de favoriser l'étude des langues et cultures régionales dans les régions où ces langues sont en usage. 
+
+L'enseignement facultatif de langue et culture régionales est proposé dans l'une des deux formes suivantes : 
+
+1° Un enseignement de la langue et de la culture régionales ; 
+
+2° Un enseignement bilingue en langue française et en langue régionale. 
+
+Les familles sont informées des différentes offres d'apprentissage des langues et cultures régionales.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°51-46 du 11 janvier 1951 - art. 1, v. init.
 	  - Loi n°51-46 du 11 janvier 1951 - art. 1 (Ab)
 	  - Loi n°75-620 du 11 juillet 1975 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -8416,17 +8735,19 @@ Le Conseil supérieur de l'éducation est consulté, conformément aux attributi
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 20 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 40
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L231-1 (M)
+	  - Code de l'éducation - art. L231-1 (V)
 
 
 ###### Article L312-11
 
-Les maîtres sont autorisés à recourir aux langues régionales dans les écoles primaires et maternelles chaque fois qu'ils
-peuvent en tirer profit pour leur enseignement, notamment pour l'étude de la langue française.
+Sans préjudice des dispositions de l'article L. 121-3, les enseignants des premier et second degrés sont autorisés à recourir
+aux langues régionales, dès lors qu'ils en tirent profit pour leur enseignement. Ils peuvent également s'appuyer sur des
+éléments de la culture régionale pour favoriser l'acquisition du socle commun de connaissances, de compétences et de culture
+et des programmes scolaires.
 
 **Liens relatifs à cet article**
 
@@ -8434,15 +8755,22 @@ peuvent en tirer profit pour leur enseignement, notamment pour l'étude de la la
 
 	  - Loi n°51-46 du 11 janvier 1951 - art. 2 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
 	**Cité par**:
 
 	  - Loi n°2000-1207 du 13 décembre 2000 - art. 34 (V)
 	  - Loi n°2015-1268 du 14 octobre 2015 - art. 71
+
+	**Codifié par**:
+
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 40
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L121-3 (V)
 
 
 ###### Article L312-11-1
@@ -8559,29 +8887,30 @@ et familiales, est obligatoire et est inclus dans les programmes d'enseignement 
 	  - Code de la famille et de l'aide sociale. - art. 38 (Ab)
 
 
-##### Section 8 : L'enseignement d'éducation civique.
+##### Section 8 :  L'enseignement moral et civique.
 
 ###### Article L312-15
 
-Outre les enseignements concourant aux objectifs définis à l'article L. 131-1-1, l'enseignement d'éducation civique comporte,
-à tous les stades de la scolarité, une formation aux valeurs de la République, à la connaissance et au respect des droits de
-l'enfant consacrés par la loi ou par un engagement international et à la compréhension des situations concrètes qui y portent
-atteinte. Dans ce cadre est donnée une information sur le rôle des organisations non gouvernementales oeuvrant pour la
-protection de l'enfant. 
+Outre les enseignements concourant aux objectifs définis à l'article L. 131-1-1, l'enseignement moral et civique vise
+notamment à amener les élèves à devenir des citoyens responsables et libres, à se forger un sens critique et à adopter un
+comportement réfléchi. Cet enseignement comporte, à tous les stades de la scolarité, une formation aux valeurs de la
+République, à la connaissance et au respect des droits de l'enfant consacrés par la loi ou par un engagement international et
+à la compréhension des situations concrètes qui y portent atteinte. Dans ce cadre est donnée une information sur le rôle des
+organisations non gouvernementales oeuvrant pour la protection de l'enfant. 
 
 Lors de la présentation de la liste des fournitures scolaires, les élèves reçoivent une information sur la nécessité d'éviter
 l'achat de produits fabriqués par des enfants dans des conditions contraires aux conventions internationalement reconnues.
 
-L'enseignement d'éducation civique comporte également, à l'école primaire et au collège, une formation consacrée à la
+L'enseignement moral et civique comporte également, à l'école primaire et au collège, une formation consacrée à la
 connaissance et au respect des problèmes des personnes handicapées et à leur intégration dans la société. 
 
 Les établissements scolaires s'associent avec les centres accueillant des personnes handicapées afin de favoriser les
 échanges et les rencontres avec les élèves.
 
-L'enseignement d'éducation civique sensibilise également les élèves de collège et de lycée au service civique prévu au titre
-Ier bis du livre Ier du code du service national. 
+L'enseignement moral et civique sensibilise également les élèves de collège et de lycée au service civique prévu au titre Ier
+bis du livre Ier du code du service national. 
 
-Dans le cadre de l'enseignement d'éducation civique, les élèves sont formés afin de développer une attitude critique et
+Dans le cadre de l'enseignement moral et civique, les élèves sont formés afin de développer une attitude critique et
 réfléchie vis-à-vis de l'information disponible et d'acquérir un comportement responsable dans l'utilisation des outils
 interactifs lors de leur usage des services de communication au public en ligne. Ils sont informés des moyens de maîtriser
 leur image publique, des dangers de l'exposition de soi et d'autrui, des droits d'opposition, de suppression, d'accès et de
@@ -8602,7 +8931,7 @@ des missions de la Commission nationale de l'informatique et des libertés.
 
 	**Modifié par**:
 
-	  - Loi n°2011-302 du 22 mars 2011 - art. 23
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 41
 
 	**Cité par**:
 
@@ -8727,6 +9056,29 @@ d'autres intervenants extérieurs.
 	  - Loi n°2004-806 du 9 août 2004 - art. 51 () JORF 11 août 2004
 
 
+##### Section 11 : L'éducation à l'environnement et au développement durable 
+
+###### Article L312-19
+
+L'éducation  à l'environnement et au développement durable débute dès l'école  primaire. Elle a pour objectif d'éveiller les
+enfants aux enjeux  environnementaux. 
+
+Elle comporte une  sensibilisation à la nature et à la compréhension et à l'évaluation de  l'impact des activités humaines
+sur les ressources naturelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 42
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L371-1 (V)
+	  - Code de l'éducation - art. L373-1 (V)
+	  - Code de l'éducation - art. L374-1 (V)
+
+
 ##### Chapitre III : L'information et l'orientation.
 
 ###### Article L313-1
@@ -8734,13 +9086,6 @@ d'autres intervenants extérieurs.
 Le droit au conseil en orientation et à l'information sur les enseignements, sur l'obtention d'une qualification
 professionnelle sanctionnée dans les conditions définies à l'article L. 6211-1 du code du travail, sur les professions ainsi
 que sur les débouchés et les perspectives professionnels fait partie du droit à l'éducation.
-
-L'orientation et les formations proposées aux élèves tiennent compte de leurs aspirations, de leurs aptitudes et des
-perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement du territoire. 
-
-Dans ce cadre, les élèves élaborent leur projet d'orientation scolaire et professionnelle avec l'aide des parents, des
-enseignants, des personnels d'orientation et des autres professionnels compétents. Les administrations concernées, les
-collectivités territoriales, les organisations professionnelles, les entreprises et les associations y contribuent. 
 
 Les conseillers d'orientation psychologues exerçant dans les établissements d'enseignement du second degré et les centres
 visés à l'article L. 313-4 sont recrutés dans des conditions définies par décret. Leur formation initiale leur assure une
@@ -8757,7 +9102,7 @@ connaissances au cours de leur carrière.
 
 	**Modifié par**:
 
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 5
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 47
 
 	**Cite**:
 
@@ -9012,44 +9357,19 @@ Dans ce cas, l'accès aisé à une école ou à un établissement ne pratiquant 
 
 ##### Chapitre unique.
 
-###### Article L321-1
-
-La scolarité de l'école maternelle à la fin de l'école élémentaire comporte trois cycles.
-
-La durée de ces cycles est fixée par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-486 1989-07-10 art. 4
-	  - Loi n°89-486 du 10 juillet 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 43
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. L321-3 (V)
-	  - Code de l'éducation - art. L442-20 (V)
-	  - Code de l'éducation - art. R451-3 (V)
-
-
 ###### Article L321-2
 
-Sans rendre obligatoire l'apprentissage précoce de la lecture ou de l'écriture, la formation qui est dispensée dans les
-classes enfantines et les écoles maternelles favorise l'éveil de la personnalité des enfants. Elle tend à prévenir des
-difficultés scolaires, à dépister les handicaps et à compenser les inégalités. La mission éducative de l'école maternelle
-comporte une première approche des outils de base de la connaissance, prépare les enfants aux apprentissages fondamentaux
-dispensés à l'école élémentaire et leur apprend les principes de la vie en société.
+La formation dispensée dans les classes enfantines et les écoles maternelles favorise l'éveil de la personnalité des enfants,
+stimule leur développement sensoriel, moteur, cognitif et social, développe l'estime de soi et des autres et concourt à leur
+épanouissement affectif. Cette formation s'attache à développer chez chaque enfant l'envie et le plaisir d'apprendre afin de
+lui permettre progressivement de devenir élève. Elle est adaptée aux besoins des élèves en situation de handicap pour
+permettre leur scolarisation. Elle tend à prévenir des difficultés scolaires, à dépister les handicaps et à compenser les
+inégalités. La mission éducative de l'école maternelle comporte une première approche des outils de base de la connaissance,
+prépare les enfants aux apprentissages fondamentaux dispensés à l'école élémentaire et leur apprend les principes de la vie
+en société. 
 
-L'Etat affecte le personnel enseignant nécessaire à ces activités éducatives.
+L'Etat affecte le personnel enseignant nécessaire à ces activités éducatives. Des éléments de formation initiale et continue
+spécifiques sont dispensés à ce personnel dans les écoles mentionnées à l'article L. 721-1.
 
 **Liens relatifs à cet article**
 
@@ -9059,12 +9379,8 @@ L'Etat affecte le personnel enseignant nécessaire à ces activités éducatives
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 24 () JORF 24 avril 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -9073,17 +9389,30 @@ L'Etat affecte le personnel enseignant nécessaire à ces activités éducatives
 	  - Code de l'éducation - art. L442-20 (V)
 	  - Code de l'éducation - art. R451-1 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 44
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L721-1 (V)
+
 
 ###### Article L321-3
 
-La formation primaire dispensée dans les écoles élémentaires suit un programme unique réparti sur les cycles mentionnés à
-l'article L. 321-1 ; la période initiale peut être organisée sur une durée variable.
+La formation dispensée dans les écoles élémentaires suit un programme unique réparti sur les cycles mentionnés à l'article L.
+311-1 ; la période initiale peut être organisée sur une durée variable. 
 
-Cette formation assure l'acquisition des instruments fondamentaux de la connaissance : expression orale ou écrite, lecture,
-calcul ; elle suscite le développement de l'intelligence, de la sensibilité artistique, des aptitudes manuelles, physiques et
-sportives. Elle offre un premier apprentissage d'une langue vivante étrangère et une initiation aux arts plastiques et
-musicaux. Elle assure conjointement avec la famille l'éducation morale et offre un enseignement d'éducation civique qui
-comporte obligatoirement l'apprentissage de l'hymne national et de son histoire.
+Cette formation assure l'acquisition des instruments fondamentaux de la connaissance : expression orale et écrite, lecture,
+calcul et résolution de problèmes ; elle suscite le développement de l'intelligence, de la sensibilité artistique, des
+aptitudes manuelles, physiques et sportives. Elle dispense les éléments d'une culture historique, géographique, scientifique
+et technique. Elle offre une éducation aux arts visuels et aux arts musicaux. Elle assure l'enseignement d'une langue vivante
+étrangère et peut comporter une initiation à la diversité linguistique. Elle contribue également à la compréhension et à un
+usage autonome et responsable des médias, notamment numériques. Elle assure l'acquisition et la compréhension de l'exigence
+du respect de la personne, de ses origines et de ses différences. Elle transmet également l'exigence du respect des droits de
+l'enfant et de l'égalité entre les femmes et les hommes. Elle assure conjointement avec la famille l'éducation morale et
+civique qui comprend, pour permettre l'exercice de la citoyenneté, l'apprentissage des valeurs et symboles de la République
+et de l'Union européenne, notamment de l'hymne national et de son histoire.
 
 **Liens relatifs à cet article**
 
@@ -9093,17 +9422,16 @@ comporte obligatoirement l'apprentissage de l'hymne national et de son histoire.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 25 () JORF 24 avril 2005
-	  - Loi n°2005-380 du 23 avril 2005 - art. 26 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 45
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L321-1 (V)
+	  - Code de l'éducation - art. L311-1 (V)
 
 	**Cité par**:
 
@@ -9121,6 +9449,9 @@ Des aménagements appropriés sont prévus au profit des élèves intellectuelle
 particulières, afin de leur permettre de développer pleinement leurs potentialités. La scolarité peut être accélérée en
 fonction du rythme d'apprentissage de l'élève.
 
+Dans les académies d'outre-mer, des approches pédagogiques spécifiques sont prévues dans l'enseignement de l'expression orale
+ou écrite et de la lecture au profit des élèves issus de milieux principalement créolophone ou amérindien.
+
 Des actions particulières sont prévues pour l'accueil et la scolarisation des élèves non francophones nouvellement arrivés en
 France.
 
@@ -9135,12 +9466,12 @@ structures d'accueil adaptées.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 27 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 46
 
 	**Cité par**:
 
@@ -9379,24 +9710,18 @@ du code du sport.
 
 ###### Article L331-7
 
-L'élève élabore son projet d'orientation scolaire et professionnelle avec l'aide de l'établissement et de la communauté
-éducative, notamment des enseignants et des conseillers d'orientation-psychologues, qui lui en facilitent la réalisation tant
-en cours de scolarité qu'à l'issue de celle-ci.
+L'orientation et les formations proposées aux élèves tiennent compte du développement de leurs aspirations et de leurs
+aptitudes et des perspectives professionnelles liées aux besoins prévisibles de la société, de l'économie et de l'aménagement
+du territoire. Elles favorisent la représentation équilibrée entre les femmes et les hommes parmi les filières de formation. 
 
-A cette fin, les élèves disposent de l'ensemble des informations de nature à permettre l'élaboration d'un projet
-d'orientation scolaire et professionnelle. 
+Afin d'élaborer son projet d'orientation scolaire et professionnelle et d'éclairer ses choix d'orientation, un parcours
+individuel d'information, d'orientation et de découverte du monde économique et professionnel est proposé à chaque élève, aux
+différentes étapes de sa scolarité du second degré. 
 
-Ils bénéficient notamment d'une information sur les professions et les formations qui y préparent sous contrat de travail de
-type particulier et sous statut scolaire. 
-
-Cette information est destinée à faciliter le choix d'un avenir professionnel, de la voie et de la méthode d'éducation qui y
-conduisent. 
-
-Cette information est organisée sous la responsabilité des chefs d'établissement, dans le cadre des projets d'établissement
-ou de projets communs à plusieurs établissements. Elle est conjointement réalisée par les conseillers d'orientation-
-psychologues, les personnels enseignants, les conseillers de l'enseignement technologique et les représentants des
-organisations professionnelles et des      chambres de commerce et d'industrie territoriales, de métiers et d'agriculture, en
-liaison avec les collectivités territoriales. Elle s'accompagne de la remise d'une documentation.
+Il est défini, sous la responsabilité du chef d'établissement et avec l'élève, ses parents ou son responsable légal, par les
+conseillers d'orientation-psychologues, les enseignants et les autres professionnels compétents. Les administrations
+concernées, les collectivités territoriales, les organisations professionnelles, les entreprises et les associations
+contribuent à la mise en œuvre de ce parcours.
 
 **Liens relatifs à cet article**
 
@@ -9406,7 +9731,7 @@ liaison avec les collectivités territoriales. Elle s'accompagne de la remise d'
 
 	**Modifié par**:
 
-	  - Loi n°2010-853 du 23 juillet 2010 - art. 8
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 47
 
 	**Cité par**:
 
@@ -9456,40 +9781,13 @@ La décision d'orientation peut faire l'objet d'une procédure d'appel.
 
 ##### Chapitre II : Les enseignements dispensés dans les collèges.
 
-###### Article L332-1
-
-Les collèges dispensent un enseignement réparti sur trois cycles.
-
-La durée de ces cycles est fixée par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-486 1989-07-10 art. 4
-	  - Loi n°89-486 du 10 juillet 1989 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 49
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. R451-3 (V)
-
-
 ###### Article L332-2
 
-Tous les enfants reçoivent dans les collèges une formation secondaire. Celle-ci succède sans discontinuité à la formation
-primaire en vue de donner aux élèves une culture accordée à la société de leur temps. Elle repose sur un équilibre des
-disciplines intellectuelles, artistiques, manuelles, physiques et sportives et permet de révéler les aptitudes et les goûts.
-Elle constitue le support de formations générales ou professionnelles ultérieures, que celles-ci suivent immédiatement ou
-qu'elles soient données dans le cadre de l'éducation permanente.
+Dans  la continuité de l'école primaire et dans le cadre de l'acquisition  progressive du socle commun de connaissances, de
+compétences et de  culture, tous les enfants reçoivent dans les collèges une formation  secondaire accordée à la société de
+leur temps. Elle repose sur un équilibre des disciplines intellectuelles, artistiques, manuelles, physiques et sportives et
+permet de révéler les aptitudes et les goûts. Elle constitue le support de formations générales ou professionnelles
+ultérieures, que celles-ci suivent immédiatement ou qu'elles soient données dans le cadre de l'éducation permanente.
 
 **Liens relatifs à cet article**
 
@@ -9499,8 +9797,12 @@ qu'elles soient données dans le cadre de l'éducation permanente.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 50
 
 	**Cité par**:
 
@@ -9512,11 +9814,14 @@ qu'elles soient données dans le cadre de l'éducation permanente.
 
 ###### Article L332-3
 
-Les collèges dispensent un enseignement commun, réparti sur quatre niveaux successifs. Les deux derniers peuvent comporter
-aussi des enseignements complémentaires dont certains préparent à une formation professionnelle ; ces derniers peuvent
-comporter des stages contrôlés par l'Etat et accomplis auprès de professionnels agréés. La scolarité correspondant à ces deux
-niveaux et comportant obligatoirement l'enseignement commun peut être accomplie dans des classes préparatoires rattachées à
-un établissement de formation professionnelle.
+Les collèges dispensent un enseignement commun, réparti sur quatre niveaux successifs. A chacun d'entre eux, des
+enseignements complémentaires peuvent être proposés afin de favoriser l'acquisition du socle commun de connaissances, de
+compétences et de culture et de faciliter l'élaboration du projet d'orientation mentionné à l'article L. 331-7. Au cours de
+la dernière année de scolarité au collège, ceux-ci peuvent préparer les élèves à une formation professionnelle et, dans ce
+cas, comporter éventuellement des stages contrôlés par l'Etat et accomplis auprès de professionnels agréés. Les lycées
+professionnels et les établissements d'enseignement agricole peuvent être associés à cette préparation. Dans les
+établissements d'enseignement agricole, ces enseignements complémentaires peuvent comporter des stages contrôlés par l'Etat
+et accomplis auprès de professionnels agréés, au cours des deux dernières années de scolarité du collège.
 
 **Liens relatifs à cet article**
 
@@ -9526,8 +9831,12 @@ un établissement de formation professionnelle.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 51
 
 	**Cité par**:
 
@@ -9536,6 +9845,10 @@ un établissement de formation professionnelle.
 	  - Code de l'éducation - art. D333-8 (VD)
 	  - Code de l'éducation - art. L332-4 (V)
 	  - Code de l'éducation - art. L442-15 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L331-7 (V)
 
 
 ###### Article L332-3-1
@@ -9568,11 +9881,6 @@ Des aménagements appropriés sont prévus au profit des élèves intellectuelle
 particulières, afin de leur permettre de développer pleinement leurs potentialités. La scolarité peut être accélérée en
 fonction du rythme d'apprentissage de l'élève. 
 
-Des aménagements particuliers permettent, durant les deux derniers niveaux de l'enseignement des collèges et dans le cadre de
-dispositifs d'alternance personnalisés, une découverte approfondie des métiers et des formations ainsi qu'une première
-formation professionnelle. Ces aménagements comprennent notamment le suivi de stages dans les conditions définies à l'article
-L. 332-3, ainsi que de stages dans des centres de formation d'apprentis et des sections d'apprentissage. 
-
 Des actions particulières sont prévues pour l'accueil et la scolarisation des élèves non francophones nouvellement arrivés en
 France. 
 
@@ -9592,7 +9900,7 @@ structures d'accueil adaptées.
 
 	**Modifié par**:
 
-	  - Loi n°2011-893 du 28 juillet 2011 - art. 17
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 52
 
 	**Cite**:
 
@@ -9606,7 +9914,7 @@ structures d'accueil adaptées.
 ###### Article L332-5
 
 La formation dispensée à tous les élèves des collèges comprend obligatoirement une initiation économique et sociale et une
-initiation technologique.
+initiation technologique ainsi qu'une éducation aux médias et à l'information.
 
 **Liens relatifs à cet article**
 
@@ -9616,8 +9924,12 @@ initiation technologique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 53
 
 	**Cité par**:
 
@@ -9629,30 +9941,29 @@ initiation technologique.
 Le diplôme national du brevet sanctionne la formation acquise à l'issue de la scolarité suivie dans les collèges ou dans les
 classes de niveau équivalent situées dans d'autres établissements.
 
-Il atteste la maîtrise des connaissances et des compétences définies à l'article L. 122-1-1, intègre les résultats de
-l'enseignement d'éducation physique et sportive et prend en compte, dans des conditions déterminées par décret, les autres
-enseignements suivis par les élèves selon leurs capacités et leurs intérêts. Il comporte une note de vie scolaire.
-
 Des mentions sont attribuées aux lauréats qui se distinguent par la qualité de leurs résultats.
 
 Des bourses au mérite, qui s'ajoutent aux aides à la scolarité prévues au titre III du livre V, sont attribuées, sous
 conditions de ressources et dans des conditions déterminées par décret, aux lauréats qui obtiennent une mention ou à d'autres
 élèves méritants.
 
+Ce  diplôme atteste la maîtrise du socle commun de connaissances, de  compétences et de culture, dans des conditions fixées
+par décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 32 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 54
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L122-1-1 (V)
+	  - Code de l'éducation - art. L122-1-1
 
 	**Cité par**:
 
@@ -9719,37 +10030,31 @@ d'enseignement, une formation générale et une formation spécialisée. Elle es
 	  - Code de l'éducation - art. R451-1 (VD)
 
 
-###### Article L333-3
+###### Article L333-4
 
-Dans les sections d'enseignement général comportant des enseignements artistiques spécialisés où interviennent des
-professionnels de façon continue, ceux-ci peuvent participer aux opérations d'évaluation et aux jurys du baccalauréat.
+L'examen  du baccalauréat général, technologique ou professionnel sanctionne une  formation équilibrée qui ouvre la voie à la
+poursuite d'études  supérieures et à l'insertion professionnelle. Il comporte la  vérification d'un niveau de connaissances,
+de compétences et de culture  définies par les programmes du lycée, dans des conditions fixées par  décret.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Loi n°89-486 du 10 juillet 1989 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Loi n°2013-595 du 8 juillet 2013 - art. 55
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L371-1 (V)
+	  - Code de l'éducation - art. L373-1 (V)
+	  - Code de l'éducation - art. L442-20 (V)
 
 
 ##### Chapitre IV : Dispositions propres aux enseignements conduisant au baccalauréat général.
 
 ###### Article L334-1
 
-L'examen du baccalauréat général sanctionne une formation équilibrée et comporte :
-
-1° La vérification d'un niveau de culture défini par les enseignements des lycées ;
-
-2° Le contrôle des connaissances dans des enseignements suivis par l'élève en dernière année. Ce contrôle est effectué
-indépendamment dans chacun de ces enseignements.
+Dans  les sections d'enseignement général comportant des enseignements  artistiques spécialisés où interviennent des
+professionnels de façon  continue, ceux-ci peuvent participer aux opérations d'évaluation et aux  jurys du baccalauréat.
 
 **Liens relatifs à cet article**
 
@@ -9759,8 +10064,12 @@ indépendamment dans chacun de ces enseignements.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 55
 
 	**Cité par**:
 
@@ -11041,105 +11350,22 @@ les professions.
 	  - Code de l'éducation - art. L451-1 (M)
 
 
-###### Article L337-3
-
-Les élèves ayant atteint l'âge de quatorze ans peuvent être admis, sur leur demande et celle de leurs représentants légaux, à
-suivre une formation alternée, dénommée " formation d'apprenti junior ", visant à l'obtention, par la voie de
-l'apprentissage, d'une qualification professionnelle dans les conditions prévues au livre II de la sixième partie législative
-du code du travail. Cette formation comprend un parcours d'initiation aux métiers effectué sous statut scolaire dans un lycée
-professionnel ou un centre de formation d'apprentis, puis une formation en apprentissage. 
-
-Une fois l'admission à la formation acquise, l'équipe pédagogique élabore, en association avec l'élève et ses représentants
-légaux, un projet pédagogique personnalisé. Un tuteur, désigné au sein de l'équipe pédagogique, est chargé de son suivi. Il
-accompagne l'apprenti junior tout au long de sa formation, y compris lors des périodes en entreprise, en liaison avec le
-tuteur en entreprise ou le maître d'apprentissage. 
-
-Les élèves suivant une formation d'apprenti junior peuvent, à tout moment, après avis de l'équipe pédagogique et avec
-l'accord de leurs représentants légaux et jusqu'à la fin de la scolarité obligatoire mentionnée à l'article L. 131-1, mettre
-fin à cette formation et reprendre leur scolarité dans un collège, y compris leur collège d'origine, ou un établissement
-d'enseignement agricole ou maritime.A l'issue de la première période de formation, ils peuvent également demander à
-poursuivre le parcours d'initiation aux métiers si leur projet professionnel n'est pas suffisamment abouti pour leur
-permettre de signer un contrat d'apprentissage. 
-
-Le parcours d'initiation aux métiers comporte des enseignements généraux, des enseignements technologiques et pratiques et
-des stages en milieu professionnel, et ce dans plusieurs entreprises.L'ensemble de ces activités concourt à l'acquisition du
-socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 et permet à l'élève de découvrir plusieurs
-métiers et de préparer son choix. 
-
-Les stages en milieu professionnel se déroulent dans les conditions prévues à l'article L. 331-5. Lorsque leur durée excède
-une durée minimale fixée par décret, ils donnent lieu au versement, par les entreprises au sein desquelles ils sont
-effectués, d'une gratification dont le montant est fixé par décret. Cette gratification, d'ordre financier, n'a pas le
-caractère d'un salaire au sens de l'article L. 3221-3 du code du travail.
-
-L'élève stagiaire en parcours d'initiation aux métiers, avec l'accord de son représentant légal, peut signer un contrat
-d'apprentissage à partir de l'âge de quinze ans, à la condition qu'il soit jugé apte à poursuivre l'acquisition, par la voie
-de l'apprentissage, du socle commun de connaissances et de compétences mentionné à l'article L. 122-1-1 dans la perspective
-d'obtenir une qualification professionnelle sanctionnée par un diplôme ou un titre à finalité professionnelle enregistré au
-répertoire national des certifications professionnelles.
-
-L'ouverture des parcours d'initiation aux métiers dans les lycées professionnels et les centres de formation d'apprentis est
-inscrite au contrat de plan régional de développement des formations professionnelles mentionné à l'article L. 214-13. 
-
-Les dépenses de transport scolaire spécifiquement liées à la formation de l'apprenti junior sous statut scolaire donnent lieu
-à une compensation au département par l'Etat, dans des conditions fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°89-486 du 10 juillet 1989 - art. 7 ter (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°2009-1437 du 24 novembre 2009 - art. 57
-
-	**Abrogé par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 56
-
-	**Cité par**:
-
-	  - Code de l'éducation - art. D337-161 (Ab)
-	  - Code de l'éducation - art. D337-164 (Ab)
-	  - Code de l'éducation - art. D337-171 (Ab)
-	  - Code de l'éducation - art. L337-4 (V)
-	  - Code de l'éducation - art. L442-20 (V)
-	  - Code du travail - art. D6211-1 (Ab)
-	  - Code du travail - art. L115-2 (AbD)
-	  - Code du travail - art. L117-17 (AbD)
-	  - Code du travail - art. L117-3 (AbD)
-	  - Code du travail - art. L118-1 (AbD)
-	  - Code du travail - art. L6222-1 (VD)
-	  - Code du travail - art. L6222-20 (Ab)
-	  - Code du travail - art. R6222-10 (V)
-	  - Code général des impôts, CGI. - art. 244 quater G (VD)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 49 septies YJ (V)
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L122-1-1
-	  - Code de l'éducation - art. L131-1
-	  - Code de l'éducation - art. L214-13
-	  - Code de l'éducation - art. L331-5
-	  - Code du travail - art. L3221-3
-
-
 ###### Article L337-3-1
 
 Les centres de formation d'apprentis peuvent accueillir, pour une durée maximale d'un an, les élèves ayant au moins atteint
-l'âge de quinze ans ou accompli la scolarité du premier cycle de l'enseignement secondaire pour leur permettre de suivre,
-sous statut scolaire, une formation en alternance destinée à leur faire découvrir un environnement professionnel
-correspondant à un projet d'entrée en apprentissage.
+l'âge de quinze ans pour leur permettre de suivre, sous statut scolaire, une formation en alternance destinée à leur faire
+découvrir un environnement professionnel correspondant à un projet d'entrée en apprentissage tout en leur permettant de
+poursuivre l'acquisition du socle commun de connaissances, de compétences et de culture mentionné à l'article L. 122-1-1. 
 
-A tout moment, l'élève peut :
+A tout moment, l'élève peut : 
 
 ― soit signer un contrat d'apprentissage, sous la réserve d'avoir atteint l'âge de seize ans ou d'avoir accompli la scolarité
-du premier cycle de l'enseignement secondaire, conformément à l'article L. 6222-1 du code du travail ;
+du premier cycle de l'enseignement secondaire, conformément à l'article L. 6222-1 du code du travail ; 
 
-― soit reprendre sa scolarité dans un collège ou un lycée.
+― soit reprendre sa scolarité dans un collège ou un lycée. 
 
 Les stages en milieu professionnel sont organisés dans les conditions prévues au chapitre III du titre V du livre Ier de la
-quatrième partie du code du travail.
+quatrième partie du code du travail. 
 
 Un décret détermine les modalités d'application du présent article.
 
@@ -11147,12 +11373,16 @@ Un décret détermine les modalités d'application du présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2011-893 du 28 juillet 2011 - art. 18
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 56
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D337-172 (V)
 	  - Code du travail - art. L6222-1 (M)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L122-1-1
 
 
 ###### Article L337-4
@@ -11421,6 +11651,31 @@ cet enseignement.
 	**Modifié par**:
 
 	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
+
+###### Article L351-1-1
+
+La coopération entre les établissements mentionnés à l'article L. 351-1 du présent code et les établissements et services
+mentionnés aux 2° et 3° du I de l'article L. 312-1 du code de l'action sociale et des familles est organisée par des
+conventions passées entre ces établissements et services afin d'assurer la continuité du parcours de scolarisation des élèves
+en situation de handicap. 
+
+Les modalités d'application du présent article sont déterminées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 7
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D351-10-3 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L351-1
+	  - Code de l'action sociale et des familles - art. L312-1
 
 
 ###### Article L351-2
@@ -12329,7 +12584,8 @@ l'interdisciplinarité, l'organisation pédagogique de la classe, de l'école ou
 partenaires du système éducatif, les échanges ou le jumelage avec des établissements étrangers d'enseignement scolaire. Ces
 expérimentations font l'objet d'une évaluation annuelle.
 
-Le Haut Conseil de l'éducation établit chaque année un bilan des expérimentations menées en application du présent article.
+Le Conseil national d'évaluation du système scolaire  établit chaque année un bilan des expérimentations menées en
+application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -12354,12 +12610,12 @@ Le Haut Conseil de l'éducation établit chaque année un bilan des expérimenta
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 34 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 33
 
 
 ###### Article L401-2
@@ -12397,6 +12653,34 @@ de l'école ou le chef d'établissement au cours d'une réunion ou d'un entretie
 	  - Loi n°2010-1127 du 28 septembre 2010 - art. 2
 
 
+###### Article L401-4
+
+Il est institué, dans chaque secteur de recrutement d'un collège, un conseil école-collège. En cohérence avec le projet
+éducatif territorial, celui-ci propose au conseil d'administration du collège et aux conseils des écoles de ce secteur des
+actions de coopération, des enseignements et des projets pédagogiques communs visant à l'acquisition par les élèves du socle
+commun de connaissances, de compétences et de culture prévu à l'article L. 122-1-1. Parmi ces propositions, des échanges de
+pratiques et d'enseignants entre les établissements peuvent être expérimentés sur la base du volontariat, dans le respect du
+statut de l'enseignant. La composition et les modalités de fonctionnement du conseil école-collège sont fixées par décret. 
+
+Le comité d'éducation à la santé et à la citoyenneté peut être commun au collège et aux écoles concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 57
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. D401-1 (VD)
+	  - Code de l'éducation - art. D401-3 (VD)
+	  - Code de l'éducation - art. D411-2 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L122-1-1
+
+
 #### Titre Ier : Les écoles
 
 ##### Chapitre Ier : Organisation et fonctionnement des écoles maternelles et élémentaires.
@@ -12405,9 +12689,10 @@ de l'école ou le chef d'établissement au cours d'une réunion ou d'un entretie
 
 Un directeur veille à la bonne marche de chaque école maternelle ou élémentaire ; il assure la coordination nécessaire entre
 les maîtres. Un décret en Conseil d'Etat fixe les conditions de recrutement, de formation et d'exercice des fonctions
-spécifiques des directeurs d'école maternelle et élémentaire. Les parents d'élèves élisent leurs représentants qui
-constituent un comité des parents, réuni périodiquement par le directeur de l'école. Le représentant de la commune ou de
-l'établissement public de coopération intercommunale intéressé assiste de plein droit à ces réunions.
+spécifiques des directeurs d'école maternelle et élémentaire. Le  directeur de l'école préside le conseil d'école qui réunit
+les  représentants de la communauté éducative et donne son avis sur les  principales questions de la vie scolaire. La
+composition et les  attributions du conseil d'école sont précisées par décret. La  participation des parents se fait par le
+biais de l'élection de leurs  représentants au conseil d'école chaque année.
 
 **Liens relatifs à cet article**
 
@@ -12417,12 +12702,12 @@ l'établissement public de coopération intercommunale intéressé assiste de pl
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 35 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 59
 
 	**Cité par**:
 
@@ -12541,20 +12826,36 @@ coopération intercommunale intéressé.
 ###### Article L421-2
 
 Les établissements publics locaux mentionnés à l'article L. 421-1 sont administrés par un conseil d'administration composé,
-selon l'importance de l'établissement, de vingt-quatre ou de trente membres. Celui-ci comprend :
+selon l'importance de l'établissement, de vingt-quatre ou de trente membres. Celui-ci comprend : 
 
 1° Pour un tiers, des représentants des collectivités territoriales, des représentants de l'administration de l'établissement
 et une ou plusieurs personnalités qualifiées ; dans le cas où ces dernières représenteraient le monde économique, elles
-comprendraient, à parité, des représentants des organisations représentatives des salariés et des employeurs ;
+comprendraient, à parité, des représentants des organisations représentatives des salariés et des employeurs ; 
 
-2° Pour un tiers, des représentants élus du personnel de l'établissement ;
+2° Pour un tiers, des représentants élus du personnel de l'établissement ; 
 
-3° Pour un tiers, des représentants élus des parents d'élèves et élèves.
+3° Pour un tiers, des représentants élus des parents d'élèves et élèves. 
 
-Les représentants des collectivités territoriales sont au nombre de trois ou de quatre selon que l'effectif du conseil
-d'administration est de vingt-quatre ou de trente membres. Ils comprennent un représentant de la collectivité de
-rattachement, le cas échéant, un représentant de l'établissement public de coopération intercommunale et un ou plusieurs
-représentants de la commune siège de l'établissement.
+Les représentants des collectivités territoriales sont au nombre de trois ou de quatre, selon que l'effectif du conseil
+d'administration est de vingt-quatre ou de trente membres. 
+
+Lorsque les représentants des collectivités territoriales sont au nombre de trois, ils comprennent deux représentants de la
+collectivité de rattachement et un représentant de la commune siège de l'établissement et, lorsqu'il existe un établissement
+public de coopération intercommunale, un représentant de cet établissement public siège sans voix délibérative. 
+
+Lorsque les représentants des collectivités territoriales sont au nombre de quatre, ils comprennent deux représentants de la
+collectivité de rattachement et deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un
+établissement public de coopération intercommunale, deux représentants de la collectivité de rattachement, un représentant de
+cet établissement public de coopération intercommunale et un représentant de la commune siège. 
+
+Lorsque les représentants d'une même collectivité territoriale sont au nombre de deux, l'un d'entre eux peut ne pas être
+membre de l'assemblée délibérante. 
+
+Toutefois, lorsque, en application du b du 2 du II ou du a du 2 du III de l'article L. 5217-4 du code général des
+collectivités territoriales, les compétences d'une région ou d'un département en matière de construction, d'aménagement,
+d'entretien et de fonctionnement des lycées ou des collèges sont exercées par une métropole, un représentant de la métropole
+siège au conseil d'administration des établissements publics locaux d'enseignement concernés en lieu et place de l'un des
+représentants de la collectivité territoriale de rattachement.
 
 **Liens relatifs à cet article**
 
@@ -12564,8 +12865,12 @@ représentants de la commune siège de l'établissement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 60
 
 	**Cité par**:
 
@@ -12575,6 +12880,7 @@ représentants de la commune siège de l'établissement.
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L5217-4 (V)
 	  - Code de l'éducation - art. L421-1 (V)
 
 
@@ -12634,8 +12940,10 @@ objectifs à atteindre ;
 
 3° Il adopte le budget dans les conditions fixées par le présent chapitre ;
 
-4° Il se prononce sur le contrat d'objectifs conclu entre l'établissement et l'autorité académique, après en avoir informé la
-collectivité territoriale de rattachement.
+4° Il se prononce sur le contrat d'objectifs conclu entre l'établissement, l'autorité académique et, lorsqu'elle souhaite y
+être partie, la collectivité territoriale de rattachement ;
+
+5° Il établit chaque année un bilan des actions menées à destination des parents des élèves de l'établissement. 
 
 Le conseil d'administration peut déléguer certaines de ses attributions à une commission permanente.
 
@@ -12647,12 +12955,8 @@ Le conseil d'administration peut déléguer certaines de ses attributions à une
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 36 () JORF 24 avril 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -12661,6 +12965,10 @@ Le conseil d'administration peut déléguer certaines de ses attributions à une
 	  - Code de l'éducation - art. L421-19-4 (V)
 	  - Code de l'éducation - art. L421-6 (Ab)
 	  - Code de l'éducation - art. R421-78-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 61
 
 
 ###### Article L421-5
@@ -12708,7 +13016,8 @@ l'évaluation des activités scolaires. Il prépare la partie pédagogique du pr
 
 ###### Article L421-7
 
-Les établissements scolaires organisent des contacts et des échanges avec leur environnement économique, culturel et social.
+Les établissements scolaires organisent des contacts et des échanges avec leur environnement économique, culturel et social,
+particulièrement dans les zones d'éducation prioritaire. 
 
 Les collèges, lycées et centres de formation d'apprentis, publics et privés sous contrat, relevant de l'éducation nationale,
 de l'enseignement agricole ou d'autres statuts, peuvent s'associer au sein de réseaux, au niveau d'un bassin de formation,
@@ -12729,17 +13038,16 @@ et social.
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 18
 	  - Loi n°89-486 du 10 juillet 1989 - art. 18 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 37 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 58
 
 
 ###### Article L421-8
@@ -13680,6 +13988,47 @@ rattachement.
 
 
 ##### Chapitre III : Les groupements d'établissements scolaires publics.
+
+###### Article L423-1
+
+Pour  la mise en œuvre de leur mission de formation continue ainsi que de  formation et d'insertion professionnelles, les
+établissements scolaires  publics s'associent en groupement d'établissements dans des conditions  définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-610 du 15 juillet 1982
+
+	**Anciens textes**:
+
+	  - Loi n°89-486 du 10 juillet 1989 - art. 19 (Ab)
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Cité par**:
+
+	  - Loi n°2001-2 du 3 janvier 2001 - art. 3 (V)
+	  - Loi n°2011-525 du 17 mai 2011 - art. 120 (V)
+	  - Décret n°2012-1513 du 28 décembre 2012 - art. 1 (V)
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 62 (V)
+	  - Arrêté du 16 mai 2014 - art. (V)
+	  - Arrêté du 8 octobre 2014 - art. 2 (V)
+	  - Code de l'éducation - art. D423-1 (V)
+	  - Code de l'éducation - art. D423-17 (V)
+	  - Code de l'éducation - art. L451-1 (M)
+	  - Code de l'éducation - art. L491-1 (V)
+	  - Code de l'éducation - art. L937-1 (V)
+	  - Code de l'éducation - art. R451-1 (VD)
+	  - Code de la recherche - art. L114-5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 62 (V)
+
 
 ###### Article L423-3
 
@@ -14730,8 +15079,9 @@ couvrir les charges diverses dont les établissements d'enseignement public sont
 compensation dans les conditions prévues par les articles L. 1614-1, L. 1614-3 et L. 1614-4 du code général des collectivités
 territoriales. 
 
-Le montant des dépenses pédagogiques à la charge de l'Etat pour les classes sous contrat d'association des établissements
-d'enseignement privés du second degré est déterminé annuellement dans la loi de finances.
+Le montant des dépenses de fonctionnement à caractère directement pédagogique à la charge de l'Etat pour les classes sous
+contrat d'association des établissements d'enseignement privés du second degré est déterminé annuellement dans la loi de
+finances.
 
 **Liens relatifs à cet article**
 
@@ -14750,12 +15100,12 @@ d'enseignement privés du second degré est déterminé annuellement dans la loi
 
 	**Modifié par**:
 
-	  - Loi n°2009-1312 du 28 octobre 2009 - art. 3
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 19
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1614-1 (V)
-	  - Code général des collectivités territoriales - art. L1614-3 (V)
+	  - Code général des collectivités territoriales - art. L1614-1
+	  - Code général des collectivités territoriales - art. L1614-3
 	  - Code de l'éducation - art. L211-8
 	  - Code de l'éducation - art. L213-2-1
 	  - Code de l'éducation - art. L214-6-1
@@ -15019,34 +15369,33 @@ complémentaires préparant à la formation professionnelle prévue à l'article
 
 ###### Article L442-16
 
-Les établissements d'enseignement privés ayant passé avec l'Etat l'un des contrats prévus aux articles L. 442-5 et L. 442-12
-reçoivent de l'Etat, dans la limite des crédits inscrits à cet effet dans la loi de finances, soit les matériels
-informatiques pédagogiques nécessaires à l'application des programmes d'enseignement du premier et du second degrés, soit une
-subvention permettant l'acquisition de ces matériels.
-
-Les collectivités territoriales peuvent concourir à l'acquisition des matériels informatiques complémentaires par les
-établissements visés à l'alinéa ci-dessus sans que ce concours puisse excéder celui qu'elles apportent aux établissements
-d'enseignement publics dont elles ont la charge en application des articles L. 212-4, L. 213-2 et L. 214-6.
+Les collectivités territoriales peuvent concourir à l'acquisition d'équipements informatiques par les établissements
+d'enseignement privés ayant passé avec l'Etat l'un des contrats prévus aux articles L. 442-5 et L. 442-12 sans que ce
+concours puisse excéder celui qu'elles apportent aux établissements d'enseignement publics dont elles ont la charge en
+application des articles L. 212-4, L. 213-2 et L. 214-6.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°86-972 du 19 août 1986 - art. 19, v. init.
 	  - Loi n°86-972 du 19 août 1986 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 22
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L212-4 (M)
-	  - Code de l'éducation - art. L213-2 (M)
-	  - Code de l'éducation - art. L214-6 (M)
+	  - Code de l'éducation - art. L212-4 (V)
+	  - Code de l'éducation - art. L213-2 (V)
+	  - Code de l'éducation - art. L214-6 (V)
 	  - Code de l'éducation - art. L442-12 (V)
-	  - Code de l'éducation - art. L442-5 (M)
+	  - Code de l'éducation - art. L442-5 (V)
 
 
 ###### Article L442-17
@@ -15131,12 +15480,14 @@ maritime.
 
 ###### Article L442-20
 
-Les articles L. 111-1, L. 111-2, L. 111-3, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-1, L.
-121-3, L. 122-1 à L. 122-5, L. 131-1, L. 131-1-1, L. 230-1, L. 230-2, L. 230-3, L. 311-1 à L. 311-4, L. 311-6, L. 311-7, L.
-312-10, L. 313-1, L. 321-1, le premier alinéa de l'article L. 321-2, les articles L. 321-3, L. 321-4, L. 331-1, L. 331-4, L.
-331-7, L. 331-8, L. 332-1 à L. 332-4, L. 332-6, L. 333-1 à L. 333-3, L. 334-1, L. 337-2, L. 337-3, L. 511-3, la première
-phrase de l'article L. 521-1 et l'article L. 551-1 sont applicables aux établissements d'enseignement privés sous contrat
-dans le respect des dispositions du présent chapitre.
+Les articles L. 111-1, L. 111-2, L. 111-3, L. 112-2, le premier alinéa de l'article L. 113-1, les articles L. 121-6, L.
+122-1-1 à L. 122-5, L. 131-1, L. 131-1-1, L. 231-14 à L. 231-17, 
+L. 241-12 à L. 241-14, L. 311-1 à L. 311-7, 
+L. 312-9, L. 312-9-2, L. 312-10, L. 312-15, L. 313-1, le premier alinéa de l'article L. 321-2, les articles L. 321-3, L.
+321-4, 
+L. 331-1, L. 331-4, L. 331-7, L. 331-8, L. 332-2 à L. 332-6, L. 333-1 à L. 333-2, L. 333-4, L. 334-1, L. 337-2, L. 511-3, la
+première phrase de l'article L. 521-1 et l'article L. 551-1 sont applicables aux établissements d'enseignement privés sous
+contrat dans le respect des dispositions du présent chapitre.
 
 **Liens relatifs à cet article**
 
@@ -15147,46 +15498,41 @@ dans le respect des dispositions du présent chapitre.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 51 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 64
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L111-1 (M)
-	  - Code de l'éducation - art. L111-2 (M)
-	  - Code de l'éducation - art. L111-3 (M)
-	  - Code de l'éducation - art. L112-2 (M)
-	  - Code de l'éducation - art. L113-1 (M)
-	  - Code de l'éducation - art. L121-1 (M)
-	  - Code de l'éducation - art. L121-3 (V)
+	  - Code de l'éducation - art. L111-1 (V)
+	  - Code de l'éducation - art. L112-2 (V)
+	  - Code de l'éducation - art. L113-1 (V)
+	  - Code de l'éducation - art. L121-6 (V)
+	  - Code de l'éducation - art. L122-1-1 (V)
 	  - Code de l'éducation - art. L131-1 (V)
-	  - Code de l'éducation - art. L230-1 (V)
-	  - Code de l'éducation - art. L230-2 (V)
-	  - Code de l'éducation - art. L230-3 (V)
-	  - Code de l'éducation - art. L311-6 (M)
-	  - Code de l'éducation - art. L311-7 (M)
-	  - Code de l'éducation - art. L312-10 (M)
-	  - Code de l'éducation - art. L313-1 (M)
-	  - Code de l'éducation - art. L321-1 (V)
-	  - Code de l'éducation - art. L321-2 (M)
-	  - Code de l'éducation - art. L321-3 (M)
-	  - Code de l'éducation - art. L321-4 (M)
-	  - Code de l'éducation - art. L331-1 (M)
+	  - Code de l'éducation - art. L231-14 (V)
+	  - Code de l'éducation - art. L241-12 (V)
+	  - Code de l'éducation - art. L311-1 (V)
+	  - Code de l'éducation - art. L312-10 (V)
+	  - Code de l'éducation - art. L312-15 (V)
+	  - Code de l'éducation - art. L312-9 (V)
+	  - Code de l'éducation - art. L312-9-2 (Ab)
+	  - Code de l'éducation - art. L313-1 (V)
+	  - Code de l'éducation - art. L321-2 (V)
+	  - Code de l'éducation - art. L321-3 (V)
+	  - Code de l'éducation - art. L331-1 (V)
 	  - Code de l'éducation - art. L331-4 (V)
-	  - Code de l'éducation - art. L331-7 (M)
-	  - Code de l'éducation - art. L331-8 (V)
-	  - Code de l'éducation - art. L332-6 (V)
-	  - Code de l'éducation - art. L334-1 (V)
+	  - Code de l'éducation - art. L331-7 (V)
+	  - Code de l'éducation - art. L332-2 (V)
+	  - Code de l'éducation - art. L333-1 (V)
+	  - Code de l'éducation - art. L333-4 (V)
 	  - Code de l'éducation - art. L337-2 (V)
-	  - Code de l'éducation - art. L337-3 (M)
-	  - Code de l'éducation - art. L511-3 (M)
+	  - Code de l'éducation - art. L511-3 (V)
 	  - Code de l'éducation - art. L521-1 (V)
 	  - Code de l'éducation - art. L551-1 (V)
-	  - Code de l'éducation L111-1, L111-2, L111-3, L112-2, L113-1, L121-1, L121-3, L122-1 à L122-5, L131-1, L311-1-1, L230-1, L230-2, L230-3, L311-1 à L311-4, L311-6, L311-7, L312-10, L313-1, L321-1, L321-2, L321-3, L321-4, L331-1, L331-4, L331-7, L331-8, L
 
 	**Cité par**:
 
@@ -15815,7 +16161,7 @@ la tutelle du ministre chargé des affaires étrangères et du ministre chargé 
 
 ###### Article L452-2
 
-L'agence a pour objet :
+L'agence a pour objet en tenant compte des capacités d'accueil des établissements :
 
 1° D'assurer, en faveur des enfants français établis hors de France, les missions de service public relatives à l'éducation ;
 
@@ -15839,8 +16185,8 @@ ministre chargé des affaires étrangères et du ministre chargé de la coopéra
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -15853,7 +16199,7 @@ ministre chargé des affaires étrangères et du ministre chargé de la coopéra
 
 	**Modifié par**:
 
-	  - Ordonnance 2005-461 2005-05-13 art. 3 2° JORF 14 mai 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 85
 
 
 ###### Article L452-3
@@ -16907,8 +17253,11 @@ d'enseignement en raison des circonstances locales.
 
 ###### Article L521-4
 
-L'architecture scolaire a une fonction éducative. Elle est un élément indispensable de la pédagogie et favorise le
-développement de la sensibilité artistique.
+L'architecture scolaire a une fonction éducative. Elle est un élément indispensable de la pédagogie, contribue à la
+transmission des connaissances et à la découverte des cultures et favorise le développement de l'autonomie et de la
+sensibilité artistique des élèves.
+
+Il est prévu, dans tous les établissements d'enseignement, un espace à l'usage des parents d'élèves et de leurs délégués.
 
 **Liens relatifs à cet article**
 
@@ -16918,8 +17267,12 @@ développement de la sensibilité artistique.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 65
 
 	**Cité par**:
 
@@ -17202,43 +17555,40 @@ conseil général et en fait connaître les motifs. "
 
 ###### Article L541-1
 
-Au cours de leur sixième, neuvième, douzième et quinzièmes années, tous les enfants sont obligatoirement soumis à une visite
-médicale au cours de laquelle un bilan de leur état de santé physique et psychologique est réalisé. Ces visites ne donnent
-pas lieu à contribution pécuniaire de la part des familles.
+Les actions de promotion de la santé des élèves font partie des missions de l'éducation nationale. Elles sont en priorité
+assurées par les médecins et infirmiers de l'éducation nationale. A ce titre, les élèves bénéficient, au cours de leur
+scolarité, d'actions de prévention et d'information, de visites médicales et de dépistage obligatoires, qui constituent leur
+parcours de santé dans le système scolaire. Ces actions favorisent notamment leur réussite scolaire et la réduction des
+inégalités en matière de santé.  
+
+Les visites médicales et de dépistage obligatoires ne donnent pas lieu à contribution pécuniaire de la part des familles.
 
 Les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants à ces visites, sauf s'ils sont en
-mesure de fournir un certificat médical attestant que le bilan mentionné au premier alinéa a été assuré par un professionnel
-de santé de leur choix.
+mesure de fournir un certificat médical attestant qu'un bilan de leur état de santé physique et psychologique a été assuré
+par un professionnel de santé de leur choix.
 
-A l'occasion de la visite de la sixième année, un dépistage des troubles spécifiques du langage et de l'apprentissage est
-organisé. Les médecins de l'éducation nationale travaillent en lien avec l'équipe éducative, les professionnels de santé et
-les parents, afin que, pour chaque enfant, une prise en charge et un suivi adaptés soient réalisés suite à ces visites.
+Au cours de la sixième année, une visite comprenant un dépistage des troubles spécifiques du langage et de l'apprentissage
+est organisée. Les médecins de l'éducation nationale travaillent en lien avec l'équipe éducative, les professionnels de santé
+et les parents, afin que, pour chaque enfant, une prise en charge et un suivi adaptés soient réalisés suite à ces visites.
 
-Le ministère de la santé détermine, par voie réglementaire, pour chacune des visites obligatoires, le contenu de l'examen
-médical de prévention et de dépistage.
+Les ministres chargés de l'éducation nationale et de la santé déterminent conjointement, par voie réglementaire, pour les
+visites médicales et les dépistages obligatoires, la périodicité et le contenu de l'examen médical de prévention et de
+dépistage.
 
 Des examens médicaux périodiques sont également effectués pendant tout le cours de la scolarité et le suivi sanitaire des
-élèves est exercé avec le concours d'un service social et, dans les établissements du second degré, de l'infirmière qui leur
-est affectée.
-
-Les visites obligatoires des neuvième, douzième et quinzième années sont assurées pour la moitié au moins de la classe d'âge
-concernée dans un délai de trois ans et, pour toute la classe d'âge concernée, dans un délai de six ans à compter de la
-publication de la loi n° 2007-293 du 5 mars 2007 réformant la protection de l'enfance.
+élèves est exercé avec le concours de l'infirmier et, dans les établissements du second degré, d'un assistant de service
+social.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Cite**:
-
-	  - Loi n°2007-293 du 5 mars 2007 (V)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-293 du 5 mars 2007 - art. 1 () JORF 6 mars 2007
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 6
 
 	**Cité par**:
 
@@ -17264,10 +17614,6 @@ publication de la loi n° 2007-293 du 5 mars 2007 réformant la protection de l'
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la santé publique - art. L2325-1 (V)
-
-	**Anciens textes**:
-
-	  - Code de la santé publique - art. L191 (M)
 
 
 ###### Article L541-2
@@ -17542,26 +17888,31 @@ Un décret fixe les conditions d'application des articles L. 542-2 et L. 542-3.
 
 ###### Article L551-1
 
-Des activités périscolaires prolongeant le service public de l'éducation peuvent être organisées avec le concours notamment
-des administrations, des collectivités territoriales, des associations et des fondations, sans toutefois se substituer aux
-activités d'enseignement et de formation fixées par l'Etat.
+Des activités périscolaires prolongeant le service public de l'éducation, et en complémentarité avec lui, peuvent être
+organisées dans le cadre d'un projet éducatif territorial associant notamment aux services et établissements relevant du
+ministre chargé de l'éducation nationale d'autres administrations, des collectivités territoriales, des associations et des
+fondations, sans toutefois se substituer aux activités d'enseignement et de formation fixées par l'Etat. L'élaboration et la
+mise en application de ce projet sont suivies par un comité de pilotage.
 
-Elles visent notamment à favoriser, pendant le temps libre des élèves, leur égal accès aux pratiques culturelles et sportives
-et aux nouvelles technologies de l'information et de la communication. Les établissements scolaires veillent, dans
-l'organisation des activités périscolaires à caractère facultatif, à ce que les ressources des familles ne constituent pas un
-facteur discriminant entre les élèves.
+Le projet éducatif territorial vise notamment à favoriser, pendant le temps libre des élèves, leur égal accès aux pratiques
+et activités culturelles et sportives et aux nouvelles technologies de l'information et de la communication. Les
+établissements scolaires veillent, dans l'organisation des activités périscolaires à caractère facultatif, à ce que les
+ressources des familles ne constituent pas un facteur discriminant entre les élèves.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 du 10 juillet 1989 - art. 1, v. init.
 	  - Loi n°89-486 du 10 juillet 1989 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 66
 
 	**Cité par**:
 
@@ -17789,8 +18140,8 @@ premier degré dispensé dans les établissements d'enseignement privés et l'en
 Le présent titre détermine les principes fondamentaux applicables à l'ensemble des formations qui relèvent de l'autorité ou
 du contrôle du ministre chargé de l'enseignement supérieur, que ces formations soient assurées par des établissements publics
 à caractère scientifique, culturel et professionnel définis au titre Ier du livre VII ou par d'autres établissements publics
-dispensant un enseignement après les études secondaires tels que les instituts universitaires de formation des maîtres et les
-lycées comportant des sections de techniciens supérieurs ou des classes préparatoires aux écoles.
+dispensant un enseignement après les études secondaires tels que les lycées comportant des sections de techniciens supérieurs
+ou des classes préparatoires aux écoles.
 
 Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont ouvertes et agréées, dans chaque région, des
 classes préparatoires aux écoles ouvertes principalement aux élèves provenant d'établissements situés en zone d'éducation
@@ -17804,7 +18155,6 @@ d'enseignement supérieur, français et étrangers, pour les associer au recrute
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 12
 	  - Loi n°84-52 du 26 janvier 1984 - art. 12 (Ab)
 
 	**Cité par**:
@@ -17834,12 +18184,12 @@ d'enseignement supérieur, français et étrangers, pour les associer au recrute
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2006-396 du 31 mars 2006 - art. 11 () JORF 2 avril 2006
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 68
 
 
 ###### Article L611-2
@@ -19285,28 +19635,30 @@ leurs formations initiale et continue.
 	  - Code de l'éducation - art. L682-1 (V)
 
 
-##### Chapitre V : Formation des maîtres.
+##### Chapitre V : Formation des personnels enseignants et d'éducation
 
 ###### Article L625-1
 
-La formation des maîtres est assurée par les instituts universitaires de formation des maîtres. Ces instituts accueillent à
-cette fin des étudiants préparant les concours d'accès aux corps des personnels enseignants et les stagiaires admis à ces
-concours.
+Les écoles supérieures du professorat et de l'éducation organisent, sans préjudice des missions confiées aux écoles normales
+supérieures, la formation initiale des futurs enseignants et des personnels d'éducation et participent à leur formation
+continue. Elles accueillent aussi les personnels exerçant une activité au sein des écoles et des établissements scolaires
+dans le cadre des formations professionnelles organisées par les autorités académiques. 
 
-La formation dispensée dans les instituts universitaires de formation des maîtres répond à un cahier des charges fixé par
-arrêté des ministres chargés de l'enseignement supérieur et de l'éducation nationale après avis du Haut Conseil de
-l'éducation. Elle fait alterner des périodes de formation théorique et des périodes de formation pratique.
+Les ministres chargés de l'enseignement supérieur et de l'éducation nationale arrêtent le cadre national des formations liées
+aux métiers du professorat des premier et second degrés et de l'éducation. La formation organisée par les écoles supérieures
+du professorat et de l'éducation inclut des enseignements théoriques, des enseignements liés à la pratique de ces métiers et
+un ou plusieurs stages.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 43 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 68
 
 	**Cité par**:
 
@@ -22563,16 +22915,12 @@ l'université, et leurs structures internes. Le président associe les composant
 mise en oeuvre du contrat pluriannuel d'établissement. La création, la suppression ou le regroupement de composantes sont
 inscrits dans le contrat pluriannuel d'établissement, le cas échéant, par voie d'avenant.
 
-**Nota:**
-
-Loi 2007-1199 du 10 août 2007 art. 45 : L'article 14 de la présente loi s'applique à compter de l'installation du nouveau
-conseil d'administration.
+En outre, les universités peuvent comporter une école supérieure du professorat et de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-52 1984-01-26 art. 25
 	  - Loi n°84-52 du 26 janvier 1984 - art. 25 (Ab)
 
 	**Cité par**:
@@ -22620,16 +22968,12 @@ conseil d'administration.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2007-1199 du 10 août 2007 - art. 14 () JORF 11 août 2007
-
-	**Liens**:
-
-	  - SPEC_APPLI: Entrée en vigueur : Date indéterminée
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 69
 
 
 ###### Article L713-2
@@ -24451,31 +24795,63 @@ de clauses permettant d'assurer la continuité du service public.
 
 #### Titre II : Etablissements de formation des maîtres
 
-##### Chapitre Ier : Missions et organisation des instituts universitaires de formation des maîtres.
+##### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres.
+
+##### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires
+
+###### Article L723-1
+
+La formation professionnelle initiale et continue des personnels qui concourent à la mission d'adaptation et d'intégration
+scolaires des enfants et adolescents handicapés mentionnés au titre V du livre III est confiée à un établissement public
+national à caractère administratif placé sous la tutelle du ministre chargé de l'enseignement supérieur et du ministre chargé
+de l'éducation.
+
+Cet établissement est administré par un conseil d'administration et dirigé par un directeur nommé par arrêté des ministres
+précités. Le conseil d'administration comprend des représentants de l'Etat, des personnalités qualifiées, des représentants
+des établissements publics d'enseignement supérieur et des collectivités territoriales ainsi que des représentants élus du
+personnel et des usagers. Il est assisté par un conseil scientifique et pédagogique.
+
+Un décret fixe les attributions, les modalités d'organisation et de fonctionnement, et la composition du conseil
+d'administration de cet établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2000-549 2000-06-15
+	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+
+	**Créé par**:
+
+	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+
+
+#### Titre II : Ecoles supérieures du professorat et de l'éducation
+
+##### Chapitre Ier : Missions et organisation des écoles supérieures du professorat et de l'éducation
 
 ###### Article L721-1
 
-Les instituts universitaires de formation des maîtres sont régis par les dispositions de l'article L. 713-9 et sont
-assimilés, pour l'application de ces dispositions, à des écoles faisant partie des universités.
+Les écoles supérieures du professorat et de l'éducation sont constituées soit au sein d'un établissement public à caractère
+scientifique, culturel et professionnel, soit au sein d'un établissement public de coopération scientifique. 
 
-Des conventions peuvent être conclues, en tant que de besoin, avec d'autres établissements d'enseignement supérieur.
+Ces écoles sont créées sur proposition du conseil d'administration de l'établissement public et accréditées par un arrêté
+conjoint des ministres chargés de l'enseignement supérieur et de l'éducation nationale, après avis du Conseil national de
+l'enseignement supérieur et de la recherche. 
 
-D'ici 2010, l'Agence d'évaluation de la recherche et de l'enseignement supérieur procède à une évaluation des modalités et
-des résultats de l'intégration des instituts universitaires de formation des maîtres au sein des universités, notamment au
-regard des objectifs qui leur sont fixés.
+L'école est accréditée pour la durée du contrat pluriannuel liant l'Etat à l'établissement public. 
 
-Dans le cadre des orientations définies par l'Etat, ces instituts universitaires de formation des maîtres conduisent les
-actions de formation professionnelle initiale des personnels enseignants. Celles-ci comprennent des parties communes à
-l'ensemble des corps et des parties spécifiques en fonction des disciplines et des niveaux d'enseignement.
+L'accréditation est renouvelée pour la même durée, après une évaluation nationale, par arrêté conjoint des ministres chargés
+de l'enseignement supérieur et de l'éducation nationale, après avis du Conseil national de l'enseignement supérieur et de la
+recherche. 
 
-Les instituts universitaires de formation des maîtres participent à la formation continue des personnels enseignants et à la
-recherche en éducation.
+L'accréditation de l'école emporte l'habilitation de l'établissement public à caractère scientifique, culturel et
+professionnel ou de l'établissement public de coopération scientifique ou des établissements publics d'enseignement supérieur
+partenaires, mentionnés à l'article L. 721-2, à délivrer le diplôme national de master dans les domaines des métiers de
+l'enseignement, de l'éducation et de la formation. 
 
-Ils organisent des formations de préparation professionnelle en faveur des étudiants.
-
-Les formations mentionnées aux trois alinéas précédents comportent des actions de sensibilisation à la lutte contre les
-discriminations, aux enjeux de l'égalité entre les femmes et les hommes, aux violences faites aux femmes et aux violences
-commises au sein du couple.
+Les modalités d'accréditation sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et de
+l'éducation nationale
 
 **Liens relatifs à cet article**
 
@@ -24513,7 +24889,7 @@ commises au sein du couple.
 
 	**Modifié par**:
 
-	  - Loi n°2010-769 du 9 juillet 2010 - art. 23
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 70
 
 	**Cite**:
 
@@ -24522,9 +24898,45 @@ commises au sein du couple.
 
 ###### Article L721-2
 
-Les instituts universitaires de formation des maîtres qui possèdent une capacité d'accueil adaptée à la formation des
-enseignants de l'enseignement technique peuvent organiser des stages de formation continue des enseignants des centres de
-formation d'apprentis.
+Les écoles supérieures du professorat et de l'éducation exercent les missions suivantes : 
+
+1° Elles organisent et, avec les composantes, établissements et autres partenaires mentionnés à la première phrase du dernier
+alinéa du présent article, assurent les actions de formation initiale des étudiants se destinant aux métiers du professorat
+et de l'éducation et des personnels enseignants et d'éducation stagiaires, dans le cadre des orientations définies par
+l'Etat. Ces actions comportent des enseignements communs permettant l'acquisition d'une culture professionnelle partagée et
+des enseignements spécifiques en fonction des métiers, des disciplines et des niveaux d'enseignement. Elles fournissent des
+enseignements disciplinaires et didactiques mais aussi en pédagogie et en sciences de l'éducation. Les écoles organisent des
+formations de préparation aux concours de recrutement dans les métiers du professorat et de l'éducation ; 
+
+2° Elles organisent des actions de formation continue des personnels enseignants des premier et second degrés et des
+personnels d'éducation ; 
+
+3° Elles participent à la formation initiale et continue des personnels enseignants-chercheurs et enseignants de
+l'enseignement supérieur ; 
+
+4° Elles peuvent conduire des actions de formation aux autres métiers de la formation et de l'éducation ; 
+
+5° Elles participent à la recherche disciplinaire et pédagogique ; 
+
+6° Elles participent à des actions de coopération internationale. 
+
+Dans le cadre de leurs missions, elles assurent le développement et la promotion de méthodes pédagogiques innovantes. Elles
+prennent en compte, pour délivrer leurs enseignements, les technologies de l'information et de la communication et forment
+les étudiants et les enseignants à l'usage pédagogique des outils et ressources numériques. 
+
+Elles préparent les futurs enseignants et personnels d'éducation aux enjeux du socle commun de connaissances, de compétences
+et de culture et à ceux de la formation tout au long de la vie. Elles organisent des formations de sensibilisation à
+l'égalité entre les femmes et les hommes, à la lutte contre les discriminations, à la scolarisation des élèves en situation
+de handicap ainsi que des formations à la prévention et à la résolution non violente des conflits. Elles préparent les
+enseignants aux enjeux de l'entrée dans les apprentissages et à la prise en compte de la difficulté scolaire dans le contenu
+des enseignements et la démarche d'apprentissage. 
+
+Elles assurent leurs missions avec les autres composantes de l'établissement public, les établissements publics
+d'enseignement supérieur partenaires et d'autres organismes, les services académiques et les établissements scolaires, le cas
+échéant dans le cadre de conventions conclues avec eux. Leurs équipes pédagogiques intègrent des professionnels intervenant
+dans le milieu scolaire, comprenant notamment des personnels enseignants, d'inspection et de direction en exercice dans les
+premier et second degrés ainsi que des acteurs de l'éducation populaire, de l'éducation culturelle et artistique et de
+l'éducation à la citoyenneté.
 
 **Liens relatifs à cet article**
 
@@ -24541,45 +24953,137 @@ formation d'apprentis.
 
 	**Anciens textes**:
 
-	  - Loi n°92-675 1992-07-17 art. 12
 	  - Loi n°92-675 du 17 juillet 1992 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-380 du 23 avril 2005 - art. 46 () JORF 24 avril 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 70
 
 
-##### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres.
+###### Article L721-3
 
-###### Article L722-1
+I.-Les écoles supérieures du professorat et de l'éducation sont administrées, à parité de femmes et d'hommes, par un conseil
+de l'école et dirigées par un directeur. Elles comprennent également un conseil d'orientation scientifique et pédagogique. 
 
-Pour l'accomplissement des missions définies à l'article L. 721-1, les biens meubles et immeubles affectés aux écoles
-normales primaires et à leurs écoles annexes sont affectés aux instituts universitaires de formation des maîtres.
+Les membres du conseil de l'école et du conseil d'orientation scientifique et pédagogique sont désignés, à parité de femmes
+et d'hommes, pour un mandat de cinq ans, à l'exception des représentants des usagers qui sont désignés, à parité de femmes et
+d'hommes, pour une durée moindre fixée par décret. Ce décret fixe les règles relatives à la composition et au fonctionnement
+de ces conseils, dont les modalités de représentation des personnels, des personnes participant à des actions de formation
+organisées par l'école ainsi que de celles qui en bénéficient. 
+
+Le conseil de l'école, dont l'effectif ne peut dépasser trente membres, comprend des représentants des enseignants, qui sont
+en nombre au moins égal à celui des représentants des autres personnels et des usagers, un ou plusieurs représentants de
+l'établissement public mentionné au premier alinéa de l'article L. 721-1 et au moins 30 % de personnalités extérieures, dont
+au moins un représentant des collectivités territoriales. Au moins la moitié des représentants des enseignants sont des
+représentants des enseignants-chercheurs ; le recteur de l'académie désigne une partie des personnalités extérieures. 
+
+Le président du conseil est élu parmi les personnalités extérieures désignées par le recteur. 
+
+Le directeur de l'école est nommé pour un mandat de cinq ans par arrêté conjoint des ministres chargés de l'enseignement
+supérieur et de l'éducation nationale, sur proposition du conseil de l'école. 
+
+II.-Le conseil de l'école adopte les règles relatives aux examens et les modalités de contrôle des connaissances. Il adopte
+le budget de l'école et approuve les contrats pour les affaires intéressant l'école. Il soumet au conseil d'administration de
+l'établissement public à caractère scientifique, culturel et professionnel ou de l'établissement public de coopération
+scientifique la répartition des emplois. Il est consulté sur les recrutements de l'école. 
+
+III.-Le directeur de l'école prépare les délibérations du conseil de l'école et en assure l'exécution. Il a autorité sur
+l'ensemble des personnels. 
+
+Il a qualité pour signer, au nom de l'établissement public à caractère scientifique, culturel et professionnel ou de
+l'établissement public de coopération scientifique, les conventions relatives à l'organisation des enseignements. Ces
+conventions ne peuvent être exécutées qu'après avoir été approuvées par le président de l'établissement public à caractère
+scientifique, culturel et professionnel ou de l'établissement public de coopération scientifique et votées par le conseil
+d'administration de l'établissement public. 
+
+Le directeur de l'école prépare un document d'orientation politique et budgétaire. Ce rapport est présenté aux instances
+délibératives des établissements publics d'enseignement supérieur partenaires de l'école supérieure du professorat et de
+l'éducation au cours du troisième trimestre de l'année civile. 
+
+Le directeur propose une liste de membres des jurys d'examen au président de l'établissement public à caractère scientifique,
+culturel et professionnel ou de l'établissement public de coopération scientifique pour les formations soumises à examen
+dispensées dans l'école supérieure du professorat et de l'éducation et, le cas échéant, aux présidents des établissements
+partenaires mentionnés à l'avant-dernier alinéa de l'article L. 721-1. 
+
+IV.-Le conseil d'orientation scientifique et pédagogique contribue à la réflexion sur les grandes orientations relatives à la
+politique partenariale et aux activités de formation et de recherche de l'école. 
+
+V.-Chaque école supérieure du professorat et de l'éducation dispose, pour tenir compte des exigences de son développement,
+d'un budget propre intégré au budget de l'établissement public dont elle fait partie. Les ministres compétents peuvent lui
+affecter directement des crédits et des emplois attribués à l'établissement public. Le directeur de l'école supérieure du
+professorat et de l'éducation est ordonnateur des recettes et des dépenses. Le budget de l'école est approuvé par le conseil
+d'administration de l'établissement public, qui peut l'arrêter lorsqu'il n'est pas adopté par le conseil de l'école ou n'est
+pas voté en équilibre réel.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-587 1990-07-04 art. 1
+	  - Loi n°89-486 du 10 juillet 1989 - art. 17 (Ab)
+
+	**Codifié par**:
+
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Cité par**:
+
+	  - Loi n°2005-380 du 23 avril 2005 - art. 87 (V)
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 83 (V)
+	  - Arrêté du 27 août 2013 - art. 1 (V)
+	  - Décret n°2015-6 du 6 janvier 2015 - art. 4 (V)
+	  - Code de l'éducation - art. D719-2 (V)
+	  - Code de l'éducation - art. D721-4 (VD)
+	  - Code de l'éducation - art. L771-1 (M)
+	  - Code de l'éducation - art. L771-2 (V)
+	  - Code de l'éducation - art. L773-1 (M)
+	  - Code de l'éducation - art. L773-3-1 (V)
+	  - Code de l'éducation - art. L774-1 (M)
+	  - Code de l'éducation - art. L774-3-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 70
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L721-1
+
+
+##### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres et les écoles supérieures du professorat et de l'éducation.
+
+###### Article L722-1
+
+Pour l'accomplissement des missions définies à l'article L. 721-2, les biens meubles et immeubles affectés aux écoles
+normales primaires et à leurs écoles annexes sont affectés aux instituts universitaires de formation des maîtres. 
+
+A compter de la date prévue à l'article 83 de la loi n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la
+refondation de l'école de la République, ces biens sont affectés aux écoles supérieures du professorat et de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Loi n°90-587 du 4 juillet 1990 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L721-1 (M)
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 83
+	  - Code de l'éducation - art. L721-2
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 71
 
 	**Cité par**:
 
@@ -25103,32 +25607,35 @@ des dépenses correspondant aux emplois pris en charge au titre de la même ann�
 
 ###### Article L722-16
 
-Le président du conseil général peut, sous sa responsabilité et après avis du conseil d'administration de l'institut
-universitaire de formation des maîtres, utiliser les locaux visés à l'article L. 722-1 pour l'organisation d'activités à
-caractère éducatif, sportif ou culturel, compatibles avec la nature et l'aménagement de ceux-ci et avec les principes
-généraux du service public de l'éducation, pendant les heures ou les périodes au cours desquelles ils ne sont pas utilisés
-pour la mise en oeuvre des missions inscrites à l'article L. 721-1.
+Le président du conseil général peut, sous sa responsabilité et après avis du conseil de l'école supérieure du professorat et
+de l'éducation, utiliser les locaux visés à l'article L. 722-1 pour l'organisation d'activités à caractère éducatif, sportif
+ou culturel, compatibles avec la nature et l'aménagement de ceux-ci et avec les principes généraux du service public de
+l'éducation, pendant les heures ou les périodes au cours desquelles ils ne sont pas utilisés pour la mise en oeuvre des
+missions inscrites à l'article L. 721-2.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°90-587 1990-07-04 art. 16
 	  - Loi n°90-587 du 4 juillet 1990 - art. 16 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 71
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L721-1 (M)
-	  - Code de l'éducation - art. L722-1 (M)
+	  - Code de l'éducation - art. L721-2
+	  - Code de l'éducation - art. L722-1
 
 	**Cité par**:
 
@@ -25138,8 +25645,8 @@ pour la mise en oeuvre des missions inscrites à l'article L. 721-1.
 
 ###### Article L722-17
 
-La collectivité territoriale de Corse prend en charge la gestion des biens meubles et immeubles affectés aux instituts
-universitaires de formation des maîtres. A cet effet, la collectivité territoriale est substituée à l'Etat, pour
+La collectivité territoriale de Corse prend en charge la gestion des biens meubles et immeubles affectés aux écoles
+supérieures du professorat et de l'éducation. A cet effet, la collectivité territoriale est substituée à l'Etat, pour
 l'application des articles L. 722-2 à L. 722-9, à l'exception de toute disposition relative aux personnels. Dans le cas d'une
 convention entre la collectivité territoriale de Corse et le département, en application de l'article L. 722-2, le
 département continue d'exercer les responsabilités qu'il assumait précédemment à l'égard des personnels affectés à
@@ -25149,17 +25656,16 @@ l'entretien et à la gestion des biens mentionnés à l'article L. 722-1.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 71
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L722-1 (M)
-	  - Code de l'éducation L722-2 à L722-9, L722-1
+	  - Code de l'éducation - art. L722-1 (V)
+	  - Code de l'éducation - art. L722-2 (V)
 
 	**Cité par**:
 
@@ -25167,33 +25673,6 @@ l'entretien et à la gestion des biens mentionnés à l'article L. 722-1.
 
 
 ##### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaires
-
-###### Article L723-1
-
-La formation professionnelle initiale et continue des personnels qui concourent à la mission d'adaptation et d'intégration
-scolaires des enfants et adolescents handicapés mentionnés au titre V du livre III est confiée à un établissement public
-national à caractère administratif placé sous la tutelle du ministre chargé de l'enseignement supérieur et du ministre chargé
-de l'éducation.
-
-Cet établissement est administré par un conseil d'administration et dirigé par un directeur nommé par arrêté des ministres
-précités. Le conseil d'administration comprend des représentants de l'Etat, des personnalités qualifiées, des représentants
-des établissements publics d'enseignement supérieur et des collectivités territoriales ainsi que des représentants élus du
-personnel et des usagers. Il est assisté par un conseil scientifique et pédagogique.
-
-Un décret fixe les attributions, les modalités d'organisation et de fonctionnement, et la composition du conseil
-d'administration de cet établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Créé par**:
-
-	  - Loi n°2005-102 du 11 février 2005 - art. 87 () JORF 12 février 2005
-
 
 #### Titre III : Les établissements d'enseignement supérieur privés
 
@@ -28270,11 +28749,15 @@ l'éducation.
 Les enseignants sont responsables de l'ensemble des activités scolaires des élèves. Ils travaillent au sein d'équipes
 pédagogiques ; celles-ci sont constituées des enseignants ayant en charge les mêmes classes ou groupes d'élèves ou exerçant
 dans le même champ disciplinaire et des personnels spécialisés, notamment les psychologues scolaires dans les écoles. Les
-personnels d'éducation y sont associés.
+personnels d'éducation y sont associés. Le travail transversal et pluridisciplinaire ainsi que l'innovation pédagogique sont
+encouragés
 
 Les enseignants apportent une aide au travail personnel des élèves et en assurent le suivi. Ils procèdent à leur évaluation.
 Ils les conseillent dans le choix de leur projet d'orientation en collaboration avec les personnels d'éducation et
-d'orientation. Ils participent aux actions de formation continue des adultes et aux formations par apprentissage.
+d'orientation qui veillent à favoriser la mixité entre les femmes et les hommes dans l'accès aux filières de formation. Ils
+participent aux actions de formation continue des adultes et aux formations par apprentissage.
+
+Les enseignants tiennent informés les parents d'élèves et les aident à suivre la scolarité de leurs enfants.
 
 Ils contribuent à la continuité de l'enseignement sous l'autorité du chef d'établissement en assurant des enseignements
 complémentaires.
@@ -28285,17 +28768,12 @@ Leur formation les prépare à l'ensemble de ces missions.
 
 	**Anciens textes**:
 
-	  - Loi n°89-486 1989-07-10 art. 14
 	  - Loi n°89-486 du 10 juillet 1989 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
-
-	**Modifié par**:
-
-	  - Loi n°2005-380 du 23 avril 2005 - art. 47 () JORF 24 avril 2005
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
 
 	**Cité par**:
 
@@ -28306,6 +28784,10 @@ Leur formation les prépare à l'ensemble de ces missions.
 	  - Code de l'éducation - art. L973-1 (V)
 	  - Code de l'éducation - art. L974-1 (V)
 	  - Code de l'éducation - art. R451-1 (VD)
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 72
 
 
 ###### Article L912-1-1
@@ -28353,9 +28835,11 @@ du même code.
 
 ###### Article L912-1-2
 
-Lorsqu'elle correspond à un projet personnel concourant à l'amélioration des enseignements et approuvé par le recteur, la
-formation continue des enseignants s'accomplit en priorité en dehors des obligations de service d'enseignement et peut donner
-lieu à une indemnisation.
+Chaque enseignant est encouragé à se former régulièrement. Une offre de formation continue adaptée aux besoins des personnels
+d'enseignement est proposée, notamment par le biais des écoles supérieures du professorat et de l'éducation. Lorsqu'elle
+correspond à un projet personnel concourant à l'amélioration des enseignements et approuvé par le recteur, la formation
+continue des enseignants s'accomplit en priorité en dehors des obligations de service d'enseignement et peut donner lieu à
+une indemnisation.
 
 **Liens relatifs à cet article**
 
@@ -28366,7 +28850,7 @@ lieu à une indemnisation.
 
 	**Modifié par**:
 
-	  - Loi n°2011-525 du 17 mai 2011 - art. 146
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 73
 
 	**Cité par**:
 
@@ -28665,6 +29149,81 @@ Les modalités d'application du présent article sont fixées par décret en Con
 	  - Code de l'éducation - art. L914-1 (V)
 	  - Code de la sécurité sociale. - art. L351-4 (V)
 	  - Code de la sécurité sociale. - art. L351-5 (V)
+
+
+###### Article L914-1-2
+
+Il est institué, auprès du ministre chargé de l'éducation nationale, un comité consultatif ministériel compétent à l'égard
+des maîtres des établissements d'enseignement privés des premier et second degrés sous contrat. 
+
+Ce comité est chargé de connaître des questions relatives aux effectifs, aux emplois et compétences ainsi que des questions
+d'ordre statutaire intéressant les maîtres des établissements d'enseignement privés des premier et second degrés sous
+contrat. 
+
+Ce comité comprend des représentants de l'administration et des représentants des maîtres mentionnés au premier alinéa. Seuls
+les représentants des maîtres sont appelés à prendre part aux votes. 
+
+Les représentants des maîtres siégeant dans le comité consultatif ministériel sont élus au scrutin de liste avec
+représentation proportionnelle. L'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des
+fonctionnaires est applicable à cette élection sous réserve que les mots : " organisations syndicales de fonctionnaires " et
+" union de syndicats de fonctionnaires " s'entendent, respectivement, comme : " organisations syndicales des maîtres des
+établissements d'enseignement privés des premier et second degrés sous contrat " et " union de syndicats des maîtres des
+établissements d'enseignement privés des premier et second degrés sous contrat " . 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 9 bis (M)
+
+	**Cité par**:
+
+	  - Décret n°2012-225 du 16 février 2012 - art. 5 (VD)
+	  - Décret n°2014-1176 du 14 octobre 2014 (V)
+	  - Code de l'éducation - art. L914-1-3 (V)
+	  - Code de l'éducation - art. R914-10-11 (V)
+	  - Code de l'éducation - art. R914-10-12 (V)
+	  - Code de l'éducation - art. R914-10-13 (V)
+	  - Code de l'éducation - art. R914-10-24 (V)
+	  - Code de l'éducation - art. R914-12-2 (V)
+	  - Code de l'éducation - art. R914-13-1 (V)
+	  - Code de l'éducation - art. R914-13-12 (V)
+	  - Code de l'éducation - art. R914-13-13 (V)
+	  - Code de l'éducation - art. R914-13-15 (V)
+	  - Code de l'éducation - art. R914-13-21 (V)
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 80
+
+
+###### Article L914-1-3
+
+Les représentants des maîtres des établissements d'enseignement privés des premier et second degrés sous contrat siégeant
+dans les commissions consultatives mixtes académiques ou départementales sont élus au scrutin de liste avec représentation
+proportionnelle. L'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires est
+applicable à ces élections selon les modalités prévues à l'article L. 914-1-2. 
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 9 bis
+	  - Code de l'éducation - art. L914-1-2
+
+	**Créé par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 81
+
+	**Cité par**:
+
+	  - Décret n°2014-1176 du 14 octobre 2014 (V)
+	  - Code de l'éducation - art. L973-1 (V)
+	  - Code de l'éducation - art. L974-1 (V)
 
 
 ###### Article L914-2
@@ -29195,8 +29754,8 @@ antérieures.
 
 Ils doivent posséder une qualification correspondant à celles des maîtres de l'enseignement général de même niveau.
 
-Les uns et les autres, après recrutement, reçoivent une formation soit dans les mêmes établissements, soit dans les instituts
-universitaires de formation des maîtres.
+Les uns et les autres, après recrutement, reçoivent une formation soit dans les mêmes établissements, soit dans une école
+supérieure du professorat et de l'éducation.
 
 Ils sont appelés à accomplir des stages en milieu professionnel.
 
@@ -29208,8 +29767,12 @@ Ils sont appelés à accomplir des stages en milieu professionnel.
 
 	**Codifié par**:
 
-	  - Ordonnance 2000-549 2000-06-15
-	  - Loi n°2003-339 2003-04-14 art. 1 (loi de ratification)
+	  - Rapport au Président de la République relatif à l'ordonnance n°2000-549 du 15 juin 2000
+	  - Loi n°2003-339 du 14 avril 2003
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 74
 
 	**Cité par**:
 
