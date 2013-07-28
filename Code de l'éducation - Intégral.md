@@ -1,5 +1,5 @@
 # Code de l'éducation  
-Version Consolidée au 2013-07-24
+Version Consolidée au 2013-07-29
 
 # Partie législative
 
@@ -19092,8 +19092,6 @@ ministre chargé de l'enseignement supérieur.
 	  - Loi n°2013-660 du 22 juillet 2013 - art. 38
 
 
-##### Section 4 : Stages en entreprise
-
 ##### Section 4 : Stages en milieu professionnel
 
 ###### Article L612-8
@@ -23655,8 +23653,6 @@ enseignants ou les chercheurs qui participent à l'enseignement, en fonction dan
 	  - Code de l'éducation - art. R632-25 (V)
 
 
-##### Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie et odontologie.
-
 ##### Section 2 : Dispositions propres aux unités de formation et de recherche de médecine, pharmacie, odontologie et maïeutique
 
 ###### Article L713-4
@@ -26959,8 +26955,6 @@ d'administration de cet établissement.
 
 
 #### Titre III : Les établissements d'enseignement supérieur privés
-
-##### Chapitre unique.
 
 ##### Chapitre Ier : Ouverture des établissements d'enseignement supérieur privés.
 
@@ -41344,188 +41338,6 @@ position, il leur en fait connaître par écrit les raisons.
 
 ### Titre III : Les organismes collégiaux nationaux et locaux.
 
-#### Chapitre préliminaire : Le Haut Conseil de l'éducation
-
-###### Article D230-1
-
-Les membres du Haut Conseil de l'éducation sont désignés conformément aux dispositions de l'article L. 230-1.
-
-En cas de décès ou de démission d'un membre, il est pourvu dans les mêmes conditions à son remplacement pour la durée du
-mandat restant à courir.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L230-1
-
-
-###### Article D230-2
-
-Le Haut Conseil de l'éducation se réunit sur convocation de son président, à son initiative ou à la demande de la majorité de
-ses membres ou à la demande du ministre chargé de l'éducation nationale.
-
-Les avis et propositions du haut conseil mentionnés à l'article L. 230-2, ainsi que le bilan qu'il est chargé d'établir
-annuellement, sont approuvés à la majorité simple.
-
-Les séances du haut conseil ne sont pas publiques.
-
-Les avis et propositions ainsi que le bilan annuel sont rendus publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L230-2
-
-
-###### Article D230-3
-
-Le Haut Conseil de l'éducation peut entendre toute personne sur les questions qui relèvent de sa compétence. Il dispose de
-crédits d'études.
-
-Les frais occasionnés par les déplacements et les séjours des membres du haut conseil et des personnes qu'il appelle en
-consultation sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-
-###### Article D230-4
-
-Outre les questions dont il est saisi au titre de l'article L. 230-2, le Haut Conseil de l'éducation donne un avis sur la
-définition du socle commun de connaissances et de compétences ainsi que sur le cahier des charges de la formation dispensée
-dans les instituts universitaires de formation des maîtres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L230-2
-
-
-###### Article D230-5
-
-Le Haut Conseil de l'éducation dresse, chaque année, un bilan des résultats obtenus par le système éducatif, ainsi que des
-expérimentations menées en application de l'article L. 401-1. Le président du haut conseil présente ce bilan annuel au
-Conseil supérieur de l'éducation.
-
-A cette fin, le Haut Conseil de l'éducation est assisté d'un comité consultatif composé de personnalités qualifiées choisies
-parmi des représentants des organisations syndicales, professionnelles, de parents d'élèves, d'élèves, des associations et
-toutes autres personnes ayant une activité dans les domaines qui sont de sa compétence.
-
-Le président du Haut Conseil de l'éducation réunit le comité consultatif et le préside.
-
-La composition du comité consultatif est précisée par arrêté du ministre chargé de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-	**Cite**:
-
-	  - Code de l'éducation - art. L401-1
-
-
-###### Article D230-6
-
-Un secrétaire général, nommé par le ministre chargé de l'éducation nationale, assure, conformément aux directives du
-président, l'organisation des travaux du haut conseil et la coordination des travaux des experts mis à disposition du haut
-conseil par le ministre chargé de l'éducation nationale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 2004-07-13 JORF 24 février 2004
-
-	**Créé par**:
-
-	  - Décret n°2005-999 du 22 août 2005 - art. 1 () JORF 23 août 2005
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-
-###### Article D230-7
-
-Le président du Haut Conseil de l'éducation est ordonnateur principal des recettes et des dépenses du Haut Conseil de
-l'éducation. Il peut donner délégation de signature au secrétaire général du Haut Conseil pour signer tous les actes relatifs
-à sa fonction d'ordonnateur principal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2004-703 du 13 juillet 2004
-
-	**Créé par**:
-
-	  - Décret n°2006-89 du 24 janvier 2006 - art. 1 () JORF 31 janvier 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-681 du 24 juillet 2013 - art. 2
-
-
 #### Chapitre Ier : Le Conseil supérieur de l'éducation
 
 ##### Section 1 : Le Conseil supérieur de l'éducation délibérant en matière consultative.
@@ -42564,6 +42376,147 @@ nationale sous forme anonyme.
 	**Abrogé par**:
 
 	  - Décret n°2015-856 du 13 juillet 2015 - art. 1
+
+
+#### Chapitre Ier bis : Le Conseil supérieur des programmes
+
+###### Article D231-34
+
+Les membres du Conseil supérieur des programmes sont désignés conformément aux dispositions de l'article L. 231-14. 
+
+Chacune des instances et autorités chargées de la désignation des membres du conseil respecte, pour ce qui la concerne, la
+parité entre les femmes et les hommes. 
+
+Pour la première désignation des députés et des sénateurs, sauf en cas d'accord entre les commissions permanentes compétentes
+de l'Assemblée nationale et du Sénat permettant la nomination de trois femmes et trois hommes, la commission permanente
+compétente de l'Assemblée nationale désigne deux femmes et un homme et la commission permanente compétente du Sénat désigne
+une femme et deux hommes. A défaut d'accord entre les deux commissions permanentes compétentes, la répartition entre les
+femmes et les hommes est inversée lors de chaque renouvellement des membres du Conseil supérieur des programmes. 
+
+Le président et un vice-président sont désignés par le ministre chargé de l'éducation nationale parmi les membres du Conseil
+supérieur des programmes. Le vice-président est notamment chargé de suppléer le président en cas d'absence ou d'empêchement
+de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L231-14
+
+
+###### Article D231-35
+
+Le Conseil supérieur des programmes est saisi par le ministre chargé de l'éducation nationale. Il peut également se saisir de
+toute question relevant de ses attributions définies par l'article L. 231-15. 
+
+Le Conseil supérieur des programmes peut faire appel au concours du Conseil national de l'évaluation du système scolaire et
+des établissements publics placés sous la tutelle du ministère de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L231-15
+
+
+###### Article D231-36
+
+Pour l'exercice des missions qui lui sont confiées, le Conseil supérieur des programmes peut mettre en place des groupes
+d'experts dont il choisit les membres à raison de leurs compétences.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-37
+
+Le Conseil supérieur des programmes se réunit sur convocation de son président soit à l'initiative de celui-ci, soit à la
+demande de la majorité de ses membres, soit à la demande du ministre chargé de l'éducation nationale. 
+
+Lorsque le Conseil supérieur des programmes est appelé à rendre un avis, chacun de ses membres peut demander que soient
+joints à cet avis la mention et les motifs d'une position divergente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-38
+
+Les séances du Conseil supérieur des programmes ne sont pas publiques. 
+
+Les propositions et avis du Conseil supérieur des programmes sont rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-39
+
+Le Conseil supérieur des programmes établit un règlement intérieur fixant les règles de son fonctionnement ainsi que les
+obligations auxquelles ses membres sont assujettis. Il rédige une charte des programmes qui précise la procédure
+d'élaboration des programmes, notamment les modalités de consultation des enseignants et des usagers.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-40
+
+Le président du Conseil supérieur des programmes établit, chaque semestre, un calendrier prévisionnel de ses travaux, tenant
+compte des échéances fixées par le ministre chargé de l'éducation nationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-41
+
+Le ministre chargé de l'éducation nationale met à la disposition du Conseil supérieur des programmes les moyens nécessaires à
+l'accomplissement de ses missions. 
+
+Sous l'autorité du président, un secrétaire général, nommé par le ministre chargé de l'éducation nationale, assure
+l'organisation et la coordination des travaux du conseil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
+
+
+###### Article D231-42
+
+Les frais occasionnés par les déplacements et les séjours des membres du conseil et des personnes qu'il appelle en
+consultation sont remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-681 du 24 juillet 2013 - art. 1
 
 
 #### Chapitre II : Le Conseil national de l'enseignement supérieur et de la recherche
